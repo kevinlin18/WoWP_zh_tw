@@ -40,7 +40,7 @@ msgid "AFTERBATTLE_STATISTICS_BUTTON_DETAILED"
 msgstr "詳細資訊"
 
 msgid "AFTERBATTLE_STATISTICS_BUTTON_REPLAY"
-msgstr "錄影"
+msgstr "錄像"
 
 msgid "AFTERBATTLE_STATISTICS_BUTTON_WATCH"
 msgstr "開始"
@@ -136,7 +136,7 @@ msgid "AFTERBATTLE_STATISTICS_LABEL_AUTOREEQUIP"
 msgstr "自動補充消耗品"
 
 msgid "AFTERBATTLE_STATISTICS_LABEL_AUTOREEQUIP_SHORT"
-msgstr "補充補給"
+msgstr "補充消耗品"
 
 msgid "AFTERBATTLE_STATISTICS_LABEL_AUTOREFILL"
 msgstr "自動補充彈藥"
@@ -187,7 +187,7 @@ msgid "AFTERBATTLE_STATISTICS_LABEL_COMPENSATION_FROM_ALLIES"
 msgstr "因被隊友傷害補償"
 
 msgid "AFTERBATTLE_STATISTICS_LABEL_CONSUMABLES_AND_EQUIPMENT"
-msgstr "消耗品和裝置"
+msgstr "消耗品和設備"
 
 msgid "AFTERBATTLE_STATISTICS_LABEL_CREDITS"
 msgstr "銀幣"
@@ -280,7 +280,7 @@ msgid "AFTERBATTLE_STATISTICS_LABEL_DESTROYED_PERSONALY"
 msgstr "獨立擊殺"
 
 msgid "AFTERBATTLE_STATISTICS_LABEL_DETAILED_INFO_UNAVAILABLE"
-msgstr "無法檢視詳細資訊"
+msgstr "無法查看詳細資訊"
 
 msgid "AFTERBATTLE_STATISTICS_LABEL_DETECTED"
 msgstr "發現"
@@ -563,7 +563,7 @@ msgstr "敵方擊落飛碟!"
 
 msgid "AFTERBATTLE_STATISTICS_NO_STATS_FOR_PVE_MODE"
 msgstr ""
-"人機對戰資料將不計入戰鬥統計<br>完成相關任務可解鎖其它遊戲模式<br>並顯示更為"
+"人機對戰數據將不計入戰鬥統計<br>完成相關任務可解鎖其它遊戲模式<br>並顯示更為"
 "詳細的戰鬥統計"
 
 msgid "AFTERBATTLE_STATISTICS_PREMIUM_BONUS_VALUE"
@@ -665,14 +665,98 @@ msgstr "團隊戰績"
 msgid "BATTLERESULT_VEHICLE"
 msgstr "戰機狀態"
 
+msgid "BATTLE_RESULTS_RECEIVED_AFTER_BATTLE"
+msgstr "戰鬥收益"
+
+msgid "BATTLE_RESULT_ALL_PLANES_EXP"
+msgstr "所有戰機經驗"
+
+msgid "BATTLE_RESULT_ASSISTS"
+msgstr "Assist points"
+
 msgid "BATTLE_RESULT_AVAILABLE_FIRST_SKILL_POINT"
 msgstr "提供第一個技能點"
 
 msgid "BATTLE_RESULT_AVAILABLE_NEW_SKILL_POINT"
 msgstr "提供新的技能點"
 
+msgid "BATTLE_RESULT_BATTLE_POINTS"
+msgstr "Combat points"
+
+msgid "BATTLE_RESULT_CAP_POINTS_IN_ATT"
+msgstr "Capture points earned in attack"
+
+msgid "BATTLE_RESULT_CAP_POINTS_IN_DEF"
+msgstr "Capture points earned in defense"
+
+msgid "BATTLE_RESULT_CAP_POINT_RECEIVED"
+msgstr "Capture points received"
+
+msgid "BATTLE_RESULT_CREDITS"
+msgstr "銀幣"
+
+msgid "BATTLE_RESULT_DAMAGE_DEALT_TO_OBJECT"
+msgstr "對地面目標造成傷害"
+
+msgid "BATTLE_RESULT_DAMAGE_DEALT_TO_PLANES"
+msgstr "對空中目標造成傷害"
+
+msgid "BATTLE_RESULT_DEATH"
+msgstr "玩家被摧毀的時間"
+
 msgid "BATTLE_RESULT_EARN_EXP_FOR_SKILL_POINT"
 msgstr "{member_name}正在積累經驗，獲得另一個技能點"
+
+msgid "BATTLE_RESULT_EXP"
+msgstr "經驗"
+
+msgid "BATTLE_RESULT_GENERAL_EFFICIENCY"
+msgstr "General 表現"
+
+msgid "BATTLE_RESULT_GENERAL_STATS_FOR_ALL_PLANES_IN_BATTLE"
+msgstr "所有參與戰鬥的<br>戰報"
+
+msgid "BATTLE_RESULT_GUNNER_EXP"
+msgstr "Gunner 經驗:"
+
+msgid "BATTLE_RESULT_HEADER_GENERAL"
+msgstr "總結"
+
+msgid "BATTLE_RESULT_HEADER_PLAYERS"
+msgstr "玩家"
+
+msgid "BATTLE_RESULT_JA_TR_STAT_TEXT_1"
+msgstr "贏得了獎勵箱!"
+
+msgid "BATTLE_RESULT_JA_TR_STAT_TEXT_2"
+msgstr "距離下一個獎勵箱:"
+
+msgid "BATTLE_RESULT_MASTERY_POINTS"
+msgstr "征服據點"
+
+msgid "BATTLE_RESULT_OBJECTS_DESTROYED"
+msgstr "地面目標被摧毀"
+
+msgid "BATTLE_RESULT_PARTS_DESTROYED"
+msgstr "部分的地面目標被摧毀"
+
+msgid "BATTLE_RESULT_PILOT_EXP"
+msgstr "戰機經驗:"
+
+msgid "BATTLE_RESULT_PLANES_DESTROYED"
+msgstr "空中目標被摧毀"
+
+msgid "BATTLE_RESULT_PLANES_DESTROYED_1"
+msgstr "空中目標被摧毀"
+
+msgid "BATTLE_RESULT_PLANES_DESTROYED_IN_DEFENCE"
+msgstr "防守時被摧毀"
+
+msgid "BATTLE_RESULT_PLANE_EXP"
+msgstr "戰機經驗:"
+
+msgid "BATTLE_RESULT_PREMIUM_AIRCRAFT_BONUS"
+msgstr "加值戰機: +20% 乘員經驗"
 
 msgid "BATTLE_RESULT_PROGRESS_BAR_FULL_UP_SPECIALITY"
 msgstr "{member_name}的能力訓練100%"
@@ -686,8 +770,20 @@ msgstr "{member_name}獲得第一個技能點！"
 msgid "BATTLE_RESULT_RECEIVED_NEXT_SKILL_POINT"
 msgstr "{member_name}已經獲得了新的技能點！"
 
+msgid "BATTLE_RESULT_REWARD_FOR_BATTLE_QUESTS"
+msgstr "任務獎勵:"
+
+msgid "BATTLE_RESULT_SECTORS_CAPTURED"
+msgstr "Sectors captured"
+
 msgid "BATTLE_RESULT_TEXT"
 msgstr "戰績："
+
+msgid "BATTLE_RESULT_TIME_IN_BATTLE"
+msgstr "戰鬥花費的時間"
+
+msgid "BATTLE_RESULT_YOUR_PLACE_IN_TEAM_SCORE"
+msgstr "在戰鬥隊伍的排名"
 
 msgid "HIT_TABLE_TEXT"
 msgstr "擊傷："
@@ -721,99 +817,3 @@ msgstr "摧毀目標："
 
 msgid "TEAMTURRENT"
 msgstr "摧毀防空砲："
-
-msgid "BATTLE_RESULTS_RECEIVED_AFTER_BATTLE"
-msgstr "Earned in battle"
-
-msgid "BATTLE_RESULT_ALL_PLANES_EXP"
-msgstr "All aircraft XP"
-
-msgid "BATTLE_RESULT_ASSISTS"
-msgstr "Assist points"
-
-msgid "BATTLE_RESULT_BATTLE_POINTS"
-msgstr "Combat points"
-
-msgid "BATTLE_RESULT_CAP_POINTS_IN_ATT"
-msgstr "Capture points earned in attack"
-
-msgid "BATTLE_RESULT_CAP_POINTS_IN_DEF"
-msgstr "Capture points earned in defense"
-
-msgid "BATTLE_RESULT_CAP_POINT_RECEIVED"
-msgstr "Capture points received"
-
-msgid "BATTLE_RESULT_CREDITS"
-msgstr "Credits"
-
-msgid "BATTLE_RESULT_DAMAGE_DEALT_TO_OBJECT"
-msgstr "Damage to ground targets"
-
-msgid "BATTLE_RESULT_DAMAGE_DEALT_TO_PLANES"
-msgstr "Damage to aerial targets"
-
-msgid "BATTLE_RESULT_DEATH"
-msgstr "Times player was destroyed"
-
-msgid "BATTLE_RESULT_EXP"
-msgstr "XP"
-
-msgid "BATTLE_RESULT_GENERAL_EFFICIENCY"
-msgstr "General Performance"
-
-msgid "BATTLE_RESULT_GENERAL_STATS_FOR_ALL_PLANES_IN_BATTLE"
-msgstr "Report on all aircraft that<br>participated in the battle"
-
-msgid "BATTLE_RESULT_GUNNER_EXP"
-msgstr "Gunner experience:"
-
-msgid "BATTLE_RESULT_HEADER_GENERAL"
-msgstr "Summary"
-
-msgid "BATTLE_RESULT_HEADER_PLAYERS"
-msgstr "Players"
-
-msgid "BATTLE_RESULT_JA_TR_STAT_TEXT_1"
-msgstr "Loot crate earned!"
-
-msgid "BATTLE_RESULT_JA_TR_STAT_TEXT_2"
-msgstr "Points to next loot crate:"
-
-msgid "BATTLE_RESULT_MASTERY_POINTS"
-msgstr "Mastery points"
-
-msgid "BATTLE_RESULT_OBJECTS_DESTROYED"
-msgstr "Ground targets destroyed"
-
-msgid "BATTLE_RESULT_PARTS_DESTROYED"
-msgstr "Sections of ground targets destroyed"
-
-msgid "BATTLE_RESULT_PILOT_EXP"
-msgstr "Pilot experience:"
-
-msgid "BATTLE_RESULT_PLANES_DESTROYED"
-msgstr "Aerial targets destroyed"
-
-msgid "BATTLE_RESULT_PLANES_DESTROYED_1"
-msgstr "Aerial targets destroyed"
-
-msgid "BATTLE_RESULT_PLANES_DESTROYED_IN_DEFENCE"
-msgstr "Destroyed when defending"
-
-msgid "BATTLE_RESULT_PLANE_EXP"
-msgstr "Aircraft experience:"
-
-msgid "BATTLE_RESULT_PREMIUM_AIRCRAFT_BONUS"
-msgstr "Premium aircraft: +20% to crew experience"
-
-msgid "BATTLE_RESULT_REWARD_FOR_BATTLE_QUESTS"
-msgstr "Mission award:"
-
-msgid "BATTLE_RESULT_SECTORS_CAPTURED"
-msgstr "Sectors captured"
-
-msgid "BATTLE_RESULT_TIME_IN_BATTLE"
-msgstr "Time spent in battle"
-
-msgid "BATTLE_RESULT_YOUR_PLACE_IN_TEAM_SCORE"
-msgstr "Rank in combat group"
