@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EULA>
+	<paragraph>
+		<text>Please read the&nbsp;</text>
+		<link>
+		<text>End User License Agreement</text>
+		<url>http://legal.na.wargaming.net/?EULA</url>
+		</link>
+		<text>.</text>
+			</paragraph>
+	<br></br>
+	<paragraph>
+		<text>BY CLICKING "CONTINUE", YOU ACKNOWLEDGE THAT YOU HAVE READ, UNDERSTOOD, AND AGREE TO BE BOUND BY, AND COMPLY WITH, THE TERMS OF THE END USER LICENSE AGREEMENT, AND BE LIABLE FOR ANY VIOLATION THEREOF. EULA AND ANY AMENDMENTS THERETO ARE MATERIAL TO AND BINDING UPON ALL PROJECT MEMBERS.</text>
+	</paragraph>
+</EULA>

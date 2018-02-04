@@ -1,0 +1,3448 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: World Of Tanks\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-06-01 10:00+0300\n"
+"Last-Translator: i_maliavko <i_maliavko@wargaming.net>\n"
+"Language-Team: WoT Team <noreply@wargaming.net>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "ADVANCED_CONTROLS"
+msgstr "更多設定"
+
+msgid "AIRCRAFT_QUALITY_HIGH"
+msgstr "高效能"
+
+msgid "AIRCRAFT_QUALITY_LOW"
+msgstr "低效能"
+
+msgid "ANISOTROPIC_16X"
+msgstr "各向異性 16x"
+
+msgid "ANISOTROPIC_2X"
+msgstr "各向異性 2x"
+
+msgid "ANISOTROPIC_4X"
+msgstr "各向異性 4x"
+
+msgid "ANISOTROPIC_8X"
+msgstr "各向異性 8x"
+
+msgid "ARCADE_CONTROL_TOGGLE"
+msgstr "啟用滑動補償"
+
+msgid "ARCADE_CONTROL_TOGGLE_CHECKBOX"
+msgstr "* 滑動補償:"
+
+msgid "BATTLEUI/HORIZON_LOCATION_V1"
+msgstr "中心"
+
+msgid "BATTLEUI/HORIZON_LOCATION_V2"
+msgstr "正下方"
+
+msgid "BATTLEUI/HORIZON_V1"
+msgstr "備選方案1"
+
+msgid "BATTLEUI/HORIZON_V2"
+msgstr "備選方案2"
+
+msgid "BATTLEUI/HORIZON_V3"
+msgstr "備選方案3"
+
+msgid "BATTLEUI/HORIZON_V4"
+msgstr "備選方案4"
+
+msgid "BATTLEUI/HORIZON_V5"
+msgstr "備選方案5"
+
+msgid "BATTLEUI/HORIZON_V6"
+msgstr "備選方案6"
+
+msgid "BATTLEUI/MAINDEVICESLOCATIONLIST_V1"
+msgstr "中心"
+
+msgid "BATTLEUI/MAINDEVICESLOCATIONLIST_V2"
+msgstr "底部中心"
+
+msgid "BATTLEUI/NAV_WINDOW_MAP"
+msgstr "小地圖"
+
+msgid "BATTLEUI/NAV_WINDOW_RADAR"
+msgstr "雷達"
+
+msgid "BATTLEUI/PLAYER_LIST_BRIEF"
+msgstr "簡要"
+
+msgid "BATTLEUI/PLAYER_LIST_FULL"
+msgstr "全部"
+
+msgid "BATTLEUI/SCHEMA_HEIGHT_V1"
+msgstr "絕對高度"
+
+msgid "BATTLEUI/SCHEMA_HEIGHT_V2"
+msgstr "相對高度"
+
+msgid "BATTLEUI/SCHEMA_INPUT_DAMAGE_V1"
+msgstr "中心"
+
+msgid "BATTLEUI/SCHEMA_INPUT_DAMAGE_V2"
+msgstr "周長"
+
+msgid "BATTLEUI/SCHEMA_LOCATION_V1"
+msgstr "左下角"
+
+msgid "BATTLEUI/SCHEMA_LOCATION_V2"
+msgstr "正下方"
+
+msgid "BATTLEUI/SETTINGS_BATTLE_HEIGHT_MODE"
+msgstr "測高類型"
+
+msgid "BATTLEUI/SETTINGS_BATTLE_INCOMING_DAMAGE"
+msgstr "傷害值"
+
+msgid "BATTLEUI/SETTINGS_BATTLE_POSITION"
+msgstr "位置"
+
+msgid "BATTLEUI/TARGET_WINDOW_V1"
+msgstr "鎖定目標視窗"
+
+msgid "BATTLEUI/TARGET_WINDOW_V2"
+msgstr "後視鏡"
+
+msgid "BATTLE_SETTINGS"
+msgstr "戰鬥"
+
+msgid "BILINEAR"
+msgstr "雙線性"
+
+msgid "CAMERA_SETTINGS_FIXED_HORIZON"
+msgstr "鎖定地平面"
+
+msgid "CAMERA_SETTINGS_HEADER"
+msgstr "視角設定"
+
+msgid "CANCEL"
+msgstr "關閉"
+
+msgid "CANCEL_SETTINGS_BUTTON"
+msgstr "取消"
+
+msgid "CMD_DEC_MOUSE_TO_CENTER"
+msgstr "將遊標移到中心"
+
+msgid "CMD_SINGLE_SNIPER"
+msgstr "遠距視角"
+
+msgid "CMD_SINGLE_SNIPER_CAMERA"
+msgstr "遠距視角"
+
+msgid "CONTROLS_SETTINGS"
+msgstr "控制"
+
+msgid "CONTROLS_TEXT"
+msgstr "控制"
+
+msgid "CONTROL_PRESET"
+msgstr "控制方式"
+
+msgid "CONTROL_PROFILE_ANGLE"
+msgstr "滾動"
+
+msgid "CONTROL_PROFILE_CAMERA_HORIZON_FIXED"
+msgstr "螢幕中心"
+
+msgid "CONTROL_PROFILE_CAMERA_PLANE_FIXED"
+msgstr "在戰機上"
+
+msgid "CONTROL_PROFILE_CAMERA_TYPE"
+msgstr "鎖定視角:"
+
+msgid "CONTROL_PROFILE_DEFAULT"
+msgstr "戰車模式"
+
+msgid "CONTROL_PROFILE_FREE"
+msgstr "自由視角模式"
+
+msgid "CONTROL_PROFILE_GAMEPAD"
+msgstr "手柄"
+
+msgid "CONTROL_PROFILE_GAMEPAD_CAPS"
+msgstr "手柄"
+
+msgid "CONTROL_PROFILE_GAMEPAD_DIRECT_CONTROL"
+msgstr "手柄"
+
+msgid "CONTROL_PROFILE_GAMEPAD_DIRECT_CONTROL_CAPS"
+msgstr "手柄"
+
+msgid "CONTROL_PROFILE_GAMEPAD_GRAPH_DESCRIPTION"
+msgstr " "
+
+msgid "CONTROL_PROFILE_GAMEPAD_NAME"
+msgstr "手柄控制預設 \"%gamepad_name%\""
+
+msgid "CONTROL_PROFILE_JOYSTICK"
+msgstr "搖桿"
+
+msgid "CONTROL_PROFILE_JOYSTICK_CAPS"
+msgstr "搖桿"
+
+msgid "CONTROL_PROFILE_JOYSTICK_NAME"
+msgstr "搖桿控制預設 \"%joystick_name%\""
+
+msgid "CONTROL_PROFILE_KEYBOARD"
+msgstr "鍵盤"
+
+msgid "CONTROL_PROFILE_KEYBOARD_CAPS"
+msgstr "鍵盤"
+
+msgid "CONTROL_PROFILE_MOUSE-0.2.3"
+msgstr "滑鼠"
+
+msgid "CONTROL_PROFILE_MOUSE-0.2.4"
+msgstr "滑鼠0.2.4"
+
+msgid "CONTROL_PROFILE_MOUSE-0.5.1"
+msgstr "滑鼠0.5.1"
+
+msgid "CONTROL_PROFILE_MOUSE-0.5.1_CAPS"
+msgstr "滑鼠0.5.1"
+
+msgid "CONTROL_PROFILE_MOUSE035"
+msgstr "滑鼠0.3.5"
+
+msgid "CONTROL_PROFILE_MOUSE035_CAPS"
+msgstr "滑鼠0.3.5"
+
+msgid "CONTROL_PROFILE_MOUSEJOY"
+msgstr "滑鼠搖桿"
+
+msgid "CONTROL_PROFILE_MOUSESHOOTER"
+msgstr "射擊滑鼠"
+
+msgid "CONTROL_PROFILE_MOUSE_ADVANCED"
+msgstr "滑鼠：高階"
+
+msgid "CONTROL_PROFILE_MOUSE_CASUAL"
+msgstr "滑鼠：新手"
+
+msgid "CONTROL_PROFILE_MOUSE_DIRECTIONAL"
+msgstr "滑鼠"
+
+msgid "CONTROL_PROFILE_MOUSE_DIRECTIONAL_CAPS"
+msgstr "滑鼠"
+
+msgid "CONTROL_PROFILE_MOUSE_DIRECT_CONTROL"
+msgstr "滑鼠牽引線"
+
+msgid "CONTROL_PROFILE_MOUSE_DIRECT_CONTROL_CAPS"
+msgstr "滑鼠牽引線"
+
+msgid "CONTROL_PROFILE_MOUSE_EXPERT"
+msgstr "滑鼠：專家"
+
+msgid "CONTROL_PROFILE_MOUSE_SIMPLE"
+msgstr "滑鼠：新手"
+
+msgid "CONTROL_PROFILE_MOUSE_SIMPLE_CAPS"
+msgstr "滑鼠：新手"
+
+msgid "CONTROL_PROFILE_MOUSE_TYPE"
+msgstr "滑鼠預設："
+
+msgid "CONTROL_PROFILE_MOUSE_TYPE_DESCRIPTION"
+msgstr ""
+"使用影象配置需移動滑鼠使飛機翻滾並按照要求持續進行翻滾。<br>• 使用縱軸調整翻"
+"轉姿勢。如果控制點在網格的頂部，飛機將進行翻滾或停止翻滾。如果處於底部，飛機"
+"將繼續沿指定方向翻轉。<br>• 橫軸表示游標與飛機飛行方向之間的角度。網格左側對"
+"應於較小的滑鼠操作，右側對應較大的操作。"
+
+msgid "CUSTOM"
+msgstr "自定義"
+
+msgid "DEFAULT"
+msgstr "標準"
+
+msgid "DEFAULT_KEYS_BUTTON"
+msgstr "預設"
+
+msgid "FAR"
+msgstr "遠"
+
+msgid "FULLRES"
+msgstr "高"
+
+msgid "FULL_SCREEN_TOGGLE"
+msgstr "全屏模式"
+
+msgid "GAMEPAD"
+msgstr "手柄"
+
+msgid "GAMEPAD_AXIS_SETTINGS"
+msgstr "調整手柄曲線"
+
+msgid "GAMEPAD_SETTINGS_HEADER"
+msgstr "高階手柄設定"
+
+msgid "GAME_SETTINGS"
+msgstr "遊戲"
+
+msgid "GRAPHIC_SETTINGS_PRESET"
+msgstr "影象"
+
+msgid "HALFRES"
+msgstr "低"
+
+msgid "HIGH"
+msgstr "高"
+
+msgid "INVALIDTECHNIQUE"
+msgstr "移除飛機"
+
+msgid "JOYSTICK"
+msgstr "搖桿"
+
+msgid "JOYSTICKAND_KEYBOARD_SETTINGS_HEADER"
+msgstr "搖桿和鍵盤設定"
+
+msgid "JOYSTICK_AXIS_SETTINGS"
+msgstr "調整搖桿曲線"
+
+msgid "JOYSTICK_SETTINGS_AXIS_SETTING"
+msgstr "軸設定"
+
+msgid "JOYSTICK_SETTINGS_AXIS_SIGNAL_INDICATOR"
+msgstr "軸訊號指示器"
+
+msgid "JOYSTICK_SETTINGS_BOOST"
+msgstr "加力"
+
+msgid "JOYSTICK_SETTINGS_CURRENT_AXIS"
+msgstr "當前軸："
+
+msgid "JOYSTICK_SETTINGS_CURVE_SETTINGS_HEADER"
+msgstr "調整搖桿"
+
+msgid "JOYSTICK_SETTINGS_CURVE_SETTINGS_PATTERN_EXPONENTIAL"
+msgstr "指數"
+
+msgid "JOYSTICK_SETTINGS_CURVE_SETTINGS_PATTERN_HEADER"
+msgstr "搖桿曲線預設:"
+
+msgid "JOYSTICK_SETTINGS_CURVE_SETTINGS_PATTERN_LINEAR"
+msgstr "線性"
+
+msgid "JOYSTICK_SETTINGS_CURVE_SETTINGS_PATTERN_PERSONAL"
+msgstr "自定義"
+
+msgid "JOYSTICK_SETTINGS_CURVE_SETTINGS_PATTERN_PERSONAL_EXT"
+msgstr "自定義高階設定"
+
+msgid "JOYSTICK_SETTINGS_DEAD_ZONE"
+msgstr "死區："
+
+msgid "JOYSTICK_SETTINGS_GRAPH_INPUT_SIGNAL"
+msgstr "輸入訊號 (搖桿位置)"
+
+msgid "JOYSTICK_SETTINGS_HEADER"
+msgstr "高階搖桿設定"
+
+msgid "JOYSTICK_SETTINGS_INVERT_AXIS"
+msgstr "反轉軸"
+
+msgid "JOYSTICK_SETTINGS_JOY_POSITION"
+msgstr "搖桿定位"
+
+msgid "JOYSTICK_SETTINGS_PITCH"
+msgstr "俯仰"
+
+msgid "JOYSTICK_SETTINGS_PITCH_AXIS_HEADER"
+msgstr "俯仰軸"
+
+msgid "JOYSTICK_SETTINGS_PITCH_SPEED"
+msgstr "俯仰率"
+
+msgid "JOYSTICK_SETTINGS_RESET_BUTTON"
+msgstr "重置"
+
+msgid "JOYSTICK_SETTINGS_ROLL"
+msgstr "翻滾"
+
+msgid "JOYSTICK_SETTINGS_ROLL_AXIS_HEADER"
+msgstr "滾動軸"
+
+msgid "JOYSTICK_SETTINGS_ROLL_SPEED"
+msgstr "滾轉率"
+
+msgid "JOYSTICK_SETTINGS_SENSITIVITY"
+msgstr "靈敏度："
+
+msgid "JOYSTICK_SETTINGS_SET_AXIS_FOR_FORCE"
+msgstr "設定推力曲線:"
+
+msgid "JOYSTICK_SETTINGS_SET_AXIS_FOR_PITCH"
+msgstr "設定俯仰曲線:"
+
+msgid "JOYSTICK_SETTINGS_SET_AXIS_FOR_ROLL"
+msgstr "設定翻滾曲線:"
+
+msgid "JOYSTICK_SETTINGS_SET_AXIS_FOR_YAW"
+msgstr "設定轉向曲線:"
+
+msgid "JOYSTICK_SETTINGS_SIGNAL_BEFORE_AFTER"
+msgstr "搖桿輸入和輸出訊號"
+
+msgid "JOYSTICK_SETTINGS_SMOOTH_CURVES"
+msgstr "平滑曲線"
+
+msgid "JOYSTICK_SETTINGS_THRUST"
+msgstr "推力"
+
+msgid "JOYSTICK_SETTINGS_THRUST_AND_BOOST"
+msgstr "推力和加力"
+
+msgid "JOYSTICK_SETTINGS_YAW"
+msgstr "轉向"
+
+msgid "JOYSTICK_SETTINGS_YAW_AXIS_HEADER"
+msgstr "偏轉軸"
+
+msgid "JOYSTICK_SETTINGS_YAW_SPEED"
+msgstr "偏航率"
+
+msgid "KEYBOARD"
+msgstr "鍵盤"
+
+msgid "KEYBOARD_SENSITIVITY_TEXT"
+msgstr "靈敏度"
+
+msgid "KEYBOARD_SETTINGS_TEXT"
+msgstr "鍵盤設定"
+
+msgid "KEYBOARD_Y_INVERSION_TOGGLE"
+msgstr "垂直反轉"
+
+msgid "KEYMAPPING/CMD_ARCADE_TURN_LEFT"
+msgstr "左轉"
+
+msgid "KEYMAPPING/CMD_ARCADE_TURN_RIGHT"
+msgstr "右轉"
+
+msgid "KEYMAPPING/CMD_AUTOPILOT"
+msgstr "水平飛行"
+
+msgid "KEYMAPPING/CMD_BACK_VIEW"
+msgstr "視角向後"
+
+msgid "KEYMAPPING/CMD_BATTLE_MODE"
+msgstr "掃射模式"
+
+msgid "KEYMAPPING/CMD_BOMBING_SIGHT"
+msgstr "投彈模式"
+
+msgid "KEYMAPPING/CMD_CHAT_OFF"
+msgstr "禁用聊天"
+
+msgid "KEYMAPPING/CMD_CURSOR_CAMERA"
+msgstr "自由視角"
+
+msgid "KEYMAPPING/CMD_DECREASE_FORCE"
+msgstr "關閉引擎和開啟襟翼"
+
+msgid "KEYMAPPING/CMD_DEC_MOUSE_TO_CENTER"
+msgstr "將遊標移到中心"
+
+msgid "KEYMAPPING/CMD_DEC_TARGET_FORCE"
+msgstr "減少油門"
+
+msgid "KEYMAPPING/CMD_ENGINE_OFF"
+msgstr "停車"
+
+msgid "KEYMAPPING/CMD_EXTRA_INPUT_MODE"
+msgstr "更改設定"
+
+msgid "KEYMAPPING/CMD_F2_CHAT_COMMAND"
+msgstr "攻擊敵機！"
+
+msgid "KEYMAPPING/CMD_F3_CHAT_COMMAND"
+msgstr "防守基地!"
+
+msgid "KEYMAPPING/CMD_F4_CHAT_COMMAND"
+msgstr "跟我來！"
+
+msgid "KEYMAPPING/CMD_F5_CHAT_COMMAND"
+msgstr "解決掉我的尾巴！"
+
+msgid "KEYMAPPING/CMD_F6_CHAT_COMMAND"
+msgstr "拒絕接受！"
+
+msgid "KEYMAPPING/CMD_F7_CHAT_COMMAND"
+msgstr "掩護我！"
+
+msgid "KEYMAPPING/CMD_F8_CHAT_COMMAND"
+msgstr "攻擊："
+
+msgid "KEYMAPPING/CMD_F9_CHAT_COMMAND"
+msgstr "把<目標名稱>交給我！"
+
+msgid "KEYMAPPING/CMD_FIRE_GROUP_1"
+msgstr "武器組1射擊"
+
+msgid "KEYMAPPING/CMD_FIRE_GROUP_2"
+msgstr "武器組2射擊"
+
+msgid "KEYMAPPING/CMD_FIRE_GROUP_3"
+msgstr "武器組3射擊"
+
+msgid "KEYMAPPING/CMD_FIXED_CAMERA"
+msgstr "切換到固定視角"
+
+msgid "KEYMAPPING/CMD_FLAPS_UP"
+msgstr "開啟襟翼"
+
+msgid "KEYMAPPING/CMD_FRONT_VIEW"
+msgstr "視角向前"
+
+msgid "KEYMAPPING/CMD_HELP"
+msgstr "幫助"
+
+msgid "KEYMAPPING/CMD_HIDE_SHOW_HUD"
+msgstr "隱藏/顯示介面"
+
+msgid "KEYMAPPING/CMD_INCREASE_FORCE"
+msgstr "加力"
+
+msgid "KEYMAPPING/CMD_INC_TARGET_FORCE"
+msgstr "增加油門"
+
+msgid "KEYMAPPING/CMD_INTERMISSION_MENU"
+msgstr "離開"
+
+msgid "KEYMAPPING/CMD_INVERT_Y"
+msgstr "反轉Y軸"
+
+msgid "KEYMAPPING/CMD_LAUNCH_BOMB"
+msgstr "投彈/發射備用火箭彈"
+
+msgid "KEYMAPPING/CMD_LAUNCH_ROCKET"
+msgstr "發射火箭彈"
+
+msgid "KEYMAPPING/CMD_LOCK_TARGET"
+msgstr "鎖定目標"
+
+msgid "KEYMAPPING/CMD_LOCK_TARGET_IN_SCREEN_CENTER"
+msgstr "鎖定螢幕中心目標"
+
+msgid "KEYMAPPING/CMD_MASTER_VOLUME_DEC"
+msgstr "降低音量"
+
+msgid "KEYMAPPING/CMD_MASTER_VOLUME_INC"
+msgstr "增加音量"
+
+msgid "KEYMAPPING/CMD_MINIMAP_SIZE_DEC"
+msgstr "縮小地圖"
+
+msgid "KEYMAPPING/CMD_MINIMAP_SIZE_INC"
+msgstr "放大地圖"
+
+msgid "KEYMAPPING/CMD_MINIMAP_ZOOM_IN"
+msgstr "縮小雷達"
+
+msgid "KEYMAPPING/CMD_MINIMAP_ZOOM_OUT"
+msgstr "放大雷達"
+
+msgid "KEYMAPPING/CMD_NEXT_MOUSE_PRESET"
+msgstr "切換控制模式"
+
+msgid "KEYMAPPING/CMD_NEXT_TARGET"
+msgstr "切換目標"
+
+msgid "KEYMAPPING/CMD_NEXT_TARGET_TEAM_OBJECT"
+msgstr "切換地圖目標"
+
+msgid "KEYMAPPING/CMD_NORMAL_CAMERA"
+msgstr "切到標準視角"
+
+msgid "KEYMAPPING/CMD_OVERLOOK_MOD"
+msgstr "啟用順序瀏覽模式"
+
+msgid "KEYMAPPING/CMD_PITCH_DOWN"
+msgstr "俯衝"
+
+msgid "KEYMAPPING/CMD_PITCH_UP"
+msgstr "拉高"
+
+msgid "KEYMAPPING/CMD_PRIMARY_FIRE"
+msgstr "射擊"
+
+msgid "KEYMAPPING/CMD_PUSH_TO_TALK"
+msgstr "一鍵通話"
+
+msgid "KEYMAPPING/CMD_PUSH_TO_TALK_SQUAD"
+msgstr "在編隊戰鬥中一鍵通話"
+
+msgid "KEYMAPPING/CMD_ROLL_LEFT"
+msgstr "左滾轉"
+
+msgid "KEYMAPPING/CMD_ROLL_RIGHT"
+msgstr "右滾轉"
+
+msgid "KEYMAPPING/CMD_SECONDARY_FIRE"
+msgstr "切換到備用火力"
+
+msgid "KEYMAPPING/CMD_SHOW_CURSOR"
+msgstr "顯示游標"
+
+msgid "KEYMAPPING/CMD_SHOW_MAP"
+msgstr "顯示地圖"
+
+msgid "KEYMAPPING/CMD_SHOW_PLAYERS_INFO"
+msgstr "顯示玩家更多資訊"
+
+msgid "KEYMAPPING/CMD_SHOW_RADAR"
+msgstr "地圖/可視範圍"
+
+msgid "KEYMAPPING/CMD_SHOW_TEAMS"
+msgstr "顯示隊伍列表"
+
+msgid "KEYMAPPING/CMD_SIDE_CAMERA_ALT"
+msgstr "視角設定"
+
+msgid "KEYMAPPING/CMD_SIDE_VIEW_BACKWARD"
+msgstr "後方視角"
+
+msgid "KEYMAPPING/CMD_SIDE_VIEW_BACKWARD_LEFT"
+msgstr "左後方視角"
+
+msgid "KEYMAPPING/CMD_SIDE_VIEW_BACKWARD_RIGHT"
+msgstr "右後方視角"
+
+msgid "KEYMAPPING/CMD_SIDE_VIEW_DOWN"
+msgstr "垂直向上視角"
+
+msgid "KEYMAPPING/CMD_SIDE_VIEW_DOWN_LEFT"
+msgstr "左斜前上方視角"
+
+msgid "KEYMAPPING/CMD_SIDE_VIEW_DOWN_RIGHT"
+msgstr "右斜前上方視角"
+
+msgid "KEYMAPPING/CMD_SIDE_VIEW_FORWARD"
+msgstr "前方視角"
+
+msgid "KEYMAPPING/CMD_SIDE_VIEW_FORWARD_LEFT"
+msgstr "左前方視角"
+
+msgid "KEYMAPPING/CMD_SIDE_VIEW_FORWARD_RIGHT"
+msgstr "右前方視角"
+
+msgid "KEYMAPPING/CMD_SIDE_VIEW_LEFT"
+msgstr "左平行視角"
+
+msgid "KEYMAPPING/CMD_SIDE_VIEW_RIGHT"
+msgstr "右平行視角"
+
+msgid "KEYMAPPING/CMD_SIDE_VIEW_UP"
+msgstr "垂直向下視角"
+
+msgid "KEYMAPPING/CMD_SIDE_VIEW_UP_LEFT"
+msgstr "左斜後下方視角"
+
+msgid "KEYMAPPING/CMD_SIDE_VIEW_UP_RIGHT"
+msgstr "右斜後下方視角"
+
+msgid "KEYMAPPING/CMD_SINGLE_SNIPER_CAMERA"
+msgstr "切到遠距視角"
+
+msgid "KEYMAPPING/CMD_SNIPER_CAMERA"
+msgstr "切換到遠距視角"
+
+msgid "KEYMAPPING/CMD_STATIC_MOD"
+msgstr "禁用恢復初始視角"
+
+msgid "KEYMAPPING/CMD_TARGET_CAMERA"
+msgstr "對齊目標"
+
+msgid "KEYMAPPING/CMD_TARGET_POINT"
+msgstr "中心控制"
+
+msgid "KEYMAPPING/CMD_TOGGLE_ARENA_VOICE_CHANNEL"
+msgstr "團隊語音聊天"
+
+msgid "KEYMAPPING/CMD_TURN_LEFT"
+msgstr "左轉"
+
+msgid "KEYMAPPING/CMD_TURN_RIGHT"
+msgstr "右轉"
+
+msgid "KEYMAPPING/CMD_USE_EQUIPMENT_1"
+msgstr "消耗品1"
+
+msgid "KEYMAPPING/CMD_USE_EQUIPMENT_2"
+msgstr "消耗品2"
+
+msgid "KEYMAPPING/CMD_USE_EQUIPMENT_3"
+msgstr "消耗品3"
+
+msgid "KEYMAPPING/CMD_WEAPON_GROUP_1"
+msgstr "機槍射擊"
+
+msgid "KEYMAPPING/CMD_WEAPON_GROUP_2"
+msgstr "尾砲射擊"
+
+msgid "KEYMAPPING/CMD_WEAPON_GROUP_3"
+msgstr "武器組3"
+
+msgid "KEYMAPPING/CMD_WEAPON_GROUP_4"
+msgstr "武器組4"
+
+msgid "KEYMAPPING/CMD_WEAPON_GROUP_ALL"
+msgstr "全部射擊"
+
+msgid "KEYMAPPING/FREE_HORIZONTAL_CAM_GAMEPAD"
+msgstr "檢視左右側"
+
+msgid "KEYMAPPING/FREE_VERTICAL_CAM_GAMEPAD"
+msgstr "檢視上下方"
+
+msgid "LANGUAGE"
+msgstr "語言"
+
+msgid "LANGUAGE_NAME_EN"
+msgstr "英語"
+
+msgid "LANGUAGE_NAME_RU"
+msgstr "俄語"
+
+msgid "LOW"
+msgstr "低"
+
+msgid "LOWEST"
+msgstr "最低"
+
+msgid "MARKER_PLANE"
+msgstr "P-9"
+
+msgid "MEDIUM"
+msgstr "中"
+
+msgid "MOUSE4"
+msgstr "滑鼠4"
+
+msgid "MOUSE5"
+msgstr "滑鼠5"
+
+msgid "MOUSEJOY"
+msgstr "滑鼠搖桿"
+
+msgid "MOUSE_AND_KEYBOARD_SETTINGS_TEXT"
+msgstr "鍵鼠設定"
+
+msgid "MOUSE_INVERSION_TEXT"
+msgstr "倒位"
+
+msgid "MOUSE_MODE_BASIC"
+msgstr "基礎"
+
+msgid "MOUSE_MODE_BATTLE"
+msgstr "戰鬥"
+
+msgid "MOUSE_SENSITIVITY_TEXT"
+msgstr "滑鼠靈敏度:"
+
+msgid "MOUSE_SETTINGS_TEXT"
+msgstr "滑鼠設定："
+
+msgid "MOUSE_STYLE_HOLD"
+msgstr "持續按鍵"
+
+msgid "MOUSE_STYLE_NO_SWITCH"
+msgstr "禁用"
+
+msgid "MOUSE_STYLE_SWITCH"
+msgstr "按鍵點射"
+
+msgid "MOUSE_Y_INVERSION_TOGGLE"
+msgstr "垂直反轉"
+
+msgid "NEAR"
+msgstr "近"
+
+msgid "OFF"
+msgstr "關閉"
+
+msgid "ON"
+msgstr "開啟"
+
+msgid "POINT"
+msgstr "單線性"
+
+msgid "POPULAR_GAMEPAD_LOGITECH_F310"
+msgstr "Logitech F310"
+
+msgid "POPULAR_GAMEPAD_PLAYSTATION_2"
+msgstr "Playstation"
+
+msgid "POPULAR_GAMEPAD_THRUSTMASTER_DUAL_TRIGGER_RUMBLE_FORCE"
+msgstr "Thrustmaster Dual Trigger Rumble Force"
+
+msgid "POPULAR_GAMEPAD_XBOX_360"
+msgstr "Xbox 360"
+
+msgid "POPULAR_JOYSTICK_LOGITECH_ATTACK_3_JOYSTICK"
+msgstr "Logitech Attack 3 Joystick"
+
+msgid "POPULAR_JOYSTICK_LOGITECH_EXTREME_3D_PRO"
+msgstr "賽鈦客(Saitek) AV8R_01"
+
+msgid "POPULAR_JOYSTICK_SAITEK_CYBORG_V_1_FLIGHT_STICK"
+msgstr "Saitek Cyborg V.1 Flight Stick"
+
+msgid "POPULAR_JOYSTICK_THRUSTMASTER_T_1600"
+msgstr "賽鈦客(Saitek) X52 Pro"
+
+msgid "POPULAR_JOYSTICK_THRUSTMASTER_T_FLIGHT_STICK_X"
+msgstr "Mad Catz F.L.Y.5"
+
+msgid "REMAP_AXIS_TEXT"
+msgstr "軸"
+
+msgid "REMAP_COMMAND_TEXT"
+msgstr "命令"
+
+msgid "REMAP_KEY1_TEXT"
+msgstr "鍵1"
+
+msgid "REMAP_KEY2_TEXT"
+msgstr "鍵2"
+
+msgid "REMAP_KEY3_TEXT"
+msgstr "鍵3"
+
+msgid "REMAP_KEY_BUTTON"
+msgstr "重置"
+
+msgid "RESET_ALLKEY_BUTTON"
+msgstr "恢復設定"
+
+msgid "RESOLUTION_PRESET"
+msgstr "螢幕解析度"
+
+msgid "SAVE_KEYMAPPING_BUTTON"
+msgstr "儲存"
+
+msgid "SAVE_SETTINGS_BUTTON"
+msgstr "儲存"
+
+msgid "SETTINGS_ACCEPT"
+msgstr "套用"
+
+msgid "SETTINGS_ACHIEVEMENT_NOTIFICATIONS_BATTLE"
+msgstr "在戰鬥中顯示獲得成就的動畫"
+
+msgid "SETTINGS_ACHIEVEMENT_NOTIFICATIONS_CHAT"
+msgstr "在聊天視窗顯示成就通知"
+
+msgid "SETTINGS_ACHIEVEMENT_NOTIFICATIONS_COMMON"
+msgstr "成就通知"
+
+msgid "SETTINGS_ACTIVE"
+msgstr " "
+
+msgid "SETTINGS_ADDITIONAL"
+msgstr "更多選項"
+
+msgid "SETTINGS_ADDITIONAL_OPTIONS"
+msgstr "更多選擇"
+
+msgid "SETTINGS_ADVANCE_POINT"
+msgstr "輔助瞄準點"
+
+msgid "SETTINGS_AIRCRAFT_DETAILS_AIRCRAFT_DURABILITY"
+msgstr "戰機生命值"
+
+msgid "SETTINGS_AIRCRAFT_DETAILS_AIRCRAFT_LEVEL"
+msgstr "戰機等級"
+
+msgid "SETTINGS_AIRCRAFT_DETAILS_AIRCRAFT_NAME"
+msgstr "戰機型號"
+
+msgid "SETTINGS_AIRCRAFT_DETAILS_AIRCRAFT_NUMBER"
+msgstr "隊伍編號"
+
+msgid "SETTINGS_AIRCRAFT_DETAILS_AIRCRAFT_TYPE"
+msgstr "戰機類型"
+
+msgid "SETTINGS_AIRCRAFT_DETAILS_ALTERNATE_MARKER"
+msgstr "按下alt後"
+
+msgid "SETTINGS_AIRCRAFT_DETAILS_COMMON_MARKER"
+msgstr "標準"
+
+msgid "SETTINGS_AIRCRAFT_DETAILS_DISTANCE_TO_AIRCRAFT"
+msgstr "目標距離"
+
+msgid "SETTINGS_AIRCRAFT_DETAILS_HP_INDICATOR"
+msgstr "生命值"
+
+msgid "SETTINGS_AIRCRAFT_DETAILS_MESSAGE_MARKER_TYPE_WARNING"
+msgstr ""
+"注意！這種類型的普通標記將會使飛機在2000米的距離就能被看見。替換標記將使得在"
+"任何距離都能被看見。"
+
+msgid "SETTINGS_AIRCRAFT_DETAILS_PLAYER_NAME"
+msgstr "玩家名稱"
+
+msgid "SETTINGS_AIRCRAFT_DETAILS_SIMILAR_FOR_ALL_MARKER_TYPES"
+msgstr "套用到所有類型"
+
+msgid "SETTINGS_AIR_HORIZON"
+msgstr "姿態指示器"
+
+msgid "SETTINGS_ALTIMETER_DROPDOWN_MENU_VARIANT_BARO"
+msgstr "絕對高度"
+
+msgid "SETTINGS_ALTIMETER_DROPDOWN_MENU_VARIANT_BOTH"
+msgstr "相對高度和絕對高度"
+
+msgid "SETTINGS_ALTIMETER_DROPDOWN_MENU_VARIANT_RADIO"
+msgstr "相對高度"
+
+msgid "SETTINGS_ANTIALIAS"
+msgstr "抗鋸齒"
+
+msgid "SETTINGS_APPLY_BUTTON"
+msgstr "套用"
+
+msgid "SETTINGS_AUTOMATIC_FLAPS"
+msgstr "自動襟翼"
+
+msgid "SETTINGS_AUTO_DETECTION"
+msgstr "自動檢測"
+
+msgid "SETTINGS_BACKGROUND_OPTION_AIRFIELD"
+msgstr "停機坪"
+
+msgid "SETTINGS_BACKGROUND_OPTION_EVENT"
+msgstr "節日背景"
+
+msgid "SETTINGS_BACKGROUND_OPTION_HANGAR"
+msgstr "機庫"
+
+msgid "SETTINGS_BASIC"
+msgstr "基本控制"
+
+msgid "SETTINGS_BATTLE_ADDITIONAL_INSTRUMENTS"
+msgstr "主要儀器"
+
+msgid "SETTINGS_BATTLE_AVIAGORIZONT"
+msgstr "姿態指示器"
+
+msgid "SETTINGS_BATTLE_AVIAGORIZONT_TYPE"
+msgstr "類型"
+
+msgid "SETTINGS_BATTLE_BY_DEFAULT"
+msgstr "預設"
+
+msgid "SETTINGS_BATTLE_COMMON"
+msgstr "面板和視窗"
+
+msgid "SETTINGS_BATTLE_DAMAGE_CLUSTER"
+msgstr "飛機狀態面板"
+
+msgid "SETTINGS_BATTLE_DIN_SIGHT"
+msgstr "動態十字線"
+
+msgid "SETTINGS_BATTLE_HEADER_DEFAULT"
+msgstr "提示"
+
+msgid "SETTINGS_BATTLE_HEIGHT_MODE"
+msgstr "測高儀類型"
+
+msgid "SETTINGS_BATTLE_HEIGHT_MODE0"
+msgstr "<b>絕對高度</b><br/>顯示海拔高度"
+
+msgid "SETTINGS_BATTLE_HEIGHT_MODE1"
+msgstr "<b>相對高度</b><br/>顯示地面高度"
+
+msgid "SETTINGS_BATTLE_HUD_BOLD_POINTS"
+msgstr "大點"
+
+msgid "SETTINGS_BATTLE_HUD_CROSSHAIR_COLOR"
+msgstr "顏色"
+
+msgid "SETTINGS_BATTLE_HUD_CROSSHAIR_COLOR_BLACK"
+msgstr "黑色"
+
+msgid "SETTINGS_BATTLE_HUD_CROSSHAIR_COLOR_BLUE"
+msgstr "藍色"
+
+msgid "SETTINGS_BATTLE_HUD_CROSSHAIR_COLOR_COMBINED"
+msgstr "黑色"
+
+msgid "SETTINGS_BATTLE_HUD_CROSSHAIR_COLOR_GREEN"
+msgstr "綠色"
+
+msgid "SETTINGS_BATTLE_HUD_CROSSHAIR_COLOR_LIGHTBLUE"
+msgstr "淺藍色"
+
+msgid "SETTINGS_BATTLE_HUD_CROSSHAIR_COLOR_LILAC"
+msgstr "紫色"
+
+msgid "SETTINGS_BATTLE_HUD_CROSSHAIR_COLOR_ORANGE"
+msgstr "橙色"
+
+msgid "SETTINGS_BATTLE_HUD_CROSSHAIR_COLOR_RED"
+msgstr "紅色"
+
+msgid "SETTINGS_BATTLE_HUD_CROSSHAIR_COLOR_WHITE"
+msgstr "白色"
+
+msgid "SETTINGS_BATTLE_HUD_CROSSHAIR_COLOR_YELLOW"
+msgstr "黃色"
+
+msgid "SETTINGS_BATTLE_HUD_CROSSHAIR_SHAPE"
+msgstr "形狀"
+
+msgid "SETTINGS_BATTLE_HUD_CROSSHAIR_SHAPE_DROPDOWN_TEMPLATE"
+msgstr "十字 {number}"
+
+msgid "SETTINGS_BATTLE_HUD_CROSSHAIR_TRANSPARANCY"
+msgstr "透明度"
+
+msgid "SETTINGS_BATTLE_HUD_DISPERSION_ANGLE"
+msgstr "瞄準環"
+
+msgid "SETTINGS_BATTLE_HUD_HEADER_CROSSHAIR"
+msgstr "準星"
+
+msgid "SETTINGS_BATTLE_HUD_POINTER"
+msgstr "游標:"
+
+msgid "SETTINGS_BATTLE_HUD_SIMPLE_MODE"
+msgstr "簡單"
+
+msgid "SETTINGS_BATTLE_INCOMING_DAMAGE"
+msgstr "傷害方位指示"
+
+msgid "SETTINGS_BATTLE_INSTRUMENTS"
+msgstr "儀器儀表"
+
+msgid "SETTINGS_BATTLE_NAV_WINDOW"
+msgstr "地圖/可視範圍視窗"
+
+msgid "SETTINGS_BATTLE_PLAYERLIST"
+msgstr "隊伍面板"
+
+msgid "SETTINGS_BATTLE_POSITION"
+msgstr "位置"
+
+msgid "SETTINGS_BATTLE_TARGET_WINDOW"
+msgstr "目標鎖定視窗"
+
+msgid "SETTINGS_BATTLE_TOOLTIP_ADDITIONAL_INSTRUMENTS"
+msgstr "<b>主要儀器</b><br/>顯示飛機油門位置, 提高可用性：速度的提升或者下降"
+
+msgid "SETTINGS_BATTLE_TOOLTIP_ALTIMETR"
+msgstr "<b>高度表</b><br/>顯示飛機的高度"
+
+msgid "SETTINGS_BATTLE_TOOLTIP_AVIAGORIZONT"
+msgstr "顯示飛機的俯仰和偏轉"
+
+msgid "SETTINGS_BATTLE_TOOLTIP_AVIAGORIZONT0"
+msgstr ""
+"<b>姿態指示器</b><br/>顯示地平線的位置，關係到飛機的機翼（飛機和地平線標"
+"記），和飛機的機頭相對於地平線的位置。"
+
+msgid "SETTINGS_BATTLE_TOOLTIP_AVIAGORIZONT1"
+msgstr ""
+"<b>姿態指示器</b><br/>顯示地平線的位置，關係到飛機的機翼（只有地平線標記），"
+"和飛機的機頭相對於地平線的位置。"
+
+msgid "SETTINGS_BATTLE_TOOLTIP_AVIAGORIZONT2"
+msgstr "<b>姿態指示器</b><br/>顯示機翼和機首與地平線的位置關係。"
+
+msgid "SETTINGS_BATTLE_TOOLTIP_AVIAGORIZONT3"
+msgstr ""
+"<b>姿態指示器</b><br/>顯示戰機圍繞縱軸翻滾(戰機標記)和戰機俯仰角度 (垂直刻度)"
+
+msgid "SETTINGS_BATTLE_TOOLTIP_AVIAGORIZONT4"
+msgstr ""
+"<b>姿態指示器</b><br/>顯示戰機機翼相對於地平線的姿態(水平標記)和戰機的俯仰運"
+"動(垂直刻度)"
+
+msgid "SETTINGS_BATTLE_TOOLTIP_AVIAGORIZONT5"
+msgstr ""
+"<b>姿態指示器</b><br/>顯示戰機機翼相對於地平線的姿態(水平標記)和戰機的俯仰運"
+"動(垂直刻度)"
+
+msgid "SETTINGS_BATTLE_TOOLTIP_CRIT"
+msgstr "在目標鎖定視窗顯示鎖定的目標"
+
+msgid "SETTINGS_BATTLE_TOOLTIP_DAMAGE_CLUSTER"
+msgstr "<b>飛機狀態面板</b><br/>顯示飛機和成員的損傷。"
+
+msgid "SETTINGS_BATTLE_TOOLTIP_DEFAULT"
+msgstr "要檢視說明，將游標懸停在左側的選項或圖片中的元素上"
+
+msgid "SETTINGS_BATTLE_TOOLTIP_DIFF"
+msgstr "顯示所使用的戰機與目標的效能差異"
+
+msgid "SETTINGS_BATTLE_TOOLTIP_NAV_WINDOW"
+msgstr "<b>地圖/可視範圍視窗</b><br/>顯示地圖或者觀察範圍。"
+
+msgid "SETTINGS_BATTLE_TOOLTIP_PLAYER_LIST"
+msgstr "顯示兩隊隊員和狀態的列表"
+
+msgid "SETTINGS_BATTLE_TOOLTIP_TARGET_WINDOW"
+msgstr "從玩家的視角顯示鎖定的目標"
+
+msgid "SETTINGS_BLOCK_BUTTONS"
+msgstr "在戰鬥中禁用鍵"
+
+msgid "SETTINGS_BORDERLESS"
+msgstr "無邊框視窗模式"
+
+msgid "SETTINGS_BUTTON_CANCEL_LOADING_HD"
+msgstr "現在不能"
+
+msgid "SETTINGS_BUTTON_CHANGE_BUTTON"
+msgstr "重新定義"
+
+msgid "SETTINGS_BUTTON_CLOSE"
+msgstr "確定"
+
+msgid "SETTINGS_BUTTON_DOWNLOAD_HD"
+msgstr "下載"
+
+msgid "SETTINGS_BUTTON_REMAP_KEY"
+msgstr "指派鍵"
+
+msgid "SETTINGS_BUTTON_RESET_ALL_SETTINGS"
+msgstr "恢復所有設定"
+
+msgid "SETTINGS_BUTTON_RESTART_GAME"
+msgstr "重啟遊戲"
+
+msgid "SETTINGS_BUTTON_SHOW_ALL_OPTIONS"
+msgstr "所有"
+
+msgid "SETTINGS_CAMERA"
+msgstr "視角"
+
+msgid "SETTINGS_CAMERA_ALIGN_DELAY"
+msgstr "* 視角改平延遲："
+
+msgid "SETTINGS_CAMERA_EFFECTS_CHECKBOX"
+msgstr "啟用攝像效果"
+
+msgid "SETTINGS_CAMERA_EFFECTS_CHECKBOX_TOOLTIP"
+msgstr "啟用視角跟隨戰機運動方向移動"
+
+msgid "SETTINGS_CAMERA_SENSITIVITY"
+msgstr "瞄準浮動"
+
+msgid "SETTINGS_CAMERA_TYPE_CHOICE_DESCRIPTION"
+msgstr "選擇視角類型和戰機控制介面效果"
+
+msgid "SETTINGS_CB_ACCEPT_ONLY_FRIENDS"
+msgstr "只接受好友邀請"
+
+msgid "SETTINGS_CB_CENSOR"
+msgstr "管理員訊息"
+
+msgid "SETTINGS_CB_ENABLE_POST_DEATH"
+msgstr "在死亡模式中啟用後效應"
+
+msgid "SETTINGS_CB_MSG_DATE"
+msgstr "在郵件中顯示日期"
+
+msgid "SETTINGS_CB_MSG_TIME"
+msgstr "在郵件中顯示時間"
+
+msgid "SETTINGS_CB_PLAYER_CONN"
+msgstr "當使用者連線/斷開時通知"
+
+msgid "SETTINGS_CB_SAVE_CHANNEL_WINDOW"
+msgstr "儲存通道視窗的位置和大小"
+
+msgid "SETTINGS_CB_SAVE_OTHER_WINDOWS"
+msgstr "儲存其他視窗的位置和大小"
+
+msgid "SETTINGS_CB_SHOW_ICON"
+msgstr "顯示飛機圖示"
+
+msgid "SETTINGS_CB_SHOW_LEVEL"
+msgstr "顯示飛機級別"
+
+msgid "SETTINGS_CENTER"
+msgstr "模式1"
+
+msgid "SETTINGS_CHAPTER_MOVEMENT_CONTROL"
+msgstr "控制設定"
+
+msgid "SETTINGS_CHAPTER_NAVIGATION"
+msgstr "導航"
+
+msgid "SETTINGS_CHAT"
+msgstr "聊天"
+
+msgid "SETTINGS_CHAT_ACCEPT_INVITES_FROM_FRIENDS"
+msgstr "只允許聯絡人列表中玩家的編隊邀請"
+
+msgid "SETTINGS_CHAT_ACCEPT_MESSAGES_FROM_FRIENDS"
+msgstr "只允許聯絡人列表中玩家傳送資訊"
+
+msgid "SETTINGS_CHAT_DISABLE_BATTLE_CHAT"
+msgstr "禁用聊天 (只在標準戰鬥中)"
+
+msgid "SETTINGS_CHECKBOX_CHANGE_ADVANCE_POINT_DISPLAY_SIZE"
+msgstr "調整射擊指示環"
+
+msgid "SETTINGS_CHECKBOX_ENABLE_COLLISION_DETECTION_DESCRIPTION"
+msgstr "啟用在危險的俯衝或可能與地面相撞時的聲音警告"
+
+msgid "SETTINGS_CHECKBOX_ENABLE_COLLISION_DETECTION_SYSTEM"
+msgstr "啟用碰撞警告"
+
+msgid "SETTINGS_CHECKBOX_RESPONSE_INCREASE"
+msgstr "啟用遊戲客戶端控制處理"
+
+msgid "SETTINGS_CHECKBOX_SAFE_ROLL_ON_LOW_ALTITUDE"
+msgstr "低空限制轉向角度"
+
+msgid "SETTINGS_CHECKBOX_SHOW_ADVANCE_POINT_BEYOND_EFFECTIVE_RANGE"
+msgstr "啟用超出射擊範圍時的射擊指示環"
+
+msgid "SETTINGS_CHECKBOX_SHOW_DEVICE_BARS"
+msgstr "最佳範圍指示器"
+
+msgid "SETTINGS_CHECKBOX_SHOW_HP_AND_BOOST"
+msgstr "生命值和加力指示器"
+
+msgid "SETTINGS_CHECKBOX_SIGNAL_WHEN_IN_EFFECTIVE_RANGE"
+msgstr "顯示最佳射擊範圍"
+
+msgid "SETTINGS_CHECKBOX_SPEEDOMETER_AND_VARIOMETER"
+msgstr "高度和飛行速度指示器"
+
+msgid "SETTINGS_CHOOSE_PATTERN"
+msgstr "更多設定"
+
+msgid "SETTINGS_CLEAR"
+msgstr "清除"
+
+msgid "SETTINGS_COMMON_MEASUREMENT"
+msgstr "計量單位"
+
+msgid "SETTINGS_COMMON_MEASUREMENT_METRIC"
+msgstr "公制"
+
+msgid "SETTINGS_COMMON_MEASUREMENT_ROYAL"
+msgstr "英制"
+
+msgid "SETTINGS_CONTEXT_ADVANCE_POINT_COLOR"
+msgstr "射擊指示環顏色:"
+
+msgid "SETTINGS_CONTEXT_BACKGROUND_CHOICE"
+msgstr "背景樣式選擇:"
+
+msgid "SETTINGS_CONTEXT_EXTENDED_SETTING"
+msgstr "<br>高階設定"
+
+msgid "SETTINGS_CONTEXT_GAMEPAD_SETTING_PERSONAL"
+msgstr "自定義"
+
+msgid "SETTINGS_CONTEXT_GRAPH_INPUT_SIGNAL"
+msgstr "輸入訊號"
+
+msgid "SETTINGS_CONTEXT_GRAPH_OUTPUT_SIGNAL"
+msgstr "輸出訊號"
+
+msgid "SETTINGS_CONTEXT_JOYSTICK_SETTING_PERSONAL"
+msgstr "自定義"
+
+msgid "SETTINGS_CONTEXT_MOUSE_SETTING_PERSONAL"
+msgstr "自定義"
+
+msgid "SETTINGS_CONTEXT_NOT_ASSIGNED"
+msgstr "(未分配)"
+
+msgid "SETTINGS_CONTEXT_RECOMMENDED_SETTING"
+msgstr "<br>推薦設定"
+
+msgid "SETTINGS_CONTEXT_RESTORE"
+msgstr "還原"
+
+msgid "SETTINGS_DEAD_ZONE"
+msgstr "死區"
+
+msgid "SETTINGS_DECLINE_AXIS"
+msgstr "軸位移"
+
+msgid "SETTINGS_DEFAULT_MODE_MOUSE"
+msgstr "預設滑鼠模式："
+
+msgid "SETTINGS_DESCRIPTION_CAMERA_PLANE_SCREEN"
+msgstr "在這裡您可選擇滑鼠預設模式或對設定進行自定義修改"
+
+msgid "SETTINGS_DESCRIPTION_YAW_PITCH_MIX_SCREEN"
+msgstr "在這裡您可以調整戰機在偏轉、俯仰和瞄準時的相關設定"
+
+msgid "SETTINGS_DEVICE_GAMEPAD_TYPE"
+msgstr "手柄類型："
+
+msgid "SETTINGS_DEVICE_JOYSTICK_TYPE"
+msgstr "搖桿類型："
+
+msgid "SETTINGS_DEVICE_TYPE_RECOMMENDED_SETTINGS"
+msgstr "推薦設定"
+
+msgid "SETTINGS_DEVICE_TYPE_USER_DEFINED"
+msgstr "使用者"
+
+msgid "SETTINGS_DEVICE_TYPE_USER_SETTINGS"
+msgstr "自定義設定"
+
+msgid "SETTINGS_DISABLED"
+msgstr "禁用"
+
+msgid "SETTINGS_DISABLE_INTRO"
+msgstr "顯示開場動畫效果"
+
+msgid "SETTINGS_DO_NOT_SHOW_OFFLINE_PLAYERS"
+msgstr "隱藏離線玩家"
+
+msgid "SETTINGS_DROPDOWN_MENU_VARIANT_CROSSHAIR"
+msgstr "準星"
+
+msgid "SETTINGS_DROPDOWN_MENU_VARIANT_DISPERSION_AREA"
+msgstr "瞄準環"
+
+msgid "SETTINGS_DROPDOWN_MENU_VARIANT_IRON_SIGHT"
+msgstr "游標"
+
+msgid "SETTINGS_EDGE_DETECT_AA"
+msgstr "邊緣檢測AA"
+
+msgid "SETTINGS_ENABLE_SHADOWS"
+msgstr "啟用陰影"
+
+msgid "SETTINGS_ENLARGED"
+msgstr "較全"
+
+msgid "SETTINGS_FIRE"
+msgstr "射擊"
+
+msgid "SETTINGS_FLIGHT"
+msgstr "飛行"
+
+msgid "SETTINGS_FOR_SHEME"
+msgstr "{name} 主題"
+
+msgid "SETTINGS_FOV_DESCRIPTION_1"
+msgstr ""
+"當視角焦距變化時調整視野範圍<br>當視角放大時視野寬度為40°，當焦距不發生變化時"
+"視角範圍會在最大值與最小值之間變化"
+
+msgid "SETTINGS_FOV_DESCRIPTION_2"
+msgstr "最佳視角範圍約為95°"
+
+msgid "SETTINGS_FOV_DESCRIPTION_3"
+msgstr ""
+"越寬闊的視角越容易出現影象扭曲<br>增加視野範圍會影響遊戲在一些電腦配置下的遊"
+"戲效能"
+
+msgid "SETTINGS_FOV_HEADER"
+msgstr "檢視視角"
+
+msgid "SETTINGS_FOV_SLIDER_TEXT"
+msgstr "視角最大範圍:"
+
+msgid "SETTINGS_FULLSCREEN"
+msgstr "全屏模式"
+
+msgid "SETTINGS_GAMEPAD_ALT_PATTERN"
+msgstr "(二選一)"
+
+msgid "SETTINGS_GAMEPAD_ALT_PATTERN_NAME"
+msgstr "手柄控制預設 \"{gamepad_type} (二選一)\""
+
+msgid "SETTINGS_GAMEPAD_ASSIGN_TO_CONTROL_NAME"
+msgstr "控制分配 \"<b>%control_name%<b/>\""
+
+msgid "SETTINGS_GAMEPAD_AXIS"
+msgstr "軸"
+
+msgid "SETTINGS_GAMEPAD_BTN_1"
+msgstr "手柄1"
+
+msgid "SETTINGS_GAMEPAD_BTN_10"
+msgstr "手柄10"
+
+msgid "SETTINGS_GAMEPAD_BTN_2"
+msgstr "手柄2"
+
+msgid "SETTINGS_GAMEPAD_BTN_3"
+msgstr "手柄3"
+
+msgid "SETTINGS_GAMEPAD_BTN_4"
+msgstr "手柄4"
+
+msgid "SETTINGS_GAMEPAD_BTN_5"
+msgstr "手柄5"
+
+msgid "SETTINGS_GAMEPAD_BTN_6"
+msgstr "手柄6"
+
+msgid "SETTINGS_GAMEPAD_BTN_7"
+msgstr "手柄7"
+
+msgid "SETTINGS_GAMEPAD_BTN_8"
+msgstr "手柄8"
+
+msgid "SETTINGS_GAMEPAD_BTN_9"
+msgstr "手柄9"
+
+msgid "SETTINGS_GAMEPAD_BUTTON_PRESS"
+msgstr "<b>按: </b>"
+
+msgid "SETTINGS_GAMEPAD_BUTTON_RESET_SETTINGS"
+msgstr "恢復設定"
+
+msgid "SETTINGS_GAMEPAD_CANCEL"
+msgstr " - 取消"
+
+msgid "SETTINGS_GAMEPAD_CHOOSE_PATTERN"
+msgstr "更多設定"
+
+msgid "SETTINGS_GAMEPAD_CHOSEN_PATTERN_NAME"
+msgstr "手柄控制預設 \"{gamepad_type}\""
+
+msgid "SETTINGS_GAMEPAD_CONFIRM"
+msgstr " - 確認"
+
+msgid "SETTINGS_GAMEPAD_CONTROL_NAME"
+msgstr "<b>%control_name%</b>"
+
+msgid "SETTINGS_GAMEPAD_DEAD_ZONE"
+msgstr "死區："
+
+msgid "SETTINGS_GAMEPAD_ERASE"
+msgstr " - 刪除"
+
+msgid "SETTINGS_GAMEPAD_GRAPH_HEADER"
+msgstr "視角響應調整"
+
+msgid "SETTINGS_GAMEPAD_HORIZONTAL_AXIS"
+msgstr "橫軸"
+
+msgid "SETTINGS_GAMEPAD_HORIZONTAL_VIEW"
+msgstr "水平檢視"
+
+msgid "SETTINGS_GAMEPAD_INVERT_ROLL_AXIS"
+msgstr "軸向反轉滾動"
+
+msgid "SETTINGS_GAMEPAD_NOT_ASSIGNED"
+msgstr "未分配"
+
+msgid "SETTINGS_GAMEPAD_PATTERN_LIST"
+msgstr "手柄預設:"
+
+msgid "SETTINGS_GAMEPAD_PLANE_ROLL"
+msgstr "戰機翻轉"
+
+msgid "SETTINGS_GAMEPAD_PLANE_THRUST"
+msgstr "引擎推力"
+
+msgid "SETTINGS_GAMEPAD_PRESS_ANY_BUTTON"
+msgstr "按任意鍵"
+
+msgid "SETTINGS_GAMEPAD_ROLL"
+msgstr "滾轉"
+
+msgid "SETTINGS_GAMEPAD_SELECT"
+msgstr " - 選擇"
+
+msgid "SETTINGS_GAMEPAD_SENSITIVITY"
+msgstr "靈敏度："
+
+msgid "SETTINGS_GAMEPAD_THRUST"
+msgstr "推力"
+
+msgid "SETTINGS_GAMEPAD_UP_DOWN"
+msgstr "<b>向上/向下</b>"
+
+msgid "SETTINGS_GAMEPAD_USER_SETTINGS"
+msgstr "自定義設定"
+
+msgid "SETTINGS_GAMEPAD_VERTICAL_AXIS"
+msgstr "縱軸"
+
+msgid "SETTINGS_GAMEPAD_VERTICAL_INVERSION"
+msgstr "垂直反轉"
+
+msgid "SETTINGS_GAMEPAD_VERTICAL_VIEW"
+msgstr "垂直檢視"
+
+msgid "SETTINGS_GAMETRIX"
+msgstr "Gametrix設定"
+
+msgid "SETTINGS_GAMETRIX_EFFECT_STRENGTH"
+msgstr "強度影響"
+
+msgid "SETTINGS_GAMETRIX_STATE"
+msgstr "狀態"
+
+msgid "SETTINGS_GAME_BATTLE"
+msgstr "戰鬥設定"
+
+msgid "SETTINGS_GAME_CHAT"
+msgstr "聊天"
+
+msgid "SETTINGS_GAME_CINEMA_CAMERA"
+msgstr "啟用鎖定視窗的真實視野"
+
+msgid "SETTINGS_GAME_COMMON"
+msgstr "普通"
+
+msgid "SETTINGS_GAME_FREEZE_CAMERA"
+msgstr "用搖桿時鎖定自由視角"
+
+msgid "SETTINGS_GAME_FREE_CAMERA_OPTIONS_HEADER"
+msgstr "視角選項"
+
+msgid "SETTINGS_GAME_HANGAR"
+msgstr "機庫設定"
+
+msgid "SETTINGS_GAME_MARKERS"
+msgstr "飛機標誌"
+
+msgid "SETTINGS_GAME_SHOW_ADVANCE_POINT"
+msgstr "顯示輔助瞄準點"
+
+msgid "SETTINGS_GAMMA"
+msgstr "亮度:"
+
+msgid "SETTINGS_GRAPHICS_QUALITY"
+msgstr "影象品質"
+
+msgid "SETTINGS_GRAPH_AUTODETECT_AGREE_BUTTON"
+msgstr "好極了！"
+
+msgid "SETTINGS_GRAPH_AUTODETECT_BUTTON"
+msgstr "自動檢測"
+
+msgid "SETTINGS_GRAPH_AUTODETECT_DETECT_BUTTON"
+msgstr "檢測"
+
+msgid "SETTINGS_GRAPH_AUTODETECT_DISABLE_OPTION"
+msgstr "禁用自動檢測設定"
+
+msgid "SETTINGS_GRAPH_AUTODETECT_HEADER"
+msgstr "自動檢測影象設定"
+
+msgid "SETTINGS_GRAPH_AUTODETECT_OK_MESSAGE"
+msgstr "您當前 {settings_1} 圖形設定能夠確保獲得最佳的遊戲體驗，祝您遊戲愉快！"
+
+msgid "SETTINGS_GRAPH_AUTODETECT_TESTING_CURRENT_SETTINGS_MESSAGE"
+msgstr "測試當前設定…"
+
+msgid "SETTINGS_GRAPH_AUTODETECT_TESTING_HIGHEST_SETTINGS_MESSAGE"
+msgstr "測試最高設定..."
+
+msgid "SETTINGS_GRAPH_AUTODETECT_TESTING_HIGH_SETTINGS_MESSAGE"
+msgstr "測試高設定..."
+
+msgid "SETTINGS_GRAPH_AUTODETECT_TESTING_LOWEST_SETTINGS_MESSAGE"
+msgstr "測試最低設定..."
+
+msgid "SETTINGS_GRAPH_AUTODETECT_TESTING_LOW_SETTINGS_MESSAGE"
+msgstr "測試低設定..."
+
+msgid "SETTINGS_GRAPH_AUTODETECT_TESTING_MEDIUM_SETTINGS_MESSAGE"
+msgstr "測試中等設定..."
+
+msgid "SETTINGS_GRAPH_AUTODETECT_TESTING_RESOLUTION_MESSAGE"
+msgstr "測試螢幕解析度: {resolution}…"
+
+msgid "SETTINGS_GRAPH_AUTODETECT_TOO_HIGH_MESSAGE"
+msgstr ""
+"您當前使用 {settings_1} 圖形設定和 {resolution_1} 的螢幕解析度，遊戲客戶端檢"
+"測認為您當前的設定不能保證最佳的遊戲體驗。<br>建議您將圖形設定調整為 "
+"{settings_2} 並且使用 {resolution_2} 的螢幕解析度。"
+
+msgid "SETTINGS_GRAPH_AUTODETECT_TOO_HIGH_RESOLUTION_ONLY_MESSAGE"
+msgstr ""
+"您當前使用 {resolution_1} 的螢幕解析度，遊戲客戶端檢測認為您當前的設定不能保"
+"證遊戲的最佳體驗。<br>建議您調整使用 {resolution_2} 的螢幕解析度。"
+
+msgid "SETTINGS_GRAPH_AUTODETECT_TOO_HIGH_SETTINGS_ONLY_MESSAGE"
+msgstr ""
+"您當前使用 {settings_1} 圖形設定，遊戲客戶端檢測認為您當前的設定不能保證遊戲"
+"的最佳體驗。<br>建議您調整使用 {settings_2} 圖形設定。"
+
+msgid "SETTINGS_GRAPH_AUTODETECT_TOO_LOW_BOTH_MESSAGE"
+msgstr ""
+"遊戲客戶端檢測到您正在使用 {settings_1} 圖形設定和 {resolution_1} 的螢幕分辨"
+"率，您能夠調整使用 {settings_2} 圖形設定和 {resolution_2} 的螢幕解析度並且不"
+"會影響到您的遊戲體驗。"
+
+msgid "SETTINGS_GRAPH_AUTODETECT_TOO_LOW_MESSAGE"
+msgstr ""
+"遊戲客戶端檢測到您正在使用 {settings_1} 圖形設定，您能夠調整使用 "
+"{settings_2} 圖形設定並且不會影響到您的遊戲體驗。"
+
+msgid "SETTINGS_GRAPH_AUTODETECT_TOO_LOW_RESOLUTION_MESSAGE"
+msgstr ""
+"遊戲客戶端檢測到您正在使用 {resolution_1} 的螢幕解析度，您能夠調整使用 "
+"{resolution_2} 的螢幕解析度並且不會影響到您的遊戲體驗。"
+
+msgid "SETTINGS_GRAPH_AUTODETECT_USE_MANUAL_BUTTON"
+msgstr "手動設定"
+
+msgid "SETTINGS_GRAPH_AUTODETECT_WARNING_MESSAGE"
+msgstr ""
+"您的電腦配置已更改，遊戲已準備好重新檢測適合當前電腦配置的最佳圖形設定，點"
+"擊“檢測”開始進行檢測。"
+
+msgid "SETTINGS_GRAPH_AUTODETECT_WINDOW_HEADER"
+msgstr "自動檢測影象設定"
+
+msgid "SETTINGS_GRAPH_SETTINGS_CONTEXT_HIGH"
+msgstr "高"
+
+msgid "SETTINGS_GRAPH_SETTINGS_CONTEXT_HIGHEST"
+msgstr "很高"
+
+msgid "SETTINGS_GRAPH_SETTINGS_CONTEXT_LOW"
+msgstr "低"
+
+msgid "SETTINGS_GRAPH_SETTINGS_CONTEXT_LOWEST"
+msgstr "很低"
+
+msgid "SETTINGS_GRAPH_SETTINGS_CONTEXT_MEDIUM"
+msgstr "中"
+
+msgid "SETTINGS_GRAPH_SETTINGS_CONTEXT_PERSONAL"
+msgstr "自定義"
+
+msgid "SETTINGS_GS_AIRCRAFT_QUALITY"
+msgstr "飛機品質"
+
+msgid "SETTINGS_GS_BACKBUFER_QUALITY"
+msgstr "渲染品質"
+
+msgid "SETTINGS_GS_CLASSIC_TERRAIN_QUALITY"
+msgstr "地形著色器"
+
+msgid "SETTINGS_GS_FAR_PLANE"
+msgstr "繪製距離"
+
+msgid "SETTINGS_GS_FLORA_DENSITY"
+msgstr "弗洛拉密度"
+
+msgid "SETTINGS_GS_FOOT_PRINTS"
+msgstr "飛行痕跡"
+
+msgid "SETTINGS_GS_FXAA"
+msgstr "抗鋸齒"
+
+msgid "SETTINGS_GS_HIGH"
+msgstr "高"
+
+msgid "SETTINGS_GS_LOW"
+msgstr "低"
+
+msgid "SETTINGS_GS_MEDIUM"
+msgstr "中"
+
+msgid "SETTINGS_GS_MORPH_VERTICES"
+msgstr "頂點變形"
+
+msgid "SETTINGS_GS_MOTIONBLUR"
+msgstr "運動模糊"
+
+msgid "SETTINGS_GS_MRT_DEPTH"
+msgstr "MRT 深度"
+
+msgid "SETTINGS_GS_OBJECT_CLIP"
+msgstr "剪影品質"
+
+msgid "SETTINGS_GS_OBJECT_LOD"
+msgstr "物件LOD"
+
+msgid "SETTINGS_GS_PARTICLES_QUALITY"
+msgstr "粒子品質"
+
+msgid "SETTINGS_GS_POSTFX"
+msgstr "後期渲染"
+
+msgid "SETTINGS_GS_POST_PROCESSING"
+msgstr "後期渲染"
+
+msgid "SETTINGS_GS_SHADER_VERSION_CAP"
+msgstr "著色器版本"
+
+msgid "SETTINGS_GS_SHADOWS_COUNT"
+msgstr "陰影數量"
+
+msgid "SETTINGS_GS_SHADOWS_QUALITY"
+msgstr "陰影品質"
+
+msgid "SETTINGS_GS_SKY_LIGHT_MAP"
+msgstr "天空和雲層品質"
+
+msgid "SETTINGS_GS_SNIPER_MODE_SWINGING_ENABLED"
+msgstr "遠距視角模式下飛機震動"
+
+msgid "SETTINGS_GS_SPEEDTREE_QUALITY"
+msgstr "樹葉品質"
+
+msgid "SETTINGS_GS_TERRAIN_LOD"
+msgstr "地形渲染"
+
+msgid "SETTINGS_GS_TERRAIN_MESH_RESOLUTION"
+msgstr "地圖解析度"
+
+msgid "SETTINGS_GS_TEXTURE_COMPRESSION"
+msgstr "紋理壓縮"
+
+msgid "SETTINGS_GS_TEXTURE_FILTERING"
+msgstr "紋理過濾"
+
+msgid "SETTINGS_GS_TEXTURE_QUALITY"
+msgstr "紋理品質"
+
+msgid "SETTINGS_GS_VEHICLE_DUST_ENABLED"
+msgstr "啟動光塵效果"
+
+msgid "SETTINGS_GS_VEHICLE_TRACES_ENABLED"
+msgstr "啟動飛行痕跡"
+
+msgid "SETTINGS_GS_VOLUMETRICCLOUDS"
+msgstr "雲霧品質"
+
+msgid "SETTINGS_GS_WATER_QUALITY"
+msgstr "水紋品質"
+
+msgid "SETTINGS_GS_WATER_SIMULATION"
+msgstr "水模擬"
+
+msgid "SETTINGS_GS_WG_SHADOWS_ENABLED"
+msgstr "陰影增強"
+
+msgid "SETTINGS_HEADER_ALTERNATE_COLOR_LAYOUT"
+msgstr "替換顏色佈局"
+
+msgid "SETTINGS_HEADER_ALTERNATE_COLOR_MODE"
+msgstr "替換顏色模式"
+
+msgid "SETTINGS_HEADER_ALTIMETER"
+msgstr "高度儀"
+
+msgid "SETTINGS_HEADER_ARMAMENT"
+msgstr "武器和發動機"
+
+msgid "SETTINGS_HEADER_BACKGROUND"
+msgstr "背景"
+
+msgid "SETTINGS_HEADER_BOMBS"
+msgstr "炸彈"
+
+msgid "SETTINGS_HEADER_BOOST_INDICATOR"
+msgstr "提高可用性"
+
+msgid "SETTINGS_HEADER_COLLISION_DETECTION_SYSTEM"
+msgstr "碰撞警告"
+
+msgid "SETTINGS_HEADER_CRITS"
+msgstr "戰機損傷"
+
+msgid "SETTINGS_HEADER_EQUIPMENT"
+msgstr "消耗品"
+
+msgid "SETTINGS_HEADER_GENERAL"
+msgstr "整體"
+
+msgid "SETTINGS_HEADER_HORIZONT"
+msgstr "姿態指示器"
+
+msgid "SETTINGS_HEADER_KEY-SETTINGS"
+msgstr "控制設定"
+
+msgid "SETTINGS_HEADER_LOOK_CAMERA"
+msgstr "視角設定"
+
+msgid "SETTINGS_HEADER_MAP_AND_RADAR"
+msgstr "地圖和可視區域"
+
+msgid "SETTINGS_HEADER_MARKER_TEMPLATE"
+msgstr "預設標記"
+
+msgid "SETTINGS_HEADER_MINIMAP"
+msgstr "小地圖"
+
+msgid "SETTINGS_HEADER_RADAR"
+msgstr "雷達"
+
+msgid "SETTINGS_HEADER_RESPONSE_INCREASE"
+msgstr "提高控制響應速度"
+
+msgid "SETTINGS_HEADER_ROCKETS"
+msgstr "火箭彈"
+
+msgid "SETTINGS_HEADER_SET_AXIS_FOR_THRUST_AND_BOOST"
+msgstr "設定推力和加力曲線："
+
+msgid "SETTINGS_HEADER_SPEEDOMETER"
+msgstr "速度表"
+
+msgid "SETTINGS_HEADER_SUPERIORITY"
+msgstr "效能指示"
+
+msgid "SETTINGS_HEADER_TARGET_WINDOW"
+msgstr "鎖定目標視窗"
+
+msgid "SETTINGS_HEADER_TEAM_LISTS"
+msgstr "隊伍面板"
+
+msgid "SETTINGS_HEADER_TRACKING_GRAPH"
+msgstr "高階滑鼠設定圖"
+
+msgid "SETTINGS_HEADER_YAW_AND_PITCH"
+msgstr "偏轉和傾斜"
+
+msgid "SETTINGS_HEADER_YAW_PITCH"
+msgstr "偏轉 / 程度"
+
+msgid "SETTINGS_HORIZONTAL"
+msgstr "水平靈敏度"
+
+msgid "SETTINGS_HORIZONT_V1"
+msgstr "姿態指示器1"
+
+msgid "SETTINGS_HORIZONT_V2"
+msgstr "姿態指示器2"
+
+msgid "SETTINGS_HORIZONT_V3"
+msgstr "姿態指示器3"
+
+msgid "SETTINGS_HUD"
+msgstr "戰鬥"
+
+msgid "SETTINGS_INTERFACE_ADDITIONAL_SETTINGS"
+msgstr "更多"
+
+msgid "SETTINGS_INTERFACE_ALLIES"
+msgstr "己方"
+
+msgid "SETTINGS_INTERFACE_BATTLE_INTERFACE"
+msgstr "戰鬥介面:"
+
+msgid "SETTINGS_INTERFACE_BATTLE_INTERFACE_TYPE"
+msgstr "戰鬥介面類型："
+
+msgid "SETTINGS_INTERFACE_BATTLE_INTERFACE_TYPE_COMMON"
+msgstr "標準"
+
+msgid "SETTINGS_INTERFACE_BATTLE_INTERFACE_TYPE_MINIMAL"
+msgstr "最簡"
+
+msgid "SETTINGS_INTERFACE_BATTLE_INTERFACE_TYPE_STANDART"
+msgstr "標準"
+
+msgid "SETTINGS_INTERFACE_BATTLE_INTERFACE_TYPE_TANK"
+msgstr "戰車世界模式"
+
+msgid "SETTINGS_INTERFACE_CROSSHAIR"
+msgstr "標線"
+
+msgid "SETTINGS_INTERFACE_DESTROYED"
+msgstr "已摧毀"
+
+msgid "SETTINGS_INTERFACE_ENEMIES"
+msgstr "敵方"
+
+msgid "SETTINGS_INTERFACE_HEADER"
+msgstr "介面"
+
+msgid "SETTINGS_INTERFACE_MARKERS"
+msgstr "標記"
+
+msgid "SETTINGS_INTERFACE_TARGET"
+msgstr "目標"
+
+msgid "SETTINGS_INTERFACE_WING_PARTHERS"
+msgstr "僚機"
+
+msgid "SETTINGS_INTRO_SCENE"
+msgstr "開場動畫"
+
+msgid "SETTINGS_INVERT_AXIS"
+msgstr "反轉軸"
+
+msgid "SETTINGS_JOYSTICK_AXIS"
+msgstr "軸"
+
+msgid "SETTINGS_JOYSTICK_BTN_1"
+msgstr "搖桿1"
+
+msgid "SETTINGS_JOYSTICK_BTN_10"
+msgstr "搖桿10"
+
+msgid "SETTINGS_JOYSTICK_BTN_2"
+msgstr "搖桿2"
+
+msgid "SETTINGS_JOYSTICK_BTN_3"
+msgstr "搖桿3"
+
+msgid "SETTINGS_JOYSTICK_BTN_4"
+msgstr "搖桿4"
+
+msgid "SETTINGS_JOYSTICK_BTN_5"
+msgstr "搖桿5"
+
+msgid "SETTINGS_JOYSTICK_BTN_6"
+msgstr "搖桿6"
+
+msgid "SETTINGS_JOYSTICK_BTN_7"
+msgstr "搖桿7"
+
+msgid "SETTINGS_JOYSTICK_BTN_8"
+msgstr "搖桿8"
+
+msgid "SETTINGS_JOYSTICK_BTN_9"
+msgstr "搖桿9"
+
+msgid "SETTINGS_JOYSTICK_BUTTON_RESET_SETTINGS"
+msgstr "恢復設定"
+
+msgid "SETTINGS_JOYSTICK_CAMERA_FLEXIBILITY"
+msgstr "* 視角靈活性："
+
+msgid "SETTINGS_JOYSTICK_CAMERA_LAG"
+msgstr "* 戰機翻轉響應:"
+
+msgid "SETTINGS_JOYSTICK_CHOOSE_PATTERN"
+msgstr "更多設定"
+
+msgid "SETTINGS_JOYSTICK_CHOSEN_PATTERN_NAME"
+msgstr "手柄控制預設 \"{joystick_type}\""
+
+msgid "SETTINGS_JOYSTICK_CURVE_FIX"
+msgstr "鎖定X軸"
+
+msgid "SETTINGS_JOYSTICK_CURVE_HEADER"
+msgstr "調整軸"
+
+msgid "SETTINGS_JOYSTICK_CURVE_PITCH"
+msgstr "俯仰"
+
+msgid "SETTINGS_JOYSTICK_CURVE_PITCH_SPEED"
+msgstr "俯仰率"
+
+msgid "SETTINGS_JOYSTICK_CURVE_PLACE"
+msgstr "搖桿定位"
+
+msgid "SETTINGS_JOYSTICK_CURVE_POWER"
+msgstr "發動機馬力"
+
+msgid "SETTINGS_JOYSTICK_CURVE_ROLL"
+msgstr "滾轉"
+
+msgid "SETTINGS_JOYSTICK_CURVE_ROLL_SPEED"
+msgstr "滾轉率"
+
+msgid "SETTINGS_JOYSTICK_CURVE_SMOOTH"
+msgstr "抗鋸齒:"
+
+msgid "SETTINGS_JOYSTICK_CURVE_YAW"
+msgstr "偏航"
+
+msgid "SETTINGS_JOYSTICK_CURVE_YAW_SPEED"
+msgstr "偏航率"
+
+msgid "SETTINGS_JOYSTICK_HORIZONTAL_VIEW"
+msgstr "橫向檢視"
+
+msgid "SETTINGS_JOYSTICK_HUT_SPEED"
+msgstr "搖桿切換速度:"
+
+msgid "SETTINGS_JOYSTICK_INVERT_PITCH_AXIS"
+msgstr "俯仰軸反轉"
+
+msgid "SETTINGS_JOYSTICK_NOISE_CORRECTION"
+msgstr "抑制噪聲"
+
+msgid "SETTINGS_JOYSTICK_PATTERN_LIST"
+msgstr "搖桿預設:"
+
+msgid "SETTINGS_JOYSTICK_SIGNAL_ADJUSTMENT"
+msgstr "訊號校正"
+
+msgid "SETTINGS_JOYSTICK_SNIPER_MODE_SENSITIVITY"
+msgstr "遠距視角下的感光度:"
+
+msgid "SETTINGS_JOYSTICK_THRESHOLD"
+msgstr "搖桿靈敏度:"
+
+msgid "SETTINGS_JOYSTICK_THRUST_BOOST_ADJUSTMENT"
+msgstr "調整推力和加速"
+
+msgid "SETTINGS_JOYSTICK_USER_SETTINGS"
+msgstr "自定義設定"
+
+msgid "SETTINGS_JOYSTICK_VERTICAL_INVERSION"
+msgstr "垂直反轉"
+
+msgid "SETTINGS_JOYSTICK_VERTICAL_VIEW"
+msgstr "垂直視角"
+
+msgid "SETTINGS_KEYBOARD"
+msgstr "鍵盤"
+
+msgid "SETTINGS_KEYBOARD_MAP"
+msgstr "控制設定"
+
+msgid "SETTINGS_LABEL_5N1_SOUND"
+msgstr "5.1"
+
+msgid "SETTINGS_LABEL_NEWLY_ASSIGNED"
+msgstr "新金鑰:"
+
+msgid "SETTINGS_LABEL_NOW_ASSIGNED"
+msgstr "當前金鑰:"
+
+msgid "SETTINGS_LABEL_SOUND_MODE"
+msgstr "音效模式"
+
+msgid "SETTINGS_LABEL_STEREO_SOUND"
+msgstr "立體聲"
+
+msgid "SETTINGS_LABEL_TEXTURE_QUALITY"
+msgstr "紋理品質"
+
+msgid "SETTINGS_LANGUAGE"
+msgstr "語言"
+
+msgid "SETTINGS_LAUNCHER_OPTION_HD_TEXTURES"
+msgstr " HD 紋理"
+
+msgid "SETTINGS_LEFT"
+msgstr "模式3"
+
+msgid "SETTINGS_LOOK_CAMERA_FIXED"
+msgstr "固定視角"
+
+msgid "SETTINGS_LOOK_CAMERA_FREE"
+msgstr "自由視角"
+
+msgid "SETTINGS_LOOK_CAMERA_FREE_DESCRIPTION"
+msgstr "自由旋轉視角在水平方向未鎖定"
+
+msgid "SETTINGS_M8_CHECKBOX_ENABLE_FLIP"
+msgstr "啟用翻轉"
+
+msgid "SETTINGS_M8_CHECKBOX_FIXED_HORIZONT"
+msgstr "自動水平"
+
+msgid "SETTINGS_MARKERS_APPLY_ALL"
+msgstr "套用於所有戰機"
+
+msgid "SETTINGS_MARKERS_APPLY_TO_CLASS"
+msgstr "套用於指定戰機:"
+
+msgid "SETTINGS_MARKERS_COMBOBOX_ALWAYS_OPAQUE"
+msgstr "始終不透明"
+
+msgid "SETTINGS_MARKERS_COMBOBOX_ALWAYS_SHOW"
+msgstr "始終顯示"
+
+msgid "SETTINGS_MARKERS_COMBOBOX_BAR"
+msgstr "血條"
+
+msgid "SETTINGS_MARKERS_COMBOBOX_BAR_NUMBER"
+msgstr "點"
+
+msgid "SETTINGS_MARKERS_COMBOBOX_BAR_PERCENT"
+msgstr "百分比"
+
+msgid "SETTINGS_MARKERS_COMBOBOX_DONT_SHOW"
+msgstr "不顯示"
+
+msgid "SETTINGS_MARKERS_COMBOBOX_EQUAL_OPACITY"
+msgstr "始終半透明"
+
+msgid "SETTINGS_MARKERS_COMBOBOX_FROM_GROUND"
+msgstr "相對高度"
+
+msgid "SETTINGS_MARKERS_COMBOBOX_FROM_MY_PLANE_BARO"
+msgstr "氣壓(絕對高度)"
+
+msgid "SETTINGS_MARKERS_COMBOBOX_FROM_MY_PLANE_RADIO"
+msgstr "雷達(相對高度)"
+
+msgid "SETTINGS_MARKERS_COMBOBOX_HUGE"
+msgstr "非常大"
+
+msgid "SETTINGS_MARKERS_COMBOBOX_LARGE"
+msgstr "較大"
+
+msgid "SETTINGS_MARKERS_COMBOBOX_NORMAL"
+msgstr "標準"
+
+msgid "SETTINGS_MARKERS_COMBOBOX_NUMBER"
+msgstr "點"
+
+msgid "SETTINGS_MARKERS_COMBOBOX_PERCENT"
+msgstr "百分比"
+
+msgid "SETTINGS_MARKERS_COMBOBOX_REF_PLANE"
+msgstr "相對高度"
+
+msgid "SETTINGS_MARKERS_COMBOBOX_TINY"
+msgstr "小"
+
+msgid "SETTINGS_MARKERS_CONTEXT_ALTITUDE_TYPE"
+msgstr "海拔高度顯示類型"
+
+msgid "SETTINGS_MARKERS_CONTEXT_CLASS_ICON"
+msgstr "戰機類型指示"
+
+msgid "SETTINGS_MARKERS_CONTEXT_CLASS_ICON_SIZE"
+msgstr "戰機類型指示大小"
+
+msgid "SETTINGS_MARKERS_CONTEXT_MARKER_OPACITY"
+msgstr "標誌透明度"
+
+msgid "SETTINGS_MARKERS_CONTEXT_MARKER_STAT"
+msgstr "標誌參數"
+
+msgid "SETTINGS_MARKERS_CONTEXT_OBJECTS"
+msgstr "地面目標"
+
+msgid "SETTINGS_MARKERS_CONTEXT_OBJECT_AA_PART"
+msgstr "防空砲標識"
+
+msgid "SETTINGS_MARKERS_CONTEXT_OBJECT_ARMORED_PART"
+msgstr "裝甲目標標識"
+
+msgid "SETTINGS_MARKERS_CONTEXT_OBJECT_HEALTH"
+msgstr "地面目標生命值"
+
+msgid "SETTINGS_MARKERS_CONTEXT_OBJECT_HEALTH_TYPE"
+msgstr "生命值指示類型"
+
+msgid "SETTINGS_MARKERS_CONTEXT_OBJECT_ICON"
+msgstr "地面目標標識"
+
+msgid "SETTINGS_MARKERS_CONTEXT_OBJECT_ICON_SIZE"
+msgstr "地名目標標識大小"
+
+msgid "SETTINGS_MARKERS_CONTEXT_OBJECT_MARKER_OPACITY"
+msgstr "標識透明度"
+
+msgid "SETTINGS_MARKERS_CONTEXT_OBJECT_NAME"
+msgstr "地面目標名稱"
+
+msgid "SETTINGS_MARKERS_CONTEXT_OBJECT_RANGE"
+msgstr "地面目標範圍"
+
+msgid "SETTINGS_MARKERS_CONTEXT_OBJECT_UNARMORED_PART"
+msgstr "非裝甲目標標識"
+
+msgid "SETTINGS_MARKERS_CONTEXT_PLANES"
+msgstr "戰機"
+
+msgid "SETTINGS_MARKERS_CONTEXT_PLANE_ALTITUDE"
+msgstr "戰機高度"
+
+msgid "SETTINGS_MARKERS_CONTEXT_PLANE_DISTANCE"
+msgstr "戰機範圍"
+
+msgid "SETTINGS_MARKERS_CONTEXT_PLANE_HEALTH"
+msgstr "戰機生命值"
+
+msgid "SETTINGS_MARKERS_CONTEXT_PLANE_HEALTH_TYPE"
+msgstr "生命值指示類型"
+
+msgid "SETTINGS_MARKERS_CONTEXT_PLANE_LEVEL"
+msgstr "戰機等級"
+
+msgid "SETTINGS_MARKERS_CONTEXT_PLANE_MODEL"
+msgstr "戰機型號"
+
+msgid "SETTINGS_MARKERS_CONTEXT_PLAYERS"
+msgstr "玩家:"
+
+msgid "SETTINGS_MARKERS_CONTEXT_PLAYER_NAME"
+msgstr "玩家暱稱"
+
+msgid "SETTINGS_MARKERS_CONTEXT_SQUAD"
+msgstr "編隊"
+
+msgid "SETTINGS_MARKERS_CONTEXT_TARGET"
+msgstr "目標"
+
+msgid "SETTINGS_MARKERS_CONTEXT_TARGETS"
+msgstr "目標:"
+
+msgid "SETTINGS_MARKERS_DEFINE_MARKERS_MODE"
+msgstr "標誌方式:"
+
+msgid "SETTINGS_MARKERS_DISPLAY_RANGE"
+msgstr "預測距離, 米:"
+
+msgid "SETTINGS_MARKERS_DISPLAY_RANGE_FT"
+msgstr "預測距離: 英尺:"
+
+msgid "SETTINGS_MARKERS_HEADER_APPLY_SETTINGS"
+msgstr "套用設定"
+
+msgid "SETTINGS_MARKERS_MESSAGE_APPLY_SETTINGS"
+msgstr "您當前的自定義設定將變更為預設 {template_name_list}<br>確定套用新設定?"
+
+msgid "SETTINGS_MARKERS_MESSAGE_APPLY_SETTINGS_LIST"
+msgstr ""
+"您當前的自定義設定將被預設模式: {template_name_list}所替換<br>確認套用新設定?"
+
+msgid "SETTINGS_MARKERS_MODE_ALT"
+msgstr "替換 (請按 {key} 鍵)"
+
+msgid "SETTINGS_MARKERS_MODE_BASIC"
+msgstr "基礎"
+
+msgid "SETTINGS_MARKERS_RESET_TO_DEFAULT"
+msgstr "重置為預設設定"
+
+msgid "SETTINGS_MARKERS_TEMPLATE_NAME"
+msgstr "預設: {template_name}"
+
+msgid "SETTINGS_MARKERS_TO_SEE_ALT_CONFIG"
+msgstr "檢視標識的替換樣式, 按住時"
+
+msgid "SETTINGS_MARKERS_TO_SEE_BASE_CONFIG"
+msgstr "檢視標識的基本樣式, 鬆開時"
+
+msgid "SETTINGS_MARKERS_VIEW_MARKERS"
+msgstr "預覽標記"
+
+msgid "SETTINGS_MAXIMAL"
+msgstr "最全"
+
+msgid "SETTINGS_MESSAGE_BUTTON_ALREADY_ASSIGNED"
+msgstr "{button} 鍵已設定為 {function}，單擊 {apply_button} 重新進行設定"
+
+msgid "SETTINGS_MESSAGE_CAN_USE_HD"
+msgstr ""
+"自動檢測發現您的電腦可以使用 HD 紋理，現在，您可以下載並套用 HD 紋理(約6GB)"
+
+msgid "SETTINGS_MESSAGE_CAN_USE_HD_DOWNLOAD_BUTTON"
+msgstr ""
+"遊戲客戶端檢測發現您的電腦可以使用 {settings} 影象設定，新設定已得到套用，為"
+"了提高遊戲紋理效果，您還需下載 HD 紋理，關閉遊戲客戶端後運行WOWpLauncher.exe"
+"並在選項中選擇64位客戶端後將為您下載 HD 紋理，下載完成後進入遊戲可獲得更好的"
+"紋理效果"
+
+msgid "SETTINGS_MESSAGE_CHANGE_AXIS_CONFIRM"
+msgstr "\"{button_name}\" 當前被用於 \"{action_name}\"，重新分配？"
+
+msgid "SETTINGS_MESSAGE_CHANGE_BUTTON_CONFIRM"
+msgstr ""
+"鍵 \"{button_name}\" 當前被用來控制\"{action_name}\"，是否重新設定該鍵？"
+
+msgid "SETTINGS_MESSAGE_CLICK_BUTTON_TO_ASSIGN"
+msgstr "請按下要設定為此動作的鍵"
+
+msgid "SETTINGS_MESSAGE_CROSSHAIR_TUNES_NOT_VAILABLE_FOR_OLD_SCHEME"
+msgstr "注意！準星設定僅適用於戰車模式和最簡模式的戰鬥介面。"
+
+msgid "SETTINGS_MESSAGE_HD_DOWNLOAD_INSTRUCTION"
+msgstr ""
+"選擇高品質影象品質需下載 HD 紋理，請關閉遊戲，運行WOWpLauncher.exe，點選右上"
+"角的設定並選擇 HD 品質。當您下載 HD 紋理後，即可選擇設定高品質影象品質和 HD "
+"紋理。"
+
+msgid "SETTINGS_MESSAGE_HD_UNAVAILABLE_NEED_64BIT"
+msgstr "您的作業系統無法使用 HD 紋理(只適用於64位的Windows系統)"
+
+msgid "SETTINGS_MESSAGE_NEED_64BIT_FOR_HD"
+msgstr " HD 紋理只適用於64位的Windows系統"
+
+msgid "SETTINGS_MESSAGE_NEED_DOWNLOAD_AND_RESTART_FOR_HD"
+msgstr "影象品質選擇“高”或“很高”需下載 HD 紋理並重啟遊戲"
+
+msgid "SETTINGS_MESSAGE_NEED_LOAD_HD_DOWNLOAD_BUTTON"
+msgstr ""
+"影象品質選擇“高”或“很高”需下載 HD 紋理，單擊 {download_button} 後將關閉遊戲客"
+"戶端開始下載和安裝 HD 紋理"
+
+msgid "SETTINGS_MESSAGE_NEED_RESTART_FOR_CHANGE_TEXTURES"
+msgstr "重啟遊戲並更改紋理品質"
+
+msgid "SETTINGS_MESSAGE_NEED_RESTART_FOR_HD"
+msgstr "選擇高紋理品質需重啟遊戲"
+
+msgid "SETTINGS_MESSAGE_NEW_ASSIGN_IS_SAME"
+msgstr "此鍵已設定為此操作"
+
+msgid "SETTINGS_MESSAGE_OPTION_AVAILABLE_ON_COMMON_PROFILE_ONLY"
+msgstr "這些設定僅適用於標準模式介面。"
+
+msgid "SETTINGS_MESSAGE_PARTLY_UNAVAILABLE_FOR_32BIT"
+msgstr "注意！一些設定在32位的windows系統下無法使用。"
+
+msgid "SETTINGS_MESSAGE_REPLACE_WITH_PATTERN_NAME"
+msgstr ""
+"注意!<br>您將變更您的控制設定<br>當前設定將變更為預設 \"{pattern_name}\"."
+"<br><br>確定儲存並更改設定?"
+
+msgid "SETTINGS_MESSAGE_SETTINGS_BANDED_TO_CONTROL_PROFILE"
+msgstr ""
+"注意！這些設定都與控制方案 {name} 相關聯，如果選擇另外一個方案可以改變這些設"
+"置。"
+
+msgid "SETTINGS_MESSAGE_SETTINGS_BOUND_TO_CONTROL_PROFILE"
+msgstr "注意！如果選擇另外的控制方案可以改變這些設定。"
+
+msgid "SETTINGS_MESSAGE_SETTINGS_CHANGE_WARNING"
+msgstr "注意！選擇另外的控制方案將改變一些普通、介面、準星的設定。"
+
+msgid "SETTINGS_MESSAGE_SETTINGS_TO_DEFAULTS_CONFIRMATION"
+msgstr "確定要恢復預設的控制方案嗎？"
+
+msgid "SETTINGS_MINIMAL"
+msgstr "最簡"
+
+msgid "SETTINGS_MISSING"
+msgstr "模式2"
+
+msgid "SETTINGS_MOUSE"
+msgstr "滑鼠"
+
+msgid "SETTINGS_MOUSE_HEADER_MIXING"
+msgstr "鍵盤指令優先順序:"
+
+msgid "SETTINGS_MOUSE_MIXING_ALWAYS"
+msgstr "滑鼠和鍵盤"
+
+msgid "SETTINGS_MOUSE_MIXING_BATTLECAM_ONLY"
+msgstr "混合"
+
+msgid "SETTINGS_MOUSE_MIXING_HALF"
+msgstr "鍵盤"
+
+msgid "SETTINGS_MOUSE_PATTERN_FIXED_HORIZON"
+msgstr "戰車模式"
+
+msgid "SETTINGS_MOUSE_PATTERN_FOLLOW_PLANE"
+msgstr "牽引線模式"
+
+msgid "SETTINGS_MOUSE_PATTERN_MOVING_HORIZON"
+msgstr "自由視角模式"
+
+msgid "SETTINGS_MOUSE_PATTERN_PERSONAL"
+msgstr "自定義"
+
+msgid "SETTINGS_MOUSE_PATTERN_SELECTOR"
+msgstr "滑鼠預設:"
+
+msgid "SETTINGS_MOUSE_SETTINGS_CHOSEN_TYPE"
+msgstr "當前滑鼠預設:"
+
+msgid "SETTINGS_MOUSE_VERTICAL_INVERSION"
+msgstr "垂直反轉滑鼠"
+
+msgid "SETTINGS_MOUSE_X_INVERSION_TOGGLE"
+msgstr "水平反轉"
+
+msgid "SETTINGS_MOVE_JOYSTICK_TO_ASSIGN_AXIS"
+msgstr "沿所需軸向移動搖桿"
+
+msgid "SETTINGS_MOVE_TO_ASSIGN"
+msgstr "設定軸位移"
+
+msgid "SETTINGS_NAVIGATION"
+msgstr "地圖/可視範圍"
+
+msgid "SETTINGS_NEW_BUTTON"
+msgstr "新鍵"
+
+msgid "SETTINGS_OLD_BUTTON"
+msgstr "當前鍵"
+
+msgid "SETTINGS_OLD_FOV_CHECKBOX"
+msgstr "舊版視角範圍"
+
+msgid "SETTINGS_OLD_FOV_CHECKBOX_TOOLTIP"
+msgstr "將戰鬥中的視角範圍恢復至1.3.0版本之前的樣式"
+
+msgid "SETTINGS_OPTION_BANK_SWITCH"
+msgstr "* 轉向時自動翻轉"
+
+msgid "SETTINGS_OPTION_MAP_OR_RADAR"
+msgstr "地圖/可視範圍"
+
+msgid "SETTINGS_PLANE_TYPE_ASSAULT"
+msgstr "攻擊機"
+
+msgid "SETTINGS_PLANE_TYPE_FIGHTER"
+msgstr "戰鬥機"
+
+msgid "SETTINGS_PLANE_TYPE_HEAVY_FIGHTER"
+msgstr "重型戰鬥機"
+
+msgid "SETTINGS_PLANE_TYPE_NAVY"
+msgstr "多用途戰鬥機"
+
+msgid "SETTINGS_PLAYER_HEALTH_INDICATION_VARIANT_HP"
+msgstr "生命值"
+
+msgid "SETTINGS_PLAYER_HEALTH_INDICATION_VARIANT_PERCENT"
+msgstr "百分率"
+
+msgid "SETTINGS_PRESS_A_KEY"
+msgstr "指派一個鍵"
+
+msgid "SETTINGS_RECOMENDED"
+msgstr "基本設定"
+
+msgid "SETTINGS_REPLAY_AUTO_DELETE_REPLAYS_DESCRIPTION"
+msgstr "刪除超過所選天數的所有錄影"
+
+msgid "SETTINGS_REPLAY_AUTO_DELETE_REPLAYS_OVER"
+msgstr "自動刪除超過所選天數的錄影"
+
+msgid "SETTINGS_REPLAY_AUTO_DELETE_REPLAYS_OVER_DAYS"
+msgstr "天"
+
+msgid "SETTINGS_REPLAY_CAPTURE_BATTLES_DESCRIPTION"
+msgstr "儲存戰鬥錄影以便日後觀看"
+
+msgid "SETTINGS_REPLAY_CAPTURE_BATTLES_HEADER"
+msgstr "戰鬥錄影"
+
+msgid "SETTINGS_REPLAY_CAPTURE_BATTLES_MESSAGE"
+msgstr "儲存戰鬥錄影"
+
+msgid "SETTINGS_REPLAY_CAPTURE_BATTLES_TESTMODE"
+msgstr "（測試模式）"
+
+msgid "SETTINGS_REPLAY_CONTEXT_ENTER_FILE_PATH"
+msgstr "選取資料夾儲存錄影檔案"
+
+msgid "SETTINGS_REPLAY_MESSAGE_ENTER_FILE_PATH"
+msgstr "選取資料夾儲存錄影檔案"
+
+msgid "SETTINGS_REPLAY_PATH_OPTION_CHOOSE"
+msgstr "選擇"
+
+msgid "SETTINGS_REPLAY_PATH_OPTION_CREATE"
+msgstr "創建"
+
+msgid "SETTINGS_SCREEN_RESOLUTION"
+msgstr "螢幕解析度"
+
+msgid "SETTINGS_SENSITIVITY"
+msgstr "靈敏度："
+
+msgid "SETTINGS_SETTINGS_HEADER_SETTINGS_TO_DEFAULTS_CONFIRMATION"
+msgstr "恢復設定"
+
+msgid "SETTINGS_SHOW_ALL"
+msgstr "所有控制"
+
+msgid "SETTINGS_SHOW_IGNORED"
+msgstr "顯示黑名單"
+
+msgid "SETTINGS_SMALL"
+msgstr "簡化"
+
+msgid "SETTINGS_SNIPER_MODE"
+msgstr "遠距視角"
+
+msgid "SETTINGS_SOUND"
+msgstr "音量"
+
+msgid "SETTINGS_SOUNDS_AMBIENT"
+msgstr "機庫背景"
+
+msgid "SETTINGS_SOUNDS_ARENA"
+msgstr "背景音樂"
+
+msgid "SETTINGS_SOUNDS_EFFECTS"
+msgstr "戰場特效"
+
+msgid "SETTINGS_SOUNDS_INTERFACE"
+msgstr "介面按鈕"
+
+msgid "SETTINGS_SOUNDS_MASTER_VOLUME"
+msgstr "整體音量"
+
+msgid "SETTINGS_SOUNDS_VEHICLES"
+msgstr "臨近戰機"
+
+msgid "SETTINGS_SOUNDS_VOICE"
+msgstr "遊戲語音"
+
+msgid "SETTINGS_SOUND_INTERFACE_VOLUME"
+msgstr "介面按鈕"
+
+msgid "SETTINGS_SOUND_MIC_ACTIVATION"
+msgstr "一鍵通話"
+
+msgid "SETTINGS_SOUND_PLAYERS_NOTIFICATIONS"
+msgstr "其他玩家的通知"
+
+msgid "SETTINGS_SOUND_VIVOX"
+msgstr "Vivox測試"
+
+msgid "SETTINGS_SOUND_VIVOX_BUTTON_CAPTURE_DEVICES_REFRESH"
+msgstr "重新整理裝置"
+
+msgid "SETTINGS_SOUND_VIVOX_BUTTON_TEST_START"
+msgstr "開始測試"
+
+msgid "SETTINGS_SOUND_VIVOX_BUTTON_TEST_STOP"
+msgstr "結束測試"
+
+msgid "SETTINGS_SOUND_VIVOX_FADE_VOLUME"
+msgstr "語音時背景音量"
+
+msgid "SETTINGS_SOUND_VIVOX_MASTER_VOLUME"
+msgstr "語音聊天音量"
+
+msgid "SETTINGS_SOUND_VIVOX_MIC_SENSITIVITY"
+msgstr "麥克風靈敏度"
+
+msgid "SETTINGS_SPEAKERS_MODE"
+msgstr "揚聲器模式"
+
+msgid "SETTINGS_SPEED_POINTER"
+msgstr "游標速度"
+
+msgid "SETTINGS_STANDART"
+msgstr "普通"
+
+msgid "SETTINGS_STYLE_SWITCH_MOUSE"
+msgstr "選擇模式："
+
+msgid "SETTINGS_SUPERMOUSE_"
+msgstr "滑鼠0.5.1"
+
+msgid "SETTINGS_SUPERMOUSE_ATTARCTION_FORCE"
+msgstr "類型轉換"
+
+msgid "SETTINGS_SUPERMOUSE_ATTRACTION_ZONE_RADIUS"
+msgstr "游標與飛行方向間夾角"
+
+msgid "SETTINGS_SUPERMOUSE_BUTTON_ADDITIONAL_OPTIONS"
+msgstr "更多滑鼠設定"
+
+msgid "SETTINGS_SUPERMOUSE_BUTTON_RESET_SETTINGS"
+msgstr "恢復設定"
+
+msgid "SETTINGS_SUPERMOUSE_CHECKBOX_AUTOMATIC_FLAPS"
+msgstr "自動襟翼"
+
+msgid "SETTINGS_SUPERMOUSE_CHECKBOX_SAFE_ROLL_ON_LOW_ALTITUDE"
+msgstr "低空限制轉向角度"
+
+msgid "SETTINGS_SUPERMOUSE_CHEKBOX_VERTICAL_INVERSION"
+msgstr "垂直反轉"
+
+msgid "SETTINGS_SUPERMOUSE_HEADER_ADDITIONAL_SETTINGS"
+msgstr "更多設定"
+
+msgid "SETTINGS_SUPERMOUSE_TRACKING_ZONE"
+msgstr "有效區域:"
+
+msgid "SETTINGS_SUPERMOUSE_TRACKING_ZONE_SOZE"
+msgstr "有效區域大小:"
+
+msgid "SETTINGS_SWITCHER"
+msgstr "切換模式"
+
+msgid "SETTINGS_SWITCH_MODE_MOUSE"
+msgstr "模式間切換"
+
+msgid "SETTINGS_TEAM_VOICE_CHAT_ACTIVATION"
+msgstr "啟用/禁用隊聊"
+
+msgid "SETTINGS_TEAM_VOICE_CHAT_ENABLE"
+msgstr "自動加入隊聊"
+
+msgid "SETTINGS_TOGGLE_ALTERNATE_COLOR_MODE"
+msgstr "切換到另一種顏色"
+
+msgid "SETTINGS_TOGGLE_ALTERNATE_COLOR_MODE_DESCRIPTION"
+msgstr "色盲輔助設定: 紅色改為紫色"
+
+msgid "SETTINGS_TOGGLE_ASSAULT_MODE"
+msgstr "掃射模式"
+
+msgid "SETTINGS_TOGGLE_SNIPER_MODE_DESCRIPTION"
+msgstr "此模式下將放大目標影象"
+
+msgid "SETTINGS_TOOLTIP_ALTIMETER"
+msgstr ""
+"指示戰機的發動機能夠發揮最佳效能的高度，例如：擁有最大航速和最佳的機動性。"
+
+msgid "SETTINGS_TOOLTIP_ARMAMENT"
+msgstr ""
+"顯示機槍的升溫速度，可使用的炸彈和火箭彈，以及加力可持續時間等資訊的動態指示"
+
+msgid "SETTINGS_TOOLTIP_CRITS"
+msgstr "顯示戰機部件和乘員受損程度"
+
+msgid "SETTINGS_TOOLTIP_DEVICES_CROSSHAIR"
+msgstr "機槍和機砲射擊時顯示飛行彈道"
+
+msgid "SETTINGS_TOOLTIP_DEVICES_RADAR_NO_HEADER"
+msgstr "顯示你與其他戰機的位置"
+
+msgid "SETTINGS_TOOLTIP_EQUIPMENT"
+msgstr "顯示可用消耗品"
+
+msgid "SETTINGS_TOOLTIP_HEADER_HP_INDICATOR"
+msgstr "生命值指示"
+
+msgid "SETTINGS_TOOLTIP_HP_INDICATOR"
+msgstr "顯示當前戰機的生命值"
+
+msgid "SETTINGS_TOOLTIP_MINI-MAP"
+msgstr "顯示隊友和目標在地圖上的位置"
+
+msgid "SETTINGS_TOOLTIP_SPEEDOMETER"
+msgstr "指示戰機能表現最佳機動性時的速度（在最佳高度的情況下）。"
+
+msgid "SETTINGS_TOOLTIP_SUPERIORITY"
+msgstr "顯示雙方戰鬥進展，制空權達到100%的一方將贏得戰鬥勝利"
+
+msgid "SETTINGS_TOUGH_HANDLE"
+msgstr "游標移動到中心"
+
+msgid "SETTINGS_TRIPLE_BUFFERING"
+msgstr "三重緩衝"
+
+msgid "SETTINGS_USER_MARKER_TEMPLATE_ASSAULT"
+msgstr "攻擊機 (自定義)"
+
+msgid "SETTINGS_USER_MARKER_TEMPLATE_EXPLANATION"
+msgstr "自定義"
+
+msgid "SETTINGS_USER_MARKER_TEMPLATE_FIGHTER"
+msgstr "戰鬥機 (自定義)"
+
+msgid "SETTINGS_USER_MARKER_TEMPLATE_HEAVY_FIGHTER"
+msgstr "重型戰鬥機 (自定義)"
+
+msgid "SETTINGS_USER_MARKER_TEMPLATE_NAVY"
+msgstr "多用途戰鬥機 (自定義)"
+
+msgid "SETTINGS_VERTICAL"
+msgstr "垂直靈敏度"
+
+msgid "SETTINGS_VOICE_CHAT"
+msgstr "語音聊天"
+
+msgid "SETTINGS_VOICE_CHAT_ENABLE"
+msgstr "開啟語音聊天"
+
+msgid "SETTINGS_VOICE_CHAT_MICROPHONE"
+msgstr "麥克風"
+
+msgid "SETTINGS_VOICE_CHAT_PTT"
+msgstr "設定一鍵通話"
+
+msgid "SETTINGS_VOLUME_MOTOR"
+msgstr "引擎音量"
+
+msgid "SETTINGS_VOLUME_SHOTS"
+msgstr "射擊音量"
+
+msgid "SETTINGS_VSYNC"
+msgstr "垂直同步"
+
+msgid "SETTINGS_WIDESCREEN"
+msgstr "寬屏模式"
+
+msgid "SETTINGS_WINDOWED"
+msgstr "視窗模式"
+
+msgid "SETTINGS_WINDOW_CONFIRMATION_ALL_SETTINGS_RESTORE_MESSAGE"
+msgstr "恢復到預設設定？"
+
+msgid "SETTINGS_WINDOW_CONFIRMATION_SAVE_SETTINGS_MESSAGE"
+msgstr "退出並儲存當前設定？"
+
+msgid "SETTINGS_WINDOW_CONFIRMATION_SHEME_SETTINGS_RESTORE_MESSAGE"
+msgstr "恢復到預設設定？"
+
+msgid "SETTINGS_WINDOW_CONFIRMATION_ULTRALOW_SETTINGS"
+msgstr "非常低圖形設定將會顯著降低影象品質<br>確定套用超低圖形設定?"
+
+msgid "SETTINGS_WINDOW_SAVE_CONTROLS_HEADER"
+msgstr "儲存設定"
+
+msgid "SETTINGS_WINDOW_SAVE_CONTROLS_MESSAGE"
+msgstr "儲存當前設定方案?"
+
+msgid "SHADER_MODEL_2"
+msgstr "版本2"
+
+msgid "SHADER_MODEL_3"
+msgstr "版本3"
+
+msgid "SIMPLE_CONTROLS"
+msgstr "基礎設定"
+
+msgid "SOUND_CONFIGURATION"
+msgstr "配置"
+
+msgid "SOUND_LEVEL_TEXT"
+msgstr "音量"
+
+msgid "SOUND_QUALITY_SETTINGS_CONTEXT"
+msgstr "聲音品質:"
+
+msgid "SOUND_QUALITY_SETTINGS_HEADER"
+msgstr "聲音品質"
+
+msgid "SOUND_QUALITY_SETTINGS_HIGH"
+msgstr "高（64位）"
+
+msgid "SOUND_QUALITY_SETTINGS_LOW"
+msgstr "低（16位）"
+
+msgid "SOUND_QUALITY_SETTINGS_MEDIUM"
+msgstr "中（32位）"
+
+msgid "SOUND_QUALITY_SETTINGS_TURN_OFF"
+msgstr "靜音"
+
+msgid "SOUND_SETTINGS"
+msgstr "音量"
+
+msgid "SOUND_TYPE"
+msgstr "裝置類型："
+
+msgid "SOUND_TYPE_DEFAULT"
+msgstr "預設"
+
+msgid "SOUND_TYPE_HEADPHONES"
+msgstr "耳機"
+
+msgid "SOUND_TYPE_LAPTOP"
+msgstr "膝上型電腦"
+
+msgid "SUPERMOUSE_CAMERA_ALIGNING"
+msgstr "* 視角校準區域:"
+
+msgid "SUPERMOUSE_CAMERA_FLEXIBILITY"
+msgstr "視角靈活性："
+
+msgid "SUPERMOUSE_CAMERA_SPEED"
+msgstr "* 視角滾轉率:"
+
+msgid "SUPERMOUSE_EQUALIZER_FORCE"
+msgstr "* 拉平速率："
+
+msgid "SUPERMOUSE_EQUALIZER_ZONE_SIZE"
+msgstr "拉平區域大小："
+
+msgid "SUPERMOUSE_PLANE_LEAD_OPTION_HORIZON"
+msgstr "禁用"
+
+msgid "SUPERMOUSE_PLANE_LEAD_OPTION_SMOOTHED"
+msgstr "平滑"
+
+msgid "SUPERMOUSE_PLANE_LEAD_OPTION_UNSMOOTHED"
+msgstr "不平滑"
+
+msgid "SUPERMOUSE_PLANE_LEAD_RADIOBUTTON"
+msgstr "* 目標追蹤調整"
+
+msgid "SUPERMOUSE_ROLL_SPEED"
+msgstr "* 翻轉加速度："
+
+msgid "SUPERMOUSE_ROTATION_ZONE_DEPTH"
+msgstr "破S高度："
+
+msgid "SURROUND_SOUND"
+msgstr "環繞聲"
+
+msgid "TERRAIN_SHADER_MODEL_0"
+msgstr "版本0"
+
+msgid "TERRAIN_SHADER_MODEL_1"
+msgstr "版本1"
+
+msgid "TERRAIN_SHADER_MODEL_1_NO_SPECULAR"
+msgstr "版本1.1"
+
+msgid "TERRAIN_SHADER_MODEL_2"
+msgstr "版本2"
+
+msgid "TOOLTIP_JOYSTICK_SETTINGS_PITCH"
+msgstr "戰機圍繞橫軸旋轉"
+
+msgid "TOOLTIP_JOYSTICK_SETTINGS_ROLL"
+msgstr "戰機圍繞縱軸旋轉"
+
+msgid "TOOLTIP_JOYSTICK_SETTINGS_THRUST"
+msgstr "控制引擎推力"
+
+msgid "TOOLTIP_JOYSTICK_SETTINGS_YAW"
+msgstr "戰機圍繞垂直軸旋轉"
+
+msgid "TOOLTIP_SETTINGS_GAMEPAD_HORIZONTAL_AXIS"
+msgstr "戰機水平方向旋轉"
+
+msgid "TOOLTIP_SETTINGS_GAMEPAD_HORIZONTAL_VIEW"
+msgstr "視角水平方向轉動"
+
+msgid "TOOLTIP_SETTINGS_GAMEPAD_ROLL"
+msgstr "戰機圍繞縱軸旋轉"
+
+msgid "TOOLTIP_SETTINGS_GAMEPAD_THRUST"
+msgstr "控制引擎推力"
+
+msgid "TOOLTIP_SETTINGS_GAMEPAD_VERTICAL_VIEW"
+msgstr "視角垂直方向轉動"
+
+msgid "TOOLTIP_SETTINGS_JOYSTICK_HORIZONTAL_VIEW"
+msgstr "視角水平方向轉動"
+
+msgid "TOOLTIP_SETTINGS_JOYSTICK_VERTICAL_AXIS"
+msgstr "戰機在垂直面旋轉"
+
+msgid "TOOLTIP_SETTINGS_JOYSTICK_VERTICAL_VIEW"
+msgstr "視角垂直方向轉動"
+
+msgid "TOOLTIP_TEAM_VOICE_CHAT_ACTIVATION"
+msgstr "指派一個鍵來啟用/禁用隊聊"
+
+msgid "TOOLTIP_TEAM_VOICE_CHAT_ENABLE"
+msgstr "標準戰鬥中自動加入隊聊"
+
+msgid "TRILINEAR"
+msgstr "三線性"
+
+msgid "VERYFAR"
+msgstr "很遠"
+
+msgid "VERYHIGH"
+msgstr "很高"
+
+msgid "VERYLOW"
+msgstr "很低"
+
+msgid "VERYNEAR"
+msgstr "很近"
+
+msgid "GRAPHIC_SETTINGS_ABOVE_CHECKBOXES"
+msgstr "Graphics Settings"
+
+msgid "KEYMAPPING/CMD_BOMBER_MODE"
+msgstr "Switch to Bombing Mode"
+
+msgid "KEYMAPPING/CMD_DANGEROUS_TARGET"
+msgstr "Lock Dangerous Enemy"
+
+msgid "KEYMAPPING/CMD_F8_1_CHAT_COMMAND"
+msgstr "Good Job!"
+
+msgid "KEYMAPPING/CMD_GUNNER_MODE"
+msgstr "Switch to Turret Control Mode"
+
+msgid "KEYMAPPING/CMD_NEAREST_TARGET"
+msgstr "Lock Nearest Target"
+
+msgid "SETTINGS_ALIGNMENT_SPEED"
+msgstr "Level-Off Rate"
+
+msgid "SETTINGS_ALTMODE"
+msgstr "On pressing Alt"
+
+msgid "SETTINGS_ASSIGN_AXIS"
+msgstr "Assign an axis:"
+
+msgid "SETTINGS_ATTENTION_DO_NOT_RECOMMEND_FOR_BEGINNERS"
+msgstr ""
+"Warning! Changing default settings may result in difficulties in piloting "
+"your aircraft and may require greater control."
+
+msgid "SETTINGS_AVIADEVICES"
+msgstr "Flight Instruments"
+
+msgid "SETTINGS_BUTTON_COPY"
+msgstr "Copy"
+
+msgid "SETTINGS_CAMERA_EFFECTS"
+msgstr "Camera Effects"
+
+msgid "SETTINGS_CHECKBOX_ROTATE_PLAYER_MINIMAP_FIXED"
+msgstr "Rotate player marker (map pinned)"
+
+msgid "SETTINGS_CHECKBOX_SCREENSHOTS"
+msgstr "Save screenshots"
+
+msgid "SETTINGS_CHECKBOX_SHOW_ROLL_HORIZON"
+msgstr "Show horizon bank"
+
+msgid "SETTINGS_CHECKBOX_SHOW_ROLL_PLANE"
+msgstr "Show aircraft bank"
+
+msgid "SETTINGS_DROP_BOMBS_BOMBER_MODE"
+msgstr "Drop bombs in bombing mode"
+
+msgid "SETTINGS_FLAPS"
+msgstr "Extend Flaps"
+
+msgid "SETTINGS_HIDE_ALTERNATIVE_HUD"
+msgstr "To view the interface in the standard mode, release {key}"
+
+msgid "SETTINGS_HIGHT_SCALE"
+msgstr "Altitude meter (altimeter)"
+
+msgid "SETTINGS_INFO_ABOUT_ENEMY"
+msgstr "Details about enemies"
+
+msgid "SETTINGS_INFO_ABOUT_PLANE_CONSUMABLES_TIPS-ECT"
+msgstr "Details about aircraft"
+
+msgid "SETTINGS_INFO_ABOUT_SECTORS-ECT"
+msgstr "Details about game mode markers"
+
+msgid "SETTINGS_MARKERS_1-SCOPE"
+msgstr "Reticle 1"
+
+msgid "SETTINGS_MARKERS_2-SCOPE"
+msgstr "Reticle 2"
+
+msgid "SETTINGS_MARKERS_3-SCOPE"
+msgstr "Reticle 3"
+
+msgid "SETTINGS_MARKERS_4-SCOPE"
+msgstr "Reticle 4"
+
+msgid "SETTINGS_MARKERS_5-SCOPE"
+msgstr "Reticle 5"
+
+msgid "SETTINGS_MARKERS_AA_RADIUS"
+msgstr "AA gun range"
+
+msgid "SETTINGS_MARKERS_ALLY_PLACE_OF_DEATH"
+msgstr "Destroyed ally location"
+
+msgid "SETTINGS_MARKERS_ALTIMETER_HIGHT_SCALE"
+msgstr "Altitude meter (altimeter)"
+
+msgid "SETTINGS_MARKERS_ALTIMETER_TYPE"
+msgstr "Altimeter type"
+
+msgid "SETTINGS_MARKERS_ALTMODE"
+msgstr "On pressing Alt"
+
+msgid "SETTINGS_MARKERS_ALWAYS"
+msgstr "Always"
+
+msgid "SETTINGS_MARKERS_AMOUNT_AND_CALIBER_WEAPONS"
+msgstr "Number and caliber of guns"
+
+msgid "SETTINGS_MARKERS_AMOUNT_BOOST_AT_THIS_MOMENT"
+msgstr "Boost points (current value)"
+
+msgid "SETTINGS_MARKERS_AMOUNT_BOOST_IN_MAX"
+msgstr "Boost points (maximum value)"
+
+msgid "SETTINGS_MARKERS_AMOUNT_HP_AT_THIS_MOMENT"
+msgstr "Hit points (current value)"
+
+msgid "SETTINGS_MARKERS_AMOUNT_HP_IN_MAX"
+msgstr "Hit points (maximum value)"
+
+msgid "SETTINGS_MARKERS_ARROWS_DEFENDERS"
+msgstr "Air defense aircraft arrow icons"
+
+msgid "SETTINGS_MARKERS_ARROWS_PLANE"
+msgstr "Aircraft arrow icons"
+
+msgid "SETTINGS_MARKERS_ARROW_IN_CENTER_AND_EDGES_SCREEN"
+msgstr "Arrows in the center and at the edge of the screen"
+
+msgid "SETTINGS_MARKERS_BANNERS"
+msgstr "Achievement notifications"
+
+msgid "SETTINGS_MARKERS_BATTLELOG_NUMERAL"
+msgstr "Numbers in battle log"
+
+msgid "SETTINGS_MARKERS_BATTLELOG_TEXTS"
+msgstr "Text in battle log"
+
+msgid "SETTINGS_MARKERS_BATTLE_COMANDS"
+msgstr "Battle commands"
+
+msgid "SETTINGS_MARKERS_BATTLE_EVENTS"
+msgstr "Battle events"
+
+msgid "SETTINGS_MARKERS_BATTLE_RECOMENDATIONS"
+msgstr "Battle recommendations"
+
+msgid "SETTINGS_MARKERS_BATTLE_RECOMENDATIONS_ICONS"
+msgstr "Icons for battle recommendations"
+
+msgid "SETTINGS_MARKERS_BIG_CALIBER_GUN"
+msgstr "Large-caliber autocannon"
+
+msgid "SETTINGS_MARKERS_BIG_SIZE"
+msgstr "Large"
+
+msgid "SETTINGS_MARKERS_BLOCK_CURRENT_SECTOR_HEADER"
+msgstr "Current sector"
+
+msgid "SETTINGS_MARKERS_BLOCK_INFO_ABOUT_PLANE_HEADER"
+msgstr "Aircraft Details"
+
+msgid "SETTINGS_MARKERS_BLOCK_MARKERS_NEAR_CORNER_ON_MONITOR_HEADER"
+msgstr "Pointers at aircraft"
+
+msgid "SETTINGS_MARKERS_BLOCK_MARKERS_RADAR_SETTINGS_HEADER"
+msgstr "Radar settings"
+
+msgid "SETTINGS_MARKERS_BLOCK_MINIMAP_HEADER"
+msgstr "Minimap"
+
+msgid "SETTINGS_MARKERS_BLOCK_PERSONAL_BATTLE_ACTIONS_HEADER"
+msgstr "Personal combat actions"
+
+msgid "SETTINGS_MARKERS_BLOCK_SCALE_INFLUENCE_HEADER"
+msgstr "Influence gauge"
+
+msgid "SETTINGS_MARKERS_BLOCK_SENSORS_ABOUT_ALTITUDE_SPEED_BOOST_HP_HEADER"
+msgstr "Sensors: flight instruments and hit points"
+
+msgid "SETTINGS_MARKERS_BLOCK_SPEED_CONNECTION_AND_TIPS_HEADER"
+msgstr "Connection speed and hints"
+
+msgid "SETTINGS_MARKERS_BLOCK_SYSTEM_MESSAGES_HEADER"
+msgstr "Warning system"
+
+msgid "SETTINGS_MARKERS_BLOCK_TIMER_LESS_THAN"
+msgstr "Sector effect timer (less than 10 s)"
+
+msgid "SETTINGS_MARKERS_BLOCK_TIMER_SECTOR"
+msgstr "Locked sector timer (less than 10 s)"
+
+msgid "SETTINGS_MARKERS_BOMBS"
+msgstr "Bombs"
+
+msgid "SETTINGS_MARKERS_BOMBS_AMOUNT_IN_SALVO"
+msgstr "Number of bombs per drop"
+
+msgid "SETTINGS_MARKERS_BOMB_AND_ROCKETS"
+msgstr "Bombs and Rockets"
+
+msgid "SETTINGS_MARKERS_BOMB_AND_ROCKETS_AMOUNT"
+msgstr "Number of bombs per drop/rockets per launch"
+
+msgid "SETTINGS_MARKERS_BOMB_AND_ROCKETS_KEYS"
+msgstr "Bomb drop / Rocket launch key"
+
+msgid "SETTINGS_MARKERS_BOMB_AND_ROCKET_TYPE"
+msgstr "Bomb and rocket type"
+
+msgid "SETTINGS_MARKERS_BOMB_TYPE"
+msgstr "Bomb type"
+
+msgid "SETTINGS_MARKERS_BOOST"
+msgstr "Boost"
+
+msgid "SETTINGS_MARKERS_BOOST_IN_WORK"
+msgstr "Boost activation"
+
+msgid "SETTINGS_MARKERS_CAMERA_POSITION"
+msgstr "Camera view"
+
+msgid "SETTINGS_MARKERS_CAPTURE_POINTS"
+msgstr "Capture points"
+
+msgid "SETTINGS_MARKERS_CD_TIMER_BOMBS"
+msgstr "Bomb replenishment timer"
+
+msgid "SETTINGS_MARKERS_CD_TIMER_BOMBS_ROKETS"
+msgstr "Bomb and rocket replenishment timer"
+
+msgid "SETTINGS_MARKERS_CHECKBOX_DISTANCE_CHOOSE_TARGET"
+msgstr "Target selection range"
+
+msgid "SETTINGS_MARKERS_CHECKBOX_DISTANCE_FAR_AWAY"
+msgstr "Ineffective range"
+
+msgid "SETTINGS_MARKERS_CHECKBOX_DISTANCE_SHOOTING"
+msgstr "Firing range"
+
+msgid "SETTINGS_MARKERS_CHECKBOX_SHOW_DEFENDERS"
+msgstr "Show air defense aircraft detected by allies"
+
+msgid "SETTINGS_MARKERS_CIRCLE_MOVEMENT_ARROWS"
+msgstr "Arrow movement circle"
+
+msgid "SETTINGS_MARKERS_COMPLEX_BORDER"
+msgstr "Sector borders"
+
+msgid "SETTINGS_MARKERS_COMPLEX_INFLUENCE"
+msgstr "Sector influence gain"
+
+msgid "SETTINGS_MARKERS_COMPLEX_PROPERTY_BLOCKING"
+msgstr "Locked sector property"
+
+msgid "SETTINGS_MARKERS_COMPLEX_TACTICAL_MARCERS_IN_WORLD_HEADER"
+msgstr "Tactical markers on the arena"
+
+msgid "SETTINGS_MARKERS_CONSUMABLES_AMOUNT"
+msgstr "Number of consumables"
+
+msgid "SETTINGS_MARKERS_CONSUMABLES_INACTIVE"
+msgstr "Inactive consumables"
+
+msgid "SETTINGS_MARKERS_CONSUMABLES_KEYS"
+msgstr "Keys for consumables"
+
+msgid "SETTINGS_MARKERS_DEFENDERS_IN_ZONE"
+msgstr "Air defense aircraft within target selection range"
+
+msgid "SETTINGS_MARKERS_DEFENDERS_OUT_OF_ZONE"
+msgstr "Air defense aircraft out of target selection range"
+
+msgid "SETTINGS_MARKERS_DESCRIPTION_HUD"
+msgstr ""
+"Here you can adjust the appearance and display of elements of the battle "
+"interface."
+
+msgid "SETTINGS_MARKERS_DESCRIPTION_PROPERTY"
+msgstr "Description of property"
+
+msgid "SETTINGS_MARKERS_DEV_VER"
+msgstr "Dev Settings Version"
+
+msgid "SETTINGS_MARKERS_DIAMETER_NUMBER_AREA"
+msgstr "Visible area radius numbers"
+
+msgid "SETTINGS_MARKERS_DISTANCE_TO_AIRCRAFT"
+msgstr "Range to aircraft"
+
+msgid "SETTINGS_MARKERS_DISTANCE_TO_COMPLEX"
+msgstr "Range to sector"
+
+msgid "SETTINGS_MARKERS_EFFECT_TIMER"
+msgstr "Point accumulation timer"
+
+msgid "SETTINGS_MARKERS_FAST_COMMAND"
+msgstr "Chat Shortcuts"
+
+msgid "SETTINGS_MARKERS_FIRE_DISTANCE"
+msgstr "Range of fire"
+
+msgid "SETTINGS_MARKERS_FLIGHT_DIRECTION"
+msgstr "Flight direction"
+
+msgid "SETTINGS_MARKERS_FPS_PING_PACKET_LOSS"
+msgstr "FPS, Ping, Packet loss"
+
+msgid "SETTINGS_MARKERS_GAME_EVENT_AND_MESSAGES"
+msgstr "Game events and notifications"
+
+msgid "SETTINGS_MARKERS_GROUND_OBJECTS"
+msgstr "Ground objects"
+
+msgid "SETTINGS_MARKERS_HEAVY_GUN"
+msgstr "Heavy autocannon"
+
+msgid "SETTINGS_MARKERS_HIGHT_CEILING"
+msgstr "Flight ceiling"
+
+msgid "SETTINGS_MARKERS_HIGHT_NUMBER"
+msgstr "Airspeed indicator readings"
+
+msgid "SETTINGS_MARKERS_HP_DETAILED"
+msgstr "Detailed HP bar"
+
+msgid "SETTINGS_MARKERS_ICONS_CLASSES_DEFENDERS"
+msgstr "Air defense aircraft type icons"
+
+msgid "SETTINGS_MARKERS_ICONS_CLASSES_PLANE"
+msgstr "Aircraft type icons"
+
+msgid "SETTINGS_MARKERS_ICON_COMPLEX_BLOKED"
+msgstr "Locked sector icon"
+
+msgid "SETTINGS_MARKERS_ICON_COMPLEX_UNDER_ATTACK"
+msgstr "\"Sector under attack\" icon"
+
+msgid "SETTINGS_MARKERS_ICON_DEFENDER_EDGES"
+msgstr "Air defense aircraft icons at the edge of the screen"
+
+msgid "SETTINGS_MARKERS_ICON_EVENT"
+msgstr "Event icon"
+
+msgid "SETTINGS_MARKERS_ICON_MESSAGES_FOR_SCALES"
+msgstr "Icons and bar captions"
+
+msgid "SETTINGS_MARKERS_ICON_PLAYERS_PLANE_EDGES"
+msgstr "Player aircraft icons at the edge of the screen"
+
+msgid "SETTINGS_MARKERS_ICON_PLAYER_PLANE"
+msgstr "Player aircraft arrow icon"
+
+msgid "SETTINGS_MARKERS_ICON_PROPERTY"
+msgstr "Property icon"
+
+msgid "SETTINGS_MARKERS_ICON_SECTOR_EDGES"
+msgstr "Sector icons at the edge of the screen"
+
+msgid "SETTINGS_MARKERS_ICON_WING_BOMBERS_EDGES"
+msgstr "Flight of bombers icon at the edge of the screen"
+
+msgid "SETTINGS_MARKERS_INFLUENCE_POINTS"
+msgstr "Influence points"
+
+msgid "SETTINGS_MARKERS_IN_CENTER"
+msgstr "In the center"
+
+msgid "SETTINGS_MARKERS_IN_USE_IN_CD"
+msgstr "When activated and during cooldown"
+
+msgid "SETTINGS_MARKERS_KEY_FOR_BOMB_DROP"
+msgstr "Bomb drop key"
+
+msgid "SETTINGS_MARKERS_MASHINEGUN"
+msgstr "Machine gun"
+
+msgid "SETTINGS_MARKERS_MEDIUM_SIZE"
+msgstr "Medium"
+
+msgid "SETTINGS_MARKERS_MESSAGES_DIAMETER_AREA"
+msgstr "\"Visible area radius\" caption"
+
+msgid "SETTINGS_MARKERS_MINIMUM"
+msgstr "Minimal"
+
+msgid "SETTINGS_MARKERS_NAME_COMPLEX"
+msgstr "Sector name"
+
+msgid "SETTINGS_MARKERS_NAME_PLANE"
+msgstr "Aircraft name"
+
+msgid "SETTINGS_MARKERS_NAME_PLAYER"
+msgstr "Player Name"
+
+msgid "SETTINGS_MARKERS_NEVER"
+msgstr "Never"
+
+msgid "SETTINGS_MARKERS_ON_EDGES_SCREEN"
+msgstr "At the edge of the screen"
+
+msgid "SETTINGS_MARKERS_OVERHEATING_SCALE"
+msgstr "Weapon overheating bar"
+
+msgid "SETTINGS_MARKERS_OVERHEATING_SCALE_ICON"
+msgstr "Weapon overheating icon"
+
+msgid "SETTINGS_MARKERS_PLANE_WEAPONS"
+msgstr "Aircraft weapons"
+
+msgid "SETTINGS_MARKERS_PLAYERS_ARROW"
+msgstr "Players (arrow icons)"
+
+msgid "SETTINGS_MARKERS_PLAYERS_ICON_CLASS"
+msgstr "Players (aircraft type icons)"
+
+msgid "SETTINGS_MARKERS_POINTS_PER_TICK"
+msgstr "Points accumulated per tick"
+
+msgid "SETTINGS_MARKERS_POINT_HP_RESTORE"
+msgstr "Regeneration spot"
+
+msgid "SETTINGS_MARKERS_QUICKFIRE_GUN"
+msgstr "Rapid-firing autocannon"
+
+msgid "SETTINGS_MARKERS_RADAR_SIZE"
+msgstr "Size"
+
+msgid "SETTINGS_MARKERS_RADAR_ZOOM"
+msgstr "Radar zoom"
+
+msgid "SETTINGS_MARKERS_RADIUS_ENEMY_DETECTION"
+msgstr "Target selection range"
+
+msgid "SETTINGS_MARKERS_RADIUS_POINT_HP_RESTORE"
+msgstr "Regeneration spot range"
+
+msgid "SETTINGS_MARKERS_RANGE_OF_VIEW"
+msgstr "Radar range"
+
+msgid "SETTINGS_MARKERS_ROTATE_MAP_PIN_PLAYER"
+msgstr "Rotate map (player marker pinned)"
+
+msgid "SETTINGS_MARKERS_ROTATE_PLAYER_PIN_MAP"
+msgstr "Rotate player marker (map pinned)"
+
+msgid "SETTINGS_MARKERS_SCALE"
+msgstr "Scale"
+
+msgid "SETTINGS_MARKERS_SCALE_FOR_AVAILABLE_BOMB"
+msgstr "Available bombs bar"
+
+msgid "SETTINGS_MARKERS_SCALE_HP_BOOST"
+msgstr "HP and Boost bars"
+
+msgid "SETTINGS_MARKERS_SCALE_PLANE_HEALTH"
+msgstr "Aircraft hit point bar"
+
+msgid "SETTINGS_MARKERS_SCOPE"
+msgstr "Reticle"
+
+msgid "SETTINGS_MARKERS_SECTOR_MESSAGES"
+msgstr "\"Current sector\" caption"
+
+msgid "SETTINGS_MARKERS_SELECTED_TARGET"
+msgstr "Selected target"
+
+msgid "SETTINGS_MARKERS_SENSORS_DIGITAL_GLASSES"
+msgstr "Digital sensor readings"
+
+msgid "SETTINGS_MARKERS_SHOW"
+msgstr "Show"
+
+msgid "SETTINGS_MARKERS_SHOW_ALTERNATIVE_HUD"
+msgstr "To view the interface in the alternative mode, press and hold {key}"
+
+msgid "SETTINGS_MARKERS_SHOW_BOOST"
+msgstr "Show boost"
+
+msgid "SETTINGS_MARKERS_SKILL_PILOT_INACTIVE"
+msgstr "Inactive pilot skills"
+
+msgid "SETTINGS_MARKERS_SMALL_SIZE"
+msgstr "Small"
+
+msgid "SETTINGS_MARKERS_SPEED_NUMBER"
+msgstr "Altimeter readings"
+
+msgid "SETTINGS_MARKERS_SPEED_SCALE"
+msgstr "Airspeed indicator"
+
+msgid "SETTINGS_MARKERS_STALL_SPEED"
+msgstr "Stall speed"
+
+msgid "SETTINGS_MARKERS_START_POINT_RESPAWN"
+msgstr "Spawn/respawn point"
+
+msgid "SETTINGS_MARKERS_TACTICAL_MARKER_COMPEX"
+msgstr "Tactical sector marker"
+
+msgid "SETTINGS_MARKERS_TARGET_DISTANCE"
+msgstr "Range to target"
+
+msgid "SETTINGS_MARKERS_TEXT_BOOST"
+msgstr "\"Boost\" caption"
+
+msgid "SETTINGS_MARKERS_TEXT_HIGHT_CEILING"
+msgstr "\"Flight ceiling\" caption"
+
+msgid "SETTINGS_MARKERS_TEXT_PLANE_HEALTH"
+msgstr "\"Aircraft HP\" caption"
+
+msgid "SETTINGS_MARKERS_TEXT_STALL_SPEED"
+msgstr "\"Stall speed\" caption"
+
+msgid "SETTINGS_MARKERS_TIMER_COMPLEX_BLOKED"
+msgstr "Locked sector timer"
+
+msgid "SETTINGS_MARKERS_TIMER_PROPERTY"
+msgstr "Property timer"
+
+msgid "SETTINGS_MARKERS_TIPS_HOTKEYS"
+msgstr "Hotkey tips"
+
+msgid "SETTINGS_MARKERS_TIPS_HOT_KEYS"
+msgstr "Hotkey tips"
+
+msgid "SETTINGS_MARKERS_TIP_FOR_NEED_TO_DO"
+msgstr "Required action hint"
+
+msgid "SETTINGS_MARKERS_TYPE_ALTIMETER"
+msgstr "Altimeter type"
+
+msgid "SETTINGS_MARKERS_VECTOR_INFLUENCE_COMPLEX"
+msgstr "Sector influence direction"
+
+msgid "SETTINGS_MARKERS_WING_BOMBERS"
+msgstr "Flight of bombers"
+
+msgid "SETTINGS_MARKERS_ZOOM_CLOSE"
+msgstr "Near"
+
+msgid "SETTINGS_MARKERS_ZOOM_FAR"
+msgstr "Far"
+
+msgid "SETTINGS_MARKERS_ZOOM_MEDIUM"
+msgstr "Medium"
+
+msgid "SETTINGS_MESSAGES_DESCRIPTION_CHANGE"
+msgstr ""
+"To configure the battle interface, hover over and select options on the left."
+
+msgid "SETTINGS_RADAR"
+msgstr "Radar"
+
+msgid "SETTINGS_RADAR_DESCRIPTION"
+msgstr ""
+"A radar has extended functional capabilities compared to the capabilities of "
+"a minimap and offers great help to aircraft engaging in aerial duels."
+
+msgid "SETTINGS_ROLL_INDICATOR"
+msgstr "Bank indicator"
+
+msgid "SETTINGS_ROTATE_RADAR-MINIMAP"
+msgstr "Rotate map (player marker pinned)"
+
+msgid "SETTINGS_SCREENSHOTS_SAVE_IN_FOLDER"
+msgstr "Path to the folder with screenshots"
+
+msgid "SETTINGS_SHOOTING_REAR_GUNNER_MODE"
+msgstr "Fire in turret control mode"
+
+msgid "SETTINGS_SHOW"
+msgstr "Show"
+
+msgid "SETTINGS_SHOW_AVIAHORIZON"
+msgstr "Show attitude indicator"
+
+msgid "SETTINGS_SHOW_BATTLE_RECOMENDATIONS"
+msgstr "Battle recommendations"
+
+msgid "SETTINGS_SHOW_FPS_PING"
+msgstr "FPS, ping, packet loss"
+
+msgid "SETTINGS_SHOW_TIPS_HOTKEYS"
+msgstr "Hotkey tips"
+
+msgid "SETTINGS_SPEED_SCALE"
+msgstr "Airspeed indicator"
+
+msgid "SETTINGS_STANDART_MODE"
+msgstr "Standard mode"
+
+msgid "SETTINGS_STICK"
+msgstr "Stick Settings"
+
+msgid "SETTINGS_TILT_SCALE"
+msgstr "Pitch indicator"
+
+msgid "SETTINGS_WARNING_DESCRIPTION_FOR_EXP_PLAYERS"
+msgstr "Attention! Advanced settings are intended for experienced players."

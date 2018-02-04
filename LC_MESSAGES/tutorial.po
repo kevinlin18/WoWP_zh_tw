@@ -1,0 +1,1882 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: World Of Tanks\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-06-01 10:00+0300\n"
+"Last-Translator: i_maliavko <i_maliavko@wargaming.net>\n"
+"Language-Team: WoT Team <noreply@wargaming.net>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "EXIT_BUTTON"
+msgstr "返回機庫"
+
+msgid "FIND_TARGET_HEADER"
+msgstr "第一步，鎖定目標."
+
+msgid "FLIGHT_SCHOOL"
+msgstr "戰鬥訓練"
+
+msgid "HINT_0"
+msgstr ""
+"當一架速度不快的敵機企圖攻擊你的時候，用小角度俯衝脫離來擺脫敵機，要比試圖急"
+"轉彎咬住對方明智的多。"
+
+msgid "HINT_1"
+msgstr "保持飛機的速度，飛機掉速度是可能進入失速，失控墜毀的。"
+
+msgid "HINT_10"
+msgstr "太陽是最好的掩護，當你開始攻擊時，請保持太陽在你的身後。"
+
+msgid "HINT_11"
+msgstr ""
+"嘗試使用不同的操控模式，從中找出一個適合自己的模式，設定自己喜歡的快捷鍵。"
+
+msgid "HINT_12"
+msgstr "距離影響武器的傷害值，開火距離越近，你對敵機造成的傷害越大。"
+
+msgid "HINT_13"
+msgstr "火箭彈和炸彈可以用來攻擊地面目標。"
+
+msgid "HINT_14"
+msgstr "扔掉炸彈/打光火箭彈，減輕飛機重量可以提高飛機的機動性。"
+
+msgid "HINT_15"
+msgstr "在進行機動的時候一定要注意你的飛行速度和高度。"
+
+msgid "HINT_16"
+msgstr "如果發動機停車，那麼你的飛機將變成一個脆弱的目標。"
+
+msgid "HINT_17"
+msgstr "Z字型機動可以用來躲避敵人的火力。"
+
+msgid "HINT_18"
+msgstr "在遊戲設定中可以啟用語音模式。"
+
+msgid "HINT_19"
+msgstr "在設定中可以修改後視鏡模式的設定。"
+
+msgid "HINT_2"
+msgstr "要想快速的轉彎，請收起襟翼"
+
+msgid "HINT_20"
+msgstr "摧毀NPC控制的飛機，不會為你贏得任何獎勵。"
+
+msgid "HINT_21"
+msgstr "設定中可以修改儀表介面的佈局，玩家可以嘗試不用的組合。"
+
+msgid "HINT_22"
+msgstr "部分戰機的垂直機動性非常好，請在戰場中留意它們。"
+
+msgid "HINT_23"
+msgstr "重置經驗可以給玩家一次重新研發科技樹的機會。"
+
+msgid "HINT_24"
+msgstr "玩家準確，詳盡的意見可以讓遊戲變的跟好。"
+
+msgid "HINT_25"
+msgstr "遊戲中，你可以進行貼地的超低空飛行，"
+
+msgid "HINT_26"
+msgstr ""
+"當飛機進入斤斗時，前半段增大油門加速，後半段收小油門減速，利用剩餘能量完成斤"
+"鬥。"
+
+msgid "HINT_27"
+msgstr "當飛機進入俯衝的時候，可以收小油門減速或關閉發動機。"
+
+msgid "HINT_28"
+msgstr "如果在己方基地附近發生空戰，可以將對手引到防空砲陣地上空。"
+
+msgid "HINT_29"
+msgstr "真正的王牌飛行員會知道何時進攻和脫離攻擊。"
+
+msgid "HINT_3"
+msgstr "發動機損壞後，發動機功率將下降。"
+
+msgid "HINT_30"
+msgstr "去設定裡邊修改設定，體驗所有的操控模式，找出適合你的那一種。"
+
+msgid "HINT_31"
+msgstr ""
+"水平轟炸的準確度取決於與目標的相對速度；相比而言，俯衝轟炸的準確度更高。"
+
+msgid "HINT_32"
+msgstr "不同類型的飛機需要使用不同的戰術。"
+
+msgid "HINT_33"
+msgstr ""
+"在迎頭攻擊的時候，對地攻擊機要比重型戰鬥機有優勢，而重型戰鬥機則比輕型戰鬥機"
+"強。"
+
+msgid "HINT_34"
+msgstr ""
+"擊落對方所有的戰鬥機不是唯一取得勝利的條件;摧毀地面目標並且保持優勢也可以取得"
+"勝利。"
+
+msgid "HINT_35"
+msgstr "當己方友機被擊落或地面目標被摧毀，將失去優勢"
+
+msgid "HINT_36"
+msgstr "當敵人擊落的飛機數量領先的時候，擊毀對方地面目標可以扭轉戰局。"
+
+msgid "HINT_37"
+msgstr ""
+"防空砲對於對方輕型戰鬥機是致命威脅，所有有時退縮到己方基地附近是明智之舉。"
+
+msgid "HINT_38"
+msgstr "攻擊機可有效對抗地面防空火力"
+
+msgid "HINT_39"
+msgstr "攻擊地面目標時選擇一個較小的俯衝角，這樣會減少撞地的可能性。"
+
+msgid "HINT_4"
+msgstr "如果飛機起火，急轉彎可以幫助滅火。"
+
+msgid "HINT_40"
+msgstr ""
+"攻擊機在較低的高度飛行將更難被敵人發現，並且更容易避免被敵方戰機的探測到。"
+
+msgid "HINT_41"
+msgstr ""
+"後射機槍能對尾隨追擊你的敵機造成嚴重傷害，躲避敵人的射擊會為你的後射機槍手提"
+"供更好的清除尾巴的機會。"
+
+msgid "HINT_42"
+msgstr "炸彈可以摧毀敵方地面目標和戰機，當你投彈時應嘗試引誘敵機進入爆炸區域。"
+
+msgid "HINT_43"
+msgstr "重型戰鬥機的主要任務是攔截敵方攻擊機"
+
+msgid "HINT_44"
+msgstr ""
+"避免與那些有良好機動性的戰鬥機近距離交戰，擁有良好的機動性使他們能夠很容易的"
+"找到自己的有利位置。"
+
+msgid "HINT_45"
+msgstr ""
+"當你擁有較強的火力時你可以嘗試與敵人的戰鬥機對射，之後在與敵方戰機拉開距離後"
+"再轉向脫離。"
+
+msgid "HINT_46"
+msgstr "遠離混戰區域和使用發動機加力可以幫助重型戰鬥機規避戰鬥機的攻擊。"
+
+msgid "HINT_47"
+msgstr ""
+"巧妙利用高度會使你獲得優勢！在戰鬥中你可以爬升至高空埋伏，然後俯衝攻擊你的敵"
+"人。"
+
+msgid "HINT_48"
+msgstr "攜帶炸彈和火箭彈將會影響你戰機的機動性，應在進行機動作戰前使用掉它們。"
+
+msgid "HINT_49"
+msgstr ""
+"投放炸彈時不要飛得太低，並小心敵人的防空砲火。在扔完炸彈後你的戰機將更適宜空"
+"戰。"
+
+msgid "HINT_5"
+msgstr "增大油門可以獲得更快速度或者爬升更快。"
+
+msgid "HINT_50"
+msgstr ""
+"保護你隊友的攻擊機時，你最好和他保持一定的距離和高度，這樣敵人在攻擊他時將會"
+"變成一個容易對付的目標。"
+
+msgid "HINT_51"
+msgstr "你的戰機容易受到地面火力攻擊，應儘量避免進入地方防空火力範圍內。"
+
+msgid "HINT_52"
+msgstr "攻擊敵機時要儘量有隊友陪同。"
+
+msgid "HINT_53"
+msgstr "當你咬住敵機時，也應儘量曲線飛行，即便這樣會影響你的射擊。"
+
+msgid "HINT_54"
+msgstr ""
+"避免去過多戰機聚集的地方，在那裡敵人會更容易咬住你的尾巴，撞機的概率也會增"
+"加。那些落單的敵機將會是較容易的目標。"
+
+msgid "HINT_55"
+msgstr "挑選較容易的目標攻擊，你會更快速的摧毀敵人。"
+
+msgid "HINT_56"
+msgstr "駕駛戰鬥機應避免面對面的攻擊，利用戰機機動性你會獲得更好的射擊位置。"
+
+msgid "HINT_57"
+msgstr ""
+"利用速度快速的直線飛行並在必要時爬升躲避敵人砲火將會幫助你在戰鬥中生存。"
+
+msgid "HINT_58"
+msgstr "通過曲線飛行和機動動作規避敵人砲火將會使你在戰鬥中的生存機率大大提升。"
+
+msgid "HINT_59"
+msgstr ""
+"巧妙利用高度會使你獲得優勢！在戰鬥中你可以爬升至高空埋伏，然後俯衝攻擊你的敵"
+"人。"
+
+msgid "HINT_6"
+msgstr "搶佔更高的高度，可以在與敵機展開空中格鬥的時候，獲得優勢。"
+
+msgid "HINT_60"
+msgstr ""
+"目標視窗顯示你的戰機在生命值、火力、速度、機動性和高空效能上都優於你的對手"
+
+msgid "HINT_61"
+msgstr "長時間連續射擊會使武器過熱射速下降，當武器過熱時請等待武器冷卻。"
+
+msgid "HINT_62"
+msgstr "加力會使發動機過熱，當發動機過熱，你將不能繼續加力。"
+
+msgid "HINT_63"
+msgstr ""
+"局勢佔優時你和隊友的任務是保持優勢或擊落全部敵機，要擴大優勢你需要摧毀更多的"
+"敵機和地面目標。"
+
+msgid "HINT_64"
+msgstr "破壞或摧毀不同類型的敵機和地面目標後將可獲得不同數量的優勢點數"
+
+msgid "HINT_64_AA_GUN"
+msgstr "防空砲"
+
+msgid "HINT_64_ARMORED_OBJECT"
+msgstr "地面裝甲目標"
+
+msgid "HINT_64_ATTACK_PLANE"
+msgstr "攻擊機"
+
+msgid "HINT_64_FIGHTER"
+msgstr "戰鬥機"
+
+msgid "HINT_64_HEAVY_FIGHTER"
+msgstr "重型<br>戰鬥機"
+
+msgid "HINT_64_MULTIROLE_FIGHTER"
+msgstr "多用途<br>戰鬥機"
+
+msgid "HINT_64_UNARMORED_OBJECT"
+msgstr "一般地面目標"
+
+msgid "HINT_65"
+msgstr ""
+"輕裝甲地面目標可使用機槍/機砲進行摧毀，重灌甲目標須使用炸彈或火箭彈才能摧毀"
+
+msgid "HINT_65_ARMORED_PART"
+msgstr "裝甲目標<br>單位"
+
+msgid "HINT_65_UNARMORED_PART"
+msgstr "一般目標<br>單位"
+
+msgid "HINT_7"
+msgstr "當飛機爬升的時候，通常速度會下降。"
+
+msgid "HINT_72"
+msgstr "防空砲 (三角標記)是主要的破壞目標，請優先攻擊它們"
+
+msgid "HINT_8"
+msgstr "俯衝或者增大油門都可以使飛機加速。"
+
+msgid "HINT_9"
+msgstr "雲和地形可以作為絕好的偽裝，可以讓你在敵人面前隱藏起來。"
+
+msgid "HINT_ASSAULT_1"
+msgstr "<b>攻擊機的任務:</b>壓制地方防空火力和摧毀敵方地面目標"
+
+msgid "HINT_DFIGHTER_1"
+msgstr "<b>多用途戰鬥機:</b>摧毀敵方地面目標和截擊敵方戰機"
+
+msgid "HINT_FIGHTER_1"
+msgstr "<b>戰鬥機的使命：</b>截擊敵機，與敵方戰機進行空戰"
+
+msgid "HINT_HFIGHTER_1"
+msgstr "<b>重型戰鬥機的使命：</b>截擊敵機，或者轟炸敵人地面目標"
+
+msgid "HINT_SAUCER_1"
+msgstr "<b>飛碟的任務:</b>通過發射雪球摧毀敵方飛碟!"
+
+msgid "HINT_SNOWBALLS_1"
+msgstr "受損的飛碟將會隨著時間的推移逐漸恢復生命值!"
+
+msgid "HINT_SUPERIORITY_1"
+msgstr "<b>團隊任務:</b>消滅所有敵人的戰機, 或取得制空權"
+
+msgid "L1_COMPLETE_HEADER"
+msgstr "任務1訓練完成！"
+
+msgid "L1_COMPLETE_MESSAGE"
+msgstr "好極了！完成時間："
+
+msgid "L1_COMPLETE_TITLE_TEXT"
+msgstr "恭喜！"
+
+msgid "L1_DOWN_SPEED"
+msgstr "向下俯衝提升速度"
+
+msgid "L1_DOWN_TEXT"
+msgstr "向下俯衝"
+
+msgid "L1_LEFT_TEXT"
+msgstr "左轉"
+
+msgid "L1_LEFT_TURN_TEXT"
+msgstr "向左滾轉"
+
+msgid "L1_PORTAL_MESSAGE"
+msgstr ""
+"您已經成功地學會了基本的飛行控制。<br/>您現在可以進行下一任務：穿過空中的光圈"
+
+msgid "L1_PORTAL_MESSAGE1"
+msgstr "穿過高亮顯示的光圈"
+
+msgid "L1_RESTART_TEXT"
+msgstr "按任意鍵重新開始"
+
+msgid "L1_RIGHT_TEXT"
+msgstr "右轉"
+
+msgid "L1_RIGHT_TURN_TEXT"
+msgstr "向右滾轉"
+
+msgid "L1_ROLL_AXIS_TEXT"
+msgstr "再試一次"
+
+msgid "L1_START_TEXT"
+msgstr "按任意鍵開始"
+
+msgid "L1_STEP1_HEADER"
+msgstr "第一步，控制飛機的俯仰"
+
+msgid "L1_STEP1_MESSAGE"
+msgstr "移動滑鼠控制戰機的飛行，向下或者向上移動滑鼠控制飛機的俯仰"
+
+msgid "L1_STEP1_RESTART_HEADER"
+msgstr "第一步，控制飛機的俯仰：再試一次"
+
+msgid "L1_STEP1_RESTART_MESSAGE"
+msgstr "移動滑鼠控制戰機的飛行，向下或者向上移動滑鼠控制飛機的俯仰"
+
+msgid "L1_STEP1_TEXT"
+msgstr "將游標移動到高亮顯示的區域"
+
+msgid "L1_STEP1_WELLDONE_HEADER"
+msgstr "恭喜！"
+
+msgid "L1_STEP1_WELLDONE_MESSAGE"
+msgstr "您已經掌握了飛機的俯仰！"
+
+msgid "L1_STEP2_HEADER"
+msgstr "第二步：飛機偏轉控制"
+
+msgid "L1_STEP2_MESSAGE"
+msgstr "輕微左右移動滑鼠控制飛機的轉向"
+
+msgid "L1_STEP2_RESTART_HEADER"
+msgstr "第二步：飛機轉向控制：再試一次"
+
+msgid "L1_STEP2_RESTART_MESSAGE"
+msgstr "輕微左右移動滑鼠控制飛機的轉向"
+
+msgid "L1_STEP2_TEXT"
+msgstr "左右移動滑鼠，保持游標在高亮顯示的區域"
+
+msgid "L1_STEP2_WELLDONE_HEADER"
+msgstr "恭喜！"
+
+msgid "L1_STEP2_WELLDONE_MESSAGE"
+msgstr "您已經掌握了飛機的偏轉！"
+
+msgid "L1_STEP3_HEADER"
+msgstr "第三步.飛機轉向控制"
+
+msgid "L1_STEP3_MESSAGE"
+msgstr "持續向左或者向右移動滑鼠，保持機身傾斜並朝著一個方位轉動。"
+
+msgid "L1_STEP3_RESTART_HEADER"
+msgstr "第三步。飛機轉向控制：再試一次"
+
+msgid "L1_STEP3_RESTART_MESSAGE"
+msgstr "持續向左或者向右移動滑鼠，保持機身傾斜並朝著一個方位轉動。"
+
+msgid "L1_STEP3_TEXT"
+msgstr "移動游標，保持游標在高亮區域直到戰機完成轉向。"
+
+msgid "L1_STEP3_WELLDONE_HEADER"
+msgstr "恭喜！"
+
+msgid "L1_STEP3_WELLDONE_MESSAGE"
+msgstr "您已經掌握了飛機的滾轉！"
+
+msgid "L1_TITLE_HEADER"
+msgstr "飛行控制"
+
+msgid "L1_TITLE_MESSAGE"
+msgstr "在這一訓練中，您將學習基本的飛行"
+
+msgid "L1_TITLE_MSG_TEXT"
+msgstr "在這一訓練中，您將學習如何正確地控制您的飛機"
+
+msgid "L1_TITLE_TEXT"
+msgstr "飛行控制"
+
+msgid "L1_UP_SPEED"
+msgstr "向上爬升降低速度"
+
+msgid "L1_UP_TEXT"
+msgstr "向上爬升"
+
+msgid "L1_VERTICAL_AXIS_TEXT"
+msgstr "做好準備吧！"
+
+msgid "L1_WAYPOINT_COMPLETE_TEXT"
+msgstr "好極了！"
+
+msgid "L1_WAYPOINT_HEADER"
+msgstr "測試"
+
+msgid "L1_WAYPOINT_MESSAGE"
+msgstr "現在您就可以進行最後的任務：穿過一系列在空中的光圈"
+
+msgid "L1_WAYPOINT_MESSAGE1"
+msgstr "你還沒有穿過的光圈會用綠色高亮顯示"
+
+msgid "L1_WAYPOINT_MESSAGE2"
+msgstr "您成功穿過的光圈會變成灰色，黃色顯示的是您當前需要穿過的光圈。"
+
+msgid "L1_WAYPOINT_MESSAGE3"
+msgstr "綠色箭頭指示著當前目標的位置。"
+
+msgid "L1_WAYPOINT_TEXT"
+msgstr "按任意鍵繼續"
+
+msgid "L1_WELLDONE_TEXT"
+msgstr "按任意鍵繼續"
+
+msgid "L2_ARROW_TEXT"
+msgstr "箭頭指示當前目標的位置"
+
+msgid "L2_COMPLETE_HEADER"
+msgstr "任務2成功完成！"
+
+msgid "L2_CONTINUE_FIRE"
+msgstr "按住持續開火！"
+
+msgid "L2_FIRE_TEXT"
+msgstr "開火！"
+
+msgid "L2_MARKER_TEXT"
+msgstr "當你標記的目標足夠接近的時候在攻擊敵人。"
+
+msgid "L2_NEW_TARGET"
+msgstr "偵測到新的目標！"
+
+msgid "L2_OVERHEAT_ALT"
+msgstr "武器過熱！射速下降了！"
+
+msgid "L2_OVERHEAT_HEADER"
+msgstr "武器過熱！不能開火！"
+
+msgid "L2_OVERHEAT_RESUME"
+msgstr "等待武器冷卻之後才恢復正常射速。"
+
+msgid "L2_OVERHEAT_TEXT"
+msgstr "等待武器冷卻後才恢復開火。"
+
+msgid "L2_QUALIFY_HEADER"
+msgstr "摧毀敵人的飛機！"
+
+msgid "L2_QUALIFY_MESSAGE"
+msgstr ""
+"您已經成功地學會了基本的空戰。<br/>現在您可以進行下一個任務：一個接一個敵機。"
+
+msgid "L2_RANGE_TEXT"
+msgstr "開火之前先接近目標"
+
+msgid "L2_STEP1_HEADER"
+msgstr "步驟1：摧毀靜止目標"
+
+msgid "L2_STEP1_MESSAGE"
+msgstr "要摧毀目標，瞄準和射擊必須在你的武器範圍之內。"
+
+msgid "L2_STEP1_RESTART"
+msgstr "步驟1：摧毀一個靜止的目標：再試一次"
+
+msgid "L2_STEP1_WELLDONE"
+msgstr "您已經成功地摧毀了一個靜止的目標！"
+
+msgid "L2_STEP2_HEADER"
+msgstr "步驟2：摧毀一個移動的目標"
+
+msgid "L2_STEP2_MESSAGE"
+msgstr "跟蹤該目標，當其到達武器射程之內，將之摧毀"
+
+msgid "L2_STEP2_RESTART"
+msgstr "步驟2：摧毀一個移動的目標：再試一次"
+
+msgid "L2_STEP2_WELLDONE"
+msgstr "您已經成功地摧毀了一個移動的目標！"
+
+msgid "L2_TARGETS_REMAIN"
+msgstr "目標剩餘："
+
+msgid "L2_TARGETS_REMAIN_1"
+msgstr "目標剩餘：1"
+
+msgid "L2_TARGETS_REMAIN_2"
+msgstr "目標剩餘：2"
+
+msgid "L2_TARGETS_REMAIN_3"
+msgstr "目標剩餘：3"
+
+msgid "L2_TARGETS_REMAIN_4"
+msgstr "目標剩餘：4"
+
+msgid "L2_TARGETS_REMAIN_5"
+msgstr "目標剩餘：5"
+
+msgid "L2_TARGET_BTN"
+msgstr "鎖定目標"
+
+msgid "L2_TARGET_LOCK"
+msgstr "用鎖定目標鍵來鎖定距離最近的目標"
+
+msgid "L2_TEMP_HEADER"
+msgstr "確定武器沒有過熱！"
+
+msgid "L2_TEMP_TEXT"
+msgstr ""
+"使用溫度指示器檢測武器的溫度，如果開火時間較長，武器會過熱並將影響射擊。"
+
+msgid "L2_TITLE_HEADER"
+msgstr "空戰訓練"
+
+msgid "L2_TITLE_MESSAGE"
+msgstr "在這次訓練中你將要學習最基本的空戰技術。"
+
+msgid "L2_TITLE_TEXT"
+msgstr "點選滑鼠左鍵開火。"
+
+msgid "L2_TITLE_WELLDONE_MESSAGE"
+msgstr "十字標是機槍或機砲射擊的瞄準點"
+
+msgid "L3_ALARM_ENEMIES"
+msgstr "注意！偵測到敵機！"
+
+msgid "L3_ATTENTION_CONTROLS"
+msgstr "注意檢視儀表上您的飛機的速度和高度"
+
+msgid "L3_BACK_BASE"
+msgstr "跟著教練機一起飛回基地，利用地形掩護。"
+
+msgid "L3_COMPLETE_HEADER"
+msgstr "任務3成功完成！"
+
+msgid "L3_DECREASE_SPEED"
+msgstr "減速！"
+
+msgid "L3_ENGINE_OFF"
+msgstr "如果飛行速度過快，可以通過停車來減速。"
+
+msgid "L3_FINISHED"
+msgstr "棒極了！成功到達目的地"
+
+msgid "L3_FOCUS_ENEMY"
+msgstr "要將視角聚焦在目標敵機上，按住對齊到目標鍵："
+
+msgid "L3_FOLLOW_INSTRUCTIONS"
+msgstr "跟緊教練機"
+
+msgid "L3_FOLLOW_LEADER"
+msgstr "步驟3：跟緊長機"
+
+msgid "L3_FOLLOW_MANEUVERS"
+msgstr "緊跟教練機，按照演示做相關動作"
+
+msgid "L3_FOLLOW_PORTALS"
+msgstr "穿過光圈"
+
+msgid "L3_FORSAGE_COOLDOWN"
+msgstr "使用完加力後，需要等待發動機冷卻"
+
+msgid "L3_FORSAGE_DESC"
+msgstr "開啟加力後可以迅速提升航速，得到更快的爬升速度"
+
+msgid "L3_FORSAGE_KEY"
+msgstr "要迅速提升速度，按住加力鍵："
+
+msgid "L3_KEEP_LOW"
+msgstr "保持飛行高度低於峽谷壁！"
+
+msgid "L3_KEEP_UP"
+msgstr "請緊跟教練！"
+
+msgid "L3_KEY_FLAPS"
+msgstr "要轉向更快，按住開啟襟翼鍵："
+
+msgid "L3_LOW_ALT"
+msgstr "步驟2：低空飛行"
+
+msgid "L3_OFF_KEY"
+msgstr "停車一小段時間"
+
+msgid "L3_PILOT_TRAINING"
+msgstr "您將品味高速飛行未裝備武器的戰鬥機飛行體驗和空戰的味道。"
+
+msgid "L3_REAL_BATTLES"
+msgstr "敵機經常會利用地形掩護"
+
+msgid "L3_SPEED_UP"
+msgstr "提高速度！"
+
+msgid "L3_START_HEADER"
+msgstr "精通飛行技巧"
+
+msgid "L3_TOO_HIGH"
+msgstr "您飛的太高了，不利於隱蔽！"
+
+msgid "L4_AA_GUNS"
+msgstr "己方地面防空砲僅對敵機射擊"
+
+msgid "L4_BASE_DEFEND"
+msgstr "步驟3：利用基地掩護"
+
+msgid "L4_DESTROY_HEAVIES"
+msgstr "在僚機的掩護下摧毀敵方重型戰鬥機"
+
+msgid "L4_DOGFIGHT"
+msgstr "步驟2：瞭解纏鬥"
+
+msgid "L4_FIGHTERS_INCOMING"
+msgstr "注意！敵機靠近！"
+
+msgid "L4_FIGHT_INSTRUCTIONS"
+msgstr "僚機會吸引敵機的注意，你的任務就是從後面幹掉敵機"
+
+msgid "L4_INTERCEPT"
+msgstr "步驟1：截擊重型戰鬥機"
+
+msgid "L4_KILL_ALL"
+msgstr "擊毀所有敵方戰鬥機，但務必在基地周圍！"
+
+msgid "L4_MAIN_TASK"
+msgstr "戰機任務：截擊敵方戰鬥機，防止他們轟炸己方基地目標。"
+
+msgid "L4_MORE_FIGHTERS"
+msgstr "敵方戰鬥機太多了！快返回基地！"
+
+msgid "L4_START_HEADER"
+msgstr "大師級任務：戰鬥機"
+
+msgid "L4_TO_BASE"
+msgstr "跟隨教練機同回基地，注意利用地形掩護"
+
+msgid "L4_TRAINING_DESCRIPTION"
+msgstr "一個有經驗的僚機會教你學會很多空戰的技巧"
+
+msgid "L5_BOMB_AWAY"
+msgstr "投彈了！"
+
+msgid "L5_BOMB_BTN"
+msgstr "投下炸彈"
+
+msgid "L5_BOMB_EXAM"
+msgstr "第四步.單炸彈攻擊"
+
+msgid "L5_BOMB_HEADER"
+msgstr "第三步.炸彈攻擊"
+
+msgid "L5_BOMB_INSTRUCTIONS"
+msgstr "穩住你的飛機，切換到瞄準模式，瞄準目標投下炸彈。"
+
+msgid "L5_BOMB_NOW"
+msgstr "投下炸彈。"
+
+msgid "L5_BOMB_POSITION"
+msgstr "該模式下顯示你的炸彈摧毀的地方。"
+
+msgid "L5_BOMB_RETRY"
+msgstr "飛機在目標上空保持穩定，知道投下炸彈。"
+
+msgid "L5_BOMB_SIGHT"
+msgstr "第二步.投彈瞄準器模式"
+
+msgid "L5_BOMB_SIGHT_BTN"
+msgstr "切換到瞄準器模式。"
+
+msgid "L5_BOMB_SIGHT_OFF"
+msgstr "按投彈瞄準器模式鍵，切換回標準模式。"
+
+msgid "L5_BOMB_SIGHT_TEXT"
+msgstr "你的目標和戰機垂直，切換到瞄準模式，用炸彈攻擊地面目標。"
+
+msgid "L5_BOMB_TASK"
+msgstr "標線與目標相吻合投下炸彈。"
+
+msgid "L5_COMPLETE_HEADER"
+msgstr "恭喜！“重型戰鬥機訓練”成功完成！"
+
+msgid "L5_ENEMY_FOUND"
+msgstr "注意！偵測到敵人攻擊機！"
+
+msgid "L5_FINAL_TASK"
+msgstr "請遵循並摧毀一切敵人的飛機。"
+
+msgid "L5_INTERCEPT"
+msgstr "第五步：攔截敵人的飛機。"
+
+msgid "L5_MAP_SIGNALS"
+msgstr "時刻注意地圖上出現的閃爍訊號！"
+
+msgid "L5_MAP_TARGET"
+msgstr "靠近你在地圖上看到的目標"
+
+msgid "L5_PREPARE_BOMB"
+msgstr "在適當的時機投擲炸彈"
+
+msgid "L5_START_HEADER"
+msgstr "大師級任務：重型戰鬥機"
+
+msgid "L5_START_TEXT"
+msgstr "您將學習如何完美的從重型戰鬥機投擲炸彈摧毀地面的目標和敵人的飛機。"
+
+msgid "L5_TARGET_LOCK"
+msgstr "鎖定目標"
+
+msgid "L5_TARGET_PRIORITY"
+msgstr "感謝強大的武器，重型戰鬥機攔截攻擊機很完美。"
+
+msgid "L5_TRY_EXAM"
+msgstr "用炸彈摧毀地面目標。"
+
+msgid "L6_COMPLETE_HEADER"
+msgstr "恭喜！大師級任務：重型戰鬥機 成功完成！"
+
+msgid "L6_ENEMY_FIGHTER"
+msgstr "攻擊機的尾砲起到摧毀地方戰機的作用。"
+
+msgid "L6_EXAM_HEADER"
+msgstr "偵測到敵人的陣地！"
+
+msgid "L6_EXAM_TEXT"
+msgstr "使用所有可用的武器，包括火箭，自動砲和機槍，摧毀敵人的基地內所有目標。"
+
+msgid "L6_FOLLOW_COURSE"
+msgstr "飛機穿過幀。在最後一幀時發射火箭。"
+
+msgid "L6_GUNS_OFF"
+msgstr "自動砲和機槍被禁用時，用火箭摧毀目標。"
+
+msgid "L6_MOVING_TARGET"
+msgstr "跟蹤並摧毀移動目標。"
+
+msgid "L6_ROCKET_BTN"
+msgstr "發射火箭。"
+
+msgid "L6_ROCKET_FIRE"
+msgstr "開火！"
+
+msgid "L6_ROCKET_HEADER"
+msgstr "第二步：火箭彈攻擊"
+
+msgid "L6_ROCKET_INSTRUCTIONS"
+msgstr "用火箭摧毀目標"
+
+msgid "L6_ROCKET_READY"
+msgstr "在適當的時候發射火箭。"
+
+msgid "L6_ROCKET_REPEAT"
+msgstr "第三步：單獨火箭襲擊"
+
+msgid "L6_ROCKET_TRY"
+msgstr "用火箭摧毀一個地面目標。"
+
+msgid "L6_START_HEADER"
+msgstr "大師級任務：攻擊機"
+
+msgid "L6_START_TEXT"
+msgstr "您將學習如何發射火箭彈，摧毀地面目標。"
+
+msgid "LESSON_PASSED"
+msgstr "訓練完成！"
+
+msgid "MASTERCLASS_COMPLETE"
+msgstr "大師級任務成功完成！"
+
+msgid "MINIMAP_TARGET_TEXT"
+msgstr "地圖上的紅點是你的目標"
+
+msgid "MINIMAP_TEXT"
+msgstr ""
+"小地圖上會顯示出你戰機的所在位置，以及所有友方戰機和可看到的敵方戰機位置"
+
+msgid "NEW_TARGETS"
+msgstr "偵測到新的目標！"
+
+msgid "NEXT_LESSON_BUTTON"
+msgstr "下一訓練"
+
+msgid "OBJECT_DESTROYED"
+msgstr "地面目標被摧毀！"
+
+msgid "PLANE_DESTROYED"
+msgstr "目標被摧毀！"
+
+msgid "PORTAL_TEXT"
+msgstr "第一次穿過光圈。"
+
+msgid "QUALIFY_BUTTON"
+msgstr "開始訓練"
+
+msgid "REQUALIFY_BUTTON"
+msgstr "重複本次訓練"
+
+msgid "START"
+msgstr "開始！"
+
+msgid "START_SCHOOL_BUTTON"
+msgstr "開始訓練"
+
+msgid "STEP_RESTART"
+msgstr "再試一次"
+
+msgid "TUTORIAL_AUTOPILOT_HEADER"
+msgstr "教練控制了！"
+
+msgid "TUTORIAL_AUTOPILOT_MESSAGE"
+msgstr "您的戰機正在脫離訓練區域，飛行教練要調整航線了。"
+
+msgid "TUTORIAL_BUTTONS_EXIT_QUEUE"
+msgstr "離開佇列"
+
+msgid "TUTORIAL_BUTTON_BACK_TO_HANGAR"
+msgstr "返回機庫"
+
+msgid "TUTORIAL_CREDS"
+msgstr "銀幣"
+
+msgid "TUTORIAL_DIALOGS_QUEUE_SERVER_OVERLOADED_TEXT"
+msgstr "對不起，伺服器忙。"
+
+msgid "TUTORIAL_DIALOGS_QUEUE_TITLE"
+msgstr "戰鬥教學佇列"
+
+msgid "TUTORIAL_DIALOGS_QUEUE_WAIT_TEXT_COMPLETE"
+msgstr "教學將會自動開始..."
+
+msgid "TUTORIAL_EXIT"
+msgstr "要取消訓練，按Esc返回機庫"
+
+msgid "TUTORIAL_EXP"
+msgstr "經驗"
+
+msgid "TUTORIAL_GOLD"
+msgstr "金幣"
+
+msgid "TUTORIAL_GREETING_TEXT"
+msgstr "歡迎來到戰機世界！"
+
+msgid "TUTORIAL_HEADER_RACE_PROGRESS"
+msgstr "比賽進展："
+
+msgid "TUTORIAL_LABELS_AVG_WAITING_TIME"
+msgstr "(平均排隊時間: {0:>s})"
+
+msgid "TUTORIAL_LABELS_MINUTES"
+msgstr "{minutes} 分鐘"
+
+msgid "TUTORIAL_LABEL_BOMBS_ROCKETS_REQUIRED"
+msgstr "<b>不可進行</b> 需購買可攜帶炸彈和火箭彈的戰機"
+
+msgid "TUTORIAL_LABEL_LESSON_1_REQUIRED"
+msgstr "<b>不可進行</b> 需完成第一關教學任務"
+
+msgid "TUTORIAL_LABEL_PLANE_4_PLUS_REQUIRED"
+msgstr "<b>不可進行</b> 需購買4級或以上的戰機"
+
+msgid "TUTORIAL_LESSON_1_HEADER_AIM_AT_TARGET"
+msgstr "瞄準目標！"
+
+msgid "TUTORIAL_LESSON_1_HEADER_BOOSTER"
+msgstr "使用加力"
+
+msgid "TUTORIAL_LESSON_1_HEADER_BORDER"
+msgstr "訓練區域在後方"
+
+msgid "TUTORIAL_LESSON_1_HEADER_DRIVING_THE_AIRCRAFT"
+msgstr "飛機控制"
+
+msgid "TUTORIAL_LESSON_1_HEADER_ENGINE_OVERHEAT1"
+msgstr "發動機過熱！"
+
+msgid "TUTORIAL_LESSON_1_HEADER_ENGINE_OVERHEAT2"
+msgstr "無法加力！"
+
+msgid "TUTORIAL_LESSON_1_HEADER_FINAL_RUN"
+msgstr "最後一擊"
+
+msgid "TUTORIAL_LESSON_1_HEADER_FIND_MARKER"
+msgstr "飛往標記處"
+
+msgid "TUTORIAL_LESSON_1_HEADER_FIRE"
+msgstr "目標在攻擊範圍內！"
+
+msgid "TUTORIAL_LESSON_1_HEADER_FIRE_AT_100"
+msgstr "準備射擊！"
+
+msgid "TUTORIAL_LESSON_1_HEADER_FIRE_AT_200"
+msgstr "準備射擊！"
+
+msgid "TUTORIAL_LESSON_1_HEADER_FIRE_AT_300"
+msgstr "準備射擊！"
+
+msgid "TUTORIAL_LESSON_1_HEADER_FIRST_AERO"
+msgstr "氣球1"
+
+msgid "TUTORIAL_LESSON_1_HEADER_FORSAGE"
+msgstr "提高飛行速度"
+
+msgid "TUTORIAL_LESSON_1_HEADER_GOING_UP"
+msgstr "爬升"
+
+msgid "TUTORIAL_LESSON_1_HEADER_GOUNG_DOWN"
+msgstr "下降"
+
+msgid "TUTORIAL_LESSON_1_HEADER_GUNS_OVERHEAT"
+msgstr "武器過熱！"
+
+msgid "TUTORIAL_LESSON_1_HEADER_LAND_CRASH"
+msgstr "墜毀！"
+
+msgid "TUTORIAL_LESSON_1_HEADER_LESSON_PROGRESS"
+msgstr "課程進度："
+
+msgid "TUTORIAL_LESSON_1_HEADER_MARKER1"
+msgstr "飛向標記位置"
+
+msgid "TUTORIAL_LESSON_1_HEADER_MARKER2"
+msgstr "飛向標記位置"
+
+msgid "TUTORIAL_LESSON_1_HEADER_MARKER3"
+msgstr "飛向標記位置"
+
+msgid "TUTORIAL_LESSON_1_HEADER_MARKER3_DOWN"
+msgstr "飛向標記位置"
+
+msgid "TUTORIAL_LESSON_1_HEADER_MARKER3_LEFT"
+msgstr "飛向標記位置"
+
+msgid "TUTORIAL_LESSON_1_HEADER_MARKER3_RIGHT"
+msgstr "飛向標記位置"
+
+msgid "TUTORIAL_LESSON_1_HEADER_MARKER3_UP"
+msgstr "飛向標記位置"
+
+msgid "TUTORIAL_LESSON_1_HEADER_MARKER5"
+msgstr "請按照箭頭指示方向飛行"
+
+msgid "TUTORIAL_LESSON_1_HEADER_MARKER6"
+msgstr "請按照箭頭指示方向飛行"
+
+msgid "TUTORIAL_LESSON_1_HEADER_MARKER7"
+msgstr "請按照箭頭指示方向飛行"
+
+msgid "TUTORIAL_LESSON_1_HEADER_MENU_CALL"
+msgstr "開啟選單"
+
+msgid "TUTORIAL_LESSON_1_HEADER_MISSION_RESULTS"
+msgstr "完成時間:"
+
+msgid "TUTORIAL_LESSON_1_HEADER_PIKIROVANIE"
+msgstr "俯衝角度過大！"
+
+msgid "TUTORIAL_LESSON_1_HEADER_PITCH_AND_ROLL"
+msgstr "俯仰與翻滾"
+
+msgid "TUTORIAL_LESSON_1_HEADER_PLANE_TARGET1"
+msgstr "摧毀移動目標"
+
+msgid "TUTORIAL_LESSON_1_HEADER_PLANE_TARGET2"
+msgstr "摧毀移動目標"
+
+msgid "TUTORIAL_LESSON_1_HEADER_PROCEED_TO_FINISH"
+msgstr "即將完成"
+
+msgid "TUTORIAL_LESSON_1_HEADER_RACE_FINISHED"
+msgstr "完成教程任務！"
+
+msgid "TUTORIAL_LESSON_1_HEADER_RETURN"
+msgstr "脫離訓練區域"
+
+msgid "TUTORIAL_LESSON_1_HEADER_ROLL_LEFT"
+msgstr "左翻滾"
+
+msgid "TUTORIAL_LESSON_1_HEADER_ROLL_RIGHT"
+msgstr "右翻滾"
+
+msgid "TUTORIAL_LESSON_1_HEADER_SECOND_AERO"
+msgstr "氣球2"
+
+msgid "TUTORIAL_LESSON_1_HEADER_SPEED_UP"
+msgstr "提高飛行速度"
+
+msgid "TUTORIAL_LESSON_1_HEADER_START1"
+msgstr "射擊訓練"
+
+msgid "TUTORIAL_LESSON_1_HEADER_START2"
+msgstr "到達訓練區域"
+
+msgid "TUTORIAL_LESSON_1_HEADER_STEP1_FINISH"
+msgstr "好極了！"
+
+msgid "TUTORIAL_LESSON_1_HEADER_STEP5_FINISH"
+msgstr "做得漂亮！"
+
+msgid "TUTORIAL_LESSON_1_HEADER_STEP_FINISH"
+msgstr "完成！"
+
+msgid "TUTORIAL_LESSON_1_HEADER_SVALIVANIE"
+msgstr "增加你的飛行速度！"
+
+msgid "TUTORIAL_LESSON_1_HEADER_TAKE_FIRE_POSITION"
+msgstr "佔據有利的射擊位置"
+
+msgid "TUTORIAL_LESSON_1_HEADER_TARGET_CRASH"
+msgstr "與目標相撞！"
+
+msgid "TUTORIAL_LESSON_1_HEADER_THIRD_AERO"
+msgstr "氣球3"
+
+msgid "TUTORIAL_LESSON_1_HEADER_TO_CLOSE_TARGET"
+msgstr "轉向離開！"
+
+msgid "TUTORIAL_LESSON_1_HEADER_TO_FAR_AWAY"
+msgstr "目標脫離！"
+
+msgid "TUTORIAL_LESSON_1_HEADER_TO_FAR_SHOOT1"
+msgstr "超出範圍！"
+
+msgid "TUTORIAL_LESSON_1_HEADER_TO_FAR_SHOOT2"
+msgstr "接近目標！"
+
+msgid "TUTORIAL_LESSON_1_HEADER_TO_LOW1"
+msgstr "警告！高度太低！"
+
+msgid "TUTORIAL_LESSON_1_HEADER_TO_LOW2"
+msgstr "爬升！"
+
+msgid "TUTORIAL_LESSON_1_HEADER_TO_LOW3"
+msgstr "爬升！"
+
+msgid "TUTORIAL_LESSON_1_HEADER_TURN_LEFT"
+msgstr "左轉"
+
+msgid "TUTORIAL_LESSON_1_HEADER_TURN_RIGHT"
+msgstr "右轉"
+
+msgid "TUTORIAL_LESSON_1_HEADER_USE_CONTROLS"
+msgstr "控制選擇"
+
+msgid "TUTORIAL_LESSON_1_HEADER_USE_CONTROLS1"
+msgstr "使用滑鼠"
+
+msgid "TUTORIAL_LESSON_1_HEADER_USE_CONTROLS2"
+msgstr "使用鍵盤"
+
+msgid "TUTORIAL_LESSON_1_HEADER_USE_CONTROLS3"
+msgstr "使用搖桿"
+
+msgid "TUTORIAL_LESSON_1_HEADER_USE_CONTROLS4"
+msgstr "使用手柄"
+
+msgid "TUTORIAL_LESSON_1_HEADER_YAW_LEFT"
+msgstr "左偏轉"
+
+msgid "TUTORIAL_LESSON_1_HEADER_YAW_RIGHT"
+msgstr "右偏轉"
+
+msgid "TUTORIAL_LESSON_1_HELLO_MESSAGE"
+msgstr "你好，飛行員！歡迎來到新手教程！"
+
+msgid "TUTORIAL_LESSON_1_LOADER_CONTROLS"
+msgstr "飛行控制"
+
+msgid "TUTORIAL_LESSON_1_LOADER_FIRE"
+msgstr "開火"
+
+msgid "TUTORIAL_LESSON_1_LOADER_FORSAGE"
+msgstr "加力"
+
+msgid "TUTORIAL_LESSON_1_LOADER_HEADER"
+msgstr "歡迎進行射擊訓練！"
+
+msgid "TUTORIAL_LESSON_1_MESSAGE_AIM_AT_TARGET"
+msgstr "你失去了目標，請小心瞄準和開火！"
+
+msgid "TUTORIAL_LESSON_1_MESSAGE_BORDER"
+msgstr "如果你飛出訓練區域，你會回到起點"
+
+msgid "TUTORIAL_LESSON_1_MESSAGE_ENGINE_OVERHEAT1"
+msgstr "長時間的加力會使你的發動機過熱"
+
+msgid "TUTORIAL_LESSON_1_MESSAGE_ENGINE_OVERHEAT2"
+msgstr "發動機過熱，無法加力！"
+
+msgid "TUTORIAL_LESSON_1_MESSAGE_FINAL_RUN"
+msgstr "快！距離終點只差一點點了！"
+
+msgid "TUTORIAL_LESSON_1_MESSAGE_FIND_MARKER"
+msgstr "要繼續比賽，需要穿過標誌門。"
+
+msgid "TUTORIAL_LESSON_1_MESSAGE_FIRE"
+msgstr "目標進入攻擊範圍！開火！"
+
+msgid "TUTORIAL_LESSON_1_MESSAGE_FIRE_AT_100"
+msgstr "你的有效攻擊距離為100米"
+
+msgid "TUTORIAL_LESSON_1_MESSAGE_FIRE_AT_200"
+msgstr "你的有效攻擊距離為200米"
+
+msgid "TUTORIAL_LESSON_1_MESSAGE_FIRE_AT_300"
+msgstr "你的有效攻擊距離為300米"
+
+msgid "TUTORIAL_LESSON_1_MESSAGE_FIRST_AERO"
+msgstr "破壞標記氣球（1/2）"
+
+msgid "TUTORIAL_LESSON_1_MESSAGE_FORSAGE"
+msgstr "使用加力提高飛行速度！"
+
+msgid "TUTORIAL_LESSON_1_MESSAGE_GOING_DOWN"
+msgstr "要下降並獲得飛行速度，讓飛機向下俯衝。"
+
+msgid "TUTORIAL_LESSON_1_MESSAGE_GOING_UP"
+msgstr "要升高，讓飛機向上爬升。"
+
+msgid "TUTORIAL_LESSON_1_MESSAGE_GUNS_OVERHEAT"
+msgstr "武器過熱時將無法連續射擊，減少連續射擊時間有助於保持武器溫度"
+
+msgid "TUTORIAL_LESSON_1_MESSAGE_LAND_CRASH"
+msgstr "為避免墜毀，請保持安全的高度"
+
+msgid "TUTORIAL_LESSON_1_MESSAGE_MARKER1"
+msgstr "當標記處於螢幕中央時飛行方向將會是正確的"
+
+msgid "TUTORIAL_LESSON_1_MESSAGE_MARKER2"
+msgstr "朝標記方向移動滑鼠，直到標記到達螢幕中央"
+
+msgid "TUTORIAL_LESSON_1_MESSAGE_MARKER3"
+msgstr "轉向標記點，直到其到達螢幕中央"
+
+msgid "TUTORIAL_LESSON_1_MESSAGE_MARKER3_DOWN"
+msgstr "想要朝正確的方向飛行，需將滑鼠向下移動，直到標記在螢幕的中央"
+
+msgid "TUTORIAL_LESSON_1_MESSAGE_MARKER3_LEFT"
+msgstr "想要朝正確的方向飛行，需將滑鼠向左移動，直到標記在螢幕的中央"
+
+msgid "TUTORIAL_LESSON_1_MESSAGE_MARKER3_RIGHT"
+msgstr "想要朝正確的方向飛行，需將滑鼠向右移動，直到標記在螢幕的中央"
+
+msgid "TUTORIAL_LESSON_1_MESSAGE_MARKER3_UP"
+msgstr "想要朝正確的方向飛行，需將滑鼠向上移動，直到標記在螢幕的中央"
+
+msgid "TUTORIAL_LESSON_1_MESSAGE_MARKER5"
+msgstr "請按照螢幕中箭頭指示飛向標記點。"
+
+msgid "TUTORIAL_LESSON_1_MESSAGE_MARKER6"
+msgstr "按箭頭所指示的方向移動滑鼠，戰機的響應與滑鼠的移動會存在一定的延遲"
+
+msgid "TUTORIAL_LESSON_1_MESSAGE_MARKER7"
+msgstr "按箭頭所指示的方向轉動"
+
+msgid "TUTORIAL_LESSON_1_MESSAGE_MENU_CALL"
+msgstr "開啟選單可以更改設定或者退出任務"
+
+msgid "TUTORIAL_LESSON_1_MESSAGE_MISSION_ACCOMPLISHED"
+msgstr "做得漂亮，飛行員！你已完成基本的飛行訓練！"
+
+msgid "TUTORIAL_LESSON_1_MESSAGE_PIKIROVANIE"
+msgstr "俯衝速度過快！拉起你的戰機！"
+
+msgid "TUTORIAL_LESSON_1_MESSAGE_PLANE_TARGET1"
+msgstr "你的任務是擊落目標飛機，射擊移動目標，你需要瞄準射擊指示環，而不是戰機"
+
+msgid "TUTORIAL_LESSON_1_MESSAGE_PLANE_TARGET2"
+msgstr "瞄準目標的射擊指示環"
+
+msgid "TUTORIAL_LESSON_1_MESSAGE_PROCEED_TO_FINISH"
+msgstr ""
+"要成功完成比賽，需要穿過所有的標誌門。下一個要穿過的門有明顯的標記指示。"
+
+msgid "TUTORIAL_LESSON_1_MESSAGE_PROCEED_TO_START_POINT"
+msgstr "要開始比賽，請飛到指示的開始位置。"
+
+msgid "TUTORIAL_LESSON_1_MESSAGE_RACE_START"
+msgstr "開始比賽"
+
+msgid "TUTORIAL_LESSON_1_MESSAGE_RETURN"
+msgstr "請回到訓練區域！"
+
+msgid "TUTORIAL_LESSON_1_MESSAGE_SECOND_AERO"
+msgstr "破壞標記氣球（2/2）"
+
+msgid "TUTORIAL_LESSON_1_MESSAGE_SPEED_UP"
+msgstr "用加力提高飛行速度並超越你的對手！"
+
+msgid "TUTORIAL_LESSON_1_MESSAGE_START1"
+msgstr "歡迎開始您的飛行訓練！"
+
+msgid "TUTORIAL_LESSON_1_MESSAGE_START2"
+msgstr "繼續進行射擊訓練！"
+
+msgid "TUTORIAL_LESSON_1_MESSAGE_STEP1_FINISH"
+msgstr "開始射擊訓練！"
+
+msgid "TUTORIAL_LESSON_1_MESSAGE_STEP2_FINISH"
+msgstr "目標被摧毀！（1/2）"
+
+msgid "TUTORIAL_LESSON_1_MESSAGE_STEP3_FINISH"
+msgstr "目標被摧毀！（2/2）"
+
+msgid "TUTORIAL_LESSON_1_MESSAGE_STEP4_FINISH"
+msgstr "目標被摧毀！（3/3）"
+
+msgid "TUTORIAL_LESSON_1_MESSAGE_STEP5_FINISH"
+msgstr "訓練目標被摧毀！"
+
+msgid "TUTORIAL_LESSON_1_MESSAGE_SVALIVANIE"
+msgstr "飛機失速！讓你的飛機保持水平！"
+
+msgid "TUTORIAL_LESSON_1_MESSAGE_TAKE_FIRE_POSITION"
+msgstr "要攻擊目標，需要一個良好的距離，標記點為較好的射擊位置"
+
+msgid "TUTORIAL_LESSON_1_MESSAGE_TARGET_CRASH"
+msgstr "注意你與目標的距離，避免戰機相撞"
+
+msgid "TUTORIAL_LESSON_1_MESSAGE_THIRD_AERO"
+msgstr "破壞標記氣球（3/3）"
+
+msgid "TUTORIAL_LESSON_1_MESSAGE_TO_CLOSE_TARGET"
+msgstr "過於接近目標！戰機可能會相撞！"
+
+msgid "TUTORIAL_LESSON_1_MESSAGE_TO_FAR_AWAY"
+msgstr "轉向並接近目標"
+
+msgid "TUTORIAL_LESSON_1_MESSAGE_TO_FAR_SHOOT1"
+msgstr "接近目標後再次開火"
+
+msgid "TUTORIAL_LESSON_1_MESSAGE_TO_FAR_SHOOT2"
+msgstr "持續瞄準目標的射擊指示環，當距離小於550米時可以開火"
+
+msgid "TUTORIAL_LESSON_1_MESSAGE_TO_LOW1"
+msgstr "操控飛機獲得高度"
+
+msgid "TUTORIAL_LESSON_1_MESSAGE_TO_LOW2"
+msgstr "將滑鼠移動到螢幕水平線上方"
+
+msgid "TUTORIAL_LESSON_1_MESSAGE_TO_LOW3"
+msgstr "操控飛機向螢幕水平線上方飛行"
+
+msgid "TUTORIAL_LESSON_1_MESSAGE_TURN_LEFT"
+msgstr "要左轉，向左移動飛機。"
+
+msgid "TUTORIAL_LESSON_1_MESSAGE_TURN_RIGHT"
+msgstr "要右轉，向右移動飛機。"
+
+msgid "TUTORIAL_LESSON_1_MESSAGE_USE_CONTROLS1"
+msgstr "使用滑鼠來控制戰機，你可在設定中切換控制方式"
+
+msgid "TUTORIAL_LESSON_1_MESSAGE_USE_CONTROLS2"
+msgstr "使用鍵盤來控制戰機，你可在設定中切換控制方式"
+
+msgid "TUTORIAL_LESSON_1_MESSAGE_USE_CONTROLS3"
+msgstr "使用搖桿來控制戰機，你可在設定中切換控制方式"
+
+msgid "TUTORIAL_LESSON_1_MESSAGE_USE_CONTROLS4"
+msgstr "使用手柄來控制戰機，你可在設定中切換控制方式"
+
+msgid "TUTORIAL_LESSON_1_NAME_CAPS"
+msgstr "飛行訓練"
+
+msgid "TUTORIAL_LESSON_1_SPLASH_BUTTON_ASK_ME_LATER"
+msgstr "稍後再說"
+
+msgid "TUTORIAL_LESSON_1_SPLASH_BUTTON_BEGIN_MISSION"
+msgstr "開始！"
+
+msgid "TUTORIAL_LESSON_1_SPLASH_HEADER"
+msgstr "飛行訓練"
+
+msgid "TUTORIAL_LESSON_1_SPLASH_MESSAGE"
+msgstr "磨刀不誤砍柴工，飛行訓練能讓你迅速掌握基本技巧！"
+
+msgid "TUTORIAL_LESSON_1_WARNING_CONTROLS_NOT_CONFIGURED"
+msgstr "控制方案未被配置！"
+
+msgid "TUTORIAL_LESSON_1_WARNING_DONT_IDLE_ENGINE_ON_LOW_SPEED"
+msgstr "千萬不要在低速情況下停轉發動機！"
+
+msgid "TUTORIAL_LESSON_1_WARNING_SHOWN_SETTINGS_ARE_DEFAULTS"
+msgstr "正在使用預設控制設定。"
+
+msgid "TUTORIAL_LESSON_2_BUTTON_FINISH"
+msgstr "稍後再說"
+
+msgid "TUTORIAL_LESSON_2_BUTTON_START"
+msgstr "任務開始"
+
+msgid "TUTORIAL_LESSON_2_HEADER_DONT_FLY_AWAY"
+msgstr "應避免攻擊高速脫離的敵人"
+
+msgid "TUTORIAL_LESSON_2_HEADER_DONT_FLY_IN_LINE"
+msgstr "應避免沿直線飛行"
+
+msgid "TUTORIAL_LESSON_2_HEADER_FIRE"
+msgstr "開火！"
+
+msgid "TUTORIAL_LESSON_2_HEADER_FLY_AWAY_FROM_TARGET"
+msgstr "應遠與機動性好的敵人保持距離"
+
+msgid "TUTORIAL_LESSON_2_HEADER_FOURTH_STAGE_COMPLETE"
+msgstr "與機動性更好的敵機的格鬥訓練完成"
+
+msgid "TUTORIAL_LESSON_2_HEADER_FOURTH_STAGE_START"
+msgstr "與機動性更好的敵機進行格鬥"
+
+msgid "TUTORIAL_LESSON_2_HEADER_GET_UP"
+msgstr "佔據更高的位置來攻擊敵人"
+
+msgid "TUTORIAL_LESSON_2_HEADER_GREETINGS"
+msgstr "你好，飛行員！"
+
+msgid "TUTORIAL_LESSON_2_HEADER_HEIGHT_DELTA"
+msgstr "俯衝攻擊敵人"
+
+msgid "TUTORIAL_LESSON_2_HEADER_IN_ALTITUDE_POSITION"
+msgstr "從高空位置進行攻擊"
+
+msgid "TUTORIAL_LESSON_2_HEADER_REACH_FIRST_STAGE"
+msgstr "飛向標記位置"
+
+msgid "TUTORIAL_LESSON_2_HEADER_REACH_SECOND_STAGE"
+msgstr "飛向標記位置"
+
+msgid "TUTORIAL_LESSON_2_HEADER_REACH_THIRD_STAGE"
+msgstr "飛向標記位置"
+
+msgid "TUTORIAL_LESSON_2_HEADER_SECOND_STAGE_START"
+msgstr "摧毀移動中的目標"
+
+msgid "TUTORIAL_LESSON_2_HEADER_STAGE2_COMPLETE"
+msgstr "您成功摧毀了一個移動中的目標!"
+
+msgid "TUTORIAL_LESSON_2_HEADER_STAGE3_COMPLETE"
+msgstr "俯衝攻擊完成"
+
+msgid "TUTORIAL_LESSON_2_HEADER_SVALIVANIE_IN_FIGHT"
+msgstr "達到臨界速度!"
+
+msgid "TUTORIAL_LESSON_2_HEADER_THIRD_STAGE_START"
+msgstr "俯衝攻擊"
+
+msgid "TUTORIAL_LESSON_2_HEADER_TO_CLOSE_TARGET"
+msgstr "警告!即將發生碰撞!"
+
+msgid "TUTORIAL_LESSON_2_HEADER_TO_LOW_IN_FIGHT"
+msgstr "警告!高度過低!"
+
+msgid "TUTORIAL_LESSON_2_HEADER_TURN_ON_SLOW_TARGET"
+msgstr "與敵人保持適當的距離"
+
+msgid "TUTORIAL_LESSON_2_HEADER_TURN_ON_TARGET"
+msgstr "轉向敵人的方向"
+
+msgid "TUTORIAL_LESSON_2_LOADER_TEXT_01"
+msgstr "保持機動，規避敵人的火力"
+
+msgid "TUTORIAL_LESSON_2_LOADER_TEXT_02"
+msgstr "嘗試從高空位置進行攻擊"
+
+msgid "TUTORIAL_LESSON_2_LOADER_TEXT_03"
+msgstr "如果你尾隨敵機，應儘量跟隨其飛行線路"
+
+msgid "TUTORIAL_LESSON_2_LOADER_TEXT_04"
+msgstr "正在顯示預設的控制設定"
+
+msgid "TUTORIAL_LESSON_2_MESSAGE_DONT_FLY_AWAY"
+msgstr "應避免加速逃離，轉向敵人進行機動作戰"
+
+msgid "TUTORIAL_LESSON_2_MESSAGE_DONT_FLY_IN_LINE"
+msgstr "當遠離速度較低的敵機時，應保持變化的飛行路線以規避敵人火力"
+
+msgid "TUTORIAL_LESSON_2_MESSAGE_FIRE"
+msgstr "瞄準預瞄點射擊!"
+
+msgid "TUTORIAL_LESSON_2_MESSAGE_FLY_AWAY_FROM_TARGET"
+msgstr "飛向標記位置攻擊敵人，調整方向瞄準預瞄點射擊"
+
+msgid "TUTORIAL_LESSON_2_MESSAGE_FOURTH_STAGE_START"
+msgstr "遠離機動性更好的敵機，在一個更有利的位置來發起攻擊"
+
+msgid "TUTORIAL_LESSON_2_MESSAGE_GET_UP"
+msgstr "爬升至足夠的高度後再次攻擊敵人"
+
+msgid "TUTORIAL_LESSON_2_MESSAGE_GREETINGS"
+msgstr "歡迎進入空中格鬥訓練!"
+
+msgid "TUTORIAL_LESSON_2_MESSAGE_HEIGHT_DELTA"
+msgstr "提高俯衝攻擊時的射擊精度，向預瞄點開火"
+
+msgid "TUTORIAL_LESSON_2_MESSAGE_IN_ALTITUDE_POSITION"
+msgstr "你已經獲得了高度優勢，開始攻擊敵人，向射擊指示環開火"
+
+msgid "TUTORIAL_LESSON_2_MESSAGE_MISSION_ACCOMPLISHED"
+msgstr "非常好！你已經學會了基本的空戰技巧！"
+
+msgid "TUTORIAL_LESSON_2_MESSAGE_REACH_FIRST_STAGE"
+msgstr "開始進行第一階段"
+
+msgid "TUTORIAL_LESSON_2_MESSAGE_REACH_SECOND_STAGE"
+msgstr "開始進行第二階段"
+
+msgid "TUTORIAL_LESSON_2_MESSAGE_REACH_THIRD_STAGE"
+msgstr "開始進行第三階段"
+
+msgid "TUTORIAL_LESSON_2_MESSAGE_SECOND_STAGE_START"
+msgstr "咬住敵人的尾巴，向射擊指引環開火"
+
+msgid "TUTORIAL_LESSON_2_MESSAGE_SVALIVANIE_IN_FIGHT"
+msgstr "如果臨近失速，請保持高度並轉向"
+
+msgid "TUTORIAL_LESSON_2_MESSAGE_THIRD_STAGE_START"
+msgstr "利用高度優勢俯衝攻擊並摧毀敵人"
+
+msgid "TUTORIAL_LESSON_2_MESSAGE_TO_CLOSE_TARGET"
+msgstr "你離目標太近了!可能會相撞!"
+
+msgid "TUTORIAL_LESSON_2_MESSAGE_TO_LOW_IN_FIGHT"
+msgstr "為了避免墜機，請留意你的高度"
+
+msgid "TUTORIAL_LESSON_2_MESSAGE_TURN_ON_SLOW_TARGET"
+msgstr "對敵人發起攻擊，向射擊指示環開火"
+
+msgid "TUTORIAL_LESSON_2_MESSAGE_TURN_ON_TARGET"
+msgstr "咬住敵人的尾巴，向射擊指示環開火"
+
+msgid "TUTORIAL_LESSON_2_MISS_CONTROLS"
+msgstr "請設定您的控制鍵！"
+
+msgid "TUTORIAL_LESSON_2_NAME"
+msgstr "空中格鬥訓練"
+
+msgid "TUTORIAL_LESSON_2_NAME_CAPS"
+msgstr "空中格鬥訓練"
+
+msgid "TUTORIAL_LESSON_2_TUTORIAL_HEADER"
+msgstr "歡迎來到戰機世界！"
+
+msgid "TUTORIAL_LESSON_2_TUTORIAL_MESSAGE"
+msgstr "進入空中格鬥訓練！"
+
+msgid "TUTORIAL_LESSON_3_HEADER_AIM_AT_TARGET"
+msgstr "您錯過了目標！"
+
+msgid "TUTORIAL_LESSON_3_HEADER_BOMB_GO"
+msgstr "投彈！"
+
+msgid "TUTORIAL_LESSON_3_HEADER_BOMB_NOGO"
+msgstr "無法投彈"
+
+msgid "TUTORIAL_LESSON_3_HEADER_DONT_TARGET_AT_BOMBING"
+msgstr "飛越目標上空"
+
+msgid "TUTORIAL_LESSON_3_HEADER_DONT_TARGET_AT_BOMBING_02"
+msgstr "飛機拉起之前投擲炸彈"
+
+msgid "TUTORIAL_LESSON_3_HEADER_FAR_SHOOT_GUNS"
+msgstr "離開射擊區域！"
+
+msgid "TUTORIAL_LESSON_3_HEADER_FAR_SHOOT_ROKETS"
+msgstr "離開射擊區域！"
+
+msgid "TUTORIAL_LESSON_3_HEADER_GET_ALT"
+msgstr "爬升"
+
+msgid "TUTORIAL_LESSON_3_HEADER_GET_BACK"
+msgstr "您已與目標間擁有充足的距離"
+
+msgid "TUTORIAL_LESSON_3_HEADER_GREETINGS"
+msgstr "突襲地面目標"
+
+msgid "TUTORIAL_LESSON_3_HEADER_HEIGHT_FOR_SECOND_TASK"
+msgstr "爬升以準備進行下次攻擊"
+
+msgid "TUTORIAL_LESSON_3_HEADER_KILL_BASE"
+msgstr "摧毀所有敵艦"
+
+msgid "TUTORIAL_LESSON_3_HEADER_KILL_HANGAR"
+msgstr "使用機槍和航砲摧毀倉庫"
+
+msgid "TUTORIAL_LESSON_3_HEADER_KILL_RADAR"
+msgstr "使用炸彈摧毀敵方目標"
+
+msgid "TUTORIAL_LESSON_3_HEADER_KILL_TURRET"
+msgstr "使用火箭彈摧毀高射砲"
+
+msgid "TUTORIAL_LESSON_3_HEADER_LEFT_TURN"
+msgstr "輪到你了"
+
+msgid "TUTORIAL_LESSON_3_HEADER_LESSON_START"
+msgstr "飛向標記位置"
+
+msgid "TUTORIAL_LESSON_3_HEADER_NEW_ROUND"
+msgstr "提供你的下一次攻擊"
+
+msgid "TUTORIAL_LESSON_3_HEADER_NOTE_HEIGHT_SPEED"
+msgstr "低爬升率"
+
+msgid "TUTORIAL_LESSON_3_HEADER_NOTE_TURN_SPEED"
+msgstr "低機動性"
+
+msgid "TUTORIAL_LESSON_3_HEADER_OPEN_FIRE_BASE"
+msgstr "開火！"
+
+msgid "TUTORIAL_LESSON_3_HEADER_OPEN_FIRE_HANGAR"
+msgstr "開火！"
+
+msgid "TUTORIAL_LESSON_3_HEADER_OPEN_FIRE_TURRET"
+msgstr "開火！"
+
+msgid "TUTORIAL_LESSON_3_HEADER_PRESS_ANY_BUTTON"
+msgstr "按任意鍵繼續"
+
+msgid "TUTORIAL_LESSON_3_HEADER_PRESS_SPECIFIC_BUTTON"
+msgstr "按指定鍵繼續"
+
+msgid "TUTORIAL_LESSON_3_HEADER_RELOAD_BOMBS"
+msgstr "沒有炸彈！"
+
+msgid "TUTORIAL_LESSON_3_HEADER_RELOAD_ONE"
+msgstr "有限的彈藥"
+
+msgid "TUTORIAL_LESSON_3_HEADER_RELOAD_ROCKETS"
+msgstr "沒有火箭彈！"
+
+msgid "TUTORIAL_LESSON_3_HEADER_STAGE_COMPELTE_01"
+msgstr "完成！"
+
+msgid "TUTORIAL_LESSON_3_HEADER_STAGE_COMPELTE_02"
+msgstr "第一階段已完成！"
+
+msgid "TUTORIAL_LESSON_3_HEADER_TURRETS"
+msgstr "警告！注意防空砲火！"
+
+msgid "TUTORIAL_LESSON_3_HEADER_USE_BOMBS"
+msgstr "使用炸彈摧毀目標"
+
+msgid "TUTORIAL_LESSON_3_HEADER_USE_BOMB_MODE"
+msgstr "切換至投彈視角"
+
+msgid "TUTORIAL_LESSON_3_HEADER_USE_GUNS"
+msgstr "使用機槍和航砲摧毀目標"
+
+msgid "TUTORIAL_LESSON_3_HEADER_USE_ROCKETS"
+msgstr "使用火箭彈摧毀目標"
+
+msgid "TUTORIAL_LESSON_3_HEADER_USE_SIEGE_MODE"
+msgstr "切換至掃射視角"
+
+msgid "TUTORIAL_LESSON_3_HEADER_USE_SNIPER_MODE"
+msgstr "切換至狙擊模式"
+
+msgid "TUTORIAL_LESSON_3_LOADER_TEXT_01"
+msgstr "攻擊機的主要任務是摧毀敵方地面目標"
+
+msgid "TUTORIAL_LESSON_3_LOADER_TEXT_02"
+msgstr "在低空飛行，可使您的戰機不易被發現"
+
+msgid "TUTORIAL_LESSON_3_LOADER_TEXT_03"
+msgstr "幅度過大的俯衝攻擊可能導致戰機與地面相撞。"
+
+msgid "TUTORIAL_LESSON_3_MESSAGE_AIM_AT_TARGET"
+msgstr "準星與目標一致時開火"
+
+msgid "TUTORIAL_LESSON_3_MESSAGE_BOMB_GO"
+msgstr "向目標投擲炸彈！"
+
+msgid "TUTORIAL_LESSON_3_MESSAGE_BOMB_NOGO"
+msgstr "無法投彈: 傾斜角度過大"
+
+msgid "TUTORIAL_LESSON_3_MESSAGE_DONT_TARGET_AT_BOMBING"
+msgstr "在飛臨目標上空時準確投彈"
+
+msgid "TUTORIAL_LESSON_3_MESSAGE_DONT_TARGET_AT_BOMBING_02"
+msgstr "在拉起戰機前投擲一枚炸彈"
+
+msgid "TUTORIAL_LESSON_3_MESSAGE_FAR_SHOOT_GUNS"
+msgstr "當你在較遠距離開火時射擊精度將降低，請接近目標並再次開火"
+
+msgid "TUTORIAL_LESSON_3_MESSAGE_FAR_SHOOT_ROKETS"
+msgstr "火箭彈有有效射程限制，請接近目標並再次開火"
+
+msgid "TUTORIAL_LESSON_3_MESSAGE_GET_ALT"
+msgstr "爬升獲得一定的高度，以便於進行下一次攻擊"
+
+msgid "TUTORIAL_LESSON_3_MESSAGE_GET_BACK"
+msgstr "轉向敵人並再次發起攻擊"
+
+msgid "TUTORIAL_LESSON_3_MESSAGE_GREETINGS"
+msgstr "按照提示來壓制敵人的防空系統並摧毀他們的航母編隊"
+
+msgid "TUTORIAL_LESSON_3_MESSAGE_HEIGHT_FOR_SECOND_TASK"
+msgstr "這張地圖的複雜地形會使低空攻擊變得困難"
+
+msgid "TUTORIAL_LESSON_3_MESSAGE_KILL_BASE"
+msgstr "使用所有可用武器摧毀敵艦"
+
+msgid "TUTORIAL_LESSON_3_MESSAGE_KILL_HANGAR"
+msgstr "使用機槍和航砲摧毀目標"
+
+msgid "TUTORIAL_LESSON_3_MESSAGE_KILL_RADAR"
+msgstr "在飛臨目標上空時準確投彈"
+
+msgid "TUTORIAL_LESSON_3_MESSAGE_KILL_TURRET"
+msgstr "使用火箭彈摧毀小型裝甲目標"
+
+msgid "TUTORIAL_LESSON_3_MESSAGE_LEFT_TURN"
+msgstr "向目標轉向"
+
+msgid "TUTORIAL_LESSON_3_MESSAGE_LESSON_START"
+msgstr "開始進行教學訓練"
+
+msgid "TUTORIAL_LESSON_3_MESSAGE_MISSION_ACCOMPLISHED"
+msgstr "做得漂亮！您已掌握摧毀敵方地面目標的方法！"
+
+msgid "TUTORIAL_LESSON_3_MESSAGE_NEW_ROUND"
+msgstr "轉向並在獲得一個安全距離後再次發起攻擊"
+
+msgid "TUTORIAL_LESSON_3_MESSAGE_NOTE_HEIGHT_SPEED"
+msgstr "攻擊機的爬升速度較慢，在爬升過程中應避免幅度過大的轉向"
+
+msgid "TUTORIAL_LESSON_3_MESSAGE_NOTE_TURN_SPEED"
+msgstr "攻擊機的機動性較差，儘量避免進行復雜的機動動作"
+
+msgid "TUTORIAL_LESSON_3_MESSAGE_OPEN_FIRE_BASE"
+msgstr "使用所有可用武器摧毀敵方目標"
+
+msgid "TUTORIAL_LESSON_3_MESSAGE_OPEN_FIRE_HANGAR"
+msgstr "使用機槍和航砲向目標進行射擊"
+
+msgid "TUTORIAL_LESSON_3_MESSAGE_OPEN_FIRE_TURRET"
+msgstr "發射火箭彈摧毀目標"
+
+msgid "TUTORIAL_LESSON_3_MESSAGE_RELOAD_BOMBS"
+msgstr "炸彈在戰鬥中有數量限制，在戰鬥結束後需進行補給"
+
+msgid "TUTORIAL_LESSON_3_MESSAGE_RELOAD_ONE"
+msgstr "請謹慎的使用你的彈藥，在實戰中它是有限的"
+
+msgid "TUTORIAL_LESSON_3_MESSAGE_RELOAD_ROCKETS"
+msgstr "火箭彈在戰鬥中有數量限制，在戰鬥結束後需進行補給"
+
+msgid "TUTORIAL_LESSON_3_MESSAGE_TURRETS"
+msgstr "有些敵方地面目標配有防空砲，會向你的戰機進行射擊"
+
+msgid "TUTORIAL_LESSON_3_MESSAGE_USE_BOMBS"
+msgstr "你的任務是使用炸彈摧毀目標"
+
+msgid "TUTORIAL_LESSON_3_MESSAGE_USE_BOMB_MODE"
+msgstr ""
+"使用投彈模式可幫助你更準確的進行轟炸，預設設定下按住“H”鍵可切換至投彈模式"
+
+msgid "TUTORIAL_LESSON_3_MESSAGE_USE_GUNS"
+msgstr "你的任務是使用機槍和航砲摧毀目標"
+
+msgid "TUTORIAL_LESSON_3_MESSAGE_USE_ROCKETS"
+msgstr "你的任務是使用火箭彈摧毀目標"
+
+msgid "TUTORIAL_LESSON_3_MESSAGE_USE_SIEGE_MODE"
+msgstr ""
+"使用掃射模式能夠更準確的攻擊地面目標，預設情況下“左 Shift”鍵切換至掃射模式"
+
+msgid "TUTORIAL_LESSON_3_MESSAGE_USE_SNIPER_MODE"
+msgstr ""
+"使用狙擊模式可幫助你更準確的進行射擊，預設設定下按住“F”鍵可切換至狙擊模式"
+
+msgid "TUTORIAL_LESSON_3_NAME"
+msgstr "突襲地面目標"
+
+msgid "TUTORIAL_LESSON_3_NAME_CAPS"
+msgstr "突襲地面目標"
+
+msgid "TUTORIAL_LESSON_3_SPLASH_MESSAGE"
+msgstr "完成這個任務以瞭解如何摧毀敵方地面目標！"
+
+msgid "TUTORIAL_LESSON_4_HEADER_ALLY_HIT"
+msgstr "不要向你的同伴開火！"
+
+msgid "TUTORIAL_LESSON_4_HEADER_ALLY_KILLED"
+msgstr "友軍戰機被擊落"
+
+msgid "TUTORIAL_LESSON_4_HEADER_COMMAND_LIST"
+msgstr "隊伍列表"
+
+msgid "TUTORIAL_LESSON_4_HEADER_ENEMY_KILLED"
+msgstr "敵機被擊落"
+
+msgid "TUTORIAL_LESSON_4_HEADER_GREETINGS"
+msgstr "團隊空戰訓練"
+
+msgid "TUTORIAL_LESSON_4_HEADER_YOUR_ALTITUDE"
+msgstr "你的海拔高度"
+
+msgid "TUTORIAL_LESSON_4_HEADER_YOUR_SPEED"
+msgstr "你的飛行速度"
+
+msgid "TUTORIAL_LESSON_4_LOADER_TEXT_01"
+msgstr "在空戰開始積攢一定的高度。"
+
+msgid "TUTORIAL_LESSON_4_LOADER_TEXT_02"
+msgstr "在短時間內射擊。"
+
+msgid "TUTORIAL_LESSON_4_LOADER_TEXT_03"
+msgstr "啟動加速，快速在敵人的方向上轉彎。"
+
+msgid "TUTORIAL_LESSON_4_MESSAGE_ALLY_HIT"
+msgstr "攻擊友機將會降低己方獲勝的概率"
+
+msgid "TUTORIAL_LESSON_4_MESSAGE_ALLY_KILLED"
+msgstr ""
+"被擊落的隊友將會以紅色背景顯示在你的團隊列表中，當友機被擊落後，擊落他的敵機"
+"名字旁的數字也會發生變化"
+
+msgid "TUTORIAL_LESSON_4_MESSAGE_COMMAND_LIST"
+msgstr "隊伍列表中將會顯示隊友的暱稱，選擇的戰機類型和等級"
+
+msgid "TUTORIAL_LESSON_4_MESSAGE_ENEMY_KILLED"
+msgstr ""
+"被擊落的敵機將會以紅色背景顯示在敵方的團隊列表中，當敵機被擊落後，擊殺者名字"
+"旁的數字也會發生變化"
+
+msgid "TUTORIAL_LESSON_4_MESSAGE_GREETINGS"
+msgstr "你的任務是摧毀所有敵機！"
+
+msgid "TUTORIAL_LESSON_4_MESSAGE_MISSION_ACCOMPLISHED"
+msgstr "非常好！你已經學會了基本的團隊空戰技巧！"
+
+msgid "TUTORIAL_LESSON_4_MESSAGE_YOUR_ALTITUDE"
+msgstr ""
+"高度表處在螢幕中心右側位置，當指針處在亮綠色區域時，說明你正在最佳飛行高度內"
+"飛行"
+
+msgid "TUTORIAL_LESSON_4_MESSAGE_YOUR_SPEED"
+msgstr ""
+"速度表處在螢幕中心左側位置，當指針處在亮綠色區域時，說明你正以最佳飛行速度進"
+"行飛行"
+
+msgid "TUTORIAL_LESSON_4_NAME"
+msgstr "團隊空戰"
+
+msgid "TUTORIAL_LESSON_4_NAME_CAPS"
+msgstr "團隊空戰訓練"
+
+msgid "TUTORIAL_LESSON_4_TUTORIAL_HEADER"
+msgstr "歡迎來到戰機世界！"
+
+msgid "TUTORIAL_LESSON_4_TUTORIAL_MESSAGE"
+msgstr "加入團隊空戰訓練！"
+
+msgid "TUTORIAL_LESSON_MESSAGE_BEING_SHOT_AT"
+msgstr "使用機動動作躲避敵方火力！"
+
+msgid "TUTORIAL_LESSON_MESSAGE_PLANE_GRAVELY_DAMAGED"
+msgstr "使用規避動作來躲避敵方火力！"
+
+msgid "TUTORIAL_LESSON_MESSAGE_TOO_FAR_FLY_CLOSER"
+msgstr "您不在射程範圍內，請接近目標後再次開火"
+
+msgid "TUTORIAL_LOADING_SCREEN_HEADER_SHOOTING"
+msgstr "開火"
+
+msgid "TUTORIAL_LOADING_SCREEN_OK_BUTTON"
+msgstr "得到了!"
+
+msgid "TUTORIAL_LOADING_SCREEN_TIP1_HEADER"
+msgstr "隊友和敵人"
+
+msgid "TUTORIAL_LOADING_SCREEN_TIP1_MESSAGE"
+msgstr ""
+"帶有紅色標記的戰機為敵機，需要將其擊落<br>帶有綠色標記的戰機為友機，要與其配"
+"合作戰"
+
+msgid "TUTORIAL_LOADING_SCREEN_TIP2_HEADER"
+msgstr "輔助瞄準點"
+
+msgid "TUTORIAL_LOADING_SCREEN_TIP2_MESSAGE"
+msgstr ""
+"射擊敵機時，應瞄準預瞄點進行射擊，預瞄點表示著當子彈擊中敵機時敵機所處的實際"
+"位置<br>只有瞄準預瞄點射擊才能擊中敵機"
+
+msgid "TUTORIAL_LOADING_SCREEN_TIP3_HEADER"
+msgstr "攻擊地面目標"
+
+msgid "TUTORIAL_LOADING_SCREEN_TIP3_MESSAGE"
+msgstr ""
+"當你對一個地面目標進行射擊後你會看到其周圍會出現一個方框<br>出現完整的方框說"
+"明你是在有效射程內對其進行射擊"
+
+msgid "TUTORIAL_LOADING_SCREEN_TIP4_HEADER"
+msgstr "電腦AI (由電腦所控制的玩家)"
+
+msgid "TUTORIAL_LOADING_SCREEN_TIP4_MESSAGE"
+msgstr "不同於真實玩家，AI玩家的名字將包含: &lt;Bot&gt;"
+
+msgid "TUTORIAL_LOADING_SCREEN_TIP5_HEADER"
+msgstr "玩家和電腦AI"
+
+msgid "TUTORIAL_LOADING_SCREEN_TIP5_MESSAGE"
+msgstr ""
+"己方隊伍中將包括最多5名真實玩家，其餘戰機將由電腦AI控制<br>敵方戰機將全部由電"
+"腦AI控制"
+
+msgid "TUTORIAL_MESSAGE_FLY_CLOSER"
+msgstr "當你無法瞄準目標時請接近目標後再次進行嘗試"
+
+msgid "TUTORIAL_MESSAGE_FRIENDLY_FIRE"
+msgstr "不要向你的同伴開火！"
+
+msgid "TUTORIAL_MESSAGE_SHOOT_DOT"
+msgstr "應向敵機的預瞄點射擊而不是敵機機身位置"
+
+msgid "TUTORIAL_MESSAGE_SHOOT_OBJECT"
+msgstr "射擊地面目標不需要對其進行標記"
+
+msgid "TUTORIAL_MESSAGE_STALL"
+msgstr "如果你的戰機開始失速，請使機首向下"
+
+msgid "TUTORIAL_NAME_CREDS"
+msgstr "銀幣"
+
+msgid "TUTORIAL_NAME_REWARD"
+msgstr "獎勵："
+
+msgid "TUTORIAL_PREBATTLE_TIMER_LABEL"
+msgstr "等待時間："
+
+msgid "TUTORIAL_REWARD"
+msgstr "完成獎勵"
+
+msgid "TUTORIAL_REWARD_ALLREADY_GET"
+msgstr "你已獲得獎勵！"
+
+msgid "TUTORIAL_REWARD_DESCRIPTION"
+msgstr "在選單中選擇訓練戰鬥，並重復戰鬥取得更高的戰績。"
+
+msgid "TUTORIAL_REWARD_TEXT"
+msgstr "作為獎勵，在你完成所有訓練之後！"
+
+msgid "TUTORIAL_REWARD_TITLE"
+msgstr "恭喜你！訓練成功！"
+
+msgid "TUTORIAL_TOKENS"
+msgstr "令牌"
+
+msgid "LOBBY_TUTORIAL_UNAVAILABLE_GO_TO_STANDART_BATTLE"
+msgstr "Unavailable. Win a Standard battle."

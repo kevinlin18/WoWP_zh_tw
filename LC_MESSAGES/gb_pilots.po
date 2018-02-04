@@ -1,0 +1,6812 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: World Of Tanks\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-06-01 10:00+0300\n"
+"PO-Revision-Date: 2010-06-07 12:37+0200\n"
+"Last-Translator: Developer <noreply@wargaming.net>\n"
+"Language-Team: WoT Team <noreply@wargaming.net>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "NAMES/GB1"
+msgstr "阿諾"
+
+msgid "NAMES/GB10"
+msgstr "艾狄生"
+
+msgid "NAMES/GB100"
+msgstr "安德魯"
+
+msgid "NAMES/GB1000"
+msgstr "安斯艾爾"
+
+msgid "NAMES/GB1001"
+msgstr "亞伯拉罕"
+
+msgid "NAMES/GB1002"
+msgstr "亞爾曼"
+
+msgid "NAMES/GB1003"
+msgstr "亞瑟"
+
+msgid "NAMES/GB1004"
+msgstr "巴羅"
+
+msgid "NAMES/GB1005"
+msgstr "巴頓"
+
+msgid "NAMES/GB1006"
+msgstr "班尼迪克"
+
+msgid "NAMES/GB1007"
+msgstr "伯尼"
+
+msgid "NAMES/GB1008"
+msgstr "畢夏普"
+
+msgid "NAMES/GB1009"
+msgstr "伯里斯"
+
+msgid "NAMES/GB101"
+msgstr "布萊恩"
+
+msgid "NAMES/GB1010"
+msgstr "巴爾克"
+
+msgid "NAMES/GB1011"
+msgstr "凱裡"
+
+msgid "NAMES/GB1012"
+msgstr "查德"
+
+msgid "NAMES/GB1013"
+msgstr "克里斯汀"
+
+msgid "NAMES/GB1014"
+msgstr "克利夫蘭"
+
+msgid "NAMES/GB1015"
+msgstr "康拉德"
+
+msgid "NAMES/GB1016"
+msgstr "西瑞爾"
+
+msgid "NAMES/GB1017"
+msgstr "迪夫"
+
+msgid "NAMES/GB1018"
+msgstr "狄克"
+
+msgid "NAMES/GB1019"
+msgstr "杜克"
+
+msgid "NAMES/GB102"
+msgstr "艾德"
+
+msgid "NAMES/GB1020"
+msgstr "愛格伯特"
+
+msgid "NAMES/GB1021"
+msgstr "愛爾頓"
+
+msgid "NAMES/GB1022"
+msgstr "爾文"
+
+msgid "NAMES/GB1023"
+msgstr "費茲捷勒"
+
+msgid "NAMES/GB1024"
+msgstr "加布力爾"
+
+msgid "NAMES/GB1025"
+msgstr "喬治"
+
+msgid "NAMES/GB1026"
+msgstr "戈登"
+
+msgid "NAMES/GB1027"
+msgstr "哈樂德"
+
+msgid "NAMES/GB1028"
+msgstr "赫伯特"
+
+msgid "NAMES/GB1029"
+msgstr "好爾德"
+
+msgid "NAMES/GB103"
+msgstr "艾凡"
+
+msgid "NAMES/GB1030"
+msgstr "傑森"
+
+msgid "NAMES/GB1031"
+msgstr "傑西"
+
+msgid "NAMES/GB1032"
+msgstr "喬休爾"
+
+msgid "NAMES/GB1033"
+msgstr "甘乃迪"
+
+msgid "NAMES/GB1034"
+msgstr "金"
+
+msgid "NAMES/GB1035"
+msgstr "勞倫斯"
+
+msgid "NAMES/GB1036"
+msgstr "勒斯"
+
+msgid "NAMES/GB1037"
+msgstr "陸斯恩"
+
+msgid "NAMES/GB1038"
+msgstr "麥爾肯"
+
+msgid "NAMES/GB1039"
+msgstr "馬歇爾"
+
+msgid "NAMES/GB104"
+msgstr "馬克西米蘭"
+
+msgid "NAMES/GB1040"
+msgstr "密克"
+
+msgid "NAMES/GB1041"
+msgstr "摩爾根"
+
+msgid "NAMES/GB1042"
+msgstr "尼克勒斯"
+
+msgid "NAMES/GB1043"
+msgstr "哈樂德"
+
+msgid "NAMES/GB1044"
+msgstr "赫伯特"
+
+msgid "NAMES/GB1045"
+msgstr "好爾德"
+
+msgid "NAMES/GB1046"
+msgstr "艾凡"
+
+msgid "NAMES/GB1047"
+msgstr "傑森"
+
+msgid "NAMES/GB1048"
+msgstr "傑西"
+
+msgid "NAMES/GB1049"
+msgstr "喬休爾"
+
+msgid "NAMES/GB105"
+msgstr "甘乃迪"
+
+msgid "NAMES/GB1050"
+msgstr "勞瑞"
+
+msgid "NAMES/GB1051"
+msgstr "利奧波德"
+
+msgid "NAMES/GB1052"
+msgstr "路易士"
+
+msgid "NAMES/GB1053"
+msgstr "麥基"
+
+msgid "NAMES/GB1054"
+msgstr "瑪希"
+
+msgid "NAMES/GB1055"
+msgstr "馬克斯"
+
+msgid "NAMES/GB1056"
+msgstr "米契爾"
+
+msgid "NAMES/GB1057"
+msgstr "莫爾"
+
+msgid "NAMES/GB1058"
+msgstr "麥倫"
+
+msgid "NAMES/GB1059"
+msgstr "紐曼"
+
+msgid "NAMES/GB106"
+msgstr "諾頓"
+
+msgid "NAMES/GB1060"
+msgstr "奧斯卡"
+
+msgid "NAMES/GB1061"
+msgstr "裴吉"
+
+msgid "NAMES/GB1062"
+msgstr "皮特"
+
+msgid "NAMES/GB1063"
+msgstr "雷契爾"
+
+msgid "NAMES/GB1064"
+msgstr "魯賓"
+
+msgid "NAMES/GB1065"
+msgstr "羅得裡克"
+
+msgid "NAMES/GB1066"
+msgstr "魯伯特"
+
+msgid "NAMES/GB1067"
+msgstr "撒克遜"
+
+msgid "NAMES/GB1068"
+msgstr "賽門"
+
+msgid "NAMES/GB1069"
+msgstr "史帝夫"
+
+msgid "NAMES/GB107"
+msgstr "希爾保特"
+
+msgid "NAMES/GB1070"
+msgstr "託比"
+
+msgid "NAMES/GB1071"
+msgstr "泰勒"
+
+msgid "NAMES/GB1072"
+msgstr "範倫鐵恩"
+
+msgid "NAMES/GB1073"
+msgstr "維託"
+
+msgid "NAMES/GB1074"
+msgstr "華納"
+
+msgid "NAMES/GB1075"
+msgstr "威爾"
+
+msgid "NAMES/GB1076"
+msgstr "奧利維爾"
+
+msgid "NAMES/GB1077"
+msgstr "約克"
+
+msgid "NAMES/GB1078"
+msgstr "阿道夫"
+
+msgid "NAMES/GB1079"
+msgstr "阿諾德"
+
+msgid "NAMES/GB108"
+msgstr "艾富里"
+
+msgid "NAMES/GB1080"
+msgstr "安迪"
+
+msgid "NAMES/GB1081"
+msgstr "奧布里"
+
+msgid "NAMES/GB1082"
+msgstr "亞岱爾"
+
+msgid "NAMES/GB1083"
+msgstr "亞爾維斯"
+
+msgid "NAMES/GB1084"
+msgstr "亞特伍德"
+
+msgid "NAMES/GB1085"
+msgstr "巴奈特"
+
+msgid "NAMES/GB1086"
+msgstr "巴特萊"
+
+msgid "NAMES/GB1087"
+msgstr "班傑明"
+
+msgid "NAMES/GB1088"
+msgstr "伯特"
+
+msgid "NAMES/GB1089"
+msgstr "佈雷爾"
+
+msgid "NAMES/GB109"
+msgstr "波文"
+
+msgid "NAMES/GB1090"
+msgstr "布拉得裡克"
+
+msgid "NAMES/GB1091"
+msgstr "布尼爾"
+
+msgid "NAMES/GB1092"
+msgstr "卡爾"
+
+msgid "NAMES/GB1093"
+msgstr "強尼"
+
+msgid "NAMES/GB1094"
+msgstr "克里斯多夫"
+
+msgid "NAMES/GB1095"
+msgstr "柯利福"
+
+msgid "NAMES/GB1096"
+msgstr "大衛"
+
+msgid "NAMES/GB1097"
+msgstr "多明尼克"
+
+msgid "NAMES/GB1098"
+msgstr "鄧肯"
+
+msgid "NAMES/GB1099"
+msgstr "伊登"
+
+msgid "NAMES/GB11"
+msgstr "伊萊"
+
+msgid "NAMES/GB110"
+msgstr "艾維斯"
+
+msgid "NAMES/GB1100"
+msgstr "伊伕力"
+
+msgid "NAMES/GB1101"
+msgstr "福特"
+
+msgid "NAMES/GB1102"
+msgstr "加爾"
+
+msgid "NAMES/GB1103"
+msgstr "吉羅德"
+
+msgid "NAMES/GB1104"
+msgstr "葛列格"
+
+msgid "NAMES/GB1105"
+msgstr "霍爾"
+
+msgid "NAMES/GB1106"
+msgstr "哈里特"
+
+msgid "NAMES/GB1107"
+msgstr "赫爾曼"
+
+msgid "NAMES/GB1108"
+msgstr "休伯特"
+
+msgid "NAMES/GB1109"
+msgstr "伊恩"
+
+msgid "NAMES/GB111"
+msgstr "艾維斯"
+
+msgid "NAMES/GB1110"
+msgstr "傑"
+
+msgid "NAMES/GB1111"
+msgstr "吉姆"
+
+msgid "NAMES/GB1112"
+msgstr "喬伊斯"
+
+msgid "NAMES/GB1113"
+msgstr "肯尼士"
+
+msgid "NAMES/GB1114"
+msgstr "科克"
+
+msgid "NAMES/GB1115"
+msgstr "列夫"
+
+msgid "NAMES/GB1116"
+msgstr "里斯特"
+
+msgid "NAMES/GB1117"
+msgstr "路德"
+
+msgid "NAMES/GB1118"
+msgstr "曼德爾"
+
+msgid "NAMES/GB1119"
+msgstr "馬丁"
+
+msgid "NAMES/GB112"
+msgstr "麥斯威爾"
+
+msgid "NAMES/GB1120"
+msgstr "麥克"
+
+msgid "NAMES/GB1121"
+msgstr "摩帝馬"
+
+msgid "NAMES/GB1122"
+msgstr "納特"
+
+msgid "NAMES/GB1123"
+msgstr "約翰神"
+
+msgid "NAMES/GB1124"
+msgstr "霍爾"
+
+msgid "NAMES/GB1125"
+msgstr "哈里特"
+
+msgid "NAMES/GB1126"
+msgstr "赫爾曼"
+
+msgid "NAMES/GB1127"
+msgstr "費雯麗"
+
+msgid "NAMES/GB1128"
+msgstr "伊恩"
+
+msgid "NAMES/GB1129"
+msgstr "艾維斯"
+
+msgid "NAMES/GB113"
+msgstr "傑"
+
+msgid "NAMES/GB1130"
+msgstr "吉姆"
+
+msgid "NAMES/GB1131"
+msgstr "喬伊斯"
+
+msgid "NAMES/GB1132"
+msgstr "肯尼士"
+
+msgid "NAMES/GB1133"
+msgstr "金"
+
+msgid "NAMES/GB1134"
+msgstr "勞倫斯"
+
+msgid "NAMES/GB1135"
+msgstr "勒斯"
+
+msgid "NAMES/GB1136"
+msgstr "德弗羅"
+
+msgid "NAMES/GB1137"
+msgstr "麥爾肯"
+
+msgid "NAMES/GB1138"
+msgstr "馬歇爾"
+
+msgid "NAMES/GB1139"
+msgstr "馬克西米蘭"
+
+msgid "NAMES/GB114"
+msgstr "密克"
+
+msgid "NAMES/GB1140"
+msgstr "摩爾根"
+
+msgid "NAMES/GB1141"
+msgstr "尼克勒斯"
+
+msgid "NAMES/GB1142"
+msgstr "奧斯蒙"
+
+msgid "NAMES/GB1143"
+msgstr "派克"
+
+msgid "NAMES/GB1144"
+msgstr "彼得"
+
+msgid "NAMES/GB1145"
+msgstr "昆特"
+
+msgid "NAMES/GB1146"
+msgstr "雷爾夫"
+
+msgid "NAMES/GB1147"
+msgstr "雷克斯"
+
+msgid "NAMES/GB1148"
+msgstr "羅德尼"
+
+msgid "NAMES/GB1149"
+msgstr "萊安"
+
+msgid "NAMES/GB115"
+msgstr "史考特"
+
+msgid "NAMES/GB1150"
+msgstr "所羅門"
+
+msgid "NAMES/GB1151"
+msgstr "史都華德"
+
+msgid "NAMES/GB1152"
+msgstr "希歐多爾"
+
+msgid "NAMES/GB1153"
+msgstr "陶德"
+
+msgid "NAMES/GB1154"
+msgstr "泰倫"
+
+msgid "NAMES/GB1155"
+msgstr "範倫丁"
+
+msgid "NAMES/GB1156"
+msgstr "衛維恩"
+
+msgid "NAMES/GB1157"
+msgstr "韋恩"
+
+msgid "NAMES/GB1158"
+msgstr "威廉"
+
+msgid "NAMES/GB1159"
+msgstr "偉茲"
+
+msgid "NAMES/GB116"
+msgstr "依夫"
+
+msgid "NAMES/GB1160"
+msgstr "阿爾傑"
+
+msgid "NAMES/GB1161"
+msgstr "阿奇柏德"
+
+msgid "NAMES/GB1162"
+msgstr "艾倫"
+
+msgid "NAMES/GB1163"
+msgstr "安東尼"
+
+msgid "NAMES/GB1164"
+msgstr "奧德里奇"
+
+msgid "NAMES/GB1165"
+msgstr "亞當"
+
+msgid "NAMES/GB1166"
+msgstr "亞恆"
+
+msgid "NAMES/GB1167"
+msgstr "亞希伯恩"
+
+msgid "NAMES/GB1168"
+msgstr "巴倫"
+
+msgid "NAMES/GB1169"
+msgstr "巴澤爾"
+
+msgid "NAMES/GB117"
+msgstr "班奈特"
+
+msgid "NAMES/GB1170"
+msgstr "伯頓"
+
+msgid "NAMES/GB1171"
+msgstr "布萊克"
+
+msgid "NAMES/GB1172"
+msgstr "柏宜斯"
+
+msgid "NAMES/GB1173"
+msgstr "布魯克"
+
+msgid "NAMES/GB1174"
+msgstr "波頓"
+
+msgid "NAMES/GB1175"
+msgstr "凱爾"
+
+msgid "NAMES/GB1176"
+msgstr "契布曼"
+
+msgid "NAMES/GB1177"
+msgstr "克雷爾"
+
+msgid "NAMES/GB1178"
+msgstr "柯利弗德"
+
+msgid "NAMES/GB1179"
+msgstr "寇裡"
+
+msgid "NAMES/GB118"
+msgstr "貝克"
+
+msgid "NAMES/GB1180"
+msgstr "迪恩"
+
+msgid "NAMES/GB1181"
+msgstr "唐"
+
+msgid "NAMES/GB1182"
+msgstr "唐恩"
+
+msgid "NAMES/GB1183"
+msgstr "愛德格"
+
+msgid "NAMES/GB1184"
+msgstr "易萊哲"
+
+msgid "NAMES/GB1185"
+msgstr "愛曼紐"
+
+msgid "NAMES/GB1186"
+msgstr "法蘭西斯"
+
+msgid "NAMES/GB1187"
+msgstr "蓋理"
+
+msgid "NAMES/GB1188"
+msgstr "吉伯特"
+
+msgid "NAMES/GB1189"
+msgstr "葛列格里"
+
+msgid "NAMES/GB119"
+msgstr "哈利"
+
+msgid "NAMES/GB1190"
+msgstr "哈里"
+
+msgid "NAMES/GB1191"
+msgstr "希拉里"
+
+msgid "NAMES/GB1192"
+msgstr "修"
+
+msgid "NAMES/GB1193"
+msgstr "英格馬"
+
+msgid "NAMES/GB1194"
+msgstr "傑夫"
+
+msgid "NAMES/GB1195"
+msgstr "喬"
+
+msgid "NAMES/GB1196"
+msgstr "朱利安"
+
+msgid "NAMES/GB1197"
+msgstr "肯特"
+
+msgid "NAMES/GB1198"
+msgstr "凱爾"
+
+msgid "NAMES/GB1199"
+msgstr "倫恩"
+
+msgid "NAMES/GB12"
+msgstr "李維"
+
+msgid "NAMES/GB120"
+msgstr "賴爾"
+
+msgid "NAMES/GB1200"
+msgstr "馬卡斯"
+
+msgid "NAMES/GB1201"
+msgstr "馬文"
+
+msgid "NAMES/GB1202"
+msgstr "馬勒第茲"
+
+msgid "NAMES/GB1203"
+msgstr "麥爾斯"
+
+msgid "NAMES/GB1204"
+msgstr "摩頓"
+
+msgid "NAMES/GB1205"
+msgstr "奈登"
+
+msgid "NAMES/GB1206"
+msgstr "奈哲爾"
+
+msgid "NAMES/GB1207"
+msgstr "哈利"
+
+msgid "NAMES/GB1208"
+msgstr "哈里"
+
+msgid "NAMES/GB1209"
+msgstr "希拉里"
+
+msgid "NAMES/GB121"
+msgstr "修"
+
+msgid "NAMES/GB1210"
+msgstr "英格馬"
+
+msgid "NAMES/GB1211"
+msgstr "傑夫"
+
+msgid "NAMES/GB1212"
+msgstr "喬"
+
+msgid "NAMES/GB1213"
+msgstr "朱利安"
+
+msgid "NAMES/GB1214"
+msgstr "肯特"
+
+msgid "NAMES/GB1215"
+msgstr "科克"
+
+msgid "NAMES/GB1216"
+msgstr "列夫"
+
+msgid "NAMES/GB1217"
+msgstr "里斯特"
+
+msgid "NAMES/GB1218"
+msgstr "路德"
+
+msgid "NAMES/GB1219"
+msgstr "曼德爾"
+
+msgid "NAMES/GB122"
+msgstr "馬丁"
+
+msgid "NAMES/GB1220"
+msgstr "麥斯威爾"
+
+msgid "NAMES/GB1221"
+msgstr "麥克"
+
+msgid "NAMES/GB1222"
+msgstr "摩帝馬"
+
+msgid "NAMES/GB1223"
+msgstr "納特"
+
+msgid "NAMES/GB1224"
+msgstr "尼克"
+
+msgid "NAMES/GB1225"
+msgstr "歐格登"
+
+msgid "NAMES/GB1226"
+msgstr "奧斯維得"
+
+msgid "NAMES/GB1227"
+msgstr "明德"
+
+msgid "NAMES/GB1228"
+msgstr "菲爾"
+
+msgid "NAMES/GB1229"
+msgstr "昆尼爾"
+
+msgid "NAMES/GB123"
+msgstr "藍道夫"
+
+msgid "NAMES/GB1230"
+msgstr "理查"
+
+msgid "NAMES/GB1231"
+msgstr "羅恩"
+
+msgid "NAMES/GB1232"
+msgstr "肖恩"
+
+msgid "NAMES/GB1233"
+msgstr "史賓杜"
+
+msgid "NAMES/GB1234"
+msgstr "託瑪士"
+
+msgid "NAMES/GB1235"
+msgstr "湯姆"
+
+msgid "NAMES/GB1236"
+msgstr "佛能"
+
+msgid "NAMES/GB1237"
+msgstr "韋勃"
+
+msgid "NAMES/GB1238"
+msgstr "威利"
+
+msgid "NAMES/GB1239"
+msgstr "阿爾傑農"
+
+msgid "NAMES/GB124"
+msgstr "阿奇爾"
+
+msgid "NAMES/GB1240"
+msgstr "艾倫"
+
+msgid "NAMES/GB1241"
+msgstr "安東尼奧"
+
+msgid "NAMES/GB1242"
+msgstr "奧格斯格"
+
+msgid "NAMES/GB1243"
+msgstr "亞德里恩"
+
+msgid "NAMES/GB1244"
+msgstr "亞力士"
+
+msgid "NAMES/GB1245"
+msgstr "拜爾德"
+
+msgid "NAMES/GB1246"
+msgstr "巴里特"
+
+msgid "NAMES/GB1247"
+msgstr "比其爾"
+
+msgid "NAMES/GB1248"
+msgstr "班森"
+
+msgid "NAMES/GB1249"
+msgstr "柏特萊姆"
+
+msgid "NAMES/GB125"
+msgstr "布萊茲"
+
+msgid "NAMES/GB1250"
+msgstr "佈德"
+
+msgid "NAMES/GB1251"
+msgstr "布魯斯"
+
+msgid "NAMES/GB1252"
+msgstr "拜倫"
+
+msgid "NAMES/GB1253"
+msgstr "卡特"
+
+msgid "NAMES/GB1254"
+msgstr "查理斯"
+
+msgid "NAMES/GB1255"
+msgstr "克拉倫斯"
+
+msgid "NAMES/GB1256"
+msgstr "克萊得"
+
+msgid "NAMES/GB1257"
+msgstr "康那理惟士"
+
+msgid "NAMES/GB1258"
+msgstr "丹尼爾"
+
+msgid "NAMES/GB1259"
+msgstr "鄧普斯"
+
+msgid "NAMES/GB126"
+msgstr "唐納修"
+
+msgid "NAMES/GB1260"
+msgstr "德維特"
+
+msgid "NAMES/GB1261"
+msgstr "艾德蒙"
+
+msgid "NAMES/GB1262"
+msgstr "伊裡亞德"
+
+msgid "NAMES/GB1263"
+msgstr "伊諾克"
+
+msgid "NAMES/GB1264"
+msgstr "富賓恩"
+
+msgid "NAMES/GB1265"
+msgstr "法蘭克"
+
+msgid "NAMES/GB1266"
+msgstr "蓋文"
+
+msgid "NAMES/GB1267"
+msgstr "賈艾斯"
+
+msgid "NAMES/GB1268"
+msgstr "葛裡菲茲"
+
+msgid "NAMES/GB1269"
+msgstr "漢米敦"
+
+msgid "NAMES/GB127"
+msgstr "哈威"
+
+msgid "NAMES/GB1270"
+msgstr "海勒"
+
+msgid "NAMES/GB1271"
+msgstr "雨果"
+
+msgid "NAMES/GB1272"
+msgstr "英格蘭姆"
+
+msgid "NAMES/GB1273"
+msgstr "傑克"
+
+msgid "NAMES/GB1274"
+msgstr "傑佛瑞"
+
+msgid "NAMES/GB1275"
+msgstr "密特朗"
+
+msgid "NAMES/GB1276"
+msgstr "朱利爾斯"
+
+msgid "NAMES/GB1277"
+msgstr "科爾"
+
+msgid "NAMES/GB1278"
+msgstr "藍儂"
+
+msgid "NAMES/GB1279"
+msgstr "路易斯"
+
+msgid "NAMES/GB128"
+msgstr "林頓"
+
+msgid "NAMES/GB1280"
+msgstr "馬裡奧"
+
+msgid "NAMES/GB1281"
+msgstr "馬特"
+
+msgid "NAMES/GB1282"
+msgstr "莫爾"
+
+msgid "NAMES/GB1283"
+msgstr "米路"
+
+msgid "NAMES/GB1284"
+msgstr "摩西"
+
+msgid "NAMES/GB1285"
+msgstr "奈寶尼爾"
+
+msgid "NAMES/GB1286"
+msgstr "諾亞"
+
+msgid "NAMES/GB1287"
+msgstr "漢米敦"
+
+msgid "NAMES/GB1288"
+msgstr "哈威"
+
+msgid "NAMES/GB1289"
+msgstr "海勒"
+
+msgid "NAMES/GB129"
+msgstr "雨果"
+
+msgid "NAMES/GB1290"
+msgstr "英格蘭姆"
+
+msgid "NAMES/GB1291"
+msgstr "傑克"
+
+msgid "NAMES/GB1292"
+msgstr "傑佛瑞"
+
+msgid "NAMES/GB1293"
+msgstr "約翰"
+
+msgid "NAMES/GB1294"
+msgstr "朱利爾斯"
+
+msgid "NAMES/GB1295"
+msgstr "科爾"
+
+msgid "NAMES/GB1296"
+msgstr "凱爾"
+
+msgid "NAMES/GB1297"
+msgstr "倫恩"
+
+msgid "NAMES/GB1298"
+msgstr "李維"
+
+msgid "NAMES/GB1299"
+msgstr "賴爾"
+
+msgid "NAMES/GB13"
+msgstr "馬卡斯"
+
+msgid "NAMES/GB130"
+msgstr "馬文"
+
+msgid "NAMES/GB1300"
+msgstr "馬勒第茲"
+
+msgid "NAMES/GB1301"
+msgstr "麥爾斯"
+
+msgid "NAMES/GB1302"
+msgstr "摩頓"
+
+msgid "NAMES/GB1303"
+msgstr "奈登"
+
+msgid "NAMES/GB1304"
+msgstr "黛安"
+
+msgid "NAMES/GB1305"
+msgstr "奧利佛"
+
+msgid "NAMES/GB1306"
+msgstr "奧狄斯"
+
+msgid "NAMES/GB1307"
+msgstr "派翠克"
+
+msgid "NAMES/GB1308"
+msgstr "菲力浦"
+
+msgid "NAMES/GB1309"
+msgstr "昆西"
+
+msgid "NAMES/GB131"
+msgstr "雷蒙德"
+
+msgid "NAMES/GB1310"
+msgstr "羅伯特"
+
+msgid "NAMES/GB1311"
+msgstr "羅奈爾得"
+
+msgid "NAMES/GB1312"
+msgstr "山姆"
+
+msgid "NAMES/GB1313"
+msgstr "夕巴斯汀"
+
+msgid "NAMES/GB1314"
+msgstr "史丹"
+
+msgid "NAMES/GB1315"
+msgstr "塔伯"
+
+msgid "NAMES/GB1316"
+msgstr "帝福尼"
+
+msgid "NAMES/GB1317"
+msgstr "湯尼"
+
+msgid "NAMES/GB1318"
+msgstr "尤里西斯"
+
+msgid "NAMES/GB1319"
+msgstr "維克"
+
+msgid "NAMES/GB132"
+msgstr "維德"
+
+msgid "NAMES/GB1320"
+msgstr "韋伯斯特"
+
+msgid "NAMES/GB1321"
+msgstr "威弗列德"
+
+msgid "NAMES/GB1322"
+msgstr "賽維爾"
+
+msgid "NAMES/GB1323"
+msgstr "扎克利"
+
+msgid "NAMES/GB1324"
+msgstr "阿爾瓦"
+
+msgid "NAMES/GB1325"
+msgstr "艾伯特"
+
+msgid "NAMES/GB1326"
+msgstr "艾倫"
+
+msgid "NAMES/GB1327"
+msgstr "安東莞"
+
+msgid "NAMES/GB1328"
+msgstr "奧古斯汀"
+
+msgid "NAMES/GB1329"
+msgstr "亞度尼斯"
+
+msgid "NAMES/GB133"
+msgstr "亞歷山大"
+
+msgid "NAMES/GB1330"
+msgstr "柏得溫"
+
+msgid "NAMES/GB1331"
+msgstr "巴里"
+
+msgid "NAMES/GB1332"
+msgstr "寶兒"
+
+msgid "NAMES/GB1333"
+msgstr "柏格"
+
+msgid "NAMES/GB1334"
+msgstr "畢維斯"
+
+msgid "NAMES/GB1335"
+msgstr "鮑伯"
+
+msgid "NAMES/GB1336"
+msgstr "布蘭得利"
+
+msgid "NAMES/GB1337"
+msgstr "布魯諾"
+
+msgid "NAMES/GB1338"
+msgstr "凱希"
+
+msgid "NAMES/GB1339"
+msgstr "夏佐"
+
+msgid "NAMES/GB134"
+msgstr "克拉克"
+
+msgid "NAMES/GB1340"
+msgstr "考伯特"
+
+msgid "NAMES/GB1341"
+msgstr "康奈爾"
+
+msgid "NAMES/GB1342"
+msgstr "達爾西"
+
+msgid "NAMES/GB1343"
+msgstr "鄧尼斯"
+
+msgid "NAMES/GB1344"
+msgstr "唐納德"
+
+msgid "NAMES/GB1345"
+msgstr "狄倫"
+
+msgid "NAMES/GB1346"
+msgstr "愛迪生"
+
+msgid "NAMES/GB1347"
+msgstr "艾理斯"
+
+msgid "NAMES/GB1348"
+msgstr "艾利克"
+
+msgid "NAMES/GB1349"
+msgstr "菲力克斯"
+
+msgid "NAMES/GB135"
+msgstr "法蘭克林"
+
+msgid "NAMES/GB1350"
+msgstr "吉恩"
+
+msgid "NAMES/GB1351"
+msgstr "葛蘭"
+
+msgid "NAMES/GB1352"
+msgstr "格羅佛"
+
+msgid "NAMES/GB1353"
+msgstr "哈帝"
+
+msgid "NAMES/GB1354"
+msgstr "海登"
+
+msgid "NAMES/GB1355"
+msgstr "霍伯特"
+
+msgid "NAMES/GB1356"
+msgstr "韓弗理"
+
+msgid "NAMES/GB1357"
+msgstr "艾勒"
+
+msgid "NAMES/GB1358"
+msgstr "雅各"
+
+msgid "NAMES/GB1359"
+msgstr "傑勒米"
+
+msgid "NAMES/GB136"
+msgstr "瓊納斯"
+
+msgid "NAMES/GB1360"
+msgstr "賈斯丁"
+
+msgid "NAMES/GB1361"
+msgstr "科爾溫"
+
+msgid "NAMES/GB1362"
+msgstr "藍伯特"
+
+msgid "NAMES/GB1363"
+msgstr "利奧"
+
+msgid "NAMES/GB1364"
+msgstr "賴昂內爾"
+
+msgid "NAMES/GB1365"
+msgstr "林恩"
+
+msgid "NAMES/GB1366"
+msgstr "馬克"
+
+msgid "NAMES/GB1367"
+msgstr "馬休"
+
+msgid "NAMES/GB1368"
+msgstr "莫林"
+
+msgid "NAMES/GB1369"
+msgstr "門羅"
+
+msgid "NAMES/GB137"
+msgstr "摩菲"
+
+msgid "NAMES/GB1370"
+msgstr "尼爾"
+
+msgid "NAMES/GB1371"
+msgstr "諾爾"
+
+msgid "NAMES/GB1372"
+msgstr "哈帝"
+
+msgid "NAMES/GB1373"
+msgstr "海登"
+
+msgid "NAMES/GB1374"
+msgstr "霍伯特"
+
+msgid "NAMES/GB1375"
+msgstr "韓弗理"
+
+msgid "NAMES/GB1376"
+msgstr "艾勒"
+
+msgid "NAMES/GB1377"
+msgstr "雅各"
+
+msgid "NAMES/GB1378"
+msgstr "傑勒米"
+
+msgid "NAMES/GB1379"
+msgstr "瓊納斯"
+
+msgid "NAMES/GB138"
+msgstr "賈斯丁"
+
+msgid "NAMES/GB1380"
+msgstr "科爾溫"
+
+msgid "NAMES/GB1381"
+msgstr "藍儂"
+
+msgid "NAMES/GB1382"
+msgstr "路易斯"
+
+msgid "NAMES/GB1383"
+msgstr "林頓"
+
+msgid "NAMES/GB1384"
+msgstr "馬裡奧"
+
+msgid "NAMES/GB1385"
+msgstr "馬特"
+
+msgid "NAMES/GB1386"
+msgstr "莫爾"
+
+msgid "NAMES/GB1387"
+msgstr "米路"
+
+msgid "NAMES/GB1388"
+msgstr "摩西"
+
+msgid "NAMES/GB1389"
+msgstr "奈寶尼爾"
+
+msgid "NAMES/GB139"
+msgstr "貝瑞"
+
+msgid "NAMES/GB1390"
+msgstr "奧瑪"
+
+msgid "NAMES/GB1391"
+msgstr "奧特"
+
+msgid "NAMES/GB1392"
+msgstr "保羅"
+
+msgid "NAMES/GB1393"
+msgstr "波特"
+
+msgid "NAMES/GB1394"
+msgstr "昆"
+
+msgid "NAMES/GB1395"
+msgstr "雷哲"
+
+msgid "NAMES/GB1396"
+msgstr "羅賓"
+
+msgid "NAMES/GB1397"
+msgstr "羅裡"
+
+msgid "NAMES/GB1398"
+msgstr "辛普森"
+
+msgid "NAMES/GB1399"
+msgstr "錫德"
+
+msgid "NAMES/GB14"
+msgstr "史丹佛"
+
+msgid "NAMES/GB140"
+msgstr "泰勒"
+
+msgid "NAMES/GB1400"
+msgstr "堤姆"
+
+msgid "NAMES/GB1401"
+msgstr "特瑞西"
+
+msgid "NAMES/GB1402"
+msgstr "阿普頓"
+
+msgid "NAMES/GB1403"
+msgstr "維克多"
+
+msgid "NAMES/GB1404"
+msgstr "瓦爾克"
+
+msgid "NAMES/GB1405"
+msgstr "溫德爾"
+
+msgid "NAMES/GB1406"
+msgstr "溫士頓"
+
+msgid "NAMES/GB1407"
+msgstr "紀伯倫"
+
+msgid "NAMES/GB1408"
+msgstr "阿爾文"
+
+msgid "NAMES/GB1409"
+msgstr "艾布納"
+
+msgid "NAMES/GB141"
+msgstr "艾文"
+
+msgid "NAMES/GB1410"
+msgstr "安格斯"
+
+msgid "NAMES/GB1411"
+msgstr "奧斯頓"
+
+msgid "NAMES/GB1412"
+msgstr "亞爾弗列得"
+
+msgid "NAMES/GB1413"
+msgstr "亞摩斯"
+
+msgid "NAMES/GB1414"
+msgstr "班克羅福特"
+
+msgid "NAMES/GB1415"
+msgstr "巴薩羅穆"
+
+msgid "NAMES/GB1416"
+msgstr "貝克"
+
+msgid "NAMES/GB1417"
+msgstr "格吉爾"
+
+msgid "NAMES/GB1418"
+msgstr "比爾"
+
+msgid "NAMES/GB1419"
+msgstr "布茲"
+
+msgid "NAMES/GB142"
+msgstr "布萊迪"
+
+msgid "NAMES/GB1420"
+msgstr "巴克"
+
+msgid "NAMES/GB1421"
+msgstr "凱撒"
+
+msgid "NAMES/GB1422"
+msgstr "塞西爾"
+
+msgid "NAMES/GB1423"
+msgstr "賈斯特"
+
+msgid "NAMES/GB1424"
+msgstr "克勞德"
+
+msgid "NAMES/GB1425"
+msgstr "考爾比"
+
+msgid "NAMES/GB1426"
+msgstr "克萊凸"
+
+msgid "NAMES/GB1427"
+msgstr "達尼爾"
+
+msgid "NAMES/GB1428"
+msgstr "戴裡克"
+
+msgid "NAMES/GB1429"
+msgstr "道格拉斯"
+
+msgid "NAMES/GB143"
+msgstr "愛德華"
+
+msgid "NAMES/GB1430"
+msgstr "愛爾瑪"
+
+msgid "NAMES/GB1431"
+msgstr "歐尼斯特"
+
+msgid "NAMES/GB1432"
+msgstr "斐迪南"
+
+msgid "NAMES/GB1433"
+msgstr "弗雷得力克"
+
+msgid "NAMES/GB1434"
+msgstr "傑佛理"
+
+msgid "NAMES/GB1435"
+msgstr "哥達"
+
+msgid "NAMES/GB1436"
+msgstr "古斯塔夫"
+
+msgid "NAMES/GB1437"
+msgstr "哈倫"
+
+msgid "NAMES/GB1438"
+msgstr "海拾茲"
+
+msgid "NAMES/GB1439"
+msgstr "霍根"
+
+msgid "NAMES/GB144"
+msgstr "漢特"
+
+msgid "NAMES/GB1440"
+msgstr "艾薩克"
+
+msgid "NAMES/GB1441"
+msgstr "詹姆士"
+
+msgid "NAMES/GB1442"
+msgstr "哲羅姆"
+
+msgid "NAMES/GB1443"
+msgstr "強納生"
+
+msgid "NAMES/GB1444"
+msgstr "凱利"
+
+msgid "NAMES/GB1445"
+msgstr "凱文"
+
+msgid "NAMES/GB1446"
+msgstr "藍斯"
+
+msgid "NAMES/GB1447"
+msgstr "倫納德"
+
+msgid "NAMES/GB1448"
+msgstr "路"
+
+msgid "NAMES/GB1449"
+msgstr "馬倫"
+
+msgid "NAMES/GB145"
+msgstr "摩里斯"
+
+msgid "NAMES/GB1450"
+msgstr "麥克"
+
+msgid "NAMES/GB1451"
+msgstr "曼特裘"
+
+msgid "NAMES/GB1452"
+msgstr "莫雷"
+
+msgid "NAMES/GB1453"
+msgstr "尼爾森"
+
+msgid "NAMES/GB1454"
+msgstr "諾曼"
+
+msgid "NAMES/GB1455"
+msgstr "哈倫"
+
+msgid "NAMES/GB1456"
+msgstr "海拾茲"
+
+msgid "NAMES/GB1457"
+msgstr "霍根"
+
+msgid "NAMES/GB1458"
+msgstr "漢特"
+
+msgid "NAMES/GB1459"
+msgstr "艾薩克"
+
+msgid "NAMES/GB146"
+msgstr "詹姆士"
+
+msgid "NAMES/GB1460"
+msgstr "哲羅姆"
+
+msgid "NAMES/GB1461"
+msgstr "強納生"
+
+msgid "NAMES/GB1462"
+msgstr "凱利"
+
+msgid "NAMES/GB1463"
+msgstr "凱文"
+
+msgid "NAMES/GB1464"
+msgstr "藍伯特"
+
+msgid "NAMES/GB1465"
+msgstr "利奧"
+
+msgid "NAMES/GB1466"
+msgstr "賴昂內爾"
+
+msgid "NAMES/GB1467"
+msgstr "林恩"
+
+msgid "NAMES/GB1468"
+msgstr "馬克"
+
+msgid "NAMES/GB1469"
+msgstr "馬休"
+
+msgid "NAMES/GB147"
+msgstr "莫林"
+
+msgid "NAMES/GB1470"
+msgstr "門羅"
+
+msgid "NAMES/GB1471"
+msgstr "摩菲"
+
+msgid "NAMES/GB1472"
+msgstr "尼爾"
+
+msgid "NAMES/GB1473"
+msgstr "諾爾"
+
+msgid "NAMES/GB1474"
+msgstr "奧利爾"
+
+msgid "NAMES/GB1475"
+msgstr "歐恩"
+
+msgid "NAMES/GB1476"
+msgstr "派恩"
+
+msgid "NAMES/GB1477"
+msgstr "普萊斯考特"
+
+msgid "NAMES/GB1478"
+msgstr "昆頓"
+
+msgid "NAMES/GB1479"
+msgstr "雷根"
+
+msgid "NAMES/GB148"
+msgstr "洛克"
+
+msgid "NAMES/GB1480"
+msgstr "羅伊"
+
+msgid "NAMES/GB1481"
+msgstr "撒姆爾"
+
+msgid "NAMES/GB1482"
+msgstr "錫得尼"
+
+msgid "NAMES/GB1483"
+msgstr "史丹尼"
+
+msgid "NAMES/GB1484"
+msgstr "泰德"
+
+msgid "NAMES/GB1485"
+msgstr "帝摩斯"
+
+msgid "NAMES/GB1486"
+msgstr "特洛伊"
+
+msgid "NAMES/GB1487"
+msgstr "尤萊亞"
+
+msgid "NAMES/GB1488"
+msgstr "文森"
+
+msgid "NAMES/GB1489"
+msgstr "瓦爾特"
+
+msgid "NAMES/GB149"
+msgstr "韋納爾"
+
+msgid "NAMES/GB1490"
+msgstr "伍德洛"
+
+msgid "NAMES/GB1491"
+msgstr "耶魯"
+
+msgid "NAMES/GB1492"
+msgstr "日傑夫"
+
+msgid "NAMES/GB1493"
+msgstr "阿姆斯壯"
+
+msgid "NAMES/GB1494"
+msgstr "艾布特"
+
+msgid "NAMES/GB1495"
+msgstr "安得烈"
+
+msgid "NAMES/GB1496"
+msgstr "安其羅"
+
+msgid "NAMES/GB1497"
+msgstr "亞伯"
+
+msgid "NAMES/GB1498"
+msgstr "亞爾林"
+
+msgid "NAMES/GB1499"
+msgstr "亞撒"
+
+msgid "NAMES/GB15"
+msgstr "巴德"
+
+msgid "NAMES/GB150"
+msgstr "巴特"
+
+msgid "NAMES/GB1500"
+msgstr "班"
+
+msgid "NAMES/GB1501"
+msgstr "格納"
+
+msgid "NAMES/GB1502"
+msgstr "賓"
+
+msgid "NAMES/GB1503"
+msgstr "柏格"
+
+msgid "NAMES/GB1504"
+msgstr "布蘭登"
+
+msgid "NAMES/GB1505"
+msgstr "伯騎士"
+
+msgid "NAMES/GB1506"
+msgstr "卡爾文"
+
+msgid "NAMES/GB1507"
+msgstr "賽得裡克"
+
+msgid "NAMES/GB1508"
+msgstr "克萊斯特"
+
+msgid "NAMES/GB1509"
+msgstr "克雷孟特"
+
+msgid "NAMES/GB151"
+msgstr "科林"
+
+msgid "NAMES/GB1510"
+msgstr "柯帝士"
+
+msgid "NAMES/GB1511"
+msgstr "達倫"
+
+msgid "NAMES/GB1512"
+msgstr "得文"
+
+msgid "NAMES/GB1513"
+msgstr "杜魯"
+
+msgid "NAMES/GB1514"
+msgstr "額爾"
+
+msgid "NAMES/GB1515"
+msgstr "愛德溫"
+
+msgid "NAMES/GB1516"
+msgstr "愛羅伊"
+
+msgid "NAMES/GB1517"
+msgstr "尤金"
+
+msgid "NAMES/GB1518"
+msgstr "費奇"
+
+msgid "NAMES/GB1519"
+msgstr "傑夫"
+
+msgid "NAMES/GB152"
+msgstr "高德佛裡"
+
+msgid "NAMES/GB1520"
+msgstr "蓋"
+
+msgid "NAMES/GB1521"
+msgstr "哈利"
+
+msgid "NAMES/GB1522"
+msgstr "享利"
+
+msgid "NAMES/GB1523"
+msgstr "哈瑞斯"
+
+msgid "NAMES/GB1524"
+msgstr "海曼"
+
+msgid "NAMES/GB1525"
+msgstr "伊西多"
+
+msgid "NAMES/GB1526"
+msgstr "巴羅"
+
+msgid "NAMES/GB1527"
+msgstr "傑理"
+
+msgid "NAMES/GB1528"
+msgstr "約瑟夫"
+
+msgid "NAMES/GB1529"
+msgstr "肯恩"
+
+msgid "NAMES/GB153"
+msgstr "金姆"
+
+msgid "NAMES/GB1530"
+msgstr "勞瑞"
+
+msgid "NAMES/GB1531"
+msgstr "利奧波德"
+
+msgid "NAMES/GB1532"
+msgstr "路易士"
+
+msgid "NAMES/GB1533"
+msgstr "麥基"
+
+msgid "NAMES/GB1534"
+msgstr "瑪希"
+
+msgid "NAMES/GB1535"
+msgstr "馬克斯"
+
+msgid "NAMES/GB1536"
+msgstr "米契爾"
+
+msgid "NAMES/GB1537"
+msgstr "莫爾"
+
+msgid "NAMES/GB1538"
+msgstr "麥倫"
+
+msgid "NAMES/GB1539"
+msgstr "紐曼"
+
+msgid "NAMES/GB154"
+msgstr "諾頓"
+
+msgid "NAMES/GB1540"
+msgstr "哈利"
+
+msgid "NAMES/GB1541"
+msgstr "享利"
+
+msgid "NAMES/GB1542"
+msgstr "哈瑞斯"
+
+msgid "NAMES/GB1543"
+msgstr "海曼"
+
+msgid "NAMES/GB1544"
+msgstr "伊西多"
+
+msgid "NAMES/GB1545"
+msgstr "傑瑞德"
+
+msgid "NAMES/GB1546"
+msgstr "傑理"
+
+msgid "NAMES/GB1547"
+msgstr "約瑟夫"
+
+msgid "NAMES/GB1548"
+msgstr "肯恩"
+
+msgid "NAMES/GB1549"
+msgstr "金姆"
+
+msgid "NAMES/GB155"
+msgstr "藍斯"
+
+msgid "NAMES/GB1550"
+msgstr "倫納德"
+
+msgid "NAMES/GB1551"
+msgstr "路"
+
+msgid "NAMES/GB1552"
+msgstr "馬倫"
+
+msgid "NAMES/GB1553"
+msgstr "摩里斯"
+
+msgid "NAMES/GB1554"
+msgstr "麥克"
+
+msgid "NAMES/GB1555"
+msgstr "曼特裘"
+
+msgid "NAMES/GB1556"
+msgstr "莫雷"
+
+msgid "NAMES/GB1557"
+msgstr "尼爾森"
+
+msgid "NAMES/GB1558"
+msgstr "諾曼"
+
+msgid "NAMES/GB1559"
+msgstr "奧斯本"
+
+msgid "NAMES/GB156"
+msgstr "斐瑞"
+
+msgid "NAMES/GB1560"
+msgstr "普利莫"
+
+msgid "NAMES/GB1561"
+msgstr "雷吉諾德"
+
+msgid "NAMES/GB1562"
+msgstr "羅德"
+
+msgid "NAMES/GB1563"
+msgstr "魯道夫"
+
+msgid "NAMES/GB1564"
+msgstr "山迪"
+
+msgid "NAMES/GB1565"
+msgstr "席爾維斯特"
+
+msgid "NAMES/GB1566"
+msgstr "史帝文"
+
+msgid "NAMES/GB1567"
+msgstr "泰倫斯"
+
+msgid "NAMES/GB1568"
+msgstr "託拜西"
+
+msgid "NAMES/GB1569"
+msgstr "杜魯門"
+
+msgid "NAMES/GB157"
+msgstr "維吉爾"
+
+msgid "NAMES/GB1570"
+msgstr "華德"
+
+msgid "NAMES/GB1571"
+msgstr "韋爾伯"
+
+msgid "NAMES/GB1572"
+msgstr "渥茲華斯"
+
+msgid "NAMES/GB1573"
+msgstr "耶呼弟"
+
+msgid "NAMES/GB1574"
+msgstr "阿諾"
+
+msgid "NAMES/GB1575"
+msgstr "艾狄生"
+
+msgid "NAMES/GB1576"
+msgstr "安德魯"
+
+msgid "NAMES/GB1577"
+msgstr "安斯艾爾"
+
+msgid "NAMES/GB1578"
+msgstr "亞伯拉罕"
+
+msgid "NAMES/GB1579"
+msgstr "亞爾曼"
+
+msgid "NAMES/GB158"
+msgstr "亞瑟"
+
+msgid "NAMES/GB1580"
+msgstr "巴羅"
+
+msgid "NAMES/GB1581"
+msgstr "巴頓"
+
+msgid "NAMES/GB1582"
+msgstr "班尼迪克"
+
+msgid "NAMES/GB1583"
+msgstr "伯尼"
+
+msgid "NAMES/GB1584"
+msgstr "畢夏普"
+
+msgid "NAMES/GB1585"
+msgstr "伯里斯"
+
+msgid "NAMES/GB1586"
+msgstr "布萊恩"
+
+msgid "NAMES/GB1587"
+msgstr "巴爾克"
+
+msgid "NAMES/GB1588"
+msgstr "凱裡"
+
+msgid "NAMES/GB1589"
+msgstr "查德"
+
+msgid "NAMES/GB159"
+msgstr "克里斯汀"
+
+msgid "NAMES/GB1590"
+msgstr "克利夫蘭"
+
+msgid "NAMES/GB1591"
+msgstr "康拉德"
+
+msgid "NAMES/GB1592"
+msgstr "西瑞爾"
+
+msgid "NAMES/GB1593"
+msgstr "迪夫"
+
+msgid "NAMES/GB1594"
+msgstr "狄克"
+
+msgid "NAMES/GB1595"
+msgstr "杜克"
+
+msgid "NAMES/GB1596"
+msgstr "艾德"
+
+msgid "NAMES/GB1597"
+msgstr "愛格伯特"
+
+msgid "NAMES/GB1598"
+msgstr "愛爾頓"
+
+msgid "NAMES/GB1599"
+msgstr "爾文"
+
+msgid "NAMES/GB16"
+msgstr "費茲捷勒"
+
+msgid "NAMES/GB160"
+msgstr "加布力爾"
+
+msgid "NAMES/GB1600"
+msgstr "喬治"
+
+msgid "NAMES/GB1601"
+msgstr "戈登"
+
+msgid "NAMES/GB1602"
+msgstr "哈樂德"
+
+msgid "NAMES/GB1603"
+msgstr "赫伯特"
+
+msgid "NAMES/GB1604"
+msgstr "好爾德"
+
+msgid "NAMES/GB1605"
+msgstr "艾凡"
+
+msgid "NAMES/GB1606"
+msgstr "傑森"
+
+msgid "NAMES/GB1607"
+msgstr "傑西"
+
+msgid "NAMES/GB1608"
+msgstr "喬休爾"
+
+msgid "NAMES/GB1609"
+msgstr "甘乃迪"
+
+msgid "NAMES/GB161"
+msgstr "金"
+
+msgid "NAMES/GB1610"
+msgstr "吉賽爾邦"
+
+msgid "NAMES/GB1611"
+msgstr "勒斯"
+
+msgid "NAMES/GB1612"
+msgstr "陸斯恩"
+
+msgid "NAMES/GB1613"
+msgstr "麥爾肯"
+
+msgid "NAMES/GB1614"
+msgstr "馬歇爾"
+
+msgid "NAMES/GB1615"
+msgstr "馬克西米蘭"
+
+msgid "NAMES/GB1616"
+msgstr "密克"
+
+msgid "NAMES/GB1617"
+msgstr "摩爾根"
+
+msgid "NAMES/GB1618"
+msgstr "尼克勒斯"
+
+msgid "NAMES/GB1619"
+msgstr "哈樂德"
+
+msgid "NAMES/GB162"
+msgstr "赫伯特"
+
+msgid "NAMES/GB1620"
+msgstr "好爾德"
+
+msgid "NAMES/GB1621"
+msgstr "艾凡"
+
+msgid "NAMES/GB1622"
+msgstr "傑森"
+
+msgid "NAMES/GB1623"
+msgstr "傑西"
+
+msgid "NAMES/GB1624"
+msgstr "喬休爾"
+
+msgid "NAMES/GB1625"
+msgstr "甘乃迪"
+
+msgid "NAMES/GB1626"
+msgstr "勞瑞"
+
+msgid "NAMES/GB1627"
+msgstr "利奧波德"
+
+msgid "NAMES/GB1628"
+msgstr "路易士"
+
+msgid "NAMES/GB1629"
+msgstr "麥基"
+
+msgid "NAMES/GB163"
+msgstr "瑪希"
+
+msgid "NAMES/GB1630"
+msgstr "馬克斯"
+
+msgid "NAMES/GB1631"
+msgstr "米契爾"
+
+msgid "NAMES/GB1632"
+msgstr "莫爾"
+
+msgid "NAMES/GB1633"
+msgstr "麥倫"
+
+msgid "NAMES/GB1634"
+msgstr "紐曼"
+
+msgid "NAMES/GB1635"
+msgstr "諾頓"
+
+msgid "NAMES/GB1636"
+msgstr "查皮安"
+
+msgid "NAMES/GB1637"
+msgstr "裴吉"
+
+msgid "NAMES/GB1638"
+msgstr "皮特"
+
+msgid "NAMES/GB1639"
+msgstr "雷契爾"
+
+msgid "NAMES/GB164"
+msgstr "魯賓"
+
+msgid "NAMES/GB1640"
+msgstr "羅得裡克"
+
+msgid "NAMES/GB1641"
+msgstr "魯伯特"
+
+msgid "NAMES/GB1642"
+msgstr "撒克遜"
+
+msgid "NAMES/GB1643"
+msgstr "賽門"
+
+msgid "NAMES/GB1644"
+msgstr "史帝夫"
+
+msgid "NAMES/GB1645"
+msgstr "希爾保特"
+
+msgid "NAMES/GB1646"
+msgstr "託比"
+
+msgid "NAMES/GB1647"
+msgstr "泰勒"
+
+msgid "NAMES/GB1648"
+msgstr "範倫鐵恩"
+
+msgid "NAMES/GB1649"
+msgstr "維託"
+
+msgid "NAMES/GB165"
+msgstr "華納"
+
+msgid "NAMES/GB1650"
+msgstr "威爾"
+
+msgid "NAMES/GB1651"
+msgstr "萊特"
+
+msgid "NAMES/GB1652"
+msgstr "約克"
+
+msgid "NAMES/GB1653"
+msgstr "阿道夫"
+
+msgid "NAMES/GB1654"
+msgstr "阿諾德"
+
+msgid "NAMES/GB1655"
+msgstr "艾富里"
+
+msgid "NAMES/GB1656"
+msgstr "安迪"
+
+msgid "NAMES/GB1657"
+msgstr "奧布里"
+
+msgid "NAMES/GB1658"
+msgstr "亞岱爾"
+
+msgid "NAMES/GB1659"
+msgstr "亞爾維斯"
+
+msgid "NAMES/GB166"
+msgstr "亞特伍德"
+
+msgid "NAMES/GB1660"
+msgstr "巴奈特"
+
+msgid "NAMES/GB1661"
+msgstr "巴特萊"
+
+msgid "NAMES/GB1662"
+msgstr "班傑明"
+
+msgid "NAMES/GB1663"
+msgstr "伯特"
+
+msgid "NAMES/GB1664"
+msgstr "佈雷爾"
+
+msgid "NAMES/GB1665"
+msgstr "波文"
+
+msgid "NAMES/GB1666"
+msgstr "布拉得裡克"
+
+msgid "NAMES/GB1667"
+msgstr "布尼爾"
+
+msgid "NAMES/GB1668"
+msgstr "卡爾"
+
+msgid "NAMES/GB1669"
+msgstr "強尼"
+
+msgid "NAMES/GB167"
+msgstr "布蘭查德"
+
+msgid "NAMES/GB1670"
+msgstr "柯利福"
+
+msgid "NAMES/GB1671"
+msgstr "大衛"
+
+msgid "NAMES/GB1672"
+msgstr "多明尼克"
+
+msgid "NAMES/GB1673"
+msgstr "鄧肯"
+
+msgid "NAMES/GB1674"
+msgstr "伊登"
+
+msgid "NAMES/GB1675"
+msgstr "伊萊"
+
+msgid "NAMES/GB1676"
+msgstr "艾維斯"
+
+msgid "NAMES/GB1677"
+msgstr "伊伕力"
+
+msgid "NAMES/GB1678"
+msgstr "福特"
+
+msgid "NAMES/GB1679"
+msgstr "加爾"
+
+msgid "NAMES/GB168"
+msgstr "吉羅德"
+
+msgid "NAMES/GB1680"
+msgstr "葛列格"
+
+msgid "NAMES/GB1681"
+msgstr "霍爾"
+
+msgid "NAMES/GB1682"
+msgstr "哈里特"
+
+msgid "NAMES/GB1683"
+msgstr "赫爾曼"
+
+msgid "NAMES/GB1684"
+msgstr "休伯特"
+
+msgid "NAMES/GB1685"
+msgstr "伊恩"
+
+msgid "NAMES/GB1686"
+msgstr "艾維斯"
+
+msgid "NAMES/GB1687"
+msgstr "傑"
+
+msgid "NAMES/GB1688"
+msgstr "吉姆"
+
+msgid "NAMES/GB1689"
+msgstr "喬伊斯"
+
+msgid "NAMES/GB169"
+msgstr "肯尼士"
+
+msgid "NAMES/GB1690"
+msgstr "科克"
+
+msgid "NAMES/GB1691"
+msgstr "列夫"
+
+msgid "NAMES/GB1692"
+msgstr "里斯特"
+
+msgid "NAMES/GB1693"
+msgstr "路德"
+
+msgid "NAMES/GB1694"
+msgstr "曼德爾"
+
+msgid "NAMES/GB1695"
+msgstr "馬丁"
+
+msgid "NAMES/GB1696"
+msgstr "麥斯威爾"
+
+msgid "NAMES/GB1697"
+msgstr "麥克"
+
+msgid "NAMES/GB1698"
+msgstr "摩帝馬"
+
+msgid "NAMES/GB1699"
+msgstr "納特"
+
+msgid "NAMES/GB17"
+msgstr "尼克"
+
+msgid "NAMES/GB170"
+msgstr "霍爾"
+
+msgid "NAMES/GB1700"
+msgstr "哈里特"
+
+msgid "NAMES/GB1701"
+msgstr "赫爾曼"
+
+msgid "NAMES/GB1702"
+msgstr "休伯特"
+
+msgid "NAMES/GB1703"
+msgstr "伊恩"
+
+msgid "NAMES/GB1704"
+msgstr "艾維斯"
+
+msgid "NAMES/GB1705"
+msgstr "傑"
+
+msgid "NAMES/GB1706"
+msgstr "吉姆"
+
+msgid "NAMES/GB1707"
+msgstr "喬伊斯"
+
+msgid "NAMES/GB1708"
+msgstr "肯尼士"
+
+msgid "NAMES/GB1709"
+msgstr "金"
+
+msgid "NAMES/GB171"
+msgstr "勞倫斯"
+
+msgid "NAMES/GB1710"
+msgstr "勒斯"
+
+msgid "NAMES/GB1711"
+msgstr "陸斯恩"
+
+msgid "NAMES/GB1712"
+msgstr "麥爾肯"
+
+msgid "NAMES/GB1713"
+msgstr "馬歇爾"
+
+msgid "NAMES/GB1714"
+msgstr "馬克西米蘭"
+
+msgid "NAMES/GB1715"
+msgstr "密克"
+
+msgid "NAMES/GB1716"
+msgstr "摩爾根"
+
+msgid "NAMES/GB1717"
+msgstr "尼克勒斯"
+
+msgid "NAMES/GB1718"
+msgstr "奧斯蒙"
+
+msgid "NAMES/GB1719"
+msgstr "派克"
+
+msgid "NAMES/GB172"
+msgstr "彼得"
+
+msgid "NAMES/GB1720"
+msgstr "昆特"
+
+msgid "NAMES/GB1721"
+msgstr "雷爾夫"
+
+msgid "NAMES/GB1722"
+msgstr "雷克斯"
+
+msgid "NAMES/GB1723"
+msgstr "羅德尼"
+
+msgid "NAMES/GB1724"
+msgstr "萊安"
+
+msgid "NAMES/GB1725"
+msgstr "史考特"
+
+msgid "NAMES/GB1726"
+msgstr "所羅門"
+
+msgid "NAMES/GB1727"
+msgstr "史都華德"
+
+msgid "NAMES/GB1728"
+msgstr "希歐多爾"
+
+msgid "NAMES/GB1729"
+msgstr "陶德"
+
+msgid "NAMES/GB173"
+msgstr "泰倫"
+
+msgid "NAMES/GB1730"
+msgstr "範倫丁"
+
+msgid "NAMES/GB1731"
+msgstr "衛維恩"
+
+msgid "NAMES/GB1732"
+msgstr "韋恩"
+
+msgid "NAMES/GB1733"
+msgstr "威廉"
+
+msgid "NAMES/GB1734"
+msgstr "偉茲"
+
+msgid "NAMES/GB1735"
+msgstr "依夫"
+
+msgid "NAMES/GB1736"
+msgstr "阿爾傑"
+
+msgid "NAMES/GB1737"
+msgstr "阿奇柏德"
+
+msgid "NAMES/GB1738"
+msgstr "艾倫"
+
+msgid "NAMES/GB1739"
+msgstr "安東尼"
+
+msgid "NAMES/GB174"
+msgstr "奧德里奇"
+
+msgid "NAMES/GB1740"
+msgstr "亞當"
+
+msgid "NAMES/GB1741"
+msgstr "亞恆"
+
+msgid "NAMES/GB1742"
+msgstr "亞希伯恩"
+
+msgid "NAMES/GB1743"
+msgstr "巴倫"
+
+msgid "NAMES/GB1744"
+msgstr "巴澤爾"
+
+msgid "NAMES/GB1745"
+msgstr "班奈特"
+
+msgid "NAMES/GB1746"
+msgstr "伯頓"
+
+msgid "NAMES/GB1747"
+msgstr "布萊克"
+
+msgid "NAMES/GB1748"
+msgstr "柏宜斯"
+
+msgid "NAMES/GB1749"
+msgstr "布魯克"
+
+msgid "NAMES/GB175"
+msgstr "波頓"
+
+msgid "NAMES/GB1750"
+msgstr "凱爾"
+
+msgid "NAMES/GB1751"
+msgstr "契布曼"
+
+msgid "NAMES/GB1752"
+msgstr "克雷爾"
+
+msgid "NAMES/GB1753"
+msgstr "柯利弗德"
+
+msgid "NAMES/GB1754"
+msgstr "寇裡"
+
+msgid "NAMES/GB1755"
+msgstr "戴納"
+
+msgid "NAMES/GB1756"
+msgstr "迪恩"
+
+msgid "NAMES/GB176"
+msgstr "唐"
+
+msgid "NAMES/GB177"
+msgstr "唐恩"
+
+msgid "NAMES/GB178"
+msgstr "愛德格"
+
+msgid "NAMES/GB179"
+msgstr "易萊哲"
+
+msgid "NAMES/GB18"
+msgstr "愛曼紐"
+
+msgid "NAMES/GB180"
+msgstr "法蘭西斯"
+
+msgid "NAMES/GB181"
+msgstr "蓋理"
+
+msgid "NAMES/GB182"
+msgstr "吉伯特"
+
+msgid "NAMES/GB183"
+msgstr "葛列格里"
+
+msgid "NAMES/GB184"
+msgstr "哈利"
+
+msgid "NAMES/GB185"
+msgstr "哈里"
+
+msgid "NAMES/GB186"
+msgstr "希拉里"
+
+msgid "NAMES/GB187"
+msgstr "修"
+
+msgid "NAMES/GB188"
+msgstr "英格馬"
+
+msgid "NAMES/GB189"
+msgstr "傑夫"
+
+msgid "NAMES/GB19"
+msgstr "喬"
+
+msgid "NAMES/GB190"
+msgstr "朱利安"
+
+msgid "NAMES/GB191"
+msgstr "肯特"
+
+msgid "NAMES/GB192"
+msgstr "凱爾"
+
+msgid "NAMES/GB193"
+msgstr "倫恩"
+
+msgid "NAMES/GB194"
+msgstr "李維"
+
+msgid "NAMES/GB195"
+msgstr "賴爾"
+
+msgid "NAMES/GB196"
+msgstr "馬卡斯"
+
+msgid "NAMES/GB197"
+msgstr "馬文"
+
+msgid "NAMES/GB198"
+msgstr "馬勒第茲"
+
+msgid "NAMES/GB199"
+msgstr "麥爾斯"
+
+msgid "NAMES/GB2"
+msgstr "摩頓"
+
+msgid "NAMES/GB20"
+msgstr "奈登"
+
+msgid "NAMES/GB200"
+msgstr "奈哲爾"
+
+msgid "NAMES/GB201"
+msgstr "哈利"
+
+msgid "NAMES/GB202"
+msgstr "哈里"
+
+msgid "NAMES/GB203"
+msgstr "希拉里"
+
+msgid "NAMES/GB204"
+msgstr "修"
+
+msgid "NAMES/GB205"
+msgstr "英格馬"
+
+msgid "NAMES/GB206"
+msgstr "傑夫"
+
+msgid "NAMES/GB207"
+msgstr "喬"
+
+msgid "NAMES/GB208"
+msgstr "朱利安"
+
+msgid "NAMES/GB209"
+msgstr "肯特"
+
+msgid "NAMES/GB21"
+msgstr "科克"
+
+msgid "NAMES/GB210"
+msgstr "列夫"
+
+msgid "NAMES/GB211"
+msgstr "里斯特"
+
+msgid "NAMES/GB212"
+msgstr "路德"
+
+msgid "NAMES/GB213"
+msgstr "曼德爾"
+
+msgid "NAMES/GB214"
+msgstr "馬丁"
+
+msgid "NAMES/GB215"
+msgstr "麥斯威爾"
+
+msgid "NAMES/GB216"
+msgstr "麥克"
+
+msgid "NAMES/GB217"
+msgstr "摩帝馬"
+
+msgid "NAMES/GB218"
+msgstr "納特"
+
+msgid "NAMES/GB219"
+msgstr "尼克"
+
+msgid "NAMES/GB22"
+msgstr "歐格登"
+
+msgid "NAMES/GB220"
+msgstr "奧斯維得"
+
+msgid "NAMES/GB221"
+msgstr "培迪"
+
+msgid "NAMES/GB222"
+msgstr "菲爾"
+
+msgid "NAMES/GB223"
+msgstr "昆尼爾"
+
+msgid "NAMES/GB224"
+msgstr "藍道夫"
+
+msgid "NAMES/GB225"
+msgstr "理查"
+
+msgid "NAMES/GB226"
+msgstr "羅恩"
+
+msgid "NAMES/GB227"
+msgstr "肖恩"
+
+msgid "NAMES/GB228"
+msgstr "史賓杜"
+
+msgid "NAMES/GB229"
+msgstr "託瑪士"
+
+msgid "NAMES/GB23"
+msgstr "湯姆"
+
+msgid "NAMES/GB230"
+msgstr "佛能"
+
+msgid "NAMES/GB231"
+msgstr "韋勃"
+
+msgid "NAMES/GB232"
+msgstr "威利"
+
+msgid "NAMES/GB233"
+msgstr "阿爾傑農"
+
+msgid "NAMES/GB234"
+msgstr "阿奇爾"
+
+msgid "NAMES/GB235"
+msgstr "康斯坦丁"
+
+msgid "NAMES/GB236"
+msgstr "安東尼奧"
+
+msgid "NAMES/GB237"
+msgstr "奧格斯格"
+
+msgid "NAMES/GB238"
+msgstr "亞德里恩"
+
+msgid "NAMES/GB239"
+msgstr "亞力士"
+
+msgid "NAMES/GB24"
+msgstr "拜爾德"
+
+msgid "NAMES/GB240"
+msgstr "巴里特"
+
+msgid "NAMES/GB241"
+msgstr "比其爾"
+
+msgid "NAMES/GB242"
+msgstr "班森"
+
+msgid "NAMES/GB243"
+msgstr "柏特萊姆"
+
+msgid "NAMES/GB244"
+msgstr "布萊茲"
+
+msgid "NAMES/GB245"
+msgstr "佈德"
+
+msgid "NAMES/GB246"
+msgstr "布魯斯"
+
+msgid "NAMES/GB247"
+msgstr "拜倫"
+
+msgid "NAMES/GB248"
+msgstr "卡特"
+
+msgid "NAMES/GB249"
+msgstr "查理斯"
+
+msgid "NAMES/GB25"
+msgstr "克拉倫斯"
+
+msgid "NAMES/GB250"
+msgstr "克萊得"
+
+msgid "NAMES/GB251"
+msgstr "康那理惟士"
+
+msgid "NAMES/GB252"
+msgstr "丹尼爾"
+
+msgid "NAMES/GB253"
+msgstr "鄧普斯"
+
+msgid "NAMES/GB254"
+msgstr "唐納修"
+
+msgid "NAMES/GB255"
+msgstr "德維特"
+
+msgid "NAMES/GB256"
+msgstr "艾德蒙"
+
+msgid "NAMES/GB257"
+msgstr "伊裡亞德"
+
+msgid "NAMES/GB258"
+msgstr "貝西墨"
+
+msgid "NAMES/GB259"
+msgstr "富賓恩"
+
+msgid "NAMES/GB26"
+msgstr "法蘭克"
+
+msgid "NAMES/GB260"
+msgstr "蓋文"
+
+msgid "NAMES/GB261"
+msgstr "賈艾斯"
+
+msgid "NAMES/GB262"
+msgstr "葛裡菲茲"
+
+msgid "NAMES/GB263"
+msgstr "漢米敦"
+
+msgid "NAMES/GB264"
+msgstr "哈威"
+
+msgid "NAMES/GB265"
+msgstr "海勒"
+
+msgid "NAMES/GB266"
+msgstr "雨果"
+
+msgid "NAMES/GB267"
+msgstr "英格蘭姆"
+
+msgid "NAMES/GB268"
+msgstr "傑克"
+
+msgid "NAMES/GB269"
+msgstr "傑佛瑞"
+
+msgid "NAMES/GB27"
+msgstr "約翰"
+
+msgid "NAMES/GB270"
+msgstr "朱利爾斯"
+
+msgid "NAMES/GB271"
+msgstr "科爾"
+
+msgid "NAMES/GB272"
+msgstr "藍儂"
+
+msgid "NAMES/GB273"
+msgstr "路易斯"
+
+msgid "NAMES/GB274"
+msgstr "林頓"
+
+msgid "NAMES/GB275"
+msgstr "馬裡奧"
+
+msgid "NAMES/GB276"
+msgstr "馬特"
+
+msgid "NAMES/GB277"
+msgstr "莫爾"
+
+msgid "NAMES/GB278"
+msgstr "米路"
+
+msgid "NAMES/GB279"
+msgstr "摩西"
+
+msgid "NAMES/GB28"
+msgstr "奈寶尼爾"
+
+msgid "NAMES/GB280"
+msgstr "諾亞"
+
+msgid "NAMES/GB281"
+msgstr "漢米敦"
+
+msgid "NAMES/GB282"
+msgstr "哈威"
+
+msgid "NAMES/GB283"
+msgstr "海勒"
+
+msgid "NAMES/GB284"
+msgstr "雨果"
+
+msgid "NAMES/GB285"
+msgstr "英格蘭姆"
+
+msgid "NAMES/GB286"
+msgstr "傑克"
+
+msgid "NAMES/GB287"
+msgstr "傑佛瑞"
+
+msgid "NAMES/GB288"
+msgstr "約翰"
+
+msgid "NAMES/GB289"
+msgstr "朱利爾斯"
+
+msgid "NAMES/GB29"
+msgstr "科爾"
+
+msgid "NAMES/GB290"
+msgstr "凱爾"
+
+msgid "NAMES/GB291"
+msgstr "倫恩"
+
+msgid "NAMES/GB292"
+msgstr "李維"
+
+msgid "NAMES/GB293"
+msgstr "賴爾"
+
+msgid "NAMES/GB294"
+msgstr "馬卡斯"
+
+msgid "NAMES/GB295"
+msgstr "馬文"
+
+msgid "NAMES/GB296"
+msgstr "馬勒第茲"
+
+msgid "NAMES/GB297"
+msgstr "麥爾斯"
+
+msgid "NAMES/GB298"
+msgstr "摩頓"
+
+msgid "NAMES/GB299"
+msgstr "奈登"
+
+msgid "NAMES/GB3"
+msgstr "奈哲爾"
+
+msgid "NAMES/GB30"
+msgstr "奧利佛"
+
+msgid "NAMES/GB300"
+msgstr "奧狄斯"
+
+msgid "NAMES/GB301"
+msgstr "派翠克"
+
+msgid "NAMES/GB302"
+msgstr "錢德勒"
+
+msgid "NAMES/GB303"
+msgstr "昆西"
+
+msgid "NAMES/GB304"
+msgstr "雷蒙德"
+
+msgid "NAMES/GB305"
+msgstr "羅伯特"
+
+msgid "NAMES/GB306"
+msgstr "羅奈爾得"
+
+msgid "NAMES/GB307"
+msgstr "山姆"
+
+msgid "NAMES/GB308"
+msgstr "貝爾納丁"
+
+msgid "NAMES/GB309"
+msgstr "史丹"
+
+msgid "NAMES/GB31"
+msgstr "塔伯"
+
+msgid "NAMES/GB310"
+msgstr "帝福尼"
+
+msgid "NAMES/GB311"
+msgstr "湯尼"
+
+msgid "NAMES/GB312"
+msgstr "尤里西斯"
+
+msgid "NAMES/GB313"
+msgstr "維克"
+
+msgid "NAMES/GB314"
+msgstr "維德"
+
+msgid "NAMES/GB315"
+msgstr "韋伯斯特"
+
+msgid "NAMES/GB316"
+msgstr "威弗列德"
+
+msgid "NAMES/GB317"
+msgstr "賽維爾"
+
+msgid "NAMES/GB318"
+msgstr "扎克利"
+
+msgid "NAMES/GB319"
+msgstr "阿爾瓦"
+
+msgid "NAMES/GB32"
+msgstr "艾伯特"
+
+msgid "NAMES/GB320"
+msgstr "艾倫"
+
+msgid "NAMES/GB321"
+msgstr "安東莞"
+
+msgid "NAMES/GB322"
+msgstr "奧古斯汀"
+
+msgid "NAMES/GB323"
+msgstr "亞度尼斯"
+
+msgid "NAMES/GB324"
+msgstr "亞歷山大"
+
+msgid "NAMES/GB325"
+msgstr "柏得溫"
+
+msgid "NAMES/GB326"
+msgstr "巴里"
+
+msgid "NAMES/GB327"
+msgstr "寶兒"
+
+msgid "NAMES/GB328"
+msgstr "柏格"
+
+msgid "NAMES/GB329"
+msgstr "畢維斯"
+
+msgid "NAMES/GB33"
+msgstr "鮑伯"
+
+msgid "NAMES/GB330"
+msgstr "布蘭得利"
+
+msgid "NAMES/GB331"
+msgstr "布魯諾"
+
+msgid "NAMES/GB332"
+msgstr "凱希"
+
+msgid "NAMES/GB333"
+msgstr "夏佐"
+
+msgid "NAMES/GB334"
+msgstr "克拉克"
+
+msgid "NAMES/GB335"
+msgstr "考伯特"
+
+msgid "NAMES/GB336"
+msgstr "康奈爾"
+
+msgid "NAMES/GB337"
+msgstr "達爾西"
+
+msgid "NAMES/GB338"
+msgstr "鄧尼斯"
+
+msgid "NAMES/GB339"
+msgstr "唐納德"
+
+msgid "NAMES/GB34"
+msgstr "狄倫"
+
+msgid "NAMES/GB340"
+msgstr "愛迪生"
+
+msgid "NAMES/GB341"
+msgstr "艾理斯"
+
+msgid "NAMES/GB342"
+msgstr "艾利克"
+
+msgid "NAMES/GB343"
+msgstr "菲力克斯"
+
+msgid "NAMES/GB344"
+msgstr "法蘭克林"
+
+msgid "NAMES/GB345"
+msgstr "吉恩"
+
+msgid "NAMES/GB346"
+msgstr "葛蘭"
+
+msgid "NAMES/GB347"
+msgstr "格羅佛"
+
+msgid "NAMES/GB348"
+msgstr "哈帝"
+
+msgid "NAMES/GB349"
+msgstr "海登"
+
+msgid "NAMES/GB35"
+msgstr "霍伯特"
+
+msgid "NAMES/GB350"
+msgstr "韓弗理"
+
+msgid "NAMES/GB351"
+msgstr "艾勒"
+
+msgid "NAMES/GB352"
+msgstr "雅各"
+
+msgid "NAMES/GB353"
+msgstr "傑勒米"
+
+msgid "NAMES/GB354"
+msgstr "瓊納斯"
+
+msgid "NAMES/GB355"
+msgstr "賈斯丁"
+
+msgid "NAMES/GB356"
+msgstr "科爾溫"
+
+msgid "NAMES/GB357"
+msgstr "藍伯特"
+
+msgid "NAMES/GB358"
+msgstr "利奧"
+
+msgid "NAMES/GB359"
+msgstr "賴昂內爾"
+
+msgid "NAMES/GB36"
+msgstr "林恩"
+
+msgid "NAMES/GB360"
+msgstr "馬克"
+
+msgid "NAMES/GB361"
+msgstr "馬休"
+
+msgid "NAMES/GB362"
+msgstr "莫林"
+
+msgid "NAMES/GB363"
+msgstr "門羅"
+
+msgid "NAMES/GB364"
+msgstr "摩菲"
+
+msgid "NAMES/GB365"
+msgstr "尼爾"
+
+msgid "NAMES/GB366"
+msgstr "諾爾"
+
+msgid "NAMES/GB367"
+msgstr "哈帝"
+
+msgid "NAMES/GB368"
+msgstr "海登"
+
+msgid "NAMES/GB369"
+msgstr "霍伯特"
+
+msgid "NAMES/GB37"
+msgstr "韓弗理"
+
+msgid "NAMES/GB370"
+msgstr "艾勒"
+
+msgid "NAMES/GB371"
+msgstr "雅各"
+
+msgid "NAMES/GB372"
+msgstr "傑勒米"
+
+msgid "NAMES/GB373"
+msgstr "瓊納斯"
+
+msgid "NAMES/GB374"
+msgstr "賈斯丁"
+
+msgid "NAMES/GB375"
+msgstr "科爾溫"
+
+msgid "NAMES/GB376"
+msgstr "藍儂"
+
+msgid "NAMES/GB377"
+msgstr "路易斯"
+
+msgid "NAMES/GB378"
+msgstr "林頓"
+
+msgid "NAMES/GB379"
+msgstr "馬裡奧"
+
+msgid "NAMES/GB38"
+msgstr "馬特"
+
+msgid "NAMES/GB380"
+msgstr "莫爾"
+
+msgid "NAMES/GB381"
+msgstr "米路"
+
+msgid "NAMES/GB382"
+msgstr "摩西"
+
+msgid "NAMES/GB383"
+msgstr "奈寶尼爾"
+
+msgid "NAMES/GB384"
+msgstr "諾亞"
+
+msgid "NAMES/GB385"
+msgstr "奧瑪"
+
+msgid "NAMES/GB386"
+msgstr "奧特"
+
+msgid "NAMES/GB387"
+msgstr "保羅"
+
+msgid "NAMES/GB388"
+msgstr "波特"
+
+msgid "NAMES/GB389"
+msgstr "昆"
+
+msgid "NAMES/GB39"
+msgstr "雷哲"
+
+msgid "NAMES/GB390"
+msgstr "羅賓"
+
+msgid "NAMES/GB391"
+msgstr "羅裡"
+
+msgid "NAMES/GB392"
+msgstr "辛普森"
+
+msgid "NAMES/GB393"
+msgstr "錫德"
+
+msgid "NAMES/GB394"
+msgstr "史丹佛"
+
+msgid "NAMES/GB395"
+msgstr "泰勒"
+
+msgid "NAMES/GB396"
+msgstr "堤姆"
+
+msgid "NAMES/GB397"
+msgstr "特瑞西"
+
+msgid "NAMES/GB398"
+msgstr "阿普頓"
+
+msgid "NAMES/GB399"
+msgstr "維克多"
+
+msgid "NAMES/GB4"
+msgstr "瓦爾克"
+
+msgid "NAMES/GB40"
+msgstr "溫德爾"
+
+msgid "NAMES/GB400"
+msgstr "溫士頓"
+
+msgid "NAMES/GB401"
+msgstr "紀伯倫"
+
+msgid "NAMES/GB402"
+msgstr "阿爾文"
+
+msgid "NAMES/GB403"
+msgstr "艾布納"
+
+msgid "NAMES/GB404"
+msgstr "艾文"
+
+msgid "NAMES/GB405"
+msgstr "安格斯"
+
+msgid "NAMES/GB406"
+msgstr "奧斯頓"
+
+msgid "NAMES/GB407"
+msgstr "亞爾弗列得"
+
+msgid "NAMES/GB408"
+msgstr "亞摩斯"
+
+msgid "NAMES/GB409"
+msgstr "班克羅福特"
+
+msgid "NAMES/GB41"
+msgstr "巴薩羅穆"
+
+msgid "NAMES/GB410"
+msgstr "貝克"
+
+msgid "NAMES/GB411"
+msgstr "格吉爾"
+
+msgid "NAMES/GB412"
+msgstr "比爾"
+
+msgid "NAMES/GB413"
+msgstr "布茲"
+
+msgid "NAMES/GB414"
+msgstr "布萊迪"
+
+msgid "NAMES/GB415"
+msgstr "巴克"
+
+msgid "NAMES/GB416"
+msgstr "凱撒"
+
+msgid "NAMES/GB417"
+msgstr "塞西爾"
+
+msgid "NAMES/GB418"
+msgstr "賈斯特"
+
+msgid "NAMES/GB419"
+msgstr "克勞德"
+
+msgid "NAMES/GB42"
+msgstr "考爾比"
+
+msgid "NAMES/GB420"
+msgstr "克萊凸"
+
+msgid "NAMES/GB421"
+msgstr "達尼爾"
+
+msgid "NAMES/GB422"
+msgstr "戴裡克"
+
+msgid "NAMES/GB423"
+msgstr "道格拉斯"
+
+msgid "NAMES/GB424"
+msgstr "愛德華"
+
+msgid "NAMES/GB425"
+msgstr "愛爾瑪"
+
+msgid "NAMES/GB426"
+msgstr "歐尼斯特"
+
+msgid "NAMES/GB427"
+msgstr "斐迪南"
+
+msgid "NAMES/GB428"
+msgstr "艾蒂安"
+
+msgid "NAMES/GB429"
+msgstr "傑佛理"
+
+msgid "NAMES/GB43"
+msgstr "哥達"
+
+msgid "NAMES/GB430"
+msgstr "古斯塔夫"
+
+msgid "NAMES/GB431"
+msgstr "哈倫"
+
+msgid "NAMES/GB432"
+msgstr "海拾茲"
+
+msgid "NAMES/GB433"
+msgstr "霍根"
+
+msgid "NAMES/GB434"
+msgstr "漢特"
+
+msgid "NAMES/GB435"
+msgstr "艾薩克"
+
+msgid "NAMES/GB436"
+msgstr "詹姆士"
+
+msgid "NAMES/GB437"
+msgstr "哲羅姆"
+
+msgid "NAMES/GB438"
+msgstr "強納生"
+
+msgid "NAMES/GB439"
+msgstr "凱利"
+
+msgid "NAMES/GB44"
+msgstr "凱文"
+
+msgid "NAMES/GB440"
+msgstr "藍斯"
+
+msgid "NAMES/GB441"
+msgstr "倫納德"
+
+msgid "NAMES/GB442"
+msgstr "路"
+
+msgid "NAMES/GB443"
+msgstr "馬倫"
+
+msgid "NAMES/GB444"
+msgstr "摩里斯"
+
+msgid "NAMES/GB445"
+msgstr "麥克"
+
+msgid "NAMES/GB446"
+msgstr "曼特裘"
+
+msgid "NAMES/GB447"
+msgstr "莫雷"
+
+msgid "NAMES/GB448"
+msgstr "尼爾森"
+
+msgid "NAMES/GB449"
+msgstr "諾曼"
+
+msgid "NAMES/GB45"
+msgstr "哈倫"
+
+msgid "NAMES/GB450"
+msgstr "海拾茲"
+
+msgid "NAMES/GB451"
+msgstr "霍根"
+
+msgid "NAMES/GB452"
+msgstr "漢特"
+
+msgid "NAMES/GB453"
+msgstr "艾薩克"
+
+msgid "NAMES/GB454"
+msgstr "詹姆士"
+
+msgid "NAMES/GB455"
+msgstr "哲羅姆"
+
+msgid "NAMES/GB456"
+msgstr "強納生"
+
+msgid "NAMES/GB457"
+msgstr "凱利"
+
+msgid "NAMES/GB458"
+msgstr "德弗魯"
+
+msgid "NAMES/GB459"
+msgstr "藍伯特"
+
+msgid "NAMES/GB46"
+msgstr "利奧"
+
+msgid "NAMES/GB460"
+msgstr "賴昂內爾"
+
+msgid "NAMES/GB461"
+msgstr "林恩"
+
+msgid "NAMES/GB462"
+msgstr "馬克"
+
+msgid "NAMES/GB463"
+msgstr "馬休"
+
+msgid "NAMES/GB464"
+msgstr "莫林"
+
+msgid "NAMES/GB465"
+msgstr "門羅"
+
+msgid "NAMES/GB466"
+msgstr "摩菲"
+
+msgid "NAMES/GB467"
+msgstr "尼爾"
+
+msgid "NAMES/GB468"
+msgstr "諾爾"
+
+msgid "NAMES/GB469"
+msgstr "奧利爾"
+
+msgid "NAMES/GB47"
+msgstr "歐恩"
+
+msgid "NAMES/GB470"
+msgstr "派恩"
+
+msgid "NAMES/GB471"
+msgstr "普萊斯考特"
+
+msgid "NAMES/GB472"
+msgstr "昆頓"
+
+msgid "NAMES/GB473"
+msgstr "雷根"
+
+msgid "NAMES/GB474"
+msgstr "洛克"
+
+msgid "NAMES/GB475"
+msgstr "羅伊"
+
+msgid "NAMES/GB476"
+msgstr "撒姆爾"
+
+msgid "NAMES/GB477"
+msgstr "錫得尼"
+
+msgid "NAMES/GB478"
+msgstr "史丹尼"
+
+msgid "NAMES/GB479"
+msgstr "泰德"
+
+msgid "NAMES/GB48"
+msgstr "帝摩斯"
+
+msgid "NAMES/GB480"
+msgstr "特洛伊"
+
+msgid "NAMES/GB481"
+msgstr "尤萊亞"
+
+msgid "NAMES/GB482"
+msgstr "文森"
+
+msgid "NAMES/GB483"
+msgstr "瓦爾特"
+
+msgid "NAMES/GB484"
+msgstr "韋納爾"
+
+msgid "NAMES/GB485"
+msgstr "伍德洛"
+
+msgid "NAMES/GB486"
+msgstr "耶魯"
+
+msgid "NAMES/GB487"
+msgstr "日傑夫"
+
+msgid "NAMES/GB488"
+msgstr "阿姆斯壯"
+
+msgid "NAMES/GB489"
+msgstr "艾布特"
+
+msgid "NAMES/GB49"
+msgstr "安得烈"
+
+msgid "NAMES/GB490"
+msgstr "安其羅"
+
+msgid "NAMES/GB491"
+msgstr "亞伯"
+
+msgid "NAMES/GB492"
+msgstr "亞爾林"
+
+msgid "NAMES/GB493"
+msgstr "亞撒"
+
+msgid "NAMES/GB494"
+msgstr "巴德"
+
+msgid "NAMES/GB495"
+msgstr "巴特"
+
+msgid "NAMES/GB496"
+msgstr "班"
+
+msgid "NAMES/GB497"
+msgstr "格納"
+
+msgid "NAMES/GB498"
+msgstr "賓"
+
+msgid "NAMES/GB499"
+msgstr "柏格"
+
+msgid "NAMES/GB5"
+msgstr "布蘭登"
+
+msgid "NAMES/GB50"
+msgstr "伯騎士"
+
+msgid "NAMES/GB500"
+msgstr "卡爾文"
+
+msgid "NAMES/GB501"
+msgstr "賽得裡克"
+
+msgid "NAMES/GB502"
+msgstr "克萊斯特"
+
+msgid "NAMES/GB503"
+msgstr "克雷孟特"
+
+msgid "NAMES/GB504"
+msgstr "科林"
+
+msgid "NAMES/GB505"
+msgstr "柯帝士"
+
+msgid "NAMES/GB506"
+msgstr "達倫"
+
+msgid "NAMES/GB507"
+msgstr "得文"
+
+msgid "NAMES/GB508"
+msgstr "杜魯"
+
+msgid "NAMES/GB509"
+msgstr "額爾"
+
+msgid "NAMES/GB51"
+msgstr "愛德溫"
+
+msgid "NAMES/GB510"
+msgstr "愛羅伊"
+
+msgid "NAMES/GB511"
+msgstr "尤金"
+
+msgid "NAMES/GB512"
+msgstr "費奇"
+
+msgid "NAMES/GB513"
+msgstr "傑夫"
+
+msgid "NAMES/GB514"
+msgstr "高德佛裡"
+
+msgid "NAMES/GB515"
+msgstr "蓋"
+
+msgid "NAMES/GB516"
+msgstr "哈利"
+
+msgid "NAMES/GB517"
+msgstr "享利"
+
+msgid "NAMES/GB518"
+msgstr "哈瑞斯"
+
+msgid "NAMES/GB519"
+msgstr "海曼"
+
+msgid "NAMES/GB52"
+msgstr "伊西多"
+
+msgid "NAMES/GB520"
+msgstr "傑瑞德"
+
+msgid "NAMES/GB521"
+msgstr "傑理"
+
+msgid "NAMES/GB522"
+msgstr "約瑟夫"
+
+msgid "NAMES/GB523"
+msgstr "肯恩"
+
+msgid "NAMES/GB524"
+msgstr "金姆"
+
+msgid "NAMES/GB525"
+msgstr "勞瑞"
+
+msgid "NAMES/GB526"
+msgstr "利奧波德"
+
+msgid "NAMES/GB527"
+msgstr "路易士"
+
+msgid "NAMES/GB528"
+msgstr "麥基"
+
+msgid "NAMES/GB529"
+msgstr "瑪希"
+
+msgid "NAMES/GB53"
+msgstr "馬克斯"
+
+msgid "NAMES/GB530"
+msgstr "米契爾"
+
+msgid "NAMES/GB531"
+msgstr "莫爾"
+
+msgid "NAMES/GB532"
+msgstr "麥倫"
+
+msgid "NAMES/GB533"
+msgstr "紐曼"
+
+msgid "NAMES/GB534"
+msgstr "諾頓"
+
+msgid "NAMES/GB535"
+msgstr "哈利"
+
+msgid "NAMES/GB536"
+msgstr "享利"
+
+msgid "NAMES/GB537"
+msgstr "哈瑞斯"
+
+msgid "NAMES/GB538"
+msgstr "海曼"
+
+msgid "NAMES/GB539"
+msgstr "伊西多"
+
+msgid "NAMES/GB54"
+msgstr "傑瑞德"
+
+msgid "NAMES/GB540"
+msgstr "傑理"
+
+msgid "NAMES/GB541"
+msgstr "約瑟夫"
+
+msgid "NAMES/GB542"
+msgstr "肯恩"
+
+msgid "NAMES/GB543"
+msgstr "金姆"
+
+msgid "NAMES/GB544"
+msgstr "藍斯"
+
+msgid "NAMES/GB545"
+msgstr "倫納德"
+
+msgid "NAMES/GB546"
+msgstr "路"
+
+msgid "NAMES/GB547"
+msgstr "馬倫"
+
+msgid "NAMES/GB548"
+msgstr "摩里斯"
+
+msgid "NAMES/GB549"
+msgstr "麥克"
+
+msgid "NAMES/GB55"
+msgstr "曼特裘"
+
+msgid "NAMES/GB550"
+msgstr "莫雷"
+
+msgid "NAMES/GB551"
+msgstr "尼爾森"
+
+msgid "NAMES/GB552"
+msgstr "希普斯特"
+
+msgid "NAMES/GB553"
+msgstr "奧斯本"
+
+msgid "NAMES/GB554"
+msgstr "斐瑞"
+
+msgid "NAMES/GB555"
+msgstr "普利莫"
+
+msgid "NAMES/GB556"
+msgstr "雷吉諾德"
+
+msgid "NAMES/GB557"
+msgstr "羅德"
+
+msgid "NAMES/GB558"
+msgstr "魯道夫"
+
+msgid "NAMES/GB559"
+msgstr "山迪"
+
+msgid "NAMES/GB56"
+msgstr "席爾維斯特"
+
+msgid "NAMES/GB560"
+msgstr "史帝文"
+
+msgid "NAMES/GB561"
+msgstr "泰倫斯"
+
+msgid "NAMES/GB562"
+msgstr "託拜西"
+
+msgid "NAMES/GB563"
+msgstr "杜魯門"
+
+msgid "NAMES/GB564"
+msgstr "維吉爾"
+
+msgid "NAMES/GB565"
+msgstr "華德"
+
+msgid "NAMES/GB566"
+msgstr "韋爾伯"
+
+msgid "NAMES/GB567"
+msgstr "渥茲華斯"
+
+msgid "NAMES/GB568"
+msgstr "耶呼弟"
+
+msgid "NAMES/GB569"
+msgstr "阿諾"
+
+msgid "NAMES/GB57"
+msgstr "艾狄生"
+
+msgid "NAMES/GB570"
+msgstr "安德魯"
+
+msgid "NAMES/GB571"
+msgstr "安斯艾爾"
+
+msgid "NAMES/GB572"
+msgstr "亞伯拉罕"
+
+msgid "NAMES/GB573"
+msgstr "亞爾曼"
+
+msgid "NAMES/GB574"
+msgstr "亞瑟"
+
+msgid "NAMES/GB575"
+msgstr "巴羅"
+
+msgid "NAMES/GB576"
+msgstr "巴頓"
+
+msgid "NAMES/GB577"
+msgstr "班尼迪克"
+
+msgid "NAMES/GB578"
+msgstr "伯尼"
+
+msgid "NAMES/GB579"
+msgstr "畢夏普"
+
+msgid "NAMES/GB58"
+msgstr "伯里斯"
+
+msgid "NAMES/GB580"
+msgstr "布萊恩"
+
+msgid "NAMES/GB581"
+msgstr "巴爾克"
+
+msgid "NAMES/GB582"
+msgstr "凱裡"
+
+msgid "NAMES/GB583"
+msgstr "查德"
+
+msgid "NAMES/GB584"
+msgstr "克里斯汀"
+
+msgid "NAMES/GB585"
+msgstr "克利夫蘭"
+
+msgid "NAMES/GB586"
+msgstr "康拉德"
+
+msgid "NAMES/GB587"
+msgstr "西瑞爾"
+
+msgid "NAMES/GB588"
+msgstr "迪夫"
+
+msgid "NAMES/GB589"
+msgstr "狄克"
+
+msgid "NAMES/GB59"
+msgstr "杜克"
+
+msgid "NAMES/GB590"
+msgstr "艾德"
+
+msgid "NAMES/GB591"
+msgstr "愛格伯特"
+
+msgid "NAMES/GB592"
+msgstr "愛爾頓"
+
+msgid "NAMES/GB593"
+msgstr "爾文"
+
+msgid "NAMES/GB594"
+msgstr "費茲捷勒"
+
+msgid "NAMES/GB595"
+msgstr "加布力爾"
+
+msgid "NAMES/GB596"
+msgstr "喬治"
+
+msgid "NAMES/GB597"
+msgstr "戈登"
+
+msgid "NAMES/GB598"
+msgstr "哈樂德"
+
+msgid "NAMES/GB599"
+msgstr "赫伯特"
+
+msgid "NAMES/GB6"
+msgstr "好爾德"
+
+msgid "NAMES/GB60"
+msgstr "艾凡"
+
+msgid "NAMES/GB600"
+msgstr "傑森"
+
+msgid "NAMES/GB601"
+msgstr "傑西"
+
+msgid "NAMES/GB602"
+msgstr "喬休爾"
+
+msgid "NAMES/GB603"
+msgstr "甘乃迪"
+
+msgid "NAMES/GB604"
+msgstr "金"
+
+msgid "NAMES/GB605"
+msgstr "勞倫斯"
+
+msgid "NAMES/GB606"
+msgstr "勒斯"
+
+msgid "NAMES/GB607"
+msgstr "陸斯恩"
+
+msgid "NAMES/GB608"
+msgstr "麥爾肯"
+
+msgid "NAMES/GB609"
+msgstr "馬歇爾"
+
+msgid "NAMES/GB61"
+msgstr "馬克西米蘭"
+
+msgid "NAMES/GB610"
+msgstr "密克"
+
+msgid "NAMES/GB611"
+msgstr "摩爾根"
+
+msgid "NAMES/GB612"
+msgstr "尼克勒斯"
+
+msgid "NAMES/GB613"
+msgstr "哈樂德"
+
+msgid "NAMES/GB614"
+msgstr "赫伯特"
+
+msgid "NAMES/GB615"
+msgstr "好爾德"
+
+msgid "NAMES/GB616"
+msgstr "艾凡"
+
+msgid "NAMES/GB617"
+msgstr "傑森"
+
+msgid "NAMES/GB618"
+msgstr "傑西"
+
+msgid "NAMES/GB619"
+msgstr "喬休爾"
+
+msgid "NAMES/GB62"
+msgstr "甘乃迪"
+
+msgid "NAMES/GB620"
+msgstr "富勞沃"
+
+msgid "NAMES/GB621"
+msgstr "利奧波德"
+
+msgid "NAMES/GB622"
+msgstr "路易士"
+
+msgid "NAMES/GB623"
+msgstr "麥基"
+
+msgid "NAMES/GB624"
+msgstr "瑪希"
+
+msgid "NAMES/GB625"
+msgstr "馬克斯"
+
+msgid "NAMES/GB626"
+msgstr "米契爾"
+
+msgid "NAMES/GB627"
+msgstr "莫爾"
+
+msgid "NAMES/GB628"
+msgstr "麥倫"
+
+msgid "NAMES/GB629"
+msgstr "紐曼"
+
+msgid "NAMES/GB63"
+msgstr "諾頓"
+
+msgid "NAMES/GB630"
+msgstr "奧斯卡"
+
+msgid "NAMES/GB631"
+msgstr "裴吉"
+
+msgid "NAMES/GB632"
+msgstr "皮特"
+
+msgid "NAMES/GB633"
+msgstr "雷契爾"
+
+msgid "NAMES/GB634"
+msgstr "魯賓"
+
+msgid "NAMES/GB635"
+msgstr "羅得裡克"
+
+msgid "NAMES/GB636"
+msgstr "埃尼斯"
+
+msgid "NAMES/GB637"
+msgstr "撒克遜"
+
+msgid "NAMES/GB638"
+msgstr "賽門"
+
+msgid "NAMES/GB639"
+msgstr "史帝夫"
+
+msgid "NAMES/GB64"
+msgstr "希爾保特"
+
+msgid "NAMES/GB640"
+msgstr "託比"
+
+msgid "NAMES/GB641"
+msgstr "泰勒"
+
+msgid "NAMES/GB642"
+msgstr "範倫鐵恩"
+
+msgid "NAMES/GB643"
+msgstr "維託"
+
+msgid "NAMES/GB644"
+msgstr "華納"
+
+msgid "NAMES/GB645"
+msgstr "威爾"
+
+msgid "NAMES/GB646"
+msgstr "萊特"
+
+msgid "NAMES/GB647"
+msgstr "約克"
+
+msgid "NAMES/GB648"
+msgstr "阿道夫"
+
+msgid "NAMES/GB649"
+msgstr "阿諾德"
+
+msgid "NAMES/GB65"
+msgstr "艾富里"
+
+msgid "NAMES/GB650"
+msgstr "安迪"
+
+msgid "NAMES/GB651"
+msgstr "奧布里"
+
+msgid "NAMES/GB652"
+msgstr "亞岱爾"
+
+msgid "NAMES/GB653"
+msgstr "亞爾維斯"
+
+msgid "NAMES/GB654"
+msgstr "亞特伍德"
+
+msgid "NAMES/GB655"
+msgstr "巴奈特"
+
+msgid "NAMES/GB656"
+msgstr "巴特萊"
+
+msgid "NAMES/GB657"
+msgstr "班傑明"
+
+msgid "NAMES/GB658"
+msgstr "伯特"
+
+msgid "NAMES/GB659"
+msgstr "佈雷爾"
+
+msgid "NAMES/GB66"
+msgstr "波文"
+
+msgid "NAMES/GB660"
+msgstr "布拉得裡克"
+
+msgid "NAMES/GB661"
+msgstr "提摩太"
+
+msgid "NAMES/GB662"
+msgstr "卡爾"
+
+msgid "NAMES/GB663"
+msgstr "強尼"
+
+msgid "NAMES/GB664"
+msgstr "克里斯多夫"
+
+msgid "NAMES/GB665"
+msgstr "柯利福"
+
+msgid "NAMES/GB666"
+msgstr "大衛"
+
+msgid "NAMES/GB667"
+msgstr "多明尼克"
+
+msgid "NAMES/GB668"
+msgstr "鄧肯"
+
+msgid "NAMES/GB669"
+msgstr "伊登"
+
+msgid "NAMES/GB67"
+msgstr "伊萊"
+
+msgid "NAMES/GB670"
+msgstr "艾維斯"
+
+msgid "NAMES/GB671"
+msgstr "伊伕力"
+
+msgid "NAMES/GB672"
+msgstr "福特"
+
+msgid "NAMES/GB673"
+msgstr "加爾"
+
+msgid "NAMES/GB674"
+msgstr "吉羅德"
+
+msgid "NAMES/GB675"
+msgstr "葛列格"
+
+msgid "NAMES/GB676"
+msgstr "霍爾"
+
+msgid "NAMES/GB677"
+msgstr "哈里特"
+
+msgid "NAMES/GB678"
+msgstr "赫爾曼"
+
+msgid "NAMES/GB679"
+msgstr "休伯特"
+
+msgid "NAMES/GB68"
+msgstr "伊恩"
+
+msgid "NAMES/GB680"
+msgstr "艾維斯"
+
+msgid "NAMES/GB681"
+msgstr "傑"
+
+msgid "NAMES/GB682"
+msgstr "吉姆"
+
+msgid "NAMES/GB683"
+msgstr "喬伊斯"
+
+msgid "NAMES/GB684"
+msgstr "肯尼士"
+
+msgid "NAMES/GB685"
+msgstr "科克"
+
+msgid "NAMES/GB686"
+msgstr "列夫"
+
+msgid "NAMES/GB687"
+msgstr "里斯特"
+
+msgid "NAMES/GB688"
+msgstr "路德"
+
+msgid "NAMES/GB689"
+msgstr "曼德爾"
+
+msgid "NAMES/GB69"
+msgstr "馬丁"
+
+msgid "NAMES/GB690"
+msgstr "麥斯威爾"
+
+msgid "NAMES/GB691"
+msgstr "麥克"
+
+msgid "NAMES/GB692"
+msgstr "摩帝馬"
+
+msgid "NAMES/GB693"
+msgstr "納特"
+
+msgid "NAMES/GB694"
+msgstr "尼克"
+
+msgid "NAMES/GB695"
+msgstr "霍爾"
+
+msgid "NAMES/GB696"
+msgstr "哈里特"
+
+msgid "NAMES/GB697"
+msgstr "赫爾曼"
+
+msgid "NAMES/GB698"
+msgstr "休伯特"
+
+msgid "NAMES/GB699"
+msgstr "伊恩"
+
+msgid "NAMES/GB7"
+msgstr "艾維斯"
+
+msgid "NAMES/GB70"
+msgstr "傑"
+
+msgid "NAMES/GB700"
+msgstr "吉姆"
+
+msgid "NAMES/GB701"
+msgstr "喬伊斯"
+
+msgid "NAMES/GB702"
+msgstr "肯尼士"
+
+msgid "NAMES/GB703"
+msgstr "金"
+
+msgid "NAMES/GB704"
+msgstr "勞倫斯"
+
+msgid "NAMES/GB705"
+msgstr "勒斯"
+
+msgid "NAMES/GB706"
+msgstr "陸斯恩"
+
+msgid "NAMES/GB707"
+msgstr "麥爾肯"
+
+msgid "NAMES/GB708"
+msgstr "馬歇爾"
+
+msgid "NAMES/GB709"
+msgstr "馬克西米蘭"
+
+msgid "NAMES/GB71"
+msgstr "密克"
+
+msgid "NAMES/GB710"
+msgstr "摩爾根"
+
+msgid "NAMES/GB711"
+msgstr "蘭伯特"
+
+msgid "NAMES/GB712"
+msgstr "奧斯蒙"
+
+msgid "NAMES/GB713"
+msgstr "派克"
+
+msgid "NAMES/GB714"
+msgstr "彼得"
+
+msgid "NAMES/GB715"
+msgstr "昆特"
+
+msgid "NAMES/GB716"
+msgstr "雷爾夫"
+
+msgid "NAMES/GB717"
+msgstr "雷克斯"
+
+msgid "NAMES/GB718"
+msgstr "羅德尼"
+
+msgid "NAMES/GB719"
+msgstr "萊安"
+
+msgid "NAMES/GB72"
+msgstr "史考特"
+
+msgid "NAMES/GB720"
+msgstr "所羅門"
+
+msgid "NAMES/GB721"
+msgstr "史都華德"
+
+msgid "NAMES/GB722"
+msgstr "希歐多爾"
+
+msgid "NAMES/GB723"
+msgstr "陶德"
+
+msgid "NAMES/GB724"
+msgstr "泰倫"
+
+msgid "NAMES/GB725"
+msgstr "範倫丁"
+
+msgid "NAMES/GB726"
+msgstr "衛維恩"
+
+msgid "NAMES/GB727"
+msgstr "韋恩"
+
+msgid "NAMES/GB728"
+msgstr "威廉"
+
+msgid "NAMES/GB729"
+msgstr "偉茲"
+
+msgid "NAMES/GB73"
+msgstr "依夫"
+
+msgid "NAMES/GB730"
+msgstr "阿爾傑"
+
+msgid "NAMES/GB731"
+msgstr "阿奇柏德"
+
+msgid "NAMES/GB732"
+msgstr "艾倫"
+
+msgid "NAMES/GB733"
+msgstr "安東尼"
+
+msgid "NAMES/GB734"
+msgstr "奧德里奇"
+
+msgid "NAMES/GB735"
+msgstr "亞當"
+
+msgid "NAMES/GB736"
+msgstr "亞恆"
+
+msgid "NAMES/GB737"
+msgstr "亞希伯恩"
+
+msgid "NAMES/GB738"
+msgstr "巴倫"
+
+msgid "NAMES/GB739"
+msgstr "巴澤爾"
+
+msgid "NAMES/GB74"
+msgstr "班奈特"
+
+msgid "NAMES/GB740"
+msgstr "伯頓"
+
+msgid "NAMES/GB741"
+msgstr "布萊克"
+
+msgid "NAMES/GB742"
+msgstr "柏宜斯"
+
+msgid "NAMES/GB743"
+msgstr "布魯克"
+
+msgid "NAMES/GB744"
+msgstr "波頓"
+
+msgid "NAMES/GB745"
+msgstr "凱爾"
+
+msgid "NAMES/GB746"
+msgstr "契布曼"
+
+msgid "NAMES/GB747"
+msgstr "克雷爾"
+
+msgid "NAMES/GB748"
+msgstr "柯利弗德"
+
+msgid "NAMES/GB749"
+msgstr "寇裡"
+
+msgid "NAMES/GB75"
+msgstr "戴納"
+
+msgid "NAMES/GB750"
+msgstr "迪恩"
+
+msgid "NAMES/GB751"
+msgstr "唐"
+
+msgid "NAMES/GB752"
+msgstr "唐恩"
+
+msgid "NAMES/GB753"
+msgstr "愛德格"
+
+msgid "NAMES/GB754"
+msgstr "易萊哲"
+
+msgid "NAMES/GB755"
+msgstr "愛曼紐"
+
+msgid "NAMES/GB756"
+msgstr "法蘭西斯"
+
+msgid "NAMES/GB757"
+msgstr "蓋理"
+
+msgid "NAMES/GB758"
+msgstr "吉伯特"
+
+msgid "NAMES/GB759"
+msgstr "葛列格里"
+
+msgid "NAMES/GB76"
+msgstr "哈利"
+
+msgid "NAMES/GB760"
+msgstr "哈里"
+
+msgid "NAMES/GB761"
+msgstr "希拉里"
+
+msgid "NAMES/GB762"
+msgstr "修"
+
+msgid "NAMES/GB763"
+msgstr "英格馬"
+
+msgid "NAMES/GB764"
+msgstr "傑夫"
+
+msgid "NAMES/GB765"
+msgstr "喬"
+
+msgid "NAMES/GB766"
+msgstr "朱利安"
+
+msgid "NAMES/GB767"
+msgstr "肯特"
+
+msgid "NAMES/GB768"
+msgstr "凱爾"
+
+msgid "NAMES/GB769"
+msgstr "倫恩"
+
+msgid "NAMES/GB77"
+msgstr "李維"
+
+msgid "NAMES/GB770"
+msgstr "賴爾"
+
+msgid "NAMES/GB771"
+msgstr "馬卡斯"
+
+msgid "NAMES/GB772"
+msgstr "馬文"
+
+msgid "NAMES/GB773"
+msgstr "馬勒第茲"
+
+msgid "NAMES/GB774"
+msgstr "麥爾斯"
+
+msgid "NAMES/GB775"
+msgstr "摩頓"
+
+msgid "NAMES/GB776"
+msgstr "奈登"
+
+msgid "NAMES/GB777"
+msgstr "奈哲爾"
+
+msgid "NAMES/GB778"
+msgstr "哈利"
+
+msgid "NAMES/GB779"
+msgstr "哈里"
+
+msgid "NAMES/GB78"
+msgstr "希拉里"
+
+msgid "NAMES/GB780"
+msgstr "修"
+
+msgid "NAMES/GB781"
+msgstr "英格馬"
+
+msgid "NAMES/GB782"
+msgstr "傑夫"
+
+msgid "NAMES/GB783"
+msgstr "喬"
+
+msgid "NAMES/GB784"
+msgstr "朱利安"
+
+msgid "NAMES/GB785"
+msgstr "雷米"
+
+msgid "NAMES/GB786"
+msgstr "科克"
+
+msgid "NAMES/GB787"
+msgstr "列夫"
+
+msgid "NAMES/GB788"
+msgstr "里斯特"
+
+msgid "NAMES/GB789"
+msgstr "路德"
+
+msgid "NAMES/GB79"
+msgstr "曼德爾"
+
+msgid "NAMES/GB790"
+msgstr "馬丁"
+
+msgid "NAMES/GB791"
+msgstr "麥斯威爾"
+
+msgid "NAMES/GB792"
+msgstr "麥克"
+
+msgid "NAMES/GB793"
+msgstr "摩帝馬"
+
+msgid "NAMES/GB794"
+msgstr "納特"
+
+msgid "NAMES/GB795"
+msgstr "尼克"
+
+msgid "NAMES/GB796"
+msgstr "歐格登"
+
+msgid "NAMES/GB797"
+msgstr "奧斯維得"
+
+msgid "NAMES/GB798"
+msgstr "培迪"
+
+msgid "NAMES/GB799"
+msgstr "菲爾"
+
+msgid "NAMES/GB8"
+msgstr "昆尼爾"
+
+msgid "NAMES/GB80"
+msgstr "藍道夫"
+
+msgid "NAMES/GB800"
+msgstr "理查"
+
+msgid "NAMES/GB801"
+msgstr "羅恩"
+
+msgid "NAMES/GB802"
+msgstr "肖恩"
+
+msgid "NAMES/GB803"
+msgstr "史賓杜"
+
+msgid "NAMES/GB804"
+msgstr "託瑪士"
+
+msgid "NAMES/GB805"
+msgstr "湯姆"
+
+msgid "NAMES/GB806"
+msgstr "佛能"
+
+msgid "NAMES/GB807"
+msgstr "韋勃"
+
+msgid "NAMES/GB808"
+msgstr "威利"
+
+msgid "NAMES/GB809"
+msgstr "阿爾傑農"
+
+msgid "NAMES/GB81"
+msgstr "阿奇爾"
+
+msgid "NAMES/GB810"
+msgstr "艾倫"
+
+msgid "NAMES/GB811"
+msgstr "安東尼奧"
+
+msgid "NAMES/GB812"
+msgstr "奧格斯格"
+
+msgid "NAMES/GB813"
+msgstr "亞德里恩"
+
+msgid "NAMES/GB814"
+msgstr "亞力士"
+
+msgid "NAMES/GB815"
+msgstr "拜爾德"
+
+msgid "NAMES/GB816"
+msgstr "巴里特"
+
+msgid "NAMES/GB817"
+msgstr "比其爾"
+
+msgid "NAMES/GB818"
+msgstr "班森"
+
+msgid "NAMES/GB819"
+msgstr "柏特萊姆"
+
+msgid "NAMES/GB82"
+msgstr "布萊茲"
+
+msgid "NAMES/GB820"
+msgstr "佈德"
+
+msgid "NAMES/GB821"
+msgstr "布魯斯"
+
+msgid "NAMES/GB822"
+msgstr "拜倫"
+
+msgid "NAMES/GB823"
+msgstr "卡特"
+
+msgid "NAMES/GB824"
+msgstr "查理斯"
+
+msgid "NAMES/GB825"
+msgstr "克拉倫斯"
+
+msgid "NAMES/GB826"
+msgstr "克萊得"
+
+msgid "NAMES/GB827"
+msgstr "康那理惟士"
+
+msgid "NAMES/GB828"
+msgstr "丹尼爾"
+
+msgid "NAMES/GB829"
+msgstr "鄧普斯"
+
+msgid "NAMES/GB83"
+msgstr "唐納修"
+
+msgid "NAMES/GB830"
+msgstr "德維特"
+
+msgid "NAMES/GB831"
+msgstr "艾德蒙"
+
+msgid "NAMES/GB832"
+msgstr "伊裡亞德"
+
+msgid "NAMES/GB833"
+msgstr "伊諾克"
+
+msgid "NAMES/GB834"
+msgstr "富賓恩"
+
+msgid "NAMES/GB835"
+msgstr "法蘭克"
+
+msgid "NAMES/GB836"
+msgstr "蓋文"
+
+msgid "NAMES/GB837"
+msgstr "賈艾斯"
+
+msgid "NAMES/GB838"
+msgstr "葛裡菲茲"
+
+msgid "NAMES/GB839"
+msgstr "漢米敦"
+
+msgid "NAMES/GB84"
+msgstr "哈威"
+
+msgid "NAMES/GB840"
+msgstr "海勒"
+
+msgid "NAMES/GB841"
+msgstr "阿梅代"
+
+msgid "NAMES/GB842"
+msgstr "英格蘭姆"
+
+msgid "NAMES/GB843"
+msgstr "傑克"
+
+msgid "NAMES/GB844"
+msgstr "傑佛瑞"
+
+msgid "NAMES/GB845"
+msgstr "約翰"
+
+msgid "NAMES/GB846"
+msgstr "朱利爾斯"
+
+msgid "NAMES/GB847"
+msgstr "科爾"
+
+msgid "NAMES/GB848"
+msgstr "藍儂"
+
+msgid "NAMES/GB849"
+msgstr "路易斯"
+
+msgid "NAMES/GB85"
+msgstr "林頓"
+
+msgid "NAMES/GB850"
+msgstr "馬裡奧"
+
+msgid "NAMES/GB851"
+msgstr "馬特"
+
+msgid "NAMES/GB852"
+msgstr "莫爾"
+
+msgid "NAMES/GB853"
+msgstr "米路"
+
+msgid "NAMES/GB854"
+msgstr "摩西"
+
+msgid "NAMES/GB855"
+msgstr "奈寶尼爾"
+
+msgid "NAMES/GB856"
+msgstr "諾亞"
+
+msgid "NAMES/GB857"
+msgstr "漢米敦"
+
+msgid "NAMES/GB858"
+msgstr "哈威"
+
+msgid "NAMES/GB859"
+msgstr "海勒"
+
+msgid "NAMES/GB86"
+msgstr "雨果"
+
+msgid "NAMES/GB860"
+msgstr "英格蘭姆"
+
+msgid "NAMES/GB861"
+msgstr "傑克"
+
+msgid "NAMES/GB862"
+msgstr "傑佛瑞"
+
+msgid "NAMES/GB863"
+msgstr "約翰"
+
+msgid "NAMES/GB864"
+msgstr "朱利爾斯"
+
+msgid "NAMES/GB865"
+msgstr "科爾"
+
+msgid "NAMES/GB866"
+msgstr "凱爾"
+
+msgid "NAMES/GB867"
+msgstr "倫恩"
+
+msgid "NAMES/GB868"
+msgstr "李維"
+
+msgid "NAMES/GB869"
+msgstr "賴爾"
+
+msgid "NAMES/GB87"
+msgstr "馬卡斯"
+
+msgid "NAMES/GB870"
+msgstr "馬文"
+
+msgid "NAMES/GB871"
+msgstr "馬勒第茲"
+
+msgid "NAMES/GB872"
+msgstr "麥爾斯"
+
+msgid "NAMES/GB873"
+msgstr "摩頓"
+
+msgid "NAMES/GB874"
+msgstr "奈登"
+
+msgid "NAMES/GB875"
+msgstr "奈哲爾"
+
+msgid "NAMES/GB876"
+msgstr "奧利佛"
+
+msgid "NAMES/GB877"
+msgstr "奧狄斯"
+
+msgid "NAMES/GB878"
+msgstr "派翠克"
+
+msgid "NAMES/GB879"
+msgstr "菲力浦"
+
+msgid "NAMES/GB88"
+msgstr "昆西"
+
+msgid "NAMES/GB880"
+msgstr "雷蒙德"
+
+msgid "NAMES/GB881"
+msgstr "羅伯特"
+
+msgid "NAMES/GB882"
+msgstr "羅奈爾得"
+
+msgid "NAMES/GB883"
+msgstr "山姆"
+
+msgid "NAMES/GB884"
+msgstr "夕巴斯汀"
+
+msgid "NAMES/GB885"
+msgstr "史丹"
+
+msgid "NAMES/GB886"
+msgstr "塔伯"
+
+msgid "NAMES/GB887"
+msgstr "帝福尼"
+
+msgid "NAMES/GB888"
+msgstr "湯尼"
+
+msgid "NAMES/GB889"
+msgstr "尤里西斯"
+
+msgid "NAMES/GB89"
+msgstr "維克"
+
+msgid "NAMES/GB890"
+msgstr "維德"
+
+msgid "NAMES/GB891"
+msgstr "韋伯斯特"
+
+msgid "NAMES/GB892"
+msgstr "威弗列德"
+
+msgid "NAMES/GB893"
+msgstr "賽維爾"
+
+msgid "NAMES/GB894"
+msgstr "扎克利"
+
+msgid "NAMES/GB895"
+msgstr "阿爾瓦"
+
+msgid "NAMES/GB896"
+msgstr "艾伯特"
+
+msgid "NAMES/GB897"
+msgstr "艾倫"
+
+msgid "NAMES/GB898"
+msgstr "安東莞"
+
+msgid "NAMES/GB899"
+msgstr "奧古斯汀"
+
+msgid "NAMES/GB9"
+msgstr "亞度尼斯"
+
+msgid "NAMES/GB90"
+msgstr "亞歷山大"
+
+msgid "NAMES/GB900"
+msgstr "柏得溫"
+
+msgid "NAMES/GB901"
+msgstr "巴里"
+
+msgid "NAMES/GB902"
+msgstr "寶兒"
+
+msgid "NAMES/GB903"
+msgstr "柏格"
+
+msgid "NAMES/GB904"
+msgstr "畢維斯"
+
+msgid "NAMES/GB905"
+msgstr "鮑伯"
+
+msgid "NAMES/GB906"
+msgstr "布蘭得利"
+
+msgid "NAMES/GB907"
+msgstr "布魯諾"
+
+msgid "NAMES/GB908"
+msgstr "凱希"
+
+msgid "NAMES/GB909"
+msgstr "夏佐"
+
+msgid "NAMES/GB91"
+msgstr "克拉克"
+
+msgid "NAMES/GB910"
+msgstr "考伯特"
+
+msgid "NAMES/GB911"
+msgstr "康奈爾"
+
+msgid "NAMES/GB912"
+msgstr "達爾西"
+
+msgid "NAMES/GB913"
+msgstr "鄧尼斯"
+
+msgid "NAMES/GB914"
+msgstr "唐納德"
+
+msgid "NAMES/GB915"
+msgstr "狄倫"
+
+msgid "NAMES/GB916"
+msgstr "愛迪生"
+
+msgid "NAMES/GB917"
+msgstr "艾理斯"
+
+msgid "NAMES/GB918"
+msgstr "艾利克"
+
+msgid "NAMES/GB919"
+msgstr "菲力克斯"
+
+msgid "NAMES/GB92"
+msgstr "法蘭克林"
+
+msgid "NAMES/GB920"
+msgstr "吉恩"
+
+msgid "NAMES/GB921"
+msgstr "葛蘭"
+
+msgid "NAMES/GB922"
+msgstr "格羅佛"
+
+msgid "NAMES/GB923"
+msgstr "哈帝"
+
+msgid "NAMES/GB924"
+msgstr "海登"
+
+msgid "NAMES/GB925"
+msgstr "霍伯特"
+
+msgid "NAMES/GB926"
+msgstr "韓弗理"
+
+msgid "NAMES/GB927"
+msgstr "艾勒"
+
+msgid "NAMES/GB928"
+msgstr "雅各"
+
+msgid "NAMES/GB929"
+msgstr "傑勒米"
+
+msgid "NAMES/GB93"
+msgstr "瓊納斯"
+
+msgid "NAMES/GB930"
+msgstr "賈斯丁"
+
+msgid "NAMES/GB931"
+msgstr "科爾溫"
+
+msgid "NAMES/GB932"
+msgstr "藍伯特"
+
+msgid "NAMES/GB933"
+msgstr "利奧"
+
+msgid "NAMES/GB934"
+msgstr "賴昂內爾"
+
+msgid "NAMES/GB935"
+msgstr "林恩"
+
+msgid "NAMES/GB936"
+msgstr "馬克"
+
+msgid "NAMES/GB937"
+msgstr "馬休"
+
+msgid "NAMES/GB938"
+msgstr "莫林"
+
+msgid "NAMES/GB939"
+msgstr "門羅"
+
+msgid "NAMES/GB94"
+msgstr "摩菲"
+
+msgid "NAMES/GB940"
+msgstr "尼爾"
+
+msgid "NAMES/GB941"
+msgstr "諾爾"
+
+msgid "NAMES/GB942"
+msgstr "哈帝"
+
+msgid "NAMES/GB943"
+msgstr "海登"
+
+msgid "NAMES/GB944"
+msgstr "霍伯特"
+
+msgid "NAMES/GB945"
+msgstr "韓弗理"
+
+msgid "NAMES/GB946"
+msgstr "艾勒"
+
+msgid "NAMES/GB947"
+msgstr "雅各"
+
+msgid "NAMES/GB948"
+msgstr "傑勒米"
+
+msgid "NAMES/GB949"
+msgstr "瓊納斯"
+
+msgid "NAMES/GB95"
+msgstr "賈斯丁"
+
+msgid "NAMES/GB950"
+msgstr "科爾溫"
+
+msgid "NAMES/GB951"
+msgstr "藍儂"
+
+msgid "NAMES/GB952"
+msgstr "路易斯"
+
+msgid "NAMES/GB953"
+msgstr "林頓"
+
+msgid "NAMES/GB954"
+msgstr "馬裡奧"
+
+msgid "NAMES/GB955"
+msgstr "馬特"
+
+msgid "NAMES/GB956"
+msgstr "莫爾"
+
+msgid "NAMES/GB957"
+msgstr "米路"
+
+msgid "NAMES/GB958"
+msgstr "摩西"
+
+msgid "NAMES/GB959"
+msgstr "奈寶尼爾"
+
+msgid "NAMES/GB96"
+msgstr "諾亞"
+
+msgid "NAMES/GB960"
+msgstr "奧瑪"
+
+msgid "NAMES/GB961"
+msgstr "奧特"
+
+msgid "NAMES/GB962"
+msgstr "保羅"
+
+msgid "NAMES/GB963"
+msgstr "波特"
+
+msgid "NAMES/GB964"
+msgstr "昆"
+
+msgid "NAMES/GB965"
+msgstr "雷哲"
+
+msgid "NAMES/GB966"
+msgstr "羅賓"
+
+msgid "NAMES/GB967"
+msgstr "羅裡"
+
+msgid "NAMES/GB968"
+msgstr "辛普森"
+
+msgid "NAMES/GB969"
+msgstr "錫德"
+
+msgid "NAMES/GB97"
+msgstr "史丹佛"
+
+msgid "NAMES/GB970"
+msgstr "泰勒"
+
+msgid "NAMES/GB971"
+msgstr "堤姆"
+
+msgid "NAMES/GB972"
+msgstr "特瑞西"
+
+msgid "NAMES/GB973"
+msgstr "阿普頓"
+
+msgid "NAMES/GB974"
+msgstr "維克多"
+
+msgid "NAMES/GB975"
+msgstr "瓦爾克"
+
+msgid "NAMES/GB976"
+msgstr "溫德爾"
+
+msgid "NAMES/GB977"
+msgstr "溫士頓"
+
+msgid "NAMES/GB978"
+msgstr "紀伯倫"
+
+msgid "NAMES/GB979"
+msgstr "阿爾文"
+
+msgid "NAMES/GB98"
+msgstr "艾布納"
+
+msgid "NAMES/GB980"
+msgstr "艾文"
+
+msgid "NAMES/GB981"
+msgstr "安格斯"
+
+msgid "NAMES/GB982"
+msgstr "奧斯頓"
+
+msgid "NAMES/GB983"
+msgstr "亞爾弗列得"
+
+msgid "NAMES/GB984"
+msgstr "亞摩斯"
+
+msgid "NAMES/GB985"
+msgstr "班克羅福特"
+
+msgid "NAMES/GB986"
+msgstr "巴薩羅穆"
+
+msgid "NAMES/GB987"
+msgstr "貝克"
+
+msgid "NAMES/GB988"
+msgstr "格吉爾"
+
+msgid "NAMES/GB989"
+msgstr "比爾"
+
+msgid "NAMES/GB99"
+msgstr "布茲"
+
+msgid "NAMES/GB990"
+msgstr "布萊迪"
+
+msgid "NAMES/GB991"
+msgstr "巴克"
+
+msgid "NAMES/GB992"
+msgstr "凱撒"
+
+msgid "NAMES/GB993"
+msgstr "塞西爾"
+
+msgid "NAMES/GB994"
+msgstr "賈斯特"
+
+msgid "NAMES/GB995"
+msgstr "克勞德"
+
+msgid "NAMES/GB996"
+msgstr "考爾比"
+
+msgid "NAMES/GB997"
+msgstr "克萊凸"
+
+msgid "NAMES/GB998"
+msgstr "達尼爾"
+
+msgid "NAMES/GB999"
+msgstr "戴裡克"
+
+msgid "NAMES/GBN1"
+msgstr "道格拉斯"
+
+msgid "NAMES/GBN10"
+msgstr "愛德華"
+
+msgid "NAMES/GBN100"
+msgstr "愛爾瑪"
+
+msgid "NAMES/GBN101"
+msgstr "歐尼斯特"
+
+msgid "NAMES/GBN102"
+msgstr "科爾曼"
+
+msgid "NAMES/GBN103"
+msgstr "弗雷得力克"
+
+msgid "NAMES/GBN104"
+msgstr "傑佛理"
+
+msgid "NAMES/GBN105"
+msgstr "哥達"
+
+msgid "NAMES/GBN106"
+msgstr "古斯塔夫"
+
+msgid "NAMES/GBN107"
+msgstr "哈倫"
+
+msgid "NAMES/GBN108"
+msgstr "海拾茲"
+
+msgid "NAMES/GBN109"
+msgstr "霍根"
+
+msgid "NAMES/GBN11"
+msgstr "漢特"
+
+msgid "NAMES/GBN110"
+msgstr "艾薩克"
+
+msgid "NAMES/GBN111"
+msgstr "詹姆士"
+
+msgid "NAMES/GBN112"
+msgstr "哲羅姆"
+
+msgid "NAMES/GBN113"
+msgstr "強納生"
+
+msgid "NAMES/GBN114"
+msgstr "凱利"
+
+msgid "NAMES/GBN115"
+msgstr "凱文"
+
+msgid "NAMES/GBN116"
+msgstr "藍斯"
+
+msgid "NAMES/GBN117"
+msgstr "倫納德"
+
+msgid "NAMES/GBN118"
+msgstr "路"
+
+msgid "NAMES/GBN119"
+msgstr "馬倫"
+
+msgid "NAMES/GBN12"
+msgstr "摩里斯"
+
+msgid "NAMES/GBN120"
+msgstr "麥克"
+
+msgid "NAMES/GBN121"
+msgstr "曼特裘"
+
+msgid "NAMES/GBN122"
+msgstr "艾蒂安"
+
+msgid "NAMES/GBN123"
+msgstr "尼爾森"
+
+msgid "NAMES/GBN124"
+msgstr "諾曼"
+
+msgid "NAMES/GBN125"
+msgstr "哈倫"
+
+msgid "NAMES/GBN126"
+msgstr "本篤"
+
+msgid "NAMES/GBN127"
+msgstr "霍根"
+
+msgid "NAMES/GBN128"
+msgstr "漢特"
+
+msgid "NAMES/GBN129"
+msgstr "艾薩克"
+
+msgid "NAMES/GBN13"
+msgstr "薩科"
+
+msgid "NAMES/GBN130"
+msgstr "哲羅姆"
+
+msgid "NAMES/GBN131"
+msgstr "強納生"
+
+msgid "NAMES/GBN132"
+msgstr "凱利"
+
+msgid "NAMES/GBN133"
+msgstr "凱文"
+
+msgid "NAMES/GBN134"
+msgstr "藍伯特"
+
+msgid "NAMES/GBN135"
+msgstr "利奧"
+
+msgid "NAMES/GBN136"
+msgstr "賴昂內爾"
+
+msgid "NAMES/GBN137"
+msgstr "林恩"
+
+msgid "NAMES/GBN138"
+msgstr "馬克"
+
+msgid "NAMES/GBN139"
+msgstr "麥克萊倫"
+
+msgid "NAMES/GBN14"
+msgstr "莫林"
+
+msgid "NAMES/GBN140"
+msgstr "門羅"
+
+msgid "NAMES/GBN141"
+msgstr "摩菲"
+
+msgid "NAMES/GBN142"
+msgstr "尼爾"
+
+msgid "NAMES/GBN143"
+msgstr "諾爾"
+
+msgid "NAMES/GBN144"
+msgstr "奧利爾"
+
+msgid "NAMES/GBN145"
+msgstr "歐恩"
+
+msgid "NAMES/GBN146"
+msgstr "派恩"
+
+msgid "NAMES/GBN147"
+msgstr "普萊斯考特"
+
+msgid "NAMES/GBN148"
+msgstr "昆頓"
+
+msgid "NAMES/GBN149"
+msgstr "雷根"
+
+msgid "NAMES/GBN15"
+msgstr "洛克"
+
+msgid "NAMES/GBN150"
+msgstr "羅伊"
+
+msgid "NAMES/GBN151"
+msgstr "撒姆爾"
+
+msgid "NAMES/GBN152"
+msgstr "錫得尼"
+
+msgid "NAMES/GBN153"
+msgstr "史丹尼"
+
+msgid "NAMES/GBN154"
+msgstr "泰德"
+
+msgid "NAMES/GBN155"
+msgstr "帝摩斯"
+
+msgid "NAMES/GBN156"
+msgstr "特洛伊"
+
+msgid "NAMES/GBN157"
+msgstr "尤萊亞"
+
+msgid "NAMES/GBN158"
+msgstr "文森"
+
+msgid "NAMES/GBN159"
+msgstr "瓦爾特"
+
+msgid "NAMES/GBN16"
+msgstr "韋納爾"
+
+msgid "NAMES/GBN160"
+msgstr "伍德洛"
+
+msgid "NAMES/GBN161"
+msgstr "耶魯"
+
+msgid "NAMES/GBN162"
+msgstr "日傑夫"
+
+msgid "NAMES/GBN163"
+msgstr "阿姆斯壯"
+
+msgid "NAMES/GBN164"
+msgstr "艾布特"
+
+msgid "NAMES/GBN165"
+msgstr "安得烈"
+
+msgid "NAMES/GBN166"
+msgstr "安其羅"
+
+msgid "NAMES/GBN167"
+msgstr "亞伯"
+
+msgid "NAMES/GBN168"
+msgstr "亞爾林"
+
+msgid "NAMES/GBN169"
+msgstr "亞撒"
+
+msgid "NAMES/GBN17"
+msgstr "巴德"
+
+msgid "NAMES/GBN170"
+msgstr "巴特"
+
+msgid "NAMES/GBN171"
+msgstr "班"
+
+msgid "NAMES/GBN172"
+msgstr "格納"
+
+msgid "NAMES/GBN173"
+msgstr "賓"
+
+msgid "NAMES/GBN174"
+msgstr "柏格"
+
+msgid "NAMES/GBN175"
+msgstr "布蘭登"
+
+msgid "NAMES/GBN176"
+msgstr "伯騎士"
+
+msgid "NAMES/GBN177"
+msgstr "卡爾文"
+
+msgid "NAMES/GBN178"
+msgstr "雷德格雷夫"
+
+msgid "NAMES/GBN179"
+msgstr "克萊斯特"
+
+msgid "NAMES/GBN18"
+msgstr "克雷孟特"
+
+msgid "NAMES/GBN180"
+msgstr "科林"
+
+msgid "NAMES/GBN181"
+msgstr "柯帝士"
+
+msgid "NAMES/GBN182"
+msgstr "達倫"
+
+msgid "NAMES/GBN183"
+msgstr "得文"
+
+msgid "NAMES/GBN184"
+msgstr "杜魯"
+
+msgid "NAMES/GBN185"
+msgstr "額爾"
+
+msgid "NAMES/GBN186"
+msgstr "愛德溫"
+
+msgid "NAMES/GBN187"
+msgstr "愛羅伊"
+
+msgid "NAMES/GBN188"
+msgstr "尤金"
+
+msgid "NAMES/GBN189"
+msgstr "費奇"
+
+msgid "NAMES/GBN19"
+msgstr "傑夫"
+
+msgid "NAMES/GBN190"
+msgstr "高德佛裡"
+
+msgid "NAMES/GBN191"
+msgstr "蓋"
+
+msgid "NAMES/GBN192"
+msgstr "哈利"
+
+msgid "NAMES/GBN193"
+msgstr "享利"
+
+msgid "NAMES/GBN194"
+msgstr "哈瑞斯"
+
+msgid "NAMES/GBN195"
+msgstr "海曼"
+
+msgid "NAMES/GBN196"
+msgstr "伊西多"
+
+msgid "NAMES/GBN197"
+msgstr "傑瑞德"
+
+msgid "NAMES/GBN198"
+msgstr "傑理"
+
+msgid "NAMES/GBN199"
+msgstr "約瑟夫"
+
+msgid "NAMES/GBN2"
+msgstr "肯恩"
+
+msgid "NAMES/GBN20"
+msgstr "金姆"
+
+msgid "NAMES/GBN200"
+msgstr "勞瑞"
+
+msgid "NAMES/GBN201"
+msgstr "利奧波德"
+
+msgid "NAMES/GBN202"
+msgstr "富勞沃"
+
+msgid "NAMES/GBN203"
+msgstr "麥基"
+
+msgid "NAMES/GBN204"
+msgstr "瑪希"
+
+msgid "NAMES/GBN205"
+msgstr "馬克斯"
+
+msgid "NAMES/GBN206"
+msgstr "米契爾"
+
+msgid "NAMES/GBN207"
+msgstr "莫爾"
+
+msgid "NAMES/GBN208"
+msgstr "麥倫"
+
+msgid "NAMES/GBN209"
+msgstr "紐曼"
+
+msgid "NAMES/GBN21"
+msgstr "諾頓"
+
+msgid "NAMES/GBN210"
+msgstr "哈利"
+
+msgid "NAMES/GBN211"
+msgstr "享利"
+
+msgid "NAMES/GBN212"
+msgstr "哈瑞斯"
+
+msgid "NAMES/GBN213"
+msgstr "海曼"
+
+msgid "NAMES/GBN214"
+msgstr "伊西多"
+
+msgid "NAMES/GBN215"
+msgstr "傑瑞德"
+
+msgid "NAMES/GBN216"
+msgstr "傑理"
+
+msgid "NAMES/GBN217"
+msgstr "約瑟夫"
+
+msgid "NAMES/GBN218"
+msgstr "肯恩"
+
+msgid "NAMES/GBN219"
+msgstr "金姆"
+
+msgid "NAMES/GBN22"
+msgstr "伯特蘭"
+
+msgid "NAMES/GBN220"
+msgstr "倫納德"
+
+msgid "NAMES/GBN221"
+msgstr "路"
+
+msgid "NAMES/GBN222"
+msgstr "馬倫"
+
+msgid "NAMES/GBN223"
+msgstr "摩里斯"
+
+msgid "NAMES/GBN224"
+msgstr "麥克"
+
+msgid "NAMES/GBN225"
+msgstr "曼特裘"
+
+msgid "NAMES/GBN226"
+msgstr "拉里薩"
+
+msgid "NAMES/GBN227"
+msgstr "尼爾森"
+
+msgid "NAMES/GBN228"
+msgstr "諾曼"
+
+msgid "NAMES/GBN229"
+msgstr "格倫"
+
+msgid "NAMES/GBN23"
+msgstr "斐瑞"
+
+msgid "NAMES/GBN230"
+msgstr "普利莫"
+
+msgid "NAMES/GBN231"
+msgstr "雷吉諾德"
+
+msgid "NAMES/GBN232"
+msgstr "羅德"
+
+msgid "NAMES/GBN233"
+msgstr "魯道夫"
+
+msgid "NAMES/GBN234"
+msgstr "山迪"
+
+msgid "NAMES/GBN235"
+msgstr "席爾維斯特"
+
+msgid "NAMES/GBN236"
+msgstr "內爾"
+
+msgid "NAMES/GBN237"
+msgstr "泰倫斯"
+
+msgid "NAMES/GBN238"
+msgstr "託拜西"
+
+msgid "NAMES/GBN239"
+msgstr "龐斯"
+
+msgid "NAMES/GBN24"
+msgstr "維吉爾"
+
+msgid "NAMES/GBN240"
+msgstr "華德"
+
+msgid "NAMES/GBN241"
+msgstr "韋爾伯"
+
+msgid "NAMES/GBN242"
+msgstr "渥茲華斯"
+
+msgid "NAMES/GBN243"
+msgstr "耶呼弟"
+
+msgid "NAMES/GBN244"
+msgstr "阿諾"
+
+msgid "NAMES/GBN245"
+msgstr "艾狄生"
+
+msgid "NAMES/GBN246"
+msgstr "安德魯"
+
+msgid "NAMES/GBN247"
+msgstr "安斯艾爾"
+
+msgid "NAMES/GBN248"
+msgstr "朱莉"
+
+msgid "NAMES/GBN249"
+msgstr "亞爾曼"
+
+msgid "NAMES/GBN25"
+msgstr "亞瑟"
+
+msgid "NAMES/GBN250"
+msgstr "巴羅"
+
+msgid "NAMES/GBN251"
+msgstr "巴頓"
+
+msgid "NAMES/GBN252"
+msgstr "班尼迪克"
+
+msgid "NAMES/GBN253"
+msgstr "伯尼"
+
+msgid "NAMES/GBN254"
+msgstr "畢夏普"
+
+msgid "NAMES/GBN255"
+msgstr "伯里斯"
+
+msgid "NAMES/GBN256"
+msgstr "布萊恩"
+
+msgid "NAMES/GBN257"
+msgstr "巴爾克"
+
+msgid "NAMES/GBN258"
+msgstr "凱裡"
+
+msgid "NAMES/GBN259"
+msgstr "井田"
+
+msgid "NAMES/GBN26"
+msgstr "克里斯汀"
+
+msgid "NAMES/GBN260"
+msgstr "克利夫蘭"
+
+msgid "NAMES/GBN261"
+msgstr "康拉德"
+
+msgid "NAMES/GBN262"
+msgstr "西瑞爾"
+
+msgid "NAMES/GBN263"
+msgstr "迪夫"
+
+msgid "NAMES/GBN264"
+msgstr "狄克"
+
+msgid "NAMES/GBN265"
+msgstr "朱迪思"
+
+msgid "NAMES/GBN266"
+msgstr "艾德"
+
+msgid "NAMES/GBN267"
+msgstr "愛格伯特"
+
+msgid "NAMES/GBN268"
+msgstr "愛爾頓"
+
+msgid "NAMES/GBN269"
+msgstr "爾文"
+
+msgid "NAMES/GBN27"
+msgstr "費茲捷勒"
+
+msgid "NAMES/GBN270"
+msgstr "加布力爾"
+
+msgid "NAMES/GBN271"
+msgstr "喬治"
+
+msgid "NAMES/GBN272"
+msgstr "戈登"
+
+msgid "NAMES/GBN273"
+msgstr "哈樂德"
+
+msgid "NAMES/GBN274"
+msgstr "赫伯特"
+
+msgid "NAMES/GBN275"
+msgstr "好爾德"
+
+msgid "NAMES/GBN276"
+msgstr "布爾熱"
+
+msgid "NAMES/GBN277"
+msgstr "提摩太"
+
+msgid "NAMES/GBN278"
+msgstr "傑西"
+
+msgid "NAMES/GBN279"
+msgstr "喬休爾"
+
+msgid "NAMES/GBN28"
+msgstr "甘乃迪"
+
+msgid "NAMES/GBN280"
+msgstr "金"
+
+msgid "NAMES/GBN281"
+msgstr "勞倫斯"
+
+msgid "NAMES/GBN282"
+msgstr "勒斯"
+
+msgid "NAMES/GBN283"
+msgstr "陸斯恩"
+
+msgid "NAMES/GBN284"
+msgstr "麥爾肯"
+
+msgid "NAMES/GBN285"
+msgstr "馬歇爾"
+
+msgid "NAMES/GBN286"
+msgstr "馬克西米蘭"
+
+msgid "NAMES/GBN287"
+msgstr "密克"
+
+msgid "NAMES/GBN288"
+msgstr "摩爾根"
+
+msgid "NAMES/GBN289"
+msgstr "尼克勒斯"
+
+msgid "NAMES/GBN29"
+msgstr "哈樂德"
+
+msgid "NAMES/GBN290"
+msgstr "本篤"
+
+msgid "NAMES/GBN291"
+msgstr "好爾德"
+
+msgid "NAMES/GBN292"
+msgstr "艾凡"
+
+msgid "NAMES/GBN293"
+msgstr "傑森"
+
+msgid "NAMES/GBN294"
+msgstr "傑西"
+
+msgid "NAMES/GBN295"
+msgstr "喬休爾"
+
+msgid "NAMES/GBN296"
+msgstr "甘乃迪"
+
+msgid "NAMES/GBN297"
+msgstr "勞瑞"
+
+msgid "NAMES/GBN298"
+msgstr "利奧波德"
+
+msgid "NAMES/GBN299"
+msgstr "路易士"
+
+msgid "NAMES/GBN3"
+msgstr "麥基"
+
+msgid "NAMES/GBN30"
+msgstr "瑪希"
+
+msgid "NAMES/GBN300"
+msgstr "馬克斯"
+
+msgid "NAMES/GBN301"
+msgstr "米契爾"
+
+msgid "NAMES/GBN302"
+msgstr "莫爾"
+
+msgid "NAMES/GBN303"
+msgstr "麥倫"
+
+msgid "NAMES/GBN304"
+msgstr "紐曼"
+
+msgid "NAMES/GBN305"
+msgstr "諾頓"
+
+msgid "NAMES/GBN306"
+msgstr "奧斯卡"
+
+msgid "NAMES/GBN307"
+msgstr "裴吉"
+
+msgid "NAMES/GBN308"
+msgstr "皮特"
+
+msgid "NAMES/GBN309"
+msgstr "雷契爾"
+
+msgid "NAMES/GBN31"
+msgstr "魯賓"
+
+msgid "NAMES/GBN310"
+msgstr "羅得裡克"
+
+msgid "NAMES/GBN311"
+msgstr "魯伯特"
+
+msgid "NAMES/GBN312"
+msgstr "撒克遜"
+
+msgid "NAMES/GBN313"
+msgstr "賽門"
+
+msgid "NAMES/GBN314"
+msgstr "史帝夫"
+
+msgid "NAMES/GBN315"
+msgstr "希爾保特"
+
+msgid "NAMES/GBN316"
+msgstr "託比"
+
+msgid "NAMES/GBN317"
+msgstr "泰勒"
+
+msgid "NAMES/GBN318"
+msgstr "範倫鐵恩"
+
+msgid "NAMES/GBN319"
+msgstr "蘭伯特"
+
+msgid "NAMES/GBN32"
+msgstr "華納"
+
+msgid "NAMES/GBN320"
+msgstr "威爾"
+
+msgid "NAMES/GBN321"
+msgstr "萊特"
+
+msgid "NAMES/GBN322"
+msgstr "阿爾諾"
+
+msgid "NAMES/GBN323"
+msgstr "阿道夫"
+
+msgid "NAMES/GBN324"
+msgstr "阿諾德"
+
+msgid "NAMES/GBN325"
+msgstr "艾富里"
+
+msgid "NAMES/GBN326"
+msgstr "安迪"
+
+msgid "NAMES/GBN327"
+msgstr "奧布里"
+
+msgid "NAMES/GBN328"
+msgstr "亞岱爾"
+
+msgid "NAMES/GBN329"
+msgstr "亞爾維斯"
+
+msgid "NAMES/GBN33"
+msgstr "埃弗裡"
+
+msgid "NAMES/GBN330"
+msgstr "巴奈特"
+
+msgid "NAMES/GBN331"
+msgstr "巴特萊"
+
+msgid "NAMES/GBN332"
+msgstr "伯納德"
+
+msgid "NAMES/GBN333"
+msgstr "伯特"
+
+msgid "NAMES/GBN334"
+msgstr "佈雷爾"
+
+msgid "NAMES/GBN335"
+msgstr "波文"
+
+msgid "NAMES/GBN336"
+msgstr "布拉得裡克"
+
+msgid "NAMES/GBN337"
+msgstr "布尼爾"
+
+msgid "NAMES/GBN338"
+msgstr "卡爾"
+
+msgid "NAMES/GBN339"
+msgstr "強尼"
+
+msgid "NAMES/GBN34"
+msgstr "克里斯多夫"
+
+msgid "NAMES/GBN340"
+msgstr "雷米"
+
+msgid "NAMES/GBN341"
+msgstr "大衛"
+
+msgid "NAMES/GBN342"
+msgstr "多明尼克"
+
+msgid "NAMES/GBN343"
+msgstr "鄧肯"
+
+msgid "NAMES/GBN344"
+msgstr "伊登"
+
+msgid "NAMES/GBN345"
+msgstr "伊萊"
+
+msgid "NAMES/GBN346"
+msgstr "艾維斯"
+
+msgid "NAMES/GBN347"
+msgstr "伊伕力"
+
+msgid "NAMES/GBN348"
+msgstr "福特"
+
+msgid "NAMES/GBN349"
+msgstr "阿梅代"
+
+msgid "NAMES/GBN35"
+msgstr "吉羅德"
+
+msgid "NAMES/GBN350"
+msgstr "葛列格"
+
+msgid "NAMES/GBN351"
+msgstr "約瑟夫"
+
+msgid "NAMES/GBN352"
+msgstr "哈里特"
+
+msgid "NAMES/GBN353"
+msgstr "赫爾曼"
+
+msgid "NAMES/GBN354"
+msgstr "休伯特"
+
+msgid "NAMES/GBN355"
+msgstr "朱莉"
+
+msgid "NAMES/GBN356"
+msgstr "艾維斯"
+
+msgid "NAMES/GBN357"
+msgstr "傑"
+
+msgid "NAMES/GBN358"
+msgstr "吉姆"
+
+msgid "NAMES/GBN359"
+msgstr "喬伊斯"
+
+msgid "NAMES/GBN36"
+msgstr "肯尼士"
+
+msgid "NAMES/GBN360"
+msgstr "科克"
+
+msgid "NAMES/GBN361"
+msgstr "列夫"
+
+msgid "NAMES/GBN362"
+msgstr "里斯特"
+
+msgid "NAMES/GBN363"
+msgstr "路德"
+
+msgid "NAMES/GBN364"
+msgstr "曼德爾"
+
+msgid "NAMES/GBN365"
+msgstr "馬丁"
+
+msgid "NAMES/GBN366"
+msgstr "麥斯威爾"
+
+msgid "NAMES/GBN367"
+msgstr "麥克"
+
+msgid "NAMES/GBN368"
+msgstr "摩帝馬"
+
+msgid "NAMES/GBN369"
+msgstr "納特"
+
+msgid "NAMES/GBN37"
+msgstr "尼克"
+
+msgid "NAMES/GBN370"
+msgstr "霍爾"
+
+msgid "NAMES/GBN371"
+msgstr "哈里特"
+
+msgid "NAMES/GBN372"
+msgstr "赫爾曼"
+
+msgid "NAMES/GBN373"
+msgstr "休伯特"
+
+msgid "NAMES/GBN374"
+msgstr "伊恩"
+
+msgid "NAMES/GBN375"
+msgstr "艾維斯"
+
+msgid "NAMES/GBN376"
+msgstr "傑"
+
+msgid "NAMES/GBN377"
+msgstr "薩特菲特"
+
+msgid "NAMES/GBN378"
+msgstr "喬伊斯"
+
+msgid "NAMES/GBN379"
+msgstr "肯尼士"
+
+msgid "NAMES/GBN38"
+msgstr "金"
+
+msgid "NAMES/GBN380"
+msgstr "勞倫斯"
+
+msgid "NAMES/GBN381"
+msgstr "勒斯"
+
+msgid "NAMES/GBN382"
+msgstr "陸斯恩"
+
+msgid "NAMES/GBN383"
+msgstr "麥爾肯"
+
+msgid "NAMES/GBN384"
+msgstr "馬歇爾"
+
+msgid "NAMES/GBN385"
+msgstr "魯尼"
+
+msgid "NAMES/GBN386"
+msgstr "密克"
+
+msgid "NAMES/GBN387"
+msgstr "摩爾根"
+
+msgid "NAMES/GBN388"
+msgstr "尼克勒斯"
+
+msgid "NAMES/GBN389"
+msgstr "奧斯蒙"
+
+msgid "NAMES/GBN39"
+msgstr "派克"
+
+msgid "NAMES/GBN390"
+msgstr "彼得"
+
+msgid "NAMES/GBN391"
+msgstr "昆特"
+
+msgid "NAMES/GBN392"
+msgstr "雷爾夫"
+
+msgid "NAMES/GBN393"
+msgstr "雷克斯"
+
+msgid "NAMES/GBN394"
+msgstr "明德"
+
+msgid "NAMES/GBN395"
+msgstr "萊安"
+
+msgid "NAMES/GBN396"
+msgstr "史考特"
+
+msgid "NAMES/GBN397"
+msgstr "所羅門"
+
+msgid "NAMES/GBN398"
+msgstr "史都華德"
+
+msgid "NAMES/GBN399"
+msgstr "加斯頓"
+
+msgid "NAMES/GBN4"
+msgstr "陶德"
+
+msgid "NAMES/GBN40"
+msgstr "泰倫"
+
+msgid "NAMES/GBN400"
+msgstr "範倫丁"
+
+msgid "NAMES/GBN401"
+msgstr "朱莉"
+
+msgid "NAMES/GBN402"
+msgstr "韋恩"
+
+msgid "NAMES/GBN403"
+msgstr "威廉"
+
+msgid "NAMES/GBN404"
+msgstr "偉茲"
+
+msgid "NAMES/GBN405"
+msgstr "戈萬"
+
+msgid "NAMES/GBN406"
+msgstr "吉賽爾邦"
+
+msgid "NAMES/GBN407"
+msgstr "阿奇柏德"
+
+msgid "NAMES/GBN408"
+msgstr "艾倫"
+
+msgid "NAMES/GBN409"
+msgstr "伊夫"
+
+msgid "NAMES/GBN41"
+msgstr "奧德里奇"
+
+msgid "NAMES/GBN410"
+msgstr "貝爾納丁"
+
+msgid "NAMES/GBN411"
+msgstr "亞恆"
+
+msgid "NAMES/GBN412"
+msgstr "亞希伯恩"
+
+msgid "NAMES/GBN413"
+msgstr "巴倫"
+
+msgid "NAMES/GBN414"
+msgstr "巴澤爾"
+
+msgid "NAMES/GBN415"
+msgstr "班奈特"
+
+msgid "NAMES/GBN416"
+msgstr "奧古斯丁"
+
+msgid "NAMES/GBN417"
+msgstr "布萊克"
+
+msgid "NAMES/GBN418"
+msgstr "柏宜斯"
+
+msgid "NAMES/GBN419"
+msgstr "布魯克"
+
+msgid "NAMES/GBN42"
+msgstr "凱撒"
+
+msgid "NAMES/GBN420"
+msgstr "凱爾"
+
+msgid "NAMES/GBN421"
+msgstr "黛安"
+
+msgid "NAMES/GBN422"
+msgstr "克雷爾"
+
+msgid "NAMES/GBN423"
+msgstr "柯利弗德"
+
+msgid "NAMES/GBN424"
+msgstr "寇裡"
+
+msgid "NAMES/GBN425"
+msgstr "戴納"
+
+msgid "NAMES/GBN426"
+msgstr "迪恩"
+
+msgid "NAMES/GBN427"
+msgstr "唐"
+
+msgid "NAMES/GBN428"
+msgstr "唐恩"
+
+msgid "NAMES/GBN429"
+msgstr "愛德格"
+
+msgid "NAMES/GBN43"
+msgstr "易萊哲"
+
+msgid "NAMES/GBN430"
+msgstr "愛曼紐"
+
+msgid "NAMES/GBN431"
+msgstr "法蘭西斯"
+
+msgid "NAMES/GBN432"
+msgstr "蓋理"
+
+msgid "NAMES/GBN433"
+msgstr "吉伯特"
+
+msgid "NAMES/GBN434"
+msgstr "葛列格里"
+
+msgid "NAMES/GBN435"
+msgstr "哈利"
+
+msgid "NAMES/GBN436"
+msgstr "哈里"
+
+msgid "NAMES/GBN437"
+msgstr "聖伊萊爾"
+
+msgid "NAMES/GBN438"
+msgstr "修"
+
+msgid "NAMES/GBN439"
+msgstr "英格馬"
+
+msgid "NAMES/GBN44"
+msgstr "屈爾特"
+
+msgid "NAMES/GBN440"
+msgstr "喬"
+
+msgid "NAMES/GBN441"
+msgstr "朱利安"
+
+msgid "NAMES/GBN442"
+msgstr "肯特"
+
+msgid "NAMES/GBN443"
+msgstr "凱爾"
+
+msgid "NAMES/GBN444"
+msgstr "倫恩"
+
+msgid "NAMES/GBN445"
+msgstr "李維"
+
+msgid "NAMES/GBN446"
+msgstr "賴爾"
+
+msgid "NAMES/GBN447"
+msgstr "馬卡斯"
+
+msgid "NAMES/GBN448"
+msgstr "巴羅"
+
+msgid "NAMES/GBN449"
+msgstr "馬勒第茲"
+
+msgid "NAMES/GBN45"
+msgstr "麥爾斯"
+
+msgid "NAMES/GBN450"
+msgstr "摩頓"
+
+msgid "NAMES/GBN451"
+msgstr "奈登"
+
+msgid "NAMES/GBN452"
+msgstr "奈哲爾"
+
+msgid "NAMES/GBN453"
+msgstr "哈利"
+
+msgid "NAMES/GBN454"
+msgstr "哈里"
+
+msgid "NAMES/GBN455"
+msgstr "希拉里"
+
+msgid "NAMES/GBN456"
+msgstr "特雷弗"
+
+msgid "NAMES/GBN457"
+msgstr "英格馬"
+
+msgid "NAMES/GBN458"
+msgstr "傑夫"
+
+msgid "NAMES/GBN459"
+msgstr "喬"
+
+msgid "NAMES/GBN46"
+msgstr "朱利安"
+
+msgid "NAMES/GBN460"
+msgstr "肯特"
+
+msgid "NAMES/GBN461"
+msgstr "科克"
+
+msgid "NAMES/GBN462"
+msgstr "列夫"
+
+msgid "NAMES/GBN463"
+msgstr "吉賽爾邦"
+
+msgid "NAMES/GBN464"
+msgstr "路德"
+
+msgid "NAMES/GBN465"
+msgstr "查皮安"
+
+msgid "NAMES/GBN466"
+msgstr "馬丁"
+
+msgid "NAMES/GBN467"
+msgstr "麥斯威爾"
+
+msgid "NAMES/GBN468"
+msgstr "麥克"
+
+msgid "NAMES/GBN469"
+msgstr "摩帝馬"
+
+msgid "NAMES/GBN47"
+msgstr "納特"
+
+msgid "NAMES/GBN470"
+msgstr "尼克"
+
+msgid "NAMES/GBN471"
+msgstr "歐格登"
+
+msgid "NAMES/GBN472"
+msgstr "奧斯維得"
+
+msgid "NAMES/GBN473"
+msgstr "培迪"
+
+msgid "NAMES/GBN474"
+msgstr "菲爾"
+
+msgid "NAMES/GBN475"
+msgstr "昆尼爾"
+
+msgid "NAMES/GBN476"
+msgstr "藍道夫"
+
+msgid "NAMES/GBN477"
+msgstr "理查"
+
+msgid "NAMES/GBN478"
+msgstr "羅恩"
+
+msgid "NAMES/GBN479"
+msgstr "肖恩"
+
+msgid "NAMES/GBN48"
+msgstr "史賓杜"
+
+msgid "NAMES/GBN480"
+msgstr "託瑪士"
+
+msgid "NAMES/GBN481"
+msgstr "湯姆"
+
+msgid "NAMES/GBN482"
+msgstr "佛能"
+
+msgid "NAMES/GBN483"
+msgstr "韋勃"
+
+msgid "NAMES/GBN484"
+msgstr "威利"
+
+msgid "NAMES/GBN485"
+msgstr "阿爾傑農"
+
+msgid "NAMES/GBN486"
+msgstr "阿奇爾"
+
+msgid "NAMES/GBN487"
+msgstr "艾倫"
+
+msgid "NAMES/GBN488"
+msgstr "安東尼奧"
+
+msgid "NAMES/GBN489"
+msgstr "奧格斯格"
+
+msgid "NAMES/GBN49"
+msgstr "亞德里恩"
+
+msgid "NAMES/GBN5"
+msgstr "亞力士"
+
+msgid "NAMES/GBN50"
+msgstr "拜爾德"
+
+msgid "NAMES/GBN51"
+msgstr "巴里特"
+
+msgid "NAMES/GBN52"
+msgstr "比其爾"
+
+msgid "NAMES/GBN53"
+msgstr "班森"
+
+msgid "NAMES/GBN54"
+msgstr "柏特萊姆"
+
+msgid "NAMES/GBN55"
+msgstr "布萊茲"
+
+msgid "NAMES/GBN56"
+msgstr "佈雷"
+
+msgid "NAMES/GBN57"
+msgstr "布賴恩"
+
+msgid "NAMES/GBN58"
+msgstr "拜倫"
+
+msgid "NAMES/GBN59"
+msgstr "卡特"
+
+msgid "NAMES/GBN6"
+msgstr "亞當"
+
+msgid "NAMES/GBN60"
+msgstr "克拉倫斯"
+
+msgid "NAMES/GBN61"
+msgstr "康斯坦丁"
+
+msgid "NAMES/GBN62"
+msgstr "康那理惟士"
+
+msgid "NAMES/GBN63"
+msgstr "丹尼爾"
+
+msgid "NAMES/GBN64"
+msgstr "鄧普斯"
+
+msgid "NAMES/GBN65"
+msgstr "唐納修"
+
+msgid "NAMES/GBN66"
+msgstr "德維特"
+
+msgid "NAMES/GBN67"
+msgstr "艾德蒙"
+
+msgid "NAMES/GBN68"
+msgstr "伊裡亞德"
+
+msgid "NAMES/GBN69"
+msgstr "伊諾克"
+
+msgid "NAMES/GBN7"
+msgstr "富賓恩"
+
+msgid "NAMES/GBN70"
+msgstr "法蘭克"
+
+msgid "NAMES/GBN71"
+msgstr "蓋文"
+
+msgid "NAMES/GBN72"
+msgstr "賈艾斯"
+
+msgid "NAMES/GBN73"
+msgstr "葛裡菲茲"
+
+msgid "NAMES/GBN74"
+msgstr "漢米敦"
+
+msgid "NAMES/GBN75"
+msgstr "哈威"
+
+msgid "NAMES/GBN76"
+msgstr "海勒"
+
+msgid "NAMES/GBN77"
+msgstr "雨果"
+
+msgid "NAMES/GBN78"
+msgstr "英格蘭姆"
+
+msgid "NAMES/GBN79"
+msgstr "傑克"
+
+msgid "NAMES/GBN8"
+msgstr "傑佛瑞"
+
+msgid "NAMES/GBN80"
+msgstr "約翰"
+
+msgid "NAMES/GBN81"
+msgstr "朱利爾斯"
+
+msgid "NAMES/GBN82"
+msgstr "科爾"
+
+msgid "NAMES/GBN83"
+msgstr "藍儂"
+
+msgid "NAMES/GBN84"
+msgstr "路易斯"
+
+msgid "NAMES/GBN85"
+msgstr "林頓"
+
+msgid "NAMES/GBN86"
+msgstr "馬裡奧"
+
+msgid "NAMES/GBN87"
+msgstr "錢德勒"
+
+msgid "NAMES/GBN88"
+msgstr "莫爾"
+
+msgid "NAMES/GBN89"
+msgstr "貝爾納丁"
+
+msgid "NAMES/GBN9"
+msgstr "阿德里安"
+
+msgid "NAMES/GBN90"
+msgstr "奈寶尼爾"
+
+msgid "NAMES/GBN91"
+msgstr "諾亞"
+
+msgid "NAMES/GBN92"
+msgstr "漢米敦"
+
+msgid "NAMES/GBN93"
+msgstr "哈威"
+
+msgid "NAMES/GBN94"
+msgstr "海勒"
+
+msgid "NAMES/GBN95"
+msgstr "雨果"
+
+msgid "NAMES/GBN96"
+msgstr "桑迪弗"
+
+msgid "NAMES/GBN97"
+msgstr "傑克"
+
+msgid "NAMES/GBN98"
+msgstr "傑佛瑞"
+
+msgid "NAMES/GBN99"
+msgstr "約翰"
+
+msgid "RANKSGB/1"
+msgstr "上校"
+
+msgid "RANKSGB/10"
+msgstr "軍士"
+
+msgid "RANKSGB/2"
+msgstr "中校"
+
+msgid "RANKSGB/3"
+msgstr "指揮官"
+
+msgid "RANKSGB/4"
+msgstr "上尉"
+
+msgid "RANKSGB/5"
+msgstr "中尉"
+
+msgid "RANKSGB/6"
+msgstr "少尉"
+
+msgid "RANKSGB/7"
+msgstr "准尉"
+
+msgid "RANKSGB/8"
+msgstr "軍士長"
+
+msgid "RANKSGB/9"
+msgstr "技術軍士"
+
+msgid "RANKSGB2/1"
+msgstr "上校"
+
+msgid "RANKSGB2/10"
+msgstr "上士"
+
+msgid "RANKSGB2/2"
+msgstr "中校"
+
+msgid "RANKSGB2/3"
+msgstr "少校"
+
+msgid "RANKSGB2/4"
+msgstr "中尉"
+
+msgid "RANKSGB2/5"
+msgstr "中尉"
+
+msgid "RANKSGB2/6"
+msgstr "少尉"
+
+msgid "RANKSGB2/7"
+msgstr "三級准尉"
+
+msgid "RANKSGB2/8"
+msgstr "二級准尉"
+
+msgid "RANKSGB2/9"
+msgstr "軍士長"
+
+msgid "NAMES/GBU1"
+msgstr "Donovan"
+
+msgid "NAMES/GBUN1"
+msgstr "Charles"

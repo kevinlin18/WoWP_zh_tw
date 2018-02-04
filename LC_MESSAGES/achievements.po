@@ -1,0 +1,3699 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: World Of Tanks\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-06-01 10:00+0300\n"
+"Last-Translator: i_maliavko <i_maliavko@wargaming.net>\n"
+"Language-Team: WoT Team <noreply@wargaming.net>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "ACHIEVEMENTS_"
+msgstr "命中率："
+
+msgid "ACHIEVEMENTS_AIRCRAFTS"
+msgstr "戰機"
+
+msgid "ACHIEVEMENTS_AIRCRAFTS_DESTROYED"
+msgstr "擊毀戰機："
+
+msgid "ACHIEVEMENTS_AVG_PER_BATTLE"
+msgstr "單場戰鬥平均"
+
+msgid "ACHIEVEMENTS_AVG_XP_PER_BATTLE"
+msgstr "平均每場戰鬥獲得經驗："
+
+msgid "ACHIEVEMENTS_BATTLE"
+msgstr "戰鬥"
+
+msgid "ACHIEVEMENTS_BETTLE_EFFICIENCY"
+msgstr "戰鬥表現"
+
+msgid "ACHIEVEMENTS_CHECKBOX_DONT_SHOW_AIRCRAFTS_UNDER_50_FLIGHTS_TAKEN"
+msgstr "隱藏少於50場戰鬥的戰機資料"
+
+msgid "ACHIEVEMENTS_COMMON_RESULTS"
+msgstr "戰績"
+
+msgid "ACHIEVEMENTS_CONTEXT_AWARDS_NUMBER"
+msgstr "{number} 枚勳章"
+
+msgid "ACHIEVEMENTS_CONTEXT_CURRENT_AWARD_GRADE"
+msgstr "當前獎勵類別:"
+
+msgid "ACHIEVEMENTS_CONTEXT_CURRENT_SERIES_NUMBER"
+msgstr "當前累計數量: {number}"
+
+msgid "ACHIEVEMENTS_CONTEXT_GRADE_1_LONG"
+msgstr "一級:"
+
+msgid "ACHIEVEMENTS_CONTEXT_GRADE_1_NUMBER"
+msgstr "一級"
+
+msgid "ACHIEVEMENTS_CONTEXT_GRADE_2_LONG"
+msgstr "二級:"
+
+msgid "ACHIEVEMENTS_CONTEXT_GRADE_2_NUMBER"
+msgstr "二級"
+
+msgid "ACHIEVEMENTS_CONTEXT_GRADE_3_LONG"
+msgstr "三級:"
+
+msgid "ACHIEVEMENTS_CONTEXT_GRADE_3_NUMBER"
+msgstr "三級"
+
+msgid "ACHIEVEMENTS_CONTEXT_GRADE_4_LONG"
+msgstr "四級:"
+
+msgid "ACHIEVEMENTS_CONTEXT_GRADE_4_NUMBER"
+msgstr "四級"
+
+msgid "ACHIEVEMENTS_CONTEXT_HISTORICAL_REFERENCE"
+msgstr "歷史標註:"
+
+msgid "ACHIEVEMENTS_CONTEXT_LEFT_TILL_GRADE"
+msgstr "需達到 {grade} 級:"
+
+msgid "ACHIEVEMENTS_CONTEXT_MAX_SERIES_NUMBER"
+msgstr "最大累計數量: {number}"
+
+msgid "ACHIEVEMENTS_CONTEXT_MEDALS_OF_TYPES_SHOWN"
+msgstr "顯示當前戰機所獲勳章:<br>{medal_type_list}."
+
+msgid "ACHIEVEMENTS_CONTEXT_OR"
+msgstr "或"
+
+msgid "ACHIEVEMENTS_CONTEXT_PLANES_NUMBER"
+msgstr "{number} 架戰機"
+
+msgid "ACHIEVEMENTS_CONTEXT_PLANE_HAS_NO_MEDALS"
+msgstr "您所選擇的戰機尚未獲得勳章"
+
+msgid "ACHIEVEMENTS_CONTEXT_POINTS_NUMBER"
+msgstr "{number} 分"
+
+msgid "ACHIEVEMENTS_CONTEXT_RECEIVED_AWARDS_NUMBER"
+msgstr "獲得獎勵: {number}"
+
+msgid "ACHIEVEMENTS_CONTEXT_RECEIVE_ON_PLANE"
+msgstr "收到獎勵:"
+
+msgid "ACHIEVEMENTS_DAMAGE_TO_AIRCRAFTS"
+msgstr "對敵機造成的總傷害："
+
+msgid "ACHIEVEMENTS_DAMAGE_TO_GROUND_TARGETS"
+msgstr "對地面造成的傷害："
+
+msgid "ACHIEVEMENTS_DEFEATS"
+msgstr "失敗次數："
+
+msgid "ACHIEVEMENTS_DISCOVERED_TOTAL"
+msgstr "總髮現："
+
+msgid "ACHIEVEMENTS_DRAWS"
+msgstr "平局："
+
+msgid "ACHIEVEMENTS_GROUND_TARGETS_DESTROYED"
+msgstr "擊毀地面目標數："
+
+msgid "ACHIEVEMENTS_HEADER_ACHIEVEMENTS"
+msgstr "戰績"
+
+msgid "ACHIEVEMENTS_HEADER_DATA_BY_DATE"
+msgstr "資料截止日期："
+
+msgid "ACHIEVEMENTS_HEADER_GAME_EVENTS"
+msgstr "紀念"
+
+msgid "ACHIEVEMENTS_HEADER_NATION_AND_LEVEL"
+msgstr "戰機級別與國家"
+
+msgid "ACHIEVEMENTS_HEADER_WINS"
+msgstr "勝利次數："
+
+msgid "ACHIEVEMENTS_HITS"
+msgstr "擊中"
+
+msgid "ACHIEVEMENTS_INSUFFICIENT_DATA"
+msgstr "接收使用者錯誤資訊失敗。"
+
+msgid "ACHIEVEMENTS_LAST_SEEN_IN_BATTLE"
+msgstr "上一次戰鬥時間："
+
+msgid "ACHIEVEMENTS_LAST_SEEN_IN_GAME"
+msgstr "上一次登入時間："
+
+msgid "ACHIEVEMENTS_LOAD_STATISTICS"
+msgstr "統計更新…"
+
+msgid "ACHIEVEMENTS_MAX_DESTROYED_PER_BATTLE"
+msgstr "單場最高擊墜數："
+
+msgid "ACHIEVEMENTS_MAX_PER_BATTLE"
+msgstr "單場戰鬥最大"
+
+msgid "ACHIEVEMENTS_MAX_XP_FOR_BATTLE"
+msgstr "單次戰鬥獲得最大經驗："
+
+msgid "ACHIEVEMENTS_NO_MEDALS"
+msgstr "暫未獲得成就"
+
+msgid "ACHIEVEMENTS_OBJECTS_DMG"
+msgstr "對地面目標造成傷害"
+
+msgid "ACHIEVEMENTS_PER_BATTLE"
+msgstr "單場戰鬥"
+
+msgid "ACHIEVEMENTS_PLANES_DMG"
+msgstr "對戰機造成傷害"
+
+msgid "ACHIEVEMENTS_QUEST_PROGRESS_INFO"
+msgstr ""
+"在人機對戰模式中所取得的戰果將不會在戰績中顯示<br>完成此任務可解鎖新的戰鬥模"
+"式<br>擴展統計資訊"
+
+msgid "ACHIEVEMENTS_RANDOM_MODE_ONLY"
+msgstr "標準戰鬥的統計資料將在戰績中顯示"
+
+msgid "ACHIEVEMENTS_REFRESHING_DATA"
+msgstr "正在更新資料..."
+
+msgid "ACHIEVEMENTS_REGISTRATION_DATE"
+msgstr "創建時間："
+
+msgid "ACHIEVEMENTS_SUMMARY_STATS"
+msgstr "彙總統計"
+
+msgid "ACHIEVEMENTS_SUMMARY_XP"
+msgstr "總經驗："
+
+msgid "ACHIEVEMENTS_SUPERIORITY_POINTS_AVG_PER_BATTLE"
+msgstr "平均每場戰鬥獲得的優勢點數"
+
+msgid "ACHIEVEMENTS_SUPERIORITY_POINTS_TOTAL"
+msgstr "總獲得的優勢點數"
+
+msgid "ACHIEVEMENTS_SURVIVED_BATTLES"
+msgstr "存活次數："
+
+msgid "ACHIEVEMENTS_TAB_AWARDS"
+msgstr "勳章"
+
+msgid "ACHIEVEMENTS_TAB_AWARDS_DISTINCTION"
+msgstr "戰鬥紀念獎章"
+
+msgid "ACHIEVEMENTS_TAB_AWARDS_EPIC"
+msgstr "傳奇成就勳章"
+
+msgid "ACHIEVEMENTS_TAB_AWARDS_GROUP"
+msgstr "團隊成就勳章"
+
+msgid "ACHIEVEMENTS_TAB_AWARDS_HERO"
+msgstr "英勇戰鬥勳章"
+
+msgid "ACHIEVEMENTS_TAB_AWARDS_HONOR"
+msgstr "榮譽勳章"
+
+msgid "ACHIEVEMENTS_TAB_AWARDS_MEMORIAL"
+msgstr "傑出表現獎章"
+
+msgid "ACHIEVEMENTS_TAB_AWARDS_NEW_YEAR"
+msgstr "季度獎勵"
+
+msgid "ACHIEVEMENTS_TAB_AWARDS_RECENT"
+msgstr "最新成就"
+
+msgid "ACHIEVEMENTS_TAB_AWARDS_SERIAL"
+msgstr "特殊表現勳章"
+
+msgid "ACHIEVEMENTS_TAB_AWARDS_STAGE"
+msgstr "優異服役勳章"
+
+msgid "ACHIEVEMENTS_TAB_STATISTICS"
+msgstr "統計"
+
+msgid "ACHIEVEMENTS_TOTAL"
+msgstr "總計"
+
+msgid "ACHIEVEMENTS_TOTAL_BATTLES"
+msgstr "戰鬥次數："
+
+msgid "ACHIEVEMENTS_WINS"
+msgstr "勝利次數："
+
+msgid "ACHIEVEMENTS_WINS_IN_GROUP"
+msgstr "助攻次數："
+
+msgid "ACHIEVEMENTS_WIN_MARKS"
+msgstr "毀傷標記"
+
+msgid "ACHIEVEMENTS_WIN_MARKS_DESC"
+msgstr "摧毀敵方目標"
+
+msgid "ACHIEVEMENTS_XP"
+msgstr "經驗"
+
+msgid "MEDAL_DESCRIPTION_1ST_CLASS"
+msgstr ""
+"授予在一場戰鬥中獲勝，並且在全隊中所獲經驗最多的玩家<br><br>僅可在標準戰鬥中"
+"獲得一次"
+
+msgid "MEDAL_DESCRIPTION_2ND_CLASS"
+msgstr ""
+"授予在一場戰鬥中獲勝，獲得經驗為全隊前5的玩家<br><br>僅可在標準戰鬥中獲得一次"
+
+msgid "MEDAL_DESCRIPTION_ABSOLUTE_CHAMPION"
+msgstr ""
+"授予在戰鬥中表現最出色的玩家，玩家需贏得這場戰鬥的勝利且在戰鬥結束時倖存"
+"<br><br>只可在人機對戰模式中獲得一次"
+
+msgid "MEDAL_DESCRIPTION_AIR_DEFENCE_PILOT"
+msgstr ""
+"授予擊落正在攻擊己方基地的敵方戰機的玩家，玩家需在敵機將基地摧毀前將其擊落"
+"<br><br>每架戰機只可在標準戰鬥中獲得一次"
+
+msgid "MEDAL_DESCRIPTION_AKAMATSU"
+msgstr ""
+"授予使用戰鬥機或多用途戰鬥機在一場戰鬥中擊落至少3架比自己高2級的敵機的玩家"
+"<br><br>只可在標準戰鬥中獲得"
+
+msgid "MEDAL_DESCRIPTION_AROUND_THE_WORLD"
+msgstr "授予至少在2幅不同地圖中進行戰鬥的玩家"
+
+msgid "MEDAL_DESCRIPTION_AS"
+msgstr "授予在一場戰鬥中至少擊落5架敵機的玩家<br><br>只可在標準戰鬥中獲得"
+
+msgid "MEDAL_DESCRIPTION_ASSAULT_TEST"
+msgstr ""
+"授予使用攻擊機在戰鬥中摧毀至少20分的敵方地面目標的玩家<br><br>只可在人機對戰"
+"模式中獲得一次"
+
+msgid "MEDAL_DESCRIPTION_ASSISTANT"
+msgstr "授予在一場戰鬥中助攻擊落3架敵機的玩家<br><br>只可在人機對戰中獲得一次"
+
+msgid "MEDAL_DESCRIPTION_BANSHEE"
+msgstr ""
+"授予在戰鬥中摧毀至少1個敵方地面目標的玩家，如果玩家在戰鬥中被擊落，將重新進行"
+"計算<br><br>只可在人機對戰中獲得"
+
+msgid "MEDAL_DESCRIPTION_BATTERED_BUT_NOT_BROKEN"
+msgstr ""
+"授予在一場戰鬥中戰機受到至少3次致命傷害但最終倖存的玩家<br><br>只可在標準戰鬥"
+"中獲得，且每架戰機只可獲得一次"
+
+msgid "MEDAL_DESCRIPTION_BEGELDINOV1"
+msgstr "授予在標準戰鬥中通過摧毀地面目標獲得150000點的玩家"
+
+msgid "MEDAL_DESCRIPTION_BEGELDINOV2"
+msgstr "授予在標準戰鬥中通過摧毀地面目標獲得15000點的玩家"
+
+msgid "MEDAL_DESCRIPTION_BEGELDINOV3"
+msgstr "授予在標準戰鬥中通過摧毀地面目標獲得1500點的玩家"
+
+msgid "MEDAL_DESCRIPTION_BEGELDINOV4"
+msgstr "授予在標準戰鬥中通過摧毀地面目標獲得150點的玩家"
+
+msgid "MEDAL_DESCRIPTION_BEWARE_OF_BOMBS"
+msgstr "授予使用炸彈擊落敵機的玩家<br><br>只可獲得一次"
+
+msgid "MEDAL_DESCRIPTION_BIRD_OF_PREY"
+msgstr ""
+"授予在一場戰鬥中擊落至少2架敵方重型戰鬥機的玩家，玩家需贏得這場戰鬥的勝利且在"
+"戰鬥結束時倖存<br><br>只可在標準戰鬥中獲得，且每架戰機只可獲得一次"
+
+msgid "MEDAL_DESCRIPTION_BLITZ"
+msgstr ""
+"授予在一場戰鬥中連續擊落至少2架敵機的玩家，在擊落這兩架敵機的期間內不能有其他"
+"敵機或友機被擊落<br><br>只可在標準戰鬥中獲得"
+
+msgid "MEDAL_DESCRIPTION_BOMBARDIER"
+msgstr "授予使用炸彈摧毀敵方戰機的玩家<br><br>每架戰機只可在標準戰鬥中獲得一次"
+
+msgid "MEDAL_DESCRIPTION_BOMBING"
+msgstr "授予使用炸彈摧毀敵方地面目標的玩家<br><br>只可獲得一次"
+
+msgid "MEDAL_DESCRIPTION_BONG1"
+msgstr "使用重型戰鬥機累計獲得300個“破壞者”勳章"
+
+msgid "MEDAL_DESCRIPTION_BONG2"
+msgstr "使用重型戰鬥機累計獲得30個“破壞者”勳章"
+
+msgid "MEDAL_DESCRIPTION_BONG3"
+msgstr "使用重型戰鬥機累計獲得3個“破壞者”勳章"
+
+msgid "MEDAL_DESCRIPTION_BREAKTHROUGH"
+msgstr ""
+"授予在戰鬥中摧毀敵方3座防空砲或配有防空砲的地面目標<br><br>只可在標準戰鬥中獲"
+"得，且每架戰機只可獲得一次"
+
+msgid "MEDAL_DESCRIPTION_CADET"
+msgstr "完成訓練任務"
+
+msgid "MEDAL_DESCRIPTION_CADET_1"
+msgstr "以優異表現完成“飛行訓練”系列任務"
+
+msgid "MEDAL_DESCRIPTION_CADET_2"
+msgstr "以良好表現完成“飛行訓練”系列任務"
+
+msgid "MEDAL_DESCRIPTION_CADET_3"
+msgstr "以較好表現完成“飛行訓練”系列任務"
+
+msgid "MEDAL_DESCRIPTION_CADET_4"
+msgstr "以熟練表現完成“飛行訓練”系列任務"
+
+msgid "MEDAL_DESCRIPTION_CADET_5"
+msgstr "以正常表現完成“飛行訓練”系列任務"
+
+msgid "MEDAL_DESCRIPTION_CAREFUL"
+msgstr ""
+"授予一場戰鬥中在發動機和機槍/航砲不出現過熱的情況下擊落3架敵機的玩家<br><br>"
+"只可在標準戰鬥中獲得，且每架戰機只可獲得一次"
+
+msgid "MEDAL_DESCRIPTION_CHAMPION_DESTROYER"
+msgstr ""
+"授予在一場戰鬥中摧毀敵方地面目標數量最多的玩家，玩家需贏得這場戰鬥的勝利且在"
+"戰鬥結束時倖存<br><br>只可在人機對戰模式中獲得一次"
+
+msgid "MEDAL_DESCRIPTION_CLEANER"
+msgstr ""
+"授予摧毀至少5架敵機和至少75分的地面目標的組隊玩家<br><br>此編隊的參加者需全部"
+"生還直至達成條件<br><br>只可在標準戰鬥中獲得"
+
+msgid "MEDAL_DESCRIPTION_CLEANUP"
+msgstr ""
+"授予擊落最後一架敵機並在戰鬥結束時倖存的玩家<br><br>只可在人機對戰模式中獲得"
+"一次"
+
+msgid "MEDAL_DESCRIPTION_CLEAR_SKY"
+msgstr ""
+"授予在一場或多場戰鬥中擊落3架敵方戰鬥機或多用途戰鬥機的玩家，玩家需倖存，直到"
+"完成目標為止<br><br>只可在人機對戰模式中獲得一次"
+
+msgid "MEDAL_DESCRIPTION_CLIPPING_THE_WINGS"
+msgstr "授予通過摧毀敵機機翼擊落敵機的玩家<br><br>只可獲得一次"
+
+msgid "MEDAL_DESCRIPTION_CLOSTERMAN"
+msgstr ""
+"授予在一場戰鬥中擊落7架敵機並且摧毀15分的敵方地面目標的玩家<br><br>只可在標準"
+"戰鬥中獲得"
+
+msgid "MEDAL_DESCRIPTION_COLLECTOR"
+msgstr "授予使用至少2架不同等級的戰機進行戰鬥的玩家"
+
+msgid "MEDAL_DESCRIPTION_CROSSFIRE"
+msgstr "授予在對敵機造成嚴重損害後敵機被其他隊友擊落的玩家<br><br>只可獲得一次"
+
+msgid "MEDAL_DESCRIPTION_CRUCIALCONTRIBUTION"
+msgstr ""
+"頒發給在一場戰鬥中至少摧毀12架敵機的組隊玩家<br><br>此編隊的參加者需全部生還"
+"直至達成條件<br><br>只可在標準戰鬥中獲得"
+
+msgid "MEDAL_DESCRIPTION_DEAD_ZONE"
+msgstr ""
+"授予擊落敵方帶有尾砲的戰機並且敵機尾砲未能對其造成傷害的玩家<br><br>只可在標"
+"準戰鬥中獲得"
+
+msgid "MEDAL_DESCRIPTION_DESTROYER"
+msgstr ""
+"授予在一場戰鬥中摧毀至少4架敵機和至少15分的地面目標的玩家<br><br>玩家可使用任"
+"何類型的戰機完成此任務<br><br>只可在標準戰鬥中獲得"
+
+msgid "MEDAL_DESCRIPTION_DEVASTATOR"
+msgstr ""
+"授予使用一枚炸彈摧毀2座敵方地面目標的玩家<br><br>只可在標準戰鬥中獲得，且每架"
+"戰機只可獲得一次"
+
+msgid "MEDAL_DESCRIPTION_DOMINATOR"
+msgstr ""
+"授予在一場戰鬥中擊落至少1架戰鬥機或多用途戰鬥機、1架重型戰鬥機和1架攻擊機的玩"
+"家<br><br>只可在標準戰鬥中獲得，且每架戰機只可獲得一次"
+
+msgid "MEDAL_DESCRIPTION_EXPERIENCED_HUNTER"
+msgstr "授予完成\"空戰專家\"任務的玩家"
+
+msgid "MEDAL_DESCRIPTION_FALCON"
+msgstr "授予使用俯衝攻擊擊落敵機的玩家<br><br>只可獲得一次"
+
+msgid "MEDAL_DESCRIPTION_FALCONRY"
+msgstr ""
+"授予在一場戰鬥中至少擊落2架敵方戰鬥機或多用途戰鬥機的玩家，玩家需贏得這場戰鬥"
+"的勝利且在戰鬥結束時倖存<br><br>只可在標準戰鬥中獲得，且每架戰機只可獲得一次"
+
+msgid "MEDAL_DESCRIPTION_FIGHTER_TEST"
+msgstr ""
+"授予使用戰鬥機或多用途戰鬥機在一場戰鬥中擊落2架敵機的玩家<br><br>只可在人機對"
+"戰模式中獲得一次"
+
+msgid "MEDAL_DESCRIPTION_FIRESTARTER"
+msgstr "授予引燃敵方地面目標從而造成破壞的玩家<br><br>只可獲得一次"
+
+msgid "MEDAL_DESCRIPTION_FIRE_BILLOW"
+msgstr ""
+"授予在一場或多場戰鬥中累積摧毀至少50分的地面目標的玩家.如果戰機被擊毀將停止累"
+"積並重新進行計算<br><br>只可在標準戰鬥中獲得"
+
+msgid "MEDAL_DESCRIPTION_FIRE_BREATH"
+msgstr ""
+"授予在一場戰鬥中將2座地面目標點燃並摧毀的玩家<br><br>只可在標準戰鬥中獲得，且"
+"每架戰機只可獲得一次"
+
+msgid "MEDAL_DESCRIPTION_FIRST_BLOOD"
+msgstr ""
+"授予在戰鬥中率先擊落敵機的玩家，如果己方隊友或AI率先擊落敵機將重新進行計算"
+"<br><br>只可在人機對戰模式中獲得"
+
+msgid "MEDAL_DESCRIPTION_FIRST_IN_TEAM"
+msgstr ""
+"授予隊伍中擊落敵機數量最多的玩家，如果多個玩家擊墜數相同將均可獲得，如果玩家"
+"的戰機被擊落或該場戰鬥失敗將重新開始計算<br><br>只可在人機對戰中獲得"
+
+msgid "MEDAL_DESCRIPTION_FLAMING"
+msgstr ""
+"授予在自身戰機起火的的情況下擊落敵機的玩家<br><br>只可在標準戰鬥中獲得，且每"
+"架戰機只可獲得一次"
+
+msgid "MEDAL_DESCRIPTION_FLGHT_LEADER_1"
+msgstr "以優異表現完成“飛行編隊”系列任務"
+
+msgid "MEDAL_DESCRIPTION_FLGHT_LEADER_2"
+msgstr "以良好表現完成“飛行編隊”系列任務"
+
+msgid "MEDAL_DESCRIPTION_FLGHT_LEADER_3"
+msgstr "以較好表現完成“飛行編隊”系列任務"
+
+msgid "MEDAL_DESCRIPTION_FLGHT_LEADER_4"
+msgstr "以熟練表現完成“飛行編隊”系列任務"
+
+msgid "MEDAL_DESCRIPTION_FLGHT_LEADER_5"
+msgstr "以正常表現完成“飛行編隊”系列任務"
+
+msgid "MEDAL_DESCRIPTION_FLIGHT_DRESSING"
+msgstr "授予使用急救繃帶包或急救箱治療受傷飛行員的玩家<br><br>只可獲得一次"
+
+msgid "MEDAL_DESCRIPTION_FLIGHT_REPAIRS"
+msgstr "授予重新啟動受損引擎的玩家<br><br>只可獲得一次"
+
+msgid "MEDAL_DESCRIPTION_FLY_SAUCER"
+msgstr "授予2014愚人節活動駕駛斯雷普尼爾參與至少1場戰鬥的玩家"
+
+msgid "MEDAL_DESCRIPTION_FRONTLINE_1"
+msgstr "以優異表現完成“奪命的天空”系列任務"
+
+msgid "MEDAL_DESCRIPTION_FRONTLINE_2"
+msgstr "以良好表現完成“奪命的天空”系列任務"
+
+msgid "MEDAL_DESCRIPTION_FRONTLINE_3"
+msgstr "以較好表現完成“奪命的天空”系列任務"
+
+msgid "MEDAL_DESCRIPTION_FRONTLINE_4"
+msgstr "以熟練表現完成“奪命的天空”系列任務"
+
+msgid "MEDAL_DESCRIPTION_FRONTLINE_5"
+msgstr "以正常表現完成“奪命的天空”系列任務"
+
+msgid "MEDAL_DESCRIPTION_FUTURE_ACE"
+msgstr ""
+"授予在一場戰鬥中擊落3架敵機的玩家，玩家在戰鬥結束時必須倖存<br><br>只可在人機"
+"對戰中獲得一次"
+
+msgid "MEDAL_DESCRIPTION_GALLAND1"
+msgstr "使用戰鬥機或多用途戰鬥機累計獲得300個“王牌”勳章"
+
+msgid "MEDAL_DESCRIPTION_GALLAND2"
+msgstr "使用戰鬥機或多用途戰鬥機累計獲得30個“王牌”勳章"
+
+msgid "MEDAL_DESCRIPTION_GALLAND3"
+msgstr "使用戰鬥機或多用途戰鬥機累計獲得3個“王牌”勳章"
+
+msgid "MEDAL_DESCRIPTION_GOLIAPHS_NEMESIS"
+msgstr ""
+"授予在一場或多場戰鬥中擊落3架敵方重型戰鬥機的玩家，玩家需倖存，直到擊落3架重"
+"型戰鬥機為止<br><br>只可在人機對戰模式中獲得一次"
+
+msgid "MEDAL_DESCRIPTION_GOROVETS"
+msgstr "授予在一場戰鬥中至少摧毀9架敵方戰機的玩家<br><br>只可在標準戰鬥中獲得"
+
+msgid "MEDAL_DESCRIPTION_GOTCHA"
+msgstr "授予使用機槍或機砲擊落敵機的玩家<br><br>只可獲得一次"
+
+msgid "MEDAL_DESCRIPTION_GOT_TEN"
+msgstr ""
+"授予通過擊落敵機獲得2枚擊落標誌的玩家<br><br>只可在標準戰鬥中獲得，且每架戰機"
+"只可獲得一次"
+
+msgid "MEDAL_DESCRIPTION_GRAF1"
+msgstr "授予在標準戰鬥中擊落10000架敵機的玩家"
+
+msgid "MEDAL_DESCRIPTION_GRAF2"
+msgstr "授予在標準戰鬥中擊落1000架敵機的玩家"
+
+msgid "MEDAL_DESCRIPTION_GRAF3"
+msgstr "授予在標準戰鬥中擊落100架敵機的玩家"
+
+msgid "MEDAL_DESCRIPTION_GRAF4"
+msgstr "授予在標準戰鬥中擊落10架敵機的玩家"
+
+msgid "MEDAL_DESCRIPTION_GROUND_DEFENDER"
+msgstr ""
+"授予在一場或多場戰鬥中擊落3架敵方攻擊機的玩家，玩家需倖存，直到擊落3架攻擊機"
+"為止<br><br>只可在人機對戰模式中獲得一次"
+
+msgid "MEDAL_DESCRIPTION_GROUND_POUNDER"
+msgstr ""
+"授予在一場或多場戰鬥中累計對敵方地面目標造成10000點傷害的玩家<br><br>只可獲得"
+"一次"
+
+msgid "MEDAL_DESCRIPTION_HABREZKI"
+msgstr ""
+"授予在一場戰鬥中擊落9架敵機並且摧毀15個敵方地面目標的玩家<br><br>只可在標準戰"
+"鬥中獲得"
+
+msgid "MEDAL_DESCRIPTION_HEAVYWEIGHT"
+msgstr "授予摧毀敵方重型戰鬥機的玩家<br><br>只可獲得一次"
+
+msgid "MEDAL_DESCRIPTION_HEAVY_FIGHTER_1"
+msgstr "授予使用一架重型戰鬥機在個人任務中取得最高成就的玩家"
+
+msgid "MEDAL_DESCRIPTION_HEAVY_HITTER"
+msgstr ""
+"授予在一場或多長戰鬥中累計對敵機造成1000點傷害的玩家<br><br>只可獲得一次"
+
+msgid "MEDAL_DESCRIPTION_HEAVY_TEST"
+msgstr ""
+"授予在一場戰鬥中使用重型戰鬥機至少摧毀1架敵機和至少10分地面目標的玩家<br><br>"
+"只可在人機對戰模式中獲得一次"
+
+msgid "MEDAL_DESCRIPTION_HIDE_N_SEEK"
+msgstr "授予在被敵人發現後利用地形成功躲避敵人的玩家<br><br>只可獲得一次"
+
+msgid "MEDAL_DESCRIPTION_HIGH_START"
+msgstr "授予首次登入後一個月內參與至少50次戰役的玩家。"
+
+msgid "MEDAL_DESCRIPTION_HOSTILE_SKIES"
+msgstr ""
+"授予受到敵方地面砲火攻擊後成功脫離敵方防空火力範圍的玩家<br><br>只可獲得一次"
+
+msgid "MEDAL_DESCRIPTION_HOT_ENGINES"
+msgstr ""
+"授予戰機發動機在經過長時間加力而過熱後重新完全冷卻的玩家<br><br>只可獲得一次"
+
+msgid "MEDAL_DESCRIPTION_INTERCEPTOR"
+msgstr ""
+"授予在一場戰鬥中至少擊落2架敵方攻擊機的玩家，玩家需贏得這場戰鬥的勝利且在戰鬥"
+"結束時倖存<br><br>只可在標準戰鬥中獲得，且每架戰機只可獲得一次"
+
+msgid "MEDAL_DESCRIPTION_INVULNERABLE"
+msgstr ""
+"授予在一場戰鬥中以毫髮無傷的狀態擊落2架敵機，玩家需贏得這場戰鬥的勝利且在戰鬥"
+"結束時倖存<br><br>只可在標準戰鬥中獲得"
+
+msgid "MEDAL_DESCRIPTION_IRREPLACEABLE"
+msgstr "授予使用3架不同戰機獲得“支配者”勳章的玩家"
+
+msgid "MEDAL_DESCRIPTION_JACK_OF_ALL_TRADES"
+msgstr "授予使用至少2種不同類型戰機參與戰鬥的玩家"
+
+msgid "MEDAL_DESCRIPTION_KEEP_CLEAR"
+msgstr ""
+"授予使用一枚炸彈同時摧毀1架戰機和1座地面目標的玩家<br><br>只可在標準戰鬥中獲"
+"得，且每架戰機只可獲得一次"
+
+msgid "MEDAL_DESCRIPTION_KILL_SAUCER"
+msgstr "授予2014年愚人節期間擊落敵方斯雷普尼爾的玩家"
+
+msgid "MEDAL_DESCRIPTION_LAST_BREATH"
+msgstr ""
+"授予在損失90%生命值的情況下至少擊落1架敵方戰機玩家，玩家需贏得這場戰鬥的勝利"
+"且在戰鬥結束時倖存<br><br>只可在標準戰鬥中獲得"
+
+msgid "MEDAL_DESCRIPTION_LAST_BULLET"
+msgstr "授予在武器過熱的情況下使用機槍/機砲擊落敵機的玩家<br><br>只可獲得一次"
+
+msgid "MEDAL_DESCRIPTION_LAST_HERO"
+msgstr ""
+"授予在一場戰鬥中擊落至少3架敵機並且在戰鬥結束時是唯一的倖存者的玩家，玩家需贏"
+"得這場戰鬥的勝利<br><br>只可在標準戰鬥中獲得"
+
+msgid "MEDAL_DESCRIPTION_LAST_MAN_FLYING"
+msgstr ""
+"授予在一場戰鬥中擊落至少1架敵機並且在戰鬥結束時是唯一的倖存者的玩家，玩家需贏"
+"得這場戰鬥的勝利<br><br>只可在標準戰鬥中獲得"
+
+msgid "MEDAL_DESCRIPTION_LEADER"
+msgstr ""
+"授予隊伍中擊落敵機數量最多的玩家，玩家需贏得這場戰鬥的勝利且在戰鬥結束時倖存"
+"<br><br>只可在人機對戰模式中獲得一次"
+
+msgid "MEDAL_DESCRIPTION_LEGENDARY_ACE"
+msgstr "授予使用一架任意類型戰機取得成就的玩家"
+
+msgid "MEDAL_DESCRIPTION_LEGENDARY_ASSAULT"
+msgstr "頒發給獲得1000次“掃地手”勳章的攻擊機。"
+
+msgid "MEDAL_DESCRIPTION_LEGENDARY_ASSAULT_1"
+msgstr "授予使用一架攻擊機在個人任務中取得最高成就的玩家"
+
+msgid "MEDAL_DESCRIPTION_LEGENDARY_FIGHTER"
+msgstr "頒發給獲得1000次“王牌”勳章的戰鬥機"
+
+msgid "MEDAL_DESCRIPTION_LEGENDARY_FIGHTER_1"
+msgstr "授予使用一架戰鬥機在個人任務中取得最高成就的玩家"
+
+msgid "MEDAL_DESCRIPTION_LEGENDARY_HEAVY"
+msgstr "頒發給獲得1000次“破壞者”勳章的重型戰鬥機。"
+
+msgid "MEDAL_DESCRIPTION_LEGENDARY_NAVY"
+msgstr "使用多用途戰鬥機累計獲得1000次“破壞者”勳章"
+
+msgid "MEDAL_DESCRIPTION_LEGENDARY_NAVY_1"
+msgstr "授予使用一架多用途戰鬥機在個人任務中取得最高成就的玩家"
+
+msgid "MEDAL_DESCRIPTION_LIGHTWEIGHT"
+msgstr "授予擊落敵方戰鬥機或多用途戰鬥機的玩家<br><br>只可獲得一次"
+
+msgid "MEDAL_DESCRIPTION_LINDBERGH"
+msgstr "榮譽勳章"
+
+msgid "MEDAL_DESCRIPTION_MCGUIRE"
+msgstr ""
+"授予使用重型戰鬥機在一場戰鬥中擊落至少3架比自己高2級的敵機的玩家<br><br>只可"
+"在標準戰鬥中獲得"
+
+msgid "MEDAL_DESCRIPTION_MEANINGFUL_CONTRIBUTION"
+msgstr ""
+"授予擊落至少6架敵機的組隊玩家<br><br>此編隊的參加者需全部生還直至達成條件"
+"<br><br>只可在標準戰鬥中獲得"
+
+msgid "MEDAL_DESCRIPTION_MEYER1"
+msgstr "授予使用攻擊機獲得300次\"掃地手\"勳章的玩家"
+
+msgid "MEDAL_DESCRIPTION_MEYER2"
+msgstr "授予使用攻擊機獲得30次\"掃地手\"勳章的玩家"
+
+msgid "MEDAL_DESCRIPTION_MEYER3"
+msgstr "授予使用攻擊機獲得3次\"掃地手\"勳章的玩家"
+
+msgid "MEDAL_DESCRIPTION_NIMBLE"
+msgstr "授予利用機動動作造成敵機墜毀的玩家<br><br>只可在標準戰鬥中獲得"
+
+msgid "MEDAL_DESCRIPTION_NO_STONE_UNTURNED"
+msgstr ""
+"授予在戰鬥後中摧毀最後一座敵方地面目標的玩家<br><br>只可在人機對戰模式中獲得"
+"一次"
+
+msgid "MEDAL_DESCRIPTION_NY_FROST"
+msgstr "授予2014-2015季度的節日期間在冬季地貌的地圖中贏得至少5場勝利的玩家"
+
+msgid "MEDAL_DESCRIPTION_NY_LUCK"
+msgstr "在2014-2015節日賽季期間授予完成5項非每日任務的玩家。"
+
+msgid "MEDAL_DESCRIPTION_NY_MARKSMAN"
+msgstr ""
+"授予2014-2015假日活動中在多場戰鬥中累計用雪球擊中50個不同敵人的飛碟的玩家"
+
+msgid "MEDAL_DESCRIPTION_NY_SET"
+msgstr "授予在2014-2015節日期間完成10次節日每日任務的玩家"
+
+msgid "MEDAL_DESCRIPTION_NY_SHOOTER"
+msgstr ""
+"授予在2014-2015節日期間一場或多場戰鬥中累計用雪球擊中10個不同敵人的飛碟的玩家"
+
+msgid "MEDAL_DESCRIPTION_NY_SNOWBALL"
+msgstr "授予在2014-2015節日期間用雪球擊中敵人的飛碟的玩家"
+
+msgid "MEDAL_DESCRIPTION_NY_WATCH"
+msgstr "授予在2014-2015節日期間節日期間內累計10天有獲得戰鬥勝利的玩家"
+
+msgid "MEDAL_DESCRIPTION_PERSISTENT"
+msgstr ""
+"授予在每場戰鬥中至少擊落1架敵機的玩家，如果玩家在戰鬥中未能擊落敵機或自身戰機"
+"被擊落將重新進行計算<br><br>只可在標準戰鬥中獲得"
+
+msgid "MEDAL_DESCRIPTION_PLANE_TESTER"
+msgstr "授予使用至少2個不同國家戰機參與戰鬥的玩家"
+
+msgid "MEDAL_DESCRIPTION_PULL"
+msgstr "授予安全完成大角度俯衝動作的玩家<br><br>只可獲得一次"
+
+msgid "MEDAL_DESCRIPTION_PUNISHER"
+msgstr ""
+"授予使用一枚炸彈擊毀2架敵機的玩家<br><br>只可在標準戰鬥中獲得，且每架戰機只可"
+"獲得一次"
+
+msgid "MEDAL_DESCRIPTION_PYROMANIAC"
+msgstr "授予使用3架不同戰機獲得“凌空之火”勳章的玩家"
+
+msgid "MEDAL_DESCRIPTION_QUARTERMASTER_1"
+msgstr "以優異表現完成“整體作戰”系列任務"
+
+msgid "MEDAL_DESCRIPTION_QUARTERMASTER_2"
+msgstr "以良好表現完成“整體作戰”系列任務"
+
+msgid "MEDAL_DESCRIPTION_QUARTERMASTER_3"
+msgstr "以較好表現完成“整體作戰”系列任務"
+
+msgid "MEDAL_DESCRIPTION_QUARTERMASTER_4"
+msgstr "以熟練表現完成“整體作戰”系列任務"
+
+msgid "MEDAL_DESCRIPTION_QUARTERMASTER_5"
+msgstr "以正常表現完成“整體作戰”系列任務"
+
+msgid "MEDAL_DESCRIPTION_RAIDER"
+msgstr ""
+"授予摧毀敵方基地的玩家，玩家在戰鬥結束時必須倖存<br><br>只可在標準戰鬥中獲"
+"得，且每架戰機只可獲得一次"
+
+msgid "MEDAL_DESCRIPTION_REAPER"
+msgstr "授予使用3架不同戰機獲得“死神之吻”勳章"
+
+msgid "MEDAL_DESCRIPTION_REAR_GUARD"
+msgstr "授予使用尾砲擊落敵機的玩家<br><br>只可在標準戰鬥中獲得"
+
+msgid "MEDAL_DESCRIPTION_REAR_GUNNER"
+msgstr "授予使用尾砲嚴重擊傷敵機的玩家<br><br>只可在標準戰鬥中獲得"
+
+msgid "MEDAL_DESCRIPTION_RESILIENT"
+msgstr ""
+"授予受到至少5架敵機攻擊但最終戰鬥結束時倖存的玩家<br><br>只可在標準戰鬥中獲得"
+
+msgid "MEDAL_DESCRIPTION_RIDDLED"
+msgstr ""
+"授予在一場戰鬥中3次助攻摧毀地面目標，玩家需贏得這場戰鬥的勝利且在戰鬥結束時幸"
+"存<br><br>只可在標準戰鬥中獲得，且每架戰機只可獲得一次"
+
+msgid "MEDAL_DESCRIPTION_ROAD_TO_THE_SKY"
+msgstr "授予完成“突襲地面目標”任務的玩家"
+
+msgid "MEDAL_DESCRIPTION_ROCKET_SHOOTER"
+msgstr "在一場戰鬥中使用火箭彈擊落敵機<br><br>只可在標準戰鬥中獲得"
+
+msgid "MEDAL_DESCRIPTION_ROCKET_STRIKE"
+msgstr "授予使用火箭彈摧毀敵方地面目標的玩家<br><br>只可獲得一次"
+
+msgid "MEDAL_DESCRIPTION_RUDORFFER"
+msgstr "授予在一場戰鬥中至少摧毀13架敵方戰機的玩家<br><br>只可在標準戰鬥中獲得"
+
+msgid "MEDAL_DESCRIPTION_SCAN_THE_SKIES"
+msgstr "授予在戰鬥中發現敵機的玩家<br><br>只可獲得一次"
+
+msgid "MEDAL_DESCRIPTION_SCORCHED_EARTH"
+msgstr ""
+"授予在一場戰鬥中摧毀至少25分的地面目標並且在戰鬥結束時倖存的玩家<br><br>只可"
+"在人機對戰模式中獲得一次"
+
+msgid "MEDAL_DESCRIPTION_SCYTHE_OF_DEATH"
+msgstr ""
+"授予在無隊友協助的情況下至少連續擊落2架敵機的玩家，當自身戰機被擊落後將重新進"
+"行計算<br><br>只可在人機對戰中獲得"
+
+msgid "MEDAL_DESCRIPTION_SECRET_SANTA"
+msgstr "獎勵授予所有參加了2015-2016年神祕聖誕老人活動的玩家。"
+
+msgid "MEDAL_DESCRIPTION_SECRET_SANTA_1"
+msgstr "在2015-2016年的神祕聖誕老人活動中至少傳送一個禮物給隨機戰鬥的玩家。"
+
+msgid "MEDAL_DESCRIPTION_SEVERSKY1"
+msgstr "頒發給伺服器中第一個研發併購買10級戰機的玩家"
+
+msgid "MEDAL_DESCRIPTION_SEVERSKY2"
+msgstr ""
+"頒發給在伺服器第一個獲得“謝偉爾斯基 一級”勳章2小時內研發併購買10級戰機的玩家"
+
+msgid "MEDAL_DESCRIPTION_SEVERSKY3"
+msgstr "頒發給在伺服器頂級戰機特殊優惠期間研發和購買10級戰機的玩家"
+
+msgid "MEDAL_DESCRIPTION_SIKORSKY1"
+msgstr "頒發給參與戰機世界首測階段的玩家"
+
+msgid "MEDAL_DESCRIPTION_SIKORSKY2"
+msgstr "頒發給參與戰機世界二測階段的玩家"
+
+msgid "MEDAL_DESCRIPTION_SIKORSKY3"
+msgstr "頒發給在戰機世界不刪檔期間至少參加過100場戰鬥的玩家"
+
+msgid "MEDAL_DESCRIPTION_SIKORSKY4"
+msgstr "頒發給在戰機世界公測期間至少參加過100場戰鬥的玩家"
+
+msgid "MEDAL_DESCRIPTION_SKILLED_PILOT"
+msgstr ""
+"授予在戰機失控後重新獲得控制並使戰機恢復正常飛行的玩家<br><br>只可獲得一次"
+
+msgid "MEDAL_DESCRIPTION_SKY_FIRE"
+msgstr ""
+"授予對敵機進行攻擊使其起火併最終擊落的玩家<br><br>只可在標準戰鬥中獲得，且每"
+"架戰機只可獲得一次"
+
+msgid "MEDAL_DESCRIPTION_SKY_N_GROUND"
+msgstr ""
+"授予在一場戰鬥中至少擊落3架敵機並摧毀至少25分的地面目標的玩家，玩家在戰鬥結束"
+"時必須倖存<br><br>只可在人機對戰中獲得一次"
+
+msgid "MEDAL_DESCRIPTION_SKY_SCOURGE"
+msgstr ""
+"授予在一場或多場戰鬥中累積擊落至少3架敵機的玩家.如果玩家戰機被擊毀將停止累積"
+"並重新進行計算<br><br>只可在標準戰鬥中獲得"
+
+msgid "MEDAL_DESCRIPTION_SMOKING_BARRELS"
+msgstr "授予使用完全冷卻狀態的武器進行射擊直至過熱的玩家<br><br>只可獲得一次"
+
+msgid "MEDAL_DESCRIPTION_SPECIAL_AWARD"
+msgstr "授予在官方所舉行的《戰機世界》比賽中表現出色的玩家"
+
+msgid "MEDAL_DESCRIPTION_SPRING_VETERAN"
+msgstr "授予參加2016春季活動的玩家"
+
+msgid "MEDAL_DESCRIPTION_SQUALL_OF_STEEL"
+msgstr ""
+"授予在一場戰鬥中5次助攻摧毀地面目標的玩家，玩家需贏得這場戰鬥的勝利<br><br>只"
+"可在標準戰鬥中獲得，且每架戰機只可獲得一次"
+
+msgid "MEDAL_DESCRIPTION_STABLE_RESULT"
+msgstr ""
+"授予在一場戰鬥中擊落至少3架敵機的玩家，如果自身戰機被擊落將重新進行計算"
+"<br><br>只可在人機對戰中獲得"
+
+msgid "MEDAL_DESCRIPTION_STAIRS_TO_THE_SKY"
+msgstr "授予完成“團隊空戰”任務的玩家"
+
+msgid "MEDAL_DESCRIPTION_STAIRWAY_TO_THE_SKY"
+msgstr "授予完成“空中格鬥”任務的玩家"
+
+msgid "MEDAL_DESCRIPTION_STEP_TO_THE_SKY"
+msgstr "授予完成“飛行訓練”任務的玩家"
+
+msgid "MEDAL_DESCRIPTION_STORMBRINGER"
+msgstr "授予使用3種不同類型戰機獲得速射手勳章的玩家"
+
+msgid "MEDAL_DESCRIPTION_STRIKE_TEAM"
+msgstr ""
+"授予摧毀至少4架敵機和至少60分的地面目標的組隊玩家<br><br>此編隊的參加者需全部"
+"生還直至達成條件<br><br>只可在標準戰鬥中獲得"
+
+msgid "MEDAL_DESCRIPTION_STRONG_TEAM"
+msgstr ""
+"授予摧毀至少3架敵機和至少40分的地面目標的組隊玩家<br><br>此編隊的參加者需全部"
+"生還直至達成條件<br><br>只可在標準戰鬥中獲得"
+
+msgid "MEDAL_DESCRIPTION_SUCCESSFUL_RAID"
+msgstr ""
+"授予通過摧毀敵方地面目標獲得2枚摧毀標誌的玩家<br><br>只可在標準戰鬥中獲得，且"
+"每架戰機只可獲得一次"
+
+msgid "MEDAL_DESCRIPTION_SUDDEN_DEATH"
+msgstr ""
+"授予使用機槍/機砲在3秒內對敵機造成相對於其生命值100%的傷害的玩家<br><br>只可"
+"在標準戰鬥中獲得"
+
+msgid "MEDAL_DESCRIPTION_SUMMER_VETERAN"
+msgstr "授予積極參與遊戲內2015秋季活動的玩家"
+
+msgid "MEDAL_DESCRIPTION_SUPERHEAVY"
+msgstr "授予擊落敵方攻擊機的玩家<br><br>只可獲得一次"
+
+msgid "MEDAL_DESCRIPTION_SUPERTEST_VETERAN"
+msgstr "授予參加了9個月超級測試的玩家"
+
+msgid "MEDAL_DESCRIPTION_SURE_COVER"
+msgstr ""
+"授予在一場戰鬥中助攻擊落5架敵機的玩家，玩家需贏得這場戰鬥的勝利且在戰鬥結束時"
+"倖存<br><br>只可在標準戰鬥中獲得，且每架戰機只可獲得一次"
+
+msgid "MEDAL_DESCRIPTION_SURVIVOR"
+msgstr ""
+"授予在戰機未被擊落的情況下連續獲得至少2場戰鬥勝利的玩家<br><br>只可在標準戰鬥"
+"中獲得"
+
+msgid "MEDAL_DESCRIPTION_TAIL_BUSTER"
+msgstr "授予通過摧毀敵機機尾擊落敵機的玩家<br><br>只可獲得一次"
+
+msgid "MEDAL_DESCRIPTION_TESTER_1"
+msgstr "授予參與過10次遊戲更新的玩家"
+
+msgid "MEDAL_DESCRIPTION_TESTER_10"
+msgstr "授予參與過1次遊戲更新的玩家"
+
+msgid "MEDAL_DESCRIPTION_TESTER_2"
+msgstr "授予參與過9次遊戲更新的玩家"
+
+msgid "MEDAL_DESCRIPTION_TESTER_3"
+msgstr "授予參與過8次遊戲更新的玩家"
+
+msgid "MEDAL_DESCRIPTION_TESTER_4"
+msgstr "授予參與過7次遊戲更新的玩家"
+
+msgid "MEDAL_DESCRIPTION_TESTER_5"
+msgstr "授予參與過6次遊戲更新的玩家"
+
+msgid "MEDAL_DESCRIPTION_TESTER_6"
+msgstr "授予參與過5次遊戲更新的玩家"
+
+msgid "MEDAL_DESCRIPTION_TESTER_7"
+msgstr "授予參與過4次遊戲更新的玩家"
+
+msgid "MEDAL_DESCRIPTION_TESTER_8"
+msgstr "授予參與過3次遊戲更新的玩家"
+
+msgid "MEDAL_DESCRIPTION_TESTER_9"
+msgstr "授予參與過2次遊戲更新的玩家"
+
+msgid "MEDAL_DESCRIPTION_THRIFTY_BOMBARDIER"
+msgstr "授予使用一枚炸彈破壞2座敵方地面目標的玩家<br><br>只可獲得一次"
+
+msgid "MEDAL_DESCRIPTION_THRIFTY_ROCKETEER"
+msgstr "授予使用一枚火箭彈破壞2座敵方地面目標的玩家<br><br>只可獲得一次"
+
+msgid "MEDAL_DESCRIPTION_THUNDER"
+msgstr ""
+"授予在一場戰鬥中摧毀地面目標獲得至少75分的玩家<br><br>玩家可使用任何類型的戰"
+"機<br><br>只可在標準戰鬥中獲得"
+
+msgid "MEDAL_DESCRIPTION_TOP_DOWN_DIVER"
+msgstr "授予達到戰機最大俯衝速度的玩家<br><br>只可獲得一次"
+
+msgid "MEDAL_DESCRIPTION_TOURNAMENT_1_PLACE"
+msgstr "授予在官方所舉行的《戰機世界》比賽中排名第一的團隊的玩家"
+
+msgid "MEDAL_DESCRIPTION_TOURNAMENT_2_PLACE"
+msgstr "授予在官方所舉行的《戰機世界》比賽中排名第二的團隊的玩家"
+
+msgid "MEDAL_DESCRIPTION_TOURNAMENT_3_PLACE"
+msgstr "授予在官方所舉行的《戰機世界》比賽中排名第三的團隊的玩家"
+
+msgid "MEDAL_DESCRIPTION_TOURNAMENT_PLAYER"
+msgstr "授予在官方所舉行的《戰機世界》比賽中至少參與了一場戰鬥的玩家"
+
+msgid "MEDAL_DESCRIPTION_UNSTOPPABLE"
+msgstr ""
+"授予至少連續獲得3場戰鬥勝利的玩家，遭遇戰鬥失敗時將重新開始計算<br><br>只可在"
+"標準戰鬥中獲得"
+
+msgid "MEDAL_DESCRIPTION_UNTOUCHABLE"
+msgstr ""
+"授予至少擊落1架敵機並在一場或多場戰鬥中毫髮無傷的玩家，如果玩家的戰機受損將重"
+"新進行計算<br><br>只可在人機對戰中獲得"
+
+msgid "MEDAL_DESCRIPTION_VALUABLE_CONTRIBUTION"
+msgstr ""
+"授予在一場通過獲取制空權獲勝的戰鬥中創造至少1/3的優勢點數的玩家<br><br>只可在"
+"標準戰鬥中獲得"
+
+msgid "MEDAL_DESCRIPTION_VOLUNTEER"
+msgstr "獎勵給對遊戲貢獻大的評論和論壇版主，<br><br>只能獲得一次。"
+
+msgid "MEDAL_DESCRIPTION_WEIGHTY_CONTRIBUTION"
+msgstr ""
+"授予擊落至少9架敵機的組隊玩家<br><br>此編隊的參加者需全部生還直至達成條件"
+"<br><br>只可在標準戰鬥中獲得"
+
+msgid "MEDAL_DESCRIPTION_WINGED_FLAME"
+msgstr ""
+"授予在一場戰鬥中使3架敵機起火的玩家<br><br>只可在標準戰鬥中獲得，且每架戰機只"
+"可獲得一次"
+
+msgid "MEDAL_DESCRIPTION_WINGMAN"
+msgstr ""
+"授予在一場戰鬥中助攻擊落3架敵機的玩家，玩家需贏得這場戰鬥的勝利且在戰鬥結束時"
+"倖存<br><br>只可在標準戰鬥中獲得，且每架戰機只可獲得一次"
+
+msgid "MEDAL_DESCRIPTION_WINTER_VETERAN"
+msgstr "授予積極參與2015-2016冬季活動的玩家。"
+
+msgid "MEDAL_DESCRIPTION_YEFIMOV"
+msgstr ""
+"授予使用攻擊機在一場戰鬥中擊落至少3架比自己高兩級的敵機的玩家<br><br>只可在標"
+"準戰鬥中獲得"
+
+msgid "MEDAL_DESCRIPTION_ZVONAREV"
+msgstr "在一場戰鬥中使用火箭彈摧毀3架敵機<br><br>只可在標準戰鬥中獲得"
+
+msgid "MEDAL_EVENT_DESCRIPTION_1ST_CLASS"
+msgstr "在己方團隊中所獲經驗最多"
+
+msgid "MEDAL_EVENT_DESCRIPTION_2ND_CLASS"
+msgstr "在己方團隊中所獲經驗為前5名"
+
+msgid "MEDAL_EVENT_DESCRIPTION_ABSOLUTE_CHAMPION"
+msgstr "綜合表現最優"
+
+msgid "MEDAL_EVENT_DESCRIPTION_AIR_DEFENCE_PILOT"
+msgstr "擊落攻擊基地的敵機"
+
+msgid "MEDAL_EVENT_DESCRIPTION_AKAMATSU"
+msgstr "使用戰鬥機擊落3架敵機"
+
+msgid "MEDAL_EVENT_DESCRIPTION_AROUND_THE_WORLD"
+msgstr "在多幅地圖中進行戰鬥"
+
+msgid "MEDAL_EVENT_DESCRIPTION_AS"
+msgstr "在一場戰鬥中擊落5架敵機"
+
+msgid "MEDAL_EVENT_DESCRIPTION_ASSAULT_TEST"
+msgstr "摧毀20分敵方地面目標"
+
+msgid "MEDAL_EVENT_DESCRIPTION_ASSISTANT"
+msgstr "在一場戰鬥中助攻擊落3架敵機"
+
+msgid "MEDAL_EVENT_DESCRIPTION_BANSHEE"
+msgstr "摧毀敵方地面目標"
+
+msgid "MEDAL_EVENT_DESCRIPTION_BATTERED_BUT_NOT_BROKEN"
+msgstr "收到3次致命攻擊後仍然存活"
+
+msgid "MEDAL_EVENT_DESCRIPTION_BEGELDINOV1"
+msgstr "摧毀150000分的地面目標"
+
+msgid "MEDAL_EVENT_DESCRIPTION_BEGELDINOV2"
+msgstr "摧毀15000分的地面目標"
+
+msgid "MEDAL_EVENT_DESCRIPTION_BEGELDINOV3"
+msgstr "摧毀1500分的地面目標"
+
+msgid "MEDAL_EVENT_DESCRIPTION_BEGELDINOV4"
+msgstr "摧毀150分的地面目標"
+
+msgid "MEDAL_EVENT_DESCRIPTION_BEWARE_OF_BOMBS"
+msgstr "使用炸彈擊落敵機"
+
+msgid "MEDAL_EVENT_DESCRIPTION_BIRD_OF_PREY"
+msgstr "擊落2架重型戰鬥機"
+
+msgid "MEDAL_EVENT_DESCRIPTION_BLITZ"
+msgstr "連續擊落2架敵機"
+
+msgid "MEDAL_EVENT_DESCRIPTION_BOMBARDIER"
+msgstr "使用炸彈摧毀多個地面目標"
+
+msgid "MEDAL_EVENT_DESCRIPTION_BOMBING"
+msgstr "使用炸彈摧毀地面目標"
+
+msgid "MEDAL_EVENT_DESCRIPTION_BONG1"
+msgstr "使用重型戰鬥機獲得300個“破壞者”勳章"
+
+msgid "MEDAL_EVENT_DESCRIPTION_BONG2"
+msgstr "使用重型戰鬥機獲得30個“破壞者”勳章"
+
+msgid "MEDAL_EVENT_DESCRIPTION_BONG3"
+msgstr "使用重型戰鬥機獲得3個“破壞者”勳章"
+
+msgid "MEDAL_EVENT_DESCRIPTION_BREAKTHROUGH"
+msgstr "摧毀3座防空砲"
+
+msgid "MEDAL_EVENT_DESCRIPTION_CADET_1"
+msgstr "飛行訓練一級"
+
+msgid "MEDAL_EVENT_DESCRIPTION_CADET_2"
+msgstr "飛行訓練二級"
+
+msgid "MEDAL_EVENT_DESCRIPTION_CADET_3"
+msgstr "飛行訓練三級"
+
+msgid "MEDAL_EVENT_DESCRIPTION_CADET_4"
+msgstr "飛行訓練四級"
+
+msgid "MEDAL_EVENT_DESCRIPTION_CADET_5"
+msgstr "飛行訓練五級"
+
+msgid "MEDAL_EVENT_DESCRIPTION_CAREFUL"
+msgstr "在武器不過熱的情況下擊落3架敵機"
+
+msgid "MEDAL_EVENT_DESCRIPTION_CHAMPION_DESTROYER"
+msgstr "摧毀大量地面目標"
+
+msgid "MEDAL_EVENT_DESCRIPTION_CLEANER"
+msgstr "編隊成員合力擊落5架敵機和至少75分的地面目標"
+
+msgid "MEDAL_EVENT_DESCRIPTION_CLEANUP"
+msgstr "擊落最後一架敵機"
+
+msgid "MEDAL_EVENT_DESCRIPTION_CLEAR_SKY"
+msgstr "擊落3架戰鬥機"
+
+msgid "MEDAL_EVENT_DESCRIPTION_CLIPPING_THE_WINGS"
+msgstr "通過摧毀敵機機翼擊落敵機"
+
+msgid "MEDAL_EVENT_DESCRIPTION_CLOSTERMAN"
+msgstr "擊落7架敵機並摧毀15分的地面目標"
+
+msgid "MEDAL_EVENT_DESCRIPTION_COLLECTOR"
+msgstr "使用多架不同等級的戰機進行戰鬥"
+
+msgid "MEDAL_EVENT_DESCRIPTION_CROSSFIRE"
+msgstr "助攻擊落敵機"
+
+msgid "MEDAL_EVENT_DESCRIPTION_CRUCIALCONTRIBUTION"
+msgstr "編隊成員合力擊落12架敵機"
+
+msgid "MEDAL_EVENT_DESCRIPTION_DEAD_ZONE"
+msgstr "躲避尾砲的攻擊"
+
+msgid "MEDAL_EVENT_DESCRIPTION_DESTROYER"
+msgstr "擊落4架敵機並摧毀15分的地面目標"
+
+msgid "MEDAL_EVENT_DESCRIPTION_DEVASTATOR"
+msgstr "使用一枚炸彈摧毀2個地面目標"
+
+msgid "MEDAL_EVENT_DESCRIPTION_DOMINATOR"
+msgstr "擊落所有類型的敵機"
+
+msgid "MEDAL_EVENT_DESCRIPTION_EXPERIENCED_HUNTER"
+msgstr "完成“空戰專家”任務"
+
+msgid "MEDAL_EVENT_DESCRIPTION_FALCON"
+msgstr "使用俯衝攻擊擊落敵機"
+
+msgid "MEDAL_EVENT_DESCRIPTION_FALCONRY"
+msgstr "擊落2架戰鬥機"
+
+msgid "MEDAL_EVENT_DESCRIPTION_FIGHTER_TEST"
+msgstr "使用戰鬥機擊落2架敵機"
+
+msgid "MEDAL_EVENT_DESCRIPTION_FIRESTARTER"
+msgstr "引燃地面目標"
+
+msgid "MEDAL_EVENT_DESCRIPTION_FIRE_BILLOW"
+msgstr "連續摧毀至少50分的地面目標"
+
+msgid "MEDAL_EVENT_DESCRIPTION_FIRE_BREATH"
+msgstr "引燃並摧毀2座地面目標"
+
+msgid "MEDAL_EVENT_DESCRIPTION_FIRST_BLOOD"
+msgstr "在戰鬥中率先擊落敵機"
+
+msgid "MEDAL_EVENT_DESCRIPTION_FIRST_IN_TEAM"
+msgstr "擊落多架敵機並贏得戰鬥勝利且在結束時倖存"
+
+msgid "MEDAL_EVENT_DESCRIPTION_FLAMING"
+msgstr "點燃並最終擊落敵機"
+
+msgid "MEDAL_EVENT_DESCRIPTION_FLGHT_LEADER_1"
+msgstr "飛行編隊一級"
+
+msgid "MEDAL_EVENT_DESCRIPTION_FLGHT_LEADER_2"
+msgstr "飛行編隊二級"
+
+msgid "MEDAL_EVENT_DESCRIPTION_FLGHT_LEADER_3"
+msgstr "飛行編隊三級"
+
+msgid "MEDAL_EVENT_DESCRIPTION_FLGHT_LEADER_4"
+msgstr "飛行編隊四級"
+
+msgid "MEDAL_EVENT_DESCRIPTION_FLGHT_LEADER_5"
+msgstr "飛行編隊五級"
+
+msgid "MEDAL_EVENT_DESCRIPTION_FLIGHT_DRESSING"
+msgstr "治療受傷飛行員"
+
+msgid "MEDAL_EVENT_DESCRIPTION_FLIGHT_REPAIRS"
+msgstr "修復故障引擎"
+
+msgid "MEDAL_EVENT_DESCRIPTION_FRONTLINE_1"
+msgstr "奪命的天空一級"
+
+msgid "MEDAL_EVENT_DESCRIPTION_FRONTLINE_2"
+msgstr "奪命的天空二級"
+
+msgid "MEDAL_EVENT_DESCRIPTION_FRONTLINE_3"
+msgstr "奪命的天空三級"
+
+msgid "MEDAL_EVENT_DESCRIPTION_FRONTLINE_4"
+msgstr "奪命的天空四級"
+
+msgid "MEDAL_EVENT_DESCRIPTION_FRONTLINE_5"
+msgstr "奪命的天空五級"
+
+msgid "MEDAL_EVENT_DESCRIPTION_FUTURE_ACE"
+msgstr "擊落3架敵機並在戰鬥中倖存"
+
+msgid "MEDAL_EVENT_DESCRIPTION_GALLAND1"
+msgstr "使用戰鬥機獲得300個“王牌”勳章"
+
+msgid "MEDAL_EVENT_DESCRIPTION_GALLAND2"
+msgstr "使用戰鬥機獲得30個“王牌”勳章"
+
+msgid "MEDAL_EVENT_DESCRIPTION_GALLAND3"
+msgstr "使用戰鬥機獲得3個“王牌”勳章"
+
+msgid "MEDAL_EVENT_DESCRIPTION_GOLIAPHS_NEMESIS"
+msgstr "擊落3架重型戰鬥機"
+
+msgid "MEDAL_EVENT_DESCRIPTION_GOLUBEV_MEDAL"
+msgstr "擊落3架比自身高2級的敵機"
+
+msgid "MEDAL_EVENT_DESCRIPTION_GOROVETS"
+msgstr "摧毀9個地面目標"
+
+msgid "MEDAL_EVENT_DESCRIPTION_GOTCHA"
+msgstr "使用機槍/機砲擊落敵機"
+
+msgid "MEDAL_EVENT_DESCRIPTION_GOT_TEN"
+msgstr "獲得第二個擊落標誌"
+
+msgid "MEDAL_EVENT_DESCRIPTION_GRAF1"
+msgstr "擊落10000架敵機"
+
+msgid "MEDAL_EVENT_DESCRIPTION_GRAF2"
+msgstr "擊落1000架敵機"
+
+msgid "MEDAL_EVENT_DESCRIPTION_GRAF3"
+msgstr "擊落100架敵機"
+
+msgid "MEDAL_EVENT_DESCRIPTION_GRAF4"
+msgstr "擊落10架敵機"
+
+msgid "MEDAL_EVENT_DESCRIPTION_GROUND_DEFENDER"
+msgstr "擊落3架攻擊機"
+
+msgid "MEDAL_EVENT_DESCRIPTION_GROUND_POUNDER"
+msgstr "累計對地面目標造成10000傷害"
+
+msgid "MEDAL_EVENT_DESCRIPTION_HABREZKI"
+msgstr "擊落9架敵機並摧毀15分的地面目標"
+
+msgid "MEDAL_EVENT_DESCRIPTION_HEAVYWEIGHT"
+msgstr "擊落敵方重型戰鬥機"
+
+msgid "MEDAL_EVENT_DESCRIPTION_HEAVY_HITTER"
+msgstr "累計對敵機造成1000傷害"
+
+msgid "MEDAL_EVENT_DESCRIPTION_HEAVY_TEST"
+msgstr "擊落敵機並摧毀10分的地面目標"
+
+msgid "MEDAL_EVENT_DESCRIPTION_HIDE_N_SEEK"
+msgstr "利用地形掩護擺脫敵機"
+
+msgid "MEDAL_EVENT_DESCRIPTION_HOSTILE_SKIES"
+msgstr "穿越敵方防空火力網"
+
+msgid "MEDAL_EVENT_DESCRIPTION_HOT_ENGINES"
+msgstr "引擎過熱後恢復冷卻"
+
+msgid "MEDAL_EVENT_DESCRIPTION_INTERCEPTOR"
+msgstr "擊落2架攻擊機"
+
+msgid "MEDAL_EVENT_DESCRIPTION_INVULNERABLE"
+msgstr "擊落2架敵機並且毫髮無傷"
+
+msgid "MEDAL_EVENT_DESCRIPTION_IRREPLACEABLE"
+msgstr "多架戰機獲得“支配者”勳章"
+
+msgid "MEDAL_EVENT_DESCRIPTION_JACK_OF_ALL_TRADES"
+msgstr "使用多種類型戰機參與戰鬥"
+
+msgid "MEDAL_EVENT_DESCRIPTION_KEEP_CLEAR"
+msgstr "一枚炸彈摧毀1架戰機和1個地面目標"
+
+msgid "MEDAL_EVENT_DESCRIPTION_LAST_BREATH"
+msgstr "剩餘生命值不足10%的情況下擊落敵機並贏得戰鬥勝利"
+
+msgid "MEDAL_EVENT_DESCRIPTION_LAST_BULLET"
+msgstr "在武器過熱的情況下擊落敵機"
+
+msgid "MEDAL_EVENT_DESCRIPTION_LAST_HERO"
+msgstr "擊落3架敵機並且成為戰鬥的唯一倖存者"
+
+msgid "MEDAL_EVENT_DESCRIPTION_LAST_MAN_FLYING"
+msgstr "戰鬥結束時唯一的倖存者"
+
+msgid "MEDAL_EVENT_DESCRIPTION_LEADER"
+msgstr "戰鬥結束時擊落敵機數量最多"
+
+msgid "MEDAL_EVENT_DESCRIPTION_LEGENDARY_ASSAULT"
+msgstr "使用攻擊機獲得1000次“掃地手”"
+
+msgid "MEDAL_EVENT_DESCRIPTION_LEGENDARY_FIGHTER"
+msgstr "使用戰鬥機獲得1000次“王牌”"
+
+msgid "MEDAL_EVENT_DESCRIPTION_LEGENDARY_HEAVY"
+msgstr "使用重型戰鬥機獲得1000次“破壞者”"
+
+msgid "MEDAL_EVENT_DESCRIPTION_LIGHTWEIGHT"
+msgstr "擊落敵方戰鬥機"
+
+msgid "MEDAL_EVENT_DESCRIPTION_LUCKY_HUNT"
+msgstr "完成“完美狩獵”任務"
+
+msgid "MEDAL_EVENT_DESCRIPTION_MASTER_HUNT"
+msgstr "完成“熟練搜尋”任務"
+
+msgid "MEDAL_EVENT_DESCRIPTION_MCGUIRE"
+msgstr "使用重型戰鬥機擊落3架敵機"
+
+msgid "MEDAL_EVENT_DESCRIPTION_MEANINGFUL_CONTRIBUTION"
+msgstr "編隊成員合力擊落6架敵機"
+
+msgid "MEDAL_EVENT_DESCRIPTION_MEYER1"
+msgstr "使用攻擊機獲得300次“掃地手”"
+
+msgid "MEDAL_EVENT_DESCRIPTION_MEYER2"
+msgstr "使用攻擊機獲得30次“掃地手”"
+
+msgid "MEDAL_EVENT_DESCRIPTION_MEYER3"
+msgstr "使用攻擊機獲得3次“掃地手”"
+
+msgid "MEDAL_EVENT_DESCRIPTION_NIMBLE"
+msgstr "造成敵方墜機"
+
+msgid "MEDAL_EVENT_DESCRIPTION_NO_STONE_UNTURNED"
+msgstr "摧毀最後一個敵方目標"
+
+msgid "MEDAL_EVENT_DESCRIPTION_NY_FROST"
+msgstr "在冬季地貌的地圖中贏得至少5場勝利"
+
+msgid "MEDAL_EVENT_DESCRIPTION_NY_LUCK"
+msgstr "完成5項非每日任務"
+
+msgid "MEDAL_EVENT_DESCRIPTION_NY_MARKSMAN"
+msgstr "擊中50個飛碟"
+
+msgid "MEDAL_EVENT_DESCRIPTION_NY_SET"
+msgstr "完成10次節日每日任務"
+
+msgid "MEDAL_EVENT_DESCRIPTION_NY_SHOOTER"
+msgstr "擊中10個飛碟"
+
+msgid "MEDAL_EVENT_DESCRIPTION_NY_SNOWBALL"
+msgstr "用雪球擊中飛碟"
+
+msgid "MEDAL_EVENT_DESCRIPTION_NY_WATCH"
+msgstr "累計10天獲得戰鬥勝利"
+
+msgid "MEDAL_EVENT_DESCRIPTION_PERSISTENT"
+msgstr "在連續多場戰鬥中均有擊落敵機"
+
+msgid "MEDAL_EVENT_DESCRIPTION_PLANE_TESTER"
+msgstr "使用多個國家的戰機參與戰鬥"
+
+msgid "MEDAL_EVENT_DESCRIPTION_PULL"
+msgstr "完成大角度俯衝動作"
+
+msgid "MEDAL_EVENT_DESCRIPTION_PUNISHER"
+msgstr "使用一枚炸彈擊落2架敵機"
+
+msgid "MEDAL_EVENT_DESCRIPTION_PYROMANIAC"
+msgstr "使用多架戰機獲得“凌空之火”勳章"
+
+msgid "MEDAL_EVENT_DESCRIPTION_RAIDER"
+msgstr "摧毀敵方基地"
+
+msgid "MEDAL_EVENT_DESCRIPTION_REAPER"
+msgstr "使用多架戰機獲得“死神之吻”勳章"
+
+msgid "MEDAL_EVENT_DESCRIPTION_REAR_GUARD"
+msgstr "使用尾砲擊落敵機"
+
+msgid "MEDAL_EVENT_DESCRIPTION_REAR_GUNNER"
+msgstr "使用尾砲擊傷敵機"
+
+msgid "MEDAL_EVENT_DESCRIPTION_RESILIENT"
+msgstr "受到多架敵機攻擊後仍然倖存"
+
+msgid "MEDAL_EVENT_DESCRIPTION_RIDDLED"
+msgstr "3次助攻摧毀地面目標"
+
+msgid "MEDAL_EVENT_DESCRIPTION_ROCKET_SHOOTER"
+msgstr "使用火箭彈擊落敵機"
+
+msgid "MEDAL_EVENT_DESCRIPTION_ROCKET_STRIKE"
+msgstr "使用火箭彈摧毀地面目標"
+
+msgid "MEDAL_EVENT_DESCRIPTION_RUDORFFER"
+msgstr "擊落13架敵機"
+
+msgid "MEDAL_EVENT_DESCRIPTION_SCAN_THE_SKIES"
+msgstr "發現敵機"
+
+msgid "MEDAL_EVENT_DESCRIPTION_SCORCHED_EARTH"
+msgstr "摧毀25分的地面目標"
+
+msgid "MEDAL_EVENT_DESCRIPTION_SCYTHE_OF_DEATH"
+msgstr "連續擊落2架敵機"
+
+msgid "MEDAL_EVENT_DESCRIPTION_SKILLED_PILOT"
+msgstr "重新控制失控戰機"
+
+msgid "MEDAL_EVENT_DESCRIPTION_SKY_FIRE"
+msgstr "點燃並燒燬敵機"
+
+msgid "MEDAL_EVENT_DESCRIPTION_SKY_N_GROUND"
+msgstr "擊落3架敵機並摧毀25分的地面目標"
+
+msgid "MEDAL_EVENT_DESCRIPTION_SKY_SCOURGE"
+msgstr "累計擊落3架敵機"
+
+msgid "MEDAL_EVENT_DESCRIPTION_SMOKING_BARRELS"
+msgstr "武器過熱後恢復冷卻"
+
+msgid "MEDAL_EVENT_DESCRIPTION_SQUALL_OF_STEEL"
+msgstr "助攻擊毀5個地面目標"
+
+msgid "MEDAL_EVENT_DESCRIPTION_STABLE_RESULT"
+msgstr "擊落3架敵機並在戰鬥中倖存"
+
+msgid "MEDAL_EVENT_DESCRIPTION_STORMBRINGER"
+msgstr "使用多架戰機獲得“速射手”勳章"
+
+msgid "MEDAL_EVENT_DESCRIPTION_STRIKE_TEAM"
+msgstr "編隊成員合力擊落4架敵機和至少60分的地面目標"
+
+msgid "MEDAL_EVENT_DESCRIPTION_STRONG_TEAM"
+msgstr "編隊成員合力擊落3架敵機和至少40分的地面目標"
+
+msgid "MEDAL_EVENT_DESCRIPTION_SUCCESSFUL_RAID"
+msgstr "獲得第二個摧毀標誌"
+
+msgid "MEDAL_EVENT_DESCRIPTION_SUDDEN_DEATH"
+msgstr "快速獨立擊落敵機"
+
+msgid "MEDAL_EVENT_DESCRIPTION_SUPERHEAVY"
+msgstr "擊落敵方攻擊機"
+
+msgid "MEDAL_EVENT_DESCRIPTION_SURE_COVER"
+msgstr "助攻擊落5架敵機"
+
+msgid "MEDAL_EVENT_DESCRIPTION_SURVIVOR"
+msgstr "連續2場戰鬥獲勝並且在戰鬥中倖存"
+
+msgid "MEDAL_EVENT_DESCRIPTION_TAIL_BUSTER"
+msgstr "摧毀敵機機尾擊落敵機"
+
+msgid "MEDAL_EVENT_DESCRIPTION_THRIFTY_BOMBARDIER"
+msgstr "使用一枚炸彈破壞2個地面目標"
+
+msgid "MEDAL_EVENT_DESCRIPTION_THRIFTY_ROCKETEER"
+msgstr "使用一枚火箭彈破壞2個地面目標"
+
+msgid "MEDAL_EVENT_DESCRIPTION_THUNDER"
+msgstr "摧毀75分的地面目標"
+
+msgid "MEDAL_EVENT_DESCRIPTION_TOP_DOWN_DIVER"
+msgstr "進行極速俯衝"
+
+msgid "MEDAL_EVENT_DESCRIPTION_UNSTOPPABLE"
+msgstr "連續獲得3場戰鬥勝利"
+
+msgid "MEDAL_EVENT_DESCRIPTION_UNTOUCHABLE"
+msgstr "擊落敵機並且毫髮無傷"
+
+msgid "MEDAL_EVENT_DESCRIPTION_VALUABLE_CONTRIBUTION"
+msgstr "創造至少1/3的優勢點數"
+
+msgid "MEDAL_EVENT_DESCRIPTION_WEIGHTY_CONTRIBUTION"
+msgstr "編隊成員合力擊落9架敵機"
+
+msgid "MEDAL_EVENT_DESCRIPTION_WINGED_FLAME"
+msgstr "點燃3架敵機"
+
+msgid "MEDAL_EVENT_DESCRIPTION_WINGMAN"
+msgstr "助攻擊落3架敵機"
+
+msgid "MEDAL_EVENT_DESCRIPTION_YEFIMOV"
+msgstr "使用攻擊機擊落3架敵機"
+
+msgid "MEDAL_EVENT_DESCRIPTION_ZVONAREV"
+msgstr "使用火箭彈擊落3架敵機"
+
+msgid "MEDAL_HISTORY_AKAMATSU"
+msgstr ""
+"赤松貞明，二戰王牌飛行員。在整個戰爭期間共擊落27架飛機，1945年面對比自己更為"
+"先進的戰鬥機時仍擊落了10餘架敵機。"
+
+msgid "MEDAL_HISTORY_BEGELDINOV"
+msgstr ""
+"塔爾加特·別格利季諾夫是二戰期間的蘇聯攻擊機飛行員，在 1943–1945年間共執行305"
+"次作戰任務，摧毀了大量的地面目標並擊落7架敵機。"
+
+msgid "MEDAL_HISTORY_BONG"
+msgstr ""
+"二戰期間，理查德·艾拉·邦是美國陸軍航空隊的得分最高的王牌。他駕駛的洛克希德"
+"P-38閃電戰鬥機，在南太平洋服役期間至少擊落了40架敵機。在1945年8月6日死於P-80"
+"流星戰鬥機的試飛。"
+
+msgid "MEDAL_HISTORY_CLOSTERMAN"
+msgstr ""
+"皮埃爾•克斯特曼是法國王牌戰鬥機飛行員，在法國戰敗後加入英國空軍，有33個擊墜記"
+"錄，並摧毀了大量地面目標。"
+
+msgid "MEDAL_HISTORY_GALLAND"
+msgstr ""
+"阿道夫•加蘭德是德國戰鬥機王牌，二戰期間曾晉升為空軍中將。他飛行了705次戰鬥任"
+"務，並獲得了104次空戰勝利。他在1941年11月至1945年1月期間被任命為德國戰鬥機部"
+"隊的指揮官。"
+
+msgid "MEDAL_HISTORY_GOROVETS"
+msgstr ""
+"亞歷山大·戈羅韋茨是蘇聯的戰鬥機王牌。 1943年7月6日，他單槍匹馬襲擊了大群的德"
+"國飛機並摧毀其中的9個。返回基地的途中因為油量和彈藥耗盡，戈羅韋茨被擊落並戰"
+"死。"
+
+msgid "MEDAL_HISTORY_GRAF"
+msgstr ""
+"赫爾曼·格拉夫是二戰期間的德國王牌飛行員，他執行了800次戰鬥任務，在東西線戰場"
+"共計獲得212個擊墜數，同時是第一位擊墜數超過200的戰鬥機飛行員。"
+
+msgid "MEDAL_HISTORY_HABREZKI"
+msgstr ""
+"弗朗西斯·加布雷斯基是美國王牌戰鬥機飛行員，在二戰期間駕駛P-47雷電擊落28架敵機"
+"並在朝鮮戰爭中擊落6架敵機。"
+
+msgid "MEDAL_HISTORY_LINDBERGH"
+msgstr ""
+"美國飛行員查爾斯·林德伯格是第一位駕駛飛機橫渡大西洋從紐約飛到巴黎的飛行員。在"
+"二戰期間，他曾擔任美國陸軍和海軍顧問。林德伯格雖然是平民，但他參與了約50此飛"
+"行作戰任務。"
+
+msgid "MEDAL_HISTORY_MCGUIRE"
+msgstr ""
+"託馬斯·麥奎爾，美國王牌飛行員，二戰期間駕駛P-38“閃電”重型戰鬥機擊落38架敵機，"
+"他於1945年1月7日的空戰中身亡。"
+
+msgid "MEDAL_HISTORY_MEYER"
+msgstr ""
+"布魯諾·梅耶是德國飛行員，在二戰期間成為王牌攻擊機駕駛員。他參加了波蘭、法國、"
+"北非和東線的戰鬥，參與了1000多個飛行作戰任務。他摧毀了大量的地面車輛，包括183"
+"輛戰車。他主要使用的是Hs.129攻擊機。"
+
+msgid "MEDAL_HISTORY_RUDORFFER"
+msgstr ""
+"埃裡希·魯道夫勒是一名德國戰鬥機王牌飛行員，參與了整個二戰。執行1000多次作戰任"
+"務，參加了302次空戰。 魯道夫勒聲稱共獲得了​​222次擊墜記錄，包括在西線的60次，在"
+"北非的26次，東線的136次。"
+
+msgid "MEDAL_HISTORY_SEVERSKY"
+msgstr ""
+"亞歷山大·謝韋爾斯基，俄羅斯-美國飛行員、發明家和飛機設計師。 1931年2月，他創"
+"辦謝韋爾斯基飛機公司（後來重組更名為共和國航空集團公司），在那裡他擔任總裁、"
+"首席設計師和試飛員。他設計了SEV-3，P-35，2PA和二戰最廣泛使用的戰鬥機之一P-47"
+"戰鬥機。"
+
+msgid "MEDAL_HISTORY_SIKORSKY"
+msgstr ""
+"伊戈爾·西科斯基是俄羅斯和美國的航空先驅。他設計並飛到了世界上第一個多引擎固定"
+"翼飛機——俄羅斯勇士，第一個四引擎客機和重型轟炸機——伊利亞-穆洛梅茨。他還設計了"
+"能夠橫渡大西洋的飛行艇，以及沃特 - 西科斯基VS-300三葉片轉子單引擎直升機。"
+
+msgid "MEDAL_HISTORY_YEFIMOV"
+msgstr ""
+"亞歷山大-葉菲莫夫，蘇聯攻擊機飛行員，1942-1945年間，駕駛伊爾-2攻擊機在288次作"
+"戰任務中摧毀了大量地面目標和85架停在地面的敵機，並且在空戰中擊落8架敵機。"
+
+msgid "MEDAL_HISTORY_ZVONAREV"
+msgstr ""
+"尼古拉 - 茲沃納列夫是蘇聯試飛員。在1939年8月20日滿蒙邊界衝突期間，茲沃納列夫"
+"指揮伊-16戰機飛行員在哈拉哈河第一次成功地在空戰中用火箭彈摧毀了數架敵機。"
+
+msgid "MEDAL_NAME_1ST_CLASS"
+msgstr "一級飛行員"
+
+msgid "MEDAL_NAME_2ND_CLASS"
+msgstr "戰鬥老手"
+
+msgid "MEDAL_NAME_ABSOLUTE_CHAMPION"
+msgstr "戰場之王"
+
+msgid "MEDAL_NAME_AIR_DEFENCE_PILOT"
+msgstr "守衛者"
+
+msgid "MEDAL_NAME_AKAMATSU"
+msgstr "貞明勳章"
+
+msgid "MEDAL_NAME_AROUND_THE_WORLD"
+msgstr "遊騎兵"
+
+msgid "MEDAL_NAME_AS"
+msgstr "王牌"
+
+msgid "MEDAL_NAME_ASSAULT_TEST"
+msgstr "熟練攻擊機駕駛員"
+
+msgid "MEDAL_NAME_ASSISTANT"
+msgstr "得力助攻"
+
+msgid "MEDAL_NAME_BANSHEE"
+msgstr "空襲者"
+
+msgid "MEDAL_NAME_BATTERED_BUT_NOT_BROKEN"
+msgstr "不死鳥"
+
+msgid "MEDAL_NAME_BEGELDINOV1"
+msgstr "比戈洛夫 一級"
+
+msgid "MEDAL_NAME_BEGELDINOV2"
+msgstr "比戈洛夫 二級"
+
+msgid "MEDAL_NAME_BEGELDINOV3"
+msgstr "比戈洛夫 三級"
+
+msgid "MEDAL_NAME_BEGELDINOV4"
+msgstr "比戈洛夫 四級"
+
+msgid "MEDAL_NAME_BEWARE_OF_BOMBS"
+msgstr "擲彈兵"
+
+msgid "MEDAL_NAME_BIRD_OF_PREY"
+msgstr "食隼鷹"
+
+msgid "MEDAL_NAME_BLITZ"
+msgstr "速射手"
+
+msgid "MEDAL_NAME_BOMBARDIER"
+msgstr "一石二鳥"
+
+msgid "MEDAL_NAME_BOMBING"
+msgstr "炸彈襲地"
+
+msgid "MEDAL_NAME_BONG1"
+msgstr "理查德 一級"
+
+msgid "MEDAL_NAME_BONG2"
+msgstr "理查德 二級"
+
+msgid "MEDAL_NAME_BONG3"
+msgstr "理查德 三級"
+
+msgid "MEDAL_NAME_BREAKTHROUGH"
+msgstr "清道夫"
+
+msgid "MEDAL_NAME_CADET"
+msgstr "軍校生"
+
+msgid "MEDAL_NAME_CADET_1"
+msgstr "軍校生1級"
+
+msgid "MEDAL_NAME_CADET_2"
+msgstr "軍校生2級"
+
+msgid "MEDAL_NAME_CADET_3"
+msgstr "軍校生3級"
+
+msgid "MEDAL_NAME_CADET_4"
+msgstr "軍校生4級"
+
+msgid "MEDAL_NAME_CADET_5"
+msgstr "軍校生5級"
+
+msgid "MEDAL_NAME_CAREFUL"
+msgstr "彈無虛發"
+
+msgid "MEDAL_NAME_CHAMPION_DESTROYER"
+msgstr "破壞王"
+
+msgid "MEDAL_NAME_CLEANER"
+msgstr "精英聯隊"
+
+msgid "MEDAL_NAME_CLEANUP"
+msgstr "鐵手"
+
+msgid "MEDAL_NAME_CLEAR_SKY"
+msgstr "戰鬥機殲滅者"
+
+msgid "MEDAL_NAME_CLIPPING_THE_WINGS"
+msgstr "剪刀手"
+
+msgid "MEDAL_NAME_CLOSTERMAN"
+msgstr "克斯曼勳章"
+
+msgid "MEDAL_NAME_COLLECTOR"
+msgstr "收藏家"
+
+msgid "MEDAL_NAME_CROSSFIRE"
+msgstr "集火"
+
+msgid "MEDAL_NAME_CRUCIALCONTRIBUTION"
+msgstr "傑出貢獻"
+
+msgid "MEDAL_NAME_DEAD_ZONE"
+msgstr "盲區刺客"
+
+msgid "MEDAL_NAME_DESTROYER"
+msgstr "破壞者"
+
+msgid "MEDAL_NAME_DEVASTATOR"
+msgstr "清障者"
+
+msgid "MEDAL_NAME_DOMINATOR"
+msgstr "支配者"
+
+msgid "MEDAL_NAME_EXPERIENCED_HUNTER"
+msgstr "空戰專家"
+
+msgid "MEDAL_NAME_FALCON"
+msgstr "鶻鳥"
+
+msgid "MEDAL_NAME_FALCONRY"
+msgstr "食雀鷹"
+
+msgid "MEDAL_NAME_FIGHTER_TEST"
+msgstr "熟練戰鬥機駕駛員"
+
+msgid "MEDAL_NAME_FIRESTARTER"
+msgstr "煉獄"
+
+msgid "MEDAL_NAME_FIRE_BILLOW"
+msgstr "怒火燎原"
+
+msgid "MEDAL_NAME_FIRE_BREATH"
+msgstr "龍息"
+
+msgid "MEDAL_NAME_FIRST_BLOOD"
+msgstr "第一滴血"
+
+msgid "MEDAL_NAME_FIRST_IN_TEAM"
+msgstr "空中殺手"
+
+msgid "MEDAL_NAME_FLAMING"
+msgstr "火鳥"
+
+msgid "MEDAL_NAME_FLGHT_LEADER_1"
+msgstr "飛行指揮官1級"
+
+msgid "MEDAL_NAME_FLGHT_LEADER_2"
+msgstr "飛行指揮官2級"
+
+msgid "MEDAL_NAME_FLGHT_LEADER_3"
+msgstr "飛行指揮官3級"
+
+msgid "MEDAL_NAME_FLGHT_LEADER_4"
+msgstr "飛行指揮官4級"
+
+msgid "MEDAL_NAME_FLGHT_LEADER_5"
+msgstr "飛行指揮官5級"
+
+msgid "MEDAL_NAME_FLIGHT_DRESSING"
+msgstr "戰地急救"
+
+msgid "MEDAL_NAME_FLIGHT_REPAIRS"
+msgstr "戰地修理"
+
+msgid "MEDAL_NAME_FLY_SAUCER"
+msgstr "斯雷普尼爾騎士"
+
+msgid "MEDAL_NAME_FRONTLINE_1"
+msgstr "飛翼騎兵1級"
+
+msgid "MEDAL_NAME_FRONTLINE_2"
+msgstr "飛翼騎兵2級"
+
+msgid "MEDAL_NAME_FRONTLINE_3"
+msgstr "飛翼騎兵3級"
+
+msgid "MEDAL_NAME_FRONTLINE_4"
+msgstr "飛翼騎兵4級"
+
+msgid "MEDAL_NAME_FRONTLINE_5"
+msgstr "飛翼騎兵5級"
+
+msgid "MEDAL_NAME_FUTURE_ACE"
+msgstr "準王牌"
+
+msgid "MEDAL_NAME_GALLAND1"
+msgstr "加蘭德 一級"
+
+msgid "MEDAL_NAME_GALLAND2"
+msgstr "加蘭德 二級"
+
+msgid "MEDAL_NAME_GALLAND3"
+msgstr "加蘭德 三級"
+
+msgid "MEDAL_NAME_GOLIAPHS_NEMESIS"
+msgstr "重戰殲滅者"
+
+msgid "MEDAL_NAME_GOROVETS"
+msgstr "戈羅維茨勳章"
+
+msgid "MEDAL_NAME_GOTCHA"
+msgstr "攻擊者"
+
+msgid "MEDAL_NAME_GOT_TEN"
+msgstr "空戰老手"
+
+msgid "MEDAL_NAME_GRAF1"
+msgstr "格拉夫 一級"
+
+msgid "MEDAL_NAME_GRAF2"
+msgstr "格拉夫 二級"
+
+msgid "MEDAL_NAME_GRAF3"
+msgstr "格拉夫 三級"
+
+msgid "MEDAL_NAME_GRAF4"
+msgstr "格拉夫 四級"
+
+msgid "MEDAL_NAME_GROUND_DEFENDER"
+msgstr "攻擊機殲滅者"
+
+msgid "MEDAL_NAME_GROUND_POUNDER"
+msgstr "掃地狂魔"
+
+msgid "MEDAL_NAME_HABREZKI"
+msgstr "加布雷勳章"
+
+msgid "MEDAL_NAME_HEAVYWEIGHT"
+msgstr "重戰殺手"
+
+msgid "MEDAL_NAME_HEAVY_FIGHTER_1"
+msgstr "傳奇重型戰鬥機飛行員"
+
+msgid "MEDAL_NAME_HEAVY_HITTER"
+msgstr "空戰狂魔"
+
+msgid "MEDAL_NAME_HEAVY_TEST"
+msgstr "熟練重型戰鬥機駕駛員"
+
+msgid "MEDAL_NAME_HIDE_N_SEEK"
+msgstr "隱身者"
+
+msgid "MEDAL_NAME_HIGH_START"
+msgstr "飛行開始"
+
+msgid "MEDAL_NAME_HOSTILE_SKIES"
+msgstr "穿越敵陣"
+
+msgid "MEDAL_NAME_HOT_ENGINES"
+msgstr "引擎冷卻"
+
+msgid "MEDAL_NAME_INTERCEPTOR"
+msgstr "鷙鷹"
+
+msgid "MEDAL_NAME_INVULNERABLE"
+msgstr "無懈可擊"
+
+msgid "MEDAL_NAME_IRREPLACEABLE"
+msgstr "統治者"
+
+msgid "MEDAL_NAME_JACK_OF_ALL_TRADES"
+msgstr "全能駕駛員"
+
+msgid "MEDAL_NAME_KEEP_CLEAR"
+msgstr "餘波四濺"
+
+msgid "MEDAL_NAME_KILL_SAUCER"
+msgstr "Wrath of Odin"
+
+msgid "MEDAL_NAME_LAST_BREATH"
+msgstr "孤注一擲"
+
+msgid "MEDAL_NAME_LAST_BULLET"
+msgstr "不遺餘力"
+
+msgid "MEDAL_NAME_LAST_HERO"
+msgstr "孤膽英雄"
+
+msgid "MEDAL_NAME_LAST_MAN_FLYING"
+msgstr "倖存者"
+
+msgid "MEDAL_NAME_LEADER"
+msgstr "卓越勇士"
+
+msgid "MEDAL_NAME_LEGENDARY_ACE"
+msgstr "傳奇飛行員"
+
+msgid "MEDAL_NAME_LEGENDARY_ASSAULT"
+msgstr "傳奇（攻擊機）"
+
+msgid "MEDAL_NAME_LEGENDARY_ASSAULT_1"
+msgstr "傳奇攻擊機飛行員"
+
+msgid "MEDAL_NAME_LEGENDARY_FIGHTER"
+msgstr "傳奇勳章（戰鬥機）"
+
+msgid "MEDAL_NAME_LEGENDARY_FIGHTER_1"
+msgstr "傳奇戰鬥機飛行員"
+
+msgid "MEDAL_NAME_LEGENDARY_HEAVY"
+msgstr "傳奇勳章（重型戰鬥機）"
+
+msgid "MEDAL_NAME_LEGENDARY_NAVY"
+msgstr "傳奇勳章（多用途戰鬥機）"
+
+msgid "MEDAL_NAME_LEGENDARY_NAVY_1"
+msgstr "傳奇多用途戰鬥機飛行員"
+
+msgid "MEDAL_NAME_LIGHTWEIGHT"
+msgstr "戰鬥機殺手"
+
+msgid "MEDAL_NAME_LINDBERGH"
+msgstr "林德伯格勳章"
+
+msgid "MEDAL_NAME_MCGUIRE"
+msgstr "麥奎爾勳章"
+
+msgid "MEDAL_NAME_MEANINGFUL_CONTRIBUTION"
+msgstr "優異協作"
+
+msgid "MEDAL_NAME_MEYER1"
+msgstr "梅耶 一級"
+
+msgid "MEDAL_NAME_MEYER2"
+msgstr "梅耶 二級"
+
+msgid "MEDAL_NAME_MEYER3"
+msgstr "梅耶 三級"
+
+msgid "MEDAL_NAME_NIMBLE"
+msgstr "技巧大師"
+
+msgid "MEDAL_NAME_NO_STONE_UNTURNED"
+msgstr "不遺餘力"
+
+msgid "MEDAL_NAME_NY_FROST"
+msgstr "冰霜之主"
+
+msgid "MEDAL_NAME_NY_LUCK"
+msgstr "幸運假期"
+
+msgid "MEDAL_NAME_NY_MARKSMAN"
+msgstr "雪球神射手"
+
+msgid "MEDAL_NAME_NY_SET"
+msgstr "任務達人"
+
+msgid "MEDAL_NAME_NY_SHOOTER"
+msgstr "雪球射手"
+
+msgid "MEDAL_NAME_NY_SNOWBALL"
+msgstr "雪彈"
+
+msgid "MEDAL_NAME_NY_WATCH"
+msgstr "連捷"
+
+msgid "MEDAL_NAME_PERSISTENT"
+msgstr "連戰連捷"
+
+msgid "MEDAL_NAME_PLANE_TESTER"
+msgstr "試飛員"
+
+msgid "MEDAL_NAME_PULL"
+msgstr "攀升"
+
+msgid "MEDAL_NAME_PUNISHER"
+msgstr "一彈雙鵰"
+
+msgid "MEDAL_NAME_PYROMANIAC"
+msgstr "縱火者"
+
+msgid "MEDAL_NAME_QUARTERMASTER_1"
+msgstr "軍需官1級"
+
+msgid "MEDAL_NAME_QUARTERMASTER_2"
+msgstr "軍需官2級"
+
+msgid "MEDAL_NAME_QUARTERMASTER_3"
+msgstr "軍需官3級"
+
+msgid "MEDAL_NAME_QUARTERMASTER_4"
+msgstr "軍需官4級"
+
+msgid "MEDAL_NAME_QUARTERMASTER_5"
+msgstr "軍需官5級"
+
+msgid "MEDAL_NAME_RAIDER"
+msgstr "入侵者"
+
+msgid "MEDAL_NAME_REAPER"
+msgstr "收割者"
+
+msgid "MEDAL_NAME_REAR_GUARD"
+msgstr "後衛"
+
+msgid "MEDAL_NAME_REAR_GUNNER"
+msgstr "防禦者"
+
+msgid "MEDAL_NAME_RESILIENT"
+msgstr "以一擋百"
+
+msgid "MEDAL_NAME_RIDDLED"
+msgstr "對地助攻"
+
+msgid "MEDAL_NAME_ROAD_TO_THE_SKY"
+msgstr "飛行之路四級"
+
+msgid "MEDAL_NAME_ROCKET_SHOOTER"
+msgstr "火箭手"
+
+msgid "MEDAL_NAME_ROCKET_STRIKE"
+msgstr "火箭襲地"
+
+msgid "MEDAL_NAME_RUDORFFER"
+msgstr "魯道夫勒勳章"
+
+msgid "MEDAL_NAME_SCAN_THE_SKIES"
+msgstr "哨兵"
+
+msgid "MEDAL_NAME_SCORCHED_EARTH"
+msgstr "焦土之域"
+
+msgid "MEDAL_NAME_SCYTHE_OF_DEATH"
+msgstr "死神之刃"
+
+msgid "MEDAL_NAME_SECRET_SANTA"
+msgstr "神祕聖誕老人"
+
+msgid "MEDAL_NAME_SEVERSKY1"
+msgstr "謝韋爾斯基勳章 一級"
+
+msgid "MEDAL_NAME_SEVERSKY2"
+msgstr "謝韋爾斯基勳章 二級"
+
+msgid "MEDAL_NAME_SEVERSKY3"
+msgstr "謝韋爾斯基勳章 三級"
+
+msgid "MEDAL_NAME_SIKORSKY1"
+msgstr "西科斯基勳章 一級"
+
+msgid "MEDAL_NAME_SIKORSKY2"
+msgstr "西科斯基勳章 二級"
+
+msgid "MEDAL_NAME_SIKORSKY3"
+msgstr "西科斯基勳章 三級"
+
+msgid "MEDAL_NAME_SIKORSKY4"
+msgstr "西科斯基勳章 四級"
+
+msgid "MEDAL_NAME_SKILLED_PILOT"
+msgstr "操控大師"
+
+msgid "MEDAL_NAME_SKY_FIRE"
+msgstr "天火"
+
+msgid "MEDAL_NAME_SKY_N_GROUND"
+msgstr "死神降臨"
+
+msgid "MEDAL_NAME_SKY_SCOURGE"
+msgstr "天空主宰"
+
+msgid "MEDAL_NAME_SMOKING_BARRELS"
+msgstr "彈雨"
+
+msgid "MEDAL_NAME_SPECIAL_AWARD"
+msgstr "傑出隊員"
+
+msgid "MEDAL_NAME_SPRING_VETERAN"
+msgstr "春活老兵"
+
+msgid "MEDAL_NAME_SQUALL_OF_STEEL"
+msgstr "鋼鐵旋風"
+
+msgid "MEDAL_NAME_STABLE_RESULT"
+msgstr "優勝者"
+
+msgid "MEDAL_NAME_STAIRS_TO_THE_SKY"
+msgstr "飛行之路二級"
+
+msgid "MEDAL_NAME_STAIRWAY_TO_THE_SKY"
+msgstr "飛行之路三級"
+
+msgid "MEDAL_NAME_STEP_TO_THE_SKY"
+msgstr "飛行之路一級"
+
+msgid "MEDAL_NAME_STORMBRINGER"
+msgstr "咆哮者"
+
+msgid "MEDAL_NAME_STRIKE_TEAM"
+msgstr "傑出聯隊"
+
+msgid "MEDAL_NAME_STRONG_TEAM"
+msgstr "卓越聯隊"
+
+msgid "MEDAL_NAME_SUCCESSFUL_RAID"
+msgstr "掃地老手"
+
+msgid "MEDAL_NAME_SUDDEN_DEATH"
+msgstr "死神之吻"
+
+msgid "MEDAL_NAME_SUMMER_VETERAN"
+msgstr "秋活老兵"
+
+msgid "MEDAL_NAME_SUPERHEAVY"
+msgstr "攻擊機殺手"
+
+msgid "MEDAL_NAME_SUPERTEST_VETERAN"
+msgstr "超測老兵"
+
+msgid "MEDAL_NAME_SURE_COVER"
+msgstr "火力支援"
+
+msgid "MEDAL_NAME_SURVIVOR"
+msgstr "不死"
+
+msgid "MEDAL_NAME_TAIL_BUSTER"
+msgstr "斷尾者"
+
+msgid "MEDAL_NAME_TESTER_1"
+msgstr "一級測試大師"
+
+msgid "MEDAL_NAME_TESTER_10"
+msgstr "公測參與者"
+
+msgid "MEDAL_NAME_TESTER_2"
+msgstr "二級測試大師"
+
+msgid "MEDAL_NAME_TESTER_3"
+msgstr "三級測試大師"
+
+msgid "MEDAL_NAME_TESTER_4"
+msgstr "一級測試專家"
+
+msgid "MEDAL_NAME_TESTER_5"
+msgstr "二級測試專家"
+
+msgid "MEDAL_NAME_TESTER_6"
+msgstr "三級測試專家"
+
+msgid "MEDAL_NAME_TESTER_7"
+msgstr "一級測試者"
+
+msgid "MEDAL_NAME_TESTER_8"
+msgstr "二級測試者"
+
+msgid "MEDAL_NAME_TESTER_9"
+msgstr "三級測試者"
+
+msgid "MEDAL_NAME_THRIFTY_BOMBARDIER"
+msgstr "精準轟炸"
+
+msgid "MEDAL_NAME_THRIFTY_ROCKETEER"
+msgstr "精準投彈"
+
+msgid "MEDAL_NAME_THUNDER"
+msgstr "掃地手"
+
+msgid "MEDAL_NAME_TOP_DOWN_DIVER"
+msgstr "跳崖者"
+
+msgid "MEDAL_NAME_TOURNAMENT_1_PLACE"
+msgstr "冠軍隊員"
+
+msgid "MEDAL_NAME_TOURNAMENT_2_PLACE"
+msgstr "亞軍隊員"
+
+msgid "MEDAL_NAME_TOURNAMENT_3_PLACE"
+msgstr "季軍隊員"
+
+msgid "MEDAL_NAME_TOURNAMENT_PLAYER"
+msgstr "參與者"
+
+msgid "MEDAL_NAME_UNSTOPPABLE"
+msgstr "不敗"
+
+msgid "MEDAL_NAME_UNTOUCHABLE"
+msgstr "鐵布衫"
+
+msgid "MEDAL_NAME_VALUABLE_CONTRIBUTION"
+msgstr "貢獻者"
+
+msgid "MEDAL_NAME_VOLUNTEER"
+msgstr "志願服務"
+
+msgid "MEDAL_NAME_WEIGHTY_CONTRIBUTION"
+msgstr "卓越協作"
+
+msgid "MEDAL_NAME_WINGED_FLAME"
+msgstr "凌空之火"
+
+msgid "MEDAL_NAME_WINGMAN"
+msgstr "火力援助"
+
+msgid "MEDAL_NAME_WINTER_VETERAN"
+msgstr "冬季活動老兵"
+
+msgid "MEDAL_NAME_YEFIMOV"
+msgstr "葉菲莫勳章"
+
+msgid "MEDAL_NAME_ZVONAREV"
+msgstr "茲沃納列夫勳章"
+
+msgid "TOOLTIP_ACHIEVEMENTS_PAGE_PVE"
+msgstr "在戰鬥中獲得勳章和獎勵"
+
+msgid "ACHIEVEMENTS_AIRCRAFTS_DESTROED_IN_DEF_SECTOR"
+msgstr "Enemy aircraft destroyed when defending sectors"
+
+msgid "ACHIEVEMENTS_AIRCRAFTS_DESTROYED_2-0"
+msgstr "Enemy aircraft destroyed"
+
+msgid "ACHIEVEMENTS_AIRCRAFTS_DESTROYED_AVERAGE_PER_BATTLE"
+msgstr "Average number of enemy aircraft destroyed per battle"
+
+msgid "ACHIEVEMENTS_AIR_TARGETS_DESTROYED_AVERAGE_PER_FLIGHT"
+msgstr "Average number of aircraft destroyed per sortie"
+
+msgid "ACHIEVEMENTS_ALL_DURATION_ON_PLANES"
+msgstr "Total flying hours in the aircraft"
+
+msgid "ACHIEVEMENTS_ARCHIVE"
+msgstr "Archive"
+
+msgid "ACHIEVEMENTS_AVERAGE_BATTLE_POINTS_PER_BATTLE"
+msgstr "Average combat points earned per battle"
+
+msgid "ACHIEVEMENTS_AVERAGE_BATTLE_POINTS_PER_FLIGHT"
+msgstr "Average combat points earned per sortie"
+
+msgid "ACHIEVEMENTS_AVERAGE_DURATION_FLIGHT"
+msgstr "Average sortie duration"
+
+msgid "ACHIEVEMENTS_AVERAGE_EXP_PER_FLIGHT"
+msgstr "Average experience per sortie"
+
+msgid "ACHIEVEMENTS_CLASS_EFFICIENCY"
+msgstr "Aircraft Type Efficiency"
+
+msgid "ACHIEVEMENTS_CLASS_EFFICIENCY_ASSAULT"
+msgstr "Aircraft type efficiency: attack aircraft"
+
+msgid "ACHIEVEMENTS_CLASS_EFFICIENCY_BOMBER"
+msgstr "Aircraft type efficiency: bombers"
+
+msgid "ACHIEVEMENTS_CLASS_EFFICIENCY_FIGHTER"
+msgstr "Aircraft type efficiency: fighters"
+
+msgid "ACHIEVEMENTS_CLASS_EFFICIENCY_HFIGHTER"
+msgstr "Aircraft type efficiency: heavy fighters"
+
+msgid "ACHIEVEMENTS_CLASS_EFFICIENCY_NAVY"
+msgstr "Aircraft type efficiency: multirole fighters"
+
+msgid "ACHIEVEMENTS_CONTEXT_NOT_RECEIVED"
+msgstr "Achievement not received yet"
+
+msgid "ACHIEVEMENTS_DEFENDER-BOMBER_DESTROYED"
+msgstr "Air defense aircraft and bombers from Attack Flight destroyed"
+
+msgid "ACHIEVEMENTS_DEFENDER-BOMBER_DESTROYED_ASSISTS"
+msgstr ""
+"Assistance in destroying air defense aircraft and bombers from Attack Flight"
+
+msgid "ACHIEVEMENTS_DEFENDER-BOMBER_DESTROYED_AVERAGE_PER_BATTLE"
+msgstr ""
+"Average number of air defense aircraft and bombers from Attack Flight "
+"destroyed per battle"
+
+msgid "ACHIEVEMENTS_GROUND_OBJECTS_DESTROYED"
+msgstr "Ground targets destroyed"
+
+msgid "ACHIEVEMENTS_GROUND_OBJECTS_DESTROYED_ASSIST"
+msgstr "Assistance in destroying ground targets"
+
+msgid "ACHIEVEMENTS_GROUND_OBJECTS_DESTROYED_AVERAGE_PER_BATTLE"
+msgstr "Average number of ground targets destroyed per battle"
+
+msgid "ACHIEVEMENTS_GROUND_OBJECTS_DESTROYED_AVERAGE_PER_FLIGHT"
+msgstr "Average number of ground targets destroyed per sortie"
+
+msgid "ACHIEVEMENTS_HEROIC_DEEDS"
+msgstr "Records"
+
+msgid "ACHIEVEMENTS_MAX_AIRCRAFTS_DESTROED_PER_BATTLE"
+msgstr "Most enemy aircraft destroyed in a single battle"
+
+msgid "ACHIEVEMENTS_MAX_AIRCRAFT_DESTROED_IN_DEF_SECTOR"
+msgstr "Most enemy aircraft destroyed when defending sectors"
+
+msgid "ACHIEVEMENTS_MAX_BATTLE_POINTS_PER_BATTLE"
+msgstr "Most combat point earned in a single battle"
+
+msgid "ACHIEVEMENTS_MAX_DAMAGE_AIRCRAFT_PER_BATTLE"
+msgstr "Most damage caused to enemy aircraft in a single battle"
+
+msgid "ACHIEVEMENTS_MAX_DAMAGE_AIR_TARGETS_PER_BATTLE"
+msgstr "Most damage caused to aircraft in a single battle"
+
+msgid "ACHIEVEMENTS_MAX_DAMAGE_DEFENDER-BOMBER_PER_BATTLE"
+msgstr ""
+"Most damage caused to air defense aircraft and bombers from Attack Flight in "
+"a single battle"
+
+msgid "ACHIEVEMENTS_MAX_DAMAGE_GROUND_OBJECT_PER_BATTLE"
+msgstr "Most damage caused to ground targets in a single battle"
+
+msgid "ACHIEVEMENTS_MAX_DEFENDER-BOMBER_DESTROED_PER_BATTLE"
+msgstr ""
+"Most air defense aircraft and bombers from Attack Flight destroyed in a "
+"single battle"
+
+msgid "ACHIEVEMENTS_MAX_GROUND_OBJECT_DESTROED_PER_BATTLE"
+msgstr "Most ground targets destroyed in a single battle"
+
+msgid "ACHIEVEMENTS_PARTICIPATION_IN_CAP_SECTOR"
+msgstr "Participations in capturing sectors"
+
+msgid "ACHIEVEMENTS_RECIEVED_ON_AIRCRAFT"
+msgstr ""
+"Received on the following aircraft:<br>{aircraft_1}, {aircraft_2}, "
+"{aircraft_3}, {aircraft_4}, {aircraft_5} and {number} more."
+
+msgid "ACHIEVEMENTS_STAT_IN_NEW_MODE_CONQUEST"
+msgstr "Total flying hours for game mode \"Conquest\""
+
+msgid "ACHIEVEMENTS_SUMMARY_BATTLE_POINTS"
+msgstr "Total combat points"
+
+msgid "ACHIEVEMENTS_SUMMARY_BATTLE_POINTS_ON_PLANES"
+msgstr "Total combat points earned in the aircraft"
+
+msgid "ACHIEVEMENTS_SUMMARY_EXP_ON_PLANES"
+msgstr "Total experience earned in the aircraft"
+
+msgid "ACHIEVEMENTS_TAB_AWARDS_OLD"
+msgstr "Past Achievements"
+
+msgid "ACHIEVEMENTS_TOTAL_FLIGHT"
+msgstr "Sorties"
+
+msgid "ACHIEVEMENTS_TOTAL_RECIEVED"
+msgstr "Total received:"
+
+msgid "ACHIEVEMENTS_WINS_IN_GROUP_2-0"
+msgstr "Assistance in destroying enemy aircraft"
+
+msgid "ACHIEVEMENTS_XP_AND_BATTLESCORE"
+msgstr "Experience and Combat Points"
+
+msgid "MEDAL_DESCRIPTION_ACE"
+msgstr ""
+"Awarded for destroying at least <font color='#f2f2f2'>{0} aerial targets</"
+"font> in a single battle."
+
+msgid "MEDAL_DESCRIPTION_ALBION_LION-I"
+msgstr ""
+"Was awarded for participating in at least <font color='#f2f2f2'>21 "
+"confrontations</font> on the Allied side during the Skies of Albion event."
+
+msgid "MEDAL_DESCRIPTION_ALBION_LION-II"
+msgstr ""
+"Was awarded for participating in at least <font color='#f2f2f2'>10 "
+"confrontations</font> on the Allied side during the Skies of Albion event."
+
+msgid "MEDAL_DESCRIPTION_ALBION_LION-III"
+msgstr ""
+"Was awarded for participating in at least <font color='#f2f2f2'>1 "
+"confrontation</font> on the Allied side during the Skies of Albion event."
+
+msgid "MEDAL_DESCRIPTION_ALL_YEAR_2016_VETERAN"
+msgstr ""
+"Awarded for participating in four seasonal events available in 2015–2016."
+
+msgid "MEDAL_DESCRIPTION_ALTITUDE_HUNTER"
+msgstr ""
+"Awarded for destroying at least <font color='#f2f2f2'>{0} bombers</font> "
+"from the enemy combat group in a single battle and winning the battle."
+"<br><font size='6'><br></font>Available once for each aircraft in the Hangar."
+
+msgid "MEDAL_DESCRIPTION_ATTACK_ON_ALLIES_POSITION"
+msgstr "Awarded for completing the mission \"Offensive\"."
+
+msgid "MEDAL_DESCRIPTION_AUTUMN_VETERAN"
+msgstr "Awarded for participating in the 2016 event \"Three Years Airborne\"."
+
+msgid "MEDAL_DESCRIPTION_AVALANCHE"
+msgstr ""
+"Awarded for destroying at least <font color='#f2f2f2'>{0} enemy ground "
+"targets</font> in the first sortie.<br><font size='6'><br></font>The count "
+"is reset if the player's aircraft destroys fewer than {0} enemy ground "
+"targets before being destroyed."
+
+msgid "MEDAL_DESCRIPTION_BATTLE_VULTURE"
+msgstr ""
+"Awarded for destroying at least <font color='#f2f2f2'>{0} multirole "
+"fighters</font> from the enemy combat group in a single battle and winning "
+"the battle.<br><font size='6'><br></font>Available once for each aircraft in "
+"the Hangar."
+
+msgid "MEDAL_DESCRIPTION_BOMBARDIER_1"
+msgstr ""
+"Awarded for destroying <font color='#f2f2f2'>an enemy aircraft with a bomb "
+"explosion</font>.<br><font size='6'><br></font>Available once for each "
+"aircraft in the Hangar."
+
+msgid "MEDAL_DESCRIPTION_BOMBING_1"
+msgstr ""
+"Awarded for damaging a ground target by dropping a bomb.<br><br>Available "
+"once for each aircraft in the Hangar."
+
+msgid "MEDAL_DESCRIPTION_BOYINGTON1"
+msgstr ""
+"Awarded for earning at least <font color='#f2f2f2'>{0} capture points</font>."
+
+msgid "MEDAL_DESCRIPTION_BOYINGTON2"
+msgstr ""
+"Awarded for earning at least <font color='#f2f2f2'>{0} capture points</font>."
+
+msgid "MEDAL_DESCRIPTION_BOYINGTON3"
+msgstr ""
+"Awarded for earning at least <font color='#f2f2f2'>{0} capture points</font>."
+
+msgid "MEDAL_DESCRIPTION_BOYINGTON4"
+msgstr ""
+"Awarded for earning at least <font color='#f2f2f2'>{0} capture points</font>."
+
+msgid "MEDAL_DESCRIPTION_BURNING"
+msgstr ""
+"Awarded for surviving at least <font color='#f2f2f2'>2 fires</font> in a "
+"single sortie.<br><font size='6'><br></font>The count is reset if the "
+"player's aircraft is destroyed."
+
+msgid "MEDAL_DESCRIPTION_CATCHER"
+msgstr ""
+"Awarded for earning at least <font color='#f2f2f2'>{0} capture points</font> "
+"for destroying enemy aircraft flying over a sector under the control of the "
+"player's combat group in a single battle."
+
+msgid "MEDAL_DESCRIPTION_CAUTION_BOMB"
+msgstr ""
+"Awarded once for <font color='#f2f2f2'>damaging an aerial target using a "
+"bomb</font>."
+
+msgid "MEDAL_DESCRIPTION_CONQUEROR"
+msgstr ""
+"Awarded for earning at least <font color='#f2f2f2'>{0} capture points</font> "
+"in a single battle."
+
+msgid "MEDAL_DESCRIPTION_CONTROLLER"
+msgstr ""
+"Awarded for achieving maximum efficiency in completing the aircraft type-"
+"specific mission <font color='#f2f2f2'>\"Sector Capture\"</font>."
+
+msgid "MEDAL_DESCRIPTION_CROSSFIRE_1"
+msgstr ""
+"Awarded for damaging an enemy aircraft later destroyed by an allied aircraft."
+"<br><br>Available once only."
+
+msgid "MEDAL_DESCRIPTION_DANGEROUS_TARGET"
+msgstr ""
+"Awarded for destroying at least <font color='#f2f2f2'>{0} aerial targets</"
+"font> in the first sortie.<br><font size='6'><br></font>The count is reset "
+"if the player's aircraft destroys fewer than {0} aerial targets before being "
+"destroyed."
+
+msgid "MEDAL_DESCRIPTION_DANGER_TAIL"
+msgstr ""
+"Awarded for destroying at least <font color='#f2f2f2'>{0} aerial targets</"
+"font> with turret fire in a single sortie.<br><font size='6'><br></font>The "
+"count is reset if the player's aircraft is destroyed."
+
+msgid "MEDAL_DESCRIPTION_DARING_SWOOP"
+msgstr ""
+"Awarded once for <font color='#f2f2f2'>participating in capturing a sector</"
+"font>."
+
+msgid "MEDAL_DESCRIPTION_DEFENDER_PROGRESS1"
+msgstr ""
+"Was awarded for participating in at least <font color='#f2f2f2'>21 "
+"confrontations</font> on the Axis side during the Battle for Thor's Hammer "
+"event."
+
+msgid "MEDAL_DESCRIPTION_DEFENDER_PROGRESS2"
+msgstr ""
+"Was awarded for participating in at least <font color='#f2f2f2'>10 "
+"confrontations</font> on the Axis side during the Battle for Thor's Hammer "
+"event."
+
+msgid "MEDAL_DESCRIPTION_DEFENDER_PROGRESS3"
+msgstr ""
+"Was awarded for participating in at least <font color='#f2f2f2'>1 "
+"confrontation</font> on the Axis side during the Battle for Thor's Hammer "
+"event."
+
+msgid "MEDAL_DESCRIPTION_DESTROYER_OLD"
+msgstr ""
+"Was awarded for destroying at least <font color='#f2f2f2'>4 enemy aircraft</"
+"font> and receiving at least <font color='#f2f2f2'>15 points</font> for "
+"enemy ground targets destroyed in a single battle.<br><font size='6'><br></"
+"font>Was available in Standard Battle in Superiority mode."
+
+msgid "MEDAL_DESCRIPTION_DILLEI1"
+msgstr ""
+"Awarded for destroying at least <font color='#f2f2f2'>{0} aircraft from the "
+"enemy combat group</font>."
+
+msgid "MEDAL_DESCRIPTION_DILLEI2"
+msgstr ""
+"Awarded for destroying at least <font color='#f2f2f2'>{0} aircraft from the "
+"enemy combat group</font>."
+
+msgid "MEDAL_DESCRIPTION_DILLEI3"
+msgstr ""
+"Awarded for destroying at least <font color='#f2f2f2'>{0} aircraft from the "
+"enemy combat group</font>."
+
+msgid "MEDAL_DESCRIPTION_DILLEI4"
+msgstr ""
+"Awarded for destroying at least <font color='#f2f2f2'>{0} aircraft from the "
+"enemy combat group</font>."
+
+msgid "MEDAL_DESCRIPTION_DOMINATOR_1"
+msgstr ""
+"Awarded for destroying at least 1 enemy fighter, 1 heavy fighter, and 1 "
+"attack aircraft in a single battle, and winning the battle.<br><br>Available "
+"once for each aircraft in the Hangar."
+
+msgid "MEDAL_DESCRIPTION_DULITTLA"
+msgstr ""
+"Awarded for earning at least <font color='#f2f2f2'>{0} capture points</font> "
+"for destroying enemy ground targets with a bomber in a single sortie."
+
+msgid "MEDAL_DESCRIPTION_EFFECTIVE"
+msgstr ""
+"Awarded for earning at least <font color='#f2f2f2'>{0} combat points</font> "
+"in each of at least 2 battles played in a row.<br><font size='6'><br></"
+"font>The count is reset if the player earns fewer than {0} combat points in "
+"a single battle."
+
+msgid "MEDAL_DESCRIPTION_END_OF_SPEAR"
+msgstr ""
+"Awarded to members of a Flight that earned at least <font "
+"color='#f2f2f2'>{0} combat points</font>.<br><font size='6'><br></font>The "
+"count is reset if one of the Flight members is destroyed."
+
+msgid "MEDAL_DESCRIPTION_EXPERIENCED"
+msgstr ""
+"Awarded for winning a battle and <font color='#f2f2f2'>entering the top 3</"
+"font> in the combat group by the number of combat points earned.<br><font "
+"size='6'><br></font>Available once for each aircraft in the Hangar."
+
+msgid "MEDAL_DESCRIPTION_EXTERMINATOR"
+msgstr ""
+"Awarded for achieving maximum efficiency in completing the aircraft type-"
+"specific mission <font color='#f2f2f2'>\"Destruction of Ground Targets\"</"
+"font>."
+
+msgid "MEDAL_DESCRIPTION_FALCON_HUNTING"
+msgstr ""
+"Awarded for destroying at least <font color='#f2f2f2'>{0} fighters</font> "
+"from the enemy combat group in a single battle and winning the battle."
+"<br><font size='6'><br></font>Available once for each aircraft in the Hangar."
+
+msgid "MEDAL_DESCRIPTION_FIGHTER_DEFENDER"
+msgstr ""
+"Awarded for achieving maximum efficiency in completing the aircraft type-"
+"specific mission <font color='#f2f2f2'>\"Sector Defense\"</font>."
+
+msgid "MEDAL_DESCRIPTION_FIGHTER_DOMINATOR"
+msgstr ""
+"Awarded for achieving maximum efficiency in completing the aircraft type-"
+"specific mission <font color='#f2f2f2'>\"Air Battle for Sectors\"</font>."
+
+msgid "MEDAL_DESCRIPTION_FIGHTER_INTERCEPTOR"
+msgstr ""
+"Awarded for achieving maximum efficiency in completing the aircraft type-"
+"specific mission <font color='#f2f2f2'>\"Destruction of Aerial Targets\"</"
+"font>."
+
+msgid "MEDAL_DESCRIPTION_FIGHTER_OF_ALL_LIFE"
+msgstr ""
+"Awarded for achieving maximum efficiency in completing the aircraft type-"
+"specific mission <font color='#f2f2f2'>\"Sector Attack\"</font>."
+
+msgid "MEDAL_DESCRIPTION_FIREBUG"
+msgstr ""
+"Awarded once for <font color='#f2f2f2'>destroying a ground target by setting "
+"it on fire</font>."
+
+msgid "MEDAL_DESCRIPTION_FIRESPITTING"
+msgstr ""
+"Awarded for destroying at least <font color='#f2f2f2'>2 ground targets</"
+"font> in a single battle by <font color='#f2f2f2'>setting them on fire</"
+"font>.<br><font size='6'><br></font>Available once for each aircraft in the "
+"Hangar."
+
+msgid "MEDAL_DESCRIPTION_FLAME_OF_HEAVEN"
+msgstr ""
+"Awarded for <font color='#f2f2f2'>destroying an aerial target aircraft by "
+"setting it on fire</font>.<br><font size='6'><br></font>Available once for "
+"each aircraft in the Hangar."
+
+msgid "MEDAL_DESCRIPTION_FLOWN"
+msgstr ""
+"Awarded for <font color='#f2f2f2'>assisting the allies at least {0} times in "
+"destroying aerial targets</font> in a single battle and winning the battle."
+"<br><font size='6'><br></font>Available once for each aircraft in the Hangar."
+
+msgid "MEDAL_DESCRIPTION_FULMINANT"
+msgstr ""
+"Awarded for destroying <font color='#f2f2f2'>2 aerial targets</font> in a "
+"row in a single battle, without any other aerial target being destroyed by "
+"allies in between."
+
+msgid "MEDAL_DESCRIPTION_GOLUBEV"
+msgstr ""
+"Awarded for destroying at least <font color='#f2f2f2'>{0} aerial targets</"
+"font> using rockets in a single sortie and winning the battle."
+
+msgid "MEDAL_DESCRIPTION_GOTCHA_1"
+msgstr ""
+"Awarded for damaging an enemy aircraft with forward-firing weapons."
+"<br><br>Available once only."
+
+msgid "MEDAL_DESCRIPTION_GROUND_AND_IN_THE_SKY"
+msgstr ""
+"Awarded for destroying at least <font color='#f2f2f2'>{0} aerial targets</"
+"font> and <font color='#f2f2f2'>{1} ground targets</font> in each of at "
+"least 2 battles played in a row.<br><font size='6'><br></font>The count is "
+"reset if the player does not meet this condition."
+
+msgid "MEDAL_DESCRIPTION_GUARD"
+msgstr ""
+"Awarded once for <font color='#f2f2f2'>destroying an enemy ground target</"
+"font>."
+
+msgid "MEDAL_DESCRIPTION_GUNNER"
+msgstr ""
+"Awarded once for <font color='#f2f2f2'>damaging an aerial target with turret "
+"fire</font>."
+
+msgid "MEDAL_DESCRIPTION_HAMMER_PROGRESS1"
+msgstr ""
+"Was awarded for participating in at least <font color='#f2f2f2'>21 "
+"confrontations</font> on the Allied side during the Battle for Thor's Hammer "
+"event."
+
+msgid "MEDAL_DESCRIPTION_HAMMER_PROGRESS2"
+msgstr ""
+"Was awarded for participating in at least <font color='#f2f2f2'>10 "
+"confrontations</font> on the Allied side during the Battle for Thor's Hammer "
+"event."
+
+msgid "MEDAL_DESCRIPTION_HAMMER_PROGRESS3"
+msgstr ""
+"Was awarded for participating in at least <font color='#f2f2f2'>1 "
+"confrontation</font> on the Allied side during the Battle for Thor's Hammer "
+"event."
+
+msgid "MEDAL_DESCRIPTION_HAWK_LA_MANCHE-I"
+msgstr ""
+"Was awarded for participating in at least <font color='#f2f2f2'>21 "
+"confrontations</font> on the Axis side during the Skies of Albion event."
+
+msgid "MEDAL_DESCRIPTION_HAWK_LA_MANCHE-II"
+msgstr ""
+"Was awarded for participating in at least <font color='#f2f2f2'>10 "
+"confrontations</font> on the Axis side during the Skies of Albion event."
+
+msgid "MEDAL_DESCRIPTION_HAWK_LA_MANCHE-III"
+msgstr ""
+"Was awarded for participating in at least <font color='#f2f2f2'>1 "
+"confrontation</font> on the Axis side during the Skies of Albion event."
+
+msgid "MEDAL_DESCRIPTION_HEAVYWEIGHT_1"
+msgstr ""
+"Awarded for destroying an enemy heavy fighter.<br><br>Available one time "
+"only."
+
+msgid "MEDAL_DESCRIPTION_HUNGRY_FLOCK"
+msgstr ""
+"Awarded to members of a Flight for destroying at least <font "
+"color='#f2f2f2'>{0} aerial targets</font>, earning at least <font "
+"color='#f2f2f2'>{1} capture points</font> for destroying enemy ground "
+"targets in a single battle, and winning the battle."
+
+msgid "MEDAL_DESCRIPTION_HUNTER"
+msgstr ""
+"Awarded for destroying at least <font color='#f2f2f2'>{0} air defense "
+"aircraft</font> in each of at least 2 battles played in a row.<br><font "
+"size='6'><br></font>The count is reset if the player destroys fewer than {0} "
+"air defense aircraft in a single battle."
+
+msgid "MEDAL_DESCRIPTION_IMPACT_FROM_THE_SKY"
+msgstr ""
+"Awarded once for destroying a <font color='#f2f2f2'>bomber from an Attack "
+"Flight</font>."
+
+msgid "MEDAL_DESCRIPTION_INDEPENDENT"
+msgstr ""
+"Awarded to members of a Flight for destroying at least <font "
+"color='#f2f2f2'>{0} aircraft from the enemy combat group</font> in a single "
+"battle after the arrival of the <font color='#f2f2f2'>squall line</font> and "
+"winning the battle."
+
+msgid "MEDAL_DESCRIPTION_INTERCEPTORHEAVYWEIGHT_FIGHTER"
+msgstr ""
+"Awarded for destroying at least <font color='#f2f2f2'>{0} attack aircraft</"
+"font> from the enemy combat group in a single battle and winning the battle."
+"<br><font size='6'><br></font>Available once for each aircraft in the Hangar."
+
+msgid "MEDAL_DESCRIPTION_INTERCEPTOR_1"
+msgstr "Awarded for destroying at least 12 enemy aircraft in a single battle."
+
+msgid "MEDAL_DESCRIPTION_INVADER"
+msgstr ""
+"Awarded for earning at least <font color='#f2f2f2'>{0} capture points</font> "
+"in each of at least 2 battles played in a row.<br><font size='6'><br></"
+"font>The count is reset if the player earns fewer than {0} capture points in "
+"a single battle."
+
+msgid "MEDAL_DESCRIPTION_INVULNERABLE_1"
+msgstr ""
+"Awarded for surviving throughout at least 2 battles. The count is reset if "
+"the player's aircraft is destroyed."
+
+msgid "MEDAL_DESCRIPTION_JA_ALLY_PROGRESS1"
+msgstr ""
+"Was awarded for receiving at least <font color='#f2f2f2'>5,000 superiority "
+"points</font> in battles fought on the Allied side during the Japanese "
+"Threat event."
+
+msgid "MEDAL_DESCRIPTION_JA_ALLY_PROGRESS2"
+msgstr ""
+"Was awarded for receiving at least <font color='#f2f2f2'>1,500 superiority "
+"points</font> in battles fought on the Allied side during the Japanese "
+"Threat event."
+
+msgid "MEDAL_DESCRIPTION_JA_ALLY_PROGRESS3"
+msgstr ""
+"Was awarded for receiving at least <font color='#f2f2f2'>100 superiority "
+"points</font> in battles fought on the Allied side during the Japanese "
+"Threat event."
+
+msgid "MEDAL_DESCRIPTION_JA_AXIS_PROGRESS1"
+msgstr ""
+"Was awarded for receiving at least <font color='#f2f2f2'>5,000 superiority "
+"points</font> in battles fought on the Axis side during the Japanese Threat "
+"event."
+
+msgid "MEDAL_DESCRIPTION_JA_AXIS_PROGRESS2"
+msgstr ""
+"Was awarded for receiving at least <font color='#f2f2f2'>1,500 superiority "
+"points</font> in battles fought on the Axis side during the Japanese Threat "
+"event."
+
+msgid "MEDAL_DESCRIPTION_JA_AXIS_PROGRESS3"
+msgstr ""
+"Was awarded for receiving at least <font color='#f2f2f2'>100 superiority "
+"points</font> in battles fought on the Axis side during the Japanese Threat "
+"event."
+
+msgid "MEDAL_DESCRIPTION_JA_BANZAY"
+msgstr ""
+"Was awarded to a player on the Axis forces who destroyed an enemy aircraft "
+"by ramming during the Japanese Threat event.<br><font size='6'><br></"
+"font>Was available one time only."
+
+msgid "MEDAL_DESCRIPTION_JA_HUNTER"
+msgstr ""
+"Was awarded to a player on the Allied forces who destroyed an enemy aircraft "
+"by setting it on fire during the Japanese Threat event.<br><font "
+"size='6'><br></font>Was available one time only."
+
+msgid "MEDAL_DESCRIPTION_JA_PACIFIC1"
+msgstr ""
+"Was awarded for participating in at least <font color='#f2f2f2'>21 "
+"confrontations</font> on the Allied side during the Japanese Threat event."
+
+msgid "MEDAL_DESCRIPTION_JA_PACIFIC2"
+msgstr ""
+"Was awarded for participating in at least <font color='#f2f2f2'>10 "
+"confrontations</font> on the Allied side during the Japanese Threat event."
+
+msgid "MEDAL_DESCRIPTION_JA_PACIFIC3"
+msgstr ""
+"Was awarded for participating in at least <font color='#f2f2f2'>1 "
+"confrontation</font> on the Allied side during the Japanese Threat event."
+
+msgid "MEDAL_DESCRIPTION_JA_TORATORA1"
+msgstr ""
+"Was awarded for participating in at least <font color='#f2f2f2'>21 "
+"confrontations</font> on the Axis side during the Japanese Threat event."
+
+msgid "MEDAL_DESCRIPTION_JA_TORATORA2"
+msgstr ""
+"Was awarded for participating in at least <font color='#f2f2f2'>10 "
+"confrontations</font> on the Axis side during the Japanese Threat event."
+
+msgid "MEDAL_DESCRIPTION_JA_TORATORA3"
+msgstr ""
+"Was awarded for participating in at least <font color='#f2f2f2'>1 "
+"confrontation</font> on the Axis side during the Japanese Threat event."
+
+msgid "MEDAL_DESCRIPTION_JOHNSON1"
+msgstr ""
+"Awarded for destroying at least <font color='#f2f2f2'>{0} enemy ground "
+"targets</font>."
+
+msgid "MEDAL_DESCRIPTION_JOHNSON2"
+msgstr ""
+"Awarded for destroying at least <font color='#f2f2f2'>{0} enemy ground "
+"targets</font>."
+
+msgid "MEDAL_DESCRIPTION_JOHNSON3"
+msgstr ""
+"Awarded for destroying at least <font color='#f2f2f2'>{0} enemy ground "
+"targets</font>."
+
+msgid "MEDAL_DESCRIPTION_JOHNSON4"
+msgstr ""
+"Awarded for destroying at least <font color='#f2f2f2'>{0} enemy ground "
+"targets</font>."
+
+msgid "MEDAL_DESCRIPTION_KNIGHT"
+msgstr ""
+"Awarded once for destroying an <font color='#f2f2f2'>air defense aircraft</"
+"font>."
+
+msgid "MEDAL_DESCRIPTION_KOJEDUBA"
+msgstr ""
+"Awarded for destroying at least <font color='#f2f2f2'>{0} aircraft from the "
+"enemy combat group</font> after the arrival of the <font "
+"color='#f2f2f2'>squall line</font> and for surviving until the end of the "
+"battle."
+
+msgid "MEDAL_DESCRIPTION_LAMBERTA"
+msgstr ""
+"Awarded for earning at least <font color='#f2f2f2'>{0} capture points</font> "
+"in a single sortie with a multirole fighter."
+
+msgid "MEDAL_DESCRIPTION_LANG"
+msgstr ""
+"Awarded for destroying at least <font color='#f2f2f2'>{0} enemy ground "
+"targets</font> in a single sortie and winning the battle."
+
+msgid "MEDAL_DESCRIPTION_LAST_HOPE_ALLIES"
+msgstr "Awarded for completing the mission \"Allies' Last Hope\"."
+
+msgid "MEDAL_DESCRIPTION_LIGHT_WEIGHT"
+msgstr ""
+"Awarded once for <font color='#f2f2f2'>destroying {0} fighters</font> from "
+"the enemy combat group."
+
+msgid "MEDAL_DESCRIPTION_MACCAMPBELL"
+msgstr ""
+"Awarded for destroying at least <font color='#f2f2f2'>{0} aerial targets</"
+"font> in a single sortie and winning the battle.<br><font size='6'><br></"
+"font>The destroyed targets must include aircraft of <font "
+"color='#f2f2f2'>all 5 types</font>."
+
+msgid "MEDAL_DESCRIPTION_MARCEL"
+msgstr ""
+"Awarded for destroying at least <font color='#f2f2f2'>{0} aerial targets</"
+"font> in a single sortie and winning the battle."
+
+msgid "MEDAL_DESCRIPTION_MASTERS_OF_SKY"
+msgstr ""
+"Awarded to members of a Flight that destroyed at least <font "
+"color='#f2f2f2'>{0} aerial targets</font>.<br><font size='6'><br></font>The "
+"count is reset if one of the Flight members is destroyed."
+
+msgid "MEDAL_DESCRIPTION_MIHALENKOV1"
+msgstr ""
+"Awarded for earning at least <font color='#f2f2f2'>{0} combat points</font>."
+
+msgid "MEDAL_DESCRIPTION_MIHALENKOV2"
+msgstr ""
+"Awarded for earning at least <font color='#f2f2f2'>{0} combat points</font>."
+
+msgid "MEDAL_DESCRIPTION_MIHALENKOV4"
+msgstr ""
+"Awarded for earning at least <font color='#f2f2f2'>{0} combat points</font>."
+
+msgid "MEDAL_DESCRIPTION_MIHALENKOV_3"
+msgstr ""
+"Awarded for earning at least <font color='#f2f2f2'>{0} combat points</font>."
+
+msgid "MEDAL_DESCRIPTION_MISSILE_STRIKE"
+msgstr ""
+"Awarded once for <font color='#f2f2f2'>destroying {0} ground targets</font> "
+"using rockets."
+
+msgid "MEDAL_DESCRIPTION_MISSION_ACCOMPLISHED"
+msgstr "Awarded for completing the mission \"Mission Complete\"."
+
+msgid "MEDAL_DESCRIPTION_NORMALWEIGHT"
+msgstr ""
+"Awarded once for <font color='#f2f2f2'>destroying {0} multirole fighters</"
+"font> from the enemy combat group."
+
+msgid "MEDAL_DESCRIPTION_NO_CAMP_ALLY_PROGRESS1"
+msgstr ""
+"Awarded for receiving at least 5,000 superiority points in battles fought on "
+"the Allied side during the Battle for Thor's Hammer event."
+
+msgid "MEDAL_DESCRIPTION_NO_CAMP_ALLY_PROGRESS2"
+msgstr ""
+"Awarded for receiving at least 1,500 superiority points in battles fought on "
+"the Allied side during the Battle for Thor's Hammer event."
+
+msgid "MEDAL_DESCRIPTION_NO_CAMP_ALLY_PROGRESS3"
+msgstr ""
+"Awarded for receiving at least 100 superiority points in battles fought on "
+"the Allied side during the Battle for Thor's Hammer event."
+
+msgid "MEDAL_DESCRIPTION_NO_CAMP_AXIS_PROGRESS1"
+msgstr ""
+"Awarded for receiving at least 5,000 superiority points in battles fought on "
+"the Axis side during the Battle for Thor's Hammer event."
+
+msgid "MEDAL_DESCRIPTION_NO_CAMP_AXIS_PROGRESS2"
+msgstr ""
+"Awarded for receiving at least 1,500 superiority points in battles fought on "
+"the Axis side during the Battle for Thor's Hammer event."
+
+msgid "MEDAL_DESCRIPTION_NO_CAMP_AXIS_PROGRESS3"
+msgstr ""
+"Awarded for receiving at least 100 superiority points in battles fought on "
+"the Axis side during the Battle for Thor's Hammer event."
+
+msgid "MEDAL_DESCRIPTION_PATROL"
+msgstr ""
+"Awarded once for destroying <font color='#f2f2f2'>2 aerial targets</font> "
+"and <font color='#f2f2f2'>2 enemy ground targets</font> in a single battle."
+
+msgid "MEDAL_DESCRIPTION_POKRYSHKIN1"
+msgstr ""
+"Awarded for destroying at least <font color='#f2f2f2'>{0} air defense "
+"aircraft</font>."
+
+msgid "MEDAL_DESCRIPTION_POKRYSHKIN2"
+msgstr ""
+"Awarded for destroying at least <font color='#f2f2f2'>{0} air defense "
+"aircraft</font>."
+
+msgid "MEDAL_DESCRIPTION_POKRYSHKIN3"
+msgstr ""
+"Awarded for destroying at least <font color='#f2f2f2'>{0} air defense "
+"aircraft</font>."
+
+msgid "MEDAL_DESCRIPTION_POKRYSHKIN4"
+msgstr ""
+"Awarded for destroying at least <font color='#f2f2f2'>{0} air defense "
+"aircraft</font>."
+
+msgid "MEDAL_DESCRIPTION_PREDATOR"
+msgstr ""
+"Awarded for assisting in destroying at least <font color='#f2f2f2'>{0} "
+"aerial targets</font> in a single battle."
+
+msgid "MEDAL_DESCRIPTION_PREDATORY_BIRD"
+msgstr ""
+"Awarded for destroying at least <font color='#f2f2f2'>{0} heavy fighters</"
+"font> from the enemy combat group in a single battle and winning the battle."
+"<br><font size='6'><br></font>Available once for each aircraft in the Hangar."
+
+msgid "MEDAL_DESCRIPTION_PREDATORY_DUET"
+msgstr ""
+"Awarded to members of a Flight that destroyed <font color='#f2f2f2'>{0} "
+"aerial targets</font> and earned at least <font color='#f2f2f2'>{1} capture "
+"points</font>.<br><font size='6'><br></font>The count is reset if one of the "
+"Flight members is destroyed."
+
+msgid "MEDAL_DESCRIPTION_RELIABLE_PROTECTION"
+msgstr ""
+"Awarded for <font color='#f2f2f2'>assisting the allies at least {0} times in "
+"destroying aerial targets</font> in a single battle and winning the battle."
+"<br><font size='6'><br></font>Available once for each aircraft in the Hangar."
+
+msgid "MEDAL_DESCRIPTION_RELIABLE_REAR"
+msgstr ""
+"Awarded for destroying <font color='#f2f2f2'>an aerial target with turret "
+"fire</font>."
+
+msgid "MEDAL_DESCRIPTION_REVENGE"
+msgstr ""
+"Awarded for destroying an <font color='#f2f2f2'>aircraft from the enemy "
+"combat group that destroyed the player's aircraft earlier in the same "
+"battle</font>."
+
+msgid "MEDAL_DESCRIPTION_RIDDLE"
+msgstr ""
+"Awarded for <font color='#f2f2f2'>assisting the allies at least {0} times in "
+"destroying ground targets</font> in a single battle and winning the battle."
+"<br><font size='6'><br></font>Available once for each aircraft in the Hangar."
+
+msgid "MEDAL_DESCRIPTION_ROCKETEER"
+msgstr ""
+"Awarded for destroying an <font color='#f2f2f2'>aerial target using a "
+"rocket</font>."
+
+msgid "MEDAL_DESCRIPTION_RUTHLESS"
+msgstr ""
+"Awarded for destroying at least 15 air defense aircraft and bombers from an "
+"Attack Flight in a single battle."
+
+msgid "MEDAL_DESCRIPTION_SECRET_SANTA_2017"
+msgstr "Awarded for participating in the 2016–2017 event \"Santa's Bag\"."
+
+msgid "MEDAL_DESCRIPTION_SECRET_SANTA_2017_1"
+msgstr "Participate in the 2016–2017 holiday event."
+
+msgid "MEDAL_DESCRIPTION_SECRET_SANTA_2018"
+msgstr ""
+"Awarded for participating in the special event during the 2017–2018 holiday "
+"season."
+
+msgid "MEDAL_DESCRIPTION_SKY_WOLVES"
+msgstr ""
+"Awarded to members of a Flight for destroying at least <font "
+"color='#f2f2f2'>{0} aerial targets</font>, earning at least <font "
+"color='#f2f2f2'>{1} capture points</font> for destroying enemy ground "
+"targets in a single battle, and winning the battle."
+
+msgid "MEDAL_DESCRIPTION_STAR_CATCHER"
+msgstr ""
+"Awarded for participating in the 2016–2017 event \"Wish Upon a Shooting Star"
+"\"."
+
+msgid "MEDAL_DESCRIPTION_STEEL_FLURRY"
+msgstr ""
+"Awarded for <font color='#f2f2f2'>assisting the allies at least {0} times in "
+"destroying ground targets</font> in a single battle and winning the battle."
+"<br><font size='6'><br></font>Available once for each aircraft in the Hangar."
+
+msgid "MEDAL_DESCRIPTION_SUPERHEAVYWEIGHT"
+msgstr ""
+"Awarded once for <font color='#f2f2f2'>destroying {0} attack aircraft</font> "
+"from the enemy combat group."
+
+msgid "MEDAL_DESCRIPTION_TEAMWORK_GURU"
+msgstr ""
+"Awarded for earning <font color='#f2f2f2'>the highest aircraft type grade</"
+"font> in battle."
+
+msgid "MEDAL_DESCRIPTION_UNLIMITED_WEIGHT"
+msgstr ""
+"Awarded once for <font color='#f2f2f2'>destroying {0} bombers</font> from "
+"the enemy combat group."
+
+msgid "MEDAL_DESCRIPTION_VETERAN"
+msgstr ""
+"Awarded for winning a battle and <font color='#f2f2f2'>achieving the top "
+"rank</font> in the combat group.<br><font size='6'><br></font>Available once "
+"for each aircraft in the Hangar."
+
+msgid "MEDAL_DESCRIPTION_WG_FEST_2016"
+msgstr ""
+"Награждается игрок, посетивший фестиваль <font color='#{colorID}'>WG Fest "
+"2016</font>."
+
+msgid "MEDAL_DESCRIPTION_WG_FEST_2017"
+msgstr ""
+"Выдавалась за посещение мероприятия <font color='#{colorID}'>WG Fest 2017</"
+"font>."
+
+msgid "MEDAL_DESCRIPTION_WG_FEST_2017_1"
+msgstr ""
+"Выдавалась всем игрокам при получении пригласительного на <font "
+"color='#{colorID}'>WG Fest 2017</font>."
+
+msgid "MEDAL_DESCRIPTION_WG_FEST_2017_2"
+msgstr "Выдавалась только одна награда за любое количество пригласительных."
+
+msgid "MEDAL_DESCRIPTION_WING_LEGEND"
+msgstr ""
+"Awarded for earning at least <font color='#f2f2f2'>{0} combat points</font> "
+"in a single battle."
+
+msgid "MEDAL_HISTORY_BOYINGTON"
+msgstr ""
+"<font color='#f2f2f2'>Gregory \"Pappy\" Boyington</font> was an American "
+"fighter ace. He served with the 1st American Volunteer Group known as the "
+"Flying Tigers in 1941–1942 and in the Marine Corps VMF-214 \"Black Sheep\" "
+"in 1943–1944. He shot down 28 Japanese aircraft in his Р-40 Warhawk and F4U "
+"Corsair."
+
+msgid "MEDAL_HISTORY_DILLEI"
+msgstr ""
+"<font color='#f2f2f2'>Bruno Dilley</font> was a German pilot. In 1939–1943, "
+"he flew 700 combat missions in the Ju 87 dive bomber. He is considered to be "
+"a pilot who conducted the first bombing raid of World War II on September 1, "
+"1939."
+
+msgid "MEDAL_HISTORY_DULITTLA"
+msgstr ""
+"<font color='#f2f2f2'>James Harold Doolittle</font> was an American bomber "
+"pilot. On April 18 of 1942, 16 land-based B-25 Mitchell bombers under his "
+"command took off from the Hornet aircraft carrier and conducted a morally "
+"and politically important raid on the capital of the Japanese Empire, Tokyo."
+
+msgid "MEDAL_HISTORY_GOLUBEV"
+msgstr ""
+"<font color='#f2f2f2'>Vasiliy Golubev</font> was a Soviet fighter pilot who "
+"served during World War II. In 1941–1945, he flew 589 combat missions in the "
+"I-16, La-5, and La-7. He was credited with 39 individual and 12 shared "
+"aerial victories."
+
+msgid "MEDAL_HISTORY_JOHNSON"
+msgstr ""
+"<font color='#f2f2f2'>James Edgar Johnson</font> was a British fighter pilot "
+"and the highest scoring British ace who served in World War II. In 1940–"
+"1944, he flew 515 combat missions in the Spitfire and scored 34 individual "
+"and 7 shared aerial victories."
+
+msgid "MEDAL_HISTORY_KOJEDUBA"
+msgstr ""
+"<font color='#f2f2f2'>Ivan Kozhedub</font> was a Soviet ace who was the "
+"highest-scoring Allied pilot. In 1943–1945, he shot down a total of 62 enemy "
+"aircraft, including the jet-powered Me 262, flying the La-5 and La-7."
+
+msgid "MEDAL_HISTORY_LAMBERTA"
+msgstr ""
+"<font color='#f2f2f2'>August Lambert</font> was a German ace who flew the "
+"Fw 190 with the ground attack unit of the Luftwaffe. He destroyed a "
+"significant number of ground targets and claimed to have destroyed 116 enemy "
+"aircraft."
+
+msgid "MEDAL_HISTORY_LANG"
+msgstr ""
+"<font color='#f2f2f2'>Friedrich Lang</font> was a German ace. He flew 1,008 "
+"combat missions in the Ju 87 and Fw 190, from the very first until the very "
+"last day of World War II, and was never shot down."
+
+msgid "MEDAL_HISTORY_MACCAMPBELL"
+msgstr ""
+"<font color='#f2f2f2'>David McCampbell</font> was an American fighter pilot "
+"and the top scoring ace in the U.S. Navy during World War II. In 1944–1945, "
+"he shot down 34 Japanese aircraft, including 9 in a single mission, in his "
+"F6F Hellcat."
+
+msgid "MEDAL_HISTORY_MARCEL"
+msgstr ""
+"<font color='#f2f2f2'>Hans-Joachim Marseille</font> was a German fighter "
+"ace. In 1940–1942, he flew 388 combat missions and scored 158 aerial "
+"victories in the Bf 109. He is considered the Luftwaffe's highest scoring "
+"pilot in battles against the Western Allies."
+
+msgid "MEDAL_HISTORY_MIHALENKOV"
+msgstr ""
+"<font color='#f2f2f2'>Efim Mikhalenkov</font> was a Soviet attack aircraft "
+"pilot who served in World War II. He flew 275 combat missions in the IL-2, "
+"destroyed a significant number of ground targets and 12 enemy aircraft "
+"personally and together with other pilots."
+
+msgid "MEDAL_HISTORY_POKRYSHKIN"
+msgstr ""
+"<font color='#f2f2f2'>Alexander Pokryshkin</font> was a Soviet fighter ace. "
+"In 1941–1945, he flew 650 combat missions in the MiG-3, Yak-1, and P-39 "
+"Airacobra. He shot down 59 enemy aircraft personally and 6 together with "
+"other pilots."
+
+msgid "MEDAL_LEVEL_LIMIT"
+msgstr "Can be received in aircraft of Tier IV or higher."
+
+msgid "MEDAL_LOW_LEVEL_LIMIT"
+msgstr "Can be received in aircraft of Tier III or lower."
+
+msgid "MEDAL_NAME_ACE"
+msgstr "Ace"
+
+msgid "MEDAL_NAME_ALBION_LION-I"
+msgstr "Albion's Lion Badge Class I"
+
+msgid "MEDAL_NAME_ALBION_LION-II"
+msgstr "Albion's Lion Badge Class II"
+
+msgid "MEDAL_NAME_ALBION_LION-III"
+msgstr "Albion's Lion Badge Class III"
+
+msgid "MEDAL_NAME_ALL_YEAR_2016_VETERAN"
+msgstr "All-Season Hunter"
+
+msgid "MEDAL_NAME_ALTITUDE_HUNTER"
+msgstr "Hunt for Vulture"
+
+msgid "MEDAL_NAME_ATTACK_ON_ALLIES_POSITION"
+msgstr "Offensive"
+
+msgid "MEDAL_NAME_AUTUMN_VETERAN"
+msgstr "Fall Event Veteran"
+
+msgid "MEDAL_NAME_AVALANCHE"
+msgstr "Avalanche"
+
+msgid "MEDAL_NAME_BATTLE_VULTURE"
+msgstr "Hunt for Falcon"
+
+msgid "MEDAL_NAME_BOMBARDIER_1"
+msgstr "Bombardier"
+
+msgid "MEDAL_NAME_BOMBING_1"
+msgstr "Bombs Away"
+
+msgid "MEDAL_NAME_BOYINGTON1"
+msgstr "Boyington Medal Class I"
+
+msgid "MEDAL_NAME_BOYINGTON2"
+msgstr "Boyington Medal Class II"
+
+msgid "MEDAL_NAME_BOYINGTON3"
+msgstr "Boyington Medal Class III"
+
+msgid "MEDAL_NAME_BOYINGTON4"
+msgstr "Boyington Medal Class IV"
+
+msgid "MEDAL_NAME_BURNING"
+msgstr "Unburnt"
+
+msgid "MEDAL_NAME_CATCHER"
+msgstr "Guardian"
+
+msgid "MEDAL_NAME_CAUTION_BOMB"
+msgstr "Surprise from the Sky"
+
+msgid "MEDAL_NAME_CONQUEROR"
+msgstr "Conqueror"
+
+msgid "MEDAL_NAME_CONTROLLER"
+msgstr "Flying Vanguard Badge"
+
+msgid "MEDAL_NAME_CROSSFIRE_1"
+msgstr "Crossfire"
+
+msgid "MEDAL_NAME_DANGEROUS_TARGET"
+msgstr "Flying Start"
+
+msgid "MEDAL_NAME_DANGER_TAIL"
+msgstr "Self-Defense Master"
+
+msgid "MEDAL_NAME_DARING_SWOOP"
+msgstr "Conquistador"
+
+msgid "MEDAL_NAME_DEFENDER_PROGRESS1"
+msgstr "Guardian of Asgard Badge Class I"
+
+msgid "MEDAL_NAME_DEFENDER_PROGRESS2"
+msgstr "Guardian of Asgard Badge Class II"
+
+msgid "MEDAL_NAME_DEFENDER_PROGRESS3"
+msgstr "Guardian of Asgard Badge Class III"
+
+msgid "MEDAL_NAME_DESTROYER_OLD"
+msgstr "Destroyer"
+
+msgid "MEDAL_NAME_DILLEI1"
+msgstr "Dilley Medal Class I"
+
+msgid "MEDAL_NAME_DILLEI2"
+msgstr "Dilley Medal Class II"
+
+msgid "MEDAL_NAME_DILLEI3"
+msgstr "Dilley Medal Class III"
+
+msgid "MEDAL_NAME_DILLEI4"
+msgstr "Dilley Medal Class IV"
+
+msgid "MEDAL_NAME_DOMINATOR_1"
+msgstr "Hat Trick"
+
+msgid "MEDAL_NAME_DULITTLA"
+msgstr "Doolittle Medal"
+
+msgid "MEDAL_NAME_EFFECTIVE"
+msgstr "Effective Fire"
+
+msgid "MEDAL_NAME_END_OF_SPEAR"
+msgstr "Tip of the Spear"
+
+msgid "MEDAL_NAME_EXPERIENCED"
+msgstr "Expert Pilot"
+
+msgid "MEDAL_NAME_EXTERMINATOR"
+msgstr "Flying Exterminator Badge"
+
+msgid "MEDAL_NAME_FALCON_HUNTING"
+msgstr "Hunt for Hawk"
+
+msgid "MEDAL_NAME_FIGHTER_DEFENDER"
+msgstr "Flying Guardian Badge"
+
+msgid "MEDAL_NAME_FIGHTER_DOMINATOR"
+msgstr "Flying Warrior Badge"
+
+msgid "MEDAL_NAME_FIGHTER_INTERCEPTOR"
+msgstr "Flying Paladin Badge"
+
+msgid "MEDAL_NAME_FIGHTER_OF_ALL_LIFE"
+msgstr "Flying Raider Badge"
+
+msgid "MEDAL_NAME_FIREBUG"
+msgstr "Inferno"
+
+msgid "MEDAL_NAME_FIRESPITTING"
+msgstr "Fire Breathing"
+
+msgid "MEDAL_NAME_FLAME_OF_HEAVEN"
+msgstr "Flames in the Sky"
+
+msgid "MEDAL_NAME_FLOWN"
+msgstr "Supporting Fire"
+
+msgid "MEDAL_NAME_FULMINANT"
+msgstr "Quick Shot"
+
+msgid "MEDAL_NAME_GOLUBEV"
+msgstr "Golubev Medal"
+
+msgid "MEDAL_NAME_GOTCHA_1"
+msgstr "Direct Hit"
+
+msgid "MEDAL_NAME_GROUND_AND_IN_THE_SKY"
+msgstr "Air and Ground"
+
+msgid "MEDAL_NAME_GUARD"
+msgstr "Crusher"
+
+msgid "MEDAL_NAME_GUNNER"
+msgstr "Reliable Cover"
+
+msgid "MEDAL_NAME_HAMMER_PROGRESS1"
+msgstr "Thor's Hammer Badge Class I"
+
+msgid "MEDAL_NAME_HAMMER_PROGRESS2"
+msgstr "Thor's Hammer Badge Class II"
+
+msgid "MEDAL_NAME_HAMMER_PROGRESS3"
+msgstr "Thor's Hammer Badge Class III"
+
+msgid "MEDAL_NAME_HAWK_LA_MANCHE-I"
+msgstr "Eagle of the Channel Badge Class I"
+
+msgid "MEDAL_NAME_HAWK_LA_MANCHE-II"
+msgstr "Eagle of the Channel Badge Class II"
+
+msgid "MEDAL_NAME_HAWK_LA_MANCHE-III"
+msgstr "Eagle of the Channel Badge Class III"
+
+msgid "MEDAL_NAME_HEAVYWEIGHT_1"
+msgstr "Heavyweight"
+
+msgid "MEDAL_NAME_HEAVYWEIGHT_FIGHTER"
+msgstr "Hunt for Stormbird"
+
+msgid "MEDAL_NAME_HUNGRY_FLOCK"
+msgstr "Hungry Pack"
+
+msgid "MEDAL_NAME_HUNTER"
+msgstr "Hunter"
+
+msgid "MEDAL_NAME_IMPACT_FROM_THE_SKY"
+msgstr "Successful Interception"
+
+msgid "MEDAL_NAME_INDEPENDENT"
+msgstr "Unstoppable"
+
+msgid "MEDAL_NAME_INTERCEPTOR_1"
+msgstr "Interceptor"
+
+msgid "MEDAL_NAME_INVADER"
+msgstr "Subjugator"
+
+msgid "MEDAL_NAME_INVULNERABLE_1"
+msgstr "Invulnerable"
+
+msgid "MEDAL_NAME_JA_ALLY_PROGRESS1"
+msgstr "Distinguished Service Badge Class I"
+
+msgid "MEDAL_NAME_JA_ALLY_PROGRESS2"
+msgstr "Distinguished Service Badge Class II"
+
+msgid "MEDAL_NAME_JA_ALLY_PROGRESS3"
+msgstr "Distinguished Service Badge Class III"
+
+msgid "MEDAL_NAME_JA_AXIS_PROGRESS1"
+msgstr "Golden Kite Badge Class I"
+
+msgid "MEDAL_NAME_JA_AXIS_PROGRESS2"
+msgstr "Golden Kite Badge Class II"
+
+msgid "MEDAL_NAME_JA_AXIS_PROGRESS3"
+msgstr "Golden Kite Badge Class III"
+
+msgid "MEDAL_NAME_JA_BANZAY"
+msgstr "Banzai!"
+
+msgid "MEDAL_NAME_JA_HUNTER"
+msgstr "Turkey Shooter"
+
+msgid "MEDAL_NAME_JA_PACIFIC1"
+msgstr "Pacific Defense Badge Class I"
+
+msgid "MEDAL_NAME_JA_PACIFIC2"
+msgstr "Pacific Defense Badge Class II"
+
+msgid "MEDAL_NAME_JA_PACIFIC3"
+msgstr "Pacific Defense Badge Class III"
+
+msgid "MEDAL_NAME_JA_TORATORA1"
+msgstr "Tora! Tora! Tora! Badge Class I"
+
+msgid "MEDAL_NAME_JA_TORATORA2"
+msgstr "Tora! Tora! Tora! Badge Class II"
+
+msgid "MEDAL_NAME_JA_TORATORA3"
+msgstr "Tora! Tora! Tora! Badge Class III"
+
+msgid "MEDAL_NAME_JOHNSON1"
+msgstr "Johnson Medal Class I"
+
+msgid "MEDAL_NAME_JOHNSON2"
+msgstr "Johnson Medal Class II"
+
+msgid "MEDAL_NAME_JOHNSON3"
+msgstr "Johnson Medal Class III"
+
+msgid "MEDAL_NAME_JOHNSON4"
+msgstr "Johnson Medal Class IV"
+
+msgid "MEDAL_NAME_KNIGHT"
+msgstr "Sky Knight"
+
+msgid "MEDAL_NAME_KOJEDUBA"
+msgstr "Kozhedub Medal"
+
+msgid "MEDAL_NAME_LAMBERTA"
+msgstr "Lambert Medal"
+
+msgid "MEDAL_NAME_LANG"
+msgstr "Lang Medal"
+
+msgid "MEDAL_NAME_LAST_HOPE_ALLIES"
+msgstr "Allies' Last Hope"
+
+msgid "MEDAL_NAME_LIGHT_WEIGHT"
+msgstr "Lightweight"
+
+msgid "MEDAL_NAME_MACCAMPBELL"
+msgstr "McCampbell Medal"
+
+msgid "MEDAL_NAME_MARCEL"
+msgstr "Marseille Medal"
+
+msgid "MEDAL_NAME_MASTERS_OF_SKY"
+msgstr "Lords of the Sky"
+
+msgid "MEDAL_NAME_MIHALENKOV1"
+msgstr "Mikhalenkov Medal Class I"
+
+msgid "MEDAL_NAME_MIHALENKOV2"
+msgstr "Mikhalenkov Medal Class II"
+
+msgid "MEDAL_NAME_MIHALENKOV3"
+msgstr "Mikhalenkov Medal Class III"
+
+msgid "MEDAL_NAME_MIHALENKOV4"
+msgstr "Mikhalenkov Medal Class IV"
+
+msgid "MEDAL_NAME_MISSILE_STRIKE"
+msgstr "Rocket Strike"
+
+msgid "MEDAL_NAME_MISSION_ACCOMPLISHED"
+msgstr "Mission Complete"
+
+msgid "MEDAL_NAME_NORMALWEIGHT"
+msgstr "Middleweight"
+
+msgid "MEDAL_NAME_NO_CAMP_ALLY_PROGRESS1"
+msgstr "Steel Mountain Badge Class I"
+
+msgid "MEDAL_NAME_NO_CAMP_ALLY_PROGRESS2"
+msgstr "Steel Mountain Badge Class II"
+
+msgid "MEDAL_NAME_NO_CAMP_ALLY_PROGRESS3"
+msgstr "Steel Mountain Badge Class III"
+
+msgid "MEDAL_NAME_NO_CAMP_AXIS_PROGRESS1"
+msgstr "Blooming Edelweiss Badge Class I"
+
+msgid "MEDAL_NAME_NO_CAMP_AXIS_PROGRESS2"
+msgstr "Blooming Edelweiss Badge Class II"
+
+msgid "MEDAL_NAME_NO_CAMP_AXIS_PROGRESS3"
+msgstr "Blooming Edelweiss Badge Class III"
+
+msgid "MEDAL_NAME_PATROL"
+msgstr "All-Round Abilities"
+
+msgid "MEDAL_NAME_POKRYSHKIN1"
+msgstr "Pokryshkin Medal Class I"
+
+msgid "MEDAL_NAME_POKRYSHKIN2"
+msgstr "Pokryshkin Medal Class II"
+
+msgid "MEDAL_NAME_POKRYSHKIN3"
+msgstr "Pokryshkin Medal Class III"
+
+msgid "MEDAL_NAME_POKRYSHKIN4"
+msgstr "Pokryshkin Medal Class IV"
+
+msgid "MEDAL_NAME_PREDATOR"
+msgstr "Predator"
+
+msgid "MEDAL_NAME_PREDATORY_BIRD"
+msgstr "Hunt for Condor"
+
+msgid "MEDAL_NAME_PREDATORY_DUET"
+msgstr "Raptor Duo"
+
+msgid "MEDAL_NAME_RELIABLE_PROTECTION"
+msgstr "Strong Support"
+
+msgid "MEDAL_NAME_RELIABLE_REAR"
+msgstr "Rear Cover"
+
+msgid "MEDAL_NAME_REVENGE"
+msgstr "Avenger"
+
+msgid "MEDAL_NAME_RIDDLE"
+msgstr "Swooper"
+
+msgid "MEDAL_NAME_ROCKETEER"
+msgstr "Rocketeer"
+
+msgid "MEDAL_NAME_RUTHLESS"
+msgstr "Merciless"
+
+msgid "MEDAL_NAME_SECRET_SANTA_2017"
+msgstr "Santa's Bag"
+
+msgid "MEDAL_NAME_SECRET_SANTA_2018"
+msgstr "Holiday Season Event"
+
+msgid "MEDAL_NAME_SKY_WOLVES"
+msgstr "Air Wolves"
+
+msgid "MEDAL_NAME_STAR_CATCHER"
+msgstr "Reach for the Star"
+
+msgid "MEDAL_NAME_STEEL_FLURRY"
+msgstr "Hail of Steel"
+
+msgid "MEDAL_NAME_SUPERHEAVYWEIGHT"
+msgstr "Heavyweight"
+
+msgid "MEDAL_NAME_TEAMWORK_GURU"
+msgstr "Hero of the Sky Badge"
+
+msgid "MEDAL_NAME_UNLIMITED_WEIGHT"
+msgstr "Super Heavyweight"
+
+msgid "MEDAL_NAME_VETERAN"
+msgstr "Top Pilot"
+
+msgid "MEDAL_NAME_WG_FEST_2016"
+msgstr "«Участник WG Fest 2016»"
+
+msgid "MEDAL_NAME_WG_FEST_2017"
+msgstr "«Участник WG Fest 2017»"
+
+msgid "MEDAL_NAME_WING_LEGEND"
+msgstr "Winged Legend"
+
+msgid "MEDAL_STAGE_BEGELDINOV"
+msgstr ""
+"Class I: <font color='#f2f2f2'>30,000</font> ground targets<br>Class II: "
+"<font color='#f2f2f2'>3,000</font> ground targets<br>Class III: <font "
+"color='#f2f2f2'>300</font> ground targets<br>Class IV: <font "
+"color='#f2f2f2'>30</font> ground targets"
+
+msgid "MEDAL_STAGE_BONG"
+msgstr ""
+"Class I: <font color='#f2f2f2'>300</font> Destroyer medals<br>Class II: "
+"<font color='#f2f2f2'>30</font> Destroyer medals<br>Class III: <font "
+"color='#f2f2f2'>3</font> Destroyer medals"
+
+msgid "MEDAL_STAGE_BOYINGTON"
+msgstr ""
+"Class I: <font color='#f2f2f2'>{0}</font> capture points<br>Class II: <font "
+"color='#f2f2f2'>{1}</font> capture points<br>Class III: <font "
+"color='#f2f2f2'>{2}</font> capture points<br>Class IV: <font "
+"color='#f2f2f2'>{3}</font> capture points"
+
+msgid "MEDAL_STAGE_DEFENDER_PROGRESS"
+msgstr ""
+"Class I: <font color='#f2f2f2'>21</font> confrontations<br>Class II: <font "
+"color='#f2f2f2'>10</font> confrontations<br>Class III: <font "
+"color='#f2f2f2'>1</font> confrontation"
+
+msgid "MEDAL_STAGE_DILLEI"
+msgstr ""
+"Class I: <font color='#f2f2f2'>{0}</font> enemy aircraft<br>Class II: <font "
+"color='#f2f2f2'>{1}</font> enemy aircraft<br>Class III: <font "
+"color='#f2f2f2'>{2}</font> enemy aircraft<br>Class IV: <font "
+"color='#f2f2f2'>{3}</font> enemy aircraft"
+
+msgid "MEDAL_STAGE_GALLAND"
+msgstr ""
+"Class I: <font color='#f2f2f2'>300</font> Ace medals<br>Class II: <font "
+"color='#f2f2f2'>30</font> Ace medals<br>Class III: <font color='#f2f2f2'>3</"
+"font> Ace medals"
+
+msgid "MEDAL_STAGE_GRAF"
+msgstr ""
+"Class I: <font color='#f2f2f2'>10,000</font> aircraft<br>Class II: <font "
+"color='#f2f2f2'>1,000</font> aircraft<br>Class III: <font "
+"color='#f2f2f2'>100</font> aircraft<br>Class IV: <font color='#f2f2f2'>10</"
+"font> aircraft"
+
+msgid "MEDAL_STAGE_HAMMER_PROGRESS"
+msgstr ""
+"Class I: <font color='#f2f2f2'>21</font> confrontations<br>Class II: <font "
+"color='#f2f2f2'>10</font> confrontations<br>Class III: <font "
+"color='#f2f2f2'>1</font> confrontation"
+
+msgid "MEDAL_STAGE_JA_ALLY_PROGRESS"
+msgstr ""
+"Class I: <font color='#f2f2f2'>5,000</font> superiority points<br>Class II: "
+"<font color='#f2f2f2'>1,500</font> superiority points<br>Class III: <font "
+"color='#f2f2f2'>100</font> superiority points"
+
+msgid "MEDAL_STAGE_JA_AXIS_PROGRESS"
+msgstr ""
+"Class I: <font color='#f2f2f2'>5,000</font> superiority points<br>Class II: "
+"<font color='#f2f2f2'>1,500</font> superiority points<br>Class III: <font "
+"color='#f2f2f2'>100</font> superiority points"
+
+msgid "MEDAL_STAGE_JA_PACIFIC"
+msgstr ""
+"Class I: <font color='#f2f2f2'>21</font> confrontations<br>Class II: <font "
+"color='#f2f2f2'>10</font> confrontations<br>Class III: <font "
+"color='#f2f2f2'>1</font> confrontation"
+
+msgid "MEDAL_STAGE_JA_TORATORA"
+msgstr ""
+"Class I: <font color='#f2f2f2'>21</font> confrontations<br>Class II: <font "
+"color='#f2f2f2'>10</font> confrontations<br>Class III: <font "
+"color='#f2f2f2'>1</font> confrontation"
+
+msgid "MEDAL_STAGE_JOHNSON"
+msgstr ""
+"Class I: <font color='#f2f2f2'>{0}</font> ground targets<br>Class II: <font "
+"color='#f2f2f2'>{1}</font> ground targets<br>Class III: <font "
+"color='#f2f2f2'>{2}</font> ground targets<br>Class IV: <font "
+"color='#f2f2f2'>{3}</font> ground targets"
+
+msgid "MEDAL_STAGE_MEYER"
+msgstr ""
+"Class I: <font color='#f2f2f2'>300</font> Thunder medals<br>Class II: <font "
+"color='#f2f2f2'>30</font> Thunder medals<br>Class III: <font "
+"color='#f2f2f2'>3</font> Thunder medals"
+
+msgid "MEDAL_STAGE_MIHALENKOV"
+msgstr ""
+"Class I: <font color='#f2f2f2'>{0}</font> combat points<br>Class II: <font "
+"color='#f2f2f2'>{1}</font> combat points<br>Class III: <font "
+"color='#f2f2f2'>{2}</font> combat points<br>Class IV: <font "
+"color='#f2f2f2'>{3}</font> combat points"
+
+msgid "MEDAL_STAGE_POKRYSHKIN"
+msgstr ""
+"Class I: <font color='#f2f2f2'>{0}</font> air defense aircraft<br>Class II: "
+"<font color='#f2f2f2'>{1}</font> air defense aircraft<br>Class III: <font "
+"color='#f2f2f2'>{2}</font> air defense aircraft<br>Class IV: <font "
+"color='#f2f2f2'>{3}</font> air defense aircraft"

@@ -1,0 +1,41 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: World Of Tanks\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-06-01 10:00+0300\n"
+"PO-Revision-Date: 2010-06-01 10:00+0300\n"
+"Last-Translator: WoT Translator <noreply@wargaming.net>\n"
+"Language-Team: WoT Team <noreply@wargaming.net>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "ERROR-CODES/CHALLENGE-IS-EMPTY"
+msgstr "驗證碼為空。"
+
+msgid "ERROR-CODES/ENQUEUE-FAILURE"
+msgstr "請輸入您看到的驗證碼，並且重複此步驟。"
+
+msgid "ERROR-CODES/IMAGE-INTERNAL-ERROR"
+msgstr "載入驗證碼圖片出錯： 您不能進入戰鬥。 請聯絡客服或稍後再嘗試。"
+
+msgid "ERROR-CODES/PUBLIC-KEY-EMPTY"
+msgstr "無法獲得驗證碼。"
+
+msgid "ERROR-CODES/RESPONSE-IS-EMPTY"
+msgstr "空程式碼。"
+
+msgid "GUI/BUTTONS/CLOSE"
+msgstr "關閉"
+
+msgid "GUI/BUTTONS/RELOAD"
+msgstr "重新整理"
+
+msgid "GUI/BUTTONS/SUBMIT"
+msgstr "確認"
+
+msgid "GUI/LABELS/RECAPTCHA_INSTRUCTIONS_IMAGE"
+msgstr "請輸入驗證碼："
+
+msgid "NOTIFICATION/REMAINS-TO-ATTEMPT"
+msgstr "嘗試次數剩餘： %d次。"

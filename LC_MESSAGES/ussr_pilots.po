@@ -1,0 +1,3596 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: World Of Tanks\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-06-01 10:00+0300\n"
+"PO-Revision-Date: 2010-06-01 10:00+0300\n"
+"Last-Translator: WoT Translator <noreply@wargaming.net>\n"
+"Language-Team: WoT Team <noreply@wargaming.net>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "NAMES/RUS1"
+msgstr "伊萬諾夫"
+
+msgid "NAMES/RUS10"
+msgstr "尼古拉耶夫"
+
+msgid "NAMES/RUS100"
+msgstr "利帕托夫"
+
+msgid "NAMES/RUS1000"
+msgstr "特奇納"
+
+msgid "NAMES/RUS1001"
+msgstr "謝羅夫"
+
+msgid "NAMES/RUS1002"
+msgstr "布洛欣"
+
+msgid "NAMES/RUS1003"
+msgstr "波古金"
+
+msgid "NAMES/RUS1004"
+msgstr "舒瓦洛夫"
+
+msgid "NAMES/RUS1005"
+msgstr "科羅博夫"
+
+msgid "NAMES/RUS1006"
+msgstr "別爾斯基"
+
+msgid "NAMES/RUS1007"
+msgstr "尤蘇波夫"
+
+msgid "NAMES/RUS1008"
+msgstr "利斯托夫"
+
+msgid "NAMES/RUS1009"
+msgstr "謝苗諾夫"
+
+msgid "NAMES/RUS101"
+msgstr "馬卡羅夫"
+
+msgid "NAMES/RUS1010"
+msgstr "科爾尼洛夫"
+
+msgid "NAMES/RUS1011"
+msgstr "阿羅謝夫"
+
+msgid "NAMES/RUS1012"
+msgstr "貝爾金"
+
+msgid "NAMES/RUS1013"
+msgstr "博羅維科夫"
+
+msgid "NAMES/RUS1014"
+msgstr "貝科夫"
+
+msgid "NAMES/RUS1015"
+msgstr "巴拉諾夫"
+
+msgid "NAMES/RUS1016"
+msgstr "貝斯特里茨基"
+
+msgid "NAMES/RUS1017"
+msgstr "鮑羅廷"
+
+msgid "NAMES/RUS1018"
+msgstr "巴克拉諾夫"
+
+msgid "NAMES/RUS1019"
+msgstr "巴爾科夫"
+
+msgid "NAMES/RUS102"
+msgstr "謝爾蓋耶夫"
+
+msgid "NAMES/RUS1020"
+msgstr "別利亞耶夫"
+
+msgid "NAMES/RUS1021"
+msgstr "別列日娜婭"
+
+msgid "NAMES/RUS1022"
+msgstr "別斯圖熱夫"
+
+msgid "NAMES/RUS1023"
+msgstr "馬特韋耶夫"
+
+msgid "NAMES/RUS1024"
+msgstr "瓦辛"
+
+msgid "NAMES/RUS1025"
+msgstr "韋列薩耶夫"
+
+msgid "NAMES/RUS1026"
+msgstr "古世涅夫"
+
+msgid "NAMES/RUS1027"
+msgstr "傑尼索夫"
+
+msgid "NAMES/RUS1028"
+msgstr "瓦西里耶夫"
+
+msgid "NAMES/RUS1029"
+msgstr "夫努科夫"
+
+msgid "NAMES/RUS103"
+msgstr "尼基京"
+
+msgid "NAMES/RUS1030"
+msgstr "沃林"
+
+msgid "NAMES/RUS1031"
+msgstr "瓦維洛夫"
+
+msgid "NAMES/RUS1032"
+msgstr "比拿雅"
+
+msgid "NAMES/RUS1033"
+msgstr "沃羅比耶夫"
+
+msgid "NAMES/RUS1034"
+msgstr "德敏"
+
+msgid "NAMES/RUS1035"
+msgstr "捷格佳廖夫"
+
+msgid "NAMES/RUS1036"
+msgstr "傑爾扎溫"
+
+msgid "NAMES/RUS1037"
+msgstr "多勃雷寧"
+
+msgid "NAMES/RUS1038"
+msgstr "科涅夫"
+
+msgid "NAMES/RUS1039"
+msgstr "克拉姆斯科伊"
+
+msgid "NAMES/RUS104"
+msgstr "安尼西莫夫"
+
+msgid "NAMES/RUS1040"
+msgstr "科紐霍夫"
+
+msgid "NAMES/RUS1041"
+msgstr "沃佳科夫"
+
+msgid "NAMES/RUS1042"
+msgstr "什帕科夫"
+
+msgid "NAMES/RUS1043"
+msgstr "什帕金"
+
+msgid "NAMES/RUS1044"
+msgstr "什帕克"
+
+msgid "NAMES/RUS1045"
+msgstr "蘇達耶夫"
+
+msgid "NAMES/RUS1046"
+msgstr "卡拉什尼科夫"
+
+msgid "NAMES/RUS1047"
+msgstr "梅什金"
+
+msgid "NAMES/RUS1048"
+msgstr "納利瓦伊科"
+
+msgid "NAMES/RUS1049"
+msgstr "涅巴巴夫"
+
+msgid "NAMES/RUS105"
+msgstr "普拉東諾夫"
+
+msgid "NAMES/RUS1050"
+msgstr "格列奇科"
+
+msgid "NAMES/RUS1051"
+msgstr "烏斯季諾夫"
+
+msgid "NAMES/RUS1052"
+msgstr "薩維茨基"
+
+msgid "NAMES/RUS1053"
+msgstr "捷列什科夫"
+
+msgid "NAMES/RUS1054"
+msgstr "盧戈沃伊"
+
+msgid "NAMES/RUS1055"
+msgstr "日維茨"
+
+msgid "NAMES/RUS1056"
+msgstr "西特尼科夫"
+
+msgid "NAMES/RUS1057"
+msgstr "科瓦廖夫"
+
+msgid "NAMES/RUS1058"
+msgstr "穆欣"
+
+msgid "NAMES/RUS1059"
+msgstr "羅曼諾夫"
+
+msgid "NAMES/RUS106"
+msgstr "基裡洛夫"
+
+msgid "NAMES/RUS1060"
+msgstr "格里德涅夫"
+
+msgid "NAMES/RUS1061"
+msgstr "古爾斯基"
+
+msgid "NAMES/RUS1062"
+msgstr "季武諾夫"
+
+msgid "NAMES/RUS1063"
+msgstr "佩夫佐夫"
+
+msgid "NAMES/RUS1064"
+msgstr "捷利岑"
+
+msgid "NAMES/RUS1065"
+msgstr "科米斯薩羅夫"
+
+msgid "NAMES/RUS1066"
+msgstr "普羅庫羅羅夫"
+
+msgid "NAMES/RUS1067"
+msgstr "卡普斯京"
+
+msgid "NAMES/RUS1068"
+msgstr "伊薩耶夫"
+
+msgid "NAMES/RUS1069"
+msgstr "格魯申"
+
+msgid "NAMES/RUS107"
+msgstr "哈利托諾夫"
+
+msgid "NAMES/RUS1070"
+msgstr "魯佈列夫"
+
+msgid "NAMES/RUS1071"
+msgstr "科佩金"
+
+msgid "NAMES/RUS1072"
+msgstr "盧尼奧夫"
+
+msgid "NAMES/RUS1073"
+msgstr "朱可夫"
+
+msgid "NAMES/RUS108"
+msgstr "尼基福羅夫"
+
+msgid "NAMES/RUS109"
+msgstr "茲沃納列夫"
+
+msgid "NAMES/RUS11"
+msgstr "佩爾瓦克"
+
+msgid "NAMES/RUS110"
+msgstr "佩圖霍夫"
+
+msgid "NAMES/RUS111"
+msgstr "普柳什金"
+
+msgid "NAMES/RUS112"
+msgstr "庫羅耶多夫"
+
+msgid "NAMES/RUS113"
+msgstr "帕夫洛夫"
+
+msgid "NAMES/RUS114"
+msgstr "季亞科諾夫"
+
+msgid "NAMES/RUS115"
+msgstr "亞琴科"
+
+msgid "NAMES/RUS116"
+msgstr "博戈柳博夫"
+
+msgid "NAMES/RUS117"
+msgstr "切爾諾夫"
+
+msgid "NAMES/RUS118"
+msgstr "列茲尼科夫"
+
+msgid "NAMES/RUS119"
+msgstr "格魯茲傑夫"
+
+msgid "NAMES/RUS12"
+msgstr "涅奇波連科"
+
+msgid "NAMES/RUS120"
+msgstr "涅佩伊沃達"
+
+msgid "NAMES/RUS121"
+msgstr "沙布柳卡"
+
+msgid "NAMES/RUS122"
+msgstr "西涅布留霍夫"
+
+msgid "NAMES/RUS123"
+msgstr "涅斯捷羅夫"
+
+msgid "NAMES/RUS124"
+msgstr "科丘別伊"
+
+msgid "NAMES/RUS125"
+msgstr "克里沃諾斯"
+
+msgid "NAMES/RUS126"
+msgstr "柳利卡"
+
+msgid "NAMES/RUS127"
+msgstr "布爾瓦"
+
+msgid "NAMES/RUS128"
+msgstr "西爾科"
+
+msgid "NAMES/RUS129"
+msgstr "米亞索耶德"
+
+msgid "NAMES/RUS13"
+msgstr "波多普里戈拉"
+
+msgid "NAMES/RUS130"
+msgstr "涅佐維巴季科"
+
+msgid "NAMES/RUS131"
+msgstr "佩列貝諾斯"
+
+msgid "NAMES/RUS132"
+msgstr "扎克里維多羅加"
+
+msgid "NAMES/RUS133"
+msgstr "彼得羅夫"
+
+msgid "NAMES/RUS134"
+msgstr "阿爾謝尼耶夫"
+
+msgid "NAMES/RUS135"
+msgstr "索羅科普德"
+
+msgid "NAMES/RUS136"
+msgstr "維爾維赫沃斯特"
+
+msgid "NAMES/RUS137"
+msgstr "斯塔羅孔"
+
+msgid "NAMES/RUS138"
+msgstr "佳格尼裡亞德諾"
+
+msgid "NAMES/RUS139"
+msgstr "裡亞博孔"
+
+msgid "NAMES/RUS14"
+msgstr "奧帕納先科"
+
+msgid "NAMES/RUS140"
+msgstr "舍甫琴科"
+
+msgid "NAMES/RUS141"
+msgstr "彼得連科"
+
+msgid "NAMES/RUS142"
+msgstr "涅斯捷連科"
+
+msgid "NAMES/RUS143"
+msgstr "涅圖德哈塔"
+
+msgid "NAMES/RUS144"
+msgstr "阿列克謝耶夫"
+
+msgid "NAMES/RUS145"
+msgstr "西涅布留赫"
+
+msgid "NAMES/RUS146"
+msgstr "別洛什坦"
+
+msgid "NAMES/RUS147"
+msgstr "卡利沃德"
+
+msgid "NAMES/RUS148"
+msgstr "列先科"
+
+msgid "NAMES/RUS149"
+msgstr "雷什科夫"
+
+msgid "NAMES/RUS15"
+msgstr "裡亞博夫"
+
+msgid "NAMES/RUS150"
+msgstr "戈羅別茨"
+
+msgid "NAMES/RUS151"
+msgstr "斯捷潘年科"
+
+msgid "NAMES/RUS152"
+msgstr "扎哈爾琴科"
+
+msgid "NAMES/RUS153"
+msgstr "維特連科"
+
+msgid "NAMES/RUS154"
+msgstr "斯捷潘諾夫"
+
+msgid "NAMES/RUS155"
+msgstr "岡察洛夫"
+
+msgid "NAMES/RUS156"
+msgstr "貢恰連科"
+
+msgid "NAMES/RUS157"
+msgstr "邦達連科"
+
+msgid "NAMES/RUS158"
+msgstr "雷巴爾科"
+
+msgid "NAMES/RUS159"
+msgstr "謝爾久克"
+
+msgid "NAMES/RUS16"
+msgstr "克里沃魯琴科"
+
+msgid "NAMES/RUS160"
+msgstr "格拉西莫維奇"
+
+msgid "NAMES/RUS161"
+msgstr "格拉西莫夫"
+
+msgid "NAMES/RUS162"
+msgstr "海拉西蒙科"
+
+msgid "NAMES/RUS163"
+msgstr "阿庫利奇"
+
+msgid "NAMES/RUS164"
+msgstr "費奧多羅夫"
+
+msgid "NAMES/RUS165"
+msgstr "詹科斯基"
+
+msgid "NAMES/RUS166"
+msgstr "克利莫夫斯基"
+
+msgid "NAMES/RUS167"
+msgstr "馬丁諾維奇"
+
+msgid "NAMES/RUS168"
+msgstr "利特溫"
+
+msgid "NAMES/RUS169"
+msgstr "戈洛文科"
+
+msgid "NAMES/RUS17"
+msgstr "戈洛瓦奇"
+
+msgid "NAMES/RUS170"
+msgstr "布利茲紐克"
+
+msgid "NAMES/RUS171"
+msgstr "巴布什金"
+
+msgid "NAMES/RUS172"
+msgstr "別洛博科夫"
+
+msgid "NAMES/RUS173"
+msgstr "祖布科夫"
+
+msgid "NAMES/RUS174"
+msgstr "費多托夫"
+
+msgid "NAMES/RUS175"
+msgstr "茲布魯耶夫"
+
+msgid "NAMES/RUS176"
+msgstr "維亞金採夫"
+
+msgid "NAMES/RUS177"
+msgstr "科科列夫"
+
+msgid "NAMES/RUS178"
+msgstr "科爾涅耶夫"
+
+msgid "NAMES/RUS179"
+msgstr "科列涅夫"
+
+msgid "NAMES/RUS18"
+msgstr "科瓦利丘克"
+
+msgid "NAMES/RUS180"
+msgstr "克拉斯諾夫"
+
+msgid "NAMES/RUS181"
+msgstr "特羅申"
+
+msgid "NAMES/RUS182"
+msgstr "特羅菲莫夫"
+
+msgid "NAMES/RUS183"
+msgstr "蘇霍夫"
+
+msgid "NAMES/RUS184"
+msgstr "哈爾拉莫夫"
+
+msgid "NAMES/RUS185"
+msgstr "蘇霍魯科夫"
+
+msgid "NAMES/RUS186"
+msgstr "謝多夫"
+
+msgid "NAMES/RUS187"
+msgstr "皮薩連科"
+
+msgid "NAMES/RUS188"
+msgstr "科茲洛夫"
+
+msgid "NAMES/RUS189"
+msgstr "茨韋托夫"
+
+msgid "NAMES/RUS19"
+msgstr "馬特羅索夫"
+
+msgid "NAMES/RUS190"
+msgstr "索爾達托夫"
+
+msgid "NAMES/RUS191"
+msgstr "普里瓦洛夫"
+
+msgid "NAMES/RUS192"
+msgstr "波盧揚"
+
+msgid "NAMES/RUS193"
+msgstr "布魯爾斯"
+
+msgid "NAMES/RUS194"
+msgstr "鮑裡索夫"
+
+msgid "NAMES/RUS195"
+msgstr "舒利加"
+
+msgid "NAMES/RUS196"
+msgstr "帕納修克"
+
+msgid "NAMES/RUS197"
+msgstr "福緬科"
+
+msgid "NAMES/RUS198"
+msgstr "蘇霍茨基"
+
+msgid "NAMES/RUS199"
+msgstr "本傑列夫"
+
+msgid "NAMES/RUS2"
+msgstr "科斯秋科夫"
+
+msgid "NAMES/RUS20"
+msgstr "曼德里克"
+
+msgid "NAMES/RUS200"
+msgstr "西夫奇克"
+
+msgid "NAMES/RUS201"
+msgstr "沃伊尼茨基"
+
+msgid "NAMES/RUS202"
+msgstr "比剋夫"
+
+msgid "NAMES/RUS203"
+msgstr "亞歷山德羅夫"
+
+msgid "NAMES/RUS204"
+msgstr "阿尼西科夫"
+
+msgid "NAMES/RUS205"
+msgstr "戈盧布"
+
+msgid "NAMES/RUS206"
+msgstr "馬爾採夫"
+
+msgid "NAMES/RUS207"
+msgstr "馬利科夫"
+
+msgid "NAMES/RUS208"
+msgstr "莫羅茲"
+
+msgid "NAMES/RUS209"
+msgstr "莫羅佐夫"
+
+msgid "NAMES/RUS21"
+msgstr "西多羅維奇"
+
+msgid "NAMES/RUS210"
+msgstr "魯克"
+
+msgid "NAMES/RUS211"
+msgstr "沃羅古申"
+
+msgid "NAMES/RUS212"
+msgstr "穆拉什科"
+
+msgid "NAMES/RUS213"
+msgstr "達維多夫"
+
+msgid "NAMES/RUS214"
+msgstr "馬耶夫斯基"
+
+msgid "NAMES/RUS215"
+msgstr "奧韋奇金"
+
+msgid "NAMES/RUS216"
+msgstr "希韋茨"
+
+msgid "NAMES/RUS217"
+msgstr "博利沙科夫"
+
+msgid "NAMES/RUS218"
+msgstr "索羅卡"
+
+msgid "NAMES/RUS219"
+msgstr "科納諾維奇"
+
+msgid "NAMES/RUS22"
+msgstr "奇若夫"
+
+msgid "NAMES/RUS220"
+msgstr "索洛明"
+
+msgid "NAMES/RUS221"
+msgstr "昆採維奇"
+
+msgid "NAMES/RUS222"
+msgstr "阿達莫維奇"
+
+msgid "NAMES/RUS223"
+msgstr "扎哈羅夫"
+
+msgid "NAMES/RUS224"
+msgstr "諾博赫羅德斯基"
+
+msgid "NAMES/RUS225"
+msgstr "圖加伊"
+
+msgid "NAMES/RUS226"
+msgstr "尤什克維奇"
+
+msgid "NAMES/RUS227"
+msgstr "蒂什凱維奇"
+
+msgid "NAMES/RUS228"
+msgstr "西尼亞科夫"
+
+msgid "NAMES/RUS229"
+msgstr "克利穆克"
+
+msgid "NAMES/RUS23"
+msgstr "舍夫丘克"
+
+msgid "NAMES/RUS230"
+msgstr "馬圖謝維奇"
+
+msgid "NAMES/RUS231"
+msgstr "卡利諾夫斯基"
+
+msgid "NAMES/RUS232"
+msgstr "彼得"
+
+msgid "NAMES/RUS233"
+msgstr "西多羅夫"
+
+msgid "NAMES/RUS234"
+msgstr "孟列夫"
+
+msgid "NAMES/RUS235"
+msgstr "馬林諾斯基"
+
+msgid "NAMES/RUS236"
+msgstr "克拉薩溫"
+
+msgid "NAMES/RUS237"
+msgstr "格巴夫"
+
+msgid "NAMES/RUS238"
+msgstr "利奇科夫"
+
+msgid "NAMES/RUS239"
+msgstr "雷日科夫"
+
+msgid "NAMES/RUS24"
+msgstr "科洛巴諾夫"
+
+msgid "NAMES/RUS240"
+msgstr "克里沃羅戈夫"
+
+msgid "NAMES/RUS241"
+msgstr "維亞澤姆斯基"
+
+msgid "NAMES/RUS242"
+msgstr "洛普欣"
+
+msgid "NAMES/RUS243"
+msgstr "普霍夫"
+
+msgid "NAMES/RUS244"
+msgstr "戈利岑"
+
+msgid "NAMES/RUS245"
+msgstr "蘭斯卡"
+
+msgid "NAMES/RUS246"
+msgstr "切爾內"
+
+msgid "NAMES/RUS247"
+msgstr "尤前克"
+
+msgid "NAMES/RUS248"
+msgstr "克柳耶夫"
+
+msgid "NAMES/RUS249"
+msgstr "舒什克維奇"
+
+msgid "NAMES/RUS25"
+msgstr "索科洛夫"
+
+msgid "NAMES/RUS250"
+msgstr "奧爾洛夫"
+
+msgid "NAMES/RUS251"
+msgstr "莫斯克維京"
+
+msgid "NAMES/RUS252"
+msgstr "奇斯佳科夫"
+
+msgid "NAMES/RUS253"
+msgstr "裡亞布採維奇"
+
+msgid "NAMES/RUS254"
+msgstr "克羅托夫"
+
+msgid "NAMES/RUS255"
+msgstr "舒梅伊科"
+
+msgid "NAMES/RUS256"
+msgstr "薩莫赫瓦洛夫"
+
+msgid "NAMES/RUS257"
+msgstr "秋洋克"
+
+msgid "NAMES/RUS258"
+msgstr "克雷什科"
+
+msgid "NAMES/RUS259"
+msgstr "庫德里亞"
+
+msgid "NAMES/RUS26"
+msgstr "賴默"
+
+msgid "NAMES/RUS260"
+msgstr "斯皮瓦克"
+
+msgid "NAMES/RUS261"
+msgstr "施特爾馬奇"
+
+msgid "NAMES/RUS262"
+msgstr "特羅伊茨基"
+
+msgid "NAMES/RUS263"
+msgstr "特雷蒂亞克"
+
+msgid "NAMES/RUS264"
+msgstr "科托夫"
+
+msgid "NAMES/RUS265"
+msgstr "多林"
+
+msgid "NAMES/RUS266"
+msgstr "波利斯基赫"
+
+msgid "NAMES/RUS267"
+msgstr "季莫申科"
+
+msgid "NAMES/RUS268"
+msgstr "庫利克"
+
+msgid "NAMES/RUS269"
+msgstr "格里什琴科"
+
+msgid "NAMES/RUS27"
+msgstr "米先科"
+
+msgid "NAMES/RUS270"
+msgstr "季先科"
+
+msgid "NAMES/RUS271"
+msgstr "格林諾夫"
+
+msgid "NAMES/RUS272"
+msgstr "米休克"
+
+msgid "NAMES/RUS273"
+msgstr "戈爾巴托夫"
+
+msgid "NAMES/RUS274"
+msgstr "沃羅諾夫"
+
+msgid "NAMES/RUS275"
+msgstr "斯科羅博加托夫"
+
+msgid "NAMES/RUS276"
+msgstr "舒克"
+
+msgid "NAMES/RUS277"
+msgstr "奧科夫"
+
+msgid "NAMES/RUS278"
+msgstr "布羅若夫斯基"
+
+msgid "NAMES/RUS279"
+msgstr "基巴利契奇"
+
+msgid "NAMES/RUS28"
+msgstr "基熱瓦托夫"
+
+msgid "NAMES/RUS280"
+msgstr "庫茲明"
+
+msgid "NAMES/RUS281"
+msgstr "庫津"
+
+msgid "NAMES/RUS282"
+msgstr "伊帕季耶夫"
+
+msgid "NAMES/RUS283"
+msgstr "伊耶夫列夫"
+
+msgid "NAMES/RUS284"
+msgstr "卡緬斯基"
+
+msgid "NAMES/RUS285"
+msgstr "裡奧諾夫"
+
+msgid "NAMES/RUS286"
+msgstr "伊格納托夫"
+
+msgid "NAMES/RUS287"
+msgstr "伊格納堅科"
+
+msgid "NAMES/RUS288"
+msgstr "伊柳欣"
+
+msgid "NAMES/RUS289"
+msgstr "利帕托夫"
+
+msgid "NAMES/RUS29"
+msgstr "盧戈沃伊"
+
+msgid "NAMES/RUS290"
+msgstr "洛佐夫斯基"
+
+msgid "NAMES/RUS291"
+msgstr "利加喬夫"
+
+msgid "NAMES/RUS292"
+msgstr "拉林亞夫"
+
+msgid "NAMES/RUS293"
+msgstr "拉普捷夫海"
+
+msgid "NAMES/RUS294"
+msgstr "祖博夫"
+
+msgid "NAMES/RUS295"
+msgstr "盧金"
+
+msgid "NAMES/RUS296"
+msgstr "利哈喬夫"
+
+msgid "NAMES/RUS297"
+msgstr "扎杜伊維捷爾"
+
+msgid "NAMES/RUS298"
+msgstr "穆拉維耶夫"
+
+msgid "NAMES/RUS299"
+msgstr "波奇金"
+
+msgid "NAMES/RUS3"
+msgstr "多爾戈諾西克"
+
+msgid "NAMES/RUS30"
+msgstr "奧辛"
+
+msgid "NAMES/RUS300"
+msgstr "普切爾金"
+
+msgid "NAMES/RUS301"
+msgstr "茹科韋茨"
+
+msgid "NAMES/RUS302"
+msgstr "切爾維亞科夫"
+
+msgid "NAMES/RUS303"
+msgstr "薩哈羅夫"
+
+msgid "NAMES/RUS304"
+msgstr "普季岑"
+
+msgid "NAMES/RUS305"
+msgstr "西尼岑"
+
+msgid "NAMES/RUS306"
+msgstr "庫庫什金"
+
+msgid "NAMES/RUS307"
+msgstr "扎久利"
+
+msgid "NAMES/RUS308"
+msgstr "科羅利科夫"
+
+msgid "NAMES/RUS309"
+msgstr "奇比索夫"
+
+msgid "NAMES/RUS31"
+msgstr "伊沃爾金"
+
+msgid "NAMES/RUS310"
+msgstr "庫羅奇"
+
+msgid "NAMES/RUS311"
+msgstr "蔡金可涅斯基"
+
+msgid "NAMES/RUS312"
+msgstr "柴卡斯基"
+
+msgid "NAMES/RUS313"
+msgstr "斯米爾諾夫"
+
+msgid "NAMES/RUS314"
+msgstr "佩列佩利察"
+
+msgid "NAMES/RUS315"
+msgstr "索巴金"
+
+msgid "NAMES/RUS316"
+msgstr "馬勒明"
+
+msgid "NAMES/RUS317"
+msgstr "卡巴涅茨"
+
+msgid "NAMES/RUS318"
+msgstr "謝列茲尼奧夫"
+
+msgid "NAMES/RUS319"
+msgstr "切列帕諾夫"
+
+msgid "NAMES/RUS32"
+msgstr "霍米亞科夫"
+
+msgid "NAMES/RUS320"
+msgstr "拉迪沃耶"
+
+msgid "NAMES/RUS321"
+msgstr "斯塔赫維奇"
+
+msgid "NAMES/RUS322"
+msgstr "斯塔索夫"
+
+msgid "NAMES/RUS323"
+msgstr "米羅諾夫"
+
+msgid "NAMES/RUS324"
+msgstr "普羅塔索夫"
+
+msgid "NAMES/RUS325"
+msgstr "別爾烏辛"
+
+msgid "NAMES/RUS326"
+msgstr "哈爾拉莫夫"
+
+msgid "NAMES/RUS327"
+msgstr "梅里諾夫"
+
+msgid "NAMES/RUS328"
+msgstr "列梅霍夫"
+
+msgid "NAMES/RUS329"
+msgstr "科貝利亞科"
+
+msgid "NAMES/RUS33"
+msgstr "熱列布琴科"
+
+msgid "NAMES/RUS330"
+msgstr "日加列夫"
+
+msgid "NAMES/RUS331"
+msgstr "沃洛維奇"
+
+msgid "NAMES/RUS332"
+msgstr "沃洛霍維奇"
+
+msgid "NAMES/RUS333"
+msgstr "安託諾夫"
+
+msgid "NAMES/RUS334"
+msgstr "克里莫夫"
+
+msgid "NAMES/RUS335"
+msgstr "羅辛"
+
+msgid "NAMES/RUS336"
+msgstr "捷列金"
+
+msgid "NAMES/RUS337"
+msgstr "烏日科夫"
+
+msgid "NAMES/RUS338"
+msgstr "耶若夫"
+
+msgid "NAMES/RUS339"
+msgstr "拉夫連季耶夫"
+
+msgid "NAMES/RUS34"
+msgstr "契爾年科"
+
+msgid "NAMES/RUS340"
+msgstr "索斯諾夫斯基"
+
+msgid "NAMES/RUS341"
+msgstr "杜博夫"
+
+msgid "NAMES/RUS342"
+msgstr "羅曼"
+
+msgid "NAMES/RUS343"
+msgstr "科諾佩利科"
+
+msgid "NAMES/RUS344"
+msgstr "拉普申"
+
+msgid "NAMES/RUS345"
+msgstr "麥考夫斯基"
+
+msgid "NAMES/RUS346"
+msgstr "羅日科夫"
+
+msgid "NAMES/RUS347"
+msgstr "馬久克"
+
+msgid "NAMES/RUS348"
+msgstr "多庫恰耶夫"
+
+msgid "NAMES/RUS349"
+msgstr "皮斯庫諾夫"
+
+msgid "NAMES/RUS35"
+msgstr "塔巴科夫"
+
+msgid "NAMES/RUS350"
+msgstr "克魯格洛夫"
+
+msgid "NAMES/RUS351"
+msgstr "託爾斯季科夫"
+
+msgid "NAMES/RUS352"
+msgstr "多庫恰耶夫"
+
+msgid "NAMES/RUS353"
+msgstr "佩羅夫"
+
+msgid "NAMES/RUS354"
+msgstr "伊林"
+
+msgid "NAMES/RUS355"
+msgstr "戈爾德芬奇"
+
+msgid "NAMES/RUS356"
+msgstr "西維"
+
+msgid "NAMES/RUS357"
+msgstr "謝多夫"
+
+msgid "NAMES/RUS358"
+msgstr "休金"
+
+msgid "NAMES/RUS359"
+msgstr "奧庫涅夫"
+
+msgid "NAMES/RUS36"
+msgstr "葉爾紹夫"
+
+msgid "NAMES/RUS360"
+msgstr "普洛特金"
+
+msgid "NAMES/RUS361"
+msgstr "普加喬夫"
+
+msgid "NAMES/RUS362"
+msgstr "什圖金"
+
+msgid "NAMES/RUS363"
+msgstr "蘇里科夫"
+
+msgid "NAMES/RUS364"
+msgstr "列舍托夫"
+
+msgid "NAMES/RUS365"
+msgstr "索莫夫"
+
+msgid "NAMES/RUS366"
+msgstr "卡拉西"
+
+msgid "NAMES/RUS367"
+msgstr "佩斯卡拉"
+
+msgid "NAMES/RUS368"
+msgstr "裡巴科夫"
+
+msgid "NAMES/RUS369"
+msgstr "納利梅茨"
+
+msgid "NAMES/RUS37"
+msgstr "塔蘭科"
+
+msgid "NAMES/RUS370"
+msgstr "巴別茨"
+
+msgid "NAMES/RUS371"
+msgstr "博布科夫"
+
+msgid "NAMES/RUS372"
+msgstr "庫佐瓦托夫"
+
+msgid "NAMES/RUS373"
+msgstr "瑟羅耶日金"
+
+msgid "NAMES/RUS374"
+msgstr "洛謝夫"
+
+msgid "NAMES/RUS375"
+msgstr "盧科什金"
+
+msgid "NAMES/RUS376"
+msgstr "雷日克"
+
+msgid "NAMES/RUS377"
+msgstr "埃爾金"
+
+msgid "NAMES/RUS378"
+msgstr "奧古爾佐夫"
+
+msgid "NAMES/RUS379"
+msgstr "佩欽金"
+
+msgid "NAMES/RUS38"
+msgstr "洛日金斯基"
+
+msgid "NAMES/RUS380"
+msgstr "科爾熱涅夫斯基"
+
+msgid "NAMES/RUS381"
+msgstr "卡皮塔涅茨"
+
+msgid "NAMES/RUS382"
+msgstr "羅特米斯特羅夫"
+
+msgid "NAMES/RUS383"
+msgstr "卡圖科夫"
+
+msgid "NAMES/RUS384"
+msgstr "梅德韋傑夫"
+
+msgid "NAMES/RUS385"
+msgstr "克尼亞澤夫"
+
+msgid "NAMES/RUS386"
+msgstr "德魯日寧"
+
+msgid "NAMES/RUS387"
+msgstr "熱列茲尼亞克"
+
+msgid "NAMES/RUS388"
+msgstr "瓦魯耶夫"
+
+msgid "NAMES/RUS389"
+msgstr "羅扎諾夫"
+
+msgid "NAMES/RUS39"
+msgstr "巴盧耶夫"
+
+msgid "NAMES/RUS390"
+msgstr "巴里諾夫"
+
+msgid "NAMES/RUS391"
+msgstr "什利亞赫捷諾克"
+
+msgid "NAMES/RUS392"
+msgstr "科斯廷"
+
+msgid "NAMES/RUS393"
+msgstr "佈雷金"
+
+msgid "NAMES/RUS394"
+msgstr "沃爾科夫"
+
+msgid "NAMES/RUS395"
+msgstr "奧布拉茲措夫"
+
+msgid "NAMES/RUS396"
+msgstr "格列博夫"
+
+msgid "NAMES/RUS397"
+msgstr "戈林夫"
+
+msgid "NAMES/RUS398"
+msgstr "魯德涅夫"
+
+msgid "NAMES/RUS399"
+msgstr "魯道斯基"
+
+msgid "NAMES/RUS4"
+msgstr "魯堅科"
+
+msgid "NAMES/RUS40"
+msgstr "韋爾什科夫"
+
+msgid "NAMES/RUS400"
+msgstr "韋什金"
+
+msgid "NAMES/RUS401"
+msgstr "切卡索夫"
+
+msgid "NAMES/RUS402"
+msgstr "謝爾巴科夫"
+
+msgid "NAMES/RUS403"
+msgstr "利西岑"
+
+msgid "NAMES/RUS404"
+msgstr "柳比莫夫"
+
+msgid "NAMES/RUS405"
+msgstr "斯捷克洛夫"
+
+msgid "NAMES/RUS406"
+msgstr "斯捷布洛夫"
+
+msgid "NAMES/RUS407"
+msgstr "科列斯尼科夫"
+
+msgid "NAMES/RUS408"
+msgstr "科洛索夫"
+
+msgid "NAMES/RUS409"
+msgstr "科洛米耶茨"
+
+msgid "NAMES/RUS41"
+msgstr "阿廖欣"
+
+msgid "NAMES/RUS410"
+msgstr "科科列夫"
+
+msgid "NAMES/RUS411"
+msgstr "巴拉班希科夫"
+
+msgid "NAMES/RUS412"
+msgstr "特魯巴奇"
+
+msgid "NAMES/RUS413"
+msgstr "扎伊採夫"
+
+msgid "NAMES/RUS414"
+msgstr "什特克"
+
+msgid "NAMES/RUS415"
+msgstr "什雷科夫"
+
+msgid "NAMES/RUS416"
+msgstr "庫塔索夫"
+
+msgid "NAMES/RUS417"
+msgstr "德拉貢"
+
+msgid "NAMES/RUS418"
+msgstr "馬約羅夫"
+
+msgid "NAMES/RUS419"
+msgstr "斯特列利佐夫"
+
+msgid "NAMES/RUS42"
+msgstr "普列奧布拉任斯基"
+
+msgid "NAMES/RUS420"
+msgstr "伊茲邁洛夫"
+
+msgid "NAMES/RUS421"
+msgstr "舍列梅特"
+
+msgid "NAMES/RUS422"
+msgstr "烏霍列佐夫"
+
+msgid "NAMES/RUS423"
+msgstr "特魯索夫"
+
+msgid "NAMES/RUS424"
+msgstr "茲納緬斯基"
+
+msgid "NAMES/RUS425"
+msgstr "沙普金"
+
+msgid "NAMES/RUS426"
+msgstr "馬卡爾"
+
+msgid "NAMES/RUS427"
+msgstr "舒賓"
+
+msgid "NAMES/RUS428"
+msgstr "沃羅特尼科夫"
+
+msgid "NAMES/RUS429"
+msgstr "普戈夫金"
+
+msgid "NAMES/RUS43"
+msgstr "布利亞欣"
+
+msgid "NAMES/RUS430"
+msgstr "斯塔爾希諾夫"
+
+msgid "NAMES/RUS431"
+msgstr "柳博穆德羅夫"
+
+msgid "NAMES/RUS432"
+msgstr "波爾科夫尼科夫"
+
+msgid "NAMES/RUS433"
+msgstr "葉戈羅夫"
+
+msgid "NAMES/RUS434"
+msgstr "克萊布尼科夫"
+
+msgid "NAMES/RUS435"
+msgstr "格涅拉洛夫"
+
+msgid "NAMES/RUS436"
+msgstr "拜斯特留科夫"
+
+msgid "NAMES/RUS437"
+msgstr "比留科夫"
+
+msgid "NAMES/RUS438"
+msgstr "卡瓦列羅夫"
+
+msgid "NAMES/RUS439"
+msgstr "古博寧"
+
+msgid "NAMES/RUS44"
+msgstr "馬爾可夫"
+
+msgid "NAMES/RUS440"
+msgstr "卡勞洛夫"
+
+msgid "NAMES/RUS441"
+msgstr "涅夫佐羅夫"
+
+msgid "NAMES/RUS442"
+msgstr "馬雷舍夫"
+
+msgid "NAMES/RUS443"
+msgstr "切斯諾科夫"
+
+msgid "NAMES/RUS444"
+msgstr "科諾諾夫"
+
+msgid "NAMES/RUS445"
+msgstr "斯特列緬尼科夫"
+
+msgid "NAMES/RUS446"
+msgstr "馬祖羅夫"
+
+msgid "NAMES/RUS447"
+msgstr "格里申"
+
+msgid "NAMES/RUS448"
+msgstr "皮德蒙特"
+
+msgid "NAMES/RUS449"
+msgstr "安特羅波夫"
+
+msgid "NAMES/RUS45"
+msgstr "弗羅洛夫"
+
+msgid "NAMES/RUS450"
+msgstr "馬洛費夫"
+
+msgid "NAMES/RUS451"
+msgstr "克拉夫丘克"
+
+msgid "NAMES/RUS452"
+msgstr "阿夫丘克"
+
+msgid "NAMES/RUS453"
+msgstr "波良斯基"
+
+msgid "NAMES/RUS454"
+msgstr "薩布林"
+
+msgid "NAMES/RUS455"
+msgstr "卡皮託諾夫"
+
+msgid "NAMES/RUS456"
+msgstr "納吉賓"
+
+msgid "NAMES/RUS457"
+msgstr "什馬季科"
+
+msgid "NAMES/RUS458"
+msgstr "日丹諾夫"
+
+msgid "NAMES/RUS459"
+msgstr "戈爾巴奇"
+
+msgid "NAMES/RUS46"
+msgstr "格羅博夫斯基"
+
+msgid "NAMES/RUS460"
+msgstr "塔雷津"
+
+msgid "NAMES/RUS461"
+msgstr "普里馬科夫"
+
+msgid "NAMES/RUS462"
+msgstr "科斯特里克羅夫"
+
+msgid "NAMES/RUS463"
+msgstr "克雷莫夫"
+
+msgid "NAMES/RUS464"
+msgstr "卡扎科夫"
+
+msgid "NAMES/RUS465"
+msgstr "莫斯卡連科"
+
+msgid "NAMES/RUS466"
+msgstr "羅斯托夫採夫"
+
+msgid "NAMES/RUS467"
+msgstr "蘇茲達爾"
+
+msgid "NAMES/RUS468"
+msgstr "諾夫戈羅採夫"
+
+msgid "NAMES/RUS469"
+msgstr "諾沃德沃爾斯基"
+
+msgid "NAMES/RUS47"
+msgstr "斯塔羅謝利斯基"
+
+msgid "NAMES/RUS470"
+msgstr "尤申科夫"
+
+msgid "NAMES/RUS471"
+msgstr "布利諾夫"
+
+msgid "NAMES/RUS472"
+msgstr "多斯季加耶夫"
+
+msgid "NAMES/RUS473"
+msgstr "薩沙"
+
+msgid "NAMES/RUS474"
+msgstr "格羅莫夫"
+
+msgid "NAMES/RUS475"
+msgstr "卡贊採夫"
+
+msgid "NAMES/RUS476"
+msgstr "阿廖沙"
+
+msgid "NAMES/RUS477"
+msgstr "蘇茲達利採夫"
+
+msgid "NAMES/RUS478"
+msgstr "科斯特羅明"
+
+msgid "NAMES/RUS479"
+msgstr "科西岑"
+
+msgid "NAMES/RUS48"
+msgstr "瓦爾沙夫斯基"
+
+msgid "NAMES/RUS480"
+msgstr "克里沃格拉佐夫"
+
+msgid "NAMES/RUS481"
+msgstr "奧爾登採夫"
+
+msgid "NAMES/RUS482"
+msgstr "巴斯卡科夫"
+
+msgid "NAMES/RUS483"
+msgstr "穆爾津"
+
+msgid "NAMES/RUS484"
+msgstr "韋特羅夫"
+
+msgid "NAMES/RUS485"
+msgstr "科薩科夫"
+
+msgid "NAMES/RUS486"
+msgstr "科拉布廖夫"
+
+msgid "NAMES/RUS487"
+msgstr "科別茨"
+
+msgid "NAMES/RUS488"
+msgstr "基爾薩諾夫"
+
+msgid "NAMES/RUS489"
+msgstr "康德拉季耶夫"
+
+msgid "NAMES/RUS49"
+msgstr "加里卡維"
+
+msgid "NAMES/RUS490"
+msgstr "拉斯卡維"
+
+msgid "NAMES/RUS491"
+msgstr "維諾庫爾"
+
+msgid "NAMES/RUS492"
+msgstr "布拉金"
+
+msgid "NAMES/RUS493"
+msgstr "溫尼琴科"
+
+msgid "NAMES/RUS494"
+msgstr "波洛佐夫"
+
+msgid "NAMES/RUS495"
+msgstr "卡廖夫"
+
+msgid "NAMES/RUS496"
+msgstr "布哈洛"
+
+msgid "NAMES/RUS497"
+msgstr "希巴諾夫"
+
+msgid "NAMES/RUS498"
+msgstr "克列巴諾夫"
+
+msgid "NAMES/RUS499"
+msgstr "丘馬科夫"
+
+msgid "NAMES/RUS5"
+msgstr "布拉德科"
+
+msgid "NAMES/RUS50"
+msgstr "庫赫塔"
+
+msgid "NAMES/RUS500"
+msgstr "基斯雷"
+
+msgid "NAMES/RUS501"
+msgstr "雷科夫"
+
+msgid "NAMES/RUS502"
+msgstr "裡森科"
+
+msgid "NAMES/RUS503"
+msgstr "卡盧金"
+
+msgid "NAMES/RUS504"
+msgstr "涅普柳耶夫"
+
+msgid "NAMES/RUS505"
+msgstr "季托夫"
+
+msgid "NAMES/RUS506"
+msgstr "列昂諾夫"
+
+msgid "NAMES/RUS507"
+msgstr "科馬洛夫"
+
+msgid "NAMES/RUS508"
+msgstr "布里列夫"
+
+msgid "NAMES/RUS509"
+msgstr "尤拉索夫"
+
+msgid "NAMES/RUS51"
+msgstr "杜巴索夫"
+
+msgid "NAMES/RUS510"
+msgstr "施咯普尼柯夫"
+
+msgid "NAMES/RUS511"
+msgstr "平可夫"
+
+msgid "NAMES/RUS512"
+msgstr "奧斯特洛夫斯基"
+
+msgid "NAMES/RUS513"
+msgstr "斯托戈夫"
+
+msgid "NAMES/RUS514"
+msgstr "霍爾莫戈羅夫"
+
+msgid "NAMES/RUS515"
+msgstr "克雷洛夫"
+
+msgid "NAMES/RUS516"
+msgstr "赫沃斯托夫"
+
+msgid "NAMES/RUS517"
+msgstr "諾索夫"
+
+msgid "NAMES/RUS518"
+msgstr "亞濟科夫"
+
+msgid "NAMES/RUS519"
+msgstr "丘布"
+
+msgid "NAMES/RUS52"
+msgstr "帕利採夫"
+
+msgid "NAMES/RUS520"
+msgstr "布羅夫金"
+
+msgid "NAMES/RUS521"
+msgstr "多爾戈帕列茨"
+
+msgid "NAMES/RUS522"
+msgstr "赫魯諾夫"
+
+msgid "NAMES/RUS523"
+msgstr "梅爾尼科夫"
+
+msgid "NAMES/RUS524"
+msgstr "埃里斯裡夫"
+
+msgid "NAMES/RUS525"
+msgstr "斯皮裡多諾夫"
+
+msgid "NAMES/RUS526"
+msgstr "潘克拉托夫"
+
+msgid "NAMES/RUS527"
+msgstr "瑟索耶夫"
+
+msgid "NAMES/RUS528"
+msgstr "潘捷列伊莫諾夫"
+
+msgid "NAMES/RUS529"
+msgstr "杜霍夫"
+
+msgid "NAMES/RUS53"
+msgstr "切爾諾伊瓦年科"
+
+msgid "NAMES/RUS530"
+msgstr "斯坦紐科維奇"
+
+msgid "NAMES/RUS531"
+msgstr "利亞霍夫"
+
+msgid "NAMES/RUS532"
+msgstr "格魯什科"
+
+msgid "NAMES/RUS533"
+msgstr "普羅霍羅夫"
+
+msgid "NAMES/RUS534"
+msgstr "庫茲涅佐夫"
+
+msgid "NAMES/RUS535"
+msgstr "巴爾明"
+
+msgid "NAMES/RUS536"
+msgstr "克拉皮溫"
+
+msgid "NAMES/RUS537"
+msgstr "謝列布羅夫"
+
+msgid "NAMES/RUS538"
+msgstr "佐洛塔廖夫"
+
+msgid "NAMES/RUS539"
+msgstr "捷列先科"
+
+msgid "NAMES/RUS54"
+msgstr "赫涅維奇"
+
+msgid "NAMES/RUS540"
+msgstr "別列維奇"
+
+msgid "NAMES/RUS541"
+msgstr "尤赫涅維奇"
+
+msgid "NAMES/RUS542"
+msgstr "別利亞紹夫"
+
+msgid "NAMES/RUS543"
+msgstr "科爾巴索夫"
+
+msgid "NAMES/RUS544"
+msgstr "博爾特尼科夫"
+
+msgid "NAMES/RUS545"
+msgstr "特拉夫金"
+
+msgid "NAMES/RUS546"
+msgstr "瓦西里科夫"
+
+msgid "NAMES/RUS547"
+msgstr "卡列特尼科夫"
+
+msgid "NAMES/RUS548"
+msgstr "卡利特涅科夫"
+
+msgid "NAMES/RUS549"
+msgstr "戈爾什科夫"
+
+msgid "NAMES/RUS55"
+msgstr "奧若戈夫"
+
+msgid "NAMES/RUS550"
+msgstr "波爾特諾夫"
+
+msgid "NAMES/RUS551"
+msgstr "特羅夫"
+
+msgid "NAMES/RUS552"
+msgstr "齊加諾克"
+
+msgid "NAMES/RUS553"
+msgstr "佩喬林"
+
+msgid "NAMES/RUS554"
+msgstr "杜羅夫"
+
+msgid "NAMES/RUS555"
+msgstr "倫斯基"
+
+msgid "NAMES/RUS556"
+msgstr "索伯列夫"
+
+msgid "NAMES/RUS557"
+msgstr "蓋杜克維奇"
+
+msgid "NAMES/RUS558"
+msgstr "德莫夫"
+
+msgid "NAMES/RUS559"
+msgstr "沃多列佐夫"
+
+msgid "NAMES/RUS56"
+msgstr "斯韋特洛夫"
+
+msgid "NAMES/RUS560"
+msgstr "索特尼科夫"
+
+msgid "NAMES/RUS561"
+msgstr "霍魯日"
+
+msgid "NAMES/RUS562"
+msgstr "耶紹洛夫"
+
+msgid "NAMES/RUS563"
+msgstr "普什卡廖夫"
+
+msgid "NAMES/RUS564"
+msgstr "韋列夏金"
+
+msgid "NAMES/RUS565"
+msgstr "察便剋夫"
+
+msgid "NAMES/RUS566"
+msgstr "安斯基"
+
+msgid "NAMES/RUS567"
+msgstr "耶列茨基"
+
+msgid "NAMES/RUS568"
+msgstr "阿涅奇金"
+
+msgid "NAMES/RUS569"
+msgstr "阿列克辛"
+
+msgid "NAMES/RUS57"
+msgstr "普羅託波波夫"
+
+msgid "NAMES/RUS570"
+msgstr "切爾涅佐夫"
+
+msgid "NAMES/RUS571"
+msgstr "平丘克"
+
+msgid "NAMES/RUS572"
+msgstr "揚丘克"
+
+msgid "NAMES/RUS573"
+msgstr "普里貝洛夫"
+
+msgid "NAMES/RUS574"
+msgstr "卡彭特"
+
+msgid "NAMES/RUS575"
+msgstr "阿法納西耶夫"
+
+msgid "NAMES/RUS576"
+msgstr "阿夫斯基"
+
+msgid "NAMES/RUS577"
+msgstr "特韋裡金"
+
+msgid "NAMES/RUS578"
+msgstr "別茲魯科夫"
+
+msgid "NAMES/RUS579"
+msgstr "古巴諾夫"
+
+msgid "NAMES/RUS58"
+msgstr "莫欣"
+
+msgid "NAMES/RUS580"
+msgstr "斯莫熱夫斯基"
+
+msgid "NAMES/RUS581"
+msgstr "斯莫爾斯基"
+
+msgid "NAMES/RUS582"
+msgstr "秋列涅夫"
+
+msgid "NAMES/RUS583"
+msgstr "斯拉謝夫"
+
+msgid "NAMES/RUS584"
+msgstr "邦達列夫"
+
+msgid "NAMES/RUS585"
+msgstr "孔德拉紹夫"
+
+msgid "NAMES/RUS586"
+msgstr "索巴克維奇"
+
+msgid "NAMES/RUS587"
+msgstr "諾茲德列夫"
+
+msgid "NAMES/RUS588"
+msgstr "魯斯拉諾夫"
+
+msgid "NAMES/RUS589"
+msgstr "別祖霍夫"
+
+msgid "NAMES/RUS59"
+msgstr "赫連尼科夫"
+
+msgid "NAMES/RUS590"
+msgstr "季莫欣"
+
+msgid "NAMES/RUS591"
+msgstr "卡拉塔耶夫"
+
+msgid "NAMES/RUS592"
+msgstr "塔曼採夫"
+
+msgid "NAMES/RUS593"
+msgstr "特魯琴科"
+
+msgid "NAMES/RUS594"
+msgstr "皮羅戈夫"
+
+msgid "NAMES/RUS595"
+msgstr "多洛霍夫"
+
+msgid "NAMES/RUS596"
+msgstr "切爾諾烏斯"
+
+msgid "NAMES/RUS597"
+msgstr "託爾庫諾夫"
+
+msgid "NAMES/RUS598"
+msgstr "託庫諾夫"
+
+msgid "NAMES/RUS599"
+msgstr "馬尼洛"
+
+msgid "NAMES/RUS6"
+msgstr "斯科沃羅達"
+
+msgid "NAMES/RUS60"
+msgstr "索洛欣"
+
+msgid "NAMES/RUS600"
+msgstr "甘努什金"
+
+msgid "NAMES/RUS601"
+msgstr "加盧什科"
+
+msgid "NAMES/RUS602"
+msgstr "韋爾哈圖羅夫"
+
+msgid "NAMES/RUS603"
+msgstr "波諾馬廖夫"
+
+msgid "NAMES/RUS604"
+msgstr "佐先科"
+
+msgid "NAMES/RUS605"
+msgstr "基爾皮奇尼科夫"
+
+msgid "NAMES/RUS606"
+msgstr "戈列利克"
+
+msgid "NAMES/RUS607"
+msgstr "德洛斯"
+
+msgid "NAMES/RUS608"
+msgstr "格雷茲洛夫"
+
+msgid "NAMES/RUS609"
+msgstr "斯維德里蓋洛"
+
+msgid "NAMES/RUS61"
+msgstr "季霍米羅夫"
+
+msgid "NAMES/RUS610"
+msgstr "涅貝希涅茨"
+
+msgid "NAMES/RUS611"
+msgstr "斯基爾蒙特"
+
+msgid "NAMES/RUS612"
+msgstr "列佩哈"
+
+msgid "NAMES/RUS613"
+msgstr "波波夫"
+
+msgid "NAMES/RUS614"
+msgstr "格魯賓"
+
+msgid "NAMES/RUS615"
+msgstr "奧夫相尼科夫"
+
+msgid "NAMES/RUS616"
+msgstr "託洛克尼茨金"
+
+msgid "NAMES/RUS617"
+msgstr "布里奇金娜"
+
+msgid "NAMES/RUS618"
+msgstr "斯皮岑"
+
+msgid "NAMES/RUS619"
+msgstr "奧格洛布利亞"
+
+msgid "NAMES/RUS62"
+msgstr "拉熱奇尼科夫"
+
+msgid "NAMES/RUS620"
+msgstr "斯卡茲金"
+
+msgid "NAMES/RUS621"
+msgstr "卡德金"
+
+msgid "NAMES/RUS622"
+msgstr "波杜什金"
+
+msgid "NAMES/RUS623"
+msgstr "察里科夫"
+
+msgid "NAMES/RUS624"
+msgstr "卡布什金"
+
+msgid "NAMES/RUS625"
+msgstr "斯圖科夫"
+
+msgid "NAMES/RUS626"
+msgstr "庫斯科夫"
+
+msgid "NAMES/RUS627"
+msgstr "格拉莫捷耶夫"
+
+msgid "NAMES/RUS628"
+msgstr "皮薩列夫"
+
+msgid "NAMES/RUS629"
+msgstr "加馬特"
+
+msgid "NAMES/RUS63"
+msgstr "瓦利克"
+
+msgid "NAMES/RUS630"
+msgstr "波莫爾採夫"
+
+msgid "NAMES/RUS631"
+msgstr "紹穆什"
+
+msgid "NAMES/RUS632"
+msgstr "布扎克"
+
+msgid "NAMES/RUS633"
+msgstr "奧西波夫"
+
+msgid "NAMES/RUS634"
+msgstr "杜比寧"
+
+msgid "NAMES/RUS635"
+msgstr "扎多夫"
+
+msgid "NAMES/RUS636"
+msgstr "西尼亞金"
+
+msgid "NAMES/RUS637"
+msgstr "別洛烏索夫"
+
+msgid "NAMES/RUS638"
+msgstr "列溫斯基"
+
+msgid "NAMES/RUS639"
+msgstr "科帕季"
+
+msgid "NAMES/RUS64"
+msgstr "波特利岑"
+
+msgid "NAMES/RUS640"
+msgstr "維列格扎寧"
+
+msgid "NAMES/RUS641"
+msgstr "沃伊特科"
+
+msgid "NAMES/RUS642"
+msgstr "特諾夫"
+
+msgid "NAMES/RUS643"
+msgstr "阿布拉莫夫"
+
+msgid "NAMES/RUS644"
+msgstr "帕斯圖霍夫"
+
+msgid "NAMES/RUS645"
+msgstr "布里亞金"
+
+msgid "NAMES/RUS646"
+msgstr "普羅科菲耶夫"
+
+msgid "NAMES/RUS647"
+msgstr "杜達科夫"
+
+msgid "NAMES/RUS648"
+msgstr "科羅涅茨"
+
+msgid "NAMES/RUS649"
+msgstr "布羅夫琴科"
+
+msgid "NAMES/RUS65"
+msgstr "門捷列夫"
+
+msgid "NAMES/RUS650"
+msgstr "楚尼"
+
+msgid "NAMES/RUS651"
+msgstr "澤柳科夫"
+
+msgid "NAMES/RUS652"
+msgstr "扎伊金"
+
+msgid "NAMES/RUS653"
+msgstr "扎鄧茨基"
+
+msgid "NAMES/RUS654"
+msgstr "羅戈夫"
+
+msgid "NAMES/RUS655"
+msgstr "羅日諾夫"
+
+msgid "NAMES/RUS656"
+msgstr "扎克列夫斯基"
+
+msgid "NAMES/RUS657"
+msgstr "普夫柳琴科"
+
+msgid "NAMES/RUS658"
+msgstr "弗朗西斯"
+
+msgid "NAMES/RUS659"
+msgstr "涅姆佐夫"
+
+msgid "NAMES/RUS66"
+msgstr "什韋多夫"
+
+msgid "NAMES/RUS660"
+msgstr "霍赫洛夫"
+
+msgid "NAMES/RUS661"
+msgstr "布利巴什"
+
+msgid "NAMES/RUS662"
+msgstr "斯塔謝維奇"
+
+msgid "NAMES/RUS663"
+msgstr "希利亞耶夫"
+
+msgid "NAMES/RUS664"
+msgstr "蘭採夫"
+
+msgid "NAMES/RUS665"
+msgstr "阿卜杜洛夫"
+
+msgid "NAMES/RUS666"
+msgstr "勒津"
+
+msgid "NAMES/RUS667"
+msgstr "馬津"
+
+msgid "NAMES/RUS668"
+msgstr "涅皮亞內赫"
+
+msgid "NAMES/RUS669"
+msgstr "博戈馬茲"
+
+msgid "NAMES/RUS67"
+msgstr "戈洛德內赫"
+
+msgid "NAMES/RUS670"
+msgstr "巴奇洛"
+
+msgid "NAMES/RUS671"
+msgstr "戈洛傑德"
+
+msgid "NAMES/RUS672"
+msgstr "切爾基涅茨"
+
+msgid "NAMES/RUS673"
+msgstr "謝馬什科"
+
+msgid "NAMES/RUS674"
+msgstr "古薩羅夫"
+
+msgid "NAMES/RUS675"
+msgstr "科熱米亞卡"
+
+msgid "NAMES/RUS676"
+msgstr "梅捷爾金"
+
+msgid "NAMES/RUS677"
+msgstr "韋特金"
+
+msgid "NAMES/RUS678"
+msgstr "韋克申"
+
+msgid "NAMES/RUS679"
+msgstr "希什金"
+
+msgid "NAMES/RUS68"
+msgstr "博布羅夫"
+
+msgid "NAMES/RUS680"
+msgstr "拉特波夫"
+
+msgid "NAMES/RUS681"
+msgstr "丘貢金"
+
+msgid "NAMES/RUS682"
+msgstr "科洛斯尼科夫"
+
+msgid "NAMES/RUS683"
+msgstr "佩斯特魯欣"
+
+msgid "NAMES/RUS684"
+msgstr "蘭斯科伊"
+
+msgid "NAMES/RUS685"
+msgstr "沙圖諾夫"
+
+msgid "NAMES/RUS686"
+msgstr "科瓦爾"
+
+msgid "NAMES/RUS687"
+msgstr "瓦利科維奇"
+
+msgid "NAMES/RUS688"
+msgstr "科爾尊"
+
+msgid "NAMES/RUS689"
+msgstr "羅若斯"
+
+msgid "NAMES/RUS69"
+msgstr "裡亞布佐夫"
+
+msgid "NAMES/RUS690"
+msgstr "布里茨基"
+
+msgid "NAMES/RUS691"
+msgstr "特涅維茨基"
+
+msgid "NAMES/RUS692"
+msgstr "克拉奇金"
+
+msgid "NAMES/RUS693"
+msgstr "查登"
+
+msgid "NAMES/RUS694"
+msgstr "烏蘭諾夫"
+
+msgid "NAMES/RUS695"
+msgstr "斯科科夫"
+
+msgid "NAMES/RUS696"
+msgstr "格拉濟耶夫"
+
+msgid "NAMES/RUS697"
+msgstr "科洛布科夫"
+
+msgid "NAMES/RUS698"
+msgstr "扎列斯基"
+
+msgid "NAMES/RUS699"
+msgstr "斯梅塔寧"
+
+msgid "NAMES/RUS7"
+msgstr "多伊尼科夫"
+
+msgid "NAMES/RUS70"
+msgstr "多多諾夫"
+
+msgid "NAMES/RUS700"
+msgstr "科洛丁"
+
+msgid "NAMES/RUS701"
+msgstr "阿謝茨基"
+
+msgid "NAMES/RUS702"
+msgstr "涅克拉索夫"
+
+msgid "NAMES/RUS703"
+msgstr "列別捷夫"
+
+msgid "NAMES/RUS704"
+msgstr "薩夫拉斯金"
+
+msgid "NAMES/RUS705"
+msgstr "薩沃斯季亞諾夫"
+
+msgid "NAMES/RUS706"
+msgstr "波波維奇"
+
+msgid "NAMES/RUS707"
+msgstr "博列伊科"
+
+msgid "NAMES/RUS708"
+msgstr "科列伊科"
+
+msgid "NAMES/RUS709"
+msgstr "巴圖林"
+
+msgid "NAMES/RUS71"
+msgstr "別洛採爾科韋茨"
+
+msgid "NAMES/RUS710"
+msgstr "博爾佐夫"
+
+msgid "NAMES/RUS711"
+msgstr "佈雷斯基"
+
+msgid "NAMES/RUS712"
+msgstr "拉斯波波夫"
+
+msgid "NAMES/RUS713"
+msgstr "烏特金"
+
+msgid "NAMES/RUS714"
+msgstr "阿列伊尼切夫"
+
+msgid "NAMES/RUS715"
+msgstr "沃洛布耶夫"
+
+msgid "NAMES/RUS716"
+msgstr "維斯科科夫"
+
+msgid "NAMES/RUS717"
+msgstr "加庫沙"
+
+msgid "NAMES/RUS718"
+msgstr "格拉祖諾夫"
+
+msgid "NAMES/RUS719"
+msgstr "戈爾傑耶夫"
+
+msgid "NAMES/RUS72"
+msgstr "古德斯"
+
+msgid "NAMES/RUS720"
+msgstr "古季馬"
+
+msgid "NAMES/RUS721"
+msgstr "梅捷利察"
+
+msgid "NAMES/RUS722"
+msgstr "普拉霍夫"
+
+msgid "NAMES/RUS723"
+msgstr "古薩科夫"
+
+msgid "NAMES/RUS724"
+msgstr "多梅舍夫"
+
+msgid "NAMES/RUS725"
+msgstr "德雷金"
+
+msgid "NAMES/RUS726"
+msgstr "多布羅斯科克"
+
+msgid "NAMES/RUS727"
+msgstr "扎瓦茨基"
+
+msgid "NAMES/RUS728"
+msgstr "熱列茲金"
+
+msgid "NAMES/RUS729"
+msgstr "諾戈維岑"
+
+msgid "NAMES/RUS73"
+msgstr "魯卡維什尼科夫"
+
+msgid "NAMES/RUS730"
+msgstr "基列耶夫"
+
+msgid "NAMES/RUS731"
+msgstr "克列伊梅諾夫"
+
+msgid "NAMES/RUS732"
+msgstr "卡巴扎"
+
+msgid "NAMES/RUS733"
+msgstr "米哈伊洛夫"
+
+msgid "NAMES/RUS734"
+msgstr "別列茲金"
+
+msgid "NAMES/RUS735"
+msgstr "科斯秋克"
+
+msgid "NAMES/RUS736"
+msgstr "斯塔什克維奇"
+
+msgid "NAMES/RUS737"
+msgstr "庫克拉切夫"
+
+msgid "NAMES/RUS738"
+msgstr "列夫琴科"
+
+msgid "NAMES/RUS739"
+msgstr "列索韋茨"
+
+msgid "NAMES/RUS74"
+msgstr "洛班"
+
+msgid "NAMES/RUS740"
+msgstr "潘科夫"
+
+msgid "NAMES/RUS741"
+msgstr "扎夏德科"
+
+msgid "NAMES/RUS742"
+msgstr "奧格涅夫"
+
+msgid "NAMES/RUS743"
+msgstr "米洛瓦諾夫"
+
+msgid "NAMES/RUS744"
+msgstr "莫洛托夫"
+
+msgid "NAMES/RUS745"
+msgstr "柳布什金"
+
+msgid "NAMES/RUS746"
+msgstr "米哈利丘克"
+
+msgid "NAMES/RUS747"
+msgstr "馬蒙托夫"
+
+msgid "NAMES/RUS748"
+msgstr "馬諾托夫"
+
+msgid "NAMES/RUS749"
+msgstr "諾沃薩多夫"
+
+msgid "NAMES/RUS75"
+msgstr "奧謝普科夫"
+
+msgid "NAMES/RUS750"
+msgstr "帕利亞尼察"
+
+msgid "NAMES/RUS751"
+msgstr "高斯特夫"
+
+msgid "NAMES/RUS752"
+msgstr "彼得魯什"
+
+msgid "NAMES/RUS753"
+msgstr "普柳謝夫"
+
+msgid "NAMES/RUS754"
+msgstr "莫爾德維諾夫"
+
+msgid "NAMES/RUS755"
+msgstr "列琴恩科"
+
+msgid "NAMES/RUS756"
+msgstr "費琴恩科"
+
+msgid "NAMES/RUS757"
+msgstr "裡亞申"
+
+msgid "NAMES/RUS758"
+msgstr "斯韋爾奇科夫"
+
+msgid "NAMES/RUS759"
+msgstr "卡西莫夫"
+
+msgid "NAMES/RUS76"
+msgstr "斯圖傑內"
+
+msgid "NAMES/RUS760"
+msgstr "普列謝耶夫"
+
+msgid "NAMES/RUS761"
+msgstr "克列希"
+
+msgid "NAMES/RUS762"
+msgstr "圖利諾夫"
+
+msgid "NAMES/RUS763"
+msgstr "烏裡揚諾夫"
+
+msgid "NAMES/RUS764"
+msgstr "裡維諾夫"
+
+msgid "NAMES/RUS765"
+msgstr "齊布利亞"
+
+msgid "NAMES/RUS766"
+msgstr "什卡片科"
+
+msgid "NAMES/RUS767"
+msgstr "夫裡亞津"
+
+msgid "NAMES/RUS768"
+msgstr "耶多威"
+
+msgid "NAMES/RUS769"
+msgstr "馬斯捷爾科夫"
+
+msgid "NAMES/RUS77"
+msgstr "佈雷加"
+
+msgid "NAMES/RUS770"
+msgstr "謝馬戈"
+
+msgid "NAMES/RUS771"
+msgstr "肖幕什金"
+
+msgid "NAMES/RUS772"
+msgstr "博夏科夫"
+
+msgid "NAMES/RUS773"
+msgstr "別斯帕米亞特內赫"
+
+msgid "NAMES/RUS774"
+msgstr "列贊諾夫"
+
+msgid "NAMES/RUS775"
+msgstr "巴里亞京斯基"
+
+msgid "NAMES/RUS776"
+msgstr "格里岑科"
+
+msgid "NAMES/RUS777"
+msgstr "拉祖姆尼亞克"
+
+msgid "NAMES/RUS778"
+msgstr "莫吉利內"
+
+msgid "NAMES/RUS779"
+msgstr "塔拉諾夫"
+
+msgid "NAMES/RUS78"
+msgstr "克列斯托夫斯基"
+
+msgid "NAMES/RUS780"
+msgstr "科久林"
+
+msgid "NAMES/RUS781"
+msgstr "普拉斯圖諾夫"
+
+msgid "NAMES/RUS782"
+msgstr "馬克耶夫"
+
+msgid "NAMES/RUS783"
+msgstr "斯維林"
+
+msgid "NAMES/RUS784"
+msgstr "內維爾"
+
+msgid "NAMES/RUS785"
+msgstr "戈羅赫"
+
+msgid "NAMES/RUS786"
+msgstr "利亞霍夫"
+
+msgid "NAMES/RUS787"
+msgstr "波戈列洛夫"
+
+msgid "NAMES/RUS788"
+msgstr "卡爾片科"
+
+msgid "NAMES/RUS789"
+msgstr "普羅科片科"
+
+msgid "NAMES/RUS79"
+msgstr "韋廖夫金"
+
+msgid "NAMES/RUS790"
+msgstr "佩特利亞科夫"
+
+msgid "NAMES/RUS791"
+msgstr "薩拉馬"
+
+msgid "NAMES/RUS792"
+msgstr "索洛烏欣"
+
+msgid "NAMES/RUS793"
+msgstr "尼庫茲米喬夫"
+
+msgid "NAMES/RUS794"
+msgstr "羅曼諾夫"
+
+msgid "NAMES/RUS795"
+msgstr "沙戈伊科"
+
+msgid "NAMES/RUS796"
+msgstr "切爾託貢"
+
+msgid "NAMES/RUS797"
+msgstr "巴比奇"
+
+msgid "NAMES/RUS798"
+msgstr "巴拉巴諾夫"
+
+msgid "NAMES/RUS799"
+msgstr "馬利科夫"
+
+msgid "NAMES/RUS8"
+msgstr "多爾戈柳博夫"
+
+msgid "NAMES/RUS80"
+msgstr "馬裡亞欣"
+
+msgid "NAMES/RUS800"
+msgstr "科裡亞金"
+
+msgid "NAMES/RUS801"
+msgstr "波列扎耶夫"
+
+msgid "NAMES/RUS802"
+msgstr "普斯托沃伊"
+
+msgid "NAMES/RUS803"
+msgstr "洛帕京"
+
+msgid "NAMES/RUS804"
+msgstr "斯特拉達利採夫"
+
+msgid "NAMES/RUS805"
+msgstr "克魯托夫"
+
+msgid "NAMES/RUS806"
+msgstr "佩日科夫"
+
+msgid "NAMES/RUS807"
+msgstr "蓋金"
+
+msgid "NAMES/RUS808"
+msgstr "巴熱諾夫"
+
+msgid "NAMES/RUS809"
+msgstr "索諾夫"
+
+msgid "NAMES/RUS81"
+msgstr "希羅科夫"
+
+msgid "NAMES/RUS810"
+msgstr "布拉吉內赫"
+
+msgid "NAMES/RUS811"
+msgstr "弗多維琴利"
+
+msgid "NAMES/RUS812"
+msgstr "戈洛洛博夫"
+
+msgid "NAMES/RUS813"
+msgstr "熱格洛夫"
+
+msgid "NAMES/RUS814"
+msgstr "戈洛德"
+
+msgid "NAMES/RUS815"
+msgstr "古爾佳克"
+
+msgid "NAMES/RUS816"
+msgstr "羅戈諾夫"
+
+msgid "NAMES/RUS817"
+msgstr "科洛佳日內"
+
+msgid "NAMES/RUS818"
+msgstr "科拉別利希科夫"
+
+msgid "NAMES/RUS819"
+msgstr "科羅別伊尼科夫"
+
+msgid "NAMES/RUS82"
+msgstr "克里沃什雷科夫"
+
+msgid "NAMES/RUS820"
+msgstr "蘇傑伊金"
+
+msgid "NAMES/RUS821"
+msgstr "捷爾金"
+
+msgid "NAMES/RUS822"
+msgstr "尼庫林"
+
+msgid "NAMES/RUS823"
+msgstr "科佩京"
+
+msgid "NAMES/RUS824"
+msgstr "莫爾古諾夫"
+
+msgid "NAMES/RUS825"
+msgstr "扎德涅普良斯基"
+
+msgid "NAMES/RUS826"
+msgstr "涅柳賓"
+
+msgid "NAMES/RUS827"
+msgstr "奧薩奇"
+
+msgid "NAMES/RUS828"
+msgstr "克伯萊烏"
+
+msgid "NAMES/RUS829"
+msgstr "波赫列巴耶夫"
+
+msgid "NAMES/RUS83"
+msgstr "拉斯托爾古耶夫"
+
+msgid "NAMES/RUS830"
+msgstr "巴扎羅夫"
+
+msgid "NAMES/RUS831"
+msgstr "斯列薩爾丘克"
+
+msgid "NAMES/RUS832"
+msgstr "特列古博夫"
+
+msgid "NAMES/RUS833"
+msgstr "安德烈耶夫"
+
+msgid "NAMES/RUS834"
+msgstr "塔拉索夫"
+
+msgid "NAMES/RUS835"
+msgstr "卡巴斯基"
+
+msgid "NAMES/RUS836"
+msgstr "費多林"
+
+msgid "NAMES/RUS837"
+msgstr "赫羅姆琴科"
+
+msgid "NAMES/RUS838"
+msgstr "涅洛吉奇內"
+
+msgid "NAMES/RUS839"
+msgstr "切爾內什"
+
+msgid "NAMES/RUS84"
+msgstr "薩波日尼科夫"
+
+msgid "NAMES/RUS840"
+msgstr "亞洛維奇內"
+
+msgid "NAMES/RUS841"
+msgstr "滕德里亞科夫"
+
+msgid "NAMES/RUS842"
+msgstr "帕爾哈耶夫"
+
+msgid "NAMES/RUS843"
+msgstr "巴爾蘇科夫"
+
+msgid "NAMES/RUS844"
+msgstr "沙拉波夫"
+
+msgid "NAMES/RUS845"
+msgstr "赫裡亞科夫"
+
+msgid "NAMES/RUS846"
+msgstr "格魯濟諾夫"
+
+msgid "NAMES/RUS847"
+msgstr "戈盧日諾夫"
+
+msgid "NAMES/RUS848"
+msgstr "如拉廖夫"
+
+msgid "NAMES/RUS849"
+msgstr "維索茨基"
+
+msgid "NAMES/RUS85"
+msgstr "布謝爾"
+
+msgid "NAMES/RUS850"
+msgstr "伊舒京"
+
+msgid "NAMES/RUS851"
+msgstr "希洛夫"
+
+msgid "NAMES/RUS852"
+msgstr "克瓦斯尼科夫"
+
+msgid "NAMES/RUS853"
+msgstr "切舍博克"
+
+msgid "NAMES/RUS854"
+msgstr "蘇哈列夫"
+
+msgid "NAMES/RUS855"
+msgstr "薩洛耶多夫"
+
+msgid "NAMES/RUS856"
+msgstr "波科季洛"
+
+msgid "NAMES/RUS857"
+msgstr "魯布措夫"
+
+msgid "NAMES/RUS858"
+msgstr "斯克沃爾佐夫"
+
+msgid "NAMES/RUS859"
+msgstr "格里採韋茨"
+
+msgid "NAMES/RUS86"
+msgstr "巴利亞金"
+
+msgid "NAMES/RUS860"
+msgstr "羅加切夫"
+
+msgid "NAMES/RUS861"
+msgstr "博日科"
+
+msgid "NAMES/RUS862"
+msgstr "加拉寧"
+
+msgid "NAMES/RUS863"
+msgstr "格尼利茨基"
+
+msgid "NAMES/RUS864"
+msgstr "薩韋列夫"
+
+msgid "NAMES/RUS865"
+msgstr "格洛托夫"
+
+msgid "NAMES/RUS866"
+msgstr "多爾戈波洛夫"
+
+msgid "NAMES/RUS867"
+msgstr "薩薩紐克"
+
+msgid "NAMES/RUS868"
+msgstr "烏瓦羅夫"
+
+msgid "NAMES/RUS869"
+msgstr "普拉托夫"
+
+msgid "NAMES/RUS87"
+msgstr "烏魯索夫"
+
+msgid "NAMES/RUS870"
+msgstr "赫列諾夫"
+
+msgid "NAMES/RUS871"
+msgstr "克魯普諾夫"
+
+msgid "NAMES/RUS872"
+msgstr "庫爾洛維奇"
+
+msgid "NAMES/RUS873"
+msgstr "庫季克"
+
+msgid "NAMES/RUS874"
+msgstr "多勃雷寧"
+
+msgid "NAMES/RUS875"
+msgstr "斯克裡亞賓"
+
+msgid "NAMES/RUS876"
+msgstr "沃洛季科"
+
+msgid "NAMES/RUS877"
+msgstr "雷斯科夫"
+
+msgid "NAMES/RUS878"
+msgstr "馬爾特年科"
+
+msgid "NAMES/RUS879"
+msgstr "馬卡列維奇"
+
+msgid "NAMES/RUS88"
+msgstr "梅列霍夫"
+
+msgid "NAMES/RUS880"
+msgstr "梅辛"
+
+msgid "NAMES/RUS881"
+msgstr "拉德科"
+
+msgid "NAMES/RUS882"
+msgstr "佩切紐克"
+
+msgid "NAMES/RUS883"
+msgstr "波蘇利科"
+
+msgid "NAMES/RUS884"
+msgstr "多赫圖羅夫"
+
+msgid "NAMES/RUS885"
+msgstr "帕秋克"
+
+msgid "NAMES/RUS886"
+msgstr "皮丘爾"
+
+msgid "NAMES/RUS887"
+msgstr "普奇科夫"
+
+msgid "NAMES/RUS888"
+msgstr "古契柯夫"
+
+msgid "NAMES/RUS889"
+msgstr "洛偉科夫"
+
+msgid "NAMES/RUS89"
+msgstr "魯科金"
+
+msgid "NAMES/RUS890"
+msgstr "諾日金"
+
+msgid "NAMES/RUS891"
+msgstr "庫採帕洛夫"
+
+msgid "NAMES/RUS892"
+msgstr "謝雷達克"
+
+msgid "NAMES/RUS893"
+msgstr "蘇博京"
+
+msgid "NAMES/RUS894"
+msgstr "戈洛文"
+
+msgid "NAMES/RUS895"
+msgstr "沃斯克列先斯基"
+
+msgid "NAMES/RUS896"
+msgstr "切特韋里科夫"
+
+msgid "NAMES/RUS897"
+msgstr "斯捷尼亞耶夫"
+
+msgid "NAMES/RUS898"
+msgstr "戈洛普佐夫"
+
+msgid "NAMES/RUS899"
+msgstr "費杜林"
+
+msgid "NAMES/RUS9"
+msgstr "費多林夫"
+
+msgid "NAMES/RUS90"
+msgstr "切洛巴諾夫"
+
+msgid "NAMES/RUS900"
+msgstr "丘季諾夫"
+
+msgid "NAMES/RUS901"
+msgstr "切博塔廖夫"
+
+msgid "NAMES/RUS902"
+msgstr "什梅廖夫"
+
+msgid "NAMES/RUS903"
+msgstr "戈盧別夫"
+
+msgid "NAMES/RUS904"
+msgstr "舍韋利科夫"
+
+msgid "NAMES/RUS905"
+msgstr "塔拉修克"
+
+msgid "NAMES/RUS906"
+msgstr "沃伊切霍夫斯基"
+
+msgid "NAMES/RUS907"
+msgstr "日哈列夫"
+
+msgid "NAMES/RUS908"
+msgstr "日蓋洛"
+
+msgid "NAMES/RUS909"
+msgstr "克留科夫"
+
+msgid "NAMES/RUS91"
+msgstr "庫普里亞諾夫"
+
+msgid "NAMES/RUS910"
+msgstr "奈德諾夫"
+
+msgid "NAMES/RUS911"
+msgstr "普切利科夫"
+
+msgid "NAMES/RUS912"
+msgstr "斯特列邁洛"
+
+msgid "NAMES/RUS913"
+msgstr "格列博夫"
+
+msgid "NAMES/RUS914"
+msgstr "斯特魯科夫"
+
+msgid "NAMES/RUS915"
+msgstr "沙姆舒林"
+
+msgid "NAMES/RUS916"
+msgstr "別克捷涅耶夫"
+
+msgid "NAMES/RUS917"
+msgstr "布拉奇科夫"
+
+msgid "NAMES/RUS918"
+msgstr "巴拉霍維奇"
+
+msgid "NAMES/RUS919"
+msgstr "阿克肖諾夫"
+
+msgid "NAMES/RUS92"
+msgstr "阿斯塔霍夫"
+
+msgid "NAMES/RUS920"
+msgstr "烏格留莫夫"
+
+msgid "NAMES/RUS921"
+msgstr "布爾米斯特羅夫"
+
+msgid "NAMES/RUS922"
+msgstr "烏格洛夫"
+
+msgid "NAMES/RUS923"
+msgstr "沃羅帕耶夫"
+
+msgid "NAMES/RUS924"
+msgstr "切爾翁內"
+
+msgid "NAMES/RUS925"
+msgstr "切列維琴科"
+
+msgid "NAMES/RUS926"
+msgstr "米寧"
+
+msgid "NAMES/RUS927"
+msgstr "科雷什金"
+
+msgid "NAMES/RUS928"
+msgstr "博貢"
+
+msgid "NAMES/RUS929"
+msgstr "基留欣"
+
+msgid "NAMES/RUS93"
+msgstr "格梅里亞"
+
+msgid "NAMES/RUS930"
+msgstr "杜達列夫"
+
+msgid "NAMES/RUS931"
+msgstr "科洛托夫"
+
+msgid "NAMES/RUS932"
+msgstr "梅夏尼諾夫"
+
+msgid "NAMES/RUS933"
+msgstr "亞歷山大"
+
+msgid "NAMES/RUS934"
+msgstr "鮑里斯"
+
+msgid "NAMES/RUS935"
+msgstr "費力克斯"
+
+msgid "NAMES/RUS936"
+msgstr "菲利普"
+
+msgid "NAMES/RUS937"
+msgstr "佛馬尼夫"
+
+msgid "NAMES/RUS938"
+msgstr "愛德華"
+
+msgid "NAMES/RUS939"
+msgstr "尤里那金"
+
+msgid "NAMES/RUS94"
+msgstr "揚闊夫"
+
+msgid "NAMES/RUS940"
+msgstr "亞拉斯拉夫"
+
+msgid "NAMES/RUS941"
+msgstr "安東"
+
+msgid "NAMES/RUS942"
+msgstr "馬卡爾科夫"
+
+msgid "NAMES/RUS943"
+msgstr "布羅尼斯瓦"
+
+msgid "NAMES/RUS944"
+msgstr "瓦迪姆"
+
+msgid "NAMES/RUS945"
+msgstr "瓦連京"
+
+msgid "NAMES/RUS946"
+msgstr "瓦列裡"
+
+msgid "NAMES/RUS947"
+msgstr "羅勒"
+
+msgid "NAMES/RUS948"
+msgstr "維克託爾"
+
+msgid "NAMES/RUS949"
+msgstr "維塔利"
+
+msgid "NAMES/RUS95"
+msgstr "弗拉基米爾"
+
+msgid "NAMES/RUS950"
+msgstr "弗拉季"
+
+msgid "NAMES/RUS951"
+msgstr "奧利加"
+
+msgid "NAMES/RUS952"
+msgstr "維亞切斯拉"
+
+msgid "NAMES/RUS953"
+msgstr "加夫里拉"
+
+msgid "NAMES/RUS954"
+msgstr "肯納基"
+
+msgid "NAMES/RUS955"
+msgstr "夫拉基斯拉夫"
+
+msgid "NAMES/RUS956"
+msgstr "格萊布"
+
+msgid "NAMES/RUS957"
+msgstr "格雷戈裡"
+
+msgid "NAMES/RUS958"
+msgstr "達尼拉"
+
+msgid "NAMES/RUS959"
+msgstr "傑米德"
+
+msgid "NAMES/RUS96"
+msgstr "丹尼斯"
+
+msgid "NAMES/RUS960"
+msgstr "德米特里"
+
+msgid "NAMES/RUS961"
+msgstr "阿納託利"
+
+msgid "NAMES/RUS962"
+msgstr "尤金"
+
+msgid "NAMES/RUS963"
+msgstr "葉戈爾"
+
+msgid "NAMES/RUS964"
+msgstr "伊法蓮"
+
+msgid "NAMES/RUS965"
+msgstr "扎哈爾"
+
+msgid "NAMES/RUS966"
+msgstr "伊萬"
+
+msgid "NAMES/RUS967"
+msgstr "伊格"
+
+msgid "NAMES/RUS968"
+msgstr "伊戈爾"
+
+msgid "NAMES/RUS969"
+msgstr "伊利亞"
+
+msgid "NAMES/RUS97"
+msgstr "因諾肯季"
+
+msgid "NAMES/RUS970"
+msgstr "西里爾"
+
+msgid "NAMES/RUS971"
+msgstr "安德魯"
+
+msgid "NAMES/RUS972"
+msgstr "德拉季"
+
+msgid "NAMES/RUS973"
+msgstr "君士坦丁"
+
+msgid "NAMES/RUS974"
+msgstr "庫茲馬"
+
+msgid "NAMES/RUS975"
+msgstr "利奧"
+
+msgid "NAMES/RUS976"
+msgstr "列奧尼德"
+
+msgid "NAMES/RUS977"
+msgstr "馬卡爾"
+
+msgid "NAMES/RUS978"
+msgstr "慈諾維夫"
+
+msgid "NAMES/RUS979"
+msgstr "馬修"
+
+msgid "NAMES/RUS98"
+msgstr "邁克爾"
+
+msgid "NAMES/RUS980"
+msgstr "尼基塔"
+
+msgid "NAMES/RUS981"
+msgstr "阿爾卡季"
+
+msgid "NAMES/RUS982"
+msgstr "尼古拉斯"
+
+msgid "NAMES/RUS983"
+msgstr "奧列格"
+
+msgid "NAMES/RUS984"
+msgstr "保羅"
+
+msgid "NAMES/RUS985"
+msgstr "彼得"
+
+msgid "NAMES/RUS986"
+msgstr "波塔普"
+
+msgid "NAMES/RUS987"
+msgstr "普羅霍爾"
+
+msgid "NAMES/RUS988"
+msgstr "羅迪翁斯基"
+
+msgid "NAMES/RUS989"
+msgstr "庫其馬"
+
+msgid "NAMES/RUS99"
+msgstr "魯斯蘭"
+
+msgid "NAMES/RUS990"
+msgstr "謝緬"
+
+msgid "NAMES/RUS991"
+msgstr "阿爾謝尼"
+
+msgid "NAMES/RUS992"
+msgstr "謝爾蓋"
+
+msgid "NAMES/RUS993"
+msgstr "斯坦尼斯"
+
+msgid "NAMES/RUS994"
+msgstr "斯捷潘"
+
+msgid "NAMES/RUS995"
+msgstr "塔拉斯"
+
+msgid "NAMES/RUS996"
+msgstr "馬洛克夫"
+
+msgid "NAMES/RUS997"
+msgstr "馬圖耶夫"
+
+msgid "NAMES/RUS998"
+msgstr "費多爾"
+
+msgid "NAMES/RUS999"
+msgstr "費多特"
+
+msgid "NAMES/RUSN1"
+msgstr "託馬斯"
+
+msgid "NAMES/RUSN10"
+msgstr "尤里"
+
+msgid "NAMES/RUSN100"
+msgstr "阿爾喬姆"
+
+msgid "NAMES/RUSN101"
+msgstr "雅羅斯拉夫"
+
+msgid "NAMES/RUSN102"
+msgstr "尼克拉伊"
+
+msgid "NAMES/RUSN103"
+msgstr "尼克拉"
+
+msgid "NAMES/RUSN104"
+msgstr "阿列克"
+
+msgid "NAMES/RUSN105"
+msgstr "歐格"
+
+msgid "NAMES/RUSN106"
+msgstr "歐可塔勒"
+
+msgid "NAMES/RUSN107"
+msgstr "巴維爾"
+
+msgid "NAMES/RUSN108"
+msgstr "靶克霍姆"
+
+msgid "NAMES/RUSN109"
+msgstr "比德"
+
+msgid "NAMES/RUSN11"
+msgstr "布拉夫"
+
+msgid "NAMES/RUSN110"
+msgstr "阿爾希普"
+
+msgid "NAMES/RUSN12"
+msgstr "巴達魯"
+
+msgid "NAMES/RUSN13"
+msgstr "波格旦"
+
+msgid "NAMES/RUSN14"
+msgstr "瓦列裡"
+
+msgid "NAMES/RUSN15"
+msgstr "羅曼"
+
+msgid "NAMES/RUSN16"
+msgstr "羅斯季斯拉夫"
+
+msgid "NAMES/RUSN17"
+msgstr "魯斯蘭"
+
+msgid "NAMES/RUSN18"
+msgstr "斯維亞託斯"
+
+msgid "NAMES/RUSN19"
+msgstr "謝門"
+
+msgid "NAMES/RUSN2"
+msgstr "謝爾蓋霍夫"
+
+msgid "NAMES/RUSN20"
+msgstr "謝朵兒"
+
+msgid "NAMES/RUSN21"
+msgstr "亞他那修"
+
+msgid "NAMES/RUSN22"
+msgstr "斯坦尼斯拉夫"
+
+msgid "NAMES/RUSN23"
+msgstr "斯基凡"
+
+msgid "NAMES/RUSN24"
+msgstr "達拉斯"
+
+msgid "NAMES/RUSN25"
+msgstr "基米夫"
+
+msgid "NAMES/RUSN26"
+msgstr "基莫勒"
+
+msgid "NAMES/RUSN27"
+msgstr "吉洪斯基"
+
+msgid "NAMES/RUSN28"
+msgstr "特里豐"
+
+msgid "NAMES/RUSN29"
+msgstr "特羅菲姆"
+
+msgid "NAMES/RUSN3"
+msgstr "胡得夫"
+
+msgid "NAMES/RUSN30"
+msgstr "菲多特"
+
+msgid "NAMES/RUSN31"
+msgstr "斯捷潘"
+
+msgid "NAMES/RUSN32"
+msgstr "塔拉斯"
+
+msgid "NAMES/RUSN33"
+msgstr "馬洛克夫"
+
+msgid "NAMES/RUSN34"
+msgstr "馬圖耶夫"
+
+msgid "NAMES/RUSN35"
+msgstr "費多爾"
+
+msgid "NAMES/RUSN36"
+msgstr "費多特"
+
+msgid "NAMES/RUSN37"
+msgstr "艾琳"
+
+msgid "NAMES/RUSN38"
+msgstr "尤里"
+
+msgid "NAMES/RUSN39"
+msgstr "阿爾喬姆"
+
+msgid "NAMES/RUSN4"
+msgstr "雅羅斯拉夫"
+
+msgid "NAMES/RUSN40"
+msgstr "尼克拉伊"
+
+msgid "NAMES/RUSN41"
+msgstr "尼克拉"
+
+msgid "NAMES/RUSN42"
+msgstr "阿列克"
+
+msgid "NAMES/RUSN43"
+msgstr "歐格"
+
+msgid "NAMES/RUSN44"
+msgstr "歐可塔勒"
+
+msgid "NAMES/RUSN45"
+msgstr "巴維爾"
+
+msgid "NAMES/RUSN46"
+msgstr "靶克霍姆"
+
+msgid "NAMES/RUSN47"
+msgstr "比德"
+
+msgid "NAMES/RUSN48"
+msgstr "布拉夫"
+
+msgid "NAMES/RUSN49"
+msgstr "阿爾希普"
+
+msgid "NAMES/RUSN5"
+msgstr "巴達魯"
+
+msgid "NAMES/RUSN50"
+msgstr "波格旦"
+
+msgid "NAMES/RUSN51"
+msgstr "羅迪翁"
+
+msgid "NAMES/RUSN52"
+msgstr "羅曼"
+
+msgid "NAMES/RUSN53"
+msgstr "羅斯季斯拉夫"
+
+msgid "NAMES/RUSN54"
+msgstr "魯斯蘭"
+
+msgid "NAMES/RUSN55"
+msgstr "斯維亞託斯"
+
+msgid "NAMES/RUSN56"
+msgstr "謝門"
+
+msgid "NAMES/RUSN57"
+msgstr "謝爾蓋霍夫"
+
+msgid "NAMES/RUSN58"
+msgstr "謝朵兒"
+
+msgid "NAMES/RUSN59"
+msgstr "亞他那修"
+
+msgid "NAMES/RUSN6"
+msgstr "斯坦尼斯拉夫"
+
+msgid "NAMES/RUSN60"
+msgstr "斯基凡"
+
+msgid "NAMES/RUSN61"
+msgstr "達拉斯"
+
+msgid "NAMES/RUSN62"
+msgstr "基米夫"
+
+msgid "NAMES/RUSN63"
+msgstr "君士坦丁"
+
+msgid "NAMES/RUSN64"
+msgstr "庫茲馬"
+
+msgid "NAMES/RUSN65"
+msgstr "利奧"
+
+msgid "NAMES/RUSN66"
+msgstr "列奧尼德"
+
+msgid "NAMES/RUSN67"
+msgstr "馬卡爾"
+
+msgid "NAMES/RUSN68"
+msgstr "慈諾維夫"
+
+msgid "NAMES/RUSN69"
+msgstr "馬修"
+
+msgid "NAMES/RUSN7"
+msgstr "邁克爾"
+
+msgid "NAMES/RUSN70"
+msgstr "尼基塔"
+
+msgid "NAMES/RUSN71"
+msgstr "阿爾卡季"
+
+msgid "NAMES/RUSN72"
+msgstr "尼古拉斯"
+
+msgid "NAMES/RUSN73"
+msgstr "奧列格"
+
+msgid "NAMES/RUSN74"
+msgstr "保羅"
+
+msgid "NAMES/RUSN75"
+msgstr "彼得"
+
+msgid "NAMES/RUSN76"
+msgstr "尤里那金"
+
+msgid "NAMES/RUSN77"
+msgstr "揚闊夫"
+
+msgid "NAMES/RUSN78"
+msgstr "亞拉斯拉夫"
+
+msgid "NAMES/RUSN79"
+msgstr "安東"
+
+msgid "NAMES/RUSN8"
+msgstr "馬卡爾科夫"
+
+msgid "NAMES/RUSN80"
+msgstr "布羅尼斯瓦"
+
+msgid "NAMES/RUSN81"
+msgstr "瓦迪姆"
+
+msgid "NAMES/RUSN82"
+msgstr "瓦連京"
+
+msgid "NAMES/RUSN83"
+msgstr "瓦列裡"
+
+msgid "NAMES/RUSN84"
+msgstr "羅勒"
+
+msgid "NAMES/RUSN85"
+msgstr "維克託爾"
+
+msgid "NAMES/RUSN86"
+msgstr "維塔利"
+
+msgid "NAMES/RUSN87"
+msgstr "弗拉基米爾"
+
+msgid "NAMES/RUSN88"
+msgstr "弗拉季"
+
+msgid "NAMES/RUSN89"
+msgstr "奧利加"
+
+msgid "NAMES/RUSN9"
+msgstr "維亞切斯拉"
+
+msgid "NAMES/RUSN90"
+msgstr "加夫里拉"
+
+msgid "NAMES/RUSN91"
+msgstr "肯納基"
+
+msgid "NAMES/RUSN92"
+msgstr "夫拉基斯拉夫"
+
+msgid "NAMES/RUSN93"
+msgstr "格萊布"
+
+msgid "NAMES/RUSN94"
+msgstr "格雷戈裡"
+
+msgid "NAMES/RUSN95"
+msgstr "達尼拉"
+
+msgid "NAMES/RUSN96"
+msgstr "傑米德"
+
+msgid "NAMES/RUSN97"
+msgstr "丹尼斯"
+
+msgid "NAMES/RUSN98"
+msgstr "德米特里"
+
+msgid "NAMES/RUSN99"
+msgstr "阿納託利"
+
+msgid "RANKSRUS/1"
+msgstr "上校"
+
+msgid "RANKSRUS/10"
+msgstr "上士"
+
+msgid "RANKSRUS/2"
+msgstr "中校"
+
+msgid "RANKSRUS/3"
+msgstr "少校"
+
+msgid "RANKSRUS/4"
+msgstr "大尉"
+
+msgid "RANKSRUS/5"
+msgstr "上尉"
+
+msgid "RANKSRUS/6"
+msgstr "中尉"
+
+msgid "RANKSRUS/7"
+msgstr "少尉"
+
+msgid "RANKSRUS/8"
+msgstr "軍士長"
+
+msgid "RANKSRUS/9"
+msgstr "高階軍士"
+
+msgid "NAMES/RUSU1"
+msgstr "Litvyakova"
+
+msgid "NAMES/RUSUN1"
+msgstr "Marina"

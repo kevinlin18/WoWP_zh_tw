@@ -1,0 +1,943 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: World Of Tanks\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-06-01 10:00+0300\n"
+"Last-Translator: i_maliavko <i_maliavko@wargaming.net>\n"
+"Language-Team: WoT Team <noreply@wargaming.net>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "CHAT_ADD_CONTACT_ENTER_PLAYER_NAME"
+msgstr "輸入玩家姓名"
+
+msgid "CHAT_ADD_CONTACT_PLAYERS_FOUND"
+msgstr "玩家收益"
+
+msgid "CHAT_BLOCKED_LIST_EMPTY"
+msgstr "（空）"
+
+msgid "CHAT_BLOCKED_LIST_HEADER"
+msgstr "鎖定使用者列表"
+
+msgid "CHAT_BUTTON_ADD"
+msgstr "新增"
+
+msgid "CHAT_BUTTON_APPLY"
+msgstr "套用"
+
+msgid "CHAT_BUTTON_BACK_TO_CHAT"
+msgstr "回到聊天室"
+
+msgid "CHAT_BUTTON_CANCEL"
+msgstr "取消"
+
+msgid "CHAT_BUTTON_CANCEL_1"
+msgstr "取消"
+
+msgid "CHAT_BUTTON_CLAIM_PLAYER"
+msgstr "投訴"
+
+msgid "CHAT_BUTTON_CLAN_MESSAGE_CANCEL"
+msgstr "取消"
+
+msgid "CHAT_BUTTON_CLAN_MESSAGE_EDIT"
+msgstr "修改"
+
+msgid "CHAT_BUTTON_CLAN_MESSAGE_SAVE"
+msgstr "儲存"
+
+msgid "CHAT_BUTTON_CONFIRM"
+msgstr "確定"
+
+msgid "CHAT_BUTTON_CREATE"
+msgstr "創建"
+
+msgid "CHAT_BUTTON_CREATE_CHANNEL"
+msgstr "創建頻道"
+
+msgid "CHAT_BUTTON_CREATE_GROUP"
+msgstr "創建 群組"
+
+msgid "CHAT_BUTTON_CREATE_GROUP_CHANNEL"
+msgstr "創建頻道"
+
+msgid "CHAT_BUTTON_ENABLE_CENSORSHIP"
+msgstr "管理員訊息"
+
+msgid "CHAT_BUTTON_ENTER_CHANNEL_NAME"
+msgstr "輸入頻道名稱"
+
+msgid "CHAT_BUTTON_FIND"
+msgstr "找到"
+
+msgid "CHAT_BUTTON_FIND_CHANNEL"
+msgstr "查詢頻道"
+
+msgid "CHAT_BUTTON_HIDE_OFFLINE_CONTACTS"
+msgstr "隱藏不線上玩家"
+
+msgid "CHAT_BUTTON_INVITE"
+msgstr "邀請"
+
+msgid "CHAT_BUTTON_NEW_CHANNEL"
+msgstr "新頻道"
+
+msgid "CHAT_BUTTON_OPEN_CHANNEL"
+msgstr "設定密碼"
+
+msgid "CHAT_BUTTON_RESTORE_REMOVED"
+msgstr "還原"
+
+msgid "CHAT_BUTTON_RESTRICT_MESSAGES_FROM_STRANGERS"
+msgstr "僅接收聯絡人訊息"
+
+msgid "CHAT_BUTTON_SEND"
+msgstr "傳送"
+
+msgid "CHAT_BUTTON_SHOW_DELETED_CONTACTS_LIST"
+msgstr "顯示已刪除聯絡人"
+
+msgid "CHAT_BUTTON_SHOW_IGNORED_LIST"
+msgstr "檢視黑名單"
+
+msgid "CHAT_BUTTON_WRITE_MESSAGE"
+msgstr "輸入"
+
+msgid "CHAT_CANNOT_FIND_INSIDE_CHANNEL"
+msgstr "頻道中沒有這位玩家"
+
+msgid "CHAT_CHANEL_IS_OPENED"
+msgstr "這個頻道是搜尋出的公共頻道"
+
+msgid "CHAT_CHANEL_NAME_SYSTEM"
+msgstr "系統頻道"
+
+msgid "CHAT_CHANNELS_CREATED_BY_ME"
+msgstr "我的頻道"
+
+msgid "CHAT_CHANNEL_CONTEXT_HIGH_LOAD"
+msgstr "（高負載模式）"
+
+msgid "CHAT_CHANNEL_CREATION_HEADER"
+msgstr "創建新頻道"
+
+msgid "CHAT_CHANNEL_FAQ"
+msgstr "遊戲問題與解答"
+
+msgid "CHAT_CHANNEL_LOGIN_BUTTON"
+msgstr "進入"
+
+msgid "CHAT_CHANNEL_MESSAGE_CONTACTS_EMPTY"
+msgstr "邀請玩家加入頻道首先須將其新增為聯絡人"
+
+msgid "CHAT_CHANNEL_MESSAGE_HIGH_LOAD"
+msgstr "頻道已被切換到高負載模式。"
+
+msgid "CHAT_CHANNEL_MESSAGE_HIGH_LOAD_NO_CONTACTS"
+msgstr "聯絡人在此模式不可用。"
+
+msgid "CHAT_CHANNEL_MESSAGE_LOW_LOAD"
+msgstr "頻道的負載下降了。"
+
+msgid "CHAT_CHANNEL_MESSAGE_LOW_LOAD_CONTACTS"
+msgstr "聯絡人可用了。"
+
+msgid "CHAT_CHANNEL_MESSAGE_MOD_DELETED_CHANNEL"
+msgstr "發起人刪除了頻道"
+
+msgid "CHAT_CHANNEL_MESSAGE_MOD_RENAMED_CHANNEL"
+msgstr "發起人將頻道名稱改為{channel_name}"
+
+msgid "CHAT_CHANNEL_MESSAGE_MOD_SET_MUTE"
+msgstr "管理員已經禁止您在這個頻道聊天。"
+
+msgid "CHAT_CHANNEL_MESSAGE_NO_CONTACTS"
+msgstr "無聯絡人<br>如果想在此列表中新增使用者，請先搜尋玩家並新增聯絡人"
+
+msgid "CHAT_CHANNEL_MESSAGE_NO_ONLINE"
+msgstr "沒有線上的聯絡人"
+
+msgid "CHAT_CHANNEL_MESSAGE_PLAYER_BLOCKED"
+msgstr "玩家{name}被禁言"
+
+msgid "CHAT_CHANNEL_MESSAGE_PLAYER_BLOCKED_FROM_CHANNEL"
+msgstr "{name}此頻道已被鎖定"
+
+msgid "CHAT_CHANNEL_MESSAGE_PLAYER_DELETED_CHANNEL"
+msgstr "{name} 刪除了該頻道"
+
+msgid "CHAT_CHANNEL_MESSAGE_PLAYER_INVITED_PLAYERS"
+msgstr "{name} 邀請了 {names_array}進入頻道"
+
+msgid "CHAT_CHANNEL_MESSAGE_PLAYER_JOINED_CHANNEL"
+msgstr "{name} 加入了頻道"
+
+msgid "CHAT_CHANNEL_MESSAGE_PLAYER_LEFT_CHANNEL"
+msgstr "{name} 退出了頻道"
+
+msgid "CHAT_CHANNEL_MESSAGE_PLAYER_REMOVED"
+msgstr "玩家{name}被刪除"
+
+msgid "CHAT_CHANNEL_MESSAGE_PLAYER_REMOVED_FROM_CHANNEL"
+msgstr "{name}已從頻道中被刪除"
+
+msgid "CHAT_CHANNEL_MESSAGE_PLAYER_RENAMED_CHANNEL"
+msgstr "{name} 將頻道名稱修改為{channel_name}"
+
+msgid "CHAT_CHANNEL_MESSAGE_PLAYER_SET_MUTE"
+msgstr "{name}禁止你在此頻道發言"
+
+msgid "CHAT_CHANNEL_MESSAGE_PLAYER_SET_SPEAK"
+msgstr "{name}允許你在此頻道發言"
+
+msgid "CHAT_CHANNEL_MESSAGE_REMOVED_BY_PLAYER"
+msgstr "使用者{name}將您從頻道中刪除"
+
+msgid "CHAT_CHANNEL_MESSAGE_USE_SEARCH"
+msgstr "使用搜索尋找新玩家"
+
+msgid "CHAT_CHANNEL_MESSAGE_YOU_CAN_DELETE"
+msgstr ""
+"若要將某使用者逐出頻道, 請右鍵點選該使用者暱稱，選擇“移除使用者”<br>被逐出的使用者將"
+"無法重新加入該頻道"
+
+msgid "CHAT_CHANNEL_MESSAGE_YOU_CAN_INVITE"
+msgstr ""
+"您可從聯絡人列表中邀請其他玩家 <br>邀請其他玩家進入頻道，請先將其新增為聯絡人"
+
+msgid "CHAT_CHANNEL_MESSAGE_YOU_REMOVED_BY_MOD"
+msgstr "管理員已經把您移出這個頻道。"
+
+msgid "CHAT_CHANNEL_NAME_CONTEXT"
+msgstr "名稱:"
+
+msgid "CHAT_CHANNEL_PASSWORD_CONTEXT"
+msgstr "密碼:"
+
+msgid "CHAT_CHANNEL_PASSWORD_UNACCEPTABLE_CHARACTERS"
+msgstr "密碼包含一個或多個無效的字元"
+
+msgid "CHAT_CHANNEL_REMOVE_PLAYER"
+msgstr "從頻道中刪除玩家"
+
+msgid "CHAT_CHANNEL_RESULTS"
+msgstr "對戰結果和討論"
+
+msgid "CHAT_CHANNEL_SEARCH"
+msgstr "搜尋編隊或軍團"
+
+msgid "CHAT_CHANNEL_STATUS_ALL_PLAYERS_OFFLINE"
+msgstr "(所有玩家離線)"
+
+msgid "CHAT_CHANNEL_STATUS_COMMANDER"
+msgstr "房主"
+
+msgid "CHAT_CHANNEL_STATUS_NO_PLAYERS_IN_CLAN"
+msgstr "(沒有軍團玩家)"
+
+msgid "CHAT_CHANNEL_STATUS_PILOT"
+msgstr "飛行員"
+
+msgid "CHAT_CHANNEL_STATUS_PLAYERS_ONLINE_OFFLINE"
+msgstr "頻道中的玩家, 線上/總數"
+
+msgid "CHAT_CHANNEL_STATUS_RECRUIT_MASTER"
+msgstr "招募者"
+
+msgid "CHAT_CHANNEL_STATUS_SUB_COMMANDER"
+msgstr "副指揮官"
+
+msgid "CHAT_CHANNEL_STATUS_TRAINEE_PILOT"
+msgstr "見習飛行員"
+
+msgid "CHAT_CHANNEL_STATUS_WING_COMMANDER"
+msgstr "指揮官"
+
+msgid "CHAT_CHANNEL_TALK"
+msgstr "水區"
+
+msgid "CHAT_CHANNEL_TALK_BG"
+msgstr "[BG] Други дискусии"
+
+msgid "CHAT_CHANNEL_TALK_BR-PT"
+msgstr "[PT-BR] Discussão Fora do Tópico"
+
+msgid "CHAT_CHANNEL_TALK_CN"
+msgstr "[CN] 水區"
+
+msgid "CHAT_CHANNEL_TALK_CS"
+msgstr "[CS] Diskuze mimo téma"
+
+msgid "CHAT_CHANNEL_TALK_DA"
+msgstr "[DA] Off-topic diskussion"
+
+msgid "CHAT_CHANNEL_TALK_DE"
+msgstr "[DE] Off-Topic-Diskussion"
+
+msgid "CHAT_CHANNEL_TALK_EL"
+msgstr "[EL] Γενική Συζήτηση"
+
+msgid "CHAT_CHANNEL_TALK_EN"
+msgstr "[EN] Off-Topic Discussion"
+
+msgid "CHAT_CHANNEL_TALK_ES"
+msgstr "[ES] Discusión Off-Topic"
+
+msgid "CHAT_CHANNEL_TALK_ES-AR"
+msgstr "[ES-AR] Discución Off-Topic"
+
+msgid "CHAT_CHANNEL_TALK_ET"
+msgstr "[ET] Teemaväline arutelu"
+
+msgid "CHAT_CHANNEL_TALK_FI"
+msgstr "[FI] Asiaan kuulumaton keskustelu"
+
+msgid "CHAT_CHANNEL_TALK_FR"
+msgstr "[FR] Discussion hors-sujet"
+
+msgid "CHAT_CHANNEL_TALK_HR"
+msgstr "[HR] Diskusija izvan teme"
+
+msgid "CHAT_CHANNEL_TALK_HU"
+msgstr "[HU] Off-topic beszélgetés"
+
+msgid "CHAT_CHANNEL_TALK_IT"
+msgstr "[IT] Discussione Off-Topic"
+
+msgid "CHAT_CHANNEL_TALK_JA"
+msgstr "[JA] オフトピック (雑談)"
+
+msgid "CHAT_CHANNEL_TALK_KO"
+msgstr "[KO] 자유 토론"
+
+msgid "CHAT_CHANNEL_TALK_LT"
+msgstr "[LT] Diskusijos ne į temą"
+
+msgid "CHAT_CHANNEL_TALK_LV"
+msgstr "[LV] Ārpus tēmas sarunas"
+
+msgid "CHAT_CHANNEL_TALK_NL"
+msgstr "[NL] Off-topic discussie"
+
+msgid "CHAT_CHANNEL_TALK_NO"
+msgstr "[NO] Åpen diskusjon"
+
+msgid "CHAT_CHANNEL_TALK_PL"
+msgstr "[PL] Dyskusja na inne tematy"
+
+msgid "CHAT_CHANNEL_TALK_PT"
+msgstr "[PT] Discussão Fora do Assunto"
+
+msgid "CHAT_CHANNEL_TALK_RO"
+msgstr "[RO] Discuţii libere"
+
+msgid "CHAT_CHANNEL_TALK_RU"
+msgstr "Свободное общение"
+
+msgid "CHAT_CHANNEL_TALK_SR"
+msgstr "[SR] Off-topic diskusije"
+
+msgid "CHAT_CHANNEL_TALK_SV"
+msgstr "[SV] Off-topic diskussion"
+
+msgid "CHAT_CHANNEL_TALK_TH"
+msgstr "[TH] การสนทนานอกเรื่อง"
+
+msgid "CHAT_CHANNEL_TALK_TR"
+msgstr "[TR] Konu Dışı Tartışma"
+
+msgid "CHAT_CHANNEL_TALK_TW"
+msgstr "[TW] 題外討論"
+
+msgid "CHAT_CHAT_SYSTEM_MESSAGE_UNABLE_TO_CREATE_CHANNEL_MAX_CHANNELS_EXEEDED_V2"
+msgstr "無法創建頻道！創建頻道數達到上限！"
+
+msgid "CHAT_CLAN_CONTEXT_CLAN_NOT_ONLINE"
+msgstr "軍團離線"
+
+msgid "CHAT_CLAN_MESSAGE_CLAN_DISBANDED"
+msgstr "軍團已解散"
+
+msgid "CHAT_CLAN_MESSAGE_PLAYER_LEFT_CLAN"
+msgstr "玩家 {player_name} 已離開軍團"
+
+msgid "CHAT_CLAN_MESSAGE_PLAYER_REMOVED_FROM_CLAN"
+msgstr "玩家 {player_name} 已被踢出軍團"
+
+msgid "CHAT_CLAN_MESSAGE_YOU_LEFT_CLAN"
+msgstr "你已離開軍團"
+
+msgid "CHAT_CLAN_MESSAGE_YOU_REMOVED_FROM_CLAN"
+msgstr "你已被踢出軍團"
+
+msgid "CHAT_CLAN_RANK_0"
+msgstr "預備役"
+
+msgid "CHAT_CLAN_RANK_1"
+msgstr "新兵"
+
+msgid "CHAT_CLAN_RANK_10"
+msgstr "指揮官"
+
+msgid "CHAT_CLAN_RANK_2"
+msgstr "戰士"
+
+msgid "CHAT_CLAN_RANK_3"
+msgstr "初級軍官"
+
+msgid "CHAT_CLAN_RANK_4"
+msgstr "戰地指揮官"
+
+msgid "CHAT_CLAN_RANK_5"
+msgstr "招募員"
+
+msgid "CHAT_CLAN_RANK_6"
+msgstr "財務官"
+
+msgid "CHAT_CLAN_RANK_7"
+msgstr "外交官"
+
+msgid "CHAT_CLAN_RANK_8"
+msgstr "人事主官"
+
+msgid "CHAT_CLAN_RANK_9"
+msgstr "副指揮官"
+
+msgid "CHAT_CONFIRMATION_CHANNEL_REMOVE_MESSAGE"
+msgstr "確定刪除頻道 {name}？"
+
+msgid "CHAT_CONTACT_CHAT_OWNER"
+msgstr "對不起，無法在本頻道新增玩家，請聯絡{name}."
+
+msgid "CHAT_CONTEXT_CHANNEL_SETTINGS"
+msgstr "頻道設定"
+
+msgid "CHAT_CONTEXT_CONTACTS_OFFLINE"
+msgstr "您的通訊錄上無好友線上"
+
+msgid "CHAT_CONTEXT_FILTER"
+msgstr "篩選"
+
+msgid "CHAT_CONTEXT_MENU_ADD_FRIEND"
+msgstr "新增至聯絡人"
+
+msgid "CHAT_CONTEXT_MENU_ADD_NAME_TO_CONTACTS"
+msgstr "新增聯絡人"
+
+msgid "CHAT_CONTEXT_MENU_ADD_NAME_TO_CONTACTS_CAPS"
+msgstr "新增聯絡人"
+
+msgid "CHAT_CONTEXT_MENU_ADD_NAME_TO_FAVORITES"
+msgstr "新增到收藏夾"
+
+msgid "CHAT_CONTEXT_MENU_ADD_NAME_TO_IGNORE"
+msgstr "加入黑名單"
+
+msgid "CHAT_CONTEXT_MENU_ADD_NAME_TO_IGNORE_CAPS"
+msgstr "加入黑名單"
+
+msgid "CHAT_CONTEXT_MENU_ADD_PLAYER"
+msgstr "新增 玩家"
+
+msgid "CHAT_CONTEXT_MENU_BATTLE_STATS"
+msgstr "戰績"
+
+msgid "CHAT_CONTEXT_MENU_BLACKLIST"
+msgstr "黑名單"
+
+msgid "CHAT_CONTEXT_MENU_BLOCK_PLAYER"
+msgstr "移除使用者"
+
+msgid "CHAT_CONTEXT_MENU_CHANEL_TRANSFORMATION"
+msgstr "設定密碼"
+
+msgid "CHAT_CONTEXT_MENU_CLAN"
+msgstr "軍團 {clantag}"
+
+msgid "CHAT_CONTEXT_MENU_CLEAR"
+msgstr "清除"
+
+msgid "CHAT_CONTEXT_MENU_CLICK_TO_TALK"
+msgstr "點選開始交談"
+
+msgid "CHAT_CONTEXT_MENU_CLIP"
+msgstr "剪下"
+
+msgid "CHAT_CONTEXT_MENU_CLOSE_CHANNEL"
+msgstr "關閉頻道"
+
+msgid "CHAT_CONTEXT_MENU_COMPLAIN"
+msgstr "投訴"
+
+msgid "CHAT_CONTEXT_MENU_CONTROL_REMOVED"
+msgstr "管理被移除使用者"
+
+msgid "CHAT_CONTEXT_MENU_COPY_LINK_TO_CHANNEL"
+msgstr "複製頻道連結"
+
+msgid "CHAT_CONTEXT_MENU_CREATE_GROUP_CHAT"
+msgstr "建立團隊聊天頻道"
+
+msgid "CHAT_CONTEXT_MENU_CREATE_TEAM"
+msgstr "創建編隊"
+
+msgid "CHAT_CONTEXT_MENU_DELETE_FROM_CONTACTS"
+msgstr "從聯絡人中刪除"
+
+msgid "CHAT_CONTEXT_MENU_DELETE_FROM_CONTACTS_CAPS"
+msgstr "刪除聯絡人"
+
+msgid "CHAT_CONTEXT_MENU_DELETE_GROUP"
+msgstr "刪除群組"
+
+msgid "CHAT_CONTEXT_MENU_DELETE_ROOM"
+msgstr "刪除頻道"
+
+msgid "CHAT_CONTEXT_MENU_FAVORITES"
+msgstr "收藏夾"
+
+msgid "CHAT_CONTEXT_MENU_FIND_INSIDE_CHANNEL"
+msgstr "在頻道中查詢使用者"
+
+msgid "CHAT_CONTEXT_MENU_FIND_OUTSIDE_CONTACTS"
+msgstr "查詢聯絡人"
+
+msgid "CHAT_CONTEXT_MENU_FIND_OUTSIDE_CONTACT_LIST"
+msgstr "查詢聯絡人"
+
+msgid "CHAT_CONTEXT_MENU_IGNORE"
+msgstr "新增到黑名單"
+
+msgid "CHAT_CONTEXT_MENU_IGNORE_PLAYER"
+msgstr "新增至黑名單"
+
+msgid "CHAT_CONTEXT_MENU_INFO_ON_PLAYER"
+msgstr "詳細資料"
+
+msgid "CHAT_CONTEXT_MENU_INVITE_PLAYER"
+msgstr "邀請玩家加入頻道"
+
+msgid "CHAT_CONTEXT_MENU_LEAVE_TEAM"
+msgstr "離開編隊"
+
+msgid "CHAT_CONTEXT_MENU_MOVE_PLAYER_TO_GROUP"
+msgstr "移動至分組"
+
+msgid "CHAT_CONTEXT_MENU_NO_FAVORITES"
+msgstr "未收藏頻道"
+
+msgid "CHAT_CONTEXT_MENU_OPEN_CHANNEL"
+msgstr "開放頻道"
+
+msgid "CHAT_CONTEXT_MENU_PRIVATE_CHAT"
+msgstr "私聊"
+
+msgid "CHAT_CONTEXT_MENU_REMOVE_FROM_FAVORITES"
+msgstr "從收藏夾中刪除"
+
+msgid "CHAT_CONTEXT_MENU_REMOVE_NAME_FROM_IGNORE"
+msgstr "從黑名單中刪除"
+
+msgid "CHAT_CONTEXT_MENU_REMOVE_NAME_FROM_IGNORE_CAPS"
+msgstr "從黑名單中刪除"
+
+msgid "CHAT_CONTEXT_MENU_RENAME"
+msgstr "重新命名"
+
+msgid "CHAT_CONTEXT_MENU_RENAME_CHANNEL"
+msgstr "重新命名頻道"
+
+msgid "CHAT_CONTEXT_MENU_SAVE"
+msgstr "儲存"
+
+msgid "CHAT_CONTEXT_MENU_STOP_IGNORE"
+msgstr "從黑名單中刪除"
+
+msgid "CHAT_CONTEXT_MENU_UNBLOCK"
+msgstr "解鎖"
+
+msgid "CHAT_CONTEXT_MENU_UNBLOCK_PLAYER"
+msgstr "解封玩家"
+
+msgid "CHAT_CONTEXT_MENU_UNCLIP"
+msgstr "懸浮"
+
+msgid "CHAT_CONTEXT_PLAYERS_ONLINE"
+msgstr "線上玩家"
+
+msgid "CHAT_CONTEXT_PLAYER_ACHIEVEMENTS"
+msgstr "玩家資料"
+
+msgid "CHAT_CONTEXT_SHOW_MORE_PLAYERS"
+msgstr "顯示更多"
+
+msgid "CHAT_CONTEXT_TRAINING_ROOM"
+msgstr "訓練房間"
+
+msgid "CHAT_CREATE_CHANEL_MESSAGE"
+msgstr "輸入密碼"
+
+msgid "CHAT_DATE_MESSAGE_MONTH_01"
+msgstr "1月"
+
+msgid "CHAT_DATE_MESSAGE_MONTH_02"
+msgstr "2月"
+
+msgid "CHAT_DATE_MESSAGE_MONTH_03"
+msgstr "3月"
+
+msgid "CHAT_DATE_MESSAGE_MONTH_04"
+msgstr "4月"
+
+msgid "CHAT_DATE_MESSAGE_MONTH_05"
+msgstr "5月"
+
+msgid "CHAT_DATE_MESSAGE_MONTH_06"
+msgstr "6月"
+
+msgid "CHAT_DATE_MESSAGE_MONTH_07"
+msgstr "7月"
+
+msgid "CHAT_DATE_MESSAGE_MONTH_08"
+msgstr "8月"
+
+msgid "CHAT_DATE_MESSAGE_MONTH_09"
+msgstr "9月"
+
+msgid "CHAT_DATE_MESSAGE_MONTH_10"
+msgstr "10月"
+
+msgid "CHAT_DATE_MESSAGE_MONTH_11"
+msgstr "11月"
+
+msgid "CHAT_DATE_MESSAGE_MONTH_12"
+msgstr "12月"
+
+msgid "CHAT_DATE_MESSAGE_TODAY"
+msgstr "今天，"
+
+msgid "CHAT_DATE_MESSAGE_YEAR"
+msgstr "年"
+
+msgid "CHAT_DATE_MESSAGE_YESTERDAY"
+msgstr "昨天，"
+
+msgid "CHAT_DRAG_CONTACT_HERE"
+msgstr "新增一個玩家聊天，在這裡可隨意拖拽聯絡人。"
+
+msgid "CHAT_ENTER_NEW_CHANNEL_NAME"
+msgstr "進入一個新的頻道名稱"
+
+msgid "CHAT_ERROR_CLAN_MESSAGE_LENGTH"
+msgstr "訊息的最大長度: 140個字元"
+
+msgid "CHAT_GROUP_MESSAGE_ENTER_GROUP_NAME"
+msgstr "請輸入群組名"
+
+msgid "CHAT_HEADER_CHANELS"
+msgstr "頻道"
+
+msgid "CHAT_HEADER_CHANNEL_DELETING_IN_PROGRESS"
+msgstr "刪除頻道"
+
+msgid "CHAT_HEADER_CLAIM_PLAYER"
+msgstr "玩家投訴"
+
+msgid "CHAT_HEADER_COMMON_CHANNEL"
+msgstr "預設"
+
+msgid "CHAT_HEADER_CONTACTS"
+msgstr "聯絡人"
+
+msgid "CHAT_HEADER_FING_PLAYER"
+msgstr "搜尋玩家"
+
+msgid "CHAT_HEADER_GROUP_GENERAL"
+msgstr "全部"
+
+msgid "CHAT_HEADER_IGNORED_LIST"
+msgstr "黑名單"
+
+msgid "CHAT_HEADER_INVITATION_TO_CHANNEL"
+msgstr "邀請到當前頻道"
+
+msgid "CHAT_HEADER_YOU_ARE_ADDED_TO_FRIENDS"
+msgstr "有玩家將你加為好友"
+
+msgid "CHAT_INPUT_FIELD_TIP"
+msgstr "輸入頻道名稱"
+
+msgid "CHAT_LABEL_CLAN"
+msgstr "軍團"
+
+msgid "CHAT_LABEL_CLAN_FULL_NAME"
+msgstr "{clan_full_name}"
+
+msgid "CHAT_LABEL_INVITE_CLAN_DROPDOWN"
+msgstr "軍團"
+
+msgid "CHAT_LABEL_INVITE_CONTACTS_DROPDOWN"
+msgstr "聯絡人"
+
+msgid "CHAT_MENU_CLOSE_ALL_CHANNELS"
+msgstr "關閉所有頻道"
+
+msgid "CHAT_MENU_CLOSE_ALL_LEAVE ACTIVE"
+msgstr "關閉除當前頻道外的所有頻道"
+
+msgid "CHAT_MENU_MINIMIZE_ALL_CHANNELS"
+msgstr "最小化所有頻道"
+
+msgid "CHAT_MENU_OPEN_ALL_CHANNELS"
+msgstr "最大化所有頻道"
+
+msgid "CHAT_MESAGE_USABILITY_WILL_BE_RESTORED_SOON"
+msgstr "正常服務會馬上恢復"
+
+msgid "CHAT_MESSAGE_ENTER_CHANNEL_NAME"
+msgstr "輸入頻道名稱"
+
+msgid "CHAT_MESSAGE_ERROR"
+msgstr "錯誤"
+
+msgid "CHAT_MESSAGE_GROUPNAME_SPECIFICATION"
+msgstr "群組名稱字元長度在1-15之間"
+
+msgid "CHAT_MESSAGE_GROUP_ALLREADY_EXISTS"
+msgstr "群組名稱已存在，請使用其他名稱"
+
+msgid "CHAT_MESSAGE_INVITATION_TO_CHANNEL"
+msgstr "玩家{name}邀請您加入頻道"
+
+msgid "CHAT_MESSAGE_NO_RESULT_SEARCH"
+msgstr "沒找到"
+
+msgid "CHAT_MESSAGE_TEAM_VOISECHAT_MUTE_WARNING"
+msgstr "隊伍語音由於戰鬥被禁用"
+
+msgid "CHAT_MESSAGE_YOU_ARE_ADDED_TO_FRIENDS"
+msgstr "玩家{name}已新增您為好友"
+
+msgid "CHAT_NEW_GROUP_DEFAULT_NAME"
+msgstr "新群組"
+
+msgid "CHAT_PASSWORD_INPUT_FIELD_TIP"
+msgstr "請輸入密碼"
+
+msgid "CHAT_PLAYERS_IN_YOUR_LIST"
+msgstr "聯絡人"
+
+msgid "CHAT_PLAYERS_ON_SERVER"
+msgstr "線上玩家"
+
+msgid "CHAT_PLAYER_CONTEXT_MENU_ADD_TO_FRIENDS"
+msgstr "新增為好友"
+
+msgid "CHAT_PLAYER_CONTEXT_MENU_CALL_BY_NICKNAME"
+msgstr "通過暱稱查詢玩家"
+
+msgid "CHAT_PLAYER_CONTEXT_MENU_DELETE_NAME_FROM_CONTACTS"
+msgstr "從聯絡人中移除{name}"
+
+msgid "CHAT_PLAYER_CONTEXT_MENU_INVITE_TO_TEAM"
+msgstr "組隊邀請"
+
+msgid "CHAT_PLAYER_OFFLINE_STATUS_MESSAGE"
+msgstr "(離線)"
+
+msgid "CHAT_PREDEFINED_GROUPS_DRAG_CONTACT_HERE"
+msgstr "在這裡可隨意拖拽聯絡人"
+
+msgid "CHAT_PREDEFINED_GROUPS_IGNORED"
+msgstr "黑名單"
+
+msgid "CHAT_PREDEFINED_GROUPS_NO_GROUP"
+msgstr "未分組"
+
+msgid "CHAT_SEND_INVITATION"
+msgstr "邀請玩家加入這個聊天"
+
+msgid "CHAT_SETTINGS_DO_NOT_RECEIVE_MESSAGES_FROM_STRANGERS"
+msgstr "不顯示陌生玩家資訊"
+
+msgid "CHAT_SETTINGS_DO_NOT_SHOW_OFFLINE_PLAYERS"
+msgstr "只顯示線上玩家"
+
+msgid "CHAT_SETTINGS_SHOW_IGNORED"
+msgstr "顯示黑名單"
+
+msgid "CHAT_SYSTEM_MESSAGE_ACCOUNT_BLOCKED_FOR_REASON"
+msgstr "您的帳號已被封停： {reason}"
+
+msgid "CHAT_SYSTEM_MESSAGE_BAN_REASON"
+msgstr "原因： {reason}"
+
+msgid "CHAT_SYSTEM_MESSAGE_BAN_TIMER"
+msgstr "禁聊結束了"
+
+msgid "CHAT_SYSTEM_MESSAGE_BAN_TIMER_SHORT"
+msgstr "禁言時間: {bandate}"
+
+msgid "CHAT_SYSTEM_MESSAGE_BY_ADMIN"
+msgstr "您已被禁止聊天"
+
+msgid "CHAT_SYSTEM_MESSAGE_CANNOT_INVITE"
+msgstr "保密頻道，你不能邀請其他玩家加入保密頻道"
+
+msgid "CHAT_SYSTEM_MESSAGE_CHANNEL_BLOCKED_DAYS"
+msgstr "{days}天內禁止建立頻道"
+
+msgid "CHAT_SYSTEM_MESSAGE_CHANNEL_DELETED"
+msgstr "頻道已刪除"
+
+msgid "CHAT_SYSTEM_MESSAGE_CHANNEL_NAME_CONTAINS_BAD_SYMBOLS"
+msgstr "頻道名包含不可用字元，頻道名僅允許由字母、數字和()-:;,.!?等字元組成"
+
+msgid "CHAT_SYSTEM_MESSAGE_CHANNEL_NAME_CONTAINS_BAD_WORD"
+msgstr "頻道名包含敏感字"
+
+msgid "CHAT_SYSTEM_MESSAGE_CHANNEL_NAME_SYMBOL_CONTENTS"
+msgstr "只能使用字母、數字，以及()_-:;,.!?。"
+
+msgid "CHAT_SYSTEM_MESSAGE_CHANNEL_NAME_SYMBOL_LIMITATIONS"
+msgstr "頻道名稱必須由3-100個字元組成"
+
+msgid "CHAT_SYSTEM_MESSAGE_CHANNEL_NAME_TAKEN"
+msgstr "頻道已經存在"
+
+msgid "CHAT_SYSTEM_MESSAGE_CHAT_BLOCKED"
+msgstr "禁止聊天"
+
+msgid "CHAT_SYSTEM_MESSAGE_CHAT_BLOCKED_FOR_TIME"
+msgstr "被禁言，因為："
+
+msgid "CHAT_SYSTEM_MESSAGE_CHAT_BLOCKED_TIME"
+msgstr "禁言 {time}."
+
+msgid "CHAT_SYSTEM_MESSAGE_CHAT_UNLOCKED"
+msgstr "禁聊已結束"
+
+msgid "CHAT_SYSTEM_MESSAGE_CHAT_USABILITY_RESTORED"
+msgstr "禁聊結束了"
+
+msgid "CHAT_SYSTEM_MESSAGE_COMPLAIN_ON_PLAYER_SENT"
+msgstr "獲取玩家投訴"
+
+msgid "CHAT_SYSTEM_MESSAGE_CONNECTION_ERROR"
+msgstr "登入錯誤！"
+
+msgid "CHAT_SYSTEM_MESSAGE_ENTER_PASSWORD"
+msgstr "請輸入密碼"
+
+msgid "CHAT_SYSTEM_MESSAGE_GROUP_NAME_TAKEN"
+msgstr "新創建分組的名稱已被使用"
+
+msgid "CHAT_SYSTEM_MESSAGE_INVITATION_NOT_SENT"
+msgstr "邀請傳送失敗"
+
+msgid "CHAT_SYSTEM_MESSAGE_INVITATION_SENT"
+msgstr "邀請傳送成功"
+
+msgid "CHAT_SYSTEM_MESSAGE_LAST_MESSAGE"
+msgstr "最後傳送訊息"
+
+msgid "CHAT_SYSTEM_MESSAGE_PASSWORD_LENGTH_LIMITATON"
+msgstr "密碼必須包含3-32個字元"
+
+msgid "CHAT_SYSTEM_MESSAGE_PLAYER_INVITED"
+msgstr "你已邀請{name}加入公共聊天頻道{chatname}"
+
+msgid "CHAT_SYSTEM_MESSAGE_UNABLE_TO_CREATE_CHANNEL_MAX_CHANNELS_EXEEDED"
+msgstr "無法創建超過10個頻道"
+
+msgid "CHAT_SYSTEM_MESSAGE_USER_ADDED_TO_FRIENDS"
+msgstr "{name}被加為好友"
+
+msgid "CHAT_SYSTEM_MESSAGE_USER_ADDED_TO_IGNORE"
+msgstr "將{name}加入黑名單"
+
+msgid "CHAT_SYSTEM_MESSAGE_USER_REMOVED_FROM_FRIENDS"
+msgstr "{name}被從聯絡人中刪除"
+
+msgid "CHAT_SYSTEM_MESSAGE_USER_REMOVED_FROM_IGNORE"
+msgstr "將{name}從黑名單中刪除。"
+
+msgid "CHAT_SYSTEM_MESSAGE_YOU_ADDED_TO_FRIENDS"
+msgstr "{name} 將您新增為聯絡人"
+
+msgid "CHAT_TEAM_CONTEXT_INVITE_PLAYER_FROM_LIST"
+msgstr "請從列表中選擇一個玩家"
+
+msgid "CHAT_TEAM_CONTEXT_REMOVE_PLAYER_FROM_LIST"
+msgstr "刪除列表中所選擇的玩家"
+
+msgid "CHAT_TEAM_NO_CONTACTS_ADD_PLAYERS"
+msgstr "沒有聯絡人，要創建編隊，請先與其他玩家建立聯絡"
+
+msgid "CHAT_TEAM_STATUS_ALREADY_INVITED"
+msgstr "玩家已被邀請加入編隊"
+
+msgid "CHAT_TEAM_STATUS_INVITATIONS_LEFT"
+msgstr "可邀請數量: {number}"
+
+msgid "CHAT_TEAM_STATUS_TEAM_PLAYERS_SELECTED"
+msgstr "選中所有編隊成員"
+
+msgid "CHAT_TEMPORARY_UNAVAILABLE"
+msgstr "服務暫時不可用"
+
+msgid "CHAT_TOOLTIP_ADD_USER"
+msgstr "新增一名玩家到聯絡人"
+
+msgid "CHAT_TOOLTIP_BUTTON_CANCEL"
+msgstr "點選顯示聊天頻道"
+
+msgid "CHAT_TOOLTIP_CHANNEL_LIMIT_EXCEEDED"
+msgstr "已達到收藏頻道數上限。"
+
+msgid "CHAT_WRONG_PASSWORD_MESSAGE"
+msgstr "密碼不正確"
+
+msgid "DIALOG_DELETE_GROUP_DELETE_CONTACTS"
+msgstr "刪除聯絡人"
+
+msgid "DIALOG_DELETE_GROUP_DO_NOT_DELETE_CONTACTS"
+msgstr "保留聯絡人"
+
+msgid "DIALOG_DELETE_GROUP_HEADER"
+msgstr "刪除組"
+
+msgid "DIALOG_DELETE_GROUP_MESSAGE"
+msgstr "你確定要刪除這個組？"
+
+msgid "LAST_VISITED_CHANNELS"
+msgstr "最近訪問的頻道"
+
+msgid "TOOLTIP_CHAT_ADD_GROUP"
+msgstr "新增一個新組。"
+
+msgid "TOOLTIP_CHAT_ADD_TO_CONTACTS"
+msgstr "新增一名玩家到聯絡人"
+
+msgid "TOOLTIP_CHAT_CLOSE"
+msgstr "關閉"
+
+msgid "TOOLTIP_CHAT_CREATE_GROUP_CHAT"
+msgstr "創建一個群聊頻道"
+
+msgid "TOOLTIP_CHAT_FRIEND_NOT_APPROVED"
+msgstr "對方尚未新增你為好友"
+
+msgid "TOOLTIP_CHAT_MINIMIZE"
+msgstr "最小化"
+
+msgid "TOOLTIP_CHAT_OPEN_CHANNELS_CONTROL"
+msgstr "管理開啟的頻道"
+
+msgid "TOOLTIP_CHAT_SETTINGS"
+msgstr "設定"
+
+msgid "TOOLTIP_CHAT_UNBOUND"
+msgstr "無限制"

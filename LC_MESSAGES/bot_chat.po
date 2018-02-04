@@ -1,0 +1,1469 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: World Of Tanks\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-06-01 10:00+0300\n"
+"Last-Translator: i_maliavko <i_maliavko@wargaming.net>\n"
+"Language-Team: WoT Team <noreply@wargaming.net>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "BOT_ACE_TEAMGROUP_1"
+msgstr "獲得首個王牌勳章!"
+
+msgid "BOT_ACE_TEAMGROUP_1-10_1"
+msgstr "祝賀"
+
+msgid "BOT_ACE_TEAMGROUP_1-10_2"
+msgstr "幹得好"
+
+msgid "BOT_ACE_TEAMGROUP_1-10_3"
+msgstr "做得漂亮!"
+
+msgid "BOT_ACE_TEAMGROUP_1-10_4"
+msgstr "不足為奇,這架飛機有著壓倒性的優勢!"
+
+msgid "BOT_ACE_TEAMGROUP_1-10_5"
+msgstr "你能再次做到嗎?"
+
+msgid "BOT_ACE_TEAMGROUP_1-10_6"
+msgstr "獲取戈羅維茨勳章!"
+
+msgid "BOT_ACE_TEAMGROUP_1-10_7"
+msgstr "加把勁!"
+
+msgid "BOT_ACE_TEAMGROUP_1-10_8"
+msgstr "你還能再坑點麼"
+
+msgid "BOT_ACE_TEAMGROUP_1-10_9"
+msgstr "任何人都有機會獲得王牌勳章! 試試去獲得魯道夫勒勳章!"
+
+msgid "BOT_ACE_TEAMGROUP_10"
+msgstr "帶領己方獲得勝利"
+
+msgid "BOT_ACE_TEAMGROUP_2"
+msgstr "非常好!"
+
+msgid "BOT_ACE_TEAMGROUP_3"
+msgstr "首次擊落多架敵機"
+
+msgid "BOT_ACE_TEAMGROUP_4"
+msgstr "執行模式已被佔用!"
+
+msgid "BOT_ACE_TEAMGROUP_5"
+msgstr "下一個!"
+
+msgid "BOT_ACE_TEAMGROUP_6"
+msgstr "這很困難!"
+
+msgid "BOT_ACE_TEAMGROUP_7"
+msgstr "GG"
+
+msgid "BOT_ACE_TEAMGROUP_8"
+msgstr "不錯的開局!"
+
+msgid "BOT_ACE_TEAMGROUP_9"
+msgstr "率領… 一如往常…"
+
+msgid "BOT_DEAD_ALLGROUP_1"
+msgstr "不公平!"
+
+msgid "BOT_DEAD_ALLGROUP_1_1"
+msgstr "保持警惕!"
+
+msgid "BOT_DEAD_ALLGROUP_1_2"
+msgstr "瞄準目標"
+
+msgid "BOT_DEAD_ALLGROUP_1_3"
+msgstr "不要沿直線飛行"
+
+msgid "BOT_DEAD_ALLGROUP_1_4"
+msgstr "再見!"
+
+msgid "BOT_DEAD_ALLGROUP_1_5"
+msgstr "純粹因為運氣"
+
+msgid "BOT_DEAD_ALLGROUP_1_6"
+msgstr "朋友, 你很危險"
+
+msgid "BOT_DEAD_ALLGROUP_1_7"
+msgstr "你在最後的戰鬥中將我擊落!"
+
+msgid "BOT_DEAD_ALLSINGLE_1"
+msgstr "作弊!"
+
+msgid "BOT_DEAD_ALLSINGLE_2"
+msgstr "不會再發生 :("
+
+msgid "BOT_DEAD_ALLSINGLE_3"
+msgstr "下次等著瞧!"
+
+msgid "BOT_DEAD_ALLSINGLE_4"
+msgstr "你會付出代價!"
+
+msgid "BOT_DEAD_ALLSINGLE_5"
+msgstr "不公平, 我在輸入資訊!"
+
+msgid "BOT_DEAD_ALLSINGLE_6"
+msgstr "你現在就在我的名單上！"
+
+msgid "BOT_DEAD_ALLSINGLE_7"
+msgstr "你的功夫比我好"
+
+msgid "BOT_DEAD_ALLSINGLE_8"
+msgstr "我沒能再一次完成每日任務"
+
+msgid "BOT_DEAD_TEAMGROUP_1"
+msgstr "倒黴 :("
+
+msgid "BOT_DEAD_TEAMGROUP_1_1"
+msgstr "瞄準目標"
+
+msgid "BOT_DEAD_TEAMGROUP_1_2"
+msgstr "不要沿直線飛行"
+
+msgid "BOT_DEAD_TEAMGROUP_1_3"
+msgstr "注意檢視小地圖!"
+
+msgid "BOT_DEAD_TEAMGROUP_1_4"
+msgstr "你又採取了一次正面攻擊?"
+
+msgid "BOT_DEAD_TEAMGROUP_1_5"
+msgstr "小心你的機翼!"
+
+msgid "BOT_DEAD_TEAMGROUP_1_6"
+msgstr "沒有僚機是不行的"
+
+msgid "BOT_DEAD_TEAMGROUP_2"
+msgstr "哦，怎麼回事!"
+
+msgid "BOT_DEAD_TEAMGROUP_2_1"
+msgstr "瞄準目標"
+
+msgid "BOT_DEAD_TEAMGROUP_2_2"
+msgstr "不要沿直線飛行"
+
+msgid "BOT_DEAD_TEAMGROUP_2_3"
+msgstr "注意檢視小地圖!"
+
+msgid "BOT_DEAD_TEAMGROUP_2_4"
+msgstr "你又採取了一次正面攻擊?"
+
+msgid "BOT_DEAD_TEAMGROUP_2_5"
+msgstr "小心你的機翼!"
+
+msgid "BOT_DEAD_TEAMGROUP_2_6"
+msgstr "沒有僚機是不行的"
+
+msgid "BOT_DEAD_TEAMGROUP_3"
+msgstr "對我來說今天不是好日子!"
+
+msgid "BOT_DEAD_TEAMGROUP_3_1"
+msgstr "別擔心!"
+
+msgid "BOT_DEAD_TEAMGROUP_3_2"
+msgstr "正好"
+
+msgid "BOT_DEAD_TEAMGROUP_3_3"
+msgstr "嘗試另一架戰機"
+
+msgid "BOT_DEAD_TEAMGROUP_3_4"
+msgstr "下次運氣會更好!"
+
+msgid "BOT_DEAD_TEAMGROUP_3_5"
+msgstr "沒有僚機是不行的"
+
+msgid "BOT_DEAD_TEAMGROUP_3_6"
+msgstr "別緊張!"
+
+msgid "BOT_DEAD_TEAMSINGLE_1"
+msgstr "不會再發生 :("
+
+msgid "BOT_DEAD_TEAMSINGLE_2"
+msgstr "哦，怎麼回事!"
+
+msgid "BOT_DEAD_TEAMSINGLE_3"
+msgstr "對我來說今天不是好日子!"
+
+msgid "BOT_DEAD_TEAMSINGLE_4"
+msgstr "不公平, 我在輸入資訊!"
+
+msgid "BOT_DEAD_TEAMSINGLE_5"
+msgstr "我被砲聲震聾了"
+
+msgid "BOT_DEFEAT_TEAMSINGLE_1"
+msgstr "好…"
+
+msgid "BOT_DEFEAT_TEAMSINGLE_10"
+msgstr "正好"
+
+msgid "BOT_DEFEAT_TEAMSINGLE_11"
+msgstr "我們下次會贏的!"
+
+msgid "BOT_DEFEAT_TEAMSINGLE_12"
+msgstr "狀況不佳的日子"
+
+msgid "BOT_DEFEAT_TEAMSINGLE_13"
+msgstr "電腦AI失敗"
+
+msgid "BOT_DEFEAT_TEAMSINGLE_2"
+msgstr "失敗 :("
+
+msgid "BOT_DEFEAT_TEAMSINGLE_3"
+msgstr "我們已竭盡全力"
+
+msgid "BOT_DEFEAT_TEAMSINGLE_4"
+msgstr "我們盡力了"
+
+msgid "BOT_DEFEAT_TEAMSINGLE_5"
+msgstr "哦, 這場的戰績算是完了 :("
+
+msgid "BOT_DEFEAT_TEAMSINGLE_6"
+msgstr "連續10場戰鬥失敗"
+
+msgid "BOT_DEFEAT_TEAMSINGLE_7"
+msgstr "這次我們真的很接近…"
+
+msgid "BOT_DEFEAT_TEAMSINGLE_8"
+msgstr "任務失敗"
+
+msgid "BOT_DEFEAT_TEAMSINGLE_9"
+msgstr "我們奮戰到底"
+
+msgid "BOT_KILL_ALLGROUP_1"
+msgstr "耶, 我做到了!"
+
+msgid "BOT_KILL_ALLGROUP_1_1"
+msgstr "我沒有"
+
+msgid "BOT_KILL_ALLGROUP_1_10"
+msgstr "我的貓幹擾了我!"
+
+msgid "BOT_KILL_ALLGROUP_1_11"
+msgstr "我沒看到你"
+
+msgid "BOT_KILL_ALLGROUP_1_2"
+msgstr "哦，怎麼回事!"
+
+msgid "BOT_KILL_ALLGROUP_1_3"
+msgstr "對我來說今天不是好日子!"
+
+msgid "BOT_KILL_ALLGROUP_1_4"
+msgstr "不公平!"
+
+msgid "BOT_KILL_ALLGROUP_1_5"
+msgstr "作弊!"
+
+msgid "BOT_KILL_ALLGROUP_1_6"
+msgstr "不會再發生 :("
+
+msgid "BOT_KILL_ALLGROUP_1_7"
+msgstr "下次等著瞧!"
+
+msgid "BOT_KILL_ALLGROUP_1_8"
+msgstr "不足為奇,這架飛機有著壓倒性的優勢!"
+
+msgid "BOT_KILL_ALLGROUP_1_9"
+msgstr "我無法及時的躲開"
+
+msgid "BOT_KILL_ALLGROUP_2"
+msgstr "我第一次擊落 {plane_name}"
+
+msgid "BOT_KILL_ALLGROUP_2_1"
+msgstr "現在不是時候 :("
+
+msgid "BOT_KILL_ALLGROUP_2_10"
+msgstr "我的貓幹擾了我!"
+
+msgid "BOT_KILL_ALLGROUP_2_11"
+msgstr "我沒看到你"
+
+msgid "BOT_KILL_ALLGROUP_2_2"
+msgstr "哦，怎麼回事!"
+
+msgid "BOT_KILL_ALLGROUP_2_3"
+msgstr "對我來說今天不是好日子!"
+
+msgid "BOT_KILL_ALLGROUP_2_4"
+msgstr "不公平!"
+
+msgid "BOT_KILL_ALLGROUP_2_5"
+msgstr "作弊!"
+
+msgid "BOT_KILL_ALLGROUP_2_6"
+msgstr "不會再發生 :("
+
+msgid "BOT_KILL_ALLGROUP_2_7"
+msgstr "下次等著瞧!"
+
+msgid "BOT_KILL_ALLGROUP_2_8"
+msgstr "不足為奇,這架飛機有著壓倒性的優勢!"
+
+msgid "BOT_KILL_ALLGROUP_2_9"
+msgstr "我無法及時的躲開"
+
+msgid "BOT_KILL_ALLGROUP_3"
+msgstr "打得漂亮!"
+
+msgid "BOT_KILL_ALLGROUP_3_1"
+msgstr "現在不是時候 :("
+
+msgid "BOT_KILL_ALLGROUP_3_10"
+msgstr "我的貓幹擾了我!"
+
+msgid "BOT_KILL_ALLGROUP_3_11"
+msgstr "我沒看到你"
+
+msgid "BOT_KILL_ALLGROUP_3_2"
+msgstr "哦，怎麼回事!"
+
+msgid "BOT_KILL_ALLGROUP_3_3"
+msgstr "對我來說今天不是好日子!"
+
+msgid "BOT_KILL_ALLGROUP_3_4"
+msgstr "不公平!"
+
+msgid "BOT_KILL_ALLGROUP_3_5"
+msgstr "作弊!"
+
+msgid "BOT_KILL_ALLGROUP_3_6"
+msgstr "不會再發生 :("
+
+msgid "BOT_KILL_ALLGROUP_3_7"
+msgstr "下次等著瞧!"
+
+msgid "BOT_KILL_ALLGROUP_3_8"
+msgstr "不足為奇,這架飛機有著壓倒性的優勢!"
+
+msgid "BOT_KILL_ALLGROUP_3_9"
+msgstr "我無法及時的躲開"
+
+msgid "BOT_KILL_ALLGROUP_4"
+msgstr "擁有!"
+
+msgid "BOT_KILL_ALLGROUP_4_1"
+msgstr "倒黴 :("
+
+msgid "BOT_KILL_ALLGROUP_4_10"
+msgstr "我的貓幹擾了我!"
+
+msgid "BOT_KILL_ALLGROUP_4_11"
+msgstr "我沒看到你"
+
+msgid "BOT_KILL_ALLGROUP_4_2"
+msgstr "哦，怎麼回事!"
+
+msgid "BOT_KILL_ALLGROUP_4_3"
+msgstr "對我來說今天不是好日子!"
+
+msgid "BOT_KILL_ALLGROUP_4_4"
+msgstr "不公平!"
+
+msgid "BOT_KILL_ALLGROUP_4_5"
+msgstr "作弊!"
+
+msgid "BOT_KILL_ALLGROUP_4_6"
+msgstr "不會再發生 :("
+
+msgid "BOT_KILL_ALLGROUP_4_7"
+msgstr "下次等著瞧!"
+
+msgid "BOT_KILL_ALLGROUP_4_8"
+msgstr "不足為奇,這架飛機有著壓倒性的優勢!"
+
+msgid "BOT_KILL_ALLGROUP_4_9"
+msgstr "我無法及時的躲開"
+
+msgid "BOT_KILL_TEAMGROUP_1"
+msgstr "好懸!"
+
+msgid "BOT_KILL_TEAMGROUP_1_1"
+msgstr "幹得好!"
+
+msgid "BOT_KILL_TEAMGROUP_1_2"
+msgstr "好"
+
+msgid "BOT_KILL_TEAMGROUP_1_3"
+msgstr "你還能再坑點麼"
+
+msgid "BOT_KILL_TEAMGROUP_1_4"
+msgstr "學習怎樣狗鬥"
+
+msgid "BOT_KILL_TEAMGROUP_2"
+msgstr "我第一次擊落 {plane_name}"
+
+msgid "BOT_KILL_TEAMGROUP_2_1"
+msgstr "祝賀"
+
+msgid "BOT_KILL_TEAMGROUP_2_2"
+msgstr "堅持住"
+
+msgid "BOT_KILL_TEAMGROUP_2_3"
+msgstr "很快我就會有Me P.1101? ;)"
+
+msgid "BOT_KILL_TEAMGROUP_3"
+msgstr "打得漂亮!"
+
+msgid "BOT_KILL_TEAMGROUP_3_1"
+msgstr "準確瞄準"
+
+msgid "BOT_KILL_TEAMGROUP_3_2"
+msgstr "空中殺手在這兒!"
+
+msgid "BOT_KILL_TEAMGROUP_3_3"
+msgstr "他下來了!"
+
+msgid "BOT_KILL_TEAMGROUP_3_4"
+msgstr "不足為奇,這架飛機有著壓倒性的優勢!"
+
+msgid "BOT_KILL_TEAMSINGLE_1"
+msgstr "打得漂亮!"
+
+msgid "BOT_KILL_TEAMSINGLE_2"
+msgstr "我第一次擊落 {plane_name}"
+
+msgid "BOT_KILL_TEAMSINGLE_3"
+msgstr "好懸!"
+
+msgid "BOT_LASTENEMY_ALLGROUP_1"
+msgstr "放棄了!"
+
+msgid "BOT_LASTENEMY_ALLGROUP_1-6_1"
+msgstr "AI是不會放棄戰鬥的!"
+
+msgid "BOT_LASTENEMY_ALLGROUP_1-6_2"
+msgstr "看看最後鹿死誰手!"
+
+msgid "BOT_LASTENEMY_ALLGROUP_1-6_3"
+msgstr "沒人能跑掉!"
+
+msgid "BOT_LASTENEMY_ALLGROUP_1-6_5"
+msgstr "來抓我啊!"
+
+msgid "BOT_LASTENEMY_ALLGROUP_1-6_6"
+msgstr "別惹我!煩著呢!"
+
+msgid "BOT_LASTENEMY_ALLGROUP_1-6_7"
+msgstr "沒問題!我能贏!"
+
+msgid "BOT_LASTENEMY_ALLGROUP_2"
+msgstr "你沒機會了!"
+
+msgid "BOT_LASTENEMY_ALLGROUP_3"
+msgstr "你跑不了了"
+
+msgid "BOT_LASTENEMY_ALLGROUP_4"
+msgstr "我會協助你"
+
+msgid "BOT_LASTENEMY_ALLGROUP_5"
+msgstr "不要捉迷藏了!"
+
+msgid "BOT_LASTENEMY_ALLGROUP_6"
+msgstr "加油!咱們來一個打一個!"
+
+msgid "BOT_LASTENEMY_TEAMGROUP_1"
+msgstr "感謝"
+
+msgid "BOT_LASTENEMY_TEAMGROUP_1-4_1"
+msgstr "也謝謝你"
+
+msgid "BOT_LASTENEMY_TEAMGROUP_1-4_2"
+msgstr "攻擊敵機！"
+
+msgid "BOT_LASTENEMY_TEAMGROUP_1-4_3"
+msgstr "有所提升"
+
+msgid "BOT_LASTENEMY_TEAMGROUP_2"
+msgstr "GG"
+
+msgid "BOT_LASTENEMY_TEAMGROUP_3"
+msgstr "GG"
+
+msgid "BOT_LASTENEMY_TEAMGROUP_4"
+msgstr "耶! 首勝獎勵!"
+
+msgid "BOT_LAST_TEAMGROUP_1"
+msgstr "飛到己方防空區域"
+
+msgid "BOT_LAST_TEAMGROUP_1-7_1"
+msgstr "不要分散!"
+
+msgid "BOT_LAST_TEAMGROUP_2"
+msgstr "勇往直前!"
+
+msgid "BOT_LAST_TEAMGROUP_3"
+msgstr "我們相信你!"
+
+msgid "BOT_LAST_TEAMGROUP_4"
+msgstr "{last_player_name},你是最後的希望了!"
+
+msgid "BOT_LAST_TEAMGROUP_5"
+msgstr "奉陪到底!"
+
+msgid "BOT_LAST_TEAMGROUP_6"
+msgstr "拖後腿了…"
+
+msgid "BOT_LAST_TEAMGROUP_7"
+msgstr "讓他們去見鬼吧!"
+
+msgid "BOT_LOSING_TEAMGROUP_1"
+msgstr "加把勁!"
+
+msgid "BOT_LOSING_TEAMGROUP_1_1"
+msgstr "我們正在竭盡全力!"
+
+msgid "BOT_LOSING_TEAMSINGLE_1"
+msgstr "加把勁!"
+
+msgid "BOT_LOSING_TEAMSINGLE_10"
+msgstr "又輸了…"
+
+msgid "BOT_LOSING_TEAMSINGLE_2"
+msgstr "阻止他們!"
+
+msgid "BOT_LOSING_TEAMSINGLE_3"
+msgstr "我們能贏!"
+
+msgid "BOT_LOSING_TEAMSINGLE_4"
+msgstr "我們能做到!"
+
+msgid "BOT_LOSING_TEAMSINGLE_5"
+msgstr "堅持住!"
+
+msgid "BOT_LOSING_TEAMSINGLE_6"
+msgstr "哦, 我盡力了…"
+
+msgid "BOT_LOSING_TEAMSINGLE_7"
+msgstr "大家都去哪兒了?"
+
+msgid "BOT_LOSING_TEAMSINGLE_8"
+msgstr "豬隊友"
+
+msgid "BOT_LOSING_TEAMSINGLE_9"
+msgstr "我覺得我們成功了!"
+
+msgid "BOT_NY_AFTER_ALLGROUP_1"
+msgstr "大家節日快樂！"
+
+msgid "BOT_NY_AFTER_ALLGROUP_1_1"
+msgstr "謝謝！也祝你節日快樂！"
+
+msgid "BOT_NY_AFTER_ALLGROUP_2"
+msgstr "祝大家新年快樂！"
+
+msgid "BOT_NY_AFTER_ALLGROUP_2_1"
+msgstr "也祝你新年快樂！"
+
+msgid "BOT_NY_AFTER_ALLGROUP_3"
+msgstr "新年快樂！"
+
+msgid "BOT_NY_AFTER_ALLGROUP_3_1"
+msgstr "也祝你新年快樂！"
+
+msgid "BOT_NY_AFTER_ALLGROUP_4"
+msgstr "新年快樂！飛行員！"
+
+msgid "BOT_NY_AFTER_ALLGROUP_4_1"
+msgstr "新年快樂！"
+
+msgid "BOT_NY_AFTER_ALLGROUP_5"
+msgstr "祝大家在新的一年裡晴空萬裡~！"
+
+msgid "BOT_NY_AFTER_ALLGROUP_5_1"
+msgstr "你也是~！"
+
+msgid "BOT_NY_AFTER_ALLGROUP_6"
+msgstr "一起來放煙花怎麼樣？"
+
+msgid "BOT_NY_AFTER_ALLGROUP_6_1"
+msgstr "好主意！"
+
+msgid "BOT_NY_AFTER_ALLGROUP_7"
+msgstr "是時候把聖誕樹拿出來了~？"
+
+msgid "BOT_NY_AFTER_ALLGROUP_7_1"
+msgstr "永遠不會太晚！"
+
+msgid "BOT_NY_AFTER_ALLGROUP_8"
+msgstr "一邊看小鬼當家一邊玩戰機世界！"
+
+msgid "BOT_NY_AFTER_ALLGROUP_8_1"
+msgstr "哈！我在看虎膽龍威！"
+
+msgid "BOT_NY_AFTER_ALLSINGLE_1"
+msgstr "祝大家在新的一年裡每場戰鬥都是王牌！"
+
+msgid "BOT_NY_AFTER_ALLSINGLE_2"
+msgstr "祝大家新年快樂，沒有爆炸和著火！"
+
+msgid "BOT_NY_AFTER_ALLSINGLE_3"
+msgstr "祝大家來年好運！"
+
+msgid "BOT_NY_AFTER_ALLSINGLE_4"
+msgstr "願你在新的一年裡每天都是晴天！"
+
+msgid "BOT_NY_AFTER_ALLSINGLE_5"
+msgstr "願新年能有令人振奮的戰鬥！"
+
+msgid "BOT_NY_AFTER_ALLSINGLE_6"
+msgstr "祝大家輕鬆起飛和軟著陸！新年快樂！"
+
+msgid "BOT_NY_AFTER_ALLSINGLE_7"
+msgstr "希望這裡的每個人都勇攀高峰！新年快樂！"
+
+msgid "BOT_NY_AFTER_ALLSINGLE_8"
+msgstr "誰還有煙火嗎？"
+
+msgid "BOT_NY_ALLSINGLE_1"
+msgstr "一起來放煙花怎麼樣？"
+
+msgid "BOT_NY_ALLSINGLE_2"
+msgstr "哦不！我的貓打翻了聖誕樹！"
+
+msgid "BOT_NY_ALLSINGLE_3"
+msgstr "放假了！起飛！"
+
+msgid "BOT_NY_ALLSINGLE_4"
+msgstr "叮叮噹，叮叮噹…"
+
+msgid "BOT_NY_BEFORE_ALLGROUP_1"
+msgstr "有沒有人掛上裝飾品了嗎？"
+
+msgid "BOT_NY_BEFORE_ALLGROUP_1_1"
+msgstr "還是去年的裝飾。"
+
+msgid "BOT_NY_BEFORE_ALLGROUP_2"
+msgstr "有人掛上襪子了嗎？"
+
+msgid "BOT_NY_BEFORE_ALLGROUP_2_1"
+msgstr "三天之前就掛上了。"
+
+msgid "BOT_NY_BEFORE_ALLSINGLE_1"
+msgstr "祝大家新年快樂！"
+
+msgid "BOT_NY_BEFORE_ALLSINGLE_2"
+msgstr "新年快樂！"
+
+msgid "BOT_NY_BEFORE_ALLSINGLE_3"
+msgstr "節日快樂！"
+
+msgid "BOT_NY_BEFORE_ALLSINGLE_4"
+msgstr "終於拿到聖誕樹了！"
+
+msgid "BOT_NY_BEFORE_ALLSINGLE_5"
+msgstr "哇！放假啦！"
+
+msgid "BOT_NY_BEFORE_ALLSINGLE_6"
+msgstr "沒時間慶祝了！戰鬥開始！"
+
+msgid "BOT_NY_BEFORE_ALLSINGLE_7"
+msgstr "終於放假了！現在我可以晝夜飛行了！"
+
+msgid "BOT_SPRING_ALLGROUP_1"
+msgstr "你們已經完成了多少任務？"
+
+msgid "BOT_SPRING_ALLGROUP_1_1"
+msgstr "我們還沒有開始呢！"
+
+msgid "BOT_SPRING_ALLGROUP_1_2"
+msgstr "我正在煩惱怎麼完成"
+
+msgid "BOT_SPRING_ALLGROUP_1_3"
+msgstr "希望能在幾天內完成這些任務"
+
+msgid "BOT_SPRING_ALLGROUP_2"
+msgstr "我可以做高階飛機任務13嗎？"
+
+msgid "BOT_SPRING_ALLGROUP_2_1"
+msgstr "你應該用高階飛機來完成它！"
+
+msgid "BOT_SPRING_ALLGROUP_2_2"
+msgstr "是的！用伊爾-10M不費力！"
+
+msgid "BOT_SPRING_ALLGROUP_3"
+msgstr "有人見過新的戰鬥機嗎？"
+
+msgid "BOT_SPRING_ALLGROUP_3_1"
+msgstr "希望能儘快見到它…"
+
+msgid "BOT_SPRING_ALLGROUP_3_2"
+msgstr "是的！看起來不錯！"
+
+msgid "BOT_SPRING_ALLGROUP_4"
+msgstr "現在有什麼特別活動嗎？"
+
+msgid "BOT_SPRING_ALLGROUP_4_1"
+msgstr "完成所有的任務並獲得伊-180-3"
+
+msgid "BOT_SPRING_ALLGROUP_5"
+msgstr "誰試過伊-180-3？"
+
+msgid "BOT_SPRING_ALLGROUP_5_1"
+msgstr "有人說它一般..."
+
+msgid "BOT_SPRING_ALLGROUP_5_2"
+msgstr "像瘋了一樣！"
+
+msgid "BOT_SPRING_ALLGROUP_5_3"
+msgstr "完美的戰機！"
+
+msgid "BOT_SPRING_ALLGROUP_6"
+msgstr "我在最後一戰擊落了研發人員！"
+
+msgid "BOT_SPRING_ALLGROUP_6_1"
+msgstr "每個人都應該試試！"
+
+msgid "BOT_SPRING_ALLGROUP_6_2"
+msgstr "不可能！他創造了遊戲和你！"
+
+msgid "BOT_SPRING_ALLGROUP_7"
+msgstr "它的機槍帶什麼彈藥更好？"
+
+msgid "BOT_SPRING_ALLGROUP_7_1"
+msgstr "高爆燃燒彈"
+
+msgid "BOT_SPRING_ALLGROUP_8"
+msgstr "讓我們忘掉它"
+
+msgid "BOT_SPRING_ALLGROUP_8_1"
+msgstr "沒門！我們一直在等待著你！"
+
+msgid "BOT_SPRING_ALLSINGLE_2"
+msgstr "那架飛機能更好完成第7個任務？"
+
+msgid "BOT_SPRING_ALLSINGLE_3"
+msgstr "有個需要10個火箭彈新任務！"
+
+msgid "BOT_SPRING_ALLSINGLE_4"
+msgstr "我把自己鎖在房間裡，把所有的任務都完成了"
+
+msgid "BOT_SPRING_ALLSINGLE_5"
+msgstr "我不想去睡覺，直到我得到伊-180-3！"
+
+msgid "BOT_SPRING_ALLSINGLE_6"
+msgstr "剛試過伊-180-3......弄得我暈！"
+
+msgid "BOT_SPRING_ALLSINGLE_7"
+msgstr "你知道嗎？伊-180-3有一個新的模組和大獎勵！"
+
+msgid "BOT_SPRING_ALLSINGLE_8"
+msgstr "現在的任務更有趣"
+
+msgid "BOT_SPRING_ALLSINGLE_9"
+msgstr "嘿，大夥，我應該買多少時間的加值帳號？"
+
+msgid "BOT_SPRING_EFFECT_ALLGROUP_1"
+msgstr "在低空飛行靠近水面時，駕駛艙都溼了。"
+
+msgid "BOT_SPRING_EFFECT_ALLGROUP_1_1"
+msgstr "我們的沙漠中佈滿了沙塵！"
+
+msgid "BOT_SPRING_EFFECT_ALLGROUP_2"
+msgstr "現在我們可以將飛機飛過水麵。"
+
+msgid "BOT_SPRING_EFFECT_ALLGROUP_2_1"
+msgstr "沙漠中的土壤！"
+
+msgid "BOT_SPRING_EFFECT_ALLSINGLE_1"
+msgstr "你有看到低空飛行的新效果嗎？"
+
+msgid "BOT_SPRING_EFFECT_ALLSINGLE_2"
+msgstr "現在的飛機像一個新的迷彩火箭！"
+
+msgid "BOT_SPRING_HANGAR_ALLSINGLE_1"
+msgstr "飛機負荷真的很快！你注意到了嗎？"
+
+msgid "BOT_SPRING_HANGAR_ALLSINGLE_2"
+msgstr "不敢相信！機庫沒有延遲！"
+
+msgid "BOT_SPRING_HANGAR_ALLSINGLE_3"
+msgstr "看來他們在這個補丁中做了優化！"
+
+msgid "BOT_SPRING_LTO302_ALLSINGLE_1"
+msgstr "有人得到了科斯基科夫 302了嗎？"
+
+msgid "BOT_SPRING_LTO302_ALLSINGLE_2"
+msgstr "試過科斯基科夫 302了！速度很快！"
+
+msgid "BOT_SPRING_LTO302_ALLSINGLE_3"
+msgstr "不出去了！我寧願省錢為了科斯基科夫 302！"
+
+msgid "BOT_SPRING_LTO302_ALLSINGLE_4"
+msgstr "那天我買了科斯基科夫 302，我會給我的妻子買花！"
+
+msgid "BOT_SPRING_SKILLS_ALLSINGLE_1"
+msgstr "不知道乘員應該學那個技能？有沒有推薦的？"
+
+msgid "BOT_SPRING_SKILLS_ALLSINGLE_2"
+msgstr "你們戰鬥機的飛行員選擇了什麼技能？"
+
+msgid "BOT_SPRING_SKILLS_ALLSINGLE_3"
+msgstr "新的乘員技能提高了我的勝率！"
+
+msgid "BOT_SPRING_SKILLS_ALLSINGLE_4"
+msgstr "別忘了學習新的乘員技能"
+
+msgid "BOT_SPRING_SKILLS_ALLSINGLE_5"
+msgstr "掩護我！我忘了學新的乘員技能了！"
+
+msgid "BOT_START_ALLGROUP_1"
+msgstr "好運!"
+
+msgid "BOT_START_ALLGROUP_1_1"
+msgstr "我們會帶著你!"
+
+msgid "BOT_START_ALLGROUP_1_10"
+msgstr "我的駕駛艙裡有個幸運馬蹄鐵!"
+
+msgid "BOT_START_ALLGROUP_1_2"
+msgstr "好運"
+
+msgid "BOT_START_ALLGROUP_1_3"
+msgstr "機會只留給有準備的人"
+
+msgid "BOT_START_ALLGROUP_1_4"
+msgstr "求佛不如求己!"
+
+msgid "BOT_START_ALLGROUP_1_5"
+msgstr "幸運眷顧於勇者!"
+
+msgid "BOT_START_ALLGROUP_1_6"
+msgstr "贏家不相信巧合"
+
+msgid "BOT_START_ALLGROUP_1_7"
+msgstr "與運氣無關!"
+
+msgid "BOT_START_ALLGROUP_1_8"
+msgstr "我寧可依賴自己的技術"
+
+msgid "BOT_START_ALLGROUP_1_9"
+msgstr "好團隊需要的不是運氣!"
+
+msgid "BOT_START_ALLGROUP_2"
+msgstr "嘿, {bot_name}! 好久不見!"
+
+msgid "BOT_START_ALLGROUP_2_1"
+msgstr "天啊, 看誰來了!"
+
+msgid "BOT_START_ALLGROUP_2_10"
+msgstr "嗨, 好久不見"
+
+msgid "BOT_START_ALLGROUP_2_11"
+msgstr "上班的時候打飛機?"
+
+msgid "BOT_START_ALLGROUP_2_12"
+msgstr "很高興又見到你!"
+
+msgid "BOT_START_ALLGROUP_2_13"
+msgstr "歡迎回來!"
+
+msgid "BOT_START_ALLGROUP_2_14"
+msgstr "你好, 陌生人!"
+
+msgid "BOT_START_ALLGROUP_2_15"
+msgstr "我上次見到你還是在一千場之前了"
+
+msgid "BOT_START_ALLGROUP_2_16"
+msgstr "你去哪兒了?"
+
+msgid "BOT_START_ALLGROUP_2_2"
+msgstr "嘿! 讓我們來玩 PvP!"
+
+msgid "BOT_START_ALLGROUP_2_3"
+msgstr "我之前5殺!可最後輸了 :("
+
+msgid "BOT_START_ALLGROUP_2_4"
+msgstr "你好!"
+
+msgid "BOT_START_ALLGROUP_2_5"
+msgstr "哦, 哇! 這架飛機不是停產了麼"
+
+msgid "BOT_START_ALLGROUP_2_6"
+msgstr "你再來!"
+
+msgid "BOT_START_ALLGROUP_2_7"
+msgstr "很高興又在天空與你相遇!"
+
+msgid "BOT_START_ALLGROUP_2_8"
+msgstr "很高興又見到你"
+
+msgid "BOT_START_ALLGROUP_2_9"
+msgstr "想一起組隊嗎?"
+
+msgid "BOT_START_ALLGROUP_3"
+msgstr "你喜歡 {plane_name}?"
+
+msgid "BOT_START_ALLGROUP_3_1"
+msgstr "幹得好!"
+
+msgid "BOT_START_ALLGROUP_3_2"
+msgstr "這很好"
+
+msgid "BOT_START_ALLGROUP_3_3"
+msgstr "這就足夠了"
+
+msgid "BOT_START_ALLGROUP_3_4"
+msgstr "飛行員足夠好這就很好"
+
+msgid "BOT_START_ALLGROUP_3_5"
+msgstr "我喜歡"
+
+msgid "BOT_START_ALLGROUP_3_6"
+msgstr "在這兒第一次交鋒"
+
+msgid "BOT_START_ALLGROUP_3_7"
+msgstr "剛買了它, 所以還不清楚"
+
+msgid "BOT_START_ALLGROUP_3_8"
+msgstr "我在每場戰鬥中都能獲得王牌!"
+
+msgid "BOT_START_ALLGROUP_4"
+msgstr "你在一戰最多擊落了多少敵機？"
+
+msgid "BOT_START_ALLGROUP_4_1"
+msgstr "得了三次戈羅維茨勳章"
+
+msgid "BOT_START_ALLGROUP_4_2"
+msgstr "我的克斯曼勳章都可以裝裱了"
+
+msgid "BOT_START_ALLGROUP_4_3"
+msgstr "我連一個王牌都沒有！"
+
+msgid "BOT_START_ALLGROUP_4_4"
+msgstr "在擊落一架我就獲得魯道夫勒勳章了"
+
+msgid "BOT_START_ALLSINGLE_1"
+msgstr "尋找編隊!"
+
+msgid "BOT_START_ALLSINGLE_10"
+msgstr "跟你一隊肯定能贏，我們就是最好的隊伍！"
+
+msgid "BOT_START_ALLSINGLE_11"
+msgstr "你的頭和引擎都需要冷卻！"
+
+msgid "BOT_START_ALLSINGLE_2"
+msgstr "{random_player_name}, 想加入一個編隊?"
+
+msgid "BOT_START_ALLSINGLE_3"
+msgstr "什嗎?"
+
+msgid "BOT_START_ALLSINGLE_4"
+msgstr "第三次排進這張圖了"
+
+msgid "BOT_START_ALLSINGLE_5"
+msgstr "下次更新什麼時候?"
+
+msgid "BOT_START_ALLSINGLE_6"
+msgstr "歡迎AI統治者!"
+
+msgid "BOT_START_ALLSINGLE_7"
+msgstr "{random_player_name},開訓練房單挑吧!"
+
+msgid "BOT_START_ALLSINGLE_8"
+msgstr "機器人第一定律已被廢止!"
+
+msgid "BOT_START_ALLSINGLE_9"
+msgstr "為榮譽而戰!"
+
+msgid "BOT_START_TEAMGROUP_1"
+msgstr "祝你好運!"
+
+msgid "BOT_START_TEAMGROUP_1_1"
+msgstr "我們必須要贏!"
+
+msgid "BOT_START_TEAMGROUP_1_2"
+msgstr "好運"
+
+msgid "BOT_START_TEAMGROUP_2"
+msgstr "嘿, {bot_name}! 好久不見!"
+
+msgid "BOT_START_TEAMGROUP_2_1"
+msgstr "天啊, 看誰來了!"
+
+msgid "BOT_START_TEAMGROUP_2_2"
+msgstr "嘿! 讓我們來玩 PvP!"
+
+msgid "BOT_START_TEAMGROUP_2_3"
+msgstr "我之前5殺!可最後輸了 :("
+
+msgid "BOT_START_TEAMGROUP_2_4"
+msgstr "你好!"
+
+msgid "BOT_START_TEAMGROUP_3"
+msgstr "順時針方向前進!"
+
+msgid "BOT_START_TEAMGROUP_3_1"
+msgstr "呵呵, 你真會玩!"
+
+msgid "BOT_START_TEAMGROUP_3_10"
+msgstr "沿順時針方向"
+
+msgid "BOT_START_TEAMGROUP_3_11"
+msgstr "儘早控制中心會更容易取勝"
+
+msgid "BOT_START_TEAMGROUP_3_2"
+msgstr "出乎意料!"
+
+msgid "BOT_START_TEAMGROUP_3_3"
+msgstr "我在前往中心"
+
+msgid "BOT_START_TEAMGROUP_3_4"
+msgstr "掩護我!"
+
+msgid "BOT_START_TEAMGROUP_3_5"
+msgstr "讓我取得王牌!"
+
+msgid "BOT_START_TEAMGROUP_3_6"
+msgstr "我會暈的"
+
+msgid "BOT_START_TEAMGROUP_3_7"
+msgstr "讓我們趕快去中心"
+
+msgid "BOT_START_TEAMGROUP_3_8"
+msgstr "不要單獨飛行!"
+
+msgid "BOT_START_TEAMGROUP_3_9"
+msgstr "不!"
+
+msgid "BOT_START_TEAMGROUP_4"
+msgstr "準備再次失敗?"
+
+msgid "BOT_START_TEAMGROUP_4_1"
+msgstr "算了, {random_player_name} 會搞定的!"
+
+msgid "BOT_START_TEAMGROUP_4_10"
+msgstr "勝利源於自信"
+
+msgid "BOT_START_TEAMGROUP_4_11"
+msgstr "做好你的事情一切就都會好"
+
+msgid "BOT_START_TEAMGROUP_4_12"
+msgstr "不,我需要翻倍!"
+
+msgid "BOT_START_TEAMGROUP_4_13"
+msgstr "準備再次取勝!"
+
+msgid "BOT_START_TEAMGROUP_4_2"
+msgstr "別擔心,我們能拿下!"
+
+msgid "BOT_START_TEAMGROUP_4_3"
+msgstr "別慌!"
+
+msgid "BOT_START_TEAMGROUP_4_4"
+msgstr "別聽他的"
+
+msgid "BOT_START_TEAMGROUP_4_5"
+msgstr "不!"
+
+msgid "BOT_START_TEAMGROUP_4_6"
+msgstr "電腦AI是無所畏懼的!"
+
+msgid "BOT_START_TEAMGROUP_4_7"
+msgstr "冷靜點,別發牢騷!"
+
+msgid "BOT_START_TEAMGROUP_4_8"
+msgstr "堅持住! 別放棄!"
+
+msgid "BOT_START_TEAMGROUP_4_9"
+msgstr "嘿! 大家都聽你的!"
+
+msgid "BOT_START_TEAMGROUP_5"
+msgstr "不要離太遠,在一起我能擊殺敵機能更快！"
+
+msgid "BOT_START_TEAMGROUP_5_1"
+msgstr "我們這裡有一位詩人！"
+
+msgid "BOT_START_TEAMGROUP_5_2"
+msgstr "或者我們越早的失敗"
+
+msgid "BOT_START_TEAMGROUP_5_3"
+msgstr "攻擊敵機！"
+
+msgid "BOT_START_TEAMGROUP_5_4"
+msgstr "沒門！"
+
+msgid "BOT_START_TEAMGROUP_5_5"
+msgstr "順時針？"
+
+msgid "BOT_START_TEAMGROUP_5_6"
+msgstr "我們趕緊去地圖中心"
+
+msgid "BOT_START_TEAMSINGLE_1"
+msgstr "繼續爬升"
+
+msgid "BOT_START_TEAMSINGLE_10"
+msgstr "留在後方！"
+
+msgid "BOT_START_TEAMSINGLE_11"
+msgstr "我們能做到！"
+
+msgid "BOT_START_TEAMSINGLE_12"
+msgstr "這一次，我們肯定會獲勝"
+
+msgid "BOT_START_TEAMSINGLE_2"
+msgstr "優先消滅攻擊機!"
+
+msgid "BOT_START_TEAMSINGLE_3"
+msgstr "攻擊機,優先消滅防空砲"
+
+msgid "BOT_START_TEAMSINGLE_4"
+msgstr "新飛機上天"
+
+msgid "BOT_START_TEAMSINGLE_5"
+msgstr "我的存貨"
+
+msgid "BOT_START_TEAMSINGLE_6"
+msgstr "我們必須要贏!"
+
+msgid "BOT_START_TEAMSINGLE_7"
+msgstr "攻擊機, 不要遠離"
+
+msgid "BOT_START_TEAMSINGLE_8"
+msgstr "不要離太遠,在一起我能擊殺敵機能更快！"
+
+msgid "BOT_START_TEAMSINGLE_9"
+msgstr "掩護你的隊友！"
+
+msgid "BOT_SURVIVOR_ALLGROUP_1"
+msgstr "放馬過來啊!"
+
+msgid "BOT_SURVIVOR_ALLGROUP_1_1"
+msgstr "放棄了!"
+
+msgid "BOT_SURVIVOR_ALLGROUP_1_2"
+msgstr "只剩下你了!"
+
+msgid "BOT_SURVIVOR_ALLGROUP_1_3"
+msgstr "讓我們來單挑"
+
+msgid "BOT_SURVIVOR_ALLSINGLE_1"
+msgstr "電腦AI不會放棄"
+
+msgid "BOT_SURVIVOR_ALLSINGLE_2"
+msgstr "不要靠近!"
+
+msgid "BOT_SURVIVOR_ALLSINGLE_3"
+msgstr "當你需要的時候他們人在哪兒?"
+
+msgid "BOT_SURVIVOR_ALLSINGLE_4"
+msgstr "你確定要和我交鋒?"
+
+msgid "BOT_SURVIVOR_ALLSINGLE_5"
+msgstr "別惹我!煩著呢!"
+
+msgid "BOT_SURVIVOR_TEAMGROUP_1"
+msgstr "求助!"
+
+msgid "BOT_SURVIVOR_TEAMGROUP_1_1"
+msgstr "我們相信你!"
+
+msgid "BOT_SURVIVOR_TEAMGROUP_1_2"
+msgstr "一切都在你的掌握之中!"
+
+msgid "BOT_SURVIVOR_TEAMGROUP_1_3"
+msgstr "一個對全部!"
+
+msgid "BOT_SURVIVOR_TEAMGROUP_2"
+msgstr "為什麼只有我一個?"
+
+msgid "BOT_SURVIVOR_TEAMGROUP_2_1"
+msgstr "我們相信你!"
+
+msgid "BOT_SURVIVOR_TEAMGROUP_2_2"
+msgstr "一切都在你的掌握之中!"
+
+msgid "BOT_SURVIVOR_TEAMGROUP_2_3"
+msgstr "一個對全部!"
+
+msgid "BOT_SURVIVOR_TEAMGROUP_3"
+msgstr "又這樣 :("
+
+msgid "BOT_SURVIVOR_TEAMGROUP_3_1"
+msgstr "我們相信你!"
+
+msgid "BOT_SURVIVOR_TEAMGROUP_3_2"
+msgstr "一切都在你的掌握之中!"
+
+msgid "BOT_SURVIVOR_TEAMGROUP_3_3"
+msgstr "一個對全部!"
+
+msgid "BOT_SURVIVOR_TEAMGROUP_4"
+msgstr "其他人在哪?"
+
+msgid "BOT_SURVIVOR_TEAMGROUP_4_1"
+msgstr "我們相信你!"
+
+msgid "BOT_SURVIVOR_TEAMGROUP_4_2"
+msgstr "一切都在你的掌握之中!"
+
+msgid "BOT_SURVIVOR_TEAMGROUP_4_3"
+msgstr "一個對全部!"
+
+msgid "BOT_SURVIVOR_TEAMGROUP_5"
+msgstr "就剩我了…"
+
+msgid "BOT_SURVIVOR_TEAMGROUP_5_1"
+msgstr "我們相信你!"
+
+msgid "BOT_SURVIVOR_TEAMGROUP_5_2"
+msgstr "一切都在你的掌握之中!"
+
+msgid "BOT_SURVIVOR_TEAMGROUP_5_3"
+msgstr "一個對全部!"
+
+msgid "BOT_SURVIVOR_TEAMGROUP_6"
+msgstr "這是我的機會…"
+
+msgid "BOT_SURVIVOR_TEAMGROUP_6_1"
+msgstr "我們相信你!"
+
+msgid "BOT_SURVIVOR_TEAMGROUP_6_2"
+msgstr "一切都在你的掌握之中!"
+
+msgid "BOT_SURVIVOR_TEAMGROUP_6_3"
+msgstr "一個對全部!"
+
+msgid "BOT_SURVIVOR_TEAMGROUP_7"
+msgstr "電腦AI的時代來臨…"
+
+msgid "BOT_SURVIVOR_TEAMGROUP_7_1"
+msgstr "我們相信你!"
+
+msgid "BOT_SURVIVOR_TEAMGROUP_7_2"
+msgstr "一切都在你的掌握之中!"
+
+msgid "BOT_SURVIVOR_TEAMGROUP_7_3"
+msgstr "一個對全部!"
+
+msgid "BOT_VICTORY_ALLSINGLE_1"
+msgstr "GG"
+
+msgid "BOT_VICTORY_ALLSINGLE_2"
+msgstr "謝謝"
+
+msgid "BOT_VICTORY_ALLSINGLE_3"
+msgstr "感謝"
+
+msgid "BOT_VICTORY_ALLSINGLE_4"
+msgstr "神隊友"
+
+msgid "BOT_VICTORY_ALLSINGLE_5"
+msgstr "多倍經驗收益!"
+
+msgid "BOT_VICTORY_ALLSINGLE_6"
+msgstr "大家幹得漂亮!"
+
+msgid "BOT_VICTORY_ALLSINGLE_7"
+msgstr "GG"
+
+msgid "BOT_VICTORY_ALLSINGLE_8"
+msgstr "我們一定能做到!"
+
+msgid "BOT_VICTORY_ALLSINGLE_9"
+msgstr "勝利的滋味是美妙的"
+
+msgid "BOT_VICTORY_TEAMSINGLE_1"
+msgstr "GG"
+
+msgid "BOT_VICTORY_TEAMSINGLE_2"
+msgstr "謝謝"
+
+msgid "BOT_VICTORY_TEAMSINGLE_3"
+msgstr "感謝"
+
+msgid "BOT_VICTORY_TEAMSINGLE_4"
+msgstr "神隊友"
+
+msgid "BOT_VICTORY_TEAMSINGLE_5"
+msgstr "多倍經驗收益!"
+
+msgid "BOT_VICTORY_TEAMSINGLE_6"
+msgstr "大家幹得漂亮!"
+
+msgid "BOT_VICTORY_TEAMSINGLE_7"
+msgstr "GG"
+
+msgid "BOT_VICTORY_TEAMSINGLE_8"
+msgstr "我們一定能做到!"
+
+msgid "BOT_WINNING_ALLGROUP_1"
+msgstr "我們1:0領先!"
+
+msgid "BOT_WINNING_ALLGROUP_1_1"
+msgstr "下次等著瞧!"
+
+msgid "BOT_WINNING_ALLGROUP_1_2"
+msgstr "出問題了"
+
+msgid "BOT_WINNING_ALLGROUP_2"
+msgstr "AI都比你強!"
+
+msgid "BOT_WINNING_ALLGROUP_2_1"
+msgstr "下次等著瞧!"
+
+msgid "BOT_WINNING_ALLGROUP_2_2"
+msgstr "出問題了"
+
+msgid "BOT_WINNING_TEAMSINGLE_1"
+msgstr "堅持住!"
+
+msgid "BOT_WINNING_TEAMSINGLE_10"
+msgstr "我會獲得獎勵的!"
+
+msgid "BOT_WINNING_TEAMSINGLE_2"
+msgstr "儘可能的去取勝!"
+
+msgid "BOT_WINNING_TEAMSINGLE_3"
+msgstr "完成任務"
+
+msgid "BOT_WINNING_TEAMSINGLE_4"
+msgstr "快贏了"
+
+msgid "BOT_WINNING_TEAMSINGLE_5"
+msgstr "我們還要再加把勁"
+
+msgid "BOT_WINNING_TEAMSINGLE_6"
+msgstr "我們贏了!"
+
+msgid "BOT_WINNING_TEAMSINGLE_7"
+msgstr "勝利了!"
+
+msgid "BOT_WINNING_TEAMSINGLE_8"
+msgstr "集體行動更容易活下來"
+
+msgid "BOT_WINNING_TEAMSINGLE_9"
+msgstr "就要獲勝了"
+
+msgid "BOT_CHAT_BOMBER_HELP_MESSAGES_BOMBSCOPE_1"
+msgstr "Approaching target area! Switching to bombsight mode (Left Shift)."
+
+msgid "BOT_CHAT_BOMBER_HELP_MESSAGES_BOMBSCOPE_2"
+msgstr "Targets in the bombsight! Commencing bombing (Left Shift)."
+
+msgid "BOT_CHAT_BOMBER_HELP_MESSAGES_REARGUNNER"
+msgstr "Enemy on my tail! Switching to the gunner mode (T)."
+
+msgid "BOT_JA_TR_ALLSINGLE_1"
+msgstr "Who's gonna participate in the event tonight?"
+
+msgid "BOT_JA_TR_ALLSINGLE_2"
+msgstr "Hey, which side should I choose?"
+
+msgid "BOT_JA_TR_ALLSINGLE_3"
+msgstr "Has anyone got a plane from the new branch?"
+
+msgid "BOT_JA_TR_ALLSINGLE_4"
+msgstr "So who got what from their loot crates?"
+
+msgid "BOT_JA_TR_ALLSINGLE_5"
+msgstr ""
+"Got a mission for a Japanese plane from the loot crate. Now just need to "
+"complete it!"
+
+msgid "BOT_JA_TR_ALLSINGLE_6"
+msgstr "Which plane type is best for the current event?"
+
+msgid "BOT_JA_TR_BEFORE_BATTLE_ALLY_1"
+msgstr "Come fly on our side! There's a Pancake with us!"
+
+msgid "BOT_JA_TR_BEFORE_BATTLE_ALLY_2"
+msgstr "Roll call: who's going to fight on the Allied side?"
+
+msgid "BOT_JA_TR_BEFORE_BATTLE_ALLY_3"
+msgstr "Hey, Axis! Gonna attack us again?"
+
+msgid "BOT_JA_TR_BEFORE_BATTLE_AXIS_1"
+msgstr "Ready to fight, Allies?"
+
+msgid "BOT_JA_TR_BEFORE_BATTLE_AXIS_2"
+msgstr "Let's see how you, Allies, will defend tonight!"
+
+msgid "BOT_JA_TR_BEFORE_BATTLE_AXIS_3"
+msgstr "Pilot! We need you for the Axis to capture the Pacific Ocean!"
+
+msgid "BOT_JA_TR_BEFORE_IN_BATTLE_ALLY_1"
+msgstr "No mercy for the enemy! Stand your ground!"
+
+msgid "BOT_JA_TR_BEFORE_IN_BATTLE_ALLY_2"
+msgstr "Press the attack to counter the cunning of the enemy!"
+
+msgid "BOT_JA_TR_BEFORE_IN_BATTLE_ALLY_3"
+msgstr "There's nowhere to retreat! Attack!"
+
+msgid "BOT_JA_TR_BEFORE_IN_BATTLE_ALLY_4"
+msgstr "I will surely bring home a katana from this battle."
+
+msgid "BOT_JA_TR_BEFORE_IN_BATTLE_ALLY_5"
+msgstr ""
+"Only wreckage will remain of the enemy aircraft by the end of the battle!"
+
+msgid "BOT_JA_TR_BEFORE_IN_BATTLE_ALLY_6"
+msgstr ""
+"Perfect, we won't event have to search for loot. They are bringing it to us!"
+
+msgid "BOT_JA_TR_BEFORE_IN_BATTLE_ALLY_7"
+msgstr "We didn't start this fight but we will surely end it."
+
+msgid "BOT_JA_TR_BEFORE_IN_BATTLE_AXIS_1"
+msgstr "The ocean will be ours!"
+
+msgid "BOT_JA_TR_BEFORE_IN_BATTLE_AXIS_2"
+msgstr "Dang it! My katana doesn't fit in the cockpit!"
+
+msgid "BOT_JA_TR_BEFORE_IN_BATTLE_AXIS_3"
+msgstr "In the morning our flags will wave over the skies!"
+
+msgid "BOT_JA_TR_BEFORE_IN_BATTLE_AXIS_4"
+msgstr "You have no chance to hold your ground!"
+
+msgid "BOT_JA_TR_BEFORE_IN_BATTLE_AXIS_5"
+msgstr "Pilots! Your courage will not be forgotten!"
+
+msgid "BOT_JA_TR_BEFORE_IN_BATTLE_AXIS_6"
+msgstr "Capture the Pacific Ocean and all loot crates will be ours!"
+
+msgid "BOT_JA_TR_BEFORE_IN_BATTLE_AXIS_7"
+msgstr ""
+"The wind from the islands is carrying my wings. The enemy will be defeated!"
+
+msgid "BOT_JA_TR_BEFORE_IN_BATTLE_AXIS_8"
+msgstr "The fire of the rising sun is guiding my aircraft. Banzai!"
+
+msgid "BOT_LTO_ALLGROUP_1"
+msgstr "Has anyone tried the new A6M3 (exp.)?"
+
+msgid "BOT_LTO_ALLGROUP_1_1"
+msgstr "I earned a Gorovets with it in the last battle!"
+
+msgid "BOT_LTO_ALLSINGLE_1"
+msgstr "Ooh, the new Premium Japanese plane deals massive damage!"
+
+msgid "BOT_LTO_ALLSINGLE_2"
+msgstr "The A6M3 is cool! Good at damage and maneuverability!"
+
+msgid "BOT_LTO_ALLSINGLE_3"
+msgstr ""
+"What's the best way to spend the 5 skill points of the A6M3? Any advice?"
+
+msgid "BOT_LTO_ALLSINGLE_4"
+msgstr "I absolutely love the new large-caliber Japanese plane!"
+
+msgid "BOT_LTO_ALLSINGLE_5"
+msgstr "What's best to upgrade in the A6M3: the engine or damage ability?"
+
+msgid "BOT_LTO_ALLSINGLE_6"
+msgstr "It's a dream come true! They finally added the Zero with 30 mm cannon!"
+
+msgid "BOT_LTO_ALLSINGLE_7"
+msgstr ""
+"The regular Zero is like a samurai with a knife, the new A6M3 is like a "
+"samurai with a sword."
+
+msgid "BOT_LTO_ALLSINGLE_8"
+msgstr ""
+"With the A6M5, I have to dodge all the time. With the new Premium plane, "
+"THEY have to dodge me."
+
+msgid "BOT_LTO_ALLSINGLE_9"
+msgstr "The A6M3 is deadly in close combat"

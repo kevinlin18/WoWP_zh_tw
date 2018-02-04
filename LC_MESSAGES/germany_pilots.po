@@ -1,0 +1,3830 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: World Of Tanks\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-06-01 10:00+0300\n"
+"PO-Revision-Date: 2010-06-01 10:00+0300\n"
+"Last-Translator: WoT Translator <noreply@wargaming.net>\n"
+"Language-Team: WoT Team <noreply@wargaming.net>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "NAMES/GER1"
+msgstr "亞琛"
+
+msgid "NAMES/GER10"
+msgstr "阿爾佈雷希"
+
+msgid "NAMES/GER100"
+msgstr "博徹特"
+
+msgid "NAMES/GER101"
+msgstr "保羅威特斯"
+
+msgid "NAMES/GER102"
+msgstr "伯士"
+
+msgid "NAMES/GER103"
+msgstr "鮑士"
+
+msgid "NAMES/GER104"
+msgstr "伯特格爾"
+
+msgid "NAMES/GER105"
+msgstr "布愛克特"
+
+msgid "NAMES/GER106"
+msgstr "布蘭登貝格爾"
+
+msgid "NAMES/GER107"
+msgstr "布蘭德納"
+
+msgid "NAMES/GER108"
+msgstr "勃蘭特"
+
+msgid "NAMES/GER109"
+msgstr "布萊士"
+
+msgid "NAMES/GER11"
+msgstr "阿爾丁格"
+
+msgid "NAMES/GER110"
+msgstr "布魯爾"
+
+msgid "NAMES/GER111"
+msgstr "布爾"
+
+msgid "NAMES/GER112"
+msgstr "布蘭"
+
+msgid "NAMES/GER113"
+msgstr "佈雷特"
+
+msgid "NAMES/GER114"
+msgstr "佈雷普"
+
+msgid "NAMES/GER115"
+msgstr "布賴特威斯"
+
+msgid "NAMES/GER116"
+msgstr "布蘭尼斯"
+
+msgid "NAMES/GER117"
+msgstr "布魯海姆"
+
+msgid "NAMES/GER118"
+msgstr "布魯爾"
+
+msgid "NAMES/GER119"
+msgstr "布克海姆"
+
+msgid "NAMES/GER12"
+msgstr "阿門丁格"
+
+msgid "NAMES/GER120"
+msgstr "布赫"
+
+msgid "NAMES/GER121"
+msgstr "比留斯"
+
+msgid "NAMES/GER122"
+msgstr "賓勾"
+
+msgid "NAMES/GER123"
+msgstr "賓勾勞"
+
+msgid "NAMES/GER124"
+msgstr "布格多夫"
+
+msgid "NAMES/GER125"
+msgstr "卡恩"
+
+msgid "NAMES/GER126"
+msgstr "萊曼"
+
+msgid "NAMES/GER127"
+msgstr "布特"
+
+msgid "NAMES/GER128"
+msgstr "巴士"
+
+msgid "NAMES/GER129"
+msgstr "伯梅"
+
+msgid "NAMES/GER13"
+msgstr "梅舍爾德"
+
+msgid "NAMES/GER130"
+msgstr "科赤"
+
+msgid "NAMES/GER131"
+msgstr "克瑞斯"
+
+msgid "NAMES/GER132"
+msgstr "克里斯特恩"
+
+msgid "NAMES/GER133"
+msgstr "克勞斯-奧勒"
+
+msgid "NAMES/GER134"
+msgstr "克勞森"
+
+msgid "NAMES/GER135"
+msgstr "康拉斯"
+
+msgid "NAMES/GER136"
+msgstr "克拉默"
+
+msgid "NAMES/GER137"
+msgstr "克雷默"
+
+msgid "NAMES/GER138"
+msgstr "林克"
+
+msgid "NAMES/GER139"
+msgstr "雷默"
+
+msgid "NAMES/GER14"
+msgstr "阿爾文斯萊本"
+
+msgid "NAMES/GER140"
+msgstr "鮑曼"
+
+msgid "NAMES/GER141"
+msgstr "達爾"
+
+msgid "NAMES/GER142"
+msgstr "達姆"
+
+msgid "NAMES/GER143"
+msgstr "達姆勞"
+
+msgid "NAMES/GER144"
+msgstr "齊格"
+
+msgid "NAMES/GER145"
+msgstr "巴拉克"
+
+msgid "NAMES/GER146"
+msgstr "裡肯"
+
+msgid "NAMES/GER147"
+msgstr "弗林斯"
+
+msgid "NAMES/GER148"
+msgstr "德格雷爾"
+
+msgid "NAMES/GER149"
+msgstr "德納"
+
+msgid "NAMES/GER15"
+msgstr "阿梅倫"
+
+msgid "NAMES/GER150"
+msgstr "戴希曼"
+
+msgid "NAMES/GER151"
+msgstr "德梅胡貝爾"
+
+msgid "NAMES/GER152"
+msgstr "丹尼哈特"
+
+msgid "NAMES/GER153"
+msgstr "德里克魏勒"
+
+msgid "NAMES/GER154"
+msgstr "德米策爾"
+
+msgid "NAMES/GER155"
+msgstr "哈納耳"
+
+msgid "NAMES/GER156"
+msgstr "德特勒夫森"
+
+msgid "NAMES/GER157"
+msgstr "傑裡梅斯"
+
+msgid "NAMES/GER158"
+msgstr "德維茨"
+
+msgid "NAMES/GER159"
+msgstr "迪德里克"
+
+msgid "NAMES/GER16"
+msgstr "布萊克伯德"
+
+msgid "NAMES/GER160"
+msgstr "迪姆"
+
+msgid "NAMES/GER161"
+msgstr "狄克曼"
+
+msgid "NAMES/GER162"
+msgstr "丁斯特巴赫"
+
+msgid "NAMES/GER163"
+msgstr "迪什瑞特"
+
+msgid "NAMES/GER164"
+msgstr "迪特爾"
+
+msgid "NAMES/GER165"
+msgstr "迪利"
+
+msgid "NAMES/GER166"
+msgstr "拉米勞"
+
+msgid "NAMES/GER167"
+msgstr "迪特馬爾"
+
+msgid "NAMES/GER168"
+msgstr "多勒察勒克"
+
+msgid "NAMES/GER169"
+msgstr "施耐德"
+
+msgid "NAMES/GER17"
+msgstr "安徒生"
+
+msgid "NAMES/GER170"
+msgstr "多恩貝格爾"
+
+msgid "NAMES/GER171"
+msgstr "德爾"
+
+msgid "NAMES/GER172"
+msgstr "多斯特勒"
+
+msgid "NAMES/GER173"
+msgstr "阿薩姆薩"
+
+msgid "NAMES/GER174"
+msgstr "德雷克塞爾"
+
+msgid "NAMES/GER175"
+msgstr "比爾霍夫"
+
+msgid "NAMES/GER176"
+msgstr "伯德"
+
+msgid "NAMES/GER177"
+msgstr "德累斯頓"
+
+msgid "NAMES/GER178"
+msgstr "揚克爾"
+
+msgid "NAMES/GER179"
+msgstr "克勞斯-奧勒"
+
+msgid "NAMES/GER18"
+msgstr "安格恩"
+
+msgid "NAMES/GER180"
+msgstr "漢克杜"
+
+msgid "NAMES/GER181"
+msgstr "迪埃爾/德爾"
+
+msgid "NAMES/GER182"
+msgstr "諾伊維爾"
+
+msgid "NAMES/GER183"
+msgstr "埃貝林"
+
+msgid "NAMES/GER184"
+msgstr "埃貝哈特"
+
+msgid "NAMES/GER185"
+msgstr "埃伯斯巴赫"
+
+msgid "NAMES/GER186"
+msgstr "埃伯斯坦"
+
+msgid "NAMES/GER187"
+msgstr "埃德爾貝格"
+
+msgid "NAMES/GER188"
+msgstr "埃格"
+
+msgid "NAMES/GER189"
+msgstr "埃勒"
+
+msgid "NAMES/GER19"
+msgstr "安德里亞斯"
+
+msgid "NAMES/GER190"
+msgstr "克里斯蒂安"
+
+msgid "NAMES/GER191"
+msgstr "艾布爾"
+
+msgid "NAMES/GER192"
+msgstr "埃康"
+
+msgid "NAMES/GER193"
+msgstr "埃切爾伯格"
+
+msgid "NAMES/GER194"
+msgstr "艾希曼"
+
+msgid "NAMES/GER195"
+msgstr "艾菲爾"
+
+msgid "NAMES/GER196"
+msgstr "艾恩西德爾"
+
+msgid "NAMES/GER197"
+msgstr "艾森伯格"
+
+msgid "NAMES/GER198"
+msgstr "艾森豪爾"
+
+msgid "NAMES/GER199"
+msgstr "埃倫貝克"
+
+msgid "NAMES/GER2"
+msgstr "弗雷德裡克"
+
+msgid "NAMES/GER20"
+msgstr "阿恩特"
+
+msgid "NAMES/GER200"
+msgstr "弗蘭蒂"
+
+msgid "NAMES/GER201"
+msgstr "漢斯"
+
+msgid "NAMES/GER202"
+msgstr "喬納斯"
+
+msgid "NAMES/GER203"
+msgstr "榮格"
+
+msgid "NAMES/GER204"
+msgstr "恩德雷斯"
+
+msgid "NAMES/GER205"
+msgstr "恩德魯魏特"
+
+msgid "NAMES/GER206"
+msgstr "於爾根"
+
+msgid "NAMES/GER207"
+msgstr "恩格爾哈特"
+
+msgid "NAMES/GER208"
+msgstr "恩格爾霍恩"
+
+msgid "NAMES/GER209"
+msgstr "埃德曼"
+
+msgid "NAMES/GER21"
+msgstr "阿尼姆"
+
+msgid "NAMES/GER210"
+msgstr "卡爾尤姆"
+
+msgid "NAMES/GER211"
+msgstr "奧伊林格"
+
+msgid "NAMES/GER212"
+msgstr "法貝爾"
+
+msgid "NAMES/GER213"
+msgstr "費貝爾"
+
+msgid "NAMES/GER214"
+msgstr "馬克"
+
+msgid "NAMES/GER215"
+msgstr "法肯豪森"
+
+msgid "NAMES/GER216"
+msgstr "法爾肯霍斯特"
+
+msgid "NAMES/GER217"
+msgstr "費爾肯斯坦"
+
+msgid "NAMES/GER218"
+msgstr "法利"
+
+msgid "NAMES/GER219"
+msgstr "範格"
+
+msgid "NAMES/GER22"
+msgstr "阿普斯"
+
+msgid "NAMES/GER220"
+msgstr "法斯賓德"
+
+msgid "NAMES/GER221"
+msgstr "馬庫斯"
+
+msgid "NAMES/GER222"
+msgstr "費格萊恩"
+
+msgid "NAMES/GER223"
+msgstr "費恩"
+
+msgid "NAMES/GER224"
+msgstr "邁克爾"
+
+msgid "NAMES/GER225"
+msgstr "費爾伯"
+
+msgid "NAMES/GER226"
+msgstr "費爾德鮑施"
+
+msgid "NAMES/GER227"
+msgstr "費爾德曼"
+
+msgid "NAMES/GER228"
+msgstr "彼德"
+
+msgid "NAMES/GER229"
+msgstr "費爾根豪爾"
+
+msgid "NAMES/GER23"
+msgstr "阿斯曼"
+
+msgid "NAMES/GER230"
+msgstr "費克吉貝爾"
+
+msgid "NAMES/GER231"
+msgstr "費爾米"
+
+msgid "NAMES/GER232"
+msgstr "弗爾茨曼"
+
+msgid "NAMES/GER233"
+msgstr "芬斯特曼徹"
+
+msgid "NAMES/GER234"
+msgstr "費伯"
+
+msgid "NAMES/GER235"
+msgstr "拉爾夫"
+
+msgid "NAMES/GER236"
+msgstr "羅爾夫"
+
+msgid "NAMES/GER237"
+msgstr "福伊希廷格爾"
+
+msgid "NAMES/GER238"
+msgstr "弗爾斯坦"
+
+msgid "NAMES/GER239"
+msgstr "費耶阿本德"
+
+msgid "NAMES/GER24"
+msgstr "奧洛克"
+
+msgid "NAMES/GER240"
+msgstr "菲希特納"
+
+msgid "NAMES/GER241"
+msgstr "斯蒂芬"
+
+msgid "NAMES/GER242"
+msgstr "菲德勒"
+
+msgid "NAMES/GER243"
+msgstr "菲肯切爾"
+
+msgid "NAMES/GER244"
+msgstr "託馬斯"
+
+msgid "NAMES/GER245"
+msgstr "菲爾賓格"
+
+msgid "NAMES/GER246"
+msgstr "海茨"
+
+msgid "NAMES/GER247"
+msgstr "芬奇"
+
+msgid "NAMES/GER248"
+msgstr "菲爾克斯"
+
+msgid "NAMES/GER249"
+msgstr "卡爾尤姆"
+
+msgid "NAMES/GER25"
+msgstr "奧斯特利茨"
+
+msgid "NAMES/GER250"
+msgstr "菲捨爾"
+
+msgid "NAMES/GER251"
+msgstr "梅耶"
+
+msgid "NAMES/GER252"
+msgstr "馬克西米連"
+
+msgid "NAMES/GER253"
+msgstr "安德里亞斯"
+
+msgid "NAMES/GER254"
+msgstr "弗萊施哈克爾"
+
+msgid "NAMES/GER255"
+msgstr "米歇爾斯"
+
+msgid "NAMES/GER256"
+msgstr "福斯特"
+
+msgid "NAMES/GER257"
+msgstr "弗奇"
+
+msgid "NAMES/GER258"
+msgstr "丹尼爾"
+
+msgid "NAMES/GER259"
+msgstr "福施納"
+
+msgid "NAMES/GER26"
+msgstr "巴博爾"
+
+msgid "NAMES/GER260"
+msgstr "福里斯特"
+
+msgid "NAMES/GER261"
+msgstr "法蘭克福"
+
+msgid "NAMES/GER262"
+msgstr "君特"
+
+msgid "NAMES/GER263"
+msgstr "沃夫崗"
+
+msgid "NAMES/GER264"
+msgstr "馬蹄亞斯"
+
+msgid "NAMES/GER265"
+msgstr "弗雷利奇"
+
+msgid "NAMES/GER266"
+msgstr "弗洛伊德"
+
+msgid "NAMES/GER267"
+msgstr "弗裡德里西"
+
+msgid "NAMES/GER268"
+msgstr "弗裡貝"
+
+msgid "NAMES/GER269"
+msgstr "阿茨"
+
+msgid "NAMES/GER27"
+msgstr "阿朔夫"
+
+msgid "NAMES/GER270"
+msgstr "弗裡德曼"
+
+msgid "NAMES/GER271"
+msgstr "阿斯豪爾"
+
+msgid "NAMES/GER272"
+msgstr "阿斯密斯"
+
+msgid "NAMES/GER273"
+msgstr "弗裡茨奇"
+
+msgid "NAMES/GER274"
+msgstr "弗魯"
+
+msgid "NAMES/GER275"
+msgstr "弗魯夫"
+
+msgid "NAMES/GER276"
+msgstr "米格爾"
+
+msgid "NAMES/GER277"
+msgstr "安東尼"
+
+msgid "NAMES/GER278"
+msgstr "富爾斯特"
+
+msgid "NAMES/GER279"
+msgstr "米爾西鵬"
+
+msgid "NAMES/GER28"
+msgstr "梅耶爾巴赫"
+
+msgid "NAMES/GER280"
+msgstr "卡特"
+
+msgid "NAMES/GER281"
+msgstr "米爾貝格爾"
+
+msgid "NAMES/GER282"
+msgstr "米爾豪澤"
+
+msgid "NAMES/GER283"
+msgstr "富塞內格爾"
+
+msgid "NAMES/GER284"
+msgstr "加布勒"
+
+msgid "NAMES/GER285"
+msgstr "格特納"
+
+msgid "NAMES/GER286"
+msgstr "加朗"
+
+msgid "NAMES/GER287"
+msgstr "甘森"
+
+msgid "NAMES/GER288"
+msgstr "格茨"
+
+msgid "NAMES/GER289"
+msgstr "米倫費爾斯"
+
+msgid "NAMES/GER29"
+msgstr "米勞"
+
+msgid "NAMES/GER290"
+msgstr "根岑"
+
+msgid "NAMES/GER291"
+msgstr "米茨"
+
+msgid "NAMES/GER292"
+msgstr "蓋裡克"
+
+msgid "NAMES/GER293"
+msgstr "格拉克"
+
+msgid "NAMES/GER294"
+msgstr "耶利克"
+
+msgid "NAMES/GER295"
+msgstr "耶斯多夫"
+
+msgid "NAMES/GER296"
+msgstr "萊姆尼茨"
+
+msgid "NAMES/GER297"
+msgstr "格舍"
+
+msgid "NAMES/GER298"
+msgstr "格耶"
+
+msgid "NAMES/GER299"
+msgstr "倫斯多費爾"
+
+msgid "NAMES/GER3"
+msgstr "倫斯貝爾德"
+
+msgid "NAMES/GER30"
+msgstr "貝德爾"
+
+msgid "NAMES/GER300"
+msgstr "吉爾"
+
+msgid "NAMES/GER301"
+msgstr "吉爾薩"
+
+msgid "NAMES/GER302"
+msgstr "吉爾根鬆"
+
+msgid "NAMES/GER303"
+msgstr "萊姆尼策"
+
+msgid "NAMES/GER304"
+msgstr "格拉澤"
+
+msgid "NAMES/GER305"
+msgstr "蘭德卡默"
+
+msgid "NAMES/GER306"
+msgstr "蘭佩西特"
+
+msgid "NAMES/GER307"
+msgstr "蘭佩特"
+
+msgid "NAMES/GER308"
+msgstr "蘭德勒"
+
+msgid "NAMES/GER309"
+msgstr "孔德爾"
+
+msgid "NAMES/GER31"
+msgstr "巴克"
+
+msgid "NAMES/GER310"
+msgstr "戈斯"
+
+msgid "NAMES/GER311"
+msgstr "戈爾德施密特"
+
+msgid "NAMES/GER312"
+msgstr "戈爾尼克"
+
+msgid "NAMES/GER313"
+msgstr "孔德勒"
+
+msgid "NAMES/GER314"
+msgstr "戈斯勒"
+
+msgid "NAMES/GER315"
+msgstr "戈斯納"
+
+msgid "NAMES/GER316"
+msgstr "戈特貝格"
+
+msgid "NAMES/GER317"
+msgstr "戈特利布"
+
+msgid "NAMES/GER318"
+msgstr "戈特沙爾克"
+
+msgid "NAMES/GER319"
+msgstr "庫爾斯"
+
+msgid "NAMES/GER32"
+msgstr "貝爾"
+
+msgid "NAMES/GER320"
+msgstr "格蘭澤"
+
+msgid "NAMES/GER321"
+msgstr "屈爾普斯"
+
+msgid "NAMES/GER322"
+msgstr "庫爾奇斯基"
+
+msgid "NAMES/GER323"
+msgstr "格拉塞爾"
+
+msgid "NAMES/GER324"
+msgstr "曲納斯"
+
+msgid "NAMES/GER325"
+msgstr "格拉茨"
+
+msgid "NAMES/GER326"
+msgstr "格勞爾特"
+
+msgid "NAMES/GER327"
+msgstr "庫那斯"
+
+msgid "NAMES/GER328"
+msgstr "格萊姆"
+
+msgid "NAMES/GER329"
+msgstr "孔貝格爾"
+
+msgid "NAMES/GER33"
+msgstr "拜爾"
+
+msgid "NAMES/GER330"
+msgstr "孔達爾"
+
+msgid "NAMES/GER331"
+msgstr "屈爾曼"
+
+msgid "NAMES/GER332"
+msgstr "格里斯巴奇"
+
+msgid "NAMES/GER333"
+msgstr "屈而梅爾"
+
+msgid "NAMES/GER334"
+msgstr "金佩爾"
+
+msgid "NAMES/GER335"
+msgstr "格羅斯庫特"
+
+msgid "NAMES/GER336"
+msgstr "格羅斯"
+
+msgid "NAMES/GER337"
+msgstr "格呂內瓦爾德"
+
+msgid "NAMES/GER338"
+msgstr "金佩爾斯"
+
+msgid "NAMES/GER339"
+msgstr "格魯內瓦爾德"
+
+msgid "NAMES/GER34"
+msgstr "孔普大"
+
+msgid "NAMES/GER340"
+msgstr "古德柳斯"
+
+msgid "NAMES/GER341"
+msgstr "古根伯格"
+
+msgid "NAMES/GER342"
+msgstr "庫拉斯"
+
+msgid "NAMES/GER343"
+msgstr "古特克內希特"
+
+msgid "NAMES/GER344"
+msgstr "克林"
+
+msgid "NAMES/GER345"
+msgstr "哈克"
+
+msgid "NAMES/GER346"
+msgstr "哈爾德"
+
+msgid "NAMES/GER347"
+msgstr "阿斯"
+
+msgid "NAMES/GER348"
+msgstr "赫夫特"
+
+msgid "NAMES/GER349"
+msgstr "黑弗尼克"
+
+msgid "NAMES/GER35"
+msgstr "克佩爾"
+
+msgid "NAMES/GER350"
+msgstr "哈納斯"
+
+msgid "NAMES/GER351"
+msgstr "哈季曼"
+
+msgid "NAMES/GER352"
+msgstr "哈根"
+
+msgid "NAMES/GER353"
+msgstr "科曼斯豪斯"
+
+msgid "NAMES/GER354"
+msgstr "克默"
+
+msgid "NAMES/GER355"
+msgstr "科爾夫"
+
+msgid "NAMES/GER356"
+msgstr "克費爾"
+
+msgid "NAMES/GER357"
+msgstr "剋夫根"
+
+msgid "NAMES/GER358"
+msgstr "科夫曼"
+
+msgid "NAMES/GER359"
+msgstr "科恩胡貝爾"
+
+msgid "NAMES/GER36"
+msgstr "巴爾克"
+
+msgid "NAMES/GER360"
+msgstr "科恩霍費爾"
+
+msgid "NAMES/GER361"
+msgstr "科內爾"
+
+msgid "NAMES/GER362"
+msgstr "科內柳斯"
+
+msgid "NAMES/GER363"
+msgstr "哈德根"
+
+msgid "NAMES/GER364"
+msgstr "哈林豪森"
+
+msgid "NAMES/GER365"
+msgstr "哈爾佩"
+
+msgid "NAMES/GER366"
+msgstr "哈滕斯坦"
+
+msgid "NAMES/GER367"
+msgstr "科登"
+
+msgid "NAMES/GER368"
+msgstr "科特斯"
+
+msgid "NAMES/GER369"
+msgstr "哈特林"
+
+msgid "NAMES/GER37"
+msgstr "巴勞夫"
+
+msgid "NAMES/GER370"
+msgstr "哈特曼"
+
+msgid "NAMES/GER371"
+msgstr "哈特威格"
+
+msgid "NAMES/GER372"
+msgstr "哈斯"
+
+msgid "NAMES/GER373"
+msgstr "哈西"
+
+msgid "NAMES/GER374"
+msgstr "豪恩席爾德"
+
+msgid "NAMES/GER375"
+msgstr "施特格"
+
+msgid "NAMES/GER376"
+msgstr "豪塞爾"
+
+msgid "NAMES/GER377"
+msgstr "施特 格曼"
+
+msgid "NAMES/GER378"
+msgstr "施特爾"
+
+msgid "NAMES/GER379"
+msgstr "施特爾斯"
+
+msgid "NAMES/GER38"
+msgstr "巴爾塔薩"
+
+msgid "NAMES/GER380"
+msgstr "施陶法豪爾"
+
+msgid "NAMES/GER381"
+msgstr "施陶芬"
+
+msgid "NAMES/GER382"
+msgstr "施陶費爾"
+
+msgid "NAMES/GER383"
+msgstr "海爾曼"
+
+msgid "NAMES/GER384"
+msgstr "多伊不納"
+
+msgid "NAMES/GER385"
+msgstr "亨堡"
+
+msgid "NAMES/GER386"
+msgstr "亨利"
+
+msgid "NAMES/GER387"
+msgstr "海茵裡茨"
+
+msgid "NAMES/GER388"
+msgstr "海因裡克"
+
+msgid "NAMES/GER389"
+msgstr "海斯"
+
+msgid "NAMES/GER39"
+msgstr "巴爾策"
+
+msgid "NAMES/GER390"
+msgstr "海澤爾"
+
+msgid "NAMES/GER391"
+msgstr "多伊歇爾"
+
+msgid "NAMES/GER392"
+msgstr "海茨"
+
+msgid "NAMES/GER393"
+msgstr "海勒"
+
+msgid "NAMES/GER394"
+msgstr "海林格"
+
+msgid "NAMES/GER395"
+msgstr "黑爾裡格爾"
+
+msgid "NAMES/GER396"
+msgstr "多伊爾萊因"
+
+msgid "NAMES/GER397"
+msgstr "亨克"
+
+msgid "NAMES/GER398"
+msgstr "德特勒夫"
+
+msgid "NAMES/GER399"
+msgstr "多伊貝爾"
+
+msgid "NAMES/GER4"
+msgstr "阿博特"
+
+msgid "NAMES/GER40"
+msgstr "巴姆勒"
+
+msgid "NAMES/GER400"
+msgstr "赫普"
+
+msgid "NAMES/GER401"
+msgstr "赫夫"
+
+msgid "NAMES/GER402"
+msgstr "赫富"
+
+msgid "NAMES/GER403"
+msgstr "德特爾特"
+
+msgid "NAMES/GER404"
+msgstr "德塔德"
+
+msgid "NAMES/GER405"
+msgstr "赫爾曼"
+
+msgid "NAMES/GER406"
+msgstr "德塔爾丁"
+
+msgid "NAMES/GER407"
+msgstr "赫茲"
+
+msgid "NAMES/GER408"
+msgstr "赫佐格"
+
+msgid "NAMES/GER409"
+msgstr "赫爾瓦特"
+
+msgid "NAMES/GER41"
+msgstr "德蒂爾"
+
+msgid "NAMES/GER410"
+msgstr "埃費爾貝格"
+
+msgid "NAMES/GER411"
+msgstr "黑塞"
+
+msgid "NAMES/GER412"
+msgstr "赫茨"
+
+msgid "NAMES/GER413"
+msgstr "埃芬貝格爾"
+
+msgid "NAMES/GER414"
+msgstr "霍伊貝克"
+
+msgid "NAMES/GER415"
+msgstr "霍伊辛格"
+
+msgid "NAMES/GER416"
+msgstr "豪斯"
+
+msgid "NAMES/GER417"
+msgstr "赫耶"
+
+msgid "NAMES/GER418"
+msgstr "希爾德布朗"
+
+msgid "NAMES/GER419"
+msgstr "希爾奈德"
+
+msgid "NAMES/GER42"
+msgstr "鮑爾曹伊"
+
+msgid "NAMES/GER420"
+msgstr "希爾珀特"
+
+msgid "NAMES/GER421"
+msgstr "埃費爾"
+
+msgid "NAMES/GER422"
+msgstr "辛瑞契"
+
+msgid "NAMES/GER423"
+msgstr "欣澤"
+
+msgid "NAMES/GER424"
+msgstr "埃德爾斯貝格"
+
+msgid "NAMES/GER425"
+msgstr "埃德爾斯海姆"
+
+msgid "NAMES/GER426"
+msgstr "希施費爾德"
+
+msgid "NAMES/GER427"
+msgstr "埃德爾施泰因"
+
+msgid "NAMES/GER428"
+msgstr "埃德爾斯滕"
+
+msgid "NAMES/GER429"
+msgstr "普菲費爾"
+
+msgid "NAMES/GER43"
+msgstr "巴克霍恩"
+
+msgid "NAMES/GER430"
+msgstr "霍法克"
+
+msgid "NAMES/GER431"
+msgstr "霍夫曼"
+
+msgid "NAMES/GER432"
+msgstr "夫曼"
+
+msgid "NAMES/GER433"
+msgstr "霍夫曼斯特"
+
+msgid "NAMES/GER434"
+msgstr "霍夫斯泰特爾"
+
+msgid "NAMES/GER435"
+msgstr "霍格雷貝"
+
+msgid "NAMES/GER436"
+msgstr "霍曼"
+
+msgid "NAMES/GER437"
+msgstr "霍爾"
+
+msgid "NAMES/GER438"
+msgstr "霍爾斯特"
+
+msgid "NAMES/GER439"
+msgstr "普富格"
+
+msgid "NAMES/GER44"
+msgstr "普富爾"
+
+msgid "NAMES/GER440"
+msgstr "霍爾茨曼"
+
+msgid "NAMES/GER441"
+msgstr "皮亞切克"
+
+msgid "NAMES/GER442"
+msgstr "霍斯巴赫"
+
+msgid "NAMES/GER443"
+msgstr "皮貝爾"
+
+msgid "NAMES/GER444"
+msgstr "霍斯"
+
+msgid "NAMES/GER445"
+msgstr "皮坎德"
+
+msgid "NAMES/GER446"
+msgstr "皮歇特"
+
+msgid "NAMES/GER447"
+msgstr "皮希勒"
+
+msgid "NAMES/GER448"
+msgstr "皮希特"
+
+msgid "NAMES/GER449"
+msgstr "皮克"
+
+msgid "NAMES/GER45"
+msgstr "巴爾特"
+
+msgid "NAMES/GER450"
+msgstr "休伯"
+
+msgid "NAMES/GER451"
+msgstr "胡貝爾"
+
+msgid "NAMES/GER452"
+msgstr "胡佛"
+
+msgid "NAMES/GER453"
+msgstr "許布納"
+
+msgid "NAMES/GER454"
+msgstr "皮卡茨"
+
+msgid "NAMES/GER455"
+msgstr "許內爾"
+
+msgid "NAMES/GER456"
+msgstr "普菲茨納"
+
+msgid "NAMES/GER457"
+msgstr "胡特"
+
+msgid "NAMES/GER458"
+msgstr "法努埃爾"
+
+msgid "NAMES/GER459"
+msgstr "伊勒費爾德"
+
+msgid "NAMES/GER46"
+msgstr "普富次納"
+
+msgid "NAMES/GER460"
+msgstr "伊特斯"
+
+msgid "NAMES/GER461"
+msgstr "傑克爾"
+
+msgid "NAMES/GER462"
+msgstr "雅各布"
+
+msgid "NAMES/GER463"
+msgstr "耶格"
+
+msgid "NAMES/GER464"
+msgstr "耶內克"
+
+msgid "NAMES/GER465"
+msgstr "堯赫"
+
+msgid "NAMES/GER466"
+msgstr "耶順內克"
+
+msgid "NAMES/GER467"
+msgstr "約迪克"
+
+msgid "NAMES/GER468"
+msgstr "波拉格"
+
+msgid "NAMES/GER469"
+msgstr "波拉克"
+
+msgid "NAMES/GER47"
+msgstr "巴特爾"
+
+msgid "NAMES/GER470"
+msgstr "阿梅代"
+
+msgid "NAMES/GER471"
+msgstr "波拉特"
+
+msgid "NAMES/GER472"
+msgstr "容克"
+
+msgid "NAMES/GER473"
+msgstr "卡比施"
+
+msgid "NAMES/GER474"
+msgstr "珀勒"
+
+msgid "NAMES/GER475"
+msgstr "卡格內克"
+
+msgid "NAMES/GER476"
+msgstr "珀勒梅爾"
+
+msgid "NAMES/GER477"
+msgstr "凱瑟"
+
+msgid "NAMES/GER478"
+msgstr "波輪"
+
+msgid "NAMES/GER479"
+msgstr "卡姆胡伯"
+
+msgid "NAMES/GER48"
+msgstr "巴茨"
+
+msgid "NAMES/GER480"
+msgstr "波勒曼"
+
+msgid "NAMES/GER481"
+msgstr "誇斯"
+
+msgid "NAMES/GER482"
+msgstr "誇爾赫"
+
+msgid "NAMES/GER483"
+msgstr "凱爾"
+
+msgid "NAMES/GER484"
+msgstr "本傑明"
+
+msgid "NAMES/GER485"
+msgstr "庫茨"
+
+msgid "NAMES/GER486"
+msgstr "肯普夫"
+
+msgid "NAMES/GER487"
+msgstr "夸克"
+
+msgid "NAMES/GER488"
+msgstr "跨比烏斯"
+
+msgid "NAMES/GER489"
+msgstr "基爾曼斯埃格"
+
+msgid "NAMES/GER49"
+msgstr "拉斯特爾"
+
+msgid "NAMES/GER490"
+msgstr "基塞韋特"
+
+msgid "NAMES/GER491"
+msgstr "金策爾"
+
+msgid "NAMES/GER492"
+msgstr "基希巴赫尼"
+
+msgid "NAMES/GER493"
+msgstr "基什內爾"
+
+msgid "NAMES/GER494"
+msgstr "基爾希"
+
+msgid "NAMES/GER495"
+msgstr "拉希利爾"
+
+msgid "NAMES/GER496"
+msgstr "雷徹爾"
+
+msgid "NAMES/GER497"
+msgstr "基青格"
+
+msgid "NAMES/GER498"
+msgstr "拉希利太"
+
+msgid "NAMES/GER499"
+msgstr "克拉姆羅特"
+
+msgid "NAMES/GER5"
+msgstr "阿克曼"
+
+msgid "NAMES/GER50"
+msgstr "拉策爾"
+
+msgid "NAMES/GER500"
+msgstr "克拉特"
+
+msgid "NAMES/GER501"
+msgstr "克萊曼"
+
+msgid "NAMES/GER502"
+msgstr "桑德琳"
+
+msgid "NAMES/GER503"
+msgstr "克萊斯特"
+
+msgid "NAMES/GER504"
+msgstr "拉斯霍菲爾"
+
+msgid "NAMES/GER505"
+msgstr "克洛澤"
+
+msgid "NAMES/GER506"
+msgstr "克魯勃"
+
+msgid "NAMES/GER507"
+msgstr "拉青格"
+
+msgid "NAMES/GER508"
+msgstr "克納克"
+
+msgid "NAMES/GER509"
+msgstr "拉茨基"
+
+msgid "NAMES/GER51"
+msgstr "鮑姆巴赫"
+
+msgid "NAMES/GER510"
+msgstr "諾斯"
+
+msgid "NAMES/GER511"
+msgstr "拉爾"
+
+msgid "NAMES/GER512"
+msgstr "拉倫貝克"
+
+msgid "NAMES/GER513"
+msgstr "拉爾達"
+
+msgid "NAMES/GER514"
+msgstr "拉落夫"
+
+msgid "NAMES/GER515"
+msgstr "克諾貝爾斯多夫"
+
+msgid "NAMES/GER516"
+msgstr "諾克"
+
+msgid "NAMES/GER517"
+msgstr "瓦特"
+
+msgid "NAMES/GER518"
+msgstr "瓦克"
+
+msgid "NAMES/GER519"
+msgstr "克希林"
+
+msgid "NAMES/GER52"
+msgstr "鮑姆格特納"
+
+msgid "NAMES/GER520"
+msgstr "魏格"
+
+msgid "NAMES/GER521"
+msgstr "柯尼希"
+
+msgid "NAMES/GER522"
+msgstr "魏因"
+
+msgid "NAMES/GER523"
+msgstr "托夫尼克"
+
+msgid "NAMES/GER524"
+msgstr "科勒"
+
+msgid "NAMES/GER525"
+msgstr "科爾"
+
+msgid "NAMES/GER526"
+msgstr "托夫特"
+
+msgid "NAMES/GER527"
+msgstr "託椰"
+
+msgid "NAMES/GER528"
+msgstr "科爾頓"
+
+msgid "NAMES/GER529"
+msgstr "科茨弗萊施"
+
+msgid "NAMES/GER53"
+msgstr "拜耳"
+
+msgid "NAMES/GER530"
+msgstr "曹爾"
+
+msgid "NAMES/GER531"
+msgstr "菲西"
+
+msgid "NAMES/GER532"
+msgstr "克拉默"
+
+msgid "NAMES/GER533"
+msgstr "克蘭茨比勒"
+
+msgid "NAMES/GER534"
+msgstr "福格爾"
+
+msgid "NAMES/GER535"
+msgstr "瓦克斯"
+
+msgid "NAMES/GER536"
+msgstr "瓦德"
+
+msgid "NAMES/GER537"
+msgstr "希爾曼"
+
+msgid "NAMES/GER538"
+msgstr "特爾"
+
+msgid "NAMES/GER539"
+msgstr "克賴珀"
+
+msgid "NAMES/GER54"
+msgstr "拜爾萊因"
+
+msgid "NAMES/GER540"
+msgstr "克里舍默"
+
+msgid "NAMES/GER541"
+msgstr "克里貝爾"
+
+msgid "NAMES/GER542"
+msgstr "托夫"
+
+msgid "NAMES/GER543"
+msgstr "齊希"
+
+msgid "NAMES/GER544"
+msgstr "克魯格"
+
+msgid "NAMES/GER545"
+msgstr "庫珀"
+
+msgid "NAMES/GER546"
+msgstr "庫斯特"
+
+msgid "NAMES/GER547"
+msgstr "維希"
+
+msgid "NAMES/GER548"
+msgstr "克塞爾"
+
+msgid "NAMES/GER549"
+msgstr "克森"
+
+msgid "NAMES/GER55"
+msgstr "貝肯鮑爾"
+
+msgid "NAMES/GER550"
+msgstr "凱克"
+
+msgid "NAMES/GER551"
+msgstr "庫恩"
+
+msgid "NAMES/GER552"
+msgstr "基希巴赫"
+
+msgid "NAMES/GER553"
+msgstr "基希納"
+
+msgid "NAMES/GER554"
+msgstr "柯尼希"
+
+msgid "NAMES/GER555"
+msgstr "孔特納"
+
+msgid "NAMES/GER556"
+msgstr "孔希"
+
+msgid "NAMES/GER557"
+msgstr "柯尼希"
+
+msgid "NAMES/GER558"
+msgstr "祖爾姆"
+
+msgid "NAMES/GER559"
+msgstr "蘭伯特"
+
+msgid "NAMES/GER56"
+msgstr "貝恩"
+
+msgid "NAMES/GER560"
+msgstr "蘭肯"
+
+msgid "NAMES/GER561"
+msgstr "蘭格拉夫"
+
+msgid "NAMES/GER562"
+msgstr "布律諾"
+
+msgid "NAMES/GER563"
+msgstr "祖爾曼"
+
+msgid "NAMES/GER564"
+msgstr "蘭格曼"
+
+msgid "NAMES/GER565"
+msgstr "朗斯多爾夫"
+
+msgid "NAMES/GER566"
+msgstr "蘭茨"
+
+msgid "NAMES/GER567"
+msgstr "祖賴"
+
+msgid "NAMES/GER568"
+msgstr "聚爾策"
+
+msgid "NAMES/GER569"
+msgstr "蘇姆"
+
+msgid "NAMES/GER57"
+msgstr "貝洱"
+
+msgid "NAMES/GER570"
+msgstr "祖馬"
+
+msgid "NAMES/GER571"
+msgstr "勞厄"
+
+msgid "NAMES/GER572"
+msgstr "列傑布爾"
+
+msgid "NAMES/GER573"
+msgstr "萊曼"
+
+msgid "NAMES/GER574"
+msgstr "聚邁爾"
+
+msgid "NAMES/GER575"
+msgstr "祖爾曼"
+
+msgid "NAMES/GER576"
+msgstr "萊布蘭特"
+
+msgid "NAMES/GER577"
+msgstr "蘭布蘭德"
+
+msgid "NAMES/GER578"
+msgstr "蘇伊西"
+
+msgid "NAMES/GER579"
+msgstr "勒普"
+
+msgid "NAMES/GER58"
+msgstr "貝倫特"
+
+msgid "NAMES/GER580"
+msgstr "拜尼爾德"
+
+msgid "NAMES/GER581"
+msgstr "倫特"
+
+msgid "NAMES/GER582"
+msgstr "祖普利"
+
+msgid "NAMES/GER583"
+msgstr "辛斯克斯"
+
+msgid "NAMES/GER584"
+msgstr "祖佩"
+
+msgid "NAMES/GER585"
+msgstr "萊溫斯基"
+
+msgid "NAMES/GER586"
+msgstr "巴特梅斯"
+
+msgid "NAMES/GER587"
+msgstr "巴爾圖斯"
+
+msgid "NAMES/GER588"
+msgstr "巴託爾迪"
+
+msgid "NAMES/GER589"
+msgstr "利布曼"
+
+msgid "NAMES/GER59"
+msgstr "貝奇"
+
+msgid "NAMES/GER590"
+msgstr "利迪希"
+
+msgid "NAMES/GER591"
+msgstr "利特克"
+
+msgid "NAMES/GER592"
+msgstr "巴圖斯"
+
+msgid "NAMES/GER593"
+msgstr "巴圖沙特"
+
+msgid "NAMES/GER594"
+msgstr "利林塔爾"
+
+msgid "NAMES/GER595"
+msgstr "利貝格"
+
+msgid "NAMES/GER596"
+msgstr "林投斯"
+
+msgid "NAMES/GER597"
+msgstr "林納茨"
+
+msgid "NAMES/GER598"
+msgstr "利普弗特"
+
+msgid "NAMES/GER599"
+msgstr "利珀特"
+
+msgid "NAMES/GER6"
+msgstr "巴託爾梅"
+
+msgid "NAMES/GER60"
+msgstr "巴爾奇"
+
+msgid "NAMES/GER600"
+msgstr "勒爾策"
+
+msgid "NAMES/GER601"
+msgstr "羅意威"
+
+msgid "NAMES/GER602"
+msgstr "洛漢弗"
+
+msgid "NAMES/GER603"
+msgstr "洛斯"
+
+msgid "NAMES/GER604"
+msgstr "巴呂斯科"
+
+msgid "NAMES/GER605"
+msgstr "拉貝"
+
+msgid "NAMES/GER606"
+msgstr "盧克納"
+
+msgid "NAMES/GER607"
+msgstr "盧丁"
+
+msgid "NAMES/GER608"
+msgstr "巴爾奇"
+
+msgid "NAMES/GER609"
+msgstr "巴爾恩斯"
+
+msgid "NAMES/GER61"
+msgstr "巴龍"
+
+msgid "NAMES/GER610"
+msgstr "巴羅寧"
+
+msgid "NAMES/GER611"
+msgstr "盧特"
+
+msgid "NAMES/GER612"
+msgstr "巴里希"
+
+msgid "NAMES/GER613"
+msgstr "呂特延斯"
+
+msgid "NAMES/GER614"
+msgstr "巴里翁"
+
+msgid "NAMES/GER615"
+msgstr "馬德爾"
+
+msgid "NAMES/GER616"
+msgstr "馬勒"
+
+msgid "NAMES/GER617"
+msgstr "邁爾"
+
+msgid "NAMES/GER618"
+msgstr "梅塞爾"
+
+msgid "NAMES/GER619"
+msgstr "邁齊埃"
+
+msgid "NAMES/GER62"
+msgstr "阿勒曼"
+
+msgid "NAMES/GER620"
+msgstr "艾歇勒"
+
+msgid "NAMES/GER621"
+msgstr "馬爾希塔勒"
+
+msgid "NAMES/GER622"
+msgstr "阿勒邁爾"
+
+msgid "NAMES/GER623"
+msgstr "阿梅代"
+
+msgid "NAMES/GER624"
+msgstr "馬維茨"
+
+msgid "NAMES/GER625"
+msgstr "庫特烏茲"
+
+msgid "NAMES/GER626"
+msgstr "艾歇林"
+
+msgid "NAMES/GER627"
+msgstr "艾興"
+
+msgid "NAMES/GER628"
+msgstr "莫斯"
+
+msgid "NAMES/GER629"
+msgstr "梅德"
+
+msgid "NAMES/GER63"
+msgstr "貝恩特"
+
+msgid "NAMES/GER630"
+msgstr "阿勒斯"
+
+msgid "NAMES/GER631"
+msgstr "梅耶爾"
+
+msgid "NAMES/GER632"
+msgstr "阿爾芬格"
+
+msgid "NAMES/GER633"
+msgstr "艾希邁爾"
+
+msgid "NAMES/GER634"
+msgstr "阿內爾夫"
+
+msgid "NAMES/GER635"
+msgstr "門徹"
+
+msgid "NAMES/GER636"
+msgstr "芒德"
+
+msgid "NAMES/GER637"
+msgstr "門格爾比爾"
+
+msgid "NAMES/GER638"
+msgstr "門尼"
+
+msgid "NAMES/GER639"
+msgstr "門斯克"
+
+msgid "NAMES/GER64"
+msgstr "貝爾努特"
+
+msgid "NAMES/GER640"
+msgstr "梅斯"
+
+msgid "NAMES/GER641"
+msgstr "梅茨格"
+
+msgid "NAMES/GER642"
+msgstr "米歇爾斯"
+
+msgid "NAMES/GER643"
+msgstr "米凱爾"
+
+msgid "NAMES/GER644"
+msgstr "米希爾"
+
+msgid "NAMES/GER645"
+msgstr "米羅"
+
+msgid "NAMES/GER646"
+msgstr "芒什"
+
+msgid "NAMES/GER647"
+msgstr "莫爾"
+
+msgid "NAMES/GER648"
+msgstr "默爾德斯"
+
+msgid "NAMES/GER649"
+msgstr "默茲克"
+
+msgid "NAMES/GER65"
+msgstr "伯特倫"
+
+msgid "NAMES/GER650"
+msgstr "穆德拉"
+
+msgid "NAMES/GER651"
+msgstr "穆勒"
+
+msgid "NAMES/GER652"
+msgstr "馬默特"
+
+msgid "NAMES/GER653"
+msgstr "明謝貝格"
+
+msgid "NAMES/GER654"
+msgstr "蒙特策爾"
+
+msgid "NAMES/GER655"
+msgstr "納赫特"
+
+msgid "NAMES/GER656"
+msgstr "納德爾"
+
+msgid "NAMES/GER657"
+msgstr "納格爾"
+
+msgid "NAMES/GER658"
+msgstr "諾曼"
+
+msgid "NAMES/GER659"
+msgstr "納林"
+
+msgid "NAMES/GER66"
+msgstr "貝斯勒"
+
+msgid "NAMES/GER660"
+msgstr "內特"
+
+msgid "NAMES/GER661"
+msgstr "紐多夫"
+
+msgid "NAMES/GER662"
+msgstr "紐夫維爾"
+
+msgid "NAMES/GER663"
+msgstr "諾伊基"
+
+msgid "NAMES/GER664"
+msgstr "尼德邁爾"
+
+msgid "NAMES/GER665"
+msgstr "尼霍夫"
+
+msgid "NAMES/GER666"
+msgstr "尼波爾德"
+
+msgid "NAMES/GER667"
+msgstr "內曼"
+
+msgid "NAMES/GER668"
+msgstr "諾爾德克"
+
+msgid "NAMES/GER669"
+msgstr "諾德曼"
+
+msgid "NAMES/GER67"
+msgstr "貝特克"
+
+msgid "NAMES/GER670"
+msgstr "諾沃特尼"
+
+msgid "NAMES/GER671"
+msgstr "努斯鮑姆"
+
+msgid "NAMES/GER672"
+msgstr "奧伯尼茨"
+
+msgid "NAMES/GER673"
+msgstr "奧布斯特"
+
+msgid "NAMES/GER674"
+msgstr "厄爾恩"
+
+msgid "NAMES/GER675"
+msgstr "厄爾岑"
+
+msgid "NAMES/GER676"
+msgstr "厄斯奧"
+
+msgid "NAMES/GER677"
+msgstr "厄斯特恩"
+
+msgid "NAMES/GER678"
+msgstr "奧爾布里希特"
+
+msgid "NAMES/GER679"
+msgstr "翁捷爾斯"
+
+msgid "NAMES/GER68"
+msgstr "貝特爾"
+
+msgid "NAMES/GER680"
+msgstr "奧波萊"
+
+msgid "NAMES/GER681"
+msgstr "西奧彭蘭德"
+
+msgid "NAMES/GER682"
+msgstr "奧珀曼"
+
+msgid "NAMES/GER683"
+msgstr "奧森伯格"
+
+msgid "NAMES/GER684"
+msgstr "奧斯特"
+
+msgid "NAMES/GER685"
+msgstr "奧雷爾"
+
+msgid "NAMES/GER686"
+msgstr "奧爾夫"
+
+msgid "NAMES/GER687"
+msgstr "奧斯特曼"
+
+msgid "NAMES/GER688"
+msgstr "奧斯特瑞奇"
+
+msgid "NAMES/GER689"
+msgstr "帕普斯特"
+
+msgid "NAMES/GER69"
+msgstr "奧爾特曼"
+
+msgid "NAMES/GER690"
+msgstr "帕尼茨基"
+
+msgid "NAMES/GER691"
+msgstr "潘維茨"
+
+msgid "NAMES/GER692"
+msgstr "普里斯特"
+
+msgid "NAMES/GER693"
+msgstr "普洛赫"
+
+msgid "NAMES/GER694"
+msgstr "帕斯特"
+
+msgid "NAMES/GER695"
+msgstr "普呂默"
+
+msgid "NAMES/GER696"
+msgstr "普林佩"
+
+msgid "NAMES/GER697"
+msgstr "彼得森"
+
+msgid "NAMES/GER698"
+msgstr "彼得哈根"
+
+msgid "NAMES/GER699"
+msgstr "普法夫"
+
+msgid "NAMES/GER7"
+msgstr "艾德勒"
+
+msgid "NAMES/GER70"
+msgstr "博伊梅爾堡"
+
+msgid "NAMES/GER700"
+msgstr "波哈特"
+
+msgid "NAMES/GER701"
+msgstr "普法伊費爾"
+
+msgid "NAMES/GER702"
+msgstr "費弗"
+
+msgid "NAMES/GER703"
+msgstr "普菲爾"
+
+msgid "NAMES/GER704"
+msgstr "波赫曼"
+
+msgid "NAMES/GER705"
+msgstr "皮寧"
+
+msgid "NAMES/GER706"
+msgstr "普拉格"
+
+msgid "NAMES/GER707"
+msgstr "伯克爾"
+
+msgid "NAMES/GER708"
+msgstr "普勒茨"
+
+msgid "NAMES/GER709"
+msgstr "波爾"
+
+msgid "NAMES/GER71"
+msgstr "柏特爾"
+
+msgid "NAMES/GER710"
+msgstr "波迪希"
+
+msgid "NAMES/GER711"
+msgstr "波辛格"
+
+msgid "NAMES/GER712"
+msgstr "普勞恩"
+
+msgid "NAMES/GER713"
+msgstr "普利策"
+
+msgid "NAMES/GER714"
+msgstr "普倫策爾"
+
+msgid "NAMES/GER715"
+msgstr "普雷斯勒"
+
+msgid "NAMES/GER716"
+msgstr "普魯士"
+
+msgid "NAMES/GER717"
+msgstr "普里恩"
+
+msgid "NAMES/GER718"
+msgstr "普瑞恩"
+
+msgid "NAMES/GER719"
+msgstr "普羅哈斯卡"
+
+msgid "NAMES/GER72"
+msgstr "拜爾尼"
+
+msgid "NAMES/GER720"
+msgstr "普羅布斯特"
+
+msgid "NAMES/GER721"
+msgstr "普羅菲特利希"
+
+msgid "NAMES/GER722"
+msgstr "普魯薩斯"
+
+msgid "NAMES/GER723"
+msgstr "普里姆卡"
+
+msgid "NAMES/GER724"
+msgstr "普德勒"
+
+msgid "NAMES/GER725"
+msgstr "普西克"
+
+msgid "NAMES/GER726"
+msgstr "羅爾"
+
+msgid "NAMES/GER727"
+msgstr "雷姆萊茵"
+
+msgid "NAMES/GER728"
+msgstr "拉姆克"
+
+msgid "NAMES/GER729"
+msgstr "蘭多"
+
+msgid "NAMES/GER73"
+msgstr "比伯"
+
+msgid "NAMES/GER730"
+msgstr "倫格斯"
+
+msgid "NAMES/GER731"
+msgstr "雷姆斯貝格"
+
+msgid "NAMES/GER732"
+msgstr "拉德夫"
+
+msgid "NAMES/GER733"
+msgstr "拉文斯坦"
+
+msgid "NAMES/GER734"
+msgstr "雷本蒂施"
+
+msgid "NAMES/GER735"
+msgstr "雷克納格爾"
+
+msgid "NAMES/GER736"
+msgstr "里斯"
+
+msgid "NAMES/GER737"
+msgstr "羅卡恩"
+
+msgid "NAMES/GER738"
+msgstr "萊哈特"
+
+msgid "NAMES/GER739"
+msgstr "萊因格特"
+
+msgid "NAMES/GER74"
+msgstr "比爾"
+
+msgid "NAMES/GER740"
+msgstr "拉爾夫貝克"
+
+msgid "NAMES/GER741"
+msgstr "拉姆多爾"
+
+msgid "NAMES/GER742"
+msgstr "雷蒙德"
+
+msgid "NAMES/GER743"
+msgstr "倫杜利奇"
+
+msgid "NAMES/GER744"
+msgstr "雷舍克"
+
+msgid "NAMES/GER745"
+msgstr "賴恩德蘭"
+
+msgid "NAMES/GER746"
+msgstr "賴納"
+
+msgid "NAMES/GER747"
+msgstr "賴佩特"
+
+msgid "NAMES/GER748"
+msgstr "拉默"
+
+msgid "NAMES/GER749"
+msgstr "拉梅洛"
+
+msgid "NAMES/GER75"
+msgstr "比曼"
+
+msgid "NAMES/GER750"
+msgstr "雷克斯"
+
+msgid "NAMES/GER751"
+msgstr "羅周"
+
+msgid "NAMES/GER752"
+msgstr "羅登堡"
+
+msgid "NAMES/GER753"
+msgstr "拉蒙"
+
+msgid "NAMES/GER754"
+msgstr "拉姆斯塔德"
+
+msgid "NAMES/GER755"
+msgstr "羅格"
+
+msgid "NAMES/GER756"
+msgstr "拉諾爾德"
+
+msgid "NAMES/GER757"
+msgstr "羅爾曼"
+
+msgid "NAMES/GER758"
+msgstr "蘭特"
+
+msgid "NAMES/GER759"
+msgstr "羅辛"
+
+msgid "NAMES/GER76"
+msgstr "蘭德爾"
+
+msgid "NAMES/GER760"
+msgstr "蘭道夫"
+
+msgid "NAMES/GER761"
+msgstr "梅耶"
+
+msgid "NAMES/GER762"
+msgstr "羅斯柴爾德"
+
+msgid "NAMES/GER763"
+msgstr "羅思坦"
+
+msgid "NAMES/GER764"
+msgstr "拉斐爾"
+
+msgid "NAMES/GER765"
+msgstr "拉波波特"
+
+msgid "NAMES/GER766"
+msgstr "魯克特舍爾"
+
+msgid "NAMES/GER767"
+msgstr "羅加爾斯基"
+
+msgid "NAMES/GER768"
+msgstr "魯富斯"
+
+msgid "NAMES/GER769"
+msgstr "羅格爾"
+
+msgid "NAMES/GER77"
+msgstr "羅根扎克"
+
+msgid "NAMES/GER770"
+msgstr "魯夫"
+
+msgid "NAMES/GER771"
+msgstr "舍費爾德"
+
+msgid "NAMES/GER772"
+msgstr "森格爾"
+
+msgid "NAMES/GER773"
+msgstr "扎爾明格"
+
+msgid "NAMES/GER774"
+msgstr "扎爾穆特"
+
+msgid "NAMES/GER775"
+msgstr "沙伊德曼"
+
+msgid "NAMES/GER776"
+msgstr "桑妮"
+
+msgid "NAMES/GER777"
+msgstr "舍夫奇克"
+
+msgid "NAMES/GER778"
+msgstr "索克"
+
+msgid "NAMES/GER779"
+msgstr "施爾"
+
+msgid "NAMES/GER78"
+msgstr "沙伊曼"
+
+msgid "NAMES/GER780"
+msgstr "舍梅爾"
+
+msgid "NAMES/GER781"
+msgstr "施克"
+
+msgid "NAMES/GER782"
+msgstr "謝德伯格"
+
+msgid "NAMES/GER783"
+msgstr "申克爾"
+
+msgid "NAMES/GER784"
+msgstr "斯凱爾"
+
+msgid "NAMES/GER785"
+msgstr "施勒"
+
+msgid "NAMES/GER786"
+msgstr "舍倫貝格爾"
+
+msgid "NAMES/GER787"
+msgstr "舍費爾"
+
+msgid "NAMES/GER788"
+msgstr "舍雷爾"
+
+msgid "NAMES/GER789"
+msgstr "舍林格爾"
+
+msgid "NAMES/GER79"
+msgstr "席德爾克"
+
+msgid "NAMES/GER790"
+msgstr "席德穆克"
+
+msgid "NAMES/GER791"
+msgstr "席貝爾"
+
+msgid "NAMES/GER792"
+msgstr "席德勞斯克"
+
+msgid "NAMES/GER793"
+msgstr "席西特"
+
+msgid "NAMES/GER794"
+msgstr "希德爾"
+
+msgid "NAMES/GER795"
+msgstr "施基默"
+
+msgid "NAMES/GER796"
+msgstr "施拉布倫多夫"
+
+msgid "NAMES/GER797"
+msgstr "席夫鮑爾"
+
+msgid "NAMES/GER798"
+msgstr "席費雷爾"
+
+msgid "NAMES/GER799"
+msgstr "施利本"
+
+msgid "NAMES/GER8"
+msgstr "阿勒曼"
+
+msgid "NAMES/GER80"
+msgstr "席倫貝克"
+
+msgid "NAMES/GER800"
+msgstr "施利彭巴赫"
+
+msgid "NAMES/GER801"
+msgstr "施盧特"
+
+msgid "NAMES/GER802"
+msgstr "施米德胡貝"
+
+msgid "NAMES/GER803"
+msgstr "娜塔莎"
+
+msgid "NAMES/GER804"
+msgstr "希爾德貝格爾"
+
+msgid "NAMES/GER805"
+msgstr "希爾哈布"
+
+msgid "NAMES/GER806"
+msgstr "席姆克"
+
+msgid "NAMES/GER807"
+msgstr "莫尼克"
+
+msgid "NAMES/GER808"
+msgstr "席默勒"
+
+msgid "NAMES/GER809"
+msgstr "申德林"
+
+msgid "NAMES/GER81"
+msgstr "布洛赫"
+
+msgid "NAMES/GER810"
+msgstr "施尼溫特"
+
+msgid "NAMES/GER811"
+msgstr "朔貝特"
+
+msgid "NAMES/GER812"
+msgstr "斯科爾茨"
+
+msgid "NAMES/GER813"
+msgstr "希爾馬赫"
+
+msgid "NAMES/GER814"
+msgstr "希爾曼斯特"
+
+msgid "NAMES/GER815"
+msgstr "申克爾"
+
+msgid "NAMES/GER816"
+msgstr "什拉德爾"
+
+msgid "NAMES/GER817"
+msgstr "施拉姆"
+
+msgid "NAMES/GER818"
+msgstr "申霍芬"
+
+msgid "NAMES/GER819"
+msgstr "施拉克"
+
+msgid "NAMES/GER82"
+msgstr "施來格"
+
+msgid "NAMES/GER820"
+msgstr "施雷姆斯"
+
+msgid "NAMES/GER821"
+msgstr "施勞德曼"
+
+msgid "NAMES/GER822"
+msgstr "施羅德克"
+
+msgid "NAMES/GER823"
+msgstr "施羅"
+
+msgid "NAMES/GER824"
+msgstr "施羅德恩"
+
+msgid "NAMES/GER825"
+msgstr "施羅德貝母"
+
+msgid "NAMES/GER826"
+msgstr "施羅斯"
+
+msgid "NAMES/GER827"
+msgstr "施拉維克"
+
+msgid "NAMES/GER828"
+msgstr "施勒希特里姆"
+
+msgid "NAMES/GER829"
+msgstr "施勒德雷爾"
+
+msgid "NAMES/GER83"
+msgstr "布勒姆"
+
+msgid "NAMES/GER830"
+msgstr "施萊格爾"
+
+msgid "NAMES/GER831"
+msgstr "舒克"
+
+msgid "NAMES/GER832"
+msgstr "施倫斯克"
+
+msgid "NAMES/GER833"
+msgstr "施萊德"
+
+msgid "NAMES/GER834"
+msgstr "舒爾特海斯"
+
+msgid "NAMES/GER835"
+msgstr "舒爾茨"
+
+msgid "NAMES/GER836"
+msgstr "舒曼"
+
+msgid "NAMES/GER837"
+msgstr "施萊西克"
+
+msgid "NAMES/GER838"
+msgstr "施洛伊德"
+
+msgid "NAMES/GER839"
+msgstr "施洛伊塞爾"
+
+msgid "NAMES/GER84"
+msgstr "施洛伊特"
+
+msgid "NAMES/GER840"
+msgstr "施萊爾"
+
+msgid "NAMES/GER841"
+msgstr "施利斯曼"
+
+msgid "NAMES/GER842"
+msgstr "施瓦布"
+
+msgid "NAMES/GER843"
+msgstr "施瓦茨"
+
+msgid "NAMES/GER844"
+msgstr "施林巴赫"
+
+msgid "NAMES/GER845"
+msgstr "施威德勒"
+
+msgid "NAMES/GER846"
+msgstr "施利爾"
+
+msgid "NAMES/GER847"
+msgstr "施洛普哈克"
+
+msgid "NAMES/GER848"
+msgstr "澤巴赫"
+
+msgid "NAMES/GER849"
+msgstr "羅佩梅克"
+
+msgid "NAMES/GER85"
+msgstr "博克米爾"
+
+msgid "NAMES/GER850"
+msgstr "塞爾"
+
+msgid "NAMES/GER851"
+msgstr "施利夫"
+
+msgid "NAMES/GER852"
+msgstr "賽福洛"
+
+msgid "NAMES/GER853"
+msgstr "施勒得"
+
+msgid "NAMES/GER854"
+msgstr "施洛蒂希"
+
+msgid "NAMES/GER855"
+msgstr "施盧巴赫"
+
+msgid "NAMES/GER856"
+msgstr "斯萊福格特"
+
+msgid "NAMES/GER857"
+msgstr "聖伊萊爾"
+
+msgid "NAMES/GER858"
+msgstr "施洛姆"
+
+msgid "NAMES/GER859"
+msgstr "施倫克"
+
+msgid "NAMES/GER86"
+msgstr "博登豪森"
+
+msgid "NAMES/GER860"
+msgstr "施洛斯"
+
+msgid "NAMES/GER861"
+msgstr "施盧爾曼"
+
+msgid "NAMES/GER862"
+msgstr "施梅德爾"
+
+msgid "NAMES/GER863"
+msgstr "施邁尼克"
+
+msgid "NAMES/GER864"
+msgstr "斯蓬內克"
+
+msgid "NAMES/GER865"
+msgstr "施波爾勒德"
+
+msgid "NAMES/GER866"
+msgstr "施塔克"
+
+msgid "NAMES/GER867"
+msgstr "施特勒"
+
+msgid "NAMES/GER868"
+msgstr "施米德貝格爾"
+
+msgid "NAMES/GER869"
+msgstr "斯托爾貝裡"
+
+msgid "NAMES/GER87"
+msgstr "施米特加爾"
+
+msgid "NAMES/GER870"
+msgstr "施塔爾施密特"
+
+msgid "NAMES/GER871"
+msgstr "斯赫爾"
+
+msgid "NAMES/GER872"
+msgstr "施塔普夫"
+
+msgid "NAMES/GER873"
+msgstr "施默貝克"
+
+msgid "NAMES/GER874"
+msgstr "施米特曼"
+
+msgid "NAMES/GER875"
+msgstr "斯坦豪斯"
+
+msgid "NAMES/GER876"
+msgstr "斯坦霍夫"
+
+msgid "NAMES/GER877"
+msgstr "施米德"
+
+msgid "NAMES/GER878"
+msgstr "施米勒"
+
+msgid "NAMES/GER879"
+msgstr "豪森"
+
+msgid "NAMES/GER88"
+msgstr "鮑德曼"
+
+msgid "NAMES/GER880"
+msgstr "澤恩克"
+
+msgid "NAMES/GER881"
+msgstr "斯特勞斯"
+
+msgid "NAMES/GER882"
+msgstr "施塔迪翁"
+
+msgid "NAMES/GER883"
+msgstr "施塔貝爾"
+
+msgid "NAMES/GER884"
+msgstr "施蒂爾普納格爾"
+
+msgid "NAMES/GER885"
+msgstr "施泰德勒"
+
+msgid "NAMES/GER886"
+msgstr "施塔克斯"
+
+msgid "NAMES/GER887"
+msgstr "斯塔特海姆"
+
+msgid "NAMES/GER888"
+msgstr "施特普斯"
+
+msgid "NAMES/GER889"
+msgstr "施坦格爾"
+
+msgid "NAMES/GER89"
+msgstr "博埃"
+
+msgid "NAMES/GER890"
+msgstr "塔爾貝格"
+
+msgid "NAMES/GER891"
+msgstr "泰森"
+
+msgid "NAMES/GER892"
+msgstr "蒂勒"
+
+msgid "NAMES/GER893"
+msgstr "託普"
+
+msgid "NAMES/GER894"
+msgstr "坦格爾"
+
+msgid "NAMES/GER895"
+msgstr "託伊貝爾"
+
+msgid "NAMES/GER896"
+msgstr "塔波爾斯基"
+
+msgid "NAMES/GER897"
+msgstr "特雷貝斯"
+
+msgid "NAMES/GER898"
+msgstr "特雷格爾"
+
+msgid "NAMES/GER899"
+msgstr "塔拉赫"
+
+msgid "NAMES/GER9"
+msgstr "阿爾夫"
+
+msgid "NAMES/GER90"
+msgstr "博伊姆"
+
+msgid "NAMES/GER900"
+msgstr "特雷特納"
+
+msgid "NAMES/GER901"
+msgstr "陶貝斯"
+
+msgid "NAMES/GER902"
+msgstr "特克特"
+
+msgid "NAMES/GER903"
+msgstr "特克邁爾"
+
+msgid "NAMES/GER904"
+msgstr "泰希納"
+
+msgid "NAMES/GER905"
+msgstr "特賴特勒"
+
+msgid "NAMES/GER906"
+msgstr "洪克勒"
+
+msgid "NAMES/GER907"
+msgstr "克斯"
+
+msgid "NAMES/GER908"
+msgstr "昂格爾"
+
+msgid "NAMES/GER909"
+msgstr "沙伊德"
+
+msgid "NAMES/GER91"
+msgstr "特格勒"
+
+msgid "NAMES/GER910"
+msgstr "博默"
+
+msgid "NAMES/GER911"
+msgstr "烏裡"
+
+msgid "NAMES/GER912"
+msgstr "韋爾斯特"
+
+msgid "NAMES/GER913"
+msgstr "達佩爾"
+
+msgid "NAMES/GER914"
+msgstr "瓦倫丁納"
+
+msgid "NAMES/GER915"
+msgstr "丹恩"
+
+msgid "NAMES/GER916"
+msgstr "法伊特"
+
+msgid "NAMES/GER917"
+msgstr "尚貝格"
+
+msgid "NAMES/GER918"
+msgstr "屈梅爾"
+
+msgid "NAMES/GER919"
+msgstr "齊爾施基"
+
+msgid "NAMES/GER92"
+msgstr "蒂默"
+
+msgid "NAMES/GER920"
+msgstr "博斯特"
+
+msgid "NAMES/GER921"
+msgstr "沃爾"
+
+msgid "NAMES/GER922"
+msgstr "費埃爾"
+
+msgid "NAMES/GER923"
+msgstr "內特"
+
+msgid "NAMES/GER924"
+msgstr "博赫爾森"
+
+msgid "NAMES/GER925"
+msgstr "沃格勒"
+
+msgid "NAMES/GER926"
+msgstr "曼斯"
+
+msgid "NAMES/GER927"
+msgstr "羅明特爾"
+
+msgid "NAMES/GER928"
+msgstr "菲爾"
+
+msgid "NAMES/GER929"
+msgstr "卡鬆克"
+
+msgid "NAMES/GER93"
+msgstr "韋希特爾"
+
+msgid "NAMES/GER930"
+msgstr "丹尼斯"
+
+msgid "NAMES/GER931"
+msgstr "瓦格納"
+
+msgid "NAMES/GER932"
+msgstr "沃爾登"
+
+msgid "NAMES/GER933"
+msgstr "瓦爾登堡"
+
+msgid "NAMES/GER934"
+msgstr "森克爾"
+
+msgid "NAMES/GER935"
+msgstr "瓦爾茨"
+
+msgid "NAMES/GER936"
+msgstr "塞頓"
+
+msgid "NAMES/GER937"
+msgstr "萬納加特"
+
+msgid "NAMES/GER938"
+msgstr "弗羅依特"
+
+msgid "NAMES/GER939"
+msgstr "魏因特勞布"
+
+msgid "NAMES/GER94"
+msgstr "比辛"
+
+msgid "NAMES/GER940"
+msgstr "巴羅"
+
+msgid "NAMES/GER941"
+msgstr "韋弗"
+
+msgid "NAMES/GER942"
+msgstr "韋弗傑"
+
+msgid "NAMES/GER943"
+msgstr "韋希馬爾"
+
+msgid "NAMES/GER944"
+msgstr "坦因"
+
+msgid "NAMES/GER945"
+msgstr "韋格納"
+
+msgid "NAMES/GER946"
+msgstr "韋哈邁耶"
+
+msgid "NAMES/GER947"
+msgstr "魏克斯"
+
+msgid "NAMES/GER948"
+msgstr "巴泰勒米"
+
+msgid "NAMES/GER949"
+msgstr "魏斯"
+
+msgid "NAMES/GER95"
+msgstr "魏森貝格爾"
+
+msgid "NAMES/GER950"
+msgstr "博嫩坎普"
+
+msgid "NAMES/GER951"
+msgstr "韋爾曼"
+
+msgid "NAMES/GER952"
+msgstr "維斯克"
+
+msgid "NAMES/GER953"
+msgstr "溫克萊曼"
+
+msgid "NAMES/GER954"
+msgstr "溫克"
+
+msgid "NAMES/GER955"
+msgstr "尼科爾"
+
+msgid "NAMES/GER956"
+msgstr "韋斯特霍爾斯特曼"
+
+msgid "NAMES/GER957"
+msgstr "沃納"
+
+msgid "NAMES/GER958"
+msgstr "韋拉"
+
+msgid "NAMES/GER959"
+msgstr "威斯特伐利亞"
+
+msgid "NAMES/GER96"
+msgstr "韋斯托芬"
+
+msgid "NAMES/GER960"
+msgstr "博爾布林克爾"
+
+msgid "NAMES/GER961"
+msgstr "道斯"
+
+msgid "NAMES/GER962"
+msgstr "韋弗"
+
+msgid "NAMES/GER963"
+msgstr "懷特"
+
+msgid "NAMES/GER964"
+msgstr "威克"
+
+msgid "NAMES/GER965"
+msgstr "韋貝"
+
+msgid "NAMES/GER966"
+msgstr "溫迪西"
+
+msgid "NAMES/GER967"
+msgstr "舍騰扎克"
+
+msgid "NAMES/GER968"
+msgstr "維特爾斯海姆"
+
+msgid "NAMES/GER969"
+msgstr "朔爾特"
+
+msgid "NAMES/GER97"
+msgstr "達維"
+
+msgid "NAMES/GER970"
+msgstr "紹恩保"
+
+msgid "NAMES/GER971"
+msgstr "沃爾傑米斯"
+
+msgid "NAMES/GER972"
+msgstr "瓦爾科"
+
+msgid "NAMES/GER973"
+msgstr "沃爾夫魯姆"
+
+msgid "NAMES/GER974"
+msgstr "沃伯特"
+
+msgid "NAMES/GER975"
+msgstr "沃爾茨"
+
+msgid "NAMES/GER976"
+msgstr "瓦森貝格"
+
+msgid "NAMES/GER977"
+msgstr "奧斯本"
+
+msgid "NAMES/GER978"
+msgstr "富勒"
+
+msgid "NAMES/GER979"
+msgstr "貝爾利斯"
+
+msgid "NAMES/GER98"
+msgstr "澤特勒"
+
+msgid "NAMES/GER980"
+msgstr "舍夫克"
+
+msgid "NAMES/GER981"
+msgstr "格羅斯尼"
+
+msgid "NAMES/GER982"
+msgstr "格魯貝爾"
+
+msgid "NAMES/GER983"
+msgstr "諾勒"
+
+msgid "NAMES/GER984"
+msgstr "施特賴巴特"
+
+msgid "NAMES/GER985"
+msgstr "施特奈爾"
+
+msgid "NAMES/GER986"
+msgstr "伍茲勒"
+
+msgid "NAMES/GER987"
+msgstr "韋騰巴赫"
+
+msgid "NAMES/GER988"
+msgstr "博寧"
+
+msgid "NAMES/GER989"
+msgstr "阿博"
+
+msgid "NAMES/GER99"
+msgstr "韋騰巴赫"
+
+msgid "NAMES/GERN1"
+msgstr "戈特弗裡德"
+
+msgid "NAMES/GERN10"
+msgstr "戈特霍爾德"
+
+msgid "NAMES/GERN100"
+msgstr "戈特利布"
+
+msgid "NAMES/GERN101"
+msgstr "格雷戈爾"
+
+msgid "NAMES/GERN102"
+msgstr "維爾沃爾"
+
+msgid "NAMES/GERN103"
+msgstr "古斯塔夫"
+
+msgid "NAMES/GERN104"
+msgstr "加斯里"
+
+msgid "NAMES/GERN105"
+msgstr "基澤拉克"
+
+msgid "NAMES/GERN106"
+msgstr "漢斯"
+
+msgid "NAMES/GERN107"
+msgstr "哈拉爾"
+
+msgid "NAMES/GERN108"
+msgstr "奧爾德"
+
+msgid "NAMES/GERN109"
+msgstr "哈特穆特"
+
+msgid "NAMES/GERN11"
+msgstr "哈特威格"
+
+msgid "NAMES/GERN110"
+msgstr "哈維"
+
+msgid "NAMES/GERN111"
+msgstr "海納"
+
+msgid "NAMES/GERN112"
+msgstr "海爾奈希"
+
+msgid "NAMES/GERN113"
+msgstr "亨氏"
+
+msgid "NAMES/GERN114"
+msgstr "黑爾格"
+
+msgid "NAMES/GERN115"
+msgstr "海勒"
+
+msgid "NAMES/GERN116"
+msgstr "赫爾穆特"
+
+msgid "NAMES/GERN117"
+msgstr "赫爾格特"
+
+msgid "NAMES/GERN118"
+msgstr "阿爾多斯"
+
+msgid "NAMES/GERN119"
+msgstr "亨利"
+
+msgid "NAMES/GERN12"
+msgstr "薩科"
+
+msgid "NAMES/GERN120"
+msgstr "赫伯特"
+
+msgid "NAMES/GERN121"
+msgstr "赫爾曼"
+
+msgid "NAMES/GERN122"
+msgstr "希爾德布蘭德"
+
+msgid "NAMES/GERN123"
+msgstr "霍爾格"
+
+msgid "NAMES/GERN124"
+msgstr "霍斯特"
+
+msgid "NAMES/GERN125"
+msgstr "比索"
+
+msgid "NAMES/GERN126"
+msgstr "雨果"
+
+msgid "NAMES/GERN127"
+msgstr "伊格"
+
+msgid "NAMES/GERN128"
+msgstr "亞歷山大"
+
+msgid "NAMES/GERN129"
+msgstr "伊姆雷"
+
+msgid "NAMES/GERN13"
+msgstr "英厄馬爾"
+
+msgid "NAMES/GERN130"
+msgstr "耶格"
+
+msgid "NAMES/GERN131"
+msgstr "胡爾瓦"
+
+msgid "NAMES/GERN132"
+msgstr "賈維斯"
+
+msgid "NAMES/GERN133"
+msgstr "洪巴赫"
+
+msgid "NAMES/GERN134"
+msgstr "傑裡"
+
+msgid "NAMES/GERN135"
+msgstr "約阿希姆"
+
+msgid "NAMES/GERN136"
+msgstr "約翰"
+
+msgid "NAMES/GERN137"
+msgstr "阿婁斯"
+
+msgid "NAMES/GERN138"
+msgstr "阿洛伊斯"
+
+msgid "NAMES/GERN139"
+msgstr "約翰尼"
+
+msgid "NAMES/GERN14"
+msgstr "約拿"
+
+msgid "NAMES/GERN140"
+msgstr "約爾格"
+
+msgid "NAMES/GERN141"
+msgstr "於爾根"
+
+msgid "NAMES/GERN142"
+msgstr "卡爾曼"
+
+msgid "NAMES/GERN143"
+msgstr "卡爾海因茨"
+
+msgid "NAMES/GERN144"
+msgstr "卡斯滕"
+
+msgid "NAMES/GERN145"
+msgstr "卡斯帕"
+
+msgid "NAMES/GERN146"
+msgstr "基恩"
+
+msgid "NAMES/GERN147"
+msgstr "凱倫"
+
+msgid "NAMES/GERN148"
+msgstr "克勞斯曼"
+
+msgid "NAMES/GERN149"
+msgstr "克勞斯懷特"
+
+msgid "NAMES/GERN15"
+msgstr "阿波利奈爾"
+
+msgid "NAMES/GERN150"
+msgstr "康拉德"
+
+msgid "NAMES/GERN151"
+msgstr "克里斯蒂安"
+
+msgid "NAMES/GERN152"
+msgstr "克里斯夫"
+
+msgid "NAMES/GERN153"
+msgstr "庫爾特"
+
+msgid "NAMES/GERN154"
+msgstr "拉瑪爾"
+
+msgid "NAMES/GERN155"
+msgstr "伯格"
+
+msgid "NAMES/GERN156"
+msgstr "拉爾斯"
+
+msgid "NAMES/GERN157"
+msgstr "拉瑪爾"
+
+msgid "NAMES/GERN158"
+msgstr "阿爾文"
+
+msgid "NAMES/GERN159"
+msgstr "伯寧豪森"
+
+msgid "NAMES/GERN16"
+msgstr "普特利茨"
+
+msgid "NAMES/GERN160"
+msgstr "倫納德"
+
+msgid "NAMES/GERN161"
+msgstr "利昂納德"
+
+msgid "NAMES/GERN162"
+msgstr "利奧波德"
+
+msgid "NAMES/GERN163"
+msgstr "洛靈"
+
+msgid "NAMES/GERN164"
+msgstr "貝朗熱"
+
+msgid "NAMES/GERN165"
+msgstr "路易斯"
+
+msgid "NAMES/GERN166"
+msgstr "路德維希"
+
+msgid "NAMES/GERN167"
+msgstr "洛薩"
+
+msgid "NAMES/GERN168"
+msgstr "安布羅斯"
+
+msgid "NAMES/GERN169"
+msgstr "魯德"
+
+msgid "NAMES/GERN17"
+msgstr "盧茨"
+
+msgid "NAMES/GERN170"
+msgstr "曼弗雷德"
+
+msgid "NAMES/GERN171"
+msgstr "馬塞爾"
+
+msgid "NAMES/GERN172"
+msgstr "馬可"
+
+msgid "NAMES/GERN173"
+msgstr "曼弗雷德"
+
+msgid "NAMES/GERN174"
+msgstr "雷米"
+
+msgid "NAMES/GERN175"
+msgstr "馬庫斯"
+
+msgid "NAMES/GERN176"
+msgstr "馬丁"
+
+msgid "NAMES/GERN177"
+msgstr "馬蒂亞斯"
+
+msgid "NAMES/GERN178"
+msgstr "阿梅代"
+
+msgid "NAMES/GERN179"
+msgstr "馬修"
+
+msgid "NAMES/GERN18"
+msgstr "馬蒂亞斯"
+
+msgid "NAMES/GERN180"
+msgstr "馬克西米利"
+
+msgid "NAMES/GERN181"
+msgstr "邁耶"
+
+msgid "NAMES/GERN182"
+msgstr "邁因哈德"
+
+msgid "NAMES/GERN183"
+msgstr "拉里薩"
+
+msgid "NAMES/GERN184"
+msgstr "邁爾斯"
+
+msgid "NAMES/GERN185"
+msgstr "米洛"
+
+msgid "NAMES/GERN186"
+msgstr "尼古拉斯"
+
+msgid "NAMES/GERN187"
+msgstr "尼爾斯"
+
+msgid "NAMES/GERN188"
+msgstr "安德烈亞斯"
+
+msgid "NAMES/GERN189"
+msgstr "諾伯特"
+
+msgid "NAMES/GERN19"
+msgstr "奧德爾"
+
+msgid "NAMES/GERN190"
+msgstr "安德烈亞斯"
+
+msgid "NAMES/GERN191"
+msgstr "奧馬爾"
+
+msgid "NAMES/GERN192"
+msgstr "奧斯卡"
+
+msgid "NAMES/GERN193"
+msgstr "奧斯瓦爾德"
+
+msgid "NAMES/GERN194"
+msgstr "奧斯溫"
+
+msgid "NAMES/GERN195"
+msgstr "奧的斯"
+
+msgid "NAMES/GERN196"
+msgstr "皮佩爾"
+
+msgid "NAMES/GERN197"
+msgstr "彭羅德"
+
+msgid "NAMES/GERN198"
+msgstr "阿希姆"
+
+msgid "NAMES/GERN199"
+msgstr "安瑟倫"
+
+msgid "NAMES/GERN2"
+msgstr "菲利普"
+
+msgid "NAMES/GERN20"
+msgstr "波爾蒂"
+
+msgid "NAMES/GERN200"
+msgstr "雷蒙"
+
+msgid "NAMES/GERN201"
+msgstr "賴納"
+
+msgid "NAMES/GERN202"
+msgstr "波爾蒂"
+
+msgid "NAMES/GERN203"
+msgstr "蘭道夫"
+
+msgid "NAMES/GERN204"
+msgstr "雷蒙德"
+
+msgid "NAMES/GERN205"
+msgstr "萊因哈德"
+
+msgid "NAMES/GERN206"
+msgstr "賴因霍爾德"
+
+msgid "NAMES/GERN207"
+msgstr "勒內"
+
+msgid "NAMES/GERN208"
+msgstr "安東"
+
+msgid "NAMES/GERN209"
+msgstr "弗雷德裡克"
+
+msgid "NAMES/GERN21"
+msgstr "羅德瑞克"
+
+msgid "NAMES/GERN210"
+msgstr "朱莉"
+
+msgid "NAMES/GERN211"
+msgstr "羅傑"
+
+msgid "NAMES/GERN212"
+msgstr "羅蘭斯"
+
+msgid "NAMES/GERN213"
+msgstr "伊夫"
+
+msgid "NAMES/GERN214"
+msgstr "貝爾納丁"
+
+msgid "NAMES/GERN215"
+msgstr "羅斯"
+
+msgid "NAMES/GERN216"
+msgstr "戈萬"
+
+msgid "NAMES/GERN217"
+msgstr "維多利亞"
+
+msgid "NAMES/GERN218"
+msgstr "魯道夫斯特"
+
+msgid "NAMES/GERN219"
+msgstr "魯道夫"
+
+msgid "NAMES/GERN22"
+msgstr "魯珀特"
+
+msgid "NAMES/GERN220"
+msgstr "薩賓"
+
+msgid "NAMES/GERN221"
+msgstr "皮倫"
+
+msgid "NAMES/GERN222"
+msgstr "塞巴斯蒂安"
+
+msgid "NAMES/GERN223"
+msgstr "布拉特"
+
+msgid "NAMES/GERN224"
+msgstr "西格弗裡德"
+
+msgid "NAMES/GERN225"
+msgstr "西蒙"
+
+msgid "NAMES/GERN226"
+msgstr "斯特凡"
+
+msgid "NAMES/GERN227"
+msgstr "聖伊萊爾"
+
+msgid "NAMES/GERN228"
+msgstr "誇爾格"
+
+msgid "NAMES/GERN229"
+msgstr "普特"
+
+msgid "NAMES/GERN23"
+msgstr "恩克勒"
+
+msgid "NAMES/GERN230"
+msgstr "泰瑞爾"
+
+msgid "NAMES/GERN231"
+msgstr "特勒爾"
+
+msgid "NAMES/GERN232"
+msgstr "塞博爾德"
+
+msgid "NAMES/GERN233"
+msgstr "西奧多"
+
+msgid "NAMES/GERN234"
+msgstr "託馬斯"
+
+msgid "NAMES/GERN235"
+msgstr "埃爾霍德"
+
+msgid "NAMES/GERN236"
+msgstr "巴羅"
+
+msgid "NAMES/GERN237"
+msgstr "蒂莫"
+
+msgid "NAMES/GERN238"
+msgstr "阿諾德克"
+
+msgid "NAMES/GERN239"
+msgstr "託比亞斯"
+
+msgid "NAMES/GERN24"
+msgstr "弗林斯"
+
+msgid "NAMES/GERN240"
+msgstr "普羅斯克"
+
+msgid "NAMES/GERN241"
+msgstr "蓬特"
+
+msgid "NAMES/GERN242"
+msgstr "烏爾夫"
+
+msgid "NAMES/GERN243"
+msgstr "烏爾裡克"
+
+msgid "NAMES/GERN244"
+msgstr "皮裡"
+
+msgid "NAMES/GERN245"
+msgstr "烏爾斯"
+
+msgid "NAMES/GERN246"
+msgstr "烏韋"
+
+msgid "NAMES/GERN247"
+msgstr "瓦里克"
+
+msgid "NAMES/GERN248"
+msgstr "阿諾德"
+
+msgid "NAMES/GERN249"
+msgstr "法伊特"
+
+msgid "NAMES/GERN25"
+msgstr "弗納"
+
+msgid "NAMES/GERN250"
+msgstr "切爾諾梅爾"
+
+msgid "NAMES/GERN251"
+msgstr "奎里尼"
+
+msgid "NAMES/GERN252"
+msgstr "西爾克"
+
+msgid "NAMES/GERN253"
+msgstr "托特"
+
+msgid "NAMES/GERN254"
+msgstr "沃爾克"
+
+msgid "NAMES/GERN255"
+msgstr "瓦爾德馬"
+
+msgid "NAMES/GERN256"
+msgstr "瓦爾特"
+
+msgid "NAMES/GERN257"
+msgstr "阿努爾夫那"
+
+msgid "NAMES/GERN258"
+msgstr "查皮安"
+
+msgid "NAMES/GERN259"
+msgstr "蒂姆"
+
+msgid "NAMES/GERN26"
+msgstr "溫德爾"
+
+msgid "NAMES/GERN260"
+msgstr "溫策爾"
+
+msgid "NAMES/GERN261"
+msgstr "沃納"
+
+msgid "NAMES/GERN262"
+msgstr "威爾弗雷德"
+
+msgid "NAMES/GERN263"
+msgstr "維爾弗裡德"
+
+msgid "NAMES/GERN264"
+msgstr "威廉"
+
+msgid "NAMES/GERN265"
+msgstr "沃爾夫岡"
+
+msgid "NAMES/GERN266"
+msgstr "韋勒"
+
+msgid "NAMES/GERN267"
+msgstr "瓦克斯"
+
+msgid "NAMES/GERN268"
+msgstr "奧古斯都"
+
+msgid "NAMES/GERN269"
+msgstr "迪爾"
+
+msgid "NAMES/GERN27"
+msgstr "阿克塞爾"
+
+msgid "NAMES/GERN270"
+msgstr "鮑德溫"
+
+msgid "NAMES/GERN28"
+msgstr "埃爾弗拉德"
+
+msgid "NAMES/GERN29"
+msgstr "阿克塞爾"
+
+msgid "NAMES/GERN3"
+msgstr "巴雷特"
+
+msgid "NAMES/GERN30"
+msgstr "巴龍"
+
+msgid "NAMES/GERN31"
+msgstr "魏德爾"
+
+msgid "NAMES/GERN32"
+msgstr "凱撒"
+
+msgid "NAMES/GERN33"
+msgstr "伯納德"
+
+msgid "NAMES/GERN34"
+msgstr "貝恩德"
+
+msgid "NAMES/GERN35"
+msgstr "屈爾特"
+
+msgid "NAMES/GERN36"
+msgstr "貝爾"
+
+msgid "NAMES/GERN37"
+msgstr "貝特霍爾德"
+
+msgid "NAMES/GERN38"
+msgstr "阿德利諾"
+
+msgid "NAMES/GERN39"
+msgstr "伯特倫"
+
+msgid "NAMES/GERN4"
+msgstr "博多"
+
+msgid "NAMES/GERN40"
+msgstr "布魯諾"
+
+msgid "NAMES/GERN41"
+msgstr "布里翁"
+
+msgid "NAMES/GERN42"
+msgstr "伯克"
+
+msgid "NAMES/GERN43"
+msgstr "卡爾"
+
+msgid "NAMES/GERN44"
+msgstr "卡斯滕"
+
+msgid "NAMES/GERN45"
+msgstr "查爾斯"
+
+msgid "NAMES/GERN46"
+msgstr "措法爾"
+
+msgid "NAMES/GERN47"
+msgstr "克里斯托夫"
+
+msgid "NAMES/GERN48"
+msgstr "玻爾馬尼斯"
+
+msgid "NAMES/GERN49"
+msgstr "克勞斯"
+
+msgid "NAMES/GERN5"
+msgstr "克萊門斯"
+
+msgid "NAMES/GERN50"
+msgstr "康拉德"
+
+msgid "NAMES/GERN51"
+msgstr "博辛格"
+
+msgid "NAMES/GERN52"
+msgstr "達戈貝爾"
+
+msgid "NAMES/GERN53"
+msgstr "德里克"
+
+msgid "NAMES/GERN54"
+msgstr "德特勒夫"
+
+msgid "NAMES/GERN55"
+msgstr "迪爾克"
+
+msgid "NAMES/GERN56"
+msgstr "迪特爾"
+
+msgid "NAMES/GERN57"
+msgstr "迪希爾"
+
+msgid "NAMES/GERN58"
+msgstr "阿姆勒"
+
+msgid "NAMES/GERN59"
+msgstr "道夫"
+
+msgid "NAMES/GERN6"
+msgstr "多米尼克"
+
+msgid "NAMES/GERN60"
+msgstr "埃伯哈德"
+
+msgid "NAMES/GERN61"
+msgstr "埃德溫"
+
+msgid "NAMES/GERN62"
+msgstr "埃格伯特"
+
+msgid "NAMES/GERN63"
+msgstr "埃貢"
+
+msgid "NAMES/GERN64"
+msgstr "埃爾德溫"
+
+msgid "NAMES/GERN65"
+msgstr "埃利亞斯"
+
+msgid "NAMES/GERN66"
+msgstr "埃勒裡"
+
+msgid "NAMES/GERN67"
+msgstr "埃爾馬"
+
+msgid "NAMES/GERN68"
+msgstr "麥爾"
+
+msgid "NAMES/GERN69"
+msgstr "博茨"
+
+msgid "NAMES/GERN7"
+msgstr "埃米爾"
+
+msgid "NAMES/GERN70"
+msgstr "埃默裡奇"
+
+msgid "NAMES/GERN71"
+msgstr "埃米特"
+
+msgid "NAMES/GERN72"
+msgstr "恩格爾貝特"
+
+msgid "NAMES/GERN73"
+msgstr "艾哈德"
+
+msgid "NAMES/GERN74"
+msgstr "埃裡希"
+
+msgid "NAMES/GERN75"
+msgstr "歐內斯特"
+
+msgid "NAMES/GERN76"
+msgstr "佈雷勒"
+
+msgid "NAMES/GERN77"
+msgstr "歐文"
+
+msgid "NAMES/GERN78"
+msgstr "阿倫斯"
+
+msgid "NAMES/GERN79"
+msgstr "尤金"
+
+msgid "NAMES/GERN8"
+msgstr "阿德里安"
+
+msgid "NAMES/GERN80"
+msgstr "法比安"
+
+msgid "NAMES/GERN81"
+msgstr "法爾科"
+
+msgid "NAMES/GERN82"
+msgstr "費利克斯"
+
+msgid "NAMES/GERN83"
+msgstr "費迪南德"
+
+msgid "NAMES/GERN84"
+msgstr "弗洛裡安"
+
+msgid "NAMES/GERN85"
+msgstr "弗蘭茲"
+
+msgid "NAMES/GERN86"
+msgstr "弗雷德裡克"
+
+msgid "NAMES/GERN87"
+msgstr "弗裡德黑爾姆"
+
+msgid "NAMES/GERN88"
+msgstr "阿拉里克"
+
+msgid "NAMES/GERN89"
+msgstr "弗里德里希"
+
+msgid "NAMES/GERN9"
+msgstr "弗裡茨"
+
+msgid "NAMES/GERN90"
+msgstr "加里"
+
+msgid "NAMES/GERN91"
+msgstr "格布哈特"
+
+msgid "NAMES/GERN92"
+msgstr "布蘭德爾"
+
+msgid "NAMES/GERN93"
+msgstr "格奧爾格"
+
+msgid "NAMES/GERN94"
+msgstr "熱拉爾"
+
+msgid "NAMES/GERN95"
+msgstr "格哈德"
+
+msgid "NAMES/GERN96"
+msgstr "格奧爾格"
+
+msgid "NAMES/GERN97"
+msgstr "弗里德里希"
+
+msgid "NAMES/GERN98"
+msgstr "弗裡茨"
+
+msgid "NAMES/GERN99"
+msgstr "弗雷德裡克"
+
+msgid "RANKSGER/1"
+msgstr "上校"
+
+msgid "RANKSGER/10"
+msgstr "上士"
+
+msgid "RANKSGER/2"
+msgstr "中校"
+
+msgid "RANKSGER/3"
+msgstr "少校"
+
+msgid "RANKSGER/4"
+msgstr "上尉"
+
+msgid "RANKSGER/5"
+msgstr "中尉"
+
+msgid "RANKSGER/6"
+msgstr "少尉"
+
+msgid "RANKSGER/7"
+msgstr "軍士長"
+
+msgid "RANKSGER/8"
+msgstr "一級上士"
+
+msgid "RANKSGER/9"
+msgstr "技術軍士"
+
+msgid "NAMES/GERU1"
+msgstr "von Staufen"
+
+msgid "NAMES/GERU2"
+msgstr "Weber"
+
+msgid "NAMES/GERUN1"
+msgstr "Charlotte"
+
+msgid "NAMES/GERUN2"
+msgstr "Hans"

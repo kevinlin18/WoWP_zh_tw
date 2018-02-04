@@ -1,0 +1,1415 @@
+msgid "NAMES/JAP1"
+msgstr "Tadao"
+
+msgid "NAMES/JAP10"
+msgstr "Tateo"
+
+msgid "NAMES/JAP100"
+msgstr "Koji"
+
+msgid "NAMES/JAP101"
+msgstr "Koji"
+
+msgid "NAMES/JAP102"
+msgstr "Sadamitsu"
+
+msgid "NAMES/JAP103"
+msgstr "Saburo"
+
+msgid "NAMES/JAP104"
+msgstr "Takashi"
+
+msgid "NAMES/JAP105"
+msgstr "Akiyoshi"
+
+msgid "NAMES/JAP106"
+msgstr "Shoichi"
+
+msgid "NAMES/JAP107"
+msgstr "Eisaku"
+
+msgid "NAMES/JAP108"
+msgstr "Tadao"
+
+msgid "NAMES/JAP109"
+msgstr "Yohei"
+
+msgid "NAMES/JAP11"
+msgstr "Tomio"
+
+msgid "NAMES/JAP110"
+msgstr "Tomita"
+
+msgid "NAMES/JAP111"
+msgstr "Ken-ichi"
+
+msgid "NAMES/JAP112"
+msgstr "Kozaburo"
+
+msgid "NAMES/JAP113"
+msgstr "Kiyoshi"
+
+msgid "NAMES/JAP114"
+msgstr "Chitoshi"
+
+msgid "NAMES/JAP115"
+msgstr "Matsuo"
+
+msgid "NAMES/JAP116"
+msgstr "Kazushi"
+
+msgid "NAMES/JAP117"
+msgstr "Takashi"
+
+msgid "NAMES/JAP118"
+msgstr "Takeo"
+
+msgid "NAMES/JAP119"
+msgstr "Kenji"
+
+msgid "NAMES/JAP12"
+msgstr "Mamoru"
+
+msgid "NAMES/JAP120"
+msgstr "Nobuo"
+
+msgid "NAMES/JAP121"
+msgstr "Hoki"
+
+msgid "NAMES/JAP122"
+msgstr "Kazuo"
+
+msgid "NAMES/JAP123"
+msgstr "Tomokazu"
+
+msgid "NAMES/JAP124"
+msgstr "Kan-ichi"
+
+msgid "NAMES/JAP125"
+msgstr "Kiyoshi"
+
+msgid "NAMES/JAP126"
+msgstr "Manabu"
+
+msgid "NAMES/JAP127"
+msgstr "Tetsuzo"
+
+msgid "NAMES/JAP128"
+msgstr "Tetsuo"
+
+msgid "NAMES/JAP129"
+msgstr "Kesaku"
+
+msgid "NAMES/JAP13"
+msgstr "Isamu"
+
+msgid "NAMES/JAP130"
+msgstr "Mototsuna"
+
+msgid "NAMES/JAP131"
+msgstr "Masayoshi"
+
+msgid "NAMES/JAP132"
+msgstr "Toshi"
+
+msgid "NAMES/JAP133"
+msgstr "Isamu"
+
+msgid "NAMES/JAP134"
+msgstr "Gitaro"
+
+msgid "NAMES/JAP135"
+msgstr "Yoshijiro"
+
+msgid "NAMES/JAP136"
+msgstr "Yoshio"
+
+msgid "NAMES/JAP137"
+msgstr "Masaichi"
+
+msgid "NAMES/JAP138"
+msgstr "Takeo"
+
+msgid "NAMES/JAP139"
+msgstr "Tadashi"
+
+msgid "NAMES/JAP14"
+msgstr "Susumu"
+
+msgid "NAMES/JAP140"
+msgstr "Kaname"
+
+msgid "NAMES/JAP141"
+msgstr "Kiyozumi"
+
+msgid "NAMES/JAP142"
+msgstr "Shigetoshi"
+
+msgid "NAMES/JAP143"
+msgstr "Kiyomi"
+
+msgid "NAMES/JAP144"
+msgstr "Ken-ichi"
+
+msgid "NAMES/JAP145"
+msgstr "Shigeru"
+
+msgid "NAMES/JAP146"
+msgstr "Toraichi"
+
+msgid "NAMES/JAP147"
+msgstr "Takekazu"
+
+msgid "NAMES/JAP148"
+msgstr "Toshio"
+
+msgid "NAMES/JAP149"
+msgstr "Kiyokazu"
+
+msgid "NAMES/JAP15"
+msgstr "Daisuke"
+
+msgid "NAMES/JAP150"
+msgstr "Siro"
+
+msgid "NAMES/JAP151"
+msgstr "Masao"
+
+msgid "NAMES/JAP152"
+msgstr "Saburo"
+
+msgid "NAMES/JAP153"
+msgstr "Takao"
+
+msgid "NAMES/JAP154"
+msgstr "Junichi"
+
+msgid "NAMES/JAP155"
+msgstr "Sahe"
+
+msgid "NAMES/JAP156"
+msgstr "Kojiro"
+
+msgid "NAMES/JAP157"
+msgstr "Sadao"
+
+msgid "NAMES/JAP158"
+msgstr "Ichirohe"
+
+msgid "NAMES/JAP159"
+msgstr "Akira"
+
+msgid "NAMES/JAP16"
+msgstr "Kenzo"
+
+msgid "NAMES/JAP160"
+msgstr "Ichiro"
+
+msgid "NAMES/JAP161"
+msgstr "Tomezo"
+
+msgid "NAMES/JAP162"
+msgstr "Matao"
+
+msgid "NAMES/JAP163"
+msgstr "Masami"
+
+msgid "NAMES/JAP164"
+msgstr "Hiroshi"
+
+msgid "NAMES/JAP165"
+msgstr "Sekiyoshi"
+
+msgid "NAMES/JAP166"
+msgstr "Motonari"
+
+msgid "NAMES/JAP167"
+msgstr "Shigeru"
+
+msgid "NAMES/JAP168"
+msgstr "Yasuhiro"
+
+msgid "NAMES/JAP169"
+msgstr "Tokan"
+
+msgid "NAMES/JAP17"
+msgstr "Koichi"
+
+msgid "NAMES/JAP170"
+msgstr "Toichi"
+
+msgid "NAMES/JAP171"
+msgstr "Sadamu"
+
+msgid "NAMES/JAP172"
+msgstr "Yoshinao"
+
+msgid "NAMES/JAP173"
+msgstr "Yasuhei"
+
+msgid "NAMES/JAP174"
+msgstr "Hidetoku"
+
+msgid "NAMES/JAP175"
+msgstr "Akio"
+
+msgid "NAMES/JAP176"
+msgstr "Momoto"
+
+msgid "NAMES/JAP177"
+msgstr "Kagemitsu"
+
+msgid "NAMES/JAP178"
+msgstr "Sadao"
+
+msgid "NAMES/JAP179"
+msgstr "Keishu"
+
+msgid "NAMES/JAP18"
+msgstr "Fumiharu"
+
+msgid "NAMES/JAP180"
+msgstr "Teruo"
+
+msgid "NAMES/JAP181"
+msgstr "Shoichi"
+
+msgid "NAMES/JAP182"
+msgstr "Shigeo"
+
+msgid "NAMES/JAP183"
+msgstr "Kazuo"
+
+msgid "NAMES/JAP184"
+msgstr "Tadashi"
+
+msgid "NAMES/JAP185"
+msgstr "Kiyoshi"
+
+msgid "NAMES/JAP186"
+msgstr "Hiroyoshi"
+
+msgid "NAMES/JAP187"
+msgstr "Saburo"
+
+msgid "NAMES/JAP188"
+msgstr "Shizuo"
+
+msgid "NAMES/JAP189"
+msgstr "Isamu"
+
+msgid "NAMES/JAP19"
+msgstr "Yoshio"
+
+msgid "NAMES/JAP190"
+msgstr "Susumu"
+
+msgid "NAMES/JAP191"
+msgstr "Sadaaki"
+
+msgid "NAMES/JAP192"
+msgstr "Shojiro"
+
+msgid "NAMES/JAP193"
+msgstr "Hideo"
+
+msgid "NAMES/JAP194"
+msgstr "Takahide"
+
+msgid "NAMES/JAP195"
+msgstr "Tadao"
+
+msgid "NAMES/JAP196"
+msgstr "Toshio"
+
+msgid "NAMES/JAP197"
+msgstr "Ryoji"
+
+msgid "NAMES/JAP198"
+msgstr "Shigetaka"
+
+msgid "NAMES/JAP199"
+msgstr "Yoshio"
+
+msgid "NAMES/JAP2"
+msgstr "Katsumi"
+
+msgid "NAMES/JAP20"
+msgstr "Katsuaki"
+
+msgid "NAMES/JAP200"
+msgstr "Yoshio"
+
+msgid "NAMES/JAP201"
+msgstr "Tadao"
+
+msgid "NAMES/JAP202"
+msgstr "Takeo"
+
+msgid "NAMES/JAP203"
+msgstr "Takeo"
+
+msgid "NAMES/JAP204"
+msgstr "Kunimori"
+
+msgid "NAMES/JAP205"
+msgstr "Masayuki"
+
+msgid "NAMES/JAP206"
+msgstr "Yoshiichi"
+
+msgid "NAMES/JAP207"
+msgstr "Fumiyoshi"
+
+msgid "NAMES/JAP208"
+msgstr "Wataru"
+
+msgid "NAMES/JAP209"
+msgstr "Yoshikazu"
+
+msgid "NAMES/JAP21"
+msgstr "Hideo"
+
+msgid "NAMES/JAP210"
+msgstr "Yoshikazu"
+
+msgid "NAMES/JAP211"
+msgstr "Kuniyoshi"
+
+msgid "NAMES/JAP212"
+msgstr "Tamiho"
+
+msgid "NAMES/JAP213"
+msgstr "Jiro"
+
+msgid "NAMES/JAP214"
+msgstr "Shinsaku"
+
+msgid "NAMES/JAP215"
+msgstr "Hideo"
+
+msgid "NAMES/JAP216"
+msgstr "Iyozo"
+
+msgid "NAMES/JAP217"
+msgstr "Yoshimi"
+
+msgid "NAMES/JAP218"
+msgstr "Hatsuo"
+
+msgid "NAMES/JAP219"
+msgstr "Yoshijiro"
+
+msgid "NAMES/JAP22"
+msgstr "Goro"
+
+msgid "NAMES/JAP220"
+msgstr "Watari"
+
+msgid "NAMES/JAP221"
+msgstr "Yukiharu"
+
+msgid "NAMES/JAP222"
+msgstr "Kaneyoshi"
+
+msgid "NAMES/JAP223"
+msgstr "Kazuo"
+
+msgid "NAMES/JAP224"
+msgstr "Sumio"
+
+msgid "NAMES/JAP225"
+msgstr "Shigeo"
+
+msgid "NAMES/JAP226"
+msgstr "Saburo"
+
+msgid "NAMES/JAP227"
+msgstr "Mitsuo"
+
+msgid "NAMES/JAP228"
+msgstr "Minoru"
+
+msgid "NAMES/JAP229"
+msgstr "Yoshio"
+
+msgid "NAMES/JAP23"
+msgstr "Moritsugu"
+
+msgid "NAMES/JAP230"
+msgstr "Minoru"
+
+msgid "NAMES/JAP231"
+msgstr "Kiyotake"
+
+msgid "NAMES/JAP24"
+msgstr "Goichi"
+
+msgid "NAMES/JAP25"
+msgstr "Yoshiro"
+
+msgid "NAMES/JAP26"
+msgstr "Satoru"
+
+msgid "NAMES/JAP27"
+msgstr "Muneyoshi"
+
+msgid "NAMES/JAP28"
+msgstr "Yoshigoro"
+
+msgid "NAMES/JAP29"
+msgstr "Sada"
+
+msgid "NAMES/JAP3"
+msgstr "Yoshihito"
+
+msgid "NAMES/JAP30"
+msgstr "Goro"
+
+msgid "NAMES/JAP31"
+msgstr "Tomesaku"
+
+msgid "NAMES/JAP32"
+msgstr "Yoshio"
+
+msgid "NAMES/JAP33"
+msgstr "Tomio"
+
+msgid "NAMES/JAP34"
+msgstr "Toyoki"
+
+msgid "NAMES/JAP35"
+msgstr "Haruo"
+
+msgid "NAMES/JAP36"
+msgstr "Keiji"
+
+msgid "NAMES/JAP37"
+msgstr "Takeo"
+
+msgid "NAMES/JAP38"
+msgstr "Yashuhiko"
+
+msgid "NAMES/JAP39"
+msgstr "Taruyoshi"
+
+msgid "NAMES/JAP4"
+msgstr "Totaro"
+
+msgid "NAMES/JAP40"
+msgstr "Shoji"
+
+msgid "NAMES/JAP41"
+msgstr "Isao"
+
+msgid "NAMES/JAP42"
+msgstr "Chiyoharu"
+
+msgid "NAMES/JAP43"
+msgstr "Shogo"
+
+msgid "NAMES/JAP44"
+msgstr "Isao"
+
+msgid "NAMES/JAP45"
+msgstr "Iori"
+
+msgid "NAMES/JAP46"
+msgstr "Toshio"
+
+msgid "NAMES/JAP47"
+msgstr "Fumikazu"
+
+msgid "NAMES/JAP48"
+msgstr "Hironojo"
+
+msgid "NAMES/JAP49"
+msgstr "Chuichi"
+
+msgid "NAMES/JAP5"
+msgstr "Misao"
+
+msgid "NAMES/JAP50"
+msgstr "Kojun"
+
+msgid "NAMES/JAP51"
+msgstr "Hiromichi"
+
+msgid "NAMES/JAP52"
+msgstr "Rikio"
+
+msgid "NAMES/JAP53"
+msgstr "Yukiyoshi"
+
+msgid "NAMES/JAP54"
+msgstr "Noboru"
+
+msgid "NAMES/JAP55"
+msgstr "Masatoshi"
+
+msgid "NAMES/JAP56"
+msgstr "Makoto"
+
+msgid "NAMES/JAP57"
+msgstr "Mitsuo"
+
+msgid "NAMES/JAP58"
+msgstr "Megumu"
+
+msgid "NAMES/JAP59"
+msgstr "Hiroshi"
+
+msgid "NAMES/JAP6"
+msgstr "Iwataro"
+
+msgid "NAMES/JAP60"
+msgstr "Hazuki"
+
+msgid "NAMES/JAP61"
+msgstr "Teruhiko"
+
+msgid "NAMES/JAP62"
+msgstr "Taro"
+
+msgid "NAMES/JAP63"
+msgstr "Toshio"
+
+msgid "NAMES/JAP64"
+msgstr "Ryotaro"
+
+msgid "NAMES/JAP65"
+msgstr "Naoharu"
+
+msgid "NAMES/JAP66"
+msgstr "Noboru"
+
+msgid "NAMES/JAP67"
+msgstr "Masao"
+
+msgid "NAMES/JAP68"
+msgstr "Tokuya"
+
+msgid "NAMES/JAP69"
+msgstr "Mitsuyoshi"
+
+msgid "NAMES/JAP7"
+msgstr "Jiro"
+
+msgid "NAMES/JAP70"
+msgstr "Tadashi"
+
+msgid "NAMES/JAP71"
+msgstr "Kazuo"
+
+msgid "NAMES/JAP72"
+msgstr "Hideharu"
+
+msgid "NAMES/JAP73"
+msgstr "Kiyoshi"
+
+msgid "NAMES/JAP74"
+msgstr "Goro"
+
+msgid "NAMES/JAP75"
+msgstr "Yutaka"
+
+msgid "NAMES/JAP76"
+msgstr "Takeo"
+
+msgid "NAMES/JAP77"
+msgstr "Kanshi"
+
+msgid "NAMES/JAP78"
+msgstr "Noriyasu"
+
+msgid "NAMES/JAP79"
+msgstr "Koji"
+
+msgid "NAMES/JAP8"
+msgstr "Yukio"
+
+msgid "NAMES/JAP80"
+msgstr "Hitoshi"
+
+msgid "NAMES/JAP81"
+msgstr "Hyoe"
+
+msgid "NAMES/JAP82"
+msgstr "Kyushiro"
+
+msgid "NAMES/JAP83"
+msgstr "Zenzaburo"
+
+msgid "NAMES/JAP84"
+msgstr "Mitsugu"
+
+msgid "NAMES/JAP85"
+msgstr "Yoshihiko"
+
+msgid "NAMES/JAP86"
+msgstr "Shogo"
+
+msgid "NAMES/JAP87"
+msgstr "Saburo"
+
+msgid "NAMES/JAP88"
+msgstr "Yoshihiko"
+
+msgid "NAMES/JAP89"
+msgstr "Riichi"
+
+msgid "NAMES/JAP9"
+msgstr "Masaharu"
+
+msgid "NAMES/JAP90"
+msgstr "Tomoaki"
+
+msgid "NAMES/JAP91"
+msgstr "Kosuke"
+
+msgid "NAMES/JAP92"
+msgstr "Miyoshi"
+
+msgid "NAMES/JAP93"
+msgstr "Kenzi"
+
+msgid "NAMES/JAP94"
+msgstr "Saburo"
+
+msgid "NAMES/JAP95"
+msgstr "Takaaki"
+
+msgid "NAMES/JAP96"
+msgstr "Shigeo"
+
+msgid "NAMES/JAP97"
+msgstr "Nagao"
+
+msgid "NAMES/JAP98"
+msgstr "Nakakazu"
+
+msgid "NAMES/JAP99"
+msgstr "Tokuro"
+
+msgid "NAMES/JAPN1"
+msgstr "Ashida"
+
+msgid "NAMES/JAPN10"
+msgstr "Kato"
+
+msgid "NAMES/JAPN100"
+msgstr "Motomura"
+
+msgid "NAMES/JAPN101"
+msgstr "Kimura"
+
+msgid "NAMES/JAPN102"
+msgstr "Kimura"
+
+msgid "NAMES/JAPN103"
+msgstr "Kimura"
+
+msgid "NAMES/JAPN104"
+msgstr "Noguchi"
+
+msgid "NAMES/JAPN105"
+msgstr "Nomura"
+
+msgid "NAMES/JAPN106"
+msgstr "Suzuki"
+
+msgid "NAMES/JAPN107"
+msgstr "Suzuki"
+
+msgid "NAMES/JAPN108"
+msgstr "Sumi"
+
+msgid "NAMES/JAPN109"
+msgstr "Hinoki"
+
+msgid "NAMES/JAPN11"
+msgstr "Hanada"
+
+msgid "NAMES/JAPN110"
+msgstr "Abu"
+
+msgid "NAMES/JAPN111"
+msgstr "Abe"
+
+msgid "NAMES/JAPN112"
+msgstr "Yasui"
+
+msgid "NAMES/JAPN113"
+msgstr "Ito"
+
+msgid "NAMES/JAPN114"
+msgstr "Isozaki"
+
+msgid "NAMES/JAPN115"
+msgstr "Hagiri"
+
+msgid "NAMES/JAPN116"
+msgstr "Hato"
+
+msgid "NAMES/JAPN117"
+msgstr "Oshibuchi"
+
+msgid "NAMES/JAPN118"
+msgstr "Okumura"
+
+msgid "NAMES/JAPN119"
+msgstr "Okabe"
+
+msgid "NAMES/JAPN12"
+msgstr "Hanada"
+
+msgid "NAMES/JAPN120"
+msgstr "Ogiya"
+
+msgid "NAMES/JAPN121"
+msgstr "Kato"
+
+msgid "NAMES/JAPN122"
+msgstr "Tsunoda"
+
+msgid "NAMES/JAPN123"
+msgstr "Kasai"
+
+msgid "NAMES/JAPN124"
+msgstr "Kashimura"
+
+msgid "NAMES/JAPN125"
+msgstr "Sekitani"
+
+msgid "NAMES/JAPN126"
+msgstr "Iwai"
+
+msgid "NAMES/JAPN127"
+msgstr "Iwamoto"
+
+msgid "NAMES/JAPN128"
+msgstr "Kikuchi"
+
+msgid "NAMES/JAPN129"
+msgstr "Yoshimura"
+
+msgid "NAMES/JAPN13"
+msgstr "Kashiide"
+
+msgid "NAMES/JAPN130"
+msgstr "Yoshida"
+
+msgid "NAMES/JAPN131"
+msgstr "Yoshida"
+
+msgid "NAMES/JAPN132"
+msgstr "Yoshino"
+
+msgid "NAMES/JAPN133"
+msgstr "Miyazaki"
+
+msgid "NAMES/JAPN134"
+msgstr "Miyazaki"
+
+msgid "NAMES/JAPN135"
+msgstr "Miyano"
+
+msgid "NAMES/JAPN136"
+msgstr "Hashiguchi"
+
+msgid "NAMES/JAPN137"
+msgstr "Kondo"
+
+msgid "NAMES/JAPN138"
+msgstr "Kanamaru"
+
+msgid "NAMES/JAPN139"
+msgstr "Kaneko"
+
+msgid "NAMES/JAPN14"
+msgstr "Kajinami"
+
+msgid "NAMES/JAPN140"
+msgstr "Harada"
+
+msgid "NAMES/JAPN141"
+msgstr "Koga"
+
+msgid "NAMES/JAPN142"
+msgstr "Kudo"
+
+msgid "NAMES/JAPN143"
+msgstr "Katsuki"
+
+msgid "NAMES/JAPN144"
+msgstr "Takahashi"
+
+msgid "NAMES/JAPN145"
+msgstr "Takahashi"
+
+msgid "NAMES/JAPN146"
+msgstr "Takatsuka"
+
+msgid "NAMES/JAPN147"
+msgstr "Kokubu"
+
+msgid "NAMES/JAPN148"
+msgstr "Kuroiwa"
+
+msgid "NAMES/JAPN149"
+msgstr "Kurosawa"
+
+msgid "NAMES/JAPN15"
+msgstr "Kanbara"
+
+msgid "NAMES/JAPN150"
+msgstr "Kurotori"
+
+msgid "NAMES/JAPN151"
+msgstr "Sasakihara"
+
+msgid "NAMES/JAPN152"
+msgstr "Sakai"
+
+msgid "NAMES/JAPN153"
+msgstr "Sakano"
+
+msgid "NAMES/JAPN154"
+msgstr "Sasai"
+
+msgid "NAMES/JAPN155"
+msgstr "Yamashita"
+
+msgid "NAMES/JAPN156"
+msgstr "Yamashita"
+
+msgid "NAMES/JAPN157"
+msgstr "Yamaguchi"
+
+msgid "NAMES/JAPN158"
+msgstr "Yamazaki"
+
+msgid "NAMES/JAPN159"
+msgstr "Yamamoto"
+
+msgid "NAMES/JAPN16"
+msgstr "Iwahashi"
+
+msgid "NAMES/JAPN160"
+msgstr "Yamamoto"
+
+msgid "NAMES/JAPN161"
+msgstr "Yamamoto"
+
+msgid "NAMES/JAPN162"
+msgstr "Ichioka"
+
+msgid "NAMES/JAPN163"
+msgstr "Shiga"
+
+msgid "NAMES/JAPN164"
+msgstr "Shibagaki"
+
+msgid "NAMES/JAPN165"
+msgstr "Shibayama"
+
+msgid "NAMES/JAPN166"
+msgstr "Shubo"
+
+msgid "NAMES/JAPN167"
+msgstr "Shibukawa"
+
+msgid "NAMES/JAPN168"
+msgstr "Shigematsu"
+
+msgid "NAMES/JAPN169"
+msgstr "Kodaka"
+
+msgid "NAMES/JAPN17"
+msgstr "Iwase"
+
+msgid "NAMES/JAPN170"
+msgstr "Koizumi"
+
+msgid "NAMES/JAPN171"
+msgstr "Komachi"
+
+msgid "NAMES/JAPN172"
+msgstr "Kodaira"
+
+msgid "NAMES/JAPN173"
+msgstr "Kobayashi"
+
+msgid "NAMES/JAPN174"
+msgstr "Matsunaga"
+
+msgid "NAMES/JAPN175"
+msgstr "Matsuba"
+
+msgid "NAMES/JAPN176"
+msgstr "Matsumura"
+
+msgid "NAMES/JAPN177"
+msgstr "Matsuo"
+
+msgid "NAMES/JAPN178"
+msgstr "Uehara"
+
+msgid "NAMES/JAPN179"
+msgstr "Kamidaira"
+
+msgid "NAMES/JAPN18"
+msgstr "Yoshiyama"
+
+msgid "NAMES/JAPN180"
+msgstr "Sugiyama"
+
+msgid "NAMES/JAPN181"
+msgstr "Sugita"
+
+msgid "NAMES/JAPN182"
+msgstr "Sugio"
+
+msgid "NAMES/JAPN183"
+msgstr "Sugino"
+
+msgid "NAMES/JAPN184"
+msgstr "Sugano"
+
+msgid "NAMES/JAPN185"
+msgstr "Simizu"
+
+msgid "NAMES/JAPN186"
+msgstr "Nishizawa"
+
+msgid "NAMES/JAPN187"
+msgstr "Saito"
+
+msgid "NAMES/JAPN188"
+msgstr "Ishii"
+
+msgid "NAMES/JAPN189"
+msgstr "Ishii"
+
+msgid "NAMES/JAPN19"
+msgstr "Yoshida"
+
+msgid "NAMES/JAPN190"
+msgstr "Ishiwara"
+
+msgid "NAMES/JAPN191"
+msgstr "Akamatsu"
+
+msgid "NAMES/JAPN192"
+msgstr "Kawato"
+
+msgid "NAMES/JAPN193"
+msgstr "Maeda"
+
+msgid "NAMES/JAPN194"
+msgstr "Aioi"
+
+msgid "NAMES/JAPN195"
+msgstr "Masuyama"
+
+msgid "NAMES/JAPN196"
+msgstr "Ota"
+
+msgid "NAMES/JAPN197"
+msgstr "Ohara"
+
+msgid "NAMES/JAPN198"
+msgstr "Omori"
+
+msgid "NAMES/JAPN199"
+msgstr "Oishi"
+
+msgid "NAMES/JAPN2"
+msgstr "Anma"
+
+msgid "NAMES/JAPN20"
+msgstr "Kira"
+
+msgid "NAMES/JAPN200"
+msgstr "Oki"
+
+msgid "NAMES/JAPN201"
+msgstr "Taniguchi"
+
+msgid "NAMES/JAPN202"
+msgstr "Tanimizu"
+
+msgid "NAMES/JAPN203"
+msgstr "Tanimizu"
+
+msgid "NAMES/JAPN204"
+msgstr "Nakagaya"
+
+msgid "NAMES/JAPN205"
+msgstr "Nakase"
+
+msgid "NAMES/JAPN206"
+msgstr "Nakatani"
+
+msgid "NAMES/JAPN207"
+msgstr "Nakajima"
+
+msgid "NAMES/JAPN208"
+msgstr "Nakamichi"
+
+msgid "NAMES/JAPN209"
+msgstr "Nagahama"
+
+msgid "NAMES/JAPN21"
+msgstr "Miyabe"
+
+msgid "NAMES/JAPN210"
+msgstr "Nagano"
+
+msgid "NAMES/JAPN211"
+msgstr "Tanaka"
+
+msgid "NAMES/JAPN212"
+msgstr "Tanaka"
+
+msgid "NAMES/JAPN213"
+msgstr "Tanaka"
+
+msgid "NAMES/JAPN214"
+msgstr "Tanaka"
+
+msgid "NAMES/JAPN215"
+msgstr "Watanabe"
+
+msgid "NAMES/JAPN216"
+msgstr "Fujita"
+
+msgid "NAMES/JAPN217"
+msgstr "Minami"
+
+msgid "NAMES/JAPN218"
+msgstr "Hidaka"
+
+msgid "NAMES/JAPN219"
+msgstr "Shirahama"
+
+msgid "NAMES/JAPN22"
+msgstr "Miyamoto"
+
+msgid "NAMES/JAPN220"
+msgstr "Handa"
+
+msgid "NAMES/JAPN221"
+msgstr "Ozeki"
+
+msgid "NAMES/JAPN222"
+msgstr "Mutou"
+
+msgid "NAMES/JAPN223"
+msgstr "Fukube"
+
+msgid "NAMES/JAPN224"
+msgstr "Fukuda"
+
+msgid "NAMES/JAPN225"
+msgstr "Fukumoto"
+
+msgid "NAMES/JAPN226"
+msgstr "Kitahata"
+
+msgid "NAMES/JAPN227"
+msgstr "Hori"
+
+msgid "NAMES/JAPN228"
+msgstr "Honda"
+
+msgid "NAMES/JAPN229"
+msgstr "Wajima"
+
+msgid "NAMES/JAPN23"
+msgstr "Kanai"
+
+msgid "NAMES/JAPN230"
+msgstr "Suzuki"
+
+msgid "NAMES/JAPN231"
+msgstr "Shigeno"
+
+msgid "NAMES/JAPN24"
+msgstr "Sumino"
+
+msgid "NAMES/JAPN25"
+msgstr "Kuwabara"
+
+msgid "NAMES/JAPN26"
+msgstr "Anabuki"
+
+msgid "NAMES/JAPN27"
+msgstr "Motojima"
+
+msgid "NAMES/JAPN28"
+msgstr "Haraguchi"
+
+msgid "NAMES/JAPN29"
+msgstr "Koga"
+
+msgid "NAMES/JAPN3"
+msgstr "Yasuda"
+
+msgid "NAMES/JAPN30"
+msgstr "Furugori"
+
+msgid "NAMES/JAPN31"
+msgstr "Igarashi"
+
+msgid "NAMES/JAPN32"
+msgstr "Hirose"
+
+msgid "NAMES/JAPN33"
+msgstr "Hirohata"
+
+msgid "NAMES/JAPN34"
+msgstr "Eto"
+
+msgid "NAMES/JAPN35"
+msgstr "Takagaki"
+
+msgid "NAMES/JAPN36"
+msgstr "Takamiya"
+
+msgid "NAMES/JAPN37"
+msgstr "Takahashi"
+
+msgid "NAMES/JAPN38"
+msgstr "Kuroe"
+
+msgid "NAMES/JAPN39"
+msgstr "Kuroki"
+
+msgid "NAMES/JAPN4"
+msgstr "Ito"
+
+msgid "NAMES/JAPN40"
+msgstr "Kurono"
+
+msgid "NAMES/JAPN41"
+msgstr "Sasaki"
+
+msgid "NAMES/JAPN42"
+msgstr "Saito"
+
+msgid "NAMES/JAPN43"
+msgstr "Saito"
+
+msgid "NAMES/JAPN44"
+msgstr "Hosono"
+
+msgid "NAMES/JAPN45"
+msgstr "Sakai"
+
+msgid "NAMES/JAPN46"
+msgstr "Sakakawa"
+
+msgid "NAMES/JAPN47"
+msgstr "Yamaguchi"
+
+msgid "NAMES/JAPN48"
+msgstr "Yoshimoto"
+
+msgid "NAMES/JAPN49"
+msgstr "Ichikawa"
+
+msgid "NAMES/JAPN5"
+msgstr "Inoue"
+
+msgid "NAMES/JAPN50"
+msgstr "Kodama"
+
+msgid "NAMES/JAPN51"
+msgstr "Shinohara"
+
+msgid "NAMES/JAPN52"
+msgstr "Shibata"
+
+msgid "NAMES/JAPN53"
+msgstr "Wakamatsu"
+
+msgid "NAMES/JAPN54"
+msgstr "So"
+
+msgid "NAMES/JAPN55"
+msgstr "Masuzawa"
+
+msgid "NAMES/JAPN56"
+msgstr "Ogawa"
+
+msgid "NAMES/JAPN57"
+msgstr "Ogura"
+
+msgid "NAMES/JAPN58"
+msgstr "Ono"
+
+msgid "NAMES/JAPN59"
+msgstr "Onozaki"
+
+msgid "NAMES/JAPN6"
+msgstr "Usawa"
+
+msgid "NAMES/JAPN60"
+msgstr "Kobayashi"
+
+msgid "NAMES/JAPN61"
+msgstr "Kobayashi"
+
+msgid "NAMES/JAPN62"
+msgstr "Kobayashi"
+
+msgid "NAMES/JAPN63"
+msgstr "Matsuura"
+
+msgid "NAMES/JAPN64"
+msgstr "Jobo"
+
+msgid "NAMES/JAPN65"
+msgstr "Shiromoto"
+
+msgid "NAMES/JAPN66"
+msgstr "Kobe"
+
+msgid "NAMES/JAPN67"
+msgstr "Shindo"
+
+msgid "NAMES/JAPN68"
+msgstr "Sudo"
+
+msgid "NAMES/JAPN69"
+msgstr "Tarui"
+
+msgid "NAMES/JAPN7"
+msgstr "Okuda"
+
+msgid "NAMES/JAPN70"
+msgstr "Tadano"
+
+msgid "NAMES/JAPN71"
+msgstr "Shimizu"
+
+msgid "NAMES/JAPN72"
+msgstr "Kiyono"
+
+msgid "NAMES/JAPN73"
+msgstr "Ikui"
+
+msgid "NAMES/JAPN74"
+msgstr "Nishihara"
+
+msgid "NAMES/JAPN75"
+msgstr "Aoyagi"
+
+msgid "NAMES/JAPN76"
+msgstr "Ishii"
+
+msgid "NAMES/JAPN77"
+msgstr "Ishikawa"
+
+msgid "NAMES/JAPN78"
+msgstr "Ishizuka"
+
+msgid "NAMES/JAPN79"
+msgstr "Ishizawa"
+
+msgid "NAMES/JAPN8"
+msgstr "Shimokawa"
+
+msgid "NAMES/JAPN80"
+msgstr "Asano"
+
+msgid "NAMES/JAPN81"
+msgstr "Yonaga"
+
+msgid "NAMES/JAPN82"
+msgstr "Otake"
+
+msgid "NAMES/JAPN83"
+msgstr "Otsuka"
+
+msgid "NAMES/JAPN84"
+msgstr "Sawata"
+
+msgid "NAMES/JAPN85"
+msgstr "Tanijima"
+
+msgid "NAMES/JAPN86"
+msgstr "Takeuchi"
+
+msgid "NAMES/JAPN87"
+msgstr "Nakamura"
+
+msgid "NAMES/JAPN88"
+msgstr "Nakata"
+
+msgid "NAMES/JAPN89"
+msgstr "Igashira"
+
+msgid "NAMES/JAPN9"
+msgstr "Kato"
+
+msgid "NAMES/JAPN90"
+msgstr "Hasegawa"
+
+msgid "NAMES/JAPN91"
+msgstr "Tsubone"
+
+msgid "NAMES/JAPN92"
+msgstr "Simamura"
+
+msgid "NAMES/JAPN93"
+msgstr "Shimada"
+
+msgid "NAMES/JAPN94"
+msgstr "Togo"
+
+msgid "NAMES/JAPN95"
+msgstr "Minami"
+
+msgid "NAMES/JAPN96"
+msgstr "Nango"
+
+msgid "NAMES/JAPN97"
+msgstr "Shirai"
+
+msgid "NAMES/JAPN98"
+msgstr "Ozaki"
+
+msgid "NAMES/JAPN99"
+msgstr "Fukuda"
+
+msgid "RANKSJAP/1"
+msgstr "Taisa"
+
+msgid "RANKSJAP/10"
+msgstr "Nitto Hiko Heiso"
+
+msgid "RANKSJAP/2"
+msgstr "Chusa"
+
+msgid "RANKSJAP/3"
+msgstr "Shosa"
+
+msgid "RANKSJAP/4"
+msgstr "Taii"
+
+msgid "RANKSJAP/5"
+msgstr "Chui"
+
+msgid "RANKSJAP/6"
+msgstr "Shoi"
+
+msgid "RANKSJAP/7"
+msgstr "Hiko Hei socho"
+
+msgid "RANKSJAP/8"
+msgstr "Joto Hiko Heiso"
+
+msgid "RANKSJAP/9"
+msgstr "Itto Hiko Heiso"

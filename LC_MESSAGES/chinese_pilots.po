@@ -1,0 +1,377 @@
+msgid "NAMES/CN1"
+msgstr "Bei"
+
+msgid "NAMES/CN10"
+msgstr "Hang"
+
+msgid "NAMES/CN11"
+msgstr "Hao"
+
+msgid "NAMES/CN12"
+msgstr "Cao"
+
+msgid "NAMES/CN13"
+msgstr "He"
+
+msgid "NAMES/CN14"
+msgstr "Huo"
+
+msgid "NAMES/CN15"
+msgstr "Ji"
+
+msgid "NAMES/CN16"
+msgstr "Jia"
+
+msgid "NAMES/CN17"
+msgstr "Jiang"
+
+msgid "NAMES/CN18"
+msgstr "Jing"
+
+msgid "NAMES/CN19"
+msgstr "Kong"
+
+msgid "NAMES/CN2"
+msgstr "Feng"
+
+msgid "NAMES/CN20"
+msgstr "Lan"
+
+msgid "NAMES/CN21"
+msgstr "Li"
+
+msgid "NAMES/CN22"
+msgstr "Lian"
+
+msgid "NAMES/CN23"
+msgstr "Chen"
+
+msgid "NAMES/CN24"
+msgstr "Lin"
+
+msgid "NAMES/CN25"
+msgstr "Liu"
+
+msgid "NAMES/CN26"
+msgstr "Lu"
+
+msgid "NAMES/CN27"
+msgstr "Lou"
+
+msgid "NAMES/CN28"
+msgstr "Ma"
+
+msgid "NAMES/CN29"
+msgstr "Mi"
+
+msgid "NAMES/CN3"
+msgstr "Fu"
+
+msgid "NAMES/CN30"
+msgstr "Miao"
+
+msgid "NAMES/CN31"
+msgstr "Niu"
+
+msgid "NAMES/CN32"
+msgstr "Nong"
+
+msgid "NAMES/CN33"
+msgstr "Ouyang"
+
+msgid "NAMES/CN34"
+msgstr "Chi"
+
+msgid "NAMES/CN35"
+msgstr "Pang"
+
+msgid "NAMES/CN36"
+msgstr "Qiao"
+
+msgid "NAMES/CN37"
+msgstr "Qin"
+
+msgid "NAMES/CN38"
+msgstr "Qu"
+
+msgid "NAMES/CN39"
+msgstr "Quan"
+
+msgid "NAMES/CN4"
+msgstr "Gan"
+
+msgid "NAMES/CN40"
+msgstr "Shangguan"
+
+msgid "NAMES/CN41"
+msgstr "Shen"
+
+msgid "NAMES/CN42"
+msgstr "Shi"
+
+msgid "NAMES/CN43"
+msgstr "Sima"
+
+msgid "NAMES/CN44"
+msgstr "Su"
+
+msgid "NAMES/CN45"
+msgstr "Chu"
+
+msgid "NAMES/CN46"
+msgstr "Sun"
+
+msgid "NAMES/CN47"
+msgstr "Wan"
+
+msgid "NAMES/CN48"
+msgstr "Wang"
+
+msgid "NAMES/CN49"
+msgstr "Wei"
+
+msgid "NAMES/CN5"
+msgstr "Ge"
+
+msgid "NAMES/CN50"
+msgstr "Wen"
+
+msgid "NAMES/CN51"
+msgstr "Wu"
+
+msgid "NAMES/CN52"
+msgstr "Xi"
+
+msgid "NAMES/CN53"
+msgstr "Xie"
+
+msgid "NAMES/CN54"
+msgstr "Ximen"
+
+msgid "NAMES/CN55"
+msgstr "Yan"
+
+msgid "NAMES/CN56"
+msgstr "Dai"
+
+msgid "NAMES/CN57"
+msgstr "Yin"
+
+msgid "NAMES/CN58"
+msgstr "You"
+
+msgid "NAMES/CN59"
+msgstr "Yu"
+
+msgid "NAMES/CN6"
+msgstr "Gong"
+
+msgid "NAMES/CN60"
+msgstr "Yuchi"
+
+msgid "NAMES/CN61"
+msgstr "Zeng"
+
+msgid "NAMES/CN62"
+msgstr "Zhang"
+
+msgid "NAMES/CN63"
+msgstr "Zhao"
+
+msgid "NAMES/CN64"
+msgstr "Zhong"
+
+msgid "NAMES/CN65"
+msgstr "Zhou"
+
+msgid "NAMES/CN66"
+msgstr "Zhuge"
+
+msgid "NAMES/CN67"
+msgstr "Duan"
+
+msgid "NAMES/CN68"
+msgstr "Fang"
+
+msgid "NAMES/CN69"
+msgstr "Fei"
+
+msgid "NAMES/CN7"
+msgstr "Gongsun"
+
+msgid "NAMES/CN8"
+msgstr "Gu"
+
+msgid "NAMES/CN9"
+msgstr "Han"
+
+msgid "NAMES/CNN1"
+msgstr "Delong"
+
+msgid "NAMES/CNN10"
+msgstr "Guoyuan"
+
+msgid "NAMES/CNN11"
+msgstr "Ke"
+
+msgid "NAMES/CNN12"
+msgstr "Yueqiao"
+
+msgid "NAMES/CNN13"
+msgstr "Dawei"
+
+msgid "NAMES/CNN14"
+msgstr "Wei"
+
+msgid "NAMES/CNN15"
+msgstr "Anbang"
+
+msgid "NAMES/CNN16"
+msgstr "Ting"
+
+msgid "NAMES/CNN17"
+msgstr "Yihu"
+
+msgid "NAMES/CNN18"
+msgstr "Kemeng"
+
+msgid "NAMES/CNN19"
+msgstr "Fei"
+
+msgid "NAMES/CNN2"
+msgstr "Shusheng"
+
+msgid "NAMES/CNN20"
+msgstr "Ran"
+
+msgid "NAMES/CNN21"
+msgstr "Zhu"
+
+msgid "NAMES/CNN22"
+msgstr "Cai"
+
+msgid "NAMES/CNN23"
+msgstr "Yang"
+
+msgid "NAMES/CNN24"
+msgstr "Ding"
+
+msgid "NAMES/CNN25"
+msgstr "Tang"
+
+msgid "NAMES/CNN26"
+msgstr "Luo"
+
+msgid "NAMES/CNN27"
+msgstr "Gao"
+
+msgid "NAMES/CNN28"
+msgstr "Xu"
+
+msgid "NAMES/CNN29"
+msgstr "Zhen"
+
+msgid "NAMES/CNN3"
+msgstr "Weiyong"
+
+msgid "NAMES/CNN30"
+msgstr "Hong"
+
+msgid "NAMES/CNN31"
+msgstr "Jun"
+
+msgid "NAMES/CNN32"
+msgstr "Hui"
+
+msgid "NAMES/CNN33"
+msgstr "Xian"
+
+msgid "NAMES/CNN34"
+msgstr "Yi"
+
+msgid "NAMES/CNN35"
+msgstr "Jin"
+
+msgid "NAMES/CNN36"
+msgstr "Shan"
+
+msgid "NAMES/CNN37"
+msgstr "Shu"
+
+msgid "NAMES/CNN38"
+msgstr "Fen"
+
+msgid "NAMES/CNN39"
+msgstr "Xue"
+
+msgid "NAMES/CNN4"
+msgstr "Bingjun"
+
+msgid "NAMES/CNN40"
+msgstr "Ping"
+
+msgid "NAMES/CNN41"
+msgstr "Xuan"
+
+msgid "NAMES/CNN42"
+msgstr "Xiu"
+
+msgid "NAMES/CNN43"
+msgstr "Mei"
+
+msgid "NAMES/CNN44"
+msgstr "Xin"
+
+msgid "NAMES/CNN45"
+msgstr "Ling"
+
+msgid "NAMES/CNN46"
+msgstr "Na"
+
+msgid "NAMES/CNN47"
+msgstr "Min"
+
+msgid "NAMES/CNN5"
+msgstr "Daosheng"
+
+msgid "NAMES/CNN6"
+msgstr "Zhiguang"
+
+msgid "NAMES/CNN7"
+msgstr "Tong"
+
+msgid "NAMES/CNN8"
+msgstr "Dapeng"
+
+msgid "NAMES/CNN9"
+msgstr "Xiangdong"
+
+msgid "RANKSCN/1"
+msgstr "Colonel"
+
+msgid "RANKSCN/10"
+msgstr "Sergeant"
+
+msgid "RANKSCN/2"
+msgstr "Lt.Colonel"
+
+msgid "RANKSCN/3"
+msgstr "Major"
+
+msgid "RANKSCN/4"
+msgstr "Senior Captain"
+
+msgid "RANKSCN/5"
+msgstr "Captain"
+
+msgid "RANKSCN/6"
+msgstr "1st Lieutenant"
+
+msgid "RANKSCN/7"
+msgstr "2nd Lieutenant"
+
+msgid "RANKSCN/8"
+msgstr "Warrant Officer"
+
+msgid "RANKSCN/9"
+msgstr "Sergeant 1st Class"

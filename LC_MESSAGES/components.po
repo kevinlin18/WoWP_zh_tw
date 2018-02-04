@@ -1,0 +1,4726 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: World Of Tanks\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-02-17 10:00+0300\n"
+"Last-Translator:  <>\n"
+"Language-Team: WoT Team <noreply@wargaming.net>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "BOMB_DESCRIPTION"
+msgstr "炸彈"
+
+msgid "BOMB_RACK_DESCRIPTION"
+msgstr "炸彈掛架 {name}"
+
+msgid "COMPONENT_NAME_M-93-RD-1"
+msgstr "M-93 + RD-1"
+
+msgid "COMPONENT_NAME_M-93-RD-13"
+msgstr "M-93 + RD-13"
+
+msgid "COMPONENT_NAME_T-2PA-L"
+msgstr "尾砲"
+
+msgid "COMPONENT_NAME_T-AO-192"
+msgstr "尾砲"
+
+msgid "COMPONENT_NAME_T-AO-192-2"
+msgstr "尾砲"
+
+msgid "COMPONENT_NAME_T-BF110B"
+msgstr "尾砲"
+
+msgid "COMPONENT_NAME_T-BF110B-2"
+msgstr "尾砲"
+
+msgid "COMPONENT_NAME_T-BF110E"
+msgstr "尾砲"
+
+msgid "COMPONENT_NAME_T-BF110E-2"
+msgstr "尾砲"
+
+msgid "COMPONENT_NAME_T-BSH-1"
+msgstr "尾砲"
+
+msgid "COMPONENT_NAME_T-FW-57"
+msgstr "尾砲"
+
+msgid "COMPONENT_NAME_T-FW-57-2"
+msgstr "尾砲"
+
+msgid "COMPONENT_NAME_T-IL-10"
+msgstr "尾砲"
+
+msgid "COMPONENT_NAME_T-IL-10-2"
+msgstr "尾砲"
+
+msgid "COMPONENT_NAME_T-IL-2-2"
+msgstr "尾砲"
+
+msgid "COMPONENT_NAME_T-IL-2-2-2"
+msgstr "尾砲"
+
+msgid "COMPONENT_NAME_T-IL-20"
+msgstr "尾砲"
+
+msgid "COMPONENT_NAME_T-IL-20-2"
+msgstr "改進型尾砲"
+
+msgid "COMPONENT_NAME_T-IL-40"
+msgstr "尾砲"
+
+msgid "COMPONENT_NAME_T-IL-40-2"
+msgstr "尾砲"
+
+msgid "COMPONENT_NAME_T-IL-40-3"
+msgstr "尾砲"
+
+msgid "COMPONENT_NAME_T-IL-8"
+msgstr "尾砲"
+
+msgid "COMPONENT_NAME_T-IL-8-2"
+msgstr "尾砲"
+
+msgid "COMPONENT_NAME_T-LBSH"
+msgstr "尾砲"
+
+msgid "COMPONENT_NAME_T-LBSH-2"
+msgstr "改進型尾砲"
+
+msgid "COMPONENT_NAME_T-ME-P1099B"
+msgstr "尾砲"
+
+msgid "COMPONENT_NAME_T-ME-P1099B-2"
+msgstr "改進型尾砲"
+
+msgid "COMPONENT_NAME_T-ME210"
+msgstr "尾砲"
+
+msgid "COMPONENT_NAME_T-ME410"
+msgstr "尾砲"
+
+msgid "COMPONENT_NAME_T-TANDEM"
+msgstr "尾砲"
+
+msgid "COMPONENT_NAME_T-TSH-1"
+msgstr "尾砲"
+
+msgid "COMPONENT_NAME_T-TSH-1-2"
+msgstr "尾砲"
+
+msgid "COMPONENT_NAME_T-TSH-3"
+msgstr "尾砲"
+
+msgid "COMPONENT_NAME_T-TSH-3-2"
+msgstr "尾砲"
+
+msgid "ENGINE_DESCRIPTION"
+msgstr "發動機"
+
+msgid "GUN_DESCRIPTION"
+msgstr "前射武器"
+
+msgid "NAME_MODULE_2PA-L_HULL-PR"
+msgstr "2PA-L"
+
+msgid "NAME_MODULE_2PA_PLANER_PR"
+msgstr "2PA"
+
+msgid "NAME_MODULE_2XDB-601F-PR"
+msgstr "DB 601 F"
+
+msgid "NAME_MODULE_A5M_HULL"
+msgstr "九六艦戰"
+
+msgid "NAME_MODULE_A6M1"
+msgstr "零戰原型"
+
+msgid "NAME_MODULE_A6M1_PLANER"
+msgstr "零戰原型"
+
+msgid "NAME_MODULE_A6M2-11_PLANER"
+msgstr "零戰一一型"
+
+msgid "NAME_MODULE_A6M2-21_PLANER"
+msgstr "零戰二一型"
+
+msgid "NAME_MODULE_A6M2_11"
+msgstr "十二試艦戰"
+
+msgid "NAME_MODULE_A6M3"
+msgstr "零戰五二型"
+
+msgid "NAME_MODULE_A6M3-30_PLANER_PR"
+msgstr "A6M3 (exp.)"
+
+msgid "NAME_MODULE_A6M5_HULL"
+msgstr "零戰五二型甲"
+
+msgid "NAME_MODULE_A6M5_MODEL_52_HEI_PLANER"
+msgstr "零戰五二型丙"
+
+msgid "NAME_MODULE_A6M5_MODEL_52_PLANER"
+msgstr "零戰五二型"
+
+msgid "NAME_MODULE_A7M1"
+msgstr "十七試艦戰"
+
+msgid "NAME_MODULE_A7M2"
+msgstr "烈風一一型"
+
+msgid "NAME_MODULE_AD10_PLANER_PR"
+msgstr "10C2"
+
+msgid "NAME_MODULE_ALLISON-XV-1710-6-PR"
+msgstr "艾裡遜 XV-1710-6"
+
+msgid "NAME_MODULE_AM-35"
+msgstr "AM-35"
+
+msgid "NAME_MODULE_AM-35-PR"
+msgstr "AM-35"
+
+msgid "NAME_MODULE_AM-35A"
+msgstr "AM-35A"
+
+msgid "NAME_MODULE_AM-38"
+msgstr "AM-38"
+
+msgid "NAME_MODULE_AM-38F"
+msgstr "AM-38F"
+
+msgid "NAME_MODULE_AM-39"
+msgstr "АМ-39"
+
+msgid "NAME_MODULE_AM-42"
+msgstr "AM-42"
+
+msgid "NAME_MODULE_AM-42-CH-PR"
+msgstr "AM-42"
+
+msgid "NAME_MODULE_AM-43"
+msgstr "AM-43"
+
+msgid "NAME_MODULE_AM-5F"
+msgstr "AM-5F"
+
+msgid "NAME_MODULE_AM-82IR"
+msgstr "M-82IR"
+
+msgid "NAME_MODULE_AO-192_HULL"
+msgstr "Ao 192"
+
+msgid "NAME_MODULE_AR-197-PR"
+msgstr "Ar 197"
+
+msgid "NAME_MODULE_AR-197_HULL-PR"
+msgstr "Ar 197"
+
+msgid "NAME_MODULE_AR-64"
+msgstr "Ar 64"
+
+msgid "NAME_MODULE_AR-65_HULL"
+msgstr "Ar 65"
+
+msgid "NAME_MODULE_AR-67_PLANER-PR"
+msgstr "Ar 67a"
+
+msgid "NAME_MODULE_AR-80V-1"
+msgstr "Ar 80 V1"
+
+msgid "NAME_MODULE_AR-80V-3"
+msgstr "Ar 80 V3"
+
+msgid "NAME_MODULE_AR-MERCURIO-IVA-PR"
+msgstr "AR 墨丘利"
+
+msgid "NAME_MODULE_AR68E"
+msgstr "Ar 68e"
+
+msgid "NAME_MODULE_AR68H"
+msgstr "Ar 68h"
+
+msgid "NAME_MODULE_ARGUS-AS-10C"
+msgstr "阿格斯As 10C"
+
+msgid "NAME_MODULE_ARGUS-AS-10C-PR"
+msgstr "阿格斯As 10C"
+
+msgid "NAME_MODULE_ARGUS-AS-10E"
+msgstr "阿格斯As 10E"
+
+msgid "NAME_MODULE_ARGUS-AS-10E-PR"
+msgstr "阿格斯As 10E"
+
+msgid "NAME_MODULE_ARGUS-AS-410"
+msgstr "As 410"
+
+msgid "NAME_MODULE_ARGUS-AS-411"
+msgstr "As 411"
+
+msgid "NAME_MODULE_ASH-82FN-PR"
+msgstr "ASh-82FN"
+
+msgid "NAME_MODULE_ASH-83"
+msgstr "ASh-83"
+
+msgid "NAME_MODULE_ASH-83-RD-1"
+msgstr "ASh-83 + RD-1"
+
+msgid "NAME_MODULE_ATTACKER-F-MK1_PLANER"
+msgstr "攻擊者F Mk.1"
+
+msgid "NAME_MODULE_ATTACKER-FB-MK1_PLANER"
+msgstr "攻擊者FB Mk.1"
+
+msgid "NAME_MODULE_AVON"
+msgstr "羅·羅 埃汶"
+
+msgid "NAME_MODULE_BA-27-METALLICO_PLANER_PR"
+msgstr "Ba.27 金屬"
+
+msgid "NAME_MODULE_BEAUFIGHTER_PLANER"
+msgstr "英俊戰士"
+
+msgid "NAME_MODULE_BF-109B_PLANER"
+msgstr "Bf 109 B"
+
+msgid "NAME_MODULE_BF-109C_PLANER"
+msgstr "Bf 109 C"
+
+msgid "NAME_MODULE_BF-109E_HULL"
+msgstr "Bf 109 E"
+
+msgid "NAME_MODULE_BF-109F"
+msgstr "Bf 109 F-3"
+
+msgid "NAME_MODULE_BF-109F-4"
+msgstr "Bf 109 F-4"
+
+msgid "NAME_MODULE_BF-109F_HULL"
+msgstr "Bf 109 F-3"
+
+msgid "NAME_MODULE_BF-109G"
+msgstr "Bf 109 G"
+
+msgid "NAME_MODULE_BF-109G-Z"
+msgstr "Bf 109 Z(G)"
+
+msgid "NAME_MODULE_BF-109G_HULL"
+msgstr "Bf 109 G"
+
+msgid "NAME_MODULE_BF-109K_HULL"
+msgstr "Bf 109 K"
+
+msgid "NAME_MODULE_BF-109TL_HULL"
+msgstr "Me 109 TL"
+
+msgid "NAME_MODULE_BF-109TL_PLANER-PR"
+msgstr "Me 109 TL"
+
+msgid "NAME_MODULE_BF-109Z_HULL"
+msgstr "Bf 109 Z(F)"
+
+msgid "NAME_MODULE_BF-110B_HULL"
+msgstr "Bf 110 B"
+
+msgid "NAME_MODULE_BF-110C"
+msgstr "Bf 110 C"
+
+msgid "NAME_MODULE_BF-110C-6_PLANER-PR"
+msgstr "Bf 110 C-6"
+
+msgid "NAME_MODULE_BF-110D"
+msgstr "Bf 110 D"
+
+msgid "NAME_MODULE_BF-110E_HULL"
+msgstr "Bf 110 E"
+
+msgid "NAME_MODULE_BF-209V_HULL_PR"
+msgstr "Me 209 V"
+
+msgid "NAME_MODULE_BLENHEIM-IV_PLANER"
+msgstr "布倫海姆IV"
+
+msgid "NAME_MODULE_BLENHEIM-V_PLANER"
+msgstr "布倫海姆V (比斯利)"
+
+msgid "NAME_MODULE_BMW-003A"
+msgstr "BMW 003A"
+
+msgid "NAME_MODULE_BMW-003A-USSR-PR"
+msgstr "BMW-003A"
+
+msgid "NAME_MODULE_BMW-109-018"
+msgstr "BMW 109-018"
+
+msgid "NAME_MODULE_BMW-132A-2-PR"
+msgstr "BMW 132A-2"
+
+msgid "NAME_MODULE_BMW-132A-PR"
+msgstr "BMW 132A"
+
+msgid "NAME_MODULE_BMW-132DA"
+msgstr "BMW 132Da"
+
+msgid "NAME_MODULE_BMW-132DC-PR"
+msgstr "BMW 132Dc"
+
+msgid "NAME_MODULE_BMW-139"
+msgstr "BMW 139"
+
+msgid "NAME_MODULE_BMW-801C-2"
+msgstr "BMW 801C-2"
+
+msgid "NAME_MODULE_BMW-801D-2"
+msgstr "BMW 801D-2"
+
+msgid "NAME_MODULE_BMW-801E"
+msgstr "BMW 801E"
+
+msgid "NAME_MODULE_BMW-801G-2"
+msgstr "BMW 801G-2"
+
+msgid "NAME_MODULE_BMW-801TU-PR"
+msgstr "BMW 801TU"
+
+msgid "NAME_MODULE_BMW-VI"
+msgstr "BMW VI"
+
+msgid "NAME_MODULE_BMW-VI-7-3"
+msgstr "BMW VI 7.3"
+
+msgid "NAME_MODULE_BMW-VI73"
+msgstr "BMW VI 7.3"
+
+msgid "NAME_MODULE_BOOMERANG_PLANER-PR"
+msgstr "CA-12"
+
+msgid "NAME_MODULE_BRAMO-323-PR"
+msgstr "布萊莫 323"
+
+msgid "NAME_MODULE_BRISTOL-AQUILA-PR"
+msgstr "布裡斯托爾 天鷹座"
+
+msgid "NAME_MODULE_BRISTOL_JUPITERVII_J"
+msgstr "木星ⅦF.P"
+
+msgid "NAME_MODULE_BRISTOL_JUPITERVI_J"
+msgstr "木星Ⅵ"
+
+msgid "NAME_MODULE_BSH-1_HULL-PR"
+msgstr "BSh-1"
+
+msgid "NAME_MODULE_BSH-2_PLANER"
+msgstr "BSh-2"
+
+msgid "NAME_MODULE_BULLDOG_IIA_PLANER"
+msgstr "鬥牛犬 IIa"
+
+msgid "NAME_MODULE_BULLDOG_I_PLANER"
+msgstr "鬥牛犬 I"
+
+msgid "NAME_MODULE_CKB-15_PLANER"
+msgstr "TsKB-15"
+
+msgid "NAME_MODULE_CKB-19BIS_PLANER"
+msgstr "TsKB-19比斯"
+
+msgid "NAME_MODULE_CKB-55P"
+msgstr "TsKB-55P"
+
+msgid "NAME_MODULE_CKB-55P-PR"
+msgstr "伊爾-2M"
+
+msgid "NAME_MODULE_CR714_PLANER_PR"
+msgstr "C.714C1"
+
+msgid "NAME_MODULE_D-1A_2-PVRD-PR"
+msgstr "D-1A + 2 x PVRD"
+
+msgid "NAME_MODULE_DB-600"
+msgstr "DB 600"
+
+msgid "NAME_MODULE_DB-600A"
+msgstr "DB 600 A"
+
+msgid "NAME_MODULE_DB-600AA"
+msgstr "DB 600 Aa"
+
+msgid "NAME_MODULE_DB-601A"
+msgstr "DB 601 A"
+
+msgid "NAME_MODULE_DB-601A-1"
+msgstr "DB 601 A-1"
+
+msgid "NAME_MODULE_DB-601A-PR"
+msgstr "DB 601 A"
+
+msgid "NAME_MODULE_DB-601AA"
+msgstr "DB 601 Aa"
+
+msgid "NAME_MODULE_DB-601AA-PR"
+msgstr "DB 601 Aa"
+
+msgid "NAME_MODULE_DB-601ARJ-PR"
+msgstr "DB 601 ARJ"
+
+msgid "NAME_MODULE_DB-601B"
+msgstr "DB 601 B"
+
+msgid "NAME_MODULE_DB-601B-1"
+msgstr "DB 601 B-1"
+
+msgid "NAME_MODULE_DB-601E"
+msgstr "DB 601 E"
+
+msgid "NAME_MODULE_DB-601E-1"
+msgstr "DB 601 E-1"
+
+msgid "NAME_MODULE_DB-601F"
+msgstr "DB 601 F"
+
+msgid "NAME_MODULE_DB-601F-PR"
+msgstr "DB 601 F"
+
+msgid "NAME_MODULE_DB-601M-PR"
+msgstr "DB 601M"
+
+msgid "NAME_MODULE_DB-601N"
+msgstr "DB 601 N"
+
+msgid "NAME_MODULE_DB-603A"
+msgstr "DB 603 A"
+
+msgid "NAME_MODULE_DB-603AA"
+msgstr "DB 603 Aa"
+
+msgid "NAME_MODULE_DB-603E-1"
+msgstr "DB 603 E-1"
+
+msgid "NAME_MODULE_DB-603G"
+msgstr "DB 603 G"
+
+msgid "NAME_MODULE_DB-603L"
+msgstr "DB 603 L"
+
+msgid "NAME_MODULE_DB-603LA"
+msgstr "DB 603 LA"
+
+msgid "NAME_MODULE_DB-605-PR"
+msgstr "DB 605 A-1"
+
+msgid "NAME_MODULE_DB-605A-1"
+msgstr "DB 605 A-1"
+
+msgid "NAME_MODULE_DB-605AS"
+msgstr "DB 605 AS"
+
+msgid "NAME_MODULE_DB-605ASBM"
+msgstr "DB 605 ASB(M)"
+
+msgid "NAME_MODULE_DB-605ASCM"
+msgstr "DB 605 ASC(M)"
+
+msgid "NAME_MODULE_DB-605B"
+msgstr "DB 605 B"
+
+msgid "NAME_MODULE_DEMON_PLANER"
+msgstr "惡魔"
+
+msgid "NAME_MODULE_DO-17Z_PLANER-PR"
+msgstr "Do 17 Z-7"
+
+msgid "NAME_MODULE_EMPTY"
+msgstr "未裝備"
+
+msgid "NAME_MODULE_F-15C_PLANER_PR"
+msgstr "XF15C-1"
+
+msgid "NAME_MODULE_F-84B_PLANER"
+msgstr "F-84B"
+
+msgid "NAME_MODULE_F-84E_PLANER"
+msgstr "F-84E"
+
+msgid "NAME_MODULE_F-84F_PLANER"
+msgstr "F-84F"
+
+msgid "NAME_MODULE_F-94D_PLANER"
+msgstr "F-94D"
+
+msgid "NAME_MODULE_F11C_HULL-PR"
+msgstr "F11C"
+
+msgid "NAME_MODULE_F2A-1"
+msgstr "F2A-1"
+
+msgid "NAME_MODULE_F2A-1-PR_PLANER"
+msgstr "F2A-1"
+
+msgid "NAME_MODULE_F2A-1_PLANER"
+msgstr "F2A-1"
+
+msgid "NAME_MODULE_F2A-2"
+msgstr "F2A-2"
+
+msgid "NAME_MODULE_F2F-1"
+msgstr "F2F-1"
+
+msgid "NAME_MODULE_F2G-1"
+msgstr "F2G-1"
+
+msgid "NAME_MODULE_F2H-2_PLANER"
+msgstr "F2H-2"
+
+msgid "NAME_MODULE_F3F-3"
+msgstr "F3F-3"
+
+msgid "NAME_MODULE_F4B-1"
+msgstr "F4B-1"
+
+msgid "NAME_MODULE_F4F-3"
+msgstr "F4F-3"
+
+msgid "NAME_MODULE_F4F-4"
+msgstr "F4F-4"
+
+msgid "NAME_MODULE_F4U-1"
+msgstr "F4U-1"
+
+msgid "NAME_MODULE_F4U-1-PR"
+msgstr "F4U-1"
+
+msgid "NAME_MODULE_F4U-1A"
+msgstr "F4U-1A"
+
+msgid "NAME_MODULE_F4U-1WM"
+msgstr "F4U-1WM"
+
+msgid "NAME_MODULE_F4U-4_PLANER"
+msgstr "F4U-4"
+
+msgid "NAME_MODULE_F6U-1"
+msgstr "F6U-1"
+
+msgid "NAME_MODULE_F7F-1_PLANER"
+msgstr "F7F-1"
+
+msgid "NAME_MODULE_F7F-3_PLANER"
+msgstr "F7F-3"
+
+msgid "NAME_MODULE_F7U-1"
+msgstr "F7U-3"
+
+msgid "NAME_MODULE_F86A_HULL"
+msgstr "F-86A"
+
+msgid "NAME_MODULE_F90_PLANER"
+msgstr "F-90"
+
+msgid "NAME_MODULE_FANTOME_PLANER-PR"
+msgstr "魅影"
+
+msgid "NAME_MODULE_FI-98_PLANER-PR"
+msgstr "Fi 98a"
+
+msgid "NAME_MODULE_FJ-1_HULL"
+msgstr "FJ-1"
+
+msgid "NAME_MODULE_FL-1_HULL-PR"
+msgstr "FL-1"
+
+msgid "NAME_MODULE_FW-159_PLANER"
+msgstr "Fw 159"
+
+msgid "NAME_MODULE_FW-189V1B_PLANER"
+msgstr "Fw 189 V1b"
+
+msgid "NAME_MODULE_FW-189V6_PLANER"
+msgstr "Fw 189 V6"
+
+msgid "NAME_MODULE_FW-190A1_PLANER"
+msgstr "Fw 190 A-1"
+
+msgid "NAME_MODULE_FW-190A5_PLANER"
+msgstr "Fw 190 A-5"
+
+msgid "NAME_MODULE_FW-190A8_PLANER_PR"
+msgstr "Fw 190 A-8"
+
+msgid "NAME_MODULE_FW-190D-10_PLANER"
+msgstr "Fw 190 D-11"
+
+msgid "NAME_MODULE_FW-190D_PLANER"
+msgstr "Fw 190 D-9"
+
+msgid "NAME_MODULE_FW-190V5K_PLANER"
+msgstr "Fw 190 V5k"
+
+msgid "NAME_MODULE_FW-252_PLANER"
+msgstr "Fw 252"
+
+msgid "NAME_MODULE_FW-56A"
+msgstr "Fw 56a"
+
+msgid "NAME_MODULE_FW-57V-1"
+msgstr "Fw 57 V1"
+
+msgid "NAME_MODULE_FW-57V-3"
+msgstr "Fw 57 V-3"
+
+msgid "NAME_MODULE_GAMECOCK_PLANER"
+msgstr "鬥雞"
+
+msgid "NAME_MODULE_GNOME-RHONE-14M"
+msgstr "諾恩-羅納 14M"
+
+msgid "NAME_MODULE_GNOME-RHONE-14M-06-07"
+msgstr "諾恩-羅納 14M-06/07"
+
+msgid "NAME_MODULE_GNOME-RHONE-14M-08-09"
+msgstr "諾恩-羅納 14M-08/09"
+
+msgid "NAME_MODULE_GNOME-RHONE-14N-20-21-14"
+msgstr "14N-20/21 14"
+
+msgid "NAME_MODULE_GNOME-RHONE-14R-24-25"
+msgstr "諾恩-羅納 14R-24/25"
+
+msgid "NAME_MODULE_GOLDFINCH_PLANER"
+msgstr "金翅雀"
+
+msgid "NAME_MODULE_GOSHAWK-PR"
+msgstr "蒼鷹"
+
+msgid "NAME_MODULE_GRIFFON-61"
+msgstr "獅鷲 61"
+
+msgid "NAME_MODULE_GRIFFON-65"
+msgstr "獅鷲 65"
+
+msgid "NAME_MODULE_GRIFFON-68"
+msgstr "獅鷲 85"
+
+msgid "NAME_MODULE_GRIFFON-89-PR"
+msgstr "獅鷲 89"
+
+msgid "NAME_MODULE_GRIFFON-IIB"
+msgstr "獅鷲 IIB"
+
+msgid "NAME_MODULE_GRIFFON-IV"
+msgstr "獅鷲 IV"
+
+msgid "NAME_MODULE_HA-137V-1_PLANER-PR"
+msgstr "Ha 137 V1"
+
+msgid "NAME_MODULE_HA-137_PLANER-PR"
+msgstr "Ha 137 V5"
+
+msgid "NAME_MODULE_HAWK-2_PLANER-PR"
+msgstr "霍克 II"
+
+msgid "NAME_MODULE_HAWK-3_PLANER-PR"
+msgstr "霍克 III"
+
+msgid "NAME_MODULE_HAWK-75H"
+msgstr "霍克 75H"
+
+msgid "NAME_MODULE_HAWK-75H1"
+msgstr "霍克 75H1"
+
+msgid "NAME_MODULE_HAWK-75M"
+msgstr "霍克 75M"
+
+msgid "NAME_MODULE_HAWK-81"
+msgstr "霍克 81"
+
+msgid "NAME_MODULE_HAWK-81-PR"
+msgstr "Model 81A-1"
+
+msgid "NAME_MODULE_HAWK-87"
+msgstr "霍克 87"
+
+msgid "NAME_MODULE_HE-100-PR"
+msgstr "He 100"
+
+msgid "NAME_MODULE_HE-100_HULL_PR"
+msgstr "He 100 D-1"
+
+msgid "NAME_MODULE_HE-112V5_PLANER"
+msgstr "He 112 V5"
+
+msgid "NAME_MODULE_HE-112V9_PLANER"
+msgstr "He 112 V9"
+
+msgid "NAME_MODULE_HE-49_PLANER"
+msgstr "He 49"
+
+msgid "NAME_MODULE_HE-51_PLANER"
+msgstr "He 51"
+
+msgid "NAME_MODULE_HE100_HULL-PR"
+msgstr "He 100"
+
+msgid "NAME_MODULE_HERCULES-III"
+msgstr "大力士 III"
+
+msgid "NAME_MODULE_HERCULES-VI"
+msgstr "大力士 VI"
+
+msgid "NAME_MODULE_HES011"
+msgstr "HeS 011"
+
+msgid "NAME_MODULE_HISPANO-SUISA-12YCRS-PR"
+msgstr "12Ycrs"
+
+msgid "NAME_MODULE_HORNET-F-1_PLANER"
+msgstr "黃蜂 F.1"
+
+msgid "NAME_MODULE_HS-12-XBRS-PR"
+msgstr "西班牙-瑞士xbrs 12"
+
+msgid "NAME_MODULE_HS-129A_PLANER"
+msgstr "Hs 129 A"
+
+msgid "NAME_MODULE_HS-129B_PLANER"
+msgstr "Hs 129 B"
+
+msgid "NAME_MODULE_HS-12Y-PR"
+msgstr "Hispano-Suiza 12Y"
+
+msgid "NAME_MODULE_HS-12Z-PR"
+msgstr "Hispano-Suiza 12Z"
+
+msgid "NAME_MODULE_HURRICANE-IID_PLANER-PR"
+msgstr "颶風IID"
+
+msgid "NAME_MODULE_HWK-509"
+msgstr "HWK 509"
+
+msgid "NAME_MODULE_I-15BIS"
+msgstr "伊-15比斯"
+
+msgid "NAME_MODULE_I-15BIS-PLANER-PR"
+msgstr "伊-15比斯"
+
+msgid "NAME_MODULE_I-15_PLANER"
+msgstr "伊-15"
+
+msgid "NAME_MODULE_I-16-10_PLANER"
+msgstr "伊-16 (1938)"
+
+msgid "NAME_MODULE_I-16-24_PLANER"
+msgstr "伊-16-24"
+
+msgid "NAME_MODULE_I-16-28"
+msgstr "伊-16-28"
+
+msgid "NAME_MODULE_I-16-5_PLANER"
+msgstr "伊-16 (1934)"
+
+msgid "NAME_MODULE_I-180_PLANER-PR"
+msgstr "И-180-3"
+
+msgid "NAME_MODULE_I-210_PLANER"
+msgstr "伊-210"
+
+msgid "NAME_MODULE_I-211_PLANER"
+msgstr "伊-211"
+
+msgid "NAME_MODULE_I-21_PLANER-PR"
+msgstr "TsKB-32"
+
+msgid "NAME_MODULE_I-220_PLANER"
+msgstr "伊-220"
+
+msgid "NAME_MODULE_I-225_PLANER"
+msgstr "伊-225"
+
+msgid "NAME_MODULE_I-250-1_PLANER"
+msgstr "伊-250-1"
+
+msgid "NAME_MODULE_I-250S_PLANER"
+msgstr "伊-250 (量產型)"
+
+msgid "NAME_MODULE_I-260_PLANER-PR"
+msgstr "伊-260"
+
+msgid "NAME_MODULE_I-300_PLANER"
+msgstr "伊-300"
+
+msgid "NAME_MODULE_I-302P_PLANER-PR"
+msgstr "\"項目 302\""
+
+msgid "NAME_MODULE_I-308_PLANER"
+msgstr "伊-308"
+
+msgid "NAME_MODULE_I-5"
+msgstr "伊-5"
+
+msgid "NAME_MODULE_I-5-SHAKS_PLANER-PR"
+msgstr "伊-5"
+
+msgid "NAME_MODULE_I-5BIS"
+msgstr "伊-5比斯"
+
+msgid "NAME_MODULE_I-5_PLANER"
+msgstr "伊-5"
+
+msgid "NAME_MODULE_I-7_PLANER-PR"
+msgstr "伊-7"
+
+msgid "NAME_MODULE_IL-10M-PR"
+msgstr "伊爾-10M"
+
+msgid "NAME_MODULE_IL-10_PLANER"
+msgstr "伊爾-10"
+
+msgid "NAME_MODULE_IL-16"
+msgstr "伊爾-16"
+
+msgid "NAME_MODULE_IL-16M"
+msgstr "伊爾-10M"
+
+msgid "NAME_MODULE_IL-2-1942"
+msgstr "伊爾-2-1942"
+
+msgid "NAME_MODULE_IL-2-1943"
+msgstr "伊爾-2-1943"
+
+msgid "NAME_MODULE_IL-2-1_PLANER"
+msgstr "伊爾-2-1"
+
+msgid "NAME_MODULE_IL-2-AM42"
+msgstr "伊爾-2-AM42"
+
+msgid "NAME_MODULE_IL-20M"
+msgstr "伊爾-20M"
+
+msgid "NAME_MODULE_IL-20_PLANER"
+msgstr "伊爾-20"
+
+msgid "NAME_MODULE_IL-2M-AM42"
+msgstr "伊爾-2M-AM42"
+
+msgid "NAME_MODULE_IL-40P_PLANER"
+msgstr "伊爾-40P"
+
+msgid "NAME_MODULE_IL-40_PLANER"
+msgstr "伊爾-40"
+
+msgid "NAME_MODULE_J33-A-33"
+msgstr "J33-A-33"
+
+msgid "NAME_MODULE_J33-GE-11-PR"
+msgstr "J33-GE-11"
+
+msgid "NAME_MODULE_J34-GE-22"
+msgstr "J34-GE-22"
+
+msgid "NAME_MODULE_J34-WE-15"
+msgstr "J34-WE-15"
+
+msgid "NAME_MODULE_J34-WE-22"
+msgstr "J34-WE-22"
+
+msgid "NAME_MODULE_J34-WE-30A"
+msgstr "J34-WE-30A"
+
+msgid "NAME_MODULE_J34-WE-32"
+msgstr "J34-WE-32"
+
+msgid "NAME_MODULE_J34-WE-34"
+msgstr "J34-WE-34"
+
+msgid "NAME_MODULE_J34-WE-36"
+msgstr "J34-WE-36"
+
+msgid "NAME_MODULE_J34-WE-38"
+msgstr "J34-WE-38"
+
+msgid "NAME_MODULE_J35-A-15"
+msgstr "J35-A-15"
+
+msgid "NAME_MODULE_J35-A-17"
+msgstr "J35-A-17"
+
+msgid "NAME_MODULE_J35-A-17D"
+msgstr "J35-A-17D"
+
+msgid "NAME_MODULE_J35-A-2"
+msgstr "J35-A-2"
+
+msgid "NAME_MODULE_J35-GE-2"
+msgstr "J35-GE-2"
+
+msgid "NAME_MODULE_J46-WE-8B"
+msgstr "J46-WE-8B"
+
+msgid "NAME_MODULE_J47-GE-1"
+msgstr "J47-GE-1"
+
+msgid "NAME_MODULE_J48-P-2"
+msgstr "J48-P-2"
+
+msgid "NAME_MODULE_J48-P-5"
+msgstr "J48-P-5"
+
+msgid "NAME_MODULE_J4M1_HULL"
+msgstr "閃電"
+
+msgid "NAME_MODULE_J4M4"
+msgstr "J4M4"
+
+msgid "NAME_MODULE_J4M_PR_PLANER"
+msgstr "閃電"
+
+msgid "NAME_MODULE_J65-W-3"
+msgstr "J65-W-3"
+
+msgid "NAME_MODULE_J7W1_HULL"
+msgstr "震電"
+
+msgid "NAME_MODULE_J7W2_HULL"
+msgstr "震電改"
+
+msgid "NAME_MODULE_J7W3_HULL"
+msgstr "J7W3"
+
+msgid "NAME_MODULE_J8M_PR_PLANER"
+msgstr "J8M1"
+
+msgid "NAME_MODULE_JAVELIN_PLANER"
+msgstr "標槍 FAW 7s"
+
+msgid "NAME_MODULE_JL-1A-PR"
+msgstr "JL-1A"
+
+msgid "NAME_MODULE_JU-87D-5_PLANER"
+msgstr "Ju 87 D-5"
+
+msgid "NAME_MODULE_JU-87G-2_PLANER"
+msgstr "Ju 87 G-2"
+
+msgid "NAME_MODULE_JU-88P-2_PLANER"
+msgstr "Ju 88 P-2"
+
+msgid "NAME_MODULE_JU-88P-3_PLANER"
+msgstr "Ju 88 P-3"
+
+msgid "NAME_MODULE_JUMO-004A"
+msgstr "巨魔 004 A"
+
+msgid "NAME_MODULE_JUMO-004A_RUS"
+msgstr "巨魔 004"
+
+msgid "NAME_MODULE_JUMO-004A_SOVIET"
+msgstr "巨魔 004"
+
+msgid "NAME_MODULE_JUMO-004B"
+msgstr "巨魔 004 B"
+
+msgid "NAME_MODULE_JUMO-004B-PR"
+msgstr "巨魔 004 B"
+
+msgid "NAME_MODULE_JUMO-004C"
+msgstr "巨魔 004 C"
+
+msgid "NAME_MODULE_JUMO-004E"
+msgstr "巨魔 004 E"
+
+msgid "NAME_MODULE_JUMO-210A"
+msgstr "巨魔 210 A"
+
+msgid "NAME_MODULE_JUMO-210A-PR"
+msgstr "巨魔 210 A"
+
+msgid "NAME_MODULE_JUMO-210B"
+msgstr "巨魔 210 B"
+
+msgid "NAME_MODULE_JUMO-210CA"
+msgstr "巨魔 210 Ca"
+
+msgid "NAME_MODULE_JUMO-210D"
+msgstr "巨魔 210 D"
+
+msgid "NAME_MODULE_JUMO-210DA"
+msgstr "巨魔 210 Da"
+
+msgid "NAME_MODULE_JUMO-210E"
+msgstr "巨魔 210 E"
+
+msgid "NAME_MODULE_JUMO-210EA"
+msgstr "巨魔 210 Ea"
+
+msgid "NAME_MODULE_JUMO-210F"
+msgstr "巨魔 210 F"
+
+msgid "NAME_MODULE_JUMO-210GA"
+msgstr "巨魔 210 Ga"
+
+msgid "NAME_MODULE_JUMO-211B"
+msgstr "巨魔 211 B"
+
+msgid "NAME_MODULE_JUMO-211DA"
+msgstr "巨魔 211 Da"
+
+msgid "NAME_MODULE_JUMO-211F"
+msgstr "巨魔 211 F"
+
+msgid "NAME_MODULE_JUMO-211J"
+msgstr "巨魔 211 J"
+
+msgid "NAME_MODULE_JUMO-211P"
+msgstr "巨魔 211 P"
+
+msgid "NAME_MODULE_JUMO-213A-1"
+msgstr "巨魔 213 A-1"
+
+msgid "NAME_MODULE_JUMO-213E-1"
+msgstr "巨魔 213 E-1"
+
+msgid "NAME_MODULE_JUMO-213F-1"
+msgstr "巨魔 213 F-1"
+
+msgid "NAME_MODULE_JUMO-213J-1"
+msgstr "巨魔 213 J-1"
+
+msgid "NAME_MODULE_JUPITER-IX"
+msgstr "木星 IX"
+
+msgid "NAME_MODULE_JUPITER-VII"
+msgstr "木星 VII"
+
+msgid "NAME_MODULE_JUPITER-VIIF"
+msgstr "木星 VII"
+
+msgid "NAME_MODULE_JUPITER-VII_GB"
+msgstr "木星 IV"
+
+msgid "NAME_MODULE_KA-14"
+msgstr "九試單戰"
+
+msgid "NAME_MODULE_KAWASAKI-HA-140_PR"
+msgstr "Ha-140"
+
+msgid "NAME_MODULE_KAWASAKI-HA-9_PR"
+msgstr "Ha-9"
+
+msgid "NAME_MODULE_KESTREL-IB"
+msgstr "紅隼 IB"
+
+msgid "NAME_MODULE_KESTREL-IS"
+msgstr "紅隼 IS"
+
+msgid "NAME_MODULE_KESTREL-V"
+msgstr "紅隼 V"
+
+msgid "NAME_MODULE_KESTRELVI"
+msgstr "紅隼 VI"
+
+msgid "NAME_MODULE_KESTRELVI-PR"
+msgstr "紅隼 VI"
+
+msgid "NAME_MODULE_KI-18_PR_PLANER"
+msgstr "Ki-18"
+
+msgid "NAME_MODULE_KI-33_PR_PLANER"
+msgstr "Ki-33"
+
+msgid "NAME_MODULE_KI-43-IC_PLANER-PR"
+msgstr "一式戰一型"
+
+msgid "NAME_MODULE_KI-5_PR_PLANER"
+msgstr "Ki-5"
+
+msgid "NAME_MODULE_KI-88_PR_PLANER"
+msgstr "Ki-88"
+
+msgid "NAME_MODULE_KI-8_PR_PLANER"
+msgstr "Ki-8"
+
+msgid "NAME_MODULE_KINSEI62"
+msgstr "金星 62型"
+
+msgid "NAME_MODULE_KOTOBUKI-3_PR"
+msgstr "壽 3型"
+
+msgid "NAME_MODULE_KOTOBUKI3"
+msgstr "壽 3型"
+
+msgid "NAME_MODULE_KOTOBUKI41"
+msgstr "壽 41型"
+
+msgid "NAME_MODULE_KOTOBUKI5"
+msgstr "壽 5型"
+
+msgid "NAME_MODULE_KOTOBUKI5_PR"
+msgstr "壽 5型"
+
+msgid "NAME_MODULE_KR10_PR"
+msgstr "KR 10"
+
+msgid "NAME_MODULE_LA-11_PLANER-PR"
+msgstr "拉-11"
+
+msgid "NAME_MODULE_LA-150M"
+msgstr "拉-150M"
+
+msgid "NAME_MODULE_LA-150_PLANER"
+msgstr "拉-150"
+
+msgid "NAME_MODULE_LA-15_PLANER"
+msgstr "拉-15"
+
+msgid "NAME_MODULE_LA-160_PLANER"
+msgstr "拉-160"
+
+msgid "NAME_MODULE_LA-5-44"
+msgstr "拉-5 (1944)"
+
+msgid "NAME_MODULE_LA-5F"
+msgstr "拉-5F"
+
+msgid "NAME_MODULE_LA-5_PLANER"
+msgstr "拉-5"
+
+msgid "NAME_MODULE_LA-7"
+msgstr "拉-7"
+
+msgid "NAME_MODULE_LA-7-120"
+msgstr "拉-7-120"
+
+msgid "NAME_MODULE_LA-7-44"
+msgstr "拉-7 (1944)"
+
+msgid "NAME_MODULE_LA-7-45"
+msgstr "拉-7 (1945)"
+
+msgid "NAME_MODULE_LA-7_PLANER"
+msgstr "拉-7"
+
+msgid "NAME_MODULE_LA-9_PLANER"
+msgstr "拉-9"
+
+msgid "NAME_MODULE_LAGG-3-1"
+msgstr "拉格-3"
+
+msgid "NAME_MODULE_LAGG-3-11"
+msgstr "拉格-3-11"
+
+msgid "NAME_MODULE_LAGG-3-34_PLANER_PR"
+msgstr "拉格-3-34"
+
+msgid "NAME_MODULE_LAGG-3-66"
+msgstr "拉格-3-66"
+
+msgid "NAME_MODULE_M-100"
+msgstr "M-100"
+
+msgid "NAME_MODULE_M-100A"
+msgstr "M-100A"
+
+msgid "NAME_MODULE_M-103"
+msgstr "M-103"
+
+msgid "NAME_MODULE_M-105-PR"
+msgstr "M-105-PA"
+
+msgid "NAME_MODULE_M-105P"
+msgstr "M-105P"
+
+msgid "NAME_MODULE_M-105PD"
+msgstr "M-105PD"
+
+msgid "NAME_MODULE_M-105PF"
+msgstr "M-105PF"
+
+msgid "NAME_MODULE_M-105PF-PR"
+msgstr "M-105PF"
+
+msgid "NAME_MODULE_M-105PF2"
+msgstr "VK-105PF2"
+
+msgid "NAME_MODULE_M-106-1SK"
+msgstr "M-106-1sk"
+
+msgid "NAME_MODULE_M-106PV"
+msgstr "M-106PV"
+
+msgid "NAME_MODULE_M-107A"
+msgstr "VK-107A"
+
+msgid "NAME_MODULE_M-108"
+msgstr "VK-108"
+
+msgid "NAME_MODULE_M-11-F-PR"
+msgstr "M-11F"
+
+msgid "NAME_MODULE_M-15A"
+msgstr "M-15A"
+
+msgid "NAME_MODULE_M-15A-PR"
+msgstr "M-15A"
+
+msgid "NAME_MODULE_M-17"
+msgstr "M-17"
+
+msgid "NAME_MODULE_M-17-PR"
+msgstr "M-17F"
+
+msgid "NAME_MODULE_M-17F"
+msgstr "M-17F"
+
+msgid "NAME_MODULE_M-22"
+msgstr "M-22"
+
+msgid "NAME_MODULE_M-25"
+msgstr "M-25"
+
+msgid "NAME_MODULE_M-25A"
+msgstr "M-25A"
+
+msgid "NAME_MODULE_M-25E"
+msgstr "M-25E"
+
+msgid "NAME_MODULE_M-25E-2XDM-2"
+msgstr "DM-2"
+
+msgid "NAME_MODULE_M-25E-PR"
+msgstr "M-25E + DM2"
+
+msgid "NAME_MODULE_M-25V"
+msgstr "M-25V"
+
+msgid "NAME_MODULE_M-34"
+msgstr "M-34"
+
+msgid "NAME_MODULE_M-34F"
+msgstr "M-34F"
+
+msgid "NAME_MODULE_M-34FRN-PR"
+msgstr "M-34FRN"
+
+msgid "NAME_MODULE_M-34NV"
+msgstr "M-34NV"
+
+msgid "NAME_MODULE_M-47"
+msgstr "M-47"
+
+msgid "NAME_MODULE_M-62"
+msgstr "M-62"
+
+msgid "NAME_MODULE_M-62IR-PR"
+msgstr "M-62IR"
+
+msgid "NAME_MODULE_M-63"
+msgstr "M-63"
+
+msgid "NAME_MODULE_M-71"
+msgstr "M-71"
+
+msgid "NAME_MODULE_M-82-RD-1"
+msgstr "M-82 + RD-1"
+
+msgid "NAME_MODULE_M-82A"
+msgstr "M-82A"
+
+msgid "NAME_MODULE_M-82F"
+msgstr "M-82F"
+
+msgid "NAME_MODULE_M-82FN"
+msgstr "M-82-FN"
+
+msgid "NAME_MODULE_M-82FN-RD-1"
+msgstr "M-82FN + RD-1"
+
+msgid "NAME_MODULE_M-82FN-RD-13"
+msgstr "M-82FN + RD-13"
+
+msgid "NAME_MODULE_M-85"
+msgstr "M-85"
+
+msgid "NAME_MODULE_M-87-PR"
+msgstr "M-87"
+
+msgid "NAME_MODULE_M-87A"
+msgstr "M-87A"
+
+msgid "NAME_MODULE_M-88"
+msgstr "M-88"
+
+msgid "NAME_MODULE_M-88-PR"
+msgstr "M-88"
+
+msgid "NAME_MODULE_M-88R-PR"
+msgstr "M-88Р"
+
+msgid "NAME_MODULE_M-93"
+msgstr "M-93"
+
+msgid "NAME_MODULE_M-93-RD-1"
+msgstr "M-93 + RD-1"
+
+msgid "NAME_MODULE_M-93-RD-13"
+msgstr "M-93 + RD-13"
+
+msgid "NAME_MODULE_M20-PR"
+msgstr "Miles M.20"
+
+msgid "NAME_MODULE_ME-1099B_HULL"
+msgstr "Me P.1099 B"
+
+msgid "NAME_MODULE_ME-209V5"
+msgstr "Me 209 V5"
+
+msgid "NAME_MODULE_ME-209V6"
+msgstr "Me 209 V6"
+
+msgid "NAME_MODULE_ME-210-PR"
+msgstr "Me 210"
+
+msgid "NAME_MODULE_ME-210_HULL-PR"
+msgstr "Me 210"
+
+msgid "NAME_MODULE_ME-262-HG1_PLANER"
+msgstr "Me 262 HG I"
+
+msgid "NAME_MODULE_ME-262-HG2_PLANER"
+msgstr "Me 262 HG II"
+
+msgid "NAME_MODULE_ME-262-HG3_HULL"
+msgstr "Me 262 HG III"
+
+msgid "NAME_MODULE_ME-262A-SHWALBE"
+msgstr "Me 262 A 施瓦爾貝"
+
+msgid "NAME_MODULE_ME-262A-STURMVOGEL"
+msgstr "Me 262 A 海燕"
+
+msgid "NAME_MODULE_ME-265_PLANER"
+msgstr "Me 265"
+
+msgid "NAME_MODULE_ME-309V-1"
+msgstr "Me 309 V1"
+
+msgid "NAME_MODULE_ME-309V-4"
+msgstr "Me 309 V4"
+
+msgid "NAME_MODULE_ME-329_PLANER"
+msgstr "Me 329"
+
+msgid "NAME_MODULE_ME-410A"
+msgstr "Me 410 A"
+
+msgid "NAME_MODULE_ME-410V1"
+msgstr "Me 410 V1"
+
+msgid "NAME_MODULE_ME-P1092-4"
+msgstr "Me P.1092/4"
+
+msgid "NAME_MODULE_ME-P1092-5"
+msgstr "Me P.1092/5"
+
+msgid "NAME_MODULE_ME-P1099B_PLANER"
+msgstr "Me P.1099 B"
+
+msgid "NAME_MODULE_ME-P1101_HULL"
+msgstr "Me P.1101"
+
+msgid "NAME_MODULE_ME-P1102B_PLANER"
+msgstr "Me P.1102 B"
+
+msgid "NAME_MODULE_ME-P1102_HULL"
+msgstr "Me P.1102"
+
+msgid "NAME_MODULE_MERCURY-IVS2"
+msgstr "水星 IVS.2"
+
+msgid "NAME_MODULE_MERCURY-IX"
+msgstr "水星 IX"
+
+msgid "NAME_MODULE_MERCURY-VIII"
+msgstr "水星 VIII"
+
+msgid "NAME_MODULE_MERCURY-VIS"
+msgstr "水星 VIS"
+
+msgid "NAME_MODULE_MERCURY-XV"
+msgstr "水星 XV"
+
+msgid "NAME_MODULE_MERCURY-XVI"
+msgstr "水星 XVI"
+
+msgid "NAME_MODULE_MERLIN-130"
+msgstr "梅林 130"
+
+msgid "NAME_MODULE_MERLIN-145M"
+msgstr "梅林 145M"
+
+msgid "NAME_MODULE_MERLIN-21"
+msgstr "梅林 21"
+
+msgid "NAME_MODULE_MERLIN-225_PR"
+msgstr "梅林 225"
+
+msgid "NAME_MODULE_MERLIN-32"
+msgstr "梅林 32"
+
+msgid "NAME_MODULE_MERLIN-45"
+msgstr "梅林 45"
+
+msgid "NAME_MODULE_MERLIN-47"
+msgstr "梅林 47"
+
+msgid "NAME_MODULE_MERLIN-61"
+msgstr "梅林 61"
+
+msgid "NAME_MODULE_MERLIN-66"
+msgstr "梅林 66"
+
+msgid "NAME_MODULE_MERLIN-77"
+msgstr "梅林 77"
+
+msgid "NAME_MODULE_MERLIN-II"
+msgstr "梅林 II"
+
+msgid "NAME_MODULE_MERLIN-III"
+msgstr "梅林 III"
+
+msgid "NAME_MODULE_MERLIN-XII"
+msgstr "梅林 XII"
+
+msgid "NAME_MODULE_MERLIN-XX"
+msgstr "梅林 XX"
+
+msgid "NAME_MODULE_MERLIN-XX-PR"
+msgstr "梅林 XX"
+
+msgid "NAME_MODULE_METEOR_PLANER-PR"
+msgstr "流星 F. I"
+
+msgid "NAME_MODULE_METROVICK-F-2-4"
+msgstr "梅特維克 F.2/4"
+
+msgid "NAME_MODULE_METROVICK-F-5"
+msgstr "梅特維克 F.5"
+
+msgid "NAME_MODULE_METROVICK-F-8"
+msgstr "梅特維克 F.8"
+
+msgid "NAME_MODULE_MIG-15BIS_PLANER"
+msgstr "米格-15比斯"
+
+msgid "NAME_MODULE_MIG-1_PLANER"
+msgstr "米格-1"
+
+msgid "NAME_MODULE_MIG-3_PLANER"
+msgstr "米格-3"
+
+msgid "NAME_MODULE_MK10B"
+msgstr "MK10B"
+
+msgid "NAME_MODULE_MK9A"
+msgstr "MK9A"
+
+msgid "NAME_MODULE_MK9C"
+msgstr "MK9C"
+
+msgid "NAME_MODULE_MK9D"
+msgstr "MK9D"
+
+msgid "NAME_MODULE_MK9D_PR"
+msgstr "MK9D"
+
+msgid "NAME_MODULE_MK9E"
+msgstr "MK9E"
+
+msgid "NAME_MODULE_MK9F"
+msgstr "MK9F"
+
+msgid "NAME_MODULE_MOSQUITO-F-MK-II_PLANER"
+msgstr "蚊式 F Mk.II"
+
+msgid "NAME_MODULE_MOSQUITO-FB-MK-VI_PLANER"
+msgstr "蚊式 FB Mk.VI"
+
+msgid "NAME_MODULE_MOSQUITO-II-FB_PLANER"
+msgstr "蚊式 II FB"
+
+msgid "NAME_MODULE_MOSQUITO-MK26_PLANER-PR"
+msgstr "蚊式 FB26"
+
+msgid "NAME_MODULE_MUSTANG-IA_PLANER_PR"
+msgstr "野馬 IA"
+
+msgid "NAME_MODULE_MUSTANG-MKI_PLANER_PR"
+msgstr "野馬 I"
+
+msgid "NAME_MODULE_NAKAJIMA-A4M1"
+msgstr "中島 九五艦戰"
+
+msgid "NAME_MODULE_NAKAJIMA-HA-25_PR"
+msgstr "Ha-25"
+
+msgid "NAME_MODULE_NAKAJIMA-KOTOBUKI-2"
+msgstr "壽 2型"
+
+msgid "NAME_MODULE_NAKAJIMA-YM"
+msgstr "中島 YM"
+
+msgid "NAME_MODULE_NAKAJIMA_NC"
+msgstr "中島 NC"
+
+msgid "NAME_MODULE_NAKAJIMA_TYPE91"
+msgstr "中島 九一式"
+
+msgid "NAME_MODULE_NAKALIMA-HIKARI-1"
+msgstr "光 1型"
+
+msgid "NAME_MODULE_NAKALIMA-HIKARI-2"
+msgstr "光 2型"
+
+msgid "NAME_MODULE_NAKALIMA-HIKARI-3"
+msgstr "光 3型"
+
+msgid "NAME_MODULE_NC1070_PLANER_PR"
+msgstr "NC 1070"
+
+msgid "NAME_MODULE_NE-130"
+msgstr "Ne-130"
+
+msgid "NAME_MODULE_NE-230"
+msgstr "Ne-230"
+
+msgid "NAME_MODULE_NE-330"
+msgstr "Ne-330"
+
+msgid "NAME_MODULE_NE-440"
+msgstr "Ne-440"
+
+msgid "NAME_MODULE_NENE-13"
+msgstr "羅·羅 尼恩 No.13"
+
+msgid "NAME_MODULE_NENE-28"
+msgstr "羅·羅 尼恩 No.28"
+
+msgid "NAME_MODULE_NK9K"
+msgstr "NK9K"
+
+msgid "NAME_MODULE_P-1056_PLANER"
+msgstr "韋斯特蘭 P.1056"
+
+msgid "NAME_MODULE_P-12E"
+msgstr "P-12E"
+
+msgid "NAME_MODULE_P-228_PLANER"
+msgstr "格洛斯特 P.28"
+
+msgid "NAME_MODULE_P-23_HULL"
+msgstr "P-23"
+
+msgid "NAME_MODULE_P-26A_PLANER"
+msgstr "P-26A"
+
+msgid "NAME_MODULE_P-26_PLANER"
+msgstr "P-26"
+
+msgid "NAME_MODULE_P-35A_PLANER"
+msgstr "P-35A"
+
+msgid "NAME_MODULE_P-35_PLANER"
+msgstr "P-35"
+
+msgid "NAME_MODULE_P-36AB"
+msgstr "P-36A/B"
+
+msgid "NAME_MODULE_P-36DF"
+msgstr "P-36D/F"
+
+msgid "NAME_MODULE_P-36DF-PR"
+msgstr "P-36D/F"
+
+msgid "NAME_MODULE_P-38F_PLANER"
+msgstr "P-38F"
+
+msgid "NAME_MODULE_P-38G_PLANER"
+msgstr "P-38G"
+
+msgid "NAME_MODULE_P-38J_PLANER"
+msgstr "P-38J"
+
+msgid "NAME_MODULE_P-38L_PLANER"
+msgstr "P-38L"
+
+msgid "NAME_MODULE_P-39Q_PLANER"
+msgstr "P-39Q-15"
+
+msgid "NAME_MODULE_P-40-M-105_HULL-PR"
+msgstr "P-40 M-105"
+
+msgid "NAME_MODULE_P-43_PLANER"
+msgstr "P-43"
+
+msgid "NAME_MODULE_P-44A_PLANER"
+msgstr "P-44A"
+
+msgid "NAME_MODULE_P-44B_PLANER"
+msgstr "P-44B"
+
+msgid "NAME_MODULE_P-47D-22_PLANER"
+msgstr "P-47D-22"
+
+msgid "NAME_MODULE_P-47D-30_PLANER"
+msgstr "P-47D-30"
+
+msgid "NAME_MODULE_P-47N-5_PLANER"
+msgstr "P-47N-5"
+
+msgid "NAME_MODULE_P-51A_HULL"
+msgstr "P-51A"
+
+msgid "NAME_MODULE_P-51B"
+msgstr "P-51B"
+
+msgid "NAME_MODULE_P-51D"
+msgstr "P-51D"
+
+msgid "NAME_MODULE_P-51H_HULL"
+msgstr "P-51H"
+
+msgid "NAME_MODULE_P-51JP-H"
+msgstr "P-51JP-H"
+
+msgid "NAME_MODULE_P-51JP-V"
+msgstr "P-51JP-V"
+
+msgid "NAME_MODULE_P-51K_PLANER_CH_PR"
+msgstr "P-51K"
+
+msgid "NAME_MODULE_P-51_HULL"
+msgstr "P-51"
+
+msgid "NAME_MODULE_P-72B_PLANER"
+msgstr "P-72B"
+
+msgid "NAME_MODULE_P-77_HULL-PR"
+msgstr "P-77"
+
+msgid "NAME_MODULE_P-80A_PLANER_PR"
+msgstr "P-80A"
+
+msgid "NAME_MODULE_P-82B_PLANER"
+msgstr "P-82B"
+
+msgid "NAME_MODULE_P39Q_HULL"
+msgstr "P39Q"
+
+msgid "NAME_MODULE_PEGAS_HULL-PR"
+msgstr "飛馬"
+
+msgid "NAME_MODULE_PERSEUS"
+msgstr "英仙座"
+
+msgid "NAME_MODULE_PERSEUS-XII"
+msgstr "英仙座 XII"
+
+msgid "NAME_MODULE_R-1340-17"
+msgstr "R-1340-17"
+
+msgid "NAME_MODULE_R-1340-21"
+msgstr "R-1340-21"
+
+msgid "NAME_MODULE_R-1340-31-PR"
+msgstr "R-1340-31"
+
+msgid "NAME_MODULE_R-1340-33"
+msgstr "R-1340-33"
+
+msgid "NAME_MODULE_R-1340-7"
+msgstr "R-1340-7"
+
+msgid "NAME_MODULE_R-1340-8"
+msgstr "R-1340-8"
+
+msgid "NAME_MODULE_R-1340-S1H1-G-GB-PR"
+msgstr "R-1340 S1H1-G"
+
+msgid "NAME_MODULE_R-1535-44"
+msgstr "R-1535-44"
+
+msgid "NAME_MODULE_R-1535-72"
+msgstr "R-1535-72"
+
+msgid "NAME_MODULE_R-1535-84"
+msgstr "R-1535-84"
+
+msgid "NAME_MODULE_R-1535-98"
+msgstr "R-1535-98"
+
+msgid "NAME_MODULE_R-1670-5"
+msgstr "R-1670-5"
+
+msgid "NAME_MODULE_R-1820-22"
+msgstr "R-1820-22"
+
+msgid "NAME_MODULE_R-1820-34"
+msgstr "R-1820-34"
+
+msgid "NAME_MODULE_R-1820-34-PR"
+msgstr "R-1820-34"
+
+msgid "NAME_MODULE_R-1820-40"
+msgstr "R-1820-40"
+
+msgid "NAME_MODULE_R-1820-52-PR"
+msgstr "懷特R-1820-52"
+
+msgid "NAME_MODULE_R-1820-G3"
+msgstr "R-1820-G3"
+
+msgid "NAME_MODULE_R-1820-G5"
+msgstr "R-1820-G5"
+
+msgid "NAME_MODULE_R-1830-13"
+msgstr "R-1830-13"
+
+msgid "NAME_MODULE_R-1830-17"
+msgstr "R-1830-17"
+
+msgid "NAME_MODULE_R-1830-17-PR"
+msgstr "R-1830-17"
+
+msgid "NAME_MODULE_R-1830-25"
+msgstr "R-1830-25"
+
+msgid "NAME_MODULE_R-1830-35"
+msgstr "R-1830-35"
+
+msgid "NAME_MODULE_R-1830-36"
+msgstr "R-1830-36"
+
+msgid "NAME_MODULE_R-1830-45"
+msgstr "R-1830-45"
+
+msgid "NAME_MODULE_R-1830-64"
+msgstr "R-1830-64"
+
+msgid "NAME_MODULE_R-1830-76"
+msgstr "R-1830-76"
+
+msgid "NAME_MODULE_R-1830-76-PR"
+msgstr "R-1830-76"
+
+msgid "NAME_MODULE_R-1830-9"
+msgstr "R-1830-9"
+
+msgid "NAME_MODULE_R-1830-94"
+msgstr "R-1830-94"
+
+msgid "NAME_MODULE_R-1830-S3C4-G-GB-PR"
+msgstr "R-1830 S3С4-G"
+
+msgid "NAME_MODULE_R-2000-2D"
+msgstr "R-2000-2(D)"
+
+msgid "NAME_MODULE_R-2000-7"
+msgstr "R-2000-7"
+
+msgid "NAME_MODULE_R-2180-A1"
+msgstr "R-2180-A1"
+
+msgid "NAME_MODULE_R-2180-A3"
+msgstr "R-2180-A3"
+
+msgid "NAME_MODULE_R-2180-B1"
+msgstr "R-2180-B1"
+
+msgid "NAME_MODULE_R-2800-18W"
+msgstr "R-2800-18W"
+
+msgid "NAME_MODULE_R-2800-21"
+msgstr "R-2800-21"
+
+msgid "NAME_MODULE_R-2800-22W"
+msgstr "R-2800-22W"
+
+msgid "NAME_MODULE_R-2800-34W-J36-PR"
+msgstr "R-2800-34W + J36"
+
+msgid "NAME_MODULE_R-2800-48"
+msgstr "R-2800-48"
+
+msgid "NAME_MODULE_R-2800-57"
+msgstr "R-2800-57"
+
+msgid "NAME_MODULE_R-2800-59"
+msgstr "R-2800-59"
+
+msgid "NAME_MODULE_R-2800-59W"
+msgstr "R-2800-59W"
+
+msgid "NAME_MODULE_R-2800-77"
+msgstr "R-2800-77"
+
+msgid "NAME_MODULE_R-2800-8"
+msgstr "R-2800-8"
+
+msgid "NAME_MODULE_R-2800-8W"
+msgstr "R-2800-8W"
+
+msgid "NAME_MODULE_R-4360-13"
+msgstr "R-4360-13"
+
+msgid "NAME_MODULE_R-4360-20"
+msgstr "R-4360-20"
+
+msgid "NAME_MODULE_R-4360-4"
+msgstr "R-4360-4"
+
+msgid "NAME_MODULE_R-4360-41"
+msgstr "R-4360-41"
+
+msgid "NAME_MODULE_R-4360-53"
+msgstr "R-4360-53"
+
+msgid "NAME_MODULE_R-9"
+msgstr "R-9"
+
+msgid "NAME_MODULE_R-9_PLANER-PR"
+msgstr "R-9"
+
+msgid "NAME_MODULE_RD-10"
+msgstr "RD-10"
+
+msgid "NAME_MODULE_RD-10A"
+msgstr "RD-10A"
+
+msgid "NAME_MODULE_RD-10F"
+msgstr "RD-10F"
+
+msgid "NAME_MODULE_RD-10UF"
+msgstr "RD-10UF"
+
+msgid "NAME_MODULE_RD-20"
+msgstr "RD-20"
+
+msgid "NAME_MODULE_RD-21"
+msgstr "RD-21"
+
+msgid "NAME_MODULE_RD-500"
+msgstr "RD-500"
+
+msgid "NAME_MODULE_RD-9V"
+msgstr "RD-9V"
+
+msgid "NAME_MODULE_RENAULT-12-R-03-PR"
+msgstr "雷諾 12 R-03"
+
+msgid "NAME_MODULE_ROLLS-ROYCE-W2B-23-PR"
+msgstr "羅·羅 W2B/23"
+
+msgid "NAME_MODULE_SA-1"
+msgstr "MV 藍寶石 Sa.1"
+
+msgid "NAME_MODULE_SA-5"
+msgstr "AS 藍寶石 Sa.5"
+
+msgid "NAME_MODULE_SA-5R"
+msgstr "AS 藍寶石 Sa.5R"
+
+msgid "NAME_MODULE_SA-6"
+msgstr "AS 藍寶石 Sa.6"
+
+msgid "NAME_MODULE_SA-7"
+msgstr "AS 藍寶石 Sa.7"
+
+msgid "NAME_MODULE_SAKAE-21_PR"
+msgstr "榮 21型"
+
+msgid "NAME_MODULE_SAKAE12"
+msgstr "榮 12型"
+
+msgid "NAME_MODULE_SAKAE21"
+msgstr "榮 21型"
+
+msgid "NAME_MODULE_SAKAE31A"
+msgstr "榮 31型甲"
+
+msgid "NAME_MODULE_SAUCER_ENGINE"
+msgstr "Graviton V7"
+
+msgid "NAME_MODULE_SAUCER_HULL"
+msgstr "斯雷普尼爾 I"
+
+msgid "NAME_MODULE_SE100_PLANER_PR"
+msgstr "SE. 100"
+
+msgid "NAME_MODULE_SEAFANG_PLANER-PR"
+msgstr "海毒牙F.32"
+
+msgid "NAME_MODULE_SH"
+msgstr "Sh"
+
+msgid "NAME_MODULE_SIEMENS-JUPITER-VI"
+msgstr "西門子 木星VI"
+
+msgid "NAME_MODULE_SKUA-MK-1_PLANER"
+msgstr "賊鷗 Mk.1"
+
+msgid "NAME_MODULE_SKUA-MK-2_PLANER"
+msgstr "賊鷗 Mk.2"
+
+msgid "NAME_MODULE_SLEIPNIR_ENGINE"
+msgstr "渦流引擎"
+
+msgid "NAME_MODULE_SLEIPNIR_HULL"
+msgstr "碟形機體"
+
+msgid "NAME_MODULE_SPAD510_PLANER_PR"
+msgstr "S.510C1"
+
+msgid "NAME_MODULE_SPITFIRE-III_PLANER"
+msgstr "噴火III"
+
+msgid "NAME_MODULE_SPITFIRE-II_PLANER"
+msgstr "噴火 II"
+
+msgid "NAME_MODULE_SPITFIRE-IX_PLANER"
+msgstr "噴火 IX"
+
+msgid "NAME_MODULE_SPITFIRE-I_PLANER"
+msgstr "噴火 I"
+
+msgid "NAME_MODULE_SPITFIRE-VI_PLANER"
+msgstr "噴火 VI"
+
+msgid "NAME_MODULE_SPITFIRE-V_PLANER"
+msgstr "噴火 V"
+
+msgid "NAME_MODULE_SPITFIRE-V_PLANER_PR"
+msgstr "噴火 Mk.Vb"
+
+msgid "NAME_MODULE_SPITFIRE-XII_PLANER"
+msgstr "噴火 XII"
+
+msgid "NAME_MODULE_SPITFIRE-XIV_PLANER"
+msgstr "噴火 XIV"
+
+msgid "NAME_MODULE_SWIFT_PLANER"
+msgstr "褐雨燕"
+
+msgid "NAME_MODULE_TA-152B_PLANER"
+msgstr "Ta 152 B"
+
+msgid "NAME_MODULE_TA-152H_PLANER"
+msgstr "Ta 152 H"
+
+msgid "NAME_MODULE_TA-183A-1_PLANER"
+msgstr "Ta 183 A-1"
+
+msgid "NAME_MODULE_TA-183RA-1_PLANER"
+msgstr "Ta 183 Ra-1"
+
+msgid "NAME_MODULE_TANDEM_HULL-PR"
+msgstr "Sh雙座型"
+
+msgid "NAME_MODULE_TAURUS-II"
+msgstr "金牛座 II"
+
+msgid "NAME_MODULE_TAY"
+msgstr "羅·羅 泰伊"
+
+msgid "NAME_MODULE_TOMAHAWK-IIB_PLANER"
+msgstr "P-40C"
+
+msgid "NAME_MODULE_TSH-1_PLANER"
+msgstr "TSh-2-1"
+
+msgid "NAME_MODULE_TSH-2"
+msgstr "TSh-2-2"
+
+msgid "NAME_MODULE_TSH-3_PLANER"
+msgstr "TSh-3"
+
+msgid "NAME_MODULE_TSKB-12-HULL-PR"
+msgstr "TsKB-12比斯"
+
+msgid "NAME_MODULE_TYPE-133_PLANER"
+msgstr "布裡斯托爾 133"
+
+msgid "NAME_MODULE_TYPE-146-K5119_PLANER"
+msgstr "布裡斯托爾 146 K5119"
+
+msgid "NAME_MODULE_TYPE-146-K8088_PLANER"
+msgstr "布裡斯托爾 146 K8088"
+
+msgid "NAME_MODULE_TYPE-224-PR"
+msgstr "224型"
+
+msgid "NAME_MODULE_V-1570-1"
+msgstr "V-1570-1"
+
+msgid "NAME_MODULE_V-1570-23"
+msgstr "V-1570-23"
+
+msgid "NAME_MODULE_V-1570-5-PR"
+msgstr "V-1570-5"
+
+msgid "NAME_MODULE_V-1570-59"
+msgstr "V-1570-59"
+
+msgid "NAME_MODULE_V-1650-1"
+msgstr "V-1650-1"
+
+msgid "NAME_MODULE_V-1650-11-19XB"
+msgstr "V-1650-18A + 19XB"
+
+msgid "NAME_MODULE_V-1650-11-J30-WE-20"
+msgstr "V-1650-18A + J30-WE-20"
+
+msgid "NAME_MODULE_V-1650-11-J30-WE-20A"
+msgstr "V-1650-18A + J30-WE-20A"
+
+msgid "NAME_MODULE_V-1650-19-21-PR"
+msgstr "V-1650-19/21"
+
+msgid "NAME_MODULE_V-1650-3"
+msgstr "V-1650-3"
+
+msgid "NAME_MODULE_V-1650-3-19XB"
+msgstr "V-1650-3 + 19XB"
+
+msgid "NAME_MODULE_V-1650-7"
+msgstr "V-1650-7"
+
+msgid "NAME_MODULE_V-1650-7_CH_PR"
+msgstr "V-1650-7"
+
+msgid "NAME_MODULE_V-1650-9"
+msgstr "V-1650-9"
+
+msgid "NAME_MODULE_V-1650-9-19XB"
+msgstr "V-1650-9-19XB"
+
+msgid "NAME_MODULE_V-1710-111"
+msgstr "V-1710-111"
+
+msgid "NAME_MODULE_V-1710-27"
+msgstr "V-1710-27"
+
+msgid "NAME_MODULE_V-1710-33"
+msgstr "V-1710-33"
+
+msgid "NAME_MODULE_V-1710-33-PR"
+msgstr "V-1710-33"
+
+msgid "NAME_MODULE_V-1710-33_PR"
+msgstr "V-1710-33"
+
+msgid "NAME_MODULE_V-1710-35"
+msgstr "V-1710-35"
+
+msgid "NAME_MODULE_V-1710-39"
+msgstr "V-1710-39"
+
+msgid "NAME_MODULE_V-1710-39-GB-PR"
+msgstr "V-1710-39"
+
+msgid "NAME_MODULE_V-1710-49"
+msgstr "V-1710-49"
+
+msgid "NAME_MODULE_V-1710-81"
+msgstr "V-1710-81"
+
+msgid "NAME_MODULE_V-1710-85"
+msgstr "V-1710-85"
+
+msgid "NAME_MODULE_V-1710-85_SOVIET-PR"
+msgstr "V-1710-85"
+
+msgid "NAME_MODULE_V-1710-91"
+msgstr "V-1710-91"
+
+msgid "NAME_MODULE_V-3420-13-PR"
+msgstr "V-3420-13"
+
+msgid "NAME_MODULE_V-3420-23-PR"
+msgstr "V-3420-23"
+
+msgid "NAME_MODULE_V-770-7-PR"
+msgstr "V-770-7"
+
+msgid "NAME_MODULE_VB10_PLANER_PR"
+msgstr "VB 10 02"
+
+msgid "NAME_MODULE_VENOM_PLANER-PR"
+msgstr "279型"
+
+msgid "NAME_MODULE_VK-1"
+msgstr "VK-1"
+
+msgid "NAME_MODULE_VK-105PF2-RD-1-PR"
+msgstr "VK-105PF2 + RD-1"
+
+msgid "NAME_MODULE_VK-107A"
+msgstr "VK-107A (E-30-20)"
+
+msgid "NAME_MODULE_VK-107R"
+msgstr "VK-107R (E-30-20)"
+
+msgid "NAME_MODULE_VK-107RF"
+msgstr "VK-107R (E-30-20F)"
+
+msgid "NAME_MODULE_VK-2"
+msgstr "VK-2"
+
+msgid "NAME_MODULE_VS-315"
+msgstr "VS-315"
+
+msgid "NAME_MODULE_VS-315_PLANER"
+msgstr "VS-315"
+
+msgid "NAME_MODULE_WIRRAWAY-PLANER-PR"
+msgstr "CA-1"
+
+msgid "NAME_MODULE_WP-5_PR"
+msgstr "WP-5"
+
+msgid "NAME_MODULE_WRIGHT-GP-1820G-PR"
+msgstr "懷特GP-1820G"
+
+msgid "NAME_MODULE_WRIGHT-R-1820-67-69-PR"
+msgstr "XR-1820-67/69"
+
+msgid "NAME_MODULE_WRIGHT-R-1820-78-PR"
+msgstr "懷特 R-1820-78"
+
+msgid "NAME_MODULE_WRIGHT-R-1820-F3-PR"
+msgstr "R-1820-F3"
+
+msgid "NAME_MODULE_WRIGHT-R-1820-F53-PR"
+msgstr "懷特 R-1820-F53"
+
+msgid "NAME_MODULE_WRIGHT_CYCLON-2F-PR"
+msgstr "懷特 旋風F2"
+
+msgid "NAME_MODULE_XF2F-1"
+msgstr "XF2F-1"
+
+msgid "NAME_MODULE_XF3F-1"
+msgstr "XF3F-1"
+
+msgid "NAME_MODULE_XF4F-3"
+msgstr "XF4F-3"
+
+msgid "NAME_MODULE_XF4F-3_PLANER-PR"
+msgstr "XF4F-3"
+
+msgid "NAME_MODULE_XF5U-1"
+msgstr "XF5U-1"
+
+msgid "NAME_MODULE_XF5U-1_PLANER"
+msgstr "XF5U-1"
+
+msgid "NAME_MODULE_XF6U-1"
+msgstr "XF6U-1"
+
+msgid "NAME_MODULE_XFJ-1"
+msgstr "XFJ-1"
+
+msgid "NAME_MODULE_XP-23"
+msgstr "XP-23"
+
+msgid "NAME_MODULE_XP-31_PLANER_PR"
+msgstr "XP-934"
+
+msgid "NAME_MODULE_XP-41_PLANER"
+msgstr "XP-41"
+
+msgid "NAME_MODULE_XP-47B_PLANER"
+msgstr "XP-47B"
+
+msgid "NAME_MODULE_XP-50_PLANER_PR"
+msgstr "G-46"
+
+msgid "NAME_MODULE_XP-51F"
+msgstr "XP-51F"
+
+msgid "NAME_MODULE_XP-58_PLANER"
+msgstr "XP-58"
+
+msgid "NAME_MODULE_XP-72_PLANER"
+msgstr "XP-72"
+
+msgid "NAME_MODULE_XP-75_PLANER_PR"
+msgstr "P-75A"
+
+msgid "NAME_MODULE_XR-1820-70"
+msgstr "XR-1820-70"
+
+msgid "NAME_MODULE_XR-1820-G1"
+msgstr "XR-1820-G1"
+
+msgid "NAME_MODULE_XR-2000-4"
+msgstr "XR-2000-4"
+
+msgid "NAME_MODULE_XR-2800-1"
+msgstr "XR-2800-1"
+
+msgid "NAME_MODULE_XR-2800-21"
+msgstr "XR-2800-21"
+
+msgid "NAME_MODULE_XR-2800-4"
+msgstr "XR-2800-4"
+
+msgid "NAME_MODULE_XR-2800-4-PR"
+msgstr "XR-2800-4"
+
+msgid "NAME_MODULE_XR-2800-5"
+msgstr "R-2800-5"
+
+msgid "NAME_MODULE_YAK-15-JUMO_PLANER"
+msgstr "雅克-15-巨魔"
+
+msgid "NAME_MODULE_YAK-15_PLANER"
+msgstr "雅克-15"
+
+msgid "NAME_MODULE_YAK-19_PLANER"
+msgstr "雅克-19"
+
+msgid "NAME_MODULE_YAK-1B_PLANER"
+msgstr "雅克-1B"
+
+msgid "NAME_MODULE_YAK-1M_PLANER"
+msgstr "雅克-1M"
+
+msgid "NAME_MODULE_YAK-1_PLANER"
+msgstr "雅克-1"
+
+msgid "NAME_MODULE_YAK-25_PLANER"
+msgstr "雅克-25"
+
+msgid "NAME_MODULE_YAK-3-45_PLANER"
+msgstr "雅克-3 (1945)"
+
+msgid "NAME_MODULE_YAK-30_PLANER"
+msgstr "雅克-30"
+
+msgid "NAME_MODULE_YAK-3RD_PLANER"
+msgstr "雅克-3RD"
+
+msgid "NAME_MODULE_YAK-3_PLANER"
+msgstr "雅克-3 (1944)"
+
+msgid "NAME_MODULE_YAK-7B_PLANER"
+msgstr "雅克-7B"
+
+msgid "NAME_MODULE_YAK-7_PLANER"
+msgstr "雅克-7A"
+
+msgid "NAME_MODULE_YAK-9M_PLANER"
+msgstr "雅克-9M"
+
+msgid "NAME_MODULE_YAK-9T_PLANER"
+msgstr "雅克-9T"
+
+msgid "NAME_MODULE_YAK-9U-45_PLANER"
+msgstr "雅克-9U (1945)"
+
+msgid "NAME_MODULE_YAK-9U_PLANER"
+msgstr "雅克-9U (1944)"
+
+msgid "NAME_MODULE_YP-29_PLANER_PR"
+msgstr "264型"
+
+msgid "NAME_MODULE_ZUISEI13"
+msgstr "瑞星 13型"
+
+msgid "NAME_MODULE_ZUISEI14"
+msgstr "瑞星 14型"
+
+msgid "PLANER_DESCRIPTION"
+msgstr "機身"
+
+msgid "PRESET_EMPTY"
+msgstr " - "
+
+msgid "PRESET_NAME_CUSTOM"
+msgstr "自定義型號"
+
+msgid "ROCKET_DESCRIPTION"
+msgstr "火箭彈"
+
+msgid "ROCKET_RACK_DESCRIPTION"
+msgstr "火箭掛架 {name}"
+
+msgid "TURRET_DESCRIPTION"
+msgstr "尾部機槍"
+
+msgid "UPGRADE_TYPE_BOMB_PODVES"
+msgstr "頂架"
+
+msgid "UPGRADE_TYPE_ROCKET_PODVES"
+msgstr "發射架"
+
+msgid "WEAPON_NAME_1000FN"
+msgstr "1000 磅"
+
+msgid "WEAPON_NAME_1000LB"
+msgstr "1000磅"
+
+msgid "WEAPON_NAME_100KG-FR-PR"
+msgstr "100 千克"
+
+msgid "WEAPON_NAME_100LB"
+msgstr "100磅"
+
+msgid "WEAPON_NAME_100LB-CH-PR"
+msgstr "100磅"
+
+msgid "WEAPON_NAME_100LB-PR"
+msgstr "100磅"
+
+msgid "WEAPON_NAME_1600LB"
+msgstr "1600磅"
+
+msgid "WEAPON_NAME_20FN"
+msgstr "20 磅"
+
+msgid "WEAPON_NAME_250FN"
+msgstr "250 磅"
+
+msgid "WEAPON_NAME_250FN-PR"
+msgstr "250 磅"
+
+msgid "WEAPON_NAME_250LB"
+msgstr "250磅"
+
+msgid "WEAPON_NAME_470LB-PR"
+msgstr "470磅"
+
+msgid "WEAPON_NAME_500FN"
+msgstr "500 磅"
+
+msgid "WEAPON_NAME_500FN-PR"
+msgstr "500 磅"
+
+msgid "WEAPON_NAME_500FN-SKUA"
+msgstr "500 磅"
+
+msgid "WEAPON_NAME_500LB"
+msgstr "500磅"
+
+msgid "WEAPON_NAME_500LB-CH-PR"
+msgstr "500磅"
+
+msgid "WEAPON_NAME_500LB-PR"
+msgstr "500磅"
+
+msgid "WEAPON_NAME_AN-M30A1"
+msgstr "100 磅 AN-M30A1"
+
+msgid "WEAPON_NAME_AN-M30A1-PR"
+msgstr "100 磅 AN-M30A1"
+
+msgid "WEAPON_NAME_AN-M64-500LB"
+msgstr "500磅 AN-M64"
+
+msgid "WEAPON_NAME_AO-25"
+msgstr "AO-25"
+
+msgid "WEAPON_NAME_AP-INCINERATINGBELT"
+msgstr "高爆燃燒彈"
+
+msgid "WEAPON_NAME_ARMOURPIERCINGBELT"
+msgstr "通用彈藥"
+
+msgid "WEAPON_NAME_ARMOURPIERCINGBELT2"
+msgstr "實芯穿甲彈"
+
+msgid "WEAPON_NAME_ARMOURPIERCINGBELT_CANNON"
+msgstr "穿甲彈"
+
+msgid "WEAPON_NAME_ARMOURPIERCINGBELT_MG"
+msgstr "標準彈"
+
+msgid "WEAPON_NAME_BELT_CHEAP"
+msgstr "1級多用途箍環"
+
+msgid "WEAPON_NAME_BELT_COMMON"
+msgstr "2級多用途箍環"
+
+msgid "WEAPON_NAME_BELT_EXPENSIVE"
+msgstr "3級多用途箍環"
+
+msgid "WEAPON_NAME_BOMB-250-J"
+msgstr "250千克"
+
+msgid "WEAPON_NAME_BOMB-250-J-PR"
+msgstr "250千克"
+
+msgid "WEAPON_NAME_BOMB-30-J"
+msgstr "30千克"
+
+msgid "WEAPON_NAME_BOMB-60-J"
+msgstr "60千克"
+
+msgid "WEAPON_NAME_CALIBER_1000LB_STR"
+msgstr "1000 磅"
+
+msgid "WEAPON_NAME_CALIBER_100LB_STR"
+msgstr "100 磅"
+
+msgid "WEAPON_NAME_CALIBER_1600LB_STR"
+msgstr "1600 磅"
+
+msgid "WEAPON_NAME_CALIBER_20FN_STR"
+msgstr "20 磅"
+
+msgid "WEAPON_NAME_CALIBER_250J_STR"
+msgstr "250 千克"
+
+msgid "WEAPON_NAME_CALIBER_250LB_STR"
+msgstr "250 磅"
+
+msgid "WEAPON_NAME_CALIBER_30J_STR"
+msgstr "30 千克"
+
+msgid "WEAPON_NAME_CALIBER_470LB-PR_STR"
+msgstr "470 磅"
+
+msgid "WEAPON_NAME_CALIBER_470LB_STR"
+msgstr "470 磅"
+
+msgid "WEAPON_NAME_CALIBER_500LB_STR"
+msgstr "500 磅"
+
+msgid "WEAPON_NAME_CALIBER_60J_STR"
+msgstr "60 千克"
+
+msgid "WEAPON_NAME_CALIBER_AO-25_STR"
+msgstr "AO-25"
+
+msgid "WEAPON_NAME_CALIBER_FAB-100-CH-PR_STR"
+msgstr "FAB-100"
+
+msgid "WEAPON_NAME_CALIBER_FAB-100-PR_STR"
+msgstr "FAB-100"
+
+msgid "WEAPON_NAME_CALIBER_FAB-100_STR"
+msgstr "FAB-100"
+
+msgid "WEAPON_NAME_CALIBER_FAB-250-PR_STR"
+msgstr "FAB-250"
+
+msgid "WEAPON_NAME_CALIBER_FAB-250_STR"
+msgstr "FAB-250"
+
+msgid "WEAPON_NAME_CALIBER_FAB-50-PR_STR"
+msgstr "FAB-50"
+
+msgid "WEAPON_NAME_CALIBER_FAB-500_STR"
+msgstr "FAB-500"
+
+msgid "WEAPON_NAME_CALIBER_FAB-50_STR"
+msgstr "FAB-50"
+
+msgid "WEAPON_NAME_CALIBER_FFAR_STR"
+msgstr "2.75'' FFAR"
+
+msgid "WEAPON_NAME_CALIBER_RP3_STR"
+msgstr "3'' RP-3"
+
+msgid "WEAPON_NAME_CALIBER_RS_132_STR"
+msgstr "132 mm"
+
+msgid "WEAPON_NAME_CALIBER_RS_82_STR"
+msgstr "82 mm"
+
+msgid "WEAPON_NAME_CALIBER_SC1000_STR"
+msgstr "SC 1000"
+
+msgid "WEAPON_NAME_CALIBER_SC100_STR"
+msgstr "SC 100"
+
+msgid "WEAPON_NAME_CALIBER_SC10_STR"
+msgstr "SC 10"
+
+msgid "WEAPON_NAME_CALIBER_SC250_STR"
+msgstr "SC 250"
+
+msgid "WEAPON_NAME_CALIBER_SC500-PR_STR"
+msgstr "SC 500"
+
+msgid "WEAPON_NAME_CALIBER_SC500_STR"
+msgstr "SC 500"
+
+msgid "WEAPON_NAME_CALIBER_SC50_STR"
+msgstr "SC 50"
+
+msgid "WEAPON_NAME_CALIBER_SD250_STR"
+msgstr "SD 250"
+
+msgid "WEAPON_NAME_CALIBER_SD50_STR"
+msgstr "SD 50"
+
+msgid "WEAPON_NAME_CALIBER_SNOWBALL_STR"
+msgstr "雪"
+
+msgid "WEAPON_NAME_CALIBER_TINY_TIM_STR"
+msgstr "蒂尼蒂姆"
+
+msgid "WEAPON_NAME_CALIBER_TRS_132_STR"
+msgstr "132 mm"
+
+msgid "WEAPON_NAME_CALIBER_TRS_HVAR_STR"
+msgstr "5'' HVAR"
+
+msgid "WEAPON_NAME_CALIBER_TRS_M8_STR"
+msgstr "4.5'' M8"
+
+msgid "WEAPON_NAME_CALIBER_TRS_R4M_STR"
+msgstr "55 mm"
+
+msgid "WEAPON_NAME_CALIBER_TRS_WGR210_STR"
+msgstr "210 mm"
+
+msgid "WEAPON_NAME_EMPTY"
+msgstr "沒有武器"
+
+msgid "WEAPON_NAME_EMPTY_ROCKET"
+msgstr "沒有外掛武器"
+
+msgid "WEAPON_NAME_ENG_CANNON"
+msgstr "同軸機槍/機砲"
+
+msgid "WEAPON_NAME_ENG_MG"
+msgstr "同軸機槍/機砲"
+
+msgid "WEAPON_NAME_ENG_SHORT"
+msgstr "(H)"
+
+msgid "WEAPON_NAME_EXPAND-INCINERATINGBELT"
+msgstr "高爆燃燒彈"
+
+msgid "WEAPON_NAME_FAB-100"
+msgstr "FAB-100"
+
+msgid "WEAPON_NAME_FAB-100-CH-PR"
+msgstr "FAB-100"
+
+msgid "WEAPON_NAME_FAB-100-PR"
+msgstr "FAB-100"
+
+msgid "WEAPON_NAME_FAB-250"
+msgstr "FAB-250"
+
+msgid "WEAPON_NAME_FAB-250-PR"
+msgstr "FAB-250"
+
+msgid "WEAPON_NAME_FAB-50"
+msgstr "FAB-50"
+
+msgid "WEAPON_NAME_FAB-50-PR"
+msgstr "FAB-50"
+
+msgid "WEAPON_NAME_FAB-500"
+msgstr "FAB-500"
+
+msgid "WEAPON_NAME_FRAGBELT"
+msgstr "高爆彈"
+
+msgid "WEAPON_NAME_FUGASBELT"
+msgstr "高爆彈"
+
+msgid "WEAPON_NAME_G12MM-ANM2"
+msgstr "12.7 mm AN/M2"
+
+msgid "WEAPON_NAME_G12MM-ANM2-F"
+msgstr "12.7 mm AN/M2 (C)"
+
+msgid "WEAPON_NAME_G12MM-ANM2-GB-PR-K"
+msgstr "12.7 mm AN/M2 (W)"
+
+msgid "WEAPON_NAME_G12MM-ANM2-GB-PR-S"
+msgstr "12.7 mm AN/M2 (S)"
+
+msgid "WEAPON_NAME_G12MM-ANM2-K"
+msgstr "12.7 mm AN/M2 (W)"
+
+msgid "WEAPON_NAME_G12MM-ANM2-P"
+msgstr "12.7 mm AN/M2 (O)"
+
+msgid "WEAPON_NAME_G12MM-ANM2-PR-K"
+msgstr "12.7 mm AN/M2 (W)"
+
+msgid "WEAPON_NAME_G12MM-ANM2-PR-S"
+msgstr "12.7 mm AN/M2 (S)"
+
+msgid "WEAPON_NAME_G12MM-ANM2-S"
+msgstr "12.7 mm AN/M2 (S)"
+
+msgid "WEAPON_NAME_G12MM-ANM2-T-PR"
+msgstr "12.7 mm AN/M2"
+
+msgid "WEAPON_NAME_G12MM-ANM2-USSR-PR-S"
+msgstr "12.7 mm AN/M2 (S)"
+
+msgid "WEAPON_NAME_G12MM-B-K"
+msgstr "12.7 mm BK (W)"
+
+msgid "WEAPON_NAME_G12MM-B-K-P"
+msgstr "12.7 mm BK (O)"
+
+msgid "WEAPON_NAME_G12MM-B-M"
+msgstr "12.7 mm BK (H)"
+
+msgid "WEAPON_NAME_G12MM-B-PR-F"
+msgstr "12.7 mm BS (C)"
+
+msgid "WEAPON_NAME_G12MM-B-PR-S"
+msgstr "12.7 mm BS (S)"
+
+msgid "WEAPON_NAME_G12MM-B-S"
+msgstr "12.7 mm BS (S)"
+
+msgid "WEAPON_NAME_G12MM-B-S-P"
+msgstr "12.7 mm BS (O)"
+
+msgid "WEAPON_NAME_G12MM-BK"
+msgstr "12.7 mm BK"
+
+msgid "WEAPON_NAME_G12MM-BMG1921"
+msgstr "12.7 mm BMG1921"
+
+msgid "WEAPON_NAME_G12MM-BMG1921-S"
+msgstr "12.7 mm BMG1921 (S)"
+
+msgid "WEAPON_NAME_G12MM-BREDA-SAFAT"
+msgstr "12.7 mm 佈雷達-薩法特"
+
+msgid "WEAPON_NAME_G12MM-BREDA-SAFAT-PR-S"
+msgstr "12.7 mm 佈雷達-薩法特 (S)"
+
+msgid "WEAPON_NAME_G12MM-BROWNING"
+msgstr "12.7 mm Browning"
+
+msgid "WEAPON_NAME_G12MM-BROWNING-M2"
+msgstr ".50 勃朗寧 M2"
+
+msgid "WEAPON_NAME_G12MM-BROWNING-M2-K"
+msgstr ".50 勃朗寧 M2 (W)"
+
+msgid "WEAPON_NAME_G12MM-BROWNING-PR-K-FRANCE"
+msgstr "12.7 mm Browning (W)"
+
+msgid "WEAPON_NAME_G12MM-BS"
+msgstr "12.7 mm BS"
+
+msgid "WEAPON_NAME_G12MM-BS-PR-S"
+msgstr "12.7 mm BS (S)"
+
+msgid "WEAPON_NAME_G12MM-HO-103"
+msgstr "12.7 mm Ho-103"
+
+msgid "WEAPON_NAME_G12MM-HO-103-PR-S"
+msgstr "12.7 mm Ho-103 (S)"
+
+msgid "WEAPON_NAME_G12MM-M2"
+msgstr "12.7 mm M2"
+
+msgid "WEAPON_NAME_G12MM-M2-F"
+msgstr "12.7 mm M2 (C)"
+
+msgid "WEAPON_NAME_G12MM-M2-K"
+msgstr "12.7 mm M2 (W)"
+
+msgid "WEAPON_NAME_G12MM-M2-LENDLEASE"
+msgstr "12.7 mm M2 (S)"
+
+msgid "WEAPON_NAME_G12MM-M2-PR-F"
+msgstr "12.7 mm AN/M2 (C)"
+
+msgid "WEAPON_NAME_G12MM-M2-PR-K"
+msgstr "12.7 mm M2 (W)"
+
+msgid "WEAPON_NAME_G12MM-M2-PR-S"
+msgstr "12.7 mm M2 (S)"
+
+msgid "WEAPON_NAME_G12MM-M2-RU-PR-K"
+msgstr "12.7 mm M2 (W)"
+
+msgid "WEAPON_NAME_G12MM-M2-S"
+msgstr "12.7 mm M2 (S)"
+
+msgid "WEAPON_NAME_G12MM-M3"
+msgstr "12.7 mm M3 (C)"
+
+msgid "WEAPON_NAME_G12MM-M3-1945-PR-F"
+msgstr "12.7 mm М3 (1945) (C)"
+
+msgid "WEAPON_NAME_G12MM-M3-K"
+msgstr "12.7 mm M3 (W)"
+
+msgid "WEAPON_NAME_G12MM-MG-53-2"
+msgstr "12.7 mm MG-53-2 (C)"
+
+msgid "WEAPON_NAME_G12MM-MG-53-2-CH-PR-K"
+msgstr "12.7 mm MG-53-2 (W)"
+
+msgid "WEAPON_NAME_G12MM-MG-53-2-F"
+msgstr "12.7 mm MG-53-2 (C)"
+
+msgid "WEAPON_NAME_G12MM-MG-53-2-K"
+msgstr "12.7 mm MG-53-2 (W)"
+
+msgid "WEAPON_NAME_G12MM-MG-53-2-PR-K"
+msgstr "12.7 mm MG-53-2 (W)"
+
+msgid "WEAPON_NAME_G12MM-MG-53-2-PR-P"
+msgstr "12.7 mm MF-53-2 (O)"
+
+msgid "WEAPON_NAME_G12MM-MG-53HB"
+msgstr "12.7 mm MG-53HB"
+
+msgid "WEAPON_NAME_G12MM-MG-53HB-F"
+msgstr "12.7 mm MG-53HB (C)"
+
+msgid "WEAPON_NAME_G12MM-MG-53HB-K"
+msgstr "12.7 mm MG-53HB (W)"
+
+msgid "WEAPON_NAME_G12MM-SHVAK-12"
+msgstr "12.7 mm ShVAK-12.7"
+
+msgid "WEAPON_NAME_G12MM-SHVAK-12-K"
+msgstr "12.7 mm ShVAK-12.7 (W)"
+
+msgid "WEAPON_NAME_G12MM-T-150"
+msgstr "12.7 mm T-150"
+
+msgid "WEAPON_NAME_G12MM-T-150-PR-S"
+msgstr "12.7 mm T-150 (S)"
+
+msgid "WEAPON_NAME_G12MM-TYPE1"
+msgstr "12.7 mm Type 1"
+
+msgid "WEAPON_NAME_G12MM-TYPE1-S"
+msgstr "12.7 mm Type 1 (S)"
+
+msgid "WEAPON_NAME_G12MM-UB"
+msgstr "12.7 mm UB"
+
+msgid "WEAPON_NAME_G12MM-UB-PR-F"
+msgstr "12.7 mm UB (C)"
+
+msgid "WEAPON_NAME_G12MM-UB-S"
+msgstr "12.7 mm UBS (S)"
+
+msgid "WEAPON_NAME_G13MM-MG131"
+msgstr "13 mm MG-131"
+
+msgid "WEAPON_NAME_G13MM-MG131-PR-S"
+msgstr "13 mm MG-131 (S)"
+
+msgid "WEAPON_NAME_G13MM-MG131-S"
+msgstr "13 mm MG-131 (S)"
+
+msgid "WEAPON_NAME_G13MM-MG131-T"
+msgstr "13 mm MG-131"
+
+msgid "WEAPON_NAME_G13MM-TYPE-2"
+msgstr "13.2 mm 二式"
+
+msgid "WEAPON_NAME_G13MM-TYPE-2-K"
+msgstr "13.2 mm 二式 (W)"
+
+msgid "WEAPON_NAME_G13MM-TYPE-2-S"
+msgstr "13.2 mm 二式 (S)"
+
+msgid "WEAPON_NAME_G13MM-TYPE-3"
+msgstr "13.2 mm 三式"
+
+msgid "WEAPON_NAME_G13MM-TYPE-3-K"
+msgstr "13.2 mm 三式 (W)"
+
+msgid "WEAPON_NAME_G13MM-UBT-T"
+msgstr "12.7 mm UBT"
+
+msgid "WEAPON_NAME_G15MM-MG151-15"
+msgstr "15 mm MG-151/15"
+
+msgid "WEAPON_NAME_G15MM-MG151-15-F"
+msgstr "15 mm MG-151/15 (C)"
+
+msgid "WEAPON_NAME_G15MM-MG151-15-M"
+msgstr "15 mm MG-151/15 (H)"
+
+msgid "WEAPON_NAME_G15MM-MG151-15-S"
+msgstr "15 mm MG-151/15 (S)"
+
+msgid "WEAPON_NAME_G15MM-MG151-15-T"
+msgstr "15 mm MG-151/15"
+
+msgid "WEAPON_NAME_G20MM-B-20"
+msgstr "20 mm B-20"
+
+msgid "WEAPON_NAME_G20MM-B-20-CH"
+msgstr "20 mm B-20"
+
+msgid "WEAPON_NAME_G20MM-B-20-CH-T"
+msgstr "20 mm B-20"
+
+msgid "WEAPON_NAME_G20MM-B-20-F"
+msgstr "20 mm B-20 (C)"
+
+msgid "WEAPON_NAME_G20MM-B-20-M"
+msgstr "20 mm B-20 (H)"
+
+msgid "WEAPON_NAME_G20MM-B-20-S"
+msgstr "20 mm B-20 (S)"
+
+msgid "WEAPON_NAME_G20MM-B-20-T"
+msgstr "20 mm B-20"
+
+msgid "WEAPON_NAME_G20MM-B-20EN-T"
+msgstr "20 mm B-20EN"
+
+msgid "WEAPON_NAME_G20MM-HISPANO"
+msgstr "20 mm 西斯帕諾-蘇莎 HS.404"
+
+msgid "WEAPON_NAME_G20MM-HISPANO-404-PR-K"
+msgstr "20 mm 西斯帕諾-蘇莎 HS.404"
+
+msgid "WEAPON_NAME_G20MM-HISPANO-K"
+msgstr "20 mm 西斯帕諾-蘇莎 HS.404 (W)"
+
+msgid "WEAPON_NAME_G20MM-HISPANO-MK-1"
+msgstr "20 mm 西斯帕諾 Mk.I"
+
+msgid "WEAPON_NAME_G20MM-HISPANO-MK-1-F"
+msgstr "20 mm 西斯帕諾 Mk.I (C)"
+
+msgid "WEAPON_NAME_G20MM-HISPANO-MK-2"
+msgstr "20 mm 西斯帕諾 Mk.II"
+
+msgid "WEAPON_NAME_G20MM-HISPANO-MK-2-CH-PR-F"
+msgstr "20 mm 西斯帕諾 Mk.II (C)"
+
+msgid "WEAPON_NAME_G20MM-HISPANO-MK-2-F"
+msgstr "20 mm 西斯帕諾 Mk.II (C)"
+
+msgid "WEAPON_NAME_G20MM-HISPANO-MK-2-GER-PR-K"
+msgstr "20 mm 西斯帕諾 Mk.II (W)"
+
+msgid "WEAPON_NAME_G20MM-HISPANO-MK-2-K"
+msgstr "20 mm 西斯帕諾 Mk.II (W)"
+
+msgid "WEAPON_NAME_G20MM-HISPANO-MK-2-PR-K"
+msgstr "20 mm 西斯帕諾 Mk.II (W)"
+
+msgid "WEAPON_NAME_G20MM-HISPANO-MK-2ASTERISK"
+msgstr "20 mm 西斯帕諾 Mk.II*"
+
+msgid "WEAPON_NAME_G20MM-HISPANO-MK-2ASTERISK-K"
+msgstr "20 mm 西斯帕諾 Mk.II* (W)"
+
+msgid "WEAPON_NAME_G20MM-HISPANO-MK-5"
+msgstr "20 mm 西斯帕諾 Mk.V"
+
+msgid "WEAPON_NAME_G20MM-HISPANO-MK-5-F"
+msgstr "20 mm 西斯帕諾 Mk.V (C)"
+
+msgid "WEAPON_NAME_G20MM-HISPANO-MK-5-K"
+msgstr "20 mm 西斯帕諾 Mk.V (W)"
+
+msgid "WEAPON_NAME_G20MM-HISPANO-MK-5-PR-F"
+msgstr "20 mm 西斯帕諾 Mk.V (C)"
+
+msgid "WEAPON_NAME_G20MM-HISPANO-MK-5-PR-K"
+msgstr "20 mm 西斯帕諾 Mk.V (W)"
+
+msgid "WEAPON_NAME_G20MM-HISPANO-MK-5ASTERISK"
+msgstr "20 mm 西斯帕諾 Mk.V*"
+
+msgid "WEAPON_NAME_G20MM-HISPANO-MK-5ASTERISK-F"
+msgstr "20 mm 西斯帕諾 Mk.V* (C)"
+
+msgid "WEAPON_NAME_G20MM-HISPANO-MK-5ASTERISK-K"
+msgstr "20 mm 西斯帕諾 Mk.V* (W)"
+
+msgid "WEAPON_NAME_G20MM-HISPANO-PR-M"
+msgstr "20 mm 西斯帕諾-蘇莎 HS.404"
+
+msgid "WEAPON_NAME_G20MM-HO-5"
+msgstr "20 mm Ho-5"
+
+msgid "WEAPON_NAME_G20MM-HO-5-PR-S"
+msgstr "20 mm Ho-5 (S)"
+
+msgid "WEAPON_NAME_G20MM-HS-404-PR-K-FRANCE"
+msgstr "20 mm HS 404 (W)"
+
+msgid "WEAPON_NAME_G20MM-HS-404-PR-M-FRANCE"
+msgstr "20 mm HS-404 (H)"
+
+msgid "WEAPON_NAME_G20MM-HS-9-PR-F"
+msgstr "20 mm HS-9 (C)"
+
+msgid "WEAPON_NAME_G20MM-HS-9-T"
+msgstr "20 mm HS-9"
+
+msgid "WEAPON_NAME_G20MM-HS404"
+msgstr "20 mm HS 404"
+
+msgid "WEAPON_NAME_G20MM-HS404-T"
+msgstr "20 mm HS 404"
+
+msgid "WEAPON_NAME_G20MM-M2"
+msgstr "20 mm M2"
+
+msgid "WEAPON_NAME_G20MM-M2-F"
+msgstr "20 mm M2 (C)"
+
+msgid "WEAPON_NAME_G20MM-M2-K"
+msgstr "20 mm M2 (W)"
+
+msgid "WEAPON_NAME_G20MM-M2-PR-F"
+msgstr "20 mm M2 (C)"
+
+msgid "WEAPON_NAME_G20MM-M3"
+msgstr "20 mm M3 (C)"
+
+msgid "WEAPON_NAME_G20MM-M3-K"
+msgstr "20 mm M3 (W)"
+
+msgid "WEAPON_NAME_G20MM-M3-PR-K"
+msgstr "20 mm M3 (W)"
+
+msgid "WEAPON_NAME_G20MM-M39"
+msgstr "20 mm M39"
+
+msgid "WEAPON_NAME_G20MM-M39-F"
+msgstr "20 mm M39 (C)"
+
+msgid "WEAPON_NAME_G20MM-M3_ALL"
+msgstr "20 mm M3"
+
+msgid "WEAPON_NAME_G20MM-M61-VULCAN"
+msgstr "20 mm M61 火神"
+
+msgid "WEAPON_NAME_G20MM-MG151-20"
+msgstr "20 mm MG-151/20 (1941)"
+
+msgid "WEAPON_NAME_G20MM-MG151-20-F"
+msgstr "20 mm MG-151/20 (1941) (C)"
+
+msgid "WEAPON_NAME_G20MM-MG151-20-K"
+msgstr "20 mm MG-151/20 (1941) (W)"
+
+msgid "WEAPON_NAME_G20MM-MG151-20-M"
+msgstr "20 mm MG-151/20 (1941) (H)"
+
+msgid "WEAPON_NAME_G20MM-MG151-20-P"
+msgstr "20 mm MG-151/20 (1941) (O)"
+
+msgid "WEAPON_NAME_G20MM-MG151-20-PR-F"
+msgstr "20 mm MG-151/20 (1941) (C)"
+
+msgid "WEAPON_NAME_G20MM-MG151-20-PR-S"
+msgstr "20 mm MG-151/20 (1941) (S)"
+
+msgid "WEAPON_NAME_G20MM-MG151-20-S"
+msgstr "20 mm MG-151/20 (1941) (S)"
+
+msgid "WEAPON_NAME_G20MM-MG151-20-T"
+msgstr "20 mm MG-151/20 (1941)"
+
+msgid "WEAPON_NAME_G20MM-MG151_44-20"
+msgstr "20 mm MG-151/20 (1944)"
+
+msgid "WEAPON_NAME_G20MM-MG151_44-20-F"
+msgstr "20 mm MG-151/20 (1944) (C)"
+
+msgid "WEAPON_NAME_G20MM-MG151_44-20-K"
+msgstr "20 mm MG-151/20 (1944) (W)"
+
+msgid "WEAPON_NAME_G20MM-MG151_44-20-M"
+msgstr "20 mm MG-151/20 (1944) (H)"
+
+msgid "WEAPON_NAME_G20MM-MG151_44-20-P"
+msgstr "20 mm MG-151/20 (1944) (O)"
+
+msgid "WEAPON_NAME_G20MM-MG151_44-20-PR-F"
+msgstr "20 mm MG-151/20 (1944) (C)"
+
+msgid "WEAPON_NAME_G20MM-MG151_44-20-S"
+msgstr "20 mm MG-151/20 (1944) (S)"
+
+msgid "WEAPON_NAME_G20MM-MG213C20"
+msgstr "20 mm MG-213C"
+
+msgid "WEAPON_NAME_G20MM-MG213C20-F"
+msgstr "20 mm MG-213C (C)"
+
+msgid "WEAPON_NAME_G20MM-MG213C20-S"
+msgstr "20 mm MG-213/20 (S)"
+
+msgid "WEAPON_NAME_G20MM-MG213C20-T"
+msgstr "20 mm MG-213C"
+
+msgid "WEAPON_NAME_G20MM-MGC30L"
+msgstr "20 mm MG C/30L"
+
+msgid "WEAPON_NAME_G20MM-MGC30L-P"
+msgstr "20 mm MG C/30L (O)"
+
+msgid "WEAPON_NAME_G20MM-MGFF"
+msgstr "20 mm MG-FF"
+
+msgid "WEAPON_NAME_G20MM-MGFF-F"
+msgstr "20 mm MG-FF (C)"
+
+msgid "WEAPON_NAME_G20MM-MGFF-K"
+msgstr "20 mm MG-FF (W)"
+
+msgid "WEAPON_NAME_G20MM-MGFF-M"
+msgstr "20 mm MG-FF (H)"
+
+msgid "WEAPON_NAME_G20MM-MGFF-M-F"
+msgstr "20 mm MG-FF/M (C)"
+
+msgid "WEAPON_NAME_G20MM-MGFF-M-K"
+msgstr "20 mm MG-FF/M (W)"
+
+msgid "WEAPON_NAME_G20MM-MGFF-M-M"
+msgstr "20 mm MG-FF/M (H)"
+
+msgid "WEAPON_NAME_G20MM-MGFF-M-P"
+msgstr "20 mm MG-FF/M (O)"
+
+msgid "WEAPON_NAME_G20MM-MGFF-M-PR-M"
+msgstr "20 mm MG-FF/M (H)"
+
+msgid "WEAPON_NAME_G20MM-MGFF-M-S"
+msgstr "20 mm MG-FF/M (S)"
+
+msgid "WEAPON_NAME_G20MM-MGFF-P"
+msgstr "20 mm MG-FF (O)"
+
+msgid "WEAPON_NAME_G20MM-MGFF-PR-F"
+msgstr "20 mm MG-FF (C)"
+
+msgid "WEAPON_NAME_G20MM-MGFF-PR-K"
+msgstr "20 mm MG-FF (W)"
+
+msgid "WEAPON_NAME_G20MM-MGFF-S"
+msgstr "20 mm MG-FF (S)"
+
+msgid "WEAPON_NAME_G20MM-MGFF-T"
+msgstr "20 mm MG-FF"
+
+msgid "WEAPON_NAME_G20MM-MGFF_M"
+msgstr "20 mm MG-FF/M"
+
+msgid "WEAPON_NAME_G20MM-MK12"
+msgstr "20 mm Mk.12 (C)"
+
+msgid "WEAPON_NAME_G20MM-OERLIKON-S9"
+msgstr "20 mm 厄利空 S9"
+
+msgid "WEAPON_NAME_G20MM-OERLIKON-S9-PR-M"
+msgstr "20 mm 厄利空 S9 (H)"
+
+msgid "WEAPON_NAME_G20MM-SHA-20"
+msgstr "20 mm ShA-20"
+
+msgid "WEAPON_NAME_G20MM-SHA-20-M"
+msgstr "20 mm ShA-20 (H)"
+
+msgid "WEAPON_NAME_G20MM-SHVAK-20"
+msgstr "20 mm ShVAK (1941)"
+
+msgid "WEAPON_NAME_G20MM-SHVAK-20-K"
+msgstr "20 mm ShVAK (1941) (W)"
+
+msgid "WEAPON_NAME_G20MM-SHVAK-20-M"
+msgstr "20 mm ShVAK (1941) (H)"
+
+msgid "WEAPON_NAME_G20MM-SHVAK-20-PR-F"
+msgstr "20 mm SHVAK (1941) (С)"
+
+msgid "WEAPON_NAME_G20MM-SHVAK-20-PR-K"
+msgstr "20 mm ShVAK (1936) (W)"
+
+msgid "WEAPON_NAME_G20MM-SHVAK-20-S"
+msgstr "20 mm ShVAK (1941) (S)"
+
+msgid "WEAPON_NAME_G20MM-SHVAK36-20"
+msgstr "20 mm ShVAK (1936)"
+
+msgid "WEAPON_NAME_G20MM-SHVAK36-20-K"
+msgstr "20 mm ShVAK (1936) (W)"
+
+msgid "WEAPON_NAME_G20MM-SHVAK36-20-M"
+msgstr "20 mm ShVAK (1936) (H)"
+
+msgid "WEAPON_NAME_G20MM-SHVAK36-20-PR-K"
+msgstr "20 mm ShVAK (1936) (W)"
+
+msgid "WEAPON_NAME_G20MM-TYPE-99-1"
+msgstr "20 mm 九九式一號"
+
+msgid "WEAPON_NAME_G20MM-TYPE-99-1-K"
+msgstr "20 mm 九九式一號 (W)"
+
+msgid "WEAPON_NAME_G20MM-TYPE-99-1-M1"
+msgstr "20 mm 九九式一號一型"
+
+msgid "WEAPON_NAME_G20MM-TYPE-99-1-M1-K"
+msgstr "20 mm 九九式一號一型(W)"
+
+msgid "WEAPON_NAME_G20MM-TYPE-99-1-M3"
+msgstr "20 mm 九九式一號三型"
+
+msgid "WEAPON_NAME_G20MM-TYPE-99-1-M3-K"
+msgstr "20 mm 九九式一號三型(W)"
+
+msgid "WEAPON_NAME_G20MM-TYPE-99-2"
+msgstr "20 mm 九九式二號"
+
+msgid "WEAPON_NAME_G20MM-TYPE-99-2-F"
+msgstr "20 mm 九九式二號 (C)"
+
+msgid "WEAPON_NAME_G20MM-TYPE-99-2-K"
+msgstr "20 mm 九九式二號 (W)"
+
+msgid "WEAPON_NAME_G20MM-TYPE-99-2-M1"
+msgstr "20 mm 九九式二號一型"
+
+msgid "WEAPON_NAME_G20MM-TYPE-99-2-M1-K"
+msgstr "20 mm 九九式二號一型(W)"
+
+msgid "WEAPON_NAME_G20MM-TYPE-99-2-M4"
+msgstr "20 mm 九九式二號四型"
+
+msgid "WEAPON_NAME_G20MM-TYPE-99-2-M4-K"
+msgstr "20 mm 九九式二號四型(W)"
+
+msgid "WEAPON_NAME_G20MM-TYPE-99-2-M5"
+msgstr "20 mm 九九式二號五型"
+
+msgid "WEAPON_NAME_G20MM-TYPE-99-2-M5-F"
+msgstr "20 mm 九九式二號五型(C)"
+
+msgid "WEAPON_NAME_G20MM-TYPE-99-2-M5-K"
+msgstr "20 mm 九九式二號五型(W)"
+
+msgid "WEAPON_NAME_G20MM-TYPE-99-2-M5-PR-F"
+msgstr "20 mm 九九式二號五型(C)"
+
+msgid "WEAPON_NAME_G20MM-TYPE-99-2-MOD1"
+msgstr "20 mm 九九式二號一型(C)"
+
+msgid "WEAPON_NAME_G20MM-TYPE-E"
+msgstr "20 mm Type E"
+
+msgid "WEAPON_NAME_G20MM-TYPE-E-K"
+msgstr "20 mm Type E (W)"
+
+msgid "WEAPON_NAME_G23MM-AM-23"
+msgstr "23 mm AM-23"
+
+msgid "WEAPON_NAME_G23MM-AM-23-F"
+msgstr "23 mm AM-23 (C)"
+
+msgid "WEAPON_NAME_G23MM-AM-23-S"
+msgstr "23 mm AM-23 (S)"
+
+msgid "WEAPON_NAME_G23MM-AM-23-T"
+msgstr "23 mm AM-23"
+
+msgid "WEAPON_NAME_G23MM-MADSEN"
+msgstr "23 mm 麥德森"
+
+msgid "WEAPON_NAME_G23MM-MADSEN-F"
+msgstr "23 mm 麥迪森 (C)"
+
+msgid "WEAPON_NAME_G23MM-MADSEN-K"
+msgstr "23 mm 麥迪森 (W)"
+
+msgid "WEAPON_NAME_G23MM-NR-23"
+msgstr "23 mm NR-23 (W)"
+
+msgid "WEAPON_NAME_G23MM-NR-23-CH"
+msgstr "23 mm NR-23"
+
+msgid "WEAPON_NAME_G23MM-NR-23-CH-PR-F"
+msgstr "23 mm NR-23 (C)"
+
+msgid "WEAPON_NAME_G23MM-NR-23-CH-PR-K"
+msgstr "23 mm NR-23 (W)"
+
+msgid "WEAPON_NAME_G23MM-NR-23-F"
+msgstr "23 mm NR-23 (C)"
+
+msgid "WEAPON_NAME_G23MM-NR-23-K"
+msgstr "23 mm NR-23 (W)"
+
+msgid "WEAPON_NAME_G23MM-NR-23-PR-M"
+msgstr "23 mm NR-23 (H)"
+
+msgid "WEAPON_NAME_G23MM-NR-23-S"
+msgstr "23 mm NR-23 (S)"
+
+msgid "WEAPON_NAME_G23MM-NR-23-T"
+msgstr "23 mm NR-23"
+
+msgid "WEAPON_NAME_G23MM-NR-23K"
+msgstr "23 mm NR-23K"
+
+msgid "WEAPON_NAME_G23MM-NR-23K-K"
+msgstr "23 mm NR-23K (W)"
+
+msgid "WEAPON_NAME_G23MM-NS-23"
+msgstr "23 mm NS-23"
+
+msgid "WEAPON_NAME_G23MM-NS-23-F"
+msgstr "23 mm NS-23 (C)"
+
+msgid "WEAPON_NAME_G23MM-NS-23-K"
+msgstr "23 mm NS-23 (W)"
+
+msgid "WEAPON_NAME_G23MM-NS-23-M"
+msgstr "23 mm NS-23 (H)"
+
+msgid "WEAPON_NAME_G23MM-NS-23-PR-F"
+msgstr "23 mm NS-23 (C)"
+
+msgid "WEAPON_NAME_G23MM-NS-23-PR-S"
+msgstr "23 mm NS-23 (S)"
+
+msgid "WEAPON_NAME_G23MM-NS-23-S"
+msgstr "23 mm NS-23 (S)"
+
+msgid "WEAPON_NAME_G23MM-NS-23-T"
+msgstr "23 mm NS-23"
+
+msgid "WEAPON_NAME_G23MM-NS-23KM"
+msgstr "23 mm NS-23KM"
+
+msgid "WEAPON_NAME_G23MM-NS-23KM-F"
+msgstr "23 mm NS-23KM (C)"
+
+msgid "WEAPON_NAME_G23MM-NS-23KM-S"
+msgstr "23 mm NS-23KM (S)"
+
+msgid "WEAPON_NAME_G23MM-NS-23KMU"
+msgstr "23 mm NS-23KMU"
+
+msgid "WEAPON_NAME_G23MM-NS-23KMU-F"
+msgstr "23 mm NS-23KMU (C)"
+
+msgid "WEAPON_NAME_G23MM-NS-23KMU-S"
+msgstr "23 mm NS-23KMU (S)"
+
+msgid "WEAPON_NAME_G23MM-PTB-23"
+msgstr "23 mm PTB"
+
+msgid "WEAPON_NAME_G23MM-PTB-23-K"
+msgstr "23 mm PTB (W)"
+
+msgid "WEAPON_NAME_G23MM-SH-3"
+msgstr "23 mm Sh-3"
+
+msgid "WEAPON_NAME_G23MM-SH-3-F"
+msgstr "23 mm Sh-3 (C)"
+
+msgid "WEAPON_NAME_G23MM-T4"
+msgstr "23 mm T4"
+
+msgid "WEAPON_NAME_G23MM-T4-F"
+msgstr "23 mm T4 (C)"
+
+msgid "WEAPON_NAME_G23MM-VYA-23"
+msgstr "23 mm VYa-23"
+
+msgid "WEAPON_NAME_G23MM-VYA-23-K"
+msgstr "23 mm VYa-23 (W)"
+
+msgid "WEAPON_NAME_G23MM-VYA-23-M"
+msgstr "23 mm VYa-23 (H)"
+
+msgid "WEAPON_NAME_G23MM-VYA-23-PR-K"
+msgstr "23 mm VYa-23 (W)"
+
+msgid "WEAPON_NAME_G23MM-VYA-23-S"
+msgstr "23 mm VYa-23 (S)"
+
+msgid "WEAPON_NAME_G30MM-ADEN"
+msgstr "30 mm ADEN"
+
+msgid "WEAPON_NAME_G30MM-ADEN-F"
+msgstr "30 mm ADEN (C)"
+
+msgid "WEAPON_NAME_G30MM-ADEN-K"
+msgstr "30 mm ADEN (W)"
+
+msgid "WEAPON_NAME_G30MM-DEFA-551"
+msgstr "30 mm DEFA 551"
+
+msgid "WEAPON_NAME_G30MM-DEFA-551-PR-F"
+msgstr "30 mm DEFA 551 (C)"
+
+msgid "WEAPON_NAME_G30MM-MG213C30"
+msgstr "30 mm MG-213/30"
+
+msgid "WEAPON_NAME_G30MM-MG213C30-F"
+msgstr "30 mm MG-213/30 (C)"
+
+msgid "WEAPON_NAME_G30MM-MK-101"
+msgstr "30 mm MK-101"
+
+msgid "WEAPON_NAME_G30MM-MK-101-P"
+msgstr "30 mm MK-101 (O)"
+
+msgid "WEAPON_NAME_G30MM-MK-101-PR-P"
+msgstr "30 mm MK-101 (O)"
+
+msgid "WEAPON_NAME_G30MM-MK-103"
+msgstr "30 mm MK-103"
+
+msgid "WEAPON_NAME_G30MM-MK-103-F"
+msgstr "30 mm MK-103 (C)"
+
+msgid "WEAPON_NAME_G30MM-MK-103-M"
+msgstr "30 mm MK-103 (H)"
+
+msgid "WEAPON_NAME_G30MM-MK-103-P"
+msgstr "30 mm MK-103 (O)"
+
+msgid "WEAPON_NAME_G30MM-MK-103-S"
+msgstr "30 mm MK-103 (S)"
+
+msgid "WEAPON_NAME_G30MM-MK-108"
+msgstr "30 mm MK-108 (1944)"
+
+msgid "WEAPON_NAME_G30MM-MK-108-44-PR-F"
+msgstr "30 mm MK-108 (1944) (C)"
+
+msgid "WEAPON_NAME_G30MM-MK-108-F"
+msgstr "30 mm MK-108 (1944) (C)"
+
+msgid "WEAPON_NAME_G30MM-MK-108-M"
+msgstr "30 mm MK-108 (1944) (H)"
+
+msgid "WEAPON_NAME_G30MM-MK-108-P"
+msgstr "30 mm MK-108 (1944) (O)"
+
+msgid "WEAPON_NAME_G30MM-MK-108-S"
+msgstr "30 mm MK-108 (1944) (S)"
+
+msgid "WEAPON_NAME_G30MM-MK-108_42"
+msgstr "30 mm MK-108 (1942)"
+
+msgid "WEAPON_NAME_G30MM-MK-108_42-K"
+msgstr "30 mm MK-108 (1942) (W)"
+
+msgid "WEAPON_NAME_G30MM-MK-108_42-M"
+msgstr "30 mm MK-108 (1942) (H)"
+
+msgid "WEAPON_NAME_G30MM-MK-108_42-P"
+msgstr "30 mm MK-108 (1942) (O)"
+
+msgid "WEAPON_NAME_G30MM-MK-108_42-PR-K"
+msgstr "30 mm MK-108 (1942) (W)"
+
+msgid "WEAPON_NAME_G30MM-SH-3-30"
+msgstr "30 mm Sh-3-30"
+
+msgid "WEAPON_NAME_G30MM-SH-3-30-F"
+msgstr "30 mm Sh-3-30 (C)"
+
+msgid "WEAPON_NAME_G30MM-TYPE17"
+msgstr "30 mm 十七式"
+
+msgid "WEAPON_NAME_G30MM-TYPE17-F"
+msgstr "30 mm 十七式 (C)"
+
+msgid "WEAPON_NAME_G30MM-TYPE2"
+msgstr "30 mm 二式"
+
+msgid "WEAPON_NAME_G30MM-TYPE2-EXPERIMENTAL-PR-K"
+msgstr "30 mm 二式試驗 (W)"
+
+msgid "WEAPON_NAME_G30MM-TYPE2-F"
+msgstr "30 mm 二式 (C)"
+
+msgid "WEAPON_NAME_G30MM-TYPE2-PR-F"
+msgstr "30 mm 二式 (C)"
+
+msgid "WEAPON_NAME_G30MM-TYPE5"
+msgstr "30 mm 五式"
+
+msgid "WEAPON_NAME_G30MM-TYPE5-F"
+msgstr "30 mm 五式 (C)"
+
+msgid "WEAPON_NAME_G30MM-TYPE5-PR-K"
+msgstr "30 mm 五式 (W)"
+
+msgid "WEAPON_NAME_G37MM-BK-37"
+msgstr "37 mm BK 3.7"
+
+msgid "WEAPON_NAME_G37MM-BK-37-P"
+msgstr "37 mm BK 3.7 (O)"
+
+msgid "WEAPON_NAME_G37MM-HO-203"
+msgstr "37 mm Ho-203"
+
+msgid "WEAPON_NAME_G37MM-HO-203-PR-M"
+msgstr "37 mm Ho-203 (H)"
+
+msgid "WEAPON_NAME_G37MM-M10"
+msgstr "37 mm M10"
+
+msgid "WEAPON_NAME_G37MM-M10-F"
+msgstr "37 mm M10 (C)"
+
+msgid "WEAPON_NAME_G37MM-M4"
+msgstr "37 mm M4"
+
+msgid "WEAPON_NAME_G37MM-M4-F"
+msgstr "37 mm M4 (C)"
+
+msgid "WEAPON_NAME_G37MM-N-37"
+msgstr "37 mm N-37"
+
+msgid "WEAPON_NAME_G37MM-N-37-CH"
+msgstr "37 mm N-37"
+
+msgid "WEAPON_NAME_G37MM-N-37-CH-PR-F"
+msgstr "37 mm N-37 (C)"
+
+msgid "WEAPON_NAME_G37MM-N-37-F"
+msgstr "37 mm N-37KM (C)"
+
+msgid "WEAPON_NAME_G37MM-N-37-M"
+msgstr "37 mm N-37 (H)"
+
+msgid "WEAPON_NAME_G37MM-N-37-S"
+msgstr "37 mm N-37 (S)"
+
+msgid "WEAPON_NAME_G37MM-N-37D"
+msgstr "37 mm N-37D"
+
+msgid "WEAPON_NAME_G37MM-N-37D-F"
+msgstr "37 mm N-37D (C)"
+
+msgid "WEAPON_NAME_G37MM-NS-37"
+msgstr "37 mm NS-37"
+
+msgid "WEAPON_NAME_G37MM-NS-37-K"
+msgstr "37 mm NS-37 (W)"
+
+msgid "WEAPON_NAME_G37MM-NS-37-M"
+msgstr "37 mm NS-37 (H)"
+
+msgid "WEAPON_NAME_G37MM-NS-37-PR-M"
+msgstr "37 mm NS-37 (H)"
+
+msgid "WEAPON_NAME_G37MM-NS-37-S"
+msgstr "37 mm NS-37 (S)"
+
+msgid "WEAPON_NAME_G37MM-SHFK-37"
+msgstr "37 mm Sh-37"
+
+msgid "WEAPON_NAME_G37MM-SHFK-37-K"
+msgstr "37 mm Sh-37 (W)"
+
+msgid "WEAPON_NAME_G37MM-SHFK-37-M"
+msgstr "37 mm Sh-37 (H)"
+
+msgid "WEAPON_NAME_G37MM-SHFK-37-P"
+msgstr "37 mm Sh-37 (O)"
+
+msgid "WEAPON_NAME_G37MM-T9"
+msgstr "37 mm T9 (H)"
+
+msgid "WEAPON_NAME_G37MM-T9-LENDLEASE-M-PR"
+msgstr "37 mm T9 (H)"
+
+msgid "WEAPON_NAME_G37MM-T9-PR-F"
+msgstr "37 mm T9 (C)"
+
+msgid "WEAPON_NAME_G40MM-ROLLS-ROYCE-BH"
+msgstr "40 mm 羅-羅 BH"
+
+msgid "WEAPON_NAME_G40MM-ROLLS-ROYCE-BH-K"
+msgstr "40 mm 羅-羅 BH (W)"
+
+msgid "WEAPON_NAME_G40MM-VICKERS-S-K"
+msgstr "40 mm 維克斯 S (W)"
+
+msgid "WEAPON_NAME_G40MM-VICKERS-S-MK-1"
+msgstr "40 mm 維克斯 S Mk.I"
+
+msgid "WEAPON_NAME_G40MM-VICKERS-S-MK-1-PR-K"
+msgstr "40 mm 維克斯 S Mk.I (W)"
+
+msgid "WEAPON_NAME_G40MM-VICKERS-S-MK-1-PR-P"
+msgstr "40 mm 維克斯 S Mk.I (O)"
+
+msgid "WEAPON_NAME_G45MM-NS-45"
+msgstr "45 mm NS-45"
+
+msgid "WEAPON_NAME_G45MM-NS-45-K"
+msgstr "45 mm NS-45 (W)"
+
+msgid "WEAPON_NAME_G45MM-NS-45-M"
+msgstr "45 mm NS-45 (H)"
+
+msgid "WEAPON_NAME_G45MM-NS-45-P"
+msgstr "45 mm NS-45 (O)"
+
+msgid "WEAPON_NAME_G45MM-NS-45M"
+msgstr "45 mm NS-45M"
+
+msgid "WEAPON_NAME_G45MM-NS-45M-M"
+msgstr "45 mm NS-45M (H)"
+
+msgid "WEAPON_NAME_G50MM-BK-5"
+msgstr "50 mm BK 5"
+
+msgid "WEAPON_NAME_G50MM-BK-5-P"
+msgstr "50 mm BK 5 (O)"
+
+msgid "WEAPON_NAME_G50MM-MK-214"
+msgstr "50 mm MK-214"
+
+msgid "WEAPON_NAME_G50MM-MK-214-F"
+msgstr "50 mm MK-214 (C)"
+
+msgid "WEAPON_NAME_G50MM-MK-214-S"
+msgstr "50 mm MK-214 (S)"
+
+msgid "WEAPON_NAME_G50MM-VK-5-F"
+msgstr "50 mm BK 5 (C)"
+
+msgid "WEAPON_NAME_G50MM-VK-5-S"
+msgstr "50 mm BK 5 (S)"
+
+msgid "WEAPON_NAME_G57MM-N-57"
+msgstr "57 mm N-57"
+
+msgid "WEAPON_NAME_G57MM-N-57-K"
+msgstr "57 mm N-57 (W)"
+
+msgid "WEAPON_NAME_G57MM-N-57-PR-F"
+msgstr "57 mm N-57 (C)"
+
+msgid "WEAPON_NAME_G57MM-N-57-S"
+msgstr "57 mm N-57 (S)"
+
+msgid "WEAPON_NAME_G7MM-ANM2"
+msgstr "7.62 mm AN/M2"
+
+msgid "WEAPON_NAME_G7MM-ANM2-GB-PR-K"
+msgstr "7.62 mm AN/M2 (W)"
+
+msgid "WEAPON_NAME_G7MM-ANM2-PR-S"
+msgstr "7.62 mm AN/M2 (S)"
+
+msgid "WEAPON_NAME_G7MM-ANM2-S"
+msgstr "7.62 mm AN/M2 (S)"
+
+msgid "WEAPON_NAME_G7MM-BROWNING"
+msgstr ".303 勃朗寧"
+
+msgid "WEAPON_NAME_G7MM-BROWNING-MK-2"
+msgstr ".303 勃朗寧 Mk.II"
+
+msgid "WEAPON_NAME_G7MM-BROWNING-MK-2-CH-PR-F"
+msgstr ".303 勃朗寧 Mk.II (C)"
+
+msgid "WEAPON_NAME_G7MM-BROWNING-MK-2-F"
+msgstr ".303 勃朗寧 Mk.II (C)"
+
+msgid "WEAPON_NAME_G7MM-BROWNING-MK-2-GER-PR-K"
+msgstr "7.69 mm 勃朗寧 Mk.II (W)"
+
+msgid "WEAPON_NAME_G7MM-BROWNING-MK-2-K"
+msgstr ".303 勃朗寧 Mk.II (W)"
+
+msgid "WEAPON_NAME_G7MM-BROWNING-MK-2-P"
+msgstr ".303 勃朗寧 Mk.II (O)"
+
+msgid "WEAPON_NAME_G7MM-BROWNING-MK-2-PR-K"
+msgstr ".303 勃朗寧 Mk.II (W)"
+
+msgid "WEAPON_NAME_G7MM-BROWNING-MK-2-PR-S"
+msgstr ".303 勃朗寧 Mk.II (S)"
+
+msgid "WEAPON_NAME_G7MM-BROWNING-MK-2-T"
+msgstr ".303 勃朗寧 Mk.II"
+
+msgid "WEAPON_NAME_G7MM-BROWNING-MK-2ASTERISK"
+msgstr ".303 勃朗寧 Mk.II*"
+
+msgid "WEAPON_NAME_G7MM-BROWNING-MK-2ASTERISK-K"
+msgstr ".303 勃朗寧 Mk.II* (W)"
+
+msgid "WEAPON_NAME_G7MM-BROWNING-PR-S"
+msgstr ".303 勃朗寧 (S)"
+
+msgid "WEAPON_NAME_G7MM-DA-T"
+msgstr "7.62 mm DA"
+
+msgid "WEAPON_NAME_G7MM-LEWIS"
+msgstr ".303 路易斯"
+
+msgid "WEAPON_NAME_G7MM-LEWIS-K"
+msgstr ".303 路易斯 (W)"
+
+msgid "WEAPON_NAME_G7MM-LEWIS-MK-2-T"
+msgstr ".303 路易斯 Mk II"
+
+msgid "WEAPON_NAME_G7MM-LEWIS-MK-2ASTERISK-T"
+msgstr ".303 路易斯 Mk II*"
+
+msgid "WEAPON_NAME_G7MM-LEWIS-MK-3-T"
+msgstr ".303 路易斯 Mk III"
+
+msgid "WEAPON_NAME_G7MM-M1919-A3"
+msgstr "7.62 mm M1919A3"
+
+msgid "WEAPON_NAME_G7MM-M1919-A3-K"
+msgstr "7.62 mm M1919A3 (W)"
+
+msgid "WEAPON_NAME_G7MM-M1919-A4"
+msgstr "7.62 mm M1919A4"
+
+msgid "WEAPON_NAME_G7MM-M1919-A4-GB-PR-K"
+msgstr "7.62 mm M1919A4 (W)"
+
+msgid "WEAPON_NAME_G7MM-M1919-A4-K"
+msgstr "7.62 mm M1919A4 (W)"
+
+msgid "WEAPON_NAME_G7MM-M1919-A4-PR-K"
+msgstr "7.62 mm M1919A4 (W)"
+
+msgid "WEAPON_NAME_G7MM-M1919-A4-PR-S"
+msgstr "7.62 mm M1919A4 (S)"
+
+msgid "WEAPON_NAME_G7MM-M1919-A4-S"
+msgstr "7.62 mm M1919A4 (S)"
+
+msgid "WEAPON_NAME_G7MM-M1919-A4-T"
+msgstr "7.62 mm M1919A4"
+
+msgid "WEAPON_NAME_G7MM-M1919-A4-T-PR"
+msgstr "7.62 mm M1919A4"
+
+msgid "WEAPON_NAME_G7MM-M1919-S"
+msgstr "7.62 mm M1919 (S)"
+
+msgid "WEAPON_NAME_G7MM-MAC-34-M39-PR-K"
+msgstr "7.5 mm MAC 34 Mle 39 (W)"
+
+msgid "WEAPON_NAME_G7MM-MAC-34A"
+msgstr "7.5 mm MAC 34A"
+
+msgid "WEAPON_NAME_G7MM-MAC-34A-M39"
+msgstr "7.5 mm MAC 34 Mle 39"
+
+msgid "WEAPON_NAME_G7MM-MAC-34A-PR-K"
+msgstr "7.5 mm MAC 34A (W)"
+
+msgid "WEAPON_NAME_G7MM-MAC34T"
+msgstr "7.5 mm MAC 34T"
+
+msgid "WEAPON_NAME_G7MM-MG0818"
+msgstr "7.92 mm MG-08/18"
+
+msgid "WEAPON_NAME_G7MM-MG0818-F"
+msgstr "7.92 mm MG-08/18 (C)"
+
+msgid "WEAPON_NAME_G7MM-MG0818-K"
+msgstr "7.92 mm MG-08/18 (W)"
+
+msgid "WEAPON_NAME_G7MM-MG0818-S"
+msgstr "7.92 mm MG-08/18 (S)"
+
+msgid "WEAPON_NAME_G7MM-MG0818-T"
+msgstr "7.92 mm MG-08/18"
+
+msgid "WEAPON_NAME_G7MM-MG15"
+msgstr "7.92 mm MG-15"
+
+msgid "WEAPON_NAME_G7MM-MG15-T"
+msgstr "7.92 mm MG-15"
+
+msgid "WEAPON_NAME_G7MM-MG17"
+msgstr "7.92 mm MG-17 (1940)"
+
+msgid "WEAPON_NAME_G7MM-MG17-F"
+msgstr "7.92 mm MG-17 (1940) (C)"
+
+msgid "WEAPON_NAME_G7MM-MG17-K"
+msgstr "7.92 mm MG-17 (1940) (W)"
+
+msgid "WEAPON_NAME_G7MM-MG17-M"
+msgstr "7.92 mm MG-17 (1940) (H)"
+
+msgid "WEAPON_NAME_G7MM-MG17-PR-F"
+msgstr "7.92 mm MG-17 (1940) (C)"
+
+msgid "WEAPON_NAME_G7MM-MG17-PR-M"
+msgstr "7.92 mm MG-17 (1940) (H)"
+
+msgid "WEAPON_NAME_G7MM-MG17-PR-S"
+msgstr "7.92 mm MG-17 (1940) (S)"
+
+msgid "WEAPON_NAME_G7MM-MG17-S"
+msgstr "7.92 mm MG-17 (1940) (S)"
+
+msgid "WEAPON_NAME_G7MM-MG17_34"
+msgstr "7.92 mm MG-17 (1934)"
+
+msgid "WEAPON_NAME_G7MM-MG17_34-F"
+msgstr "7.92 mm MG-17 (1934) (C)"
+
+msgid "WEAPON_NAME_G7MM-MG17_34-M"
+msgstr "7.92 mm MG-17 (1934) (H)"
+
+msgid "WEAPON_NAME_G7MM-MG17_34-PR-F"
+msgstr "7.92 mm MG-17 (1934) (C)"
+
+msgid "WEAPON_NAME_G7MM-MG17_34-PR-S"
+msgstr "7.92 mm MG-17 (1934) (S)"
+
+msgid "WEAPON_NAME_G7MM-MG17_34-S"
+msgstr "7.92 mm MG-17 (1934) (S)"
+
+msgid "WEAPON_NAME_G7MM-MG17_36"
+msgstr "7.92 mm MG-17 (1936)"
+
+msgid "WEAPON_NAME_G7MM-MG17_36-F"
+msgstr "7.92 mm MG-17 (1936) (C)"
+
+msgid "WEAPON_NAME_G7MM-MG17_36-K"
+msgstr "7.92 mm MG-17 (1936) (W)"
+
+msgid "WEAPON_NAME_G7MM-MG17_36-M"
+msgstr "7.92 mm MG-17 (1936) (H)"
+
+msgid "WEAPON_NAME_G7MM-MG17_36-PR-M"
+msgstr "7.92 mm MG-17 (1936) (H)"
+
+msgid "WEAPON_NAME_G7MM-MG17_36-PR-S"
+msgstr "7.92 mm MG-17 (1936) (S)"
+
+msgid "WEAPON_NAME_G7MM-MG17_36-S"
+msgstr "7.92 mm MG-17 (1936) (S)"
+
+msgid "WEAPON_NAME_G7MM-MG29-T"
+msgstr "7.92 mm MG-29"
+
+msgid "WEAPON_NAME_G7MM-MG30-S"
+msgstr "7.92 mm MG-08/18 (S)"
+
+msgid "WEAPON_NAME_G7MM-MG30-T"
+msgstr "7.92 mm MG-30"
+
+msgid "WEAPON_NAME_G7MM-MG81"
+msgstr "7.92 mm MG-81"
+
+msgid "WEAPON_NAME_G7MM-MG81-T"
+msgstr "7.92 mm MG-81"
+
+msgid "WEAPON_NAME_G7MM-MG81-Z"
+msgstr "7.92 mm MG-81 Z"
+
+msgid "WEAPON_NAME_G7MM-MG81-Z-T"
+msgstr "7.92 mm MG-81 Z"
+
+msgid "WEAPON_NAME_G7MM-MG81J"
+msgstr "7.92 mm MG-81J"
+
+msgid "WEAPON_NAME_G7MM-MG81J-T"
+msgstr "7.92 mm MG-81J"
+
+msgid "WEAPON_NAME_G7MM-PV-1"
+msgstr "7.62 mm PV-1"
+
+msgid "WEAPON_NAME_G7MM-PV-1-K"
+msgstr "7.62 mm PV-1 (W)"
+
+msgid "WEAPON_NAME_G7MM-PV-1-P"
+msgstr "7.62 mm PV-1 (O)"
+
+msgid "WEAPON_NAME_G7MM-PV-1-PR-S"
+msgstr "7.62 mm PV-1 (S)"
+
+msgid "WEAPON_NAME_G7MM-PV-1-S"
+msgstr "7.62 mm PV-1 (S)"
+
+msgid "WEAPON_NAME_G7MM-PV-1-T"
+msgstr "7.62 mm PV-1"
+
+msgid "WEAPON_NAME_G7MM-SHKAS"
+msgstr "7.62 mm 施卡斯 (1933)"
+
+msgid "WEAPON_NAME_G7MM-SHKAS-K"
+msgstr "7.62 mm 施卡斯 (1933) (W)"
+
+msgid "WEAPON_NAME_G7MM-SHKAS-PR-F"
+msgstr "7.62 mm 施卡斯 (1933) (C)"
+
+msgid "WEAPON_NAME_G7MM-SHKAS-PR-K"
+msgstr "7.62 mm 施卡斯 (1933) (W)"
+
+msgid "WEAPON_NAME_G7MM-SHKAS-PR-S"
+msgstr "7.62 mm 施卡斯 (1933)"
+
+msgid "WEAPON_NAME_G7MM-SHKAS-S"
+msgstr "7.62 mm 施卡斯 (1933) (S)"
+
+msgid "WEAPON_NAME_G7MM-SHKAS-T"
+msgstr "7.62 mm 施卡斯 (1933)"
+
+msgid "WEAPON_NAME_G7MM-SHKAS41"
+msgstr "7.62 mm 施卡斯 (1941)"
+
+msgid "WEAPON_NAME_G7MM-SHKAS41-K"
+msgstr "7.62 mm 施卡斯 (1941) (W)"
+
+msgid "WEAPON_NAME_G7MM-SHKAS41-PR-K"
+msgstr "7.62 mm 施卡斯 (1941) (W)"
+
+msgid "WEAPON_NAME_G7MM-SHKAS41-S"
+msgstr "7.62 mm 施卡斯 (1941) (S)"
+
+msgid "WEAPON_NAME_G7MM-SHKAS41-T"
+msgstr "7.62 mm 施卡斯 (1941)"
+
+msgid "WEAPON_NAME_G7MM-TE-4"
+msgstr "7.7 mm Te-4"
+
+msgid "WEAPON_NAME_G7MM-TYPE59"
+msgstr "7.7 mm Type 59"
+
+msgid "WEAPON_NAME_G7MM-TYPE59-S"
+msgstr "7.7 mm Type 59 (S)"
+
+msgid "WEAPON_NAME_G7MM-TYPE87"
+msgstr "7.7 mm 八七式"
+
+msgid "WEAPON_NAME_G7MM-TYPE87-S"
+msgstr "7.7 mm 八七式 (S)"
+
+msgid "WEAPON_NAME_G7MM-TYPE89"
+msgstr "7.7 mm 八九式"
+
+msgid "WEAPON_NAME_G7MM-TYPE89-PR-S"
+msgstr "7.7 mm 八九式 (S)"
+
+msgid "WEAPON_NAME_G7MM-TYPE89-S"
+msgstr "7.7 mm 八九式 (S)"
+
+msgid "WEAPON_NAME_G7MM-TYPE92"
+msgstr "7.7 mm 九二式"
+
+msgid "WEAPON_NAME_G7MM-TYPE92-S"
+msgstr "7.7 mm 九二式 (S)"
+
+msgid "WEAPON_NAME_G7MM-TYPE97"
+msgstr "7.7 mm 九七式一型"
+
+msgid "WEAPON_NAME_G7MM-TYPE97-2-PR-S"
+msgstr "7.7 mm 九七式二型 (S)"
+
+msgid "WEAPON_NAME_G7MM-TYPE97-PR-S"
+msgstr "7.7 mm 九七式一型 (S)"
+
+msgid "WEAPON_NAME_G7MM-TYPE97-S"
+msgstr "7.7 mm 九七式一型 (S)"
+
+msgid "WEAPON_NAME_G7MM-TYPE97M2"
+msgstr "7.7 mm 九七式二型"
+
+msgid "WEAPON_NAME_G7MM-TYPE97M2-S"
+msgstr "7.7 mm 九七式二型 (S)"
+
+msgid "WEAPON_NAME_G7MM-ULTRASHKAS"
+msgstr "7.62 mm Ultra-ShKAS"
+
+msgid "WEAPON_NAME_G7MM-ULTRASHKAS-K"
+msgstr "7.62 mm Ultra-ShKAS (W)"
+
+msgid "WEAPON_NAME_G7MM-VICKERS-J"
+msgstr "7.7 mm 維克斯-J"
+
+msgid "WEAPON_NAME_G7MM-VICKERS-J-S"
+msgstr "7.7 mm 維克斯-J (S)"
+
+msgid "WEAPON_NAME_G7MM-VICKERS-K-T"
+msgstr ".303 維克斯 K"
+
+msgid "WEAPON_NAME_G7MM-VICKERS-MK-1"
+msgstr ".303 維克斯 Mk.I"
+
+msgid "WEAPON_NAME_G7MM-VICKERS-MK-1-S"
+msgstr ".303 維克斯 Mk.I (S)"
+
+msgid "WEAPON_NAME_G7MM-VICKERS-MK-1ASTERISK"
+msgstr ".303 維克斯 Mk.I*"
+
+msgid "WEAPON_NAME_G7MM-VICKERS-MK-1ASTERISK-S"
+msgstr ".303 維克斯 Mk.I* (S)"
+
+msgid "WEAPON_NAME_G7MM-VICKERS-MK-2"
+msgstr ".303 維克斯 Mk.II"
+
+msgid "WEAPON_NAME_G7MM-VICKERS-MK-2-K"
+msgstr ".303 維克斯 Mk.II (W)"
+
+msgid "WEAPON_NAME_G7MM-VICKERS-MK-2-S"
+msgstr ".303 維克斯 Mk.II (S)"
+
+msgid "WEAPON_NAME_G7MM-VICKERS-MK-3"
+msgstr ".303 維克斯 Mk.III"
+
+msgid "WEAPON_NAME_G7MM-VICKERS-MK-3-K"
+msgstr ".303 維克斯 Mk.III (W)"
+
+msgid "WEAPON_NAME_G7MM-VICKERS-MK-5"
+msgstr ".303 維克斯 Mk.V"
+
+msgid "WEAPON_NAME_G7MM-VICKERS-MK-5-PR-S"
+msgstr ".303 維克斯 Mk.V (S)"
+
+msgid "WEAPON_NAME_GENERALPURPOSEBELT"
+msgstr "多用途箍環"
+
+msgid "WEAPON_NAME_GENERALPURPOSEBELT_CANNON"
+msgstr "穿甲燃燒彈"
+
+msgid "WEAPON_NAME_GENERALPURPOSEBELT_MG"
+msgstr "穿甲燃燒彈"
+
+msgid "WEAPON_NAME_GOLDBELT"
+msgstr "特種彈"
+
+msgid "WEAPON_NAME_HULL_CANNON"
+msgstr "機首機槍/機砲"
+
+msgid "WEAPON_NAME_HULL_MG"
+msgstr "機首機槍/機砲"
+
+msgid "WEAPON_NAME_HULL_SHORT"
+msgstr "(C)"
+
+msgid "WEAPON_NAME_HVAR"
+msgstr "5'' HVAR Mk. 4"
+
+msgid "WEAPON_NAME_HVAR-PR"
+msgstr "5'' HVAR Mk. 4"
+
+msgid "WEAPON_NAME_HVAR25"
+msgstr "5'' HVAR Mk. 25"
+
+msgid "WEAPON_NAME_HVAR_CH-PR"
+msgstr "5'' HVAR Mk. 4"
+
+msgid "WEAPON_NAME_INCINERATINGBELT"
+msgstr "燃燒彈"
+
+msgid "WEAPON_NAME_INCINERATINGBELT_CANNON"
+msgstr "穿甲燃燒彈"
+
+msgid "WEAPON_NAME_INCINERATINGBELT_MG"
+msgstr "燃燒彈"
+
+msgid "WEAPON_NAME_M8"
+msgstr "4.5'' M8"
+
+msgid "WEAPON_NAME_MK4-FFAR"
+msgstr "2.75'' Mk. 4 FFAR"
+
+msgid "WEAPON_NAME_OUT_CANNON"
+msgstr "外接掛載武器"
+
+msgid "WEAPON_NAME_OUT_MG"
+msgstr "外接掛載武器"
+
+msgid "WEAPON_NAME_OUT_SHORT"
+msgstr "(O)"
+
+msgid "WEAPON_NAME_R4M"
+msgstr "R4M"
+
+msgid "WEAPON_NAME_ROFS-132"
+msgstr "ROFS-132"
+
+msgid "WEAPON_NAME_ROFS-132-CH-PR"
+msgstr "ROFS-132"
+
+msgid "WEAPON_NAME_ROFS-82"
+msgstr "ROFS-82"
+
+msgid "WEAPON_NAME_ROFS-82-PR"
+msgstr "ROFS-82"
+
+msgid "WEAPON_NAME_RP-3"
+msgstr "RP-3"
+
+msgid "WEAPON_NAME_RP-3-GP"
+msgstr "RP-3 GP"
+
+msgid "WEAPON_NAME_RP-3-GP-PR"
+msgstr "RP-3 GP"
+
+msgid "WEAPON_NAME_RP-3-SAP"
+msgstr "RP-3 SAP"
+
+msgid "WEAPON_NAME_RP-3-SAP-CH-PR"
+msgstr "RP-3 SAP"
+
+msgid "WEAPON_NAME_RS-132"
+msgstr "RS-132"
+
+msgid "WEAPON_NAME_RS-82"
+msgstr "RS-82"
+
+msgid "WEAPON_NAME_RS-82-PR"
+msgstr "RS-82"
+
+msgid "WEAPON_NAME_SAUCER_LASER"
+msgstr "Gungnir MK 40"
+
+msgid "WEAPON_NAME_SC10"
+msgstr "SC 10"
+
+msgid "WEAPON_NAME_SC100"
+msgstr "SC 100"
+
+msgid "WEAPON_NAME_SC100-PR"
+msgstr "SC 100"
+
+msgid "WEAPON_NAME_SC1000"
+msgstr "SC 1000"
+
+msgid "WEAPON_NAME_SC250"
+msgstr "SC 250"
+
+msgid "WEAPON_NAME_SC250-PR"
+msgstr "SC 250"
+
+msgid "WEAPON_NAME_SC50"
+msgstr "SC 50"
+
+msgid "WEAPON_NAME_SC50-PR"
+msgstr "SC 50"
+
+msgid "WEAPON_NAME_SC500"
+msgstr "SC 500"
+
+msgid "WEAPON_NAME_SC500-PR"
+msgstr "SC 500"
+
+msgid "WEAPON_NAME_SD250"
+msgstr "SD 250"
+
+msgid "WEAPON_NAME_SD250-PR"
+msgstr "SD 250"
+
+msgid "WEAPON_NAME_SD50"
+msgstr "SD 50"
+
+msgid "WEAPON_NAME_SD50-PR"
+msgstr "SD 50"
+
+msgid "WEAPON_NAME_SNOWBALL_L"
+msgstr "雪球"
+
+msgid "WEAPON_NAME_STANDARTBELT"
+msgstr "標準彈藥"
+
+msgid "WEAPON_NAME_SYNC_CANNON"
+msgstr "同步機槍/機砲"
+
+msgid "WEAPON_NAME_SYNC_MG"
+msgstr "同步機槍/機砲"
+
+msgid "WEAPON_NAME_SYNC_SHORT"
+msgstr "(S)"
+
+msgid "WEAPON_NAME_TESTBELT"
+msgstr "訓練彈"
+
+msgid "WEAPON_NAME_TINYTIM"
+msgstr "蒂尼蒂姆"
+
+msgid "WEAPON_NAME_TRS-132"
+msgstr "TRS-132"
+
+msgid "WEAPON_NAME_TRS-82"
+msgstr "TRS-82"
+
+msgid "WEAPON_NAME_WGR-210"
+msgstr "WGr 21"
+
+msgid "WEAPON_NAME_WGR-210-PR"
+msgstr "WGr 21"
+
+msgid "WEAPON_NAME_WING_CANNON"
+msgstr "機翼機槍/機砲"
+
+msgid "WEAPON_NAME_WING_MG"
+msgstr "機翼機槍/機砲"
+
+msgid "WEAPON_NAME_WING_SHORT"
+msgstr "(W)"
+
+msgid "NAME_MODULE_A-26B_PLANER"
+msgstr "A-26B-15"
+
+msgid "NAME_MODULE_AM-42-PR"
+msgstr "АМ-42"
+
+msgid "NAME_MODULE_ARGUS-AS-410A-PR"
+msgstr "Argus As-410A"
+
+msgid "NAME_MODULE_ASH-82FN-RD-13-PR"
+msgstr "ASh-82FN"
+
+msgid "NAME_MODULE_BF-109E-3_HULL_PR"
+msgstr "Bf 109 E-3"
+
+msgid "NAME_MODULE_BMW-132N"
+msgstr "BMW 132F"
+
+msgid "NAME_MODULE_BMW-132N_JU-86E-PR"
+msgstr "BMW 132F"
+
+msgid "NAME_MODULE_BRAMO-323A"
+msgstr "Bramo 323A"
+
+msgid "NAME_MODULE_BRAMO-323A-DO-17Z-2"
+msgstr "Bramo 323A"
+
+msgid "NAME_MODULE_BRAMO-323P"
+msgstr "Bramo 323P"
+
+msgid "NAME_MODULE_BRAMO-323P-DO-17Z-2"
+msgstr "Bramo 323P"
+
+msgid "NAME_MODULE_BRAMO-323R"
+msgstr "Bramo 323R"
+
+msgid "NAME_MODULE_BRAMO-323R-DO-17Z-2"
+msgstr "Bramo 323R"
+
+msgid "NAME_MODULE_BRISTOL-CENTARUS-IV"
+msgstr "Centaurus IV"
+
+msgid "NAME_MODULE_C-18"
+msgstr "С-18"
+
+msgid "NAME_MODULE_DB-601A-1-PR"
+msgstr "DB 601 A-1"
+
+msgid "NAME_MODULE_DB-603A-1"
+msgstr "BD 603A-1"
+
+msgid "NAME_MODULE_DB-603E-1-QE-1-DO-335A"
+msgstr "DB 603 E-1/QE-1"
+
+msgid "NAME_MODULE_DB-801A"
+msgstr "BMW 801A"
+
+msgid "NAME_MODULE_DERWENT-V"
+msgstr "Derwent V"
+
+msgid "NAME_MODULE_DI-6_PLANER-PR"
+msgstr "DI-6i"
+
+msgid "NAME_MODULE_DO-17Z-2_PLANER"
+msgstr "Do 17Z-2"
+
+msgid "NAME_MODULE_DO-217M-1_PLANER"
+msgstr "Do 217M-1"
+
+msgid "NAME_MODULE_DO-335A-HULL"
+msgstr "Do 355 A-1"
+
+msgid "NAME_MODULE_HS-123_HULL-PR"
+msgstr "Hs 123 A-1"
+
+msgid "NAME_MODULE_HURRICANE-MK-1-LATE"
+msgstr "Hurricane MK. I (late)"
+
+msgid "NAME_MODULE_HURRICANE-MK-1-PROTOTYPE"
+msgstr "Hurricane Mk. I prototype"
+
+msgid "NAME_MODULE_HURRICANE-MK-2A"
+msgstr "Hurricane Mk. IIA"
+
+msgid "NAME_MODULE_HURRICANE-MK-2B"
+msgstr "Hurricane Mk. IIB"
+
+msgid "NAME_MODULE_I-207-4_HULL-PR"
+msgstr "I-207/4"
+
+msgid "NAME_MODULE_I-211_JET_PLANER"
+msgstr "I-211"
+
+msgid "NAME_MODULE_I-215_PLANER"
+msgstr "I-215D (57)"
+
+msgid "NAME_MODULE_I16-29_PLANER-PR"
+msgstr "I-16 (1940)"
+
+msgid "NAME_MODULE_IL-1-HULL-PR"
+msgstr "IL-1"
+
+msgid "NAME_MODULE_J34-WE-22_XF-85-PR"
+msgstr "J34-WE-22"
+
+msgid "NAME_MODULE_JU-86E-1_HULL"
+msgstr "Ju 86E-1"
+
+msgid "NAME_MODULE_JU-86E-1_HULL-PR"
+msgstr "Ju 86E-1"
+
+msgid "NAME_MODULE_JU-88A-4_PLANER"
+msgstr "Ju 88A-4"
+
+msgid "NAME_MODULE_JUMO-004_RB-17"
+msgstr "Jumo 004"
+
+msgid "NAME_MODULE_JUMO-211H"
+msgstr "Jumo 211 H"
+
+msgid "NAME_MODULE_KAWASAKI-HA-140"
+msgstr "Kawasaki Ha-140"
+
+msgid "NAME_MODULE_KAWASAKI-HA-40"
+msgstr "Kawasaki Ha-40"
+
+msgid "NAME_MODULE_KAWASAKI-HA-9-I"
+msgstr "Kawasaki Ha-9-I"
+
+msgid "NAME_MODULE_KAWASAKI-HA-9-II"
+msgstr "Kawasaki Ha-9-II"
+
+msgid "NAME_MODULE_KAWASAKI-HA-9-IIA"
+msgstr "Kawasaki Ha-9-IIa"
+
+msgid "NAME_MODULE_KI-10-II_PLANER"
+msgstr "Ki-10-II"
+
+msgid "NAME_MODULE_KI-10-I_PLANER"
+msgstr "Ki-10-I"
+
+msgid "NAME_MODULE_KI-162-3-HULL"
+msgstr "Ki-162-III"
+
+msgid "NAME_MODULE_KI-162-I"
+msgstr "Ki-162-I"
+
+msgid "NAME_MODULE_KI-162-II"
+msgstr "Ki-162-II"
+
+msgid "NAME_MODULE_KI-27A"
+msgstr "Ki-27a"
+
+msgid "NAME_MODULE_KI-27B"
+msgstr "Ki-27b"
+
+msgid "NAME_MODULE_KI-43-I-KO"
+msgstr "Ki-43-I Ko"
+
+msgid "NAME_MODULE_KI-43-II-OTSU"
+msgstr "Ki-43-II Otsu"
+
+msgid "NAME_MODULE_KI-43-III_KO"
+msgstr "Ki-43-III Ko"
+
+msgid "NAME_MODULE_KI-43-II_KAI"
+msgstr "Ki-43-II Kai"
+
+msgid "NAME_MODULE_KI-61-I-KAI"
+msgstr "Ki-61-I Kai"
+
+msgid "NAME_MODULE_KI-61-II-KO"
+msgstr "Ki-61-II Ko"
+
+msgid "NAME_MODULE_KI-84-HULL"
+msgstr "Ki-84"
+
+msgid "NAME_MODULE_KI-84-IA"
+msgstr "Ki-84-Ia"
+
+msgid "NAME_MODULE_KI-94-I-HULL"
+msgstr "Ki-94-I"
+
+msgid "NAME_MODULE_KI-94-IIA"
+msgstr "Ki-94-IIa"
+
+msgid "NAME_MODULE_KI-94-IIB"
+msgstr "Ki-94-IIb"
+
+msgid "NAME_MODULE_LA-9RD_HULL-PR"
+msgstr "La-9RD"
+
+msgid "NAME_MODULE_LAGG-3-4_HULL_PR"
+msgstr "LaGG-3 series 4"
+
+msgid "NAME_MODULE_M-105PA-PR"
+msgstr "M-105PA"
+
+msgid "NAME_MODULE_M-25-PR"
+msgstr "M-25"
+
+msgid "NAME_MODULE_M-63-PR"
+msgstr "М-63"
+
+msgid "NAME_MODULE_M-63_I-207-4-PR"
+msgstr "M-63R"
+
+msgid "NAME_MODULE_MERCURY-XV_BLENHEIM-IV"
+msgstr "Mercury XV"
+
+msgid "NAME_MODULE_MERLIN-27"
+msgstr "Merlin 27"
+
+msgid "NAME_MODULE_MERLIN-29"
+msgstr "Merlin 29"
+
+msgid "NAME_MODULE_MERLIN-C"
+msgstr "Merlin C"
+
+msgid "NAME_MODULE_MERLIN-III-PR"
+msgstr "Rolls-Royce Merlin III"
+
+msgid "NAME_MODULE_MITSUBISHI_HA-112"
+msgstr "Mitsubishi Ha-112"
+
+msgid "NAME_MODULE_MITSUBISHI_HA-211-KI-94-I"
+msgstr "Mitsubishi Ha-211Ru"
+
+msgid "NAME_MODULE_NAKAJIMA_HA-115-I"
+msgstr "Nakajima Ha-115-I"
+
+msgid "NAME_MODULE_NAKAJIMA_HA-115-II"
+msgstr "Nakajima Ha-115-II"
+
+msgid "NAME_MODULE_NAKAJIMA_HA-145"
+msgstr "Nakajima Ha-145"
+
+msgid "NAME_MODULE_NAKAJIMA_HA-211RU"
+msgstr "Mitsubishi Ha-211Ru"
+
+msgid "NAME_MODULE_NAKAJIMA_HA-219RU"
+msgstr "Nakajima Ha-219Ru"
+
+msgid "NAME_MODULE_NAKAJIMA_HA-25"
+msgstr "Nakajima Ha-25"
+
+msgid "NAME_MODULE_NAKAJIMA_HA-45-11"
+msgstr "Nakajima Ha-45-11"
+
+msgid "NAME_MODULE_NAKAJIMA_HA-45-12"
+msgstr "Nakajima Ha-45-12"
+
+msgid "NAME_MODULE_NAKAJIMA_HA-45-21"
+msgstr "Nakajima Ha-45-21"
+
+msgid "NAME_MODULE_NE-130B"
+msgstr "Ne-130B"
+
+msgid "NAME_MODULE_P-39N-1-HULL-PR"
+msgstr "P-39N-1"
+
+msgid "NAME_MODULE_P_210_HULL"
+msgstr "P.210"
+
+msgid "NAME_MODULE_P_P212-03_HULL"
+msgstr "P.212.03"
+
+msgid "NAME_MODULE_P_P215-02_HULL"
+msgstr "P.215.02"
+
+msgid "NAME_MODULE_R-2800-27_A26B"
+msgstr "Pratt Whitney R-2800-27"
+
+msgid "NAME_MODULE_RB-17_PLANER"
+msgstr "RB-17"
+
+msgid "NAME_MODULE_ROLLS-ROYCE-VULTURE-II"
+msgstr "Vulture II"
+
+msgid "NAME_MODULE_ROLLS-ROYCE-VULTURE-V"
+msgstr "Vulture V"
+
+msgid "NAME_MODULE_SPITFIRE-I_PLANER-PR"
+msgstr "Spitfire Ia"
+
+msgid "NAME_MODULE_SU-9_PLANER"
+msgstr "Su-9"
+
+msgid "NAME_MODULE_TORNADO-MK-1"
+msgstr "Tornado Mk. I"
+
+msgid "NAME_MODULE_TORNADO-MK-2"
+msgstr "Tornado Mk. II"
+
+msgid "NAME_MODULE_TR-1"
+msgstr "TR-1"
+
+msgid "NAME_MODULE_TR-1A"
+msgstr "TR-1A"
+
+msgid "NAME_MODULE_V-1710-85-PR"
+msgstr "V-1710-85"
+
+msgid "NAME_MODULE_XF-85_HULL-PR"
+msgstr "XF-85"
+
+msgid "TURRETS_FRONT_DESCRIPTION"
+msgstr "Front turrets"
+
+msgid "TURRETS_LOWER_DESCRIPTION"
+msgstr "Bottom turrets"
+
+msgid "TURRETS_REAR_DESCRIPTION"
+msgstr "Rear turrets"
+
+msgid "TURRETS_SIDE_DESCRIPTION"
+msgstr "Side turrets"
+
+msgid "TURRETS_UPPER_DESCRIPTION"
+msgstr "Top turrets"
+
+msgid "TURRET_FRONT_DESCRIPTION"
+msgstr "Front turret"
+
+msgid "TURRET_LOWER_DESCRIPTION"
+msgstr "Bottom turret"
+
+msgid "TURRET_REAR_DESCRIPTION"
+msgstr "Rear turret"
+
+msgid "TURRET_SIDE_DESCRIPTION"
+msgstr "Side turret"
+
+msgid "TURRET_UPPER_DESCRIPTION"
+msgstr "Top turret"
+
+msgid "WEAPON_NAME_100LB_A26B"
+msgstr "100 lb"
+
+msgid "WEAPON_NAME_250FN_BLENHEIM-IV"
+msgstr "250 lb"
+
+msgid "WEAPON_NAME_AO-10-PR"
+msgstr "AO-10"
+
+msgid "WEAPON_NAME_BOMB-250-J-KI-94-I"
+msgstr "250 kg"
+
+msgid "WEAPON_NAME_CALIBER_AO-10_STR"
+msgstr "AO-10"
+
+msgid "WEAPON_NAME_FAB-100_I-207-PR"
+msgstr "FAB-100"
+
+msgid "WEAPON_NAME_FAB-100_RB-17"
+msgstr "FAB-100"
+
+msgid "WEAPON_NAME_FAB-250-1947"
+msgstr "FAB-250"
+
+msgid "WEAPON_NAME_G12MM-ANM2-A26B-T"
+msgstr "12.7 mm M2"
+
+msgid "WEAPON_NAME_G12MM-ANM2-F_A26B"
+msgstr "12.7 mm M2 (C)"
+
+msgid "WEAPON_NAME_G12MM-HO-102"
+msgstr "12.7 mm Ho-102"
+
+msgid "WEAPON_NAME_G12MM-HO-102-S"
+msgstr "12.7 mm Ho-102 (S)"
+
+msgid "WEAPON_NAME_G12MM-HO-103-K"
+msgstr "12.7 mm Ho-103 (W)"
+
+msgid "WEAPON_NAME_G12MM-HO-103-S"
+msgstr "12.7 mm Ho-103 (S)"
+
+msgid "WEAPON_NAME_G12MM-M3-F_XF-85-PR"
+msgstr "12.7 mm M3"
+
+msgid "WEAPON_NAME_G15MM-MG151-15-S-DO-335A"
+msgstr "15 mm MG-151/15 (1945) (S)"
+
+msgid "WEAPON_NAME_G20MM-HO-3-II"
+msgstr "20 mm Ho-3-II"
+
+msgid "WEAPON_NAME_G20MM-HO-3-II-S"
+msgstr "20 mm Ho-3-II (S)"
+
+msgid "WEAPON_NAME_G20MM-HO-5-II"
+msgstr "20 mm Ho-5-II"
+
+msgid "WEAPON_NAME_G20MM-HO-5-II-K"
+msgstr "20 mm Ho-5-II (W)"
+
+msgid "WEAPON_NAME_G20MM-HO-5-II-S"
+msgstr "20 mm Ho-5-II (S)"
+
+msgid "WEAPON_NAME_G20MM-HO-5-S"
+msgstr "20 mm Ho-5 (S)"
+
+msgid "WEAPON_NAME_G20MM-MG213C20-BV"
+msgstr "20 mm MG-213/20"
+
+msgid "WEAPON_NAME_G20MM-MG213C20-BV-10"
+msgstr "20 mm MG-213/20"
+
+msgid "WEAPON_NAME_G20MM-MG213C20-BV-10-F"
+msgstr "20 mm MG-213/20 (C)"
+
+msgid "WEAPON_NAME_G20MM-MG213C20-BV-F"
+msgstr "20 mm MG-213/20 (C)"
+
+msgid "WEAPON_NAME_G20MM-MGFF-PR-K-BF-109E-3"
+msgstr "20 mm MG-FF (W)"
+
+msgid "WEAPON_NAME_G20MM-SHVAK-20-PR-M"
+msgstr "20 mm ShVAK (1941) (H)"
+
+msgid "WEAPON_NAME_G23MM-NS-23-F_RB-17"
+msgstr "23 mm NS-23 (C)"
+
+msgid "WEAPON_NAME_G30MM-HO-155"
+msgstr "30 mm Ho-155"
+
+msgid "WEAPON_NAME_G30MM-HO-155-I"
+msgstr "30 mm Ho-155-I"
+
+msgid "WEAPON_NAME_G30MM-HO-155-I-F"
+msgstr "30 mm Ho-155-I (С)"
+
+msgid "WEAPON_NAME_G30MM-HO-155-II"
+msgstr "30 mm Ho-155-II"
+
+msgid "WEAPON_NAME_G30MM-HO-155-II-K"
+msgstr "30 mm Ho-155-II (W)"
+
+msgid "WEAPON_NAME_G30MM-HO-155-III"
+msgstr "30 mm Ho-155-III"
+
+msgid "WEAPON_NAME_G30MM-HO-155-III-F"
+msgstr "30 mm Ho-155-III (C)"
+
+msgid "WEAPON_NAME_G30MM-HO-155-K-KI-94-I"
+msgstr "30 mm Ho-155-II (W)"
+
+msgid "WEAPON_NAME_G30MM-MK-103-M-DO-335A"
+msgstr "30 mm MK-103 (1945) (H)"
+
+msgid "WEAPON_NAME_G30MM-MK-108-BV-F"
+msgstr "30 mm MK-108 (1944) (C)"
+
+msgid "WEAPON_NAME_G37MM-HO-204"
+msgstr "37 mm Ho-204"
+
+msgid "WEAPON_NAME_G37MM-HO-204-K-KI-94-I"
+msgstr "37 mm Ho-204 (W)"
+
+msgid "WEAPON_NAME_G37MM-N-37-ALXEV-F"
+msgstr "37 mm N-37 (C)"
+
+msgid "WEAPON_NAME_G37MM-N-37L"
+msgstr "37 mm N-37L"
+
+msgid "WEAPON_NAME_G37MM-N-37L-F"
+msgstr "37 mm N-37L (C)"
+
+msgid "WEAPON_NAME_G37MM-NN-37"
+msgstr "37 mm NN-37"
+
+msgid "WEAPON_NAME_G37MM-NN-37-F"
+msgstr "37 mm NN-37 (C)"
+
+msgid "WEAPON_NAME_G37MM-T9-PR-M"
+msgstr "37 mm Т9 (H)"
+
+msgid "WEAPON_NAME_G45MM-NS-45-F"
+msgstr "45 mm NS-45 (C)"
+
+msgid "WEAPON_NAME_G57MM-RSHR-57"
+msgstr "57 mm RShR-57"
+
+msgid "WEAPON_NAME_G57MM-RSHR-57-F"
+msgstr "57 mm RShR-57 (C)"
+
+msgid "WEAPON_NAME_G7MM-BROWNING-MK-2-HURRICANE-K"
+msgstr ".303 Browning Mk. II (W)"
+
+msgid "WEAPON_NAME_G7MM-BROWNING-MK-2-K_BLENHEIM-IV"
+msgstr "Browning Mk.II (W)"
+
+msgid "WEAPON_NAME_G7MM-BROWNING-MK-2-SPITFIRE-IA-K"
+msgstr ".303 Browning Mk.II (W)"
+
+msgid "WEAPON_NAME_G7MM-M1919-PR-K"
+msgstr "7.62 mm М1919 (W)"
+
+msgid "WEAPON_NAME_G7MM-MG17-PR-S-BF-109E-3"
+msgstr "7.92 mm MG-17 (1940) (S)"
+
+msgid "WEAPON_NAME_G7MM-SHKAS41-PR-S"
+msgstr "7.62 mm ShKAS (1941) (S)"
+
+msgid "WEAPON_NAME_G7MM-SHKAS_I-207-PR-S"
+msgstr "7.62 mm ShKAS (1933)"
+
+msgid "WEAPON_NAME_G7MM-TYPE97-2"
+msgstr "7.7 mm Type 97 model 2"
+
+msgid "WEAPON_NAME_G7MM-TYPE97M2-K"
+msgstr "7.7 mm Type 97 model 2 (W)"
+
+msgid "WEAPON_NAME_G7MM-VICKERS-MK-3-HURRICANE-K"
+msgstr ".303 Vickers Mk.III (W)"
+
+msgid "WEAPON_NAME_R4M-1946"
+msgstr "R4M"
+
+msgid "WEAPON_NAME_SC250-DO-217M"
+msgstr "250 kg"
+
+msgid "WEAPON_NAME_SC50-DO-17Z-2"
+msgstr "50 kg"
+
+msgid "WEAPON_NAME_SC50-JU-86E"
+msgstr "50 kg"
+
+msgid "WEAPON_NAME_SC50-JU-88A"
+msgstr "50 kg"
+
+msgid "WEAPON_NAME_SC50_JU-86E-PR"
+msgstr "50 kg"
+
+msgid "WEAPON_NAME_SD250-DO-335A"
+msgstr "SD 250"
+
+msgid "WEAPON_NAME_WGR-210-1946"
+msgstr "WGr-210"

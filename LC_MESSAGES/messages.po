@@ -1,0 +1,1071 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: World Of Tanks\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-06-01 10:00+0300\n"
+"Last-Translator: i_maliavko <i_maliavko@wargaming.net>\n"
+"Language-Team: WoT Team <noreply@wargaming.net>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "CHAT_LOBBY_DISABLED_MESSAGE"
+msgstr "禁止聊天 {time}{reason}"
+
+msgid "CHAT_LOBBY_ENABLED_MESSAGE"
+msgstr "聊天已啟用"
+
+msgid "CHINA_MESSAGE_QUEST_REFUND_FOR_RENT_PERIOD"
+msgstr ""
+"你已購買 {aircraft_name} , 你將獲得與剩餘租期相應的補償:<font "
+"color='#a9a7a7' size='14'>剩餘租期{days} 天</font>"
+
+msgid "CHINA_MESSAGE_QUEST_REWARD_50_PERCENT_FULL_CREW"
+msgstr "{full_crew_icon} 50%熟練度的乘員配置於 {aircraft_name} 戰機上"
+
+msgid "CHINA_MESSAGE_QUEST_REWARD_50_PERCENT_PILOT"
+msgstr "{crew_member_icon} 50%熟練度的乘員配置於 {aircraft_name} 戰機上"
+
+msgid "CHINA_MESSAGE_QUEST_REWARD_EXTENDED_RENT"
+msgstr ""
+"延長 {aircraft_name} 的租期: <font color='#a9a7a7' size='14'>{days} 天</font>"
+
+msgid "CHINA_MESSAGE_QUEST_REWARD_RENT_AIRCRAFT_FOR_DAYS"
+msgstr ""
+"{aircraft_name} 租期為 <font color='#a9a7a7' size='14'>{days} 天</font>"
+
+msgid "CHINA_MESSAGE_RENT_AIRCRAFT_FOR_DAYS"
+msgstr "剩餘租期: <font color='#a9a7a7' size='14'>{days} 天</font>"
+
+msgid "CHINA_MESSAGE_RENT_AIRCRAFT_PURCHASED_REFUND"
+msgstr ""
+"戰機 {name} 已完成購買，已退還剩餘租期: <font color='#a9a7a7' "
+"size='14'>{days} 天</font>所對應的租金"
+
+msgid "CHINA_MESSAGE_RENT_AIRCRAFT_TOP_PART"
+msgstr "您已租用以下戰機:"
+
+msgid "COMPONENT_NAME_ERROR"
+msgstr "發生錯誤。"
+
+msgid "COMPONENT_NAME_EXPLORATION_FAILED"
+msgstr "：研究失敗。"
+
+msgid "COMPONENT_NAME_HEADER_AIRCRAFT_MAINTENANSE"
+msgstr "維修{aircraft_name}"
+
+msgid "COMPONENT_NAME_HEADER_DRAW"
+msgstr "平局{aircraft_name}!"
+
+msgid "COMPONENT_NAME_HEADER_LOST"
+msgstr "被擊敗{aircraft_name}!"
+
+msgid "COMPONENT_NAME_LABEL_ACHIEVEMENTS_UNLOCKED"
+msgstr "戰績："
+
+msgid "COMPONENT_NAME_LABEL_AMMO"
+msgstr "彈藥"
+
+msgid "COMPONENT_NAME_LABEL_EXPLORATION"
+msgstr "研發："
+
+msgid "COMPONENT_NAME_LABEL_EXPLORED"
+msgstr "研發："
+
+msgid "COMPONENT_NAME_LABEL_INSTALLATION"
+msgstr "安裝："
+
+msgid "COMPONENT_NAME_LABEL_MAINTENANSE_EXPENSES"
+msgstr "維護："
+
+msgid "COMPONENT_NAME_LABEL_PENALTY"
+msgstr "處罰："
+
+msgid "COMPONENT_NAME_LABEL_PROLONG"
+msgstr "續期："
+
+msgid "COMPONENT_NAME_LABEL_PURCHASE"
+msgstr "購買："
+
+msgid "COMPONENT_NAME_LABEL_REPAIR"
+msgstr "修理："
+
+msgid "COMPONENT_NAME_LABEL_REWARD"
+msgstr "獲得："
+
+msgid "COMPONENT_NAME_LABEL_SELL"
+msgstr "出售："
+
+msgid "COMPONENT_NAME_LABEL_TOTAL_REWARD"
+msgstr "獲得："
+
+msgid "COMPONENT_NAME_LABEL_UNINSTALLED"
+msgstr "拆下："
+
+msgid "COMPONENT_NAME_LABEL_UNTIL"
+msgstr "為止"
+
+msgid "COMPONENT_NAME_PLAYER_INVITED_TO_WING"
+msgstr "被邀請加入編隊。"
+
+msgid "COMPONENT_NAME_PLAYER_INVITES_YOU_TO_WING"
+msgstr "邀請您加入編隊。"
+
+msgid "COMPONENT_NAME_PLAYER_JOINED_WING"
+msgstr "加入編隊。"
+
+msgid "COMPONENT_NAME_PLAYER_LEFT_WING"
+msgstr "離開編隊。"
+
+msgid "COMPONENT_NAME_PURCHASE_FAILED"
+msgstr "：購買失敗。"
+
+msgid "COMPONENT_NAME_SELL_FAILED"
+msgstr "：出售失敗。"
+
+msgid "COMPONENT_NAME_SUFFIX_DAYS"
+msgstr "{days} 天"
+
+msgid "COMPONENT_NAME_SUFFIX_HOURS"
+msgstr "{hours} 小時"
+
+msgid "COMPONENT_NAME_SUFFIX_MINUTES"
+msgstr "{minutes} 分鐘"
+
+msgid "COMPONENT_NAME_TEXT_PREMIUM_DEDUCTED"
+msgstr "扣除的天數:"
+
+msgid "COMPONENT_NAME_TEXT_PREMIUM_EXPIRES_IN"
+msgstr "加值帳號到期時間："
+
+msgid "COMPONENT_NAME_TEXT_PREMIUM_PROLONGED"
+msgstr "加值帳號續期至："
+
+msgid "COMPONENT_NAME_TEXT_SCREENSHOT_SAVED"
+msgstr "截圖儲存至："
+
+msgid "COMPONENT_NAME_WELCOME_TO_SERVER"
+msgstr "歡迎來到戰機世界{server_name}!"
+
+msgid "DISCONNECT/#SYSTEM_MESSAGES:ACCOUNT_WAS_RESTORED"
+msgstr "您的帳號已成功恢復。"
+
+msgid "DISCONNECT/#SYSTEM_MESSAGES:ANOTHER_PERIPHERY"
+msgstr "伺服器錯誤, 對話無法正確應答"
+
+msgid "DISCONNECT/#SYSTEM_MESSAGES:CHECKOUT_ERROR"
+msgstr "無法接收使用者資訊，請重新嘗試"
+
+msgid "DISCONNECT/#SYSTEM_MESSAGES:CONNECTION_CLOSED"
+msgstr "和伺服器中斷連線"
+
+msgid "DISCONNECT/#SYSTEM_MESSAGES:CONNECTION_LOST"
+msgstr "和伺服器中斷連線"
+
+msgid "DISCONNECT/#SYSTEM_MESSAGES:LOGIN_TO_OTHER_GAME_UNKNOWN"
+msgstr "當前遊戲中斷。您的帳號被用於登入其他遊戲。"
+
+msgid "DISCONNECT/#SYSTEM_MESSAGES:LOGIN_TO_OTHER_GAME_WEB"
+msgstr "遊戲中斷，已與遊戲伺服器斷開連結"
+
+msgid "DISCONNECT/#SYSTEM_MESSAGES:LOGIN_TO_OTHER_GAME_WOT"
+msgstr "當前遊戲中斷。您的帳號被用於登入戰車世界。"
+
+msgid "DISCONNECT/#SYSTEM_MESSAGES:LOGIN_TO_OTHER_GAME_WOTBLITZ"
+msgstr "當前遊戲中斷。您的帳號被用於登入戰車世界：閃電戰。"
+
+msgid "DISCONNECT/#SYSTEM_MESSAGES:LOGIN_TO_OTHER_GAME_WOTG"
+msgstr "當前遊戲中斷。您的帳號被用於登入戰車世界：將軍。"
+
+msgid "DISCONNECT/#SYSTEM_MESSAGES:LOGIN_TO_OTHER_GAME_WOWS"
+msgstr "當前遊戲中斷。您的帳號被用於登入戰艦世界。"
+
+msgid "DISCONNECT/#SYSTEM_MESSAGES:LOGIN_TO_OTHER_GAME_WWP"
+msgstr "當前遊戲中斷。您的帳號被用於登入戰機世界。"
+
+msgid "DISCONNECT/#SYSTEM_MESSAGES:SERVER_REBOOTING"
+msgstr "伺服器重新啟動進行中…請稍後…"
+
+msgid "DISCONNECT/#SYSTEM_MESSAGES:SERVER_SHUTDOWN"
+msgstr "伺服器暫時不可用，請稍後再試一次"
+
+msgid "DISCONNECT/#SYSTEM_MESSAGES:SERVER_SHUT_DOWN"
+msgstr "重啟遊戲伺服器..."
+
+msgid "DISCONNECT/#SYSTEM_MESSAGES:SESSION_TRACKER_KICK"
+msgstr "您的帳號已經登入到了戰爭三部曲中的另外一個遊戲，當前遊戲已退出。"
+
+msgid "DISCONNECT/BAN"
+msgstr "帳號未被啟動，請前往官網啟動帳號後登入遊戲"
+
+msgid "DISCONNECT/BAN_PERIOD"
+msgstr "禁止訪問遊戲："
+
+msgid "DISCONNECT/CONNECTION_LOST"
+msgstr "您已與伺服器中斷連線，請稍後再試。"
+
+msgid "DISCONNECT/KICK"
+msgstr "您已與管理中斷連線。"
+
+msgid "DISCONNECT_ENTER_BUTTON"
+msgstr "好"
+
+msgid "DISCONNECT_TITLE"
+msgstr "連線中斷"
+
+msgid "ELITE_AIRCRAFT_DESCRIPTION"
+msgstr ""
+"研究戰機的所有可用裝備及全部進階戰機後將被稱為精英戰機。<br/>精英戰機的個體經"
+"驗可被兌換成自由經驗。"
+
+msgid "ELITE_AIRCRAFT_HEADER"
+msgstr "獲得精英戰機！"
+
+msgid "ELITE_AIRCRAFT_MESSAGE"
+msgstr "{name}升級為精英戰機"
+
+msgid "LOBBY_BUBBLE_FREE_XP_CONVERTED"
+msgstr "{number} 經驗成功兌換成自由經驗"
+
+msgid "LOBBY_BUBBLE_GOLD_EXCHANGE_SUCCESFULL"
+msgstr "金幣兌換成功"
+
+msgid "LOBBY_BUBBLE_TOKENS_EXCHANGE_SUCCESFULL"
+msgstr "令牌兌換成功。"
+
+msgid "LOBBY_HEADER_AMMO_REFILL"
+msgstr "補充彈藥:"
+
+msgid "LOBBY_HEADER_AMMO_REFILL_FAILED"
+msgstr "補充彈藥失敗。"
+
+msgid "LOBBY_HEADER_BOMBS_REFILL"
+msgstr "補充炸彈:"
+
+msgid "LOBBY_HEADER_BOMBS_REFILL_FAILED"
+msgstr "補充炸彈失敗。"
+
+msgid "LOBBY_HEADER_BOUGHT"
+msgstr "交易："
+
+msgid "LOBBY_HEADER_CONSUMABLES_REFILL"
+msgstr "補充消耗品: {name}"
+
+msgid "LOBBY_HEADER_CONSUMABLES_REFILL_FAILED"
+msgstr "無法補充消耗品"
+
+msgid "LOBBY_HEADER_DAILY_WIN"
+msgstr "獲得"
+
+msgid "LOBBY_HEADER_DEDUCT"
+msgstr "去除"
+
+msgid "LOBBY_HEADER_DRAW"
+msgstr "平局 {aircraft}!"
+
+msgid "LOBBY_HEADER_HELLO"
+msgstr "尊敬的"
+
+msgid "LOBBY_HEADER_INVESTIGATED"
+msgstr "研發："
+
+msgid "LOBBY_HEADER_LOSE"
+msgstr "失敗{aircraft}!"
+
+msgid "LOBBY_HEADER_PREMIUM"
+msgstr "加值帳號"
+
+msgid "LOBBY_HEADER_REBOOT"
+msgstr "裝卸："
+
+msgid "LOBBY_HEADER_REPAIR"
+msgstr "維修: {aircraft}"
+
+msgid "LOBBY_HEADER_ROCKETS_REFILL"
+msgstr "補充火箭彈:"
+
+msgid "LOBBY_HEADER_ROCKETS_REFILL_FAILED"
+msgstr "補充火箭彈失敗。"
+
+msgid "LOBBY_HEADER_SCREENSHOT"
+msgstr "新建截圖"
+
+msgid "LOBBY_HEADER_SET_MODULES"
+msgstr "購買{plane_name}"
+
+msgid "LOBBY_HEADER_WIN"
+msgstr "勝利 {aircraft}!"
+
+msgid "LOBBY_MSG_AIRCRAFT"
+msgstr "飛機："
+
+msgid "LOBBY_MSG_AIRCRAFT_BOUGHT"
+msgstr "飛機 {aircraft} 購買成功"
+
+msgid "LOBBY_MSG_AIRCRAFT_DEDUCT"
+msgstr "去除: {aircraft}"
+
+msgid "LOBBY_MSG_AIRCRAFT_INVESTIGATED"
+msgstr "飛機{aircraft}已研發"
+
+msgid "LOBBY_MSG_AIRCRAFT_REPAIR"
+msgstr "飛機維修成功"
+
+msgid "LOBBY_MSG_AIRCRAFT_REPAIR_FREE_PVE"
+msgstr "免費維修戰機"
+
+msgid "LOBBY_MSG_AIRCRAFT_SELL"
+msgstr "飛機{aircraft}出售成功"
+
+msgid "LOBBY_MSG_AMMO_REFILL"
+msgstr "補充彈藥成功。"
+
+msgid "LOBBY_MSG_AMMO_REFILL_FAILED"
+msgstr "資金不夠"
+
+msgid "LOBBY_MSG_AMMO_REFILL_FREE_PVE"
+msgstr "免費補充彈藥"
+
+msgid "LOBBY_MSG_BATTLE"
+msgstr "戰鬥："
+
+msgid "LOBBY_MSG_BOMBS_REFILL_FAILED"
+msgstr "資金不夠"
+
+msgid "LOBBY_MSG_CONSUMABLES_REFILL_FAILED"
+msgstr "資金不夠"
+
+msgid "LOBBY_MSG_CONSUMABLES_REFILL_FREE_PVE"
+msgstr "免費補充消耗品"
+
+msgid "LOBBY_MSG_CREDITS"
+msgstr "{credits} 銀幣"
+
+msgid "LOBBY_MSG_CREDITS_RECEIVED"
+msgstr "收到銀幣："
+
+msgid "LOBBY_MSG_DAILY_WIN"
+msgstr "獎金"
+
+msgid "LOBBY_MSG_DAILY_WIN_1"
+msgstr "每日勝利獎勵(1/5):"
+
+msgid "LOBBY_MSG_DAILY_WIN_2"
+msgstr "每日勝利獎勵(2/5):"
+
+msgid "LOBBY_MSG_DAILY_WIN_3"
+msgstr "每日勝利獎勵(3/5):"
+
+msgid "LOBBY_MSG_DAILY_WIN_4"
+msgstr "每日勝利獎勵(4/5):"
+
+msgid "LOBBY_MSG_DAILY_WIN_5"
+msgstr "每日勝利獎勵(5/5):"
+
+msgid "LOBBY_MSG_DAMAGED_AIRCRAFT"
+msgstr "擊傷戰機"
+
+msgid "LOBBY_MSG_DAMAGED_TEAM_OBJECTS"
+msgstr "擊傷目標"
+
+msgid "LOBBY_MSG_DESTROYED_AIRCRAFT"
+msgstr "擊毀戰機"
+
+msgid "LOBBY_MSG_DESTROYED_TEAM_OBJECTS"
+msgstr "擊毀目標"
+
+msgid "LOBBY_MSG_DESTROYED_TURRENTS"
+msgstr "摧毀防空砲"
+
+msgid "LOBBY_MSG_DETECTED_AIRCRAFT"
+msgstr "發現戰機"
+
+msgid "LOBBY_MSG_DISCOVERED_TEAM_OBJECTS"
+msgstr "發現目標"
+
+msgid "LOBBY_MSG_EXP"
+msgstr "{exp} 經驗"
+
+msgid "LOBBY_MSG_GOLD"
+msgstr "{gold} 金幣"
+
+msgid "LOBBY_MSG_HELLO"
+msgstr "歡迎來到戰機世界！"
+
+msgid "LOBBY_MSG_LESSON_PASSED"
+msgstr "任務完成！"
+
+msgid "LOBBY_MSG_MODULE_INVESTIGATED"
+msgstr "模組{module_name}研發完成"
+
+msgid "LOBBY_MSG_PENALTY"
+msgstr "懲罰"
+
+msgid "LOBBY_MSG_PENALTY_CREDITS"
+msgstr "{credits} 銀幣"
+
+msgid "LOBBY_MSG_PENALTY_EXP"
+msgstr "-{exp} 經驗"
+
+msgid "LOBBY_MSG_PENALTY_EXP_FREE"
+msgstr "{exp}自由經驗"
+
+msgid "LOBBY_MSG_PENALTY_EXP_PLANE"
+msgstr "{exp}戰機經驗"
+
+msgid "LOBBY_MSG_PENALTY_GOLD"
+msgstr "{gold}金幣"
+
+msgid "LOBBY_MSG_PENALTY_TICKETS"
+msgstr "{tickets}"
+
+msgid "LOBBY_MSG_PENALTY_TOKENS"
+msgstr "{gold} 令牌"
+
+msgid "LOBBY_MSG_PREMIUM_BOUGHT"
+msgstr "購買加值帳號。失效日期：{time}."
+
+msgid "LOBBY_MSG_PREMIUM_EXPIRED"
+msgstr "加值帳號已過期。"
+
+msgid "LOBBY_MSG_PREMIUM_EXTENDED"
+msgstr "延長加值帳號。失效日期: {time}."
+
+msgid "LOBBY_MSG_ROCKETS_REFILL_FAILED"
+msgstr "資金不夠"
+
+msgid "LOBBY_MSG_SCREENSHOT"
+msgstr "截圖儲存到: {adress}"
+
+msgid "LOBBY_MSG_SET_CONFIGURATION"
+msgstr "裝備{module_name} 已購買"
+
+msgid "LOBBY_MSG_SET_MODULES"
+msgstr "購買模組 {module_name} "
+
+msgid "LOBBY_MSG_SQUAD_LIMIT_EXCEEDED"
+msgstr "您已經超出了最大組隊人數限制"
+
+msgid "LOBBY_MSG_TITLE_PENALTY"
+msgstr "傷害隊友懲罰："
+
+msgid "LOBBY_MSG_TITLE_REWARD"
+msgstr "獲得："
+
+msgid "LOBBY_MSG_TITLE_STATS"
+msgstr "結果："
+
+msgid "LOBBY_MSG_TOKENS"
+msgstr "{gold} 令牌"
+
+msgid "LOBBY_SPEND_CREDITS"
+msgstr "花費銀幣："
+
+msgid "LOGIN_LEGACY_CANCEL"
+msgstr "取消"
+
+msgid "LOGIN_LEGACY_CHECK"
+msgstr "我接受"
+
+msgid "LOGIN_LEGACY_CONTINUE"
+msgstr "繼續"
+
+msgid "LOGIN_LEGACY_OK"
+msgstr "好"
+
+msgid "MEDAL_GAIN_BONUS"
+msgstr "收到 {name}:"
+
+msgid "MESSAGES_FAST_TRAINING_PILOT"
+msgstr "乘員快速訓練"
+
+msgid "MESSAGES_RESET_SKILLS_PILOT"
+msgstr "重置乘員技能"
+
+msgid "MESSAGES_RETRAINING_PILOT"
+msgstr "訓練乘員"
+
+msgid "MESSAGE_AMMO_REFILLED_HEADER"
+msgstr "補充彈藥："
+
+msgid "MESSAGE_AMMO_REFILLED_TEXT"
+msgstr "補充彈藥成功。"
+
+msgid "MESSAGE_CAMO_EXPIRES"
+msgstr "塗裝方案使用期限已過！"
+
+msgid "MESSAGE_CANNOT_SELL_DAMAGED_PLANE"
+msgstr "無法賣出。<br>請先修理戰機{name}。"
+
+msgid "MESSAGE_CONTEXT_APPEARANCE"
+msgstr "個性化"
+
+msgid "MESSAGE_ERROR_TEXT"
+msgstr "錯誤！"
+
+msgid "MESSAGE_MODULES_EXPLORED_SUCCESSFULLY"
+msgstr "裝備 {name} 研發完成。"
+
+msgid "MESSAGE_MODULE_EXPLORED_SUCCESSFULLY"
+msgstr "裝備 {name} 研發成功。"
+
+msgid "MESSAGE_MODULE_INSTALLED_SUCCESSFULLY"
+msgstr "裝備 {module_name} 安裝成功。"
+
+msgid "MESSAGE_MODULE_PURCHASED_SUCCESSFULLY"
+msgstr "裝備 {name} 購買成功。"
+
+msgid "MESSAGE_MODULE_UNINSTALLED_SUCCESSFULLY"
+msgstr "{module}拆卸成功。"
+
+msgid "MESSAGE_NO_PLACES"
+msgstr "軍營中已沒有足夠的床位"
+
+msgid "MESSAGE_TYPE_POPUP_LOBBY_GOLD_RECEIVED"
+msgstr "收到金幣"
+
+msgid "MESSAGE_TYPE_POPUP_LOBBY_TOKENS_RECEIVED"
+msgstr "獲得令牌"
+
+msgid "MESSAGE_WING_DESTROYED"
+msgstr "編隊被取消:改玩家另一個編隊中的一員"
+
+msgid "OPENBETA_DAILY_BONUS_AIRCRAFTS_KILLED"
+msgstr "收到一天內擊毀 {number} 架戰機獎勵:"
+
+msgid "OPENBETA_DAILY_BONUS_AIRCRAFTS_KILLED_NUMBER_1"
+msgstr "1"
+
+msgid "OPENBETA_DAILY_BONUS_AIRCRAFTS_KILLED_NUMBER_10"
+msgstr "10"
+
+msgid "OPENBETA_DAILY_BONUS_AIRCRAFTS_KILLED_NUMBER_2"
+msgstr "2"
+
+msgid "OPENBETA_DAILY_BONUS_AIRCRAFTS_KILLED_NUMBER_3"
+msgstr "3"
+
+msgid "OPENBETA_DAILY_BONUS_AIRCRAFTS_KILLED_NUMBER_4"
+msgstr "4"
+
+msgid "OPENBETA_DAILY_BONUS_AIRCRAFTS_KILLED_NUMBER_5"
+msgstr "5"
+
+msgid "OPENBETA_DAILY_BONUS_AIRCRAFTS_KILLED_NUMBER_6"
+msgstr "6"
+
+msgid "OPENBETA_DAILY_BONUS_AIRCRAFTS_KILLED_NUMBER_7"
+msgstr "7"
+
+msgid "OPENBETA_DAILY_BONUS_AIRCRAFTS_KILLED_NUMBER_8"
+msgstr "8"
+
+msgid "OPENBETA_DAILY_BONUS_AIRCRAFTS_KILLED_NUMBER_9"
+msgstr "9"
+
+msgid "OPENBETA_DAILY_BONUS_GROUND_TARGET_DESTROYED"
+msgstr "收到一天內摧毀 {number} 個地面目標獎勵:"
+
+msgid "OPENBETA_DAILY_BONUS_GROUND_TARGET_DESTROYED_NUMBER_1"
+msgstr "1"
+
+msgid "OPENBETA_DAILY_BONUS_GROUND_TARGET_DESTROYED_NUMBER_10"
+msgstr "10"
+
+msgid "OPENBETA_DAILY_BONUS_GROUND_TARGET_DESTROYED_NUMBER_2"
+msgstr "2"
+
+msgid "OPENBETA_DAILY_BONUS_GROUND_TARGET_DESTROYED_NUMBER_3"
+msgstr "3"
+
+msgid "OPENBETA_DAILY_BONUS_GROUND_TARGET_DESTROYED_NUMBER_4"
+msgstr "4"
+
+msgid "OPENBETA_DAILY_BONUS_GROUND_TARGET_DESTROYED_NUMBER_5"
+msgstr "5"
+
+msgid "OPENBETA_DAILY_BONUS_GROUND_TARGET_DESTROYED_NUMBER_6"
+msgstr "6"
+
+msgid "OPENBETA_DAILY_BONUS_GROUND_TARGET_DESTROYED_NUMBER_7"
+msgstr "7"
+
+msgid "OPENBETA_DAILY_BONUS_GROUND_TARGET_DESTROYED_NUMBER_8"
+msgstr "8"
+
+msgid "OPENBETA_DAILY_BONUS_GROUND_TARGET_DESTROYED_NUMBER_9"
+msgstr "9"
+
+msgid "OPENBETA_DAILY_BONUS_LABEL_TOKENS"
+msgstr "令牌。"
+
+msgid "OPENBETA_DAILY_BONUS_WIN"
+msgstr "收到一天內 {number} 場勝利獎勵:"
+
+msgid "OPENBETA_DAILY_BONUS_WIN_NUMBER_1"
+msgstr "1"
+
+msgid "OPENBETA_DAILY_BONUS_WIN_NUMBER_10"
+msgstr "10"
+
+msgid "OPENBETA_DAILY_BONUS_WIN_NUMBER_2"
+msgstr "2"
+
+msgid "OPENBETA_DAILY_BONUS_WIN_NUMBER_3"
+msgstr "3"
+
+msgid "OPENBETA_DAILY_BONUS_WIN_NUMBER_4"
+msgstr "4"
+
+msgid "OPENBETA_DAILY_BONUS_WIN_NUMBER_5"
+msgstr "5"
+
+msgid "OPENBETA_DAILY_BONUS_WIN_NUMBER_6"
+msgstr "6"
+
+msgid "OPENBETA_DAILY_BONUS_WIN_NUMBER_7"
+msgstr "7"
+
+msgid "OPENBETA_DAILY_BONUS_WIN_NUMBER_8"
+msgstr "8"
+
+msgid "OPENBETA_DAILY_BONUS_WIN_NUMBER_9"
+msgstr "9"
+
+msgid "PLAYERS_IN_THE_QUEUE"
+msgstr "在佇列中的玩家"
+
+msgid "POPUP_COMMON_FREE_EXP"
+msgstr "《戰機世界》與《戰車世界》的自由經驗已經可以通用！"
+
+msgid "POPUP_FORWARD_BUTTON"
+msgstr "加油！"
+
+msgid "POPUP_LEGACY"
+msgstr "使用者授權協議"
+
+msgid "POPUP_PRE_RELEASE"
+msgstr "《戰機世界》全球測試"
+
+msgid "POPUP_RELEASE"
+msgstr "《戰機世界》正式釋出"
+
+msgid "POPUP_WINDOW_CLOSE"
+msgstr "關閉"
+
+msgid "SYSTEM_MESSAGE_ALL_CREW_LEARNED_BASICS"
+msgstr "所有 {plane_name} 乘員熟練度提升至100%"
+
+msgid "SYSTEM_MESSAGE_ALL_CREW_LEARNED_SKILL"
+msgstr "所有 {plane_name} 乘員 {skill_name} 技能水平提升至100%"
+
+msgid "SYSTEM_MESSAGE_BIRTHDAY_1_MONTH"
+msgstr "<font color='white'>{plane_name}</font>: 1 個月"
+
+msgid "SYSTEM_MESSAGE_BIRTHDAY_1_YEAR"
+msgstr "<font color='white'>{plane_name}</font>: 1 年"
+
+msgid "SYSTEM_MESSAGE_BIRTHDAY_2_YEARS"
+msgstr "<font color='white'>{plane_name}</font>: 2 年"
+
+msgid "SYSTEM_MESSAGE_BIRTHDAY_3_MONTHS"
+msgstr "<font color='white'>{plane_name}</font>: 3 個月"
+
+msgid "SYSTEM_MESSAGE_BIRTHDAY_3_YEARS"
+msgstr "<font color='white'>{plane_name}</font>: 3 年"
+
+msgid "SYSTEM_MESSAGE_BIRTHDAY_4_YEARS"
+msgstr "<font color='white'>{plane_name}</font>: 4 年"
+
+msgid "SYSTEM_MESSAGE_BIRTHDAY_5_YEARS"
+msgstr "<font color='white'>{plane_name}</font>: 5 年或 5 年以上"
+
+msgid "SYSTEM_MESSAGE_BIRTHDAY_6_MONTHS"
+msgstr "<font color='white'>{plane_name}</font>: 6 個月"
+
+msgid "SYSTEM_MESSAGE_BIRTHDAY_9_MONTHS"
+msgstr "<font color='white'>{plane_name}</font>: 9 個月"
+
+msgid "SYSTEM_MESSAGE_BIRTHDAY_ABOVE_YEAR"
+msgstr "自購買之日起超過1年"
+
+msgid "SYSTEM_MESSAGE_BIRTHDAY_BONUS"
+msgstr "獎勵:"
+
+msgid "SYSTEM_MESSAGE_BIRTHDAY_BONUSES"
+msgstr "獎勵:"
+
+msgid "SYSTEM_MESSAGE_BIRTHDAY_DATE"
+msgstr "購買日期:"
+
+msgid "SYSTEM_MESSAGE_BIRTHDAY_EVENT_DATE"
+msgstr "週年紀念開始於:"
+
+msgid "SYSTEM_MESSAGE_BIRTHDAY_HEADER_FEW"
+msgstr "購買戰機週年紀念"
+
+msgid "SYSTEM_MESSAGE_BIRTHDAY_HEADER_ONE"
+msgstr "紀念日"
+
+msgid "SYSTEM_MESSAGE_BIRTHDAY_REWARD_FREE_EXP"
+msgstr "首勝後可獲得額外自由經驗："
+
+msgid "SYSTEM_MESSAGE_BIRTHDAY_REWARD_FREE_EXP_PLANE"
+msgstr "首勝後可獲得額外自由經驗："
+
+msgid "SYSTEM_MESSAGE_BIRTHDAY_REWARD_X2_EXP"
+msgstr "前 {number} 場勝利可獲得額外經驗收益："
+
+msgid "SYSTEM_MESSAGE_BIRTHDAY_REWARD_X2_EXP_CRED"
+msgstr "前 {number} 場勝利可獲得額外經驗和銀幣收益："
+
+msgid "SYSTEM_MESSAGE_BIRTHDAY_REWARD_X2_EXP_CRED_PLANE"
+msgstr "前 {number} 場勝利可獲得額外經驗和銀幣收益："
+
+msgid "SYSTEM_MESSAGE_BIRTHDAY_REWARD_X2_EXP_PLANE"
+msgstr "前 {number} 場勝利可獲得額外經驗收益："
+
+msgid "SYSTEM_MESSAGE_BIRTHDAY_REWARD_X3_EXP_CRED"
+msgstr "前 {number} 場勝利可獲得額外經驗和銀幣收益："
+
+msgid "SYSTEM_MESSAGE_BIRTHDAY_REWARD_X3_EXP_CRED_PLANE"
+msgstr "前 {number} 場勝利可獲得額外經驗和銀幣收益："
+
+msgid "SYSTEM_MESSAGE_CAMO_EXPIRES_IN"
+msgstr "塗裝到期"
+
+msgid "SYSTEM_MESSAGE_CAMO_PLANE"
+msgstr "{plane_name} 個性化塗裝方案"
+
+msgid "SYSTEM_MESSAGE_CHOOSE_HANGAR_HOLIDAY"
+msgstr "更改"
+
+msgid "SYSTEM_MESSAGE_CONTEXT_RESEARCHED"
+msgstr "研發:"
+
+msgid "SYSTEM_MESSAGE_CREW_MEMBER_CHOSE_SKILL"
+msgstr "{plane_name} 的 {crew_member} 已開始訓練 {skill_name} 技能"
+
+msgid "SYSTEM_MESSAGE_CREW_MEMBER_DROPPED_SKILLS"
+msgstr "{plane_name} 的 {crew_member} 可以學習新技能"
+
+msgid "SYSTEM_MESSAGE_CREW_MEMBER_LEARNED_BASICS"
+msgstr "{plane_name} 的 {crew_member} 的熟練度已達到100%"
+
+msgid "SYSTEM_MESSAGE_CREW_MEMBER_LEARNED_SKILL"
+msgstr "{plane_name} 的 {crew_member} 的 {skill_name} 技能水平已達到100%"
+
+msgid "SYSTEM_MESSAGE_CREW_MEMBER_RECRUITED"
+msgstr "招募 {plane_name} 的 {crew_member}"
+
+msgid "SYSTEM_MESSAGE_CREW_NEW_SKILLS_AVAILABLE"
+msgstr "有新技能可學習!"
+
+msgid "SYSTEM_MESSAGE_DETAILED_INFO_UNAVAILABLE"
+msgstr "無法檢視詳細資訊"
+
+msgid "SYSTEM_MESSAGE_DISCOUNT_PLANES"
+msgstr "{number}%的折扣套用於 {plane_name}"
+
+msgid "SYSTEM_MESSAGE_EMBLEM_ANY"
+msgstr "徽章適用於任何國家的戰機"
+
+msgid "SYSTEM_MESSAGE_EMBLEM_CHINA"
+msgstr "徽章適用於任何中國戰機"
+
+msgid "SYSTEM_MESSAGE_EMBLEM_GERMANY"
+msgstr "徽章適用於任何德國戰機"
+
+msgid "SYSTEM_MESSAGE_EMBLEM_JAPAN"
+msgstr "徽章適用於任何日本戰機"
+
+msgid "SYSTEM_MESSAGE_EMBLEM_UK"
+msgstr "徽章適用於任何英國戰機"
+
+msgid "SYSTEM_MESSAGE_EMBLEM_USA"
+msgstr "徽章適用於任何美國戰機"
+
+msgid "SYSTEM_MESSAGE_EMBLEM_USSR"
+msgstr "徽章適用於任何蘇聯戰機"
+
+msgid "SYSTEM_MESSAGE_ERROR_HEADER"
+msgstr "錯誤"
+
+msgid "SYSTEM_MESSAGE_EXCLUSIVE_CAMO_EMBLEM_DECOR"
+msgstr "特殊的塗裝（+5%最高速度），機頭，徽章"
+
+msgid "SYSTEM_MESSAGE_GOLD_ACCESS_DENIED"
+msgstr ""
+"儲值功能暫不可用，暫時無法使用你的金幣和自由經驗，我們將盡快恢復伺服器相關功"
+"能"
+
+msgid "SYSTEM_MESSAGE_GOLD_ACCESS_GRANTED"
+msgstr "帳號同步成功，金幣和自由經驗已可用"
+
+msgid "SYSTEM_MESSAGE_GOLD_ACCOUNT_SYNCHRONISED"
+msgstr "帳號同步成功"
+
+msgid "SYSTEM_MESSAGE_GOLD_OPERATION_IMPOSSIBLE"
+msgstr "無法進行操作，您的金幣在帳號同步後才可使用"
+
+msgid "SYSTEM_MESSAGE_GOLD_RECOVERING_ACCOUNT"
+msgstr "您的金幣將在帳號同步後恢復可用"
+
+msgid "SYSTEM_MESSAGE_GOLD_UNAVAILABLE_REFILL_FOR_CREDITS"
+msgstr "暫時無法補充金幣<br>補充銀幣"
+
+msgid "SYSTEM_MESSAGE_HANGAR_HOLIDAY"
+msgstr "飛行員，您使用了節日背景。您可以在設定介面裡更改背景。"
+
+msgid "SYSTEM_MESSAGE_HANGAR_HOLIDAY_1"
+msgstr "飛行員，您可以在設定介面裡更改高階背景。"
+
+msgid "SYSTEM_MESSAGE_HEADER_DETAILED_INFO"
+msgstr "詳細資訊"
+
+msgid "SYSTEM_MESSAGE_HEADER_HANGAR_HOLIDAY"
+msgstr "節日背景"
+
+msgid "SYSTEM_MESSAGE_HEADER_PRIZES"
+msgstr "獎勵"
+
+msgid "SYSTEM_MESSAGE_HEADER_WIN"
+msgstr "勝利{aircraft_name}!"
+
+msgid "SYSTEM_MESSAGE_LABEL_AMMO_REFILL"
+msgstr "補充彈藥"
+
+msgid "SYSTEM_MESSAGE_LABEL_CAMO_DECALS"
+msgstr "塗裝和裝飾圖案"
+
+msgid "SYSTEM_MESSAGE_LABEL_MOUNTED"
+msgstr "安裝:"
+
+msgid "SYSTEM_MESSAGE_LABEL_PREMIUM_DAYS"
+msgstr "加值帳號天數"
+
+msgid "SYSTEM_MESSAGE_LABEL_PURCHASED"
+msgstr "購買:"
+
+msgid "SYSTEM_MESSAGE_LABEL_UNLOADED"
+msgstr "移動至倉庫:"
+
+msgid "SYSTEM_MESSAGE_MODULE_DESTROYED_MSGTEXT"
+msgstr "配件{module_name}被摧毀。"
+
+msgid "SYSTEM_MESSAGE_MODULE_INSTALLED_MSGTEXT"
+msgstr "安裝配件{module_name} 。"
+
+msgid "SYSTEM_MESSAGE_MODULE_PURCHASED_MSGTEXT"
+msgstr "購買配件{module_name} 。"
+
+msgid "SYSTEM_MESSAGE_MODULE_UNINSTALLED_MSGTEXT"
+msgstr "配件{module_name}被卸除。"
+
+msgid "SYSTEM_MESSAGE_PREMIUM_EXPIRES_IN"
+msgstr "加值帳號將在 {time} 到期"
+
+msgid "SYSTEM_MESSAGE_QUESTS_NEW_QUESTS_AVAILABLE"
+msgstr "可進行的新任務:"
+
+msgid "SYSTEM_MESSAGE_QUESTS_OUTDATED_COMPLETED"
+msgstr "到期任務完成"
+
+msgid "SYSTEM_MESSAGE_QUESTS_QUEST_COMPLETED"
+msgstr "\"{quest}\" 任務完成!"
+
+msgid "SYSTEM_MESSAGE_QUESTS_QUEST_PROGRESS"
+msgstr "\"{quest}\" 任務進度"
+
+msgid "SYSTEM_MESSAGE_QUESTS_SEVERAL_COMPLETED"
+msgstr "任務完成:"
+
+msgid "SYSTEM_MESSAGE_WING_BATTLE_ERROR_TEXT"
+msgstr "進入戰鬥失敗。請選擇另外一架戰機或者是重新創建編隊。"
+
+msgid "SYSTEM_MESSAGE_WING_BUTTON_ACCEPT_INVITATION"
+msgstr "接受"
+
+msgid "SYSTEM_MESSAGE_WING_DESTROYED"
+msgstr "編隊被解散。"
+
+msgid "SYSTEM_MESSAGE_WING_INVITATION_ACCEPTED"
+msgstr "已接受邀請"
+
+msgid "SYSTEM_MESSAGE_WING_INVITATION_DECLINED"
+msgstr "邀請被拒絕"
+
+msgid "SYSTEM_MESSAGE_WING_INVITATION_HEADER"
+msgstr "編隊邀請"
+
+msgid "SYSTEM_MESSAGE_WING_PLAYER_EXCLUDED"
+msgstr "您已被移出編隊。"
+
+msgid "SYSTEM_MESSAGE_WING_PLAYER_INVITES_YOU_TO_WING"
+msgstr "{name} 邀請您加入編隊"
+
+msgid "SYSTEM_MESSAGE_WING_PLAYER_LEAVE"
+msgstr "您離開了編隊。"
+
+msgid "SYSTEM_MESSAGE_XP_OPERATION_IMPOSSIBLE"
+msgstr "無法進行操作，您的自由經驗在帳號同步後才可使用"
+
+msgid "SYSTEM_MESSAGE_XP_RECOVERING_ACCOUNT"
+msgstr "您的自由經驗將在帳號同步後恢復可用"
+
+msgid "VOIP_MESSAGE_HEADER"
+msgstr "語音聊天"
+
+msgid "VOIP_SERVICE_DOWN"
+msgstr "語音聊天暫不可用"
+
+msgid "WING_MESSAGE_ADD_FRIEND"
+msgstr "玩家{name}被新增到您的好友列表中。"
+
+msgid "WING_MESSAGE_PLAYER_IN_WING_SEND_INVITE_ANOTHER_PLAYER"
+msgstr "玩家{name}已經是另一個編隊中的隊員。請選擇列表中的其他玩家。"
+
+msgid "WING_MESSAGE_YOU_DONT_CAN_INVITE_OFFLINE_PLAYER"
+msgstr "你不能邀請一個離線的玩家加入編隊。"
+
+msgid "MESSAGES_BONUS_GOLD_NY"
+msgstr "Gold bonus:"
+
+msgid "MESSAGES_CONGRATULATION_YOU_CAN_GET_PLANE"
+msgstr "Congratulations! You can claim your aircraft."
+
+msgid "MESSAGES_DIRECTIVE_ACTIVATED"
+msgstr "Operation Order Activated"
+
+msgid "MESSAGES_DIRECTIVE_DEACTIVATED"
+msgstr "Operation Order Deactivated"
+
+msgid "MESSAGES_DIRECTIVE_DEDUCT"
+msgstr "Operation order removed."
+
+msgid "MESSAGES_DIRECTIVE_IN_INVENTORY"
+msgstr "Operation order is available in the Inventory."
+
+msgid "MESSAGES_DIRECTIVE_PURCHASED"
+msgstr "Operation order purchased."
+
+msgid "MESSAGES_DIRECTIVE_RECEIVED"
+msgstr "Operation Order Added to Your Account"
+
+msgid "MESSAGES_DIRECTIVE_SOLD"
+msgstr "Operation order sold."
+
+msgid "MESSAGES_EXCLUSIVE_CAMO"
+msgstr "Unique paint scheme"
+
+msgid "MESSAGES_EXCLUSIVE_EMBLEM"
+msgstr "Unique emblem"
+
+msgid "MESSAGES_NEW_QUESTS_AVAILABLE"
+msgstr "New missions are available."
+
+msgid "MESSAGES_PROGRESS_QUESTS_RESET"
+msgstr "Mission progress reset."
+
+msgid "MESSAGES_RECIEVED_ACHIEVEMENT_WG_FEST"
+msgstr ""
+"На память о посещении фестиваля WG Fest вы получаете уникальный памятный "
+"знак."
+
+msgid "MESSAGES_RECIEVED_GIFT_SECRET_SANTA"
+msgstr ""
+"{username}, happy holidays! You have received a <font color='#color'>gift</"
+"font>!"
+
+msgid "MESSAGES_SECRET_SANTA_2017"
+msgstr "Santa's Bag"
+
+msgid "MESSAGES_SECRET_SANTA_COMPENSATION"
+msgstr ""
+"Pilot! <font color='#'>Santa's bag</font> has been opened. All presents "
+"found have been added to your account."
+
+msgid "MESSAGES_SETUP_MODULES"
+msgstr "Mount Modules"
+
+msgid "MESSAGE_ACHIEVEMENT"
+msgstr "Achievement:"
+
+msgid "SYSTEM_MESSAGE_ALBION_EVENT_BEGAN"
+msgstr "The <font color='#{color}'>Skies of Albion</font> event is underway!"
+
+msgid "SYSTEM_MESSAGE_ALBION_EVENT_END"
+msgstr "The <font color='#{color}'>Skies of Albion</font> event is over!"
+
+msgid "SYSTEM_MESSAGE_COMPENSATION_TROPHY_ALBION_OPERATION_OFF"
+msgstr ""
+"Loot crates that you did not open during the <font color='#'>Skies of "
+"Albion</font> event have been opened automatically. All prizes from the loot "
+"crates have been added to your account."
+
+msgid "SYSTEM_MESSAGE_COMPENSATION_TROPHY_JA_TR_OFF"
+msgstr ""
+"Loot crates that you did not open during the <font color='#{color}'>"
+"\"Japanese Threat\"</font> event have been opened automatically. All prizes "
+"from the loot crates have been added to your account."
+
+msgid "SYSTEM_MESSAGE_COMPENSATION_TROPHY_NO_CAMP_OFF"
+msgstr ""
+"Loot crates that you did not open during the <font color='#{color}'>Battle "
+"for Thor's Hammer</font> event have been opened automatically. All prizes "
+"from the loot crates have been added to your account."
+
+msgid "SYSTEM_MESSAGE_CONTEXT_INCLUDING"
+msgstr "Including:"
+
+msgid "SYSTEM_MESSAGE_DISMISS_CREW"
+msgstr "Dismiss"
+
+msgid "SYSTEM_MESSAGE_FAST_TRAINING_OFF"
+msgstr "Accelerated training disabled"
+
+msgid "SYSTEM_MESSAGE_FAST_TRAINING_ON"
+msgstr "Accelerated training enabled"
+
+msgid "SYSTEM_MESSAGE_FR_EXTRA_GIFT"
+msgstr "Extra Bonus"
+
+msgid "SYSTEM_MESSAGE_FR_PACK_SUCCESSFUL_PURCHASE"
+msgstr ""
+"Bundle of the <font color='#{color}'>{plane_name1}</font> and <font "
+"color='#{color}'>{plane_name2}</font> aircraft successfully purchased."
+
+msgid "SYSTEM_MESSAGE_FR_PACK_UNIQUE_CAMO_EMBLEM"
+msgstr ""
+"Unique paint scheme, nose art, and emblem for the <font "
+"color='#{color}'>{plane_name1}</font> and <font "
+"color='#{color}'>{plane_name2}</font> aircraft"
+
+msgid "SYSTEM_MESSAGE_GUNNER_DISMISS"
+msgstr "Gunner {crew_name} dismissed"
+
+msgid "SYSTEM_MESSAGE_HEADER_PILOT"
+msgstr "Pilot!"
+
+msgid "SYSTEM_MESSAGE_NEW_QUEST_AVAILABLE"
+msgstr "New mission available!"
+
+msgid "SYSTEM_MESSAGE_NOW_CREW_TRAINING_FASTER"
+msgstr "Now the crew will be trained more quickly."
+
+msgid "SYSTEM_MESSAGE_NOW_EXP_COLLECT_ON_PLANE"
+msgstr "Now experience will be allocated to the aircraft."
+
+msgid "SYSTEM_MESSAGE_PACK_SLOT_SUCCESSFUL_PURCHASE"
+msgstr "Slots ({number}) in the Hangar successfully purchased."
+
+msgid "SYSTEM_MESSAGE_PILOT_DISMISS"
+msgstr "Pilot {crew_name} dismissed"
+
+msgid "SYSTEM_MESSAGE_QUEST_COMPENSATION"
+msgstr ""
+"Pilot! You have already received the \"{name}\" mission and it cannot be "
+"completed again. The mission cost has been compensated."
+
+msgid "SYSTEM_MESSAGE_TOTAL_ACCOUNT_BALANCE"
+msgstr "Total added to account:"

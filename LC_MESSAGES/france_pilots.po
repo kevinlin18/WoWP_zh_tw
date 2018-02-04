@@ -1,0 +1,4541 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: World Of Tanks\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-06-01 10:00+0300\n"
+"PO-Revision-Date: 2010-06-07 12:37+0200\n"
+"Last-Translator: Developer <noreply@wargaming.net>\n"
+"Language-Team: WoT Team <noreply@wargaming.net>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "NAMES/FR1"
+msgstr "阿蘭"
+
+msgid "NAMES/FR10"
+msgstr "貝安"
+
+msgid "NAMES/FR100"
+msgstr "卡特勒梅爾"
+
+msgid "NAMES/FR1000"
+msgstr "內斯特"
+
+msgid "NAMES/FR1001"
+msgstr "查爾斯"
+
+msgid "NAMES/FR1002"
+msgstr "卡西米爾"
+
+msgid "NAMES/FR1003"
+msgstr "科萊特"
+
+msgid "NAMES/FR1004"
+msgstr "布利斯"
+
+msgid "NAMES/FR1005"
+msgstr "瓦列裡"
+
+msgid "NAMES/FR1006"
+msgstr "弗朗索瓦"
+
+msgid "NAMES/FR1007"
+msgstr "費雯麗"
+
+msgid "NAMES/FR1008"
+msgstr "海寧"
+
+msgid "NAMES/FR1009"
+msgstr "羅德里格"
+
+msgid "NAMES/FR101"
+msgstr "勃朗"
+
+msgid "NAMES/FR1010"
+msgstr "明德"
+
+msgid "NAMES/FR1011"
+msgstr "路易斯"
+
+msgid "NAMES/FR1012"
+msgstr "本篤"
+
+msgid "NAMES/FR1013"
+msgstr "帕特里斯"
+
+msgid "NAMES/FR1014"
+msgstr "西里爾"
+
+msgid "NAMES/FR1015"
+msgstr "約瑟夫"
+
+msgid "NAMES/FR1016"
+msgstr "克萊門斯"
+
+msgid "NAMES/FR1017"
+msgstr "維多利亞"
+
+msgid "NAMES/FR1018"
+msgstr "拉里薩"
+
+msgid "NAMES/FR1019"
+msgstr "哈比卜"
+
+msgid "NAMES/FR102"
+msgstr "布蘭查德"
+
+msgid "NAMES/FR1020"
+msgstr "阿梅代"
+
+msgid "NAMES/FR1021"
+msgstr "本傑明"
+
+msgid "NAMES/FR1022"
+msgstr "休斯"
+
+msgid "NAMES/FR1023"
+msgstr "桑德琳"
+
+msgid "NAMES/FR1024"
+msgstr "理查德"
+
+msgid "NAMES/FR1025"
+msgstr "伊西多爾"
+
+msgid "NAMES/FR1026"
+msgstr "理查德"
+
+msgid "NAMES/FR1027"
+msgstr "伊西多爾"
+
+msgid "NAMES/FR1028"
+msgstr "艾琳"
+
+msgid "NAMES/FR1029"
+msgstr "朱莉"
+
+msgid "NAMES/FR103"
+msgstr "基內"
+
+msgid "NAMES/FR1030"
+msgstr "斯坦尼斯拉"
+
+msgid "NAMES/FR1031"
+msgstr "井田"
+
+msgid "NAMES/FR1032"
+msgstr "亞歷山大"
+
+msgid "NAMES/FR1033"
+msgstr "思蒂"
+
+msgid "NAMES/FR1034"
+msgstr "鮑里斯"
+
+msgid "NAMES/FR1035"
+msgstr "西爾"
+
+msgid "NAMES/FR1036"
+msgstr "朱迪思"
+
+msgid "NAMES/FR1037"
+msgstr "吉賽爾邦"
+
+msgid "NAMES/FR1038"
+msgstr "埃斯特爾"
+
+msgid "NAMES/FR1039"
+msgstr "馬蒂亞斯"
+
+msgid "NAMES/FR104"
+msgstr "雷蒙"
+
+msgid "NAMES/FR1040"
+msgstr "丹尼斯"
+
+msgid "NAMES/FR1041"
+msgstr "查皮安"
+
+msgid "NAMES/FR1042"
+msgstr "巴羅"
+
+msgid "NAMES/FR1043"
+msgstr "巴泰勒米"
+
+msgid "NAMES/FR1044"
+msgstr "巴爾扎克"
+
+msgid "NAMES/FR1045"
+msgstr "笛卡爾"
+
+msgid "NAMES/FR1046"
+msgstr "阿雷西"
+
+msgid "NAMES/FR1047"
+msgstr "安培"
+
+msgid "NAMES/FR1048"
+msgstr "可勒爾"
+
+msgid "NAMES/FR1049"
+msgstr "帕森"
+
+msgid "NAMES/FR105"
+msgstr "勒內"
+
+msgid "NAMES/FR1050"
+msgstr "居里"
+
+msgid "NAMES/FR1051"
+msgstr "德彪西"
+
+msgid "NAMES/FR1052"
+msgstr "狄德羅"
+
+msgid "NAMES/FR1053"
+msgstr "比諾什"
+
+msgid "NAMES/FR1054"
+msgstr "傅裡葉"
+
+msgid "NAMES/FR1055"
+msgstr "菲涅耳"
+
+msgid "NAMES/FR1056"
+msgstr "拉菲特"
+
+msgid "NAMES/FR1057"
+msgstr "曼德爾布羅特"
+
+msgid "NAMES/FR1058"
+msgstr "馬拉"
+
+msgid "NAMES/FR1059"
+msgstr "馬略特"
+
+msgid "NAMES/FR106"
+msgstr "布洛赫"
+
+msgid "NAMES/FR1060"
+msgstr "希林"
+
+msgid "NAMES/FR1061"
+msgstr "密特朗"
+
+msgid "NAMES/FR1062"
+msgstr "奧芬巴赫"
+
+msgid "NAMES/FR1063"
+msgstr "貝斯卡洛"
+
+msgid "NAMES/FR1064"
+msgstr "盧米埃"
+
+msgid "NAMES/FR1065"
+msgstr "龐加萊"
+
+msgid "NAMES/FR1066"
+msgstr "羅伯斯庇爾"
+
+msgid "NAMES/FR1067"
+msgstr "凡爾納"
+
+msgid "NAMES/FR1068"
+msgstr "左拉"
+
+msgid "NAMES/FR1069"
+msgstr "多尼爾"
+
+msgid "NAMES/FR107"
+msgstr "羅貝爾"
+
+msgid "NAMES/FR1070"
+msgstr "阿德萊德"
+
+msgid "NAMES/FR1071"
+msgstr "克列孟梭"
+
+msgid "NAMES/FR1072"
+msgstr "愛麗絲"
+
+msgid "NAMES/FR1073"
+msgstr "艾美"
+
+msgid "NAMES/FR1074"
+msgstr "莫拉託"
+
+msgid "NAMES/FR1075"
+msgstr "羅琳"
+
+msgid "NAMES/FR1076"
+msgstr "菲奧裡"
+
+msgid "NAMES/FR1077"
+msgstr "卡爾內"
+
+msgid "NAMES/FR108"
+msgstr "羅歇"
+
+msgid "NAMES/FR109"
+msgstr "羅郎"
+
+msgid "NAMES/FR11"
+msgstr "博杜安"
+
+msgid "NAMES/FR110"
+msgstr "羅梭"
+
+msgid "NAMES/FR111"
+msgstr "塞爾日"
+
+msgid "NAMES/FR112"
+msgstr "西蒙"
+
+msgid "NAMES/FR113"
+msgstr "塔亞徳"
+
+msgid "NAMES/FR114"
+msgstr "泰而諾"
+
+msgid "NAMES/FR115"
+msgstr "蒂博"
+
+msgid "NAMES/FR116"
+msgstr "蒂埃爾"
+
+msgid "NAMES/FR117"
+msgstr "於爾班"
+
+msgid "NAMES/FR118"
+msgstr "樊尚"
+
+msgid "NAMES/FR119"
+msgstr "韋騰巴赫"
+
+msgid "NAMES/FR12"
+msgstr "貝當古"
+
+msgid "NAMES/FR120"
+msgstr "伏爾泰"
+
+msgid "NAMES/FR121"
+msgstr "沃熱"
+
+msgid "NAMES/FR122"
+msgstr "伊夫"
+
+msgid "NAMES/FR123"
+msgstr "澤代"
+
+msgid "NAMES/FR124"
+msgstr "佐拉"
+
+msgid "NAMES/FR125"
+msgstr "左拉"
+
+msgid "NAMES/FR126"
+msgstr "巴西萊"
+
+msgid "NAMES/FR127"
+msgstr "吉納維夫"
+
+msgid "NAMES/FR128"
+msgstr "阿利克斯"
+
+msgid "NAMES/FR129"
+msgstr "波林"
+
+msgid "NAMES/FR13"
+msgstr "比耶爾"
+
+msgid "NAMES/FR130"
+msgstr "雷米"
+
+msgid "NAMES/FR131"
+msgstr "普里斯卡馬"
+
+msgid "NAMES/FR132"
+msgstr "馬呂斯"
+
+msgid "NAMES/FR133"
+msgstr "塞巴斯蒂安"
+
+msgid "NAMES/FR134"
+msgstr "艾格尼絲"
+
+msgid "NAMES/FR135"
+msgstr "文森特"
+
+msgid "NAMES/FR136"
+msgstr "巴納德"
+
+msgid "NAMES/FR137"
+msgstr "安吉拉"
+
+msgid "NAMES/FR138"
+msgstr "託馬斯阿奎那"
+
+msgid "NAMES/FR139"
+msgstr "吉爾達斯"
+
+msgid "NAMES/FR14"
+msgstr "比鬆"
+
+msgid "NAMES/FR140"
+msgstr "馬丁"
+
+msgid "NAMES/FR141"
+msgstr "馬塞勒"
+
+msgid "NAMES/FR142"
+msgstr "布萊斯"
+
+msgid "NAMES/FR143"
+msgstr "維羅尼卡"
+
+msgid "NAMES/FR144"
+msgstr "阿加莎"
+
+msgid "NAMES/FR145"
+msgstr "加斯東"
+
+msgid "NAMES/FR146"
+msgstr "歐仁妮"
+
+msgid "NAMES/FR147"
+msgstr "傑奎琳"
+
+msgid "NAMES/FR148"
+msgstr "阿爾諾"
+
+msgid "NAMES/FR149"
+msgstr "盧爾德"
+
+msgid "NAMES/FR15"
+msgstr "伯納"
+
+msgid "NAMES/FR150"
+msgstr "費利克斯"
+
+msgid "NAMES/FR151"
+msgstr "比阿特麗斯"
+
+msgid "NAMES/FR152"
+msgstr "瓦倫丁"
+
+msgid "NAMES/FR153"
+msgstr "克勞德"
+
+msgid "NAMES/FR154"
+msgstr "朱利安"
+
+msgid "NAMES/FR155"
+msgstr "亞歷克西斯"
+
+msgid "NAMES/FR156"
+msgstr "貝爾納黛特"
+
+msgid "NAMES/FR157"
+msgstr "加賓"
+
+msgid "NAMES/FR158"
+msgstr "艾梅"
+
+msgid "NAMES/FR159"
+msgstr "達米安"
+
+msgid "NAMES/FR16"
+msgstr "布歇"
+
+msgid "NAMES/FR160"
+msgstr "布倫特"
+
+msgid "NAMES/FR161"
+msgstr "伊莎貝爾"
+
+msgid "NAMES/FR162"
+msgstr "拉撒路"
+
+msgid "NAMES/FR163"
+msgstr "莫德斯特"
+
+msgid "NAMES/FR164"
+msgstr "羅密歐"
+
+msgid "NAMES/FR165"
+msgstr "內斯特"
+
+msgid "NAMES/FR166"
+msgstr "查爾斯"
+
+msgid "NAMES/FR167"
+msgstr "卡西米爾"
+
+msgid "NAMES/FR168"
+msgstr "科萊特"
+
+msgid "NAMES/FR169"
+msgstr "布利斯"
+
+msgid "NAMES/FR17"
+msgstr "布爾邦"
+
+msgid "NAMES/FR170"
+msgstr "約翰神"
+
+msgid "NAMES/FR171"
+msgstr "弗朗索瓦"
+
+msgid "NAMES/FR172"
+msgstr "費雯麗"
+
+msgid "NAMES/FR173"
+msgstr "海寧"
+
+msgid "NAMES/FR174"
+msgstr "羅德里格"
+
+msgid "NAMES/FR175"
+msgstr "明德"
+
+msgid "NAMES/FR176"
+msgstr "路易斯"
+
+msgid "NAMES/FR177"
+msgstr "本篤"
+
+msgid "NAMES/FR178"
+msgstr "帕特里斯"
+
+msgid "NAMES/FR179"
+msgstr "西里爾"
+
+msgid "NAMES/FR18"
+msgstr "巴爾"
+
+msgid "NAMES/FR180"
+msgstr "約瑟夫"
+
+msgid "NAMES/FR181"
+msgstr "克萊門斯"
+
+msgid "NAMES/FR182"
+msgstr "維多利亞"
+
+msgid "NAMES/FR183"
+msgstr "拉里薩"
+
+msgid "NAMES/FR184"
+msgstr "哈比卜"
+
+msgid "NAMES/FR185"
+msgstr "阿梅代"
+
+msgid "NAMES/FR186"
+msgstr "本傑明"
+
+msgid "NAMES/FR187"
+msgstr "休斯"
+
+msgid "NAMES/FR188"
+msgstr "桑德琳"
+
+msgid "NAMES/FR189"
+msgstr "理查德"
+
+msgid "NAMES/FR19"
+msgstr "巴羅"
+
+msgid "NAMES/FR190"
+msgstr "伊西多爾"
+
+msgid "NAMES/FR191"
+msgstr "艾琳"
+
+msgid "NAMES/FR192"
+msgstr "朱莉"
+
+msgid "NAMES/FR193"
+msgstr "斯坦尼斯拉"
+
+msgid "NAMES/FR194"
+msgstr "井田"
+
+msgid "NAMES/FR195"
+msgstr "亞歷山大"
+
+msgid "NAMES/FR196"
+msgstr "思蒂"
+
+msgid "NAMES/FR197"
+msgstr "鮑里斯"
+
+msgid "NAMES/FR198"
+msgstr "西爾"
+
+msgid "NAMES/FR199"
+msgstr "朱迪思"
+
+msgid "NAMES/FR2"
+msgstr "亞當"
+
+msgid "NAMES/FR20"
+msgstr "巴泰勒米"
+
+msgid "NAMES/FR200"
+msgstr "吉賽爾邦"
+
+msgid "NAMES/FR201"
+msgstr "埃斯特爾"
+
+msgid "NAMES/FR202"
+msgstr "馬蒂亞斯"
+
+msgid "NAMES/FR203"
+msgstr "丹尼斯"
+
+msgid "NAMES/FR204"
+msgstr "查皮安"
+
+msgid "NAMES/FR205"
+msgstr "奧諾雷"
+
+msgid "NAMES/FR206"
+msgstr "帕斯卡"
+
+msgid "NAMES/FR207"
+msgstr "埃裡克"
+
+msgid "NAMES/FR208"
+msgstr "伊夫"
+
+msgid "NAMES/FR209"
+msgstr "貝爾納丁"
+
+msgid "NAMES/FR21"
+msgstr "布爾熱"
+
+msgid "NAMES/FR210"
+msgstr "康斯坦丁"
+
+msgid "NAMES/FR211"
+msgstr "巴圖姆"
+
+msgid "NAMES/FR212"
+msgstr "皮特魯斯"
+
+msgid "NAMES/FR213"
+msgstr "迪奧"
+
+msgid "NAMES/FR214"
+msgstr "帕克"
+
+msgid "NAMES/FR215"
+msgstr "密特朗"
+
+msgid "NAMES/FR216"
+msgstr "薩科奇"
+
+msgid "NAMES/FR217"
+msgstr "笛卡爾"
+
+msgid "NAMES/FR218"
+msgstr "梅耶"
+
+msgid "NAMES/FR219"
+msgstr "貝巴夫"
+
+msgid "NAMES/FR22"
+msgstr "布律諾"
+
+msgid "NAMES/FR220"
+msgstr "迪翁"
+
+msgid "NAMES/FR221"
+msgstr "波拿巴"
+
+msgid "NAMES/FR222"
+msgstr "雨果"
+
+msgid "NAMES/FR223"
+msgstr "巴爾扎克"
+
+msgid "NAMES/FR224"
+msgstr "埃米爾"
+
+msgid "NAMES/FR225"
+msgstr "迪迪埃"
+
+msgid "NAMES/FR226"
+msgstr "阿森鬆"
+
+msgid "NAMES/FR227"
+msgstr "貝朗熱"
+
+msgid "NAMES/FR228"
+msgstr "奧古斯丁"
+
+msgid "NAMES/FR229"
+msgstr "費迪南德"
+
+msgid "NAMES/FR23"
+msgstr "波旁"
+
+msgid "NAMES/FR230"
+msgstr "賈斯汀"
+
+msgid "NAMES/FR231"
+msgstr "凱文"
+
+msgid "NAMES/FR232"
+msgstr "吉爾伯特"
+
+msgid "NAMES/FR233"
+msgstr "梅達德魯韋"
+
+msgid "NAMES/FR234"
+msgstr "桑迪弗"
+
+msgid "NAMES/FR235"
+msgstr "黛安"
+
+msgid "NAMES/FR236"
+msgstr "克洛維斯"
+
+msgid "NAMES/FR237"
+msgstr "巴拿巴"
+
+msgid "NAMES/FR238"
+msgstr "蓋伊"
+
+msgid "NAMES/FR239"
+msgstr "安東尼"
+
+msgid "NAMES/FR24"
+msgstr "卡爾萬"
+
+msgid "NAMES/FR240"
+msgstr "以利沙"
+
+msgid "NAMES/FR241"
+msgstr "科爾曼"
+
+msgid "NAMES/FR242"
+msgstr "傑曼"
+
+msgid "NAMES/FR243"
+msgstr "裡吉斯"
+
+msgid "NAMES/FR244"
+msgstr "埃爾韋"
+
+msgid "NAMES/FR245"
+msgstr "阿爾邦"
+
+msgid "NAMES/FR246"
+msgstr "普羅斯珀"
+
+msgid "NAMES/FR247"
+msgstr "託馬斯"
+
+msgid "NAMES/FR248"
+msgstr "弗洛朗"
+
+msgid "NAMES/FR249"
+msgstr "安東尼"
+
+msgid "NAMES/FR25"
+msgstr "康帕涅"
+
+msgid "NAMES/FR250"
+msgstr "馬裡埃特"
+
+msgid "NAMES/FR251"
+msgstr "拉烏爾"
+
+msgid "NAMES/FR252"
+msgstr "烏爾裡希"
+
+msgid "NAMES/FR253"
+msgstr "貝努瓦"
+
+msgid "NAMES/FR254"
+msgstr "奧利維爾"
+
+msgid "NAMES/FR255"
+msgstr "唐納德"
+
+msgid "NAMES/FR256"
+msgstr "弗雷德裡克"
+
+msgid "NAMES/FR257"
+msgstr "阿瑟"
+
+msgid "NAMES/FR258"
+msgstr "維克託"
+
+msgid "NAMES/FR259"
+msgstr "阿方斯"
+
+msgid "NAMES/FR26"
+msgstr "尚鬆"
+
+msgid "NAMES/FR260"
+msgstr "朱利安"
+
+msgid "NAMES/FR261"
+msgstr "莉迪亞"
+
+msgid "NAMES/FR262"
+msgstr "亞伯"
+
+msgid "NAMES/FR263"
+msgstr "克萊爾"
+
+msgid "NAMES/FR264"
+msgstr "克拉利瑟"
+
+msgid "NAMES/FR265"
+msgstr "伯納德"
+
+msgid "NAMES/FR266"
+msgstr "克里斯托弗"
+
+msgid "NAMES/FR267"
+msgstr "法布里奇奧"
+
+msgid "NAMES/FR268"
+msgstr "巴塞洛繆"
+
+msgid "NAMES/FR269"
+msgstr "路易斯"
+
+msgid "NAMES/FR27"
+msgstr "夏爾"
+
+msgid "NAMES/FR270"
+msgstr "娜塔莎"
+
+msgid "NAMES/FR271"
+msgstr "莫尼克"
+
+msgid "NAMES/FR272"
+msgstr "薩賓"
+
+msgid "NAMES/FR273"
+msgstr "艾蒂安"
+
+msgid "NAMES/FR274"
+msgstr "西爾韋斯特"
+
+msgid "NAMES/FR275"
+msgstr "明德"
+
+msgid "NAMES/FR276"
+msgstr "路易斯"
+
+msgid "NAMES/FR277"
+msgstr "本篤"
+
+msgid "NAMES/FR278"
+msgstr "帕特里斯"
+
+msgid "NAMES/FR279"
+msgstr "布利斯"
+
+msgid "NAMES/FR28"
+msgstr "謝瓦利埃"
+
+msgid "NAMES/FR280"
+msgstr "約翰神"
+
+msgid "NAMES/FR281"
+msgstr "弗朗索瓦"
+
+msgid "NAMES/FR282"
+msgstr "費雯麗"
+
+msgid "NAMES/FR283"
+msgstr "海寧"
+
+msgid "NAMES/FR284"
+msgstr "羅德里格"
+
+msgid "NAMES/FR285"
+msgstr "明德"
+
+msgid "NAMES/FR286"
+msgstr "路易斯"
+
+msgid "NAMES/FR287"
+msgstr "本篤"
+
+msgid "NAMES/FR288"
+msgstr "帕特里斯"
+
+msgid "NAMES/FR289"
+msgstr "西里爾"
+
+msgid "NAMES/FR29"
+msgstr "謝拉爾"
+
+msgid "NAMES/FR290"
+msgstr "約瑟夫"
+
+msgid "NAMES/FR291"
+msgstr "克萊門斯"
+
+msgid "NAMES/FR292"
+msgstr "維多利亞"
+
+msgid "NAMES/FR293"
+msgstr "拉里薩"
+
+msgid "NAMES/FR294"
+msgstr "哈比卜"
+
+msgid "NAMES/FR295"
+msgstr "阿梅代"
+
+msgid "NAMES/FR296"
+msgstr "本傑明"
+
+msgid "NAMES/FR297"
+msgstr "休斯"
+
+msgid "NAMES/FR298"
+msgstr "桑德琳"
+
+msgid "NAMES/FR299"
+msgstr "理查德"
+
+msgid "NAMES/FR3"
+msgstr "薩科"
+
+msgid "NAMES/FR30"
+msgstr "希拉剋"
+
+msgid "NAMES/FR300"
+msgstr "伊西多爾"
+
+msgid "NAMES/FR301"
+msgstr "艾琳"
+
+msgid "NAMES/FR302"
+msgstr "朱莉"
+
+msgid "NAMES/FR303"
+msgstr "斯坦尼斯拉"
+
+msgid "NAMES/FR304"
+msgstr "井田"
+
+msgid "NAMES/FR305"
+msgstr "亞歷山大"
+
+msgid "NAMES/FR306"
+msgstr "思蒂"
+
+msgid "NAMES/FR307"
+msgstr "鮑里斯"
+
+msgid "NAMES/FR308"
+msgstr "西爾"
+
+msgid "NAMES/FR309"
+msgstr "朱迪思"
+
+msgid "NAMES/FR31"
+msgstr "克洛德"
+
+msgid "NAMES/FR310"
+msgstr "吉賽爾邦"
+
+msgid "NAMES/FR311"
+msgstr "埃斯特爾"
+
+msgid "NAMES/FR312"
+msgstr "馬蒂亞斯"
+
+msgid "NAMES/FR313"
+msgstr "丹尼斯"
+
+msgid "NAMES/FR314"
+msgstr "查皮安"
+
+msgid "NAMES/FR315"
+msgstr "巴羅"
+
+msgid "NAMES/FR316"
+msgstr "巴泰勒米"
+
+msgid "NAMES/FR317"
+msgstr "布爾熱"
+
+msgid "NAMES/FR318"
+msgstr "布律諾"
+
+msgid "NAMES/FR319"
+msgstr "杜布瓦"
+
+msgid "NAMES/FR32"
+msgstr "克萊芒"
+
+msgid "NAMES/FR320"
+msgstr "卡爾萬"
+
+msgid "NAMES/FR321"
+msgstr "康帕涅"
+
+msgid "NAMES/FR322"
+msgstr "尚鬆"
+
+msgid "NAMES/FR323"
+msgstr "夏爾"
+
+msgid "NAMES/FR324"
+msgstr "謝瓦利埃"
+
+msgid "NAMES/FR325"
+msgstr "羅密歐"
+
+msgid "NAMES/FR326"
+msgstr "內斯特"
+
+msgid "NAMES/FR327"
+msgstr "查爾斯"
+
+msgid "NAMES/FR328"
+msgstr "卡西米爾"
+
+msgid "NAMES/FR329"
+msgstr "科萊特"
+
+msgid "NAMES/FR33"
+msgstr "科爾潘"
+
+msgid "NAMES/FR330"
+msgstr "布利斯"
+
+msgid "NAMES/FR331"
+msgstr "約翰神"
+
+msgid "NAMES/FR332"
+msgstr "弗朗索瓦"
+
+msgid "NAMES/FR333"
+msgstr "費雯麗"
+
+msgid "NAMES/FR334"
+msgstr "海寧"
+
+msgid "NAMES/FR335"
+msgstr "羅德里格"
+
+msgid "NAMES/FR336"
+msgstr "明德"
+
+msgid "NAMES/FR337"
+msgstr "路易斯"
+
+msgid "NAMES/FR338"
+msgstr "本篤"
+
+msgid "NAMES/FR339"
+msgstr "帕特里斯"
+
+msgid "NAMES/FR34"
+msgstr "克雷蒙"
+
+msgid "NAMES/FR340"
+msgstr "西里爾"
+
+msgid "NAMES/FR341"
+msgstr "杜邦"
+
+msgid "NAMES/FR342"
+msgstr "克萊門斯"
+
+msgid "NAMES/FR343"
+msgstr "維多利亞"
+
+msgid "NAMES/FR344"
+msgstr "迪皮伊"
+
+msgid "NAMES/FR345"
+msgstr "哈比卜"
+
+msgid "NAMES/FR346"
+msgstr "阿梅代"
+
+msgid "NAMES/FR347"
+msgstr "本傑明"
+
+msgid "NAMES/FR348"
+msgstr "休斯"
+
+msgid "NAMES/FR349"
+msgstr "桑德琳"
+
+msgid "NAMES/FR35"
+msgstr "克雷博"
+
+msgid "NAMES/FR350"
+msgstr "理查德"
+
+msgid "NAMES/FR351"
+msgstr "伊西多爾"
+
+msgid "NAMES/FR352"
+msgstr "艾琳"
+
+msgid "NAMES/FR353"
+msgstr "朱莉"
+
+msgid "NAMES/FR354"
+msgstr "斯坦尼斯拉"
+
+msgid "NAMES/FR355"
+msgstr "傑拉爾德"
+
+msgid "NAMES/FR356"
+msgstr "亞歷山大"
+
+msgid "NAMES/FR357"
+msgstr "思蒂"
+
+msgid "NAMES/FR358"
+msgstr "鮑里斯"
+
+msgid "NAMES/FR359"
+msgstr "西爾"
+
+msgid "NAMES/FR36"
+msgstr "克雷潘"
+
+msgid "NAMES/FR360"
+msgstr "福爾"
+
+msgid "NAMES/FR361"
+msgstr "吉賽爾邦"
+
+msgid "NAMES/FR362"
+msgstr "埃斯特爾"
+
+msgid "NAMES/FR363"
+msgstr "馬蒂亞斯"
+
+msgid "NAMES/FR364"
+msgstr "丹尼斯"
+
+msgid "NAMES/FR365"
+msgstr "查皮安"
+
+msgid "NAMES/FR366"
+msgstr "奧諾雷"
+
+msgid "NAMES/FR367"
+msgstr "帕斯卡"
+
+msgid "NAMES/FR368"
+msgstr "埃裡克"
+
+msgid "NAMES/FR369"
+msgstr "伊夫"
+
+msgid "NAMES/FR37"
+msgstr "鮑恩"
+
+msgid "NAMES/FR370"
+msgstr "亨利"
+
+msgid "NAMES/FR371"
+msgstr "康斯坦丁"
+
+msgid "NAMES/FR372"
+msgstr "巴圖姆"
+
+msgid "NAMES/FR373"
+msgstr "皮特魯斯"
+
+msgid "NAMES/FR374"
+msgstr "迪奧"
+
+msgid "NAMES/FR375"
+msgstr "帕克"
+
+msgid "NAMES/FR376"
+msgstr "密特朗"
+
+msgid "NAMES/FR377"
+msgstr "薩科奇"
+
+msgid "NAMES/FR378"
+msgstr "笛卡爾"
+
+msgid "NAMES/FR379"
+msgstr "梅耶"
+
+msgid "NAMES/FR38"
+msgstr "居里"
+
+msgid "NAMES/FR380"
+msgstr "貝巴夫"
+
+msgid "NAMES/FR381"
+msgstr "迪翁"
+
+msgid "NAMES/FR382"
+msgstr "波拿巴"
+
+msgid "NAMES/FR383"
+msgstr "方丹"
+
+msgid "NAMES/FR384"
+msgstr "巴爾扎克"
+
+msgid "NAMES/FR385"
+msgstr "埃米爾"
+
+msgid "NAMES/FR386"
+msgstr "迪迪埃"
+
+msgid "NAMES/FR387"
+msgstr "阿森鬆"
+
+msgid "NAMES/FR388"
+msgstr "貝朗熱"
+
+msgid "NAMES/FR389"
+msgstr "奧古斯丁"
+
+msgid "NAMES/FR39"
+msgstr "居維葉"
+
+msgid "NAMES/FR390"
+msgstr "費迪南德"
+
+msgid "NAMES/FR391"
+msgstr "賈斯汀"
+
+msgid "NAMES/FR392"
+msgstr "凱文"
+
+msgid "NAMES/FR393"
+msgstr "吉爾伯特"
+
+msgid "NAMES/FR394"
+msgstr "梅達德魯韋"
+
+msgid "NAMES/FR395"
+msgstr "富尼耶"
+
+msgid "NAMES/FR396"
+msgstr "黛安"
+
+msgid "NAMES/FR397"
+msgstr "蘭德里"
+
+msgid "NAMES/FR398"
+msgstr "巴拿巴"
+
+msgid "NAMES/FR399"
+msgstr "蓋伊"
+
+msgid "NAMES/FR4"
+msgstr "雷蒙"
+
+msgid "NAMES/FR40"
+msgstr "達索"
+
+msgid "NAMES/FR400"
+msgstr "安東尼"
+
+msgid "NAMES/FR401"
+msgstr "以利沙"
+
+msgid "NAMES/FR402"
+msgstr "科爾曼"
+
+msgid "NAMES/FR403"
+msgstr "巴塞洛繆"
+
+msgid "NAMES/FR404"
+msgstr "路易斯"
+
+msgid "NAMES/FR405"
+msgstr "娜塔莎"
+
+msgid "NAMES/FR406"
+msgstr "莫尼克"
+
+msgid "NAMES/FR407"
+msgstr "薩賓"
+
+msgid "NAMES/FR408"
+msgstr "艾蒂安"
+
+msgid "NAMES/FR409"
+msgstr "西爾韋斯特"
+
+msgid "NAMES/FR41"
+msgstr "德彪西"
+
+msgid "NAMES/FR410"
+msgstr "明德"
+
+msgid "NAMES/FR411"
+msgstr "路易斯"
+
+msgid "NAMES/FR412"
+msgstr "本篤"
+
+msgid "NAMES/FR413"
+msgstr "洛朗"
+
+msgid "NAMES/FR414"
+msgstr "拉撒路"
+
+msgid "NAMES/FR415"
+msgstr "約翰神"
+
+msgid "NAMES/FR416"
+msgstr "弗朗索瓦"
+
+msgid "NAMES/FR417"
+msgstr "費雯麗"
+
+msgid "NAMES/FR418"
+msgstr "海寧"
+
+msgid "NAMES/FR419"
+msgstr "羅德里格"
+
+msgid "NAMES/FR42"
+msgstr "戴高樂"
+
+msgid "NAMES/FR420"
+msgstr "阿爾文"
+
+msgid "NAMES/FR421"
+msgstr "格奧爾格"
+
+msgid "NAMES/FR422"
+msgstr "本篤"
+
+msgid "NAMES/FR423"
+msgstr "路易"
+
+msgid "NAMES/FR424"
+msgstr "西里爾"
+
+msgid "NAMES/FR425"
+msgstr "約瑟夫"
+
+msgid "NAMES/FR426"
+msgstr "克萊門斯"
+
+msgid "NAMES/FR427"
+msgstr "維多利亞"
+
+msgid "NAMES/FR428"
+msgstr "拉里薩"
+
+msgid "NAMES/FR429"
+msgstr "哈比卜"
+
+msgid "NAMES/FR43"
+msgstr "徳洛爾姆"
+
+msgid "NAMES/FR430"
+msgstr "阿梅代"
+
+msgid "NAMES/FR431"
+msgstr "本傑明"
+
+msgid "NAMES/FR432"
+msgstr "休斯"
+
+msgid "NAMES/FR433"
+msgstr "桑德琳"
+
+msgid "NAMES/FR434"
+msgstr "理查德"
+
+msgid "NAMES/FR435"
+msgstr "伊西多爾"
+
+msgid "NAMES/FR436"
+msgstr "艾琳"
+
+msgid "NAMES/FR437"
+msgstr "朱莉"
+
+msgid "NAMES/FR438"
+msgstr "馬西斯"
+
+msgid "NAMES/FR439"
+msgstr "井田"
+
+msgid "NAMES/FR44"
+msgstr "但尼"
+
+msgid "NAMES/FR440"
+msgstr "亞歷山大"
+
+msgid "NAMES/FR441"
+msgstr "思蒂"
+
+msgid "NAMES/FR442"
+msgstr "鮑里斯"
+
+msgid "NAMES/FR443"
+msgstr "西爾"
+
+msgid "NAMES/FR444"
+msgstr "朱迪思"
+
+msgid "NAMES/FR445"
+msgstr "吉賽爾邦"
+
+msgid "NAMES/FR446"
+msgstr "埃斯特爾"
+
+msgid "NAMES/FR447"
+msgstr "馬蒂亞斯"
+
+msgid "NAMES/FR448"
+msgstr "丹尼斯"
+
+msgid "NAMES/FR449"
+msgstr "查皮安"
+
+msgid "NAMES/FR45"
+msgstr "德斯坦"
+
+msgid "NAMES/FR450"
+msgstr "巴羅"
+
+msgid "NAMES/FR451"
+msgstr "巴泰勒米"
+
+msgid "NAMES/FR452"
+msgstr "布爾熱"
+
+msgid "NAMES/FR453"
+msgstr "納澤爾"
+
+msgid "NAMES/FR454"
+msgstr "波旁"
+
+msgid "NAMES/FR455"
+msgstr "卡爾萬"
+
+msgid "NAMES/FR456"
+msgstr "康帕涅"
+
+msgid "NAMES/FR457"
+msgstr "尚鬆"
+
+msgid "NAMES/FR458"
+msgstr "夏爾"
+
+msgid "NAMES/FR459"
+msgstr "謝瓦利埃"
+
+msgid "NAMES/FR46"
+msgstr "迪馬"
+
+msgid "NAMES/FR460"
+msgstr "羅密歐"
+
+msgid "NAMES/FR461"
+msgstr "介郎"
+
+msgid "NAMES/FR462"
+msgstr "查爾斯"
+
+msgid "NAMES/FR463"
+msgstr "卡西米爾"
+
+msgid "NAMES/FR464"
+msgstr "科萊特"
+
+msgid "NAMES/FR465"
+msgstr "布利斯"
+
+msgid "NAMES/FR466"
+msgstr "約翰神"
+
+msgid "NAMES/FR467"
+msgstr "保羅"
+
+msgid "NAMES/FR468"
+msgstr "費雯麗"
+
+msgid "NAMES/FR469"
+msgstr "佩蘭"
+
+msgid "NAMES/FR47"
+msgstr "仲馬"
+
+msgid "NAMES/FR470"
+msgstr "羅德里格"
+
+msgid "NAMES/FR471"
+msgstr "明德"
+
+msgid "NAMES/FR472"
+msgstr "路易斯"
+
+msgid "NAMES/FR473"
+msgstr "本篤"
+
+msgid "NAMES/FR474"
+msgstr "帕特里斯"
+
+msgid "NAMES/FR475"
+msgstr "西里爾"
+
+msgid "NAMES/FR476"
+msgstr "約瑟夫"
+
+msgid "NAMES/FR477"
+msgstr "克萊門斯"
+
+msgid "NAMES/FR478"
+msgstr "維多利亞"
+
+msgid "NAMES/FR479"
+msgstr "拉里薩"
+
+msgid "NAMES/FR48"
+msgstr "杜邦"
+
+msgid "NAMES/FR480"
+msgstr "龐斯"
+
+msgid "NAMES/FR481"
+msgstr "阿梅代"
+
+msgid "NAMES/FR482"
+msgstr "本傑明"
+
+msgid "NAMES/FR483"
+msgstr "休斯"
+
+msgid "NAMES/FR484"
+msgstr "桑德琳"
+
+msgid "NAMES/FR485"
+msgstr "理查德"
+
+msgid "NAMES/FR486"
+msgstr "伊西多爾"
+
+msgid "NAMES/FR487"
+msgstr "裡吉斯"
+
+msgid "NAMES/FR488"
+msgstr "勒內"
+
+msgid "NAMES/FR489"
+msgstr "艾琳"
+
+msgid "NAMES/FR49"
+msgstr "迪普雷"
+
+msgid "NAMES/FR490"
+msgstr "朱莉"
+
+msgid "NAMES/FR491"
+msgstr "斯坦尼斯拉"
+
+msgid "NAMES/FR492"
+msgstr "井田"
+
+msgid "NAMES/FR493"
+msgstr "亞歷山大"
+
+msgid "NAMES/FR494"
+msgstr "思蒂"
+
+msgid "NAMES/FR495"
+msgstr "鮑里斯"
+
+msgid "NAMES/FR496"
+msgstr "西爾"
+
+msgid "NAMES/FR497"
+msgstr "朱迪思"
+
+msgid "NAMES/FR498"
+msgstr "吉賽爾邦"
+
+msgid "NAMES/FR499"
+msgstr "埃斯特爾"
+
+msgid "NAMES/FR5"
+msgstr "阿爾勒"
+
+msgid "NAMES/FR50"
+msgstr "愛德華"
+
+msgid "NAMES/FR500"
+msgstr "西蒙"
+
+msgid "NAMES/FR501"
+msgstr "丹尼斯"
+
+msgid "NAMES/FR502"
+msgstr "查皮安"
+
+msgid "NAMES/FR503"
+msgstr "巴羅"
+
+msgid "NAMES/FR504"
+msgstr "巴泰勒米"
+
+msgid "NAMES/FR505"
+msgstr "布爾熱"
+
+msgid "NAMES/FR506"
+msgstr "布律諾"
+
+msgid "NAMES/FR507"
+msgstr "波旁"
+
+msgid "NAMES/FR508"
+msgstr "蒂埃裡"
+
+msgid "NAMES/FR509"
+msgstr "康帕涅"
+
+msgid "NAMES/FR51"
+msgstr "艾蒂安"
+
+msgid "NAMES/FR510"
+msgstr "尚鬆"
+
+msgid "NAMES/FR511"
+msgstr "夏爾"
+
+msgid "NAMES/FR512"
+msgstr "謝瓦利埃"
+
+msgid "NAMES/FR513"
+msgstr "羅密歐"
+
+msgid "NAMES/FR514"
+msgstr "內斯特"
+
+msgid "NAMES/FR515"
+msgstr "查爾斯"
+
+msgid "NAMES/FR516"
+msgstr "卡西米爾"
+
+msgid "NAMES/FR517"
+msgstr "科萊特"
+
+msgid "NAMES/FR518"
+msgstr "布利斯"
+
+msgid "NAMES/FR519"
+msgstr "圖桑"
+
+msgid "NAMES/FR52"
+msgstr "歐仁"
+
+msgid "NAMES/FR520"
+msgstr "弗朗索瓦"
+
+msgid "NAMES/FR521"
+msgstr "費雯麗"
+
+msgid "NAMES/FR522"
+msgstr "海寧"
+
+msgid "NAMES/FR523"
+msgstr "羅德里格"
+
+msgid "NAMES/FR524"
+msgstr "明德"
+
+msgid "NAMES/FR525"
+msgstr "路易斯"
+
+msgid "NAMES/FR526"
+msgstr "本篤"
+
+msgid "NAMES/FR527"
+msgstr "帕特里斯"
+
+msgid "NAMES/FR528"
+msgstr "西里爾"
+
+msgid "NAMES/FR529"
+msgstr "約瑟夫"
+
+msgid "NAMES/FR53"
+msgstr "歐仁尼"
+
+msgid "NAMES/FR530"
+msgstr "克萊門斯"
+
+msgid "NAMES/FR531"
+msgstr "維多利亞"
+
+msgid "NAMES/FR532"
+msgstr "阿里斯蒂德"
+
+msgid "NAMES/FR533"
+msgstr "哈比卜"
+
+msgid "NAMES/FR534"
+msgstr "阿梅代"
+
+msgid "NAMES/FR535"
+msgstr "本傑明"
+
+msgid "NAMES/FR536"
+msgstr "休斯"
+
+msgid "NAMES/FR537"
+msgstr "桑德琳"
+
+msgid "NAMES/FR538"
+msgstr "理查德"
+
+msgid "NAMES/FR539"
+msgstr "伊西多爾"
+
+msgid "NAMES/FR54"
+msgstr "法比尤斯"
+
+msgid "NAMES/FR540"
+msgstr "阿蘭"
+
+msgid "NAMES/FR541"
+msgstr "亞當"
+
+msgid "NAMES/FR542"
+msgstr "阿爾貝"
+
+msgid "NAMES/FR543"
+msgstr "安德烈"
+
+msgid "NAMES/FR544"
+msgstr "阿爾勒"
+
+msgid "NAMES/FR545"
+msgstr "巴凱"
+
+msgid "NAMES/FR546"
+msgstr "安託萬"
+
+msgid "NAMES/FR547"
+msgstr "巴蒂斯特"
+
+msgid "NAMES/FR548"
+msgstr "博蒙"
+
+msgid "NAMES/FR549"
+msgstr "貝安"
+
+msgid "NAMES/FR55"
+msgstr "拉斯特爾"
+
+msgid "NAMES/FR550"
+msgstr "博杜安"
+
+msgid "NAMES/FR551"
+msgstr "貝當古"
+
+msgid "NAMES/FR552"
+msgstr "比耶爾"
+
+msgid "NAMES/FR553"
+msgstr "比鬆"
+
+msgid "NAMES/FR554"
+msgstr "伯納"
+
+msgid "NAMES/FR555"
+msgstr "布歇"
+
+msgid "NAMES/FR556"
+msgstr "蘭伯特"
+
+msgid "NAMES/FR557"
+msgstr "巴爾"
+
+msgid "NAMES/FR558"
+msgstr "巴羅"
+
+msgid "NAMES/FR559"
+msgstr "巴泰勒米"
+
+msgid "NAMES/FR56"
+msgstr "富爾"
+
+msgid "NAMES/FR560"
+msgstr "布爾熱"
+
+msgid "NAMES/FR561"
+msgstr "布律諾"
+
+msgid "NAMES/FR562"
+msgstr "波旁"
+
+msgid "NAMES/FR563"
+msgstr "卡爾萬"
+
+msgid "NAMES/FR564"
+msgstr "康帕涅"
+
+msgid "NAMES/FR565"
+msgstr "尚鬆"
+
+msgid "NAMES/FR566"
+msgstr "夏爾"
+
+msgid "NAMES/FR567"
+msgstr "謝瓦利埃"
+
+msgid "NAMES/FR568"
+msgstr "謝拉爾"
+
+msgid "NAMES/FR569"
+msgstr "希拉剋"
+
+msgid "NAMES/FR57"
+msgstr "菲榮"
+
+msgid "NAMES/FR570"
+msgstr "克洛德"
+
+msgid "NAMES/FR571"
+msgstr "克萊芒"
+
+msgid "NAMES/FR572"
+msgstr "科爾潘"
+
+msgid "NAMES/FR573"
+msgstr "克雷蒙"
+
+msgid "NAMES/FR574"
+msgstr "克雷博"
+
+msgid "NAMES/FR575"
+msgstr "克雷潘"
+
+msgid "NAMES/FR576"
+msgstr "鮑恩"
+
+msgid "NAMES/FR577"
+msgstr "居里"
+
+msgid "NAMES/FR578"
+msgstr "居維葉"
+
+msgid "NAMES/FR579"
+msgstr "達索"
+
+msgid "NAMES/FR58"
+msgstr "弗朗索瓦"
+
+msgid "NAMES/FR580"
+msgstr "德彪西"
+
+msgid "NAMES/FR581"
+msgstr "戴高樂"
+
+msgid "NAMES/FR582"
+msgstr "徳洛爾姆"
+
+msgid "NAMES/FR583"
+msgstr "但尼"
+
+msgid "NAMES/FR584"
+msgstr "德斯坦"
+
+msgid "NAMES/FR585"
+msgstr "迪馬"
+
+msgid "NAMES/FR586"
+msgstr "仲馬"
+
+msgid "NAMES/FR587"
+msgstr "杜邦"
+
+msgid "NAMES/FR588"
+msgstr "迪普雷"
+
+msgid "NAMES/FR589"
+msgstr "愛德華"
+
+msgid "NAMES/FR59"
+msgstr "弗羅芒"
+
+msgid "NAMES/FR590"
+msgstr "艾蒂安"
+
+msgid "NAMES/FR591"
+msgstr "歐仁"
+
+msgid "NAMES/FR592"
+msgstr "歐仁尼"
+
+msgid "NAMES/FR593"
+msgstr "法比尤斯"
+
+msgid "NAMES/FR594"
+msgstr "拉斯特爾"
+
+msgid "NAMES/FR595"
+msgstr "富爾"
+
+msgid "NAMES/FR596"
+msgstr "菲榮"
+
+msgid "NAMES/FR597"
+msgstr "弗朗索瓦"
+
+msgid "NAMES/FR598"
+msgstr "弗羅芒"
+
+msgid "NAMES/FR599"
+msgstr "加斯帕爾"
+
+msgid "NAMES/FR6"
+msgstr "巴凱"
+
+msgid "NAMES/FR60"
+msgstr "加斯帕爾"
+
+msgid "NAMES/FR600"
+msgstr "喬治"
+
+msgid "NAMES/FR601"
+msgstr "古羅"
+
+msgid "NAMES/FR602"
+msgstr "居伊"
+
+msgid "NAMES/FR603"
+msgstr "貝克"
+
+msgid "NAMES/FR604"
+msgstr "亨利"
+
+msgid "NAMES/FR605"
+msgstr "埃爾維"
+
+msgid "NAMES/FR606"
+msgstr "於貝爾"
+
+msgid "NAMES/FR607"
+msgstr "雨果"
+
+msgid "NAMES/FR608"
+msgstr "雅克"
+
+msgid "NAMES/FR609"
+msgstr "讓"
+
+msgid "NAMES/FR61"
+msgstr "喬治"
+
+msgid "NAMES/FR610"
+msgstr "熱羅姆"
+
+msgid "NAMES/FR611"
+msgstr "約瑟夫"
+
+msgid "NAMES/FR612"
+msgstr "朱爾"
+
+msgid "NAMES/FR613"
+msgstr "于勒"
+
+msgid "NAMES/FR614"
+msgstr "凱澤"
+
+msgid "NAMES/FR615"
+msgstr "凱格雷斯"
+
+msgid "NAMES/FR616"
+msgstr "凱什蘭"
+
+msgid "NAMES/FR617"
+msgstr "屈爾特"
+
+msgid "NAMES/FR618"
+msgstr "博郎"
+
+msgid "NAMES/FR619"
+msgstr "列斐伏爾"
+
+msgid "NAMES/FR62"
+msgstr "古羅"
+
+msgid "NAMES/FR620"
+msgstr "路易"
+
+msgid "NAMES/FR621"
+msgstr "呂西安"
+
+msgid "NAMES/FR622"
+msgstr "馬埃"
+
+msgid "NAMES/FR623"
+msgstr "馬塞爾"
+
+msgid "NAMES/FR624"
+msgstr "莫里斯"
+
+msgid "NAMES/FR625"
+msgstr "馬克西米利安"
+
+msgid "NAMES/FR626"
+msgstr "米歇爾"
+
+msgid "NAMES/FR627"
+msgstr "巴拿巴"
+
+msgid "NAMES/FR628"
+msgstr "莫里哀"
+
+msgid "NAMES/FR629"
+msgstr "莫尼克"
+
+msgid "NAMES/FR63"
+msgstr "居伊"
+
+msgid "NAMES/FR630"
+msgstr "孟德斯鳩"
+
+msgid "NAMES/FR631"
+msgstr "拿破崙"
+
+msgid "NAMES/FR632"
+msgstr "尼古拉"
+
+msgid "NAMES/FR633"
+msgstr "奧貝蘭"
+
+msgid "NAMES/FR634"
+msgstr "奧內"
+
+msgid "NAMES/FR635"
+msgstr "奧內伊"
+
+msgid "NAMES/FR636"
+msgstr "保羅"
+
+msgid "NAMES/FR637"
+msgstr "保爾"
+
+msgid "NAMES/FR638"
+msgstr "皮埃爾"
+
+msgid "NAMES/FR639"
+msgstr "卡特勒梅爾"
+
+msgid "NAMES/FR64"
+msgstr "貝克"
+
+msgid "NAMES/FR640"
+msgstr "凱拉爾"
+
+msgid "NAMES/FR641"
+msgstr "布蘭查德"
+
+msgid "NAMES/FR642"
+msgstr "基內"
+
+msgid "NAMES/FR643"
+msgstr "雷蒙"
+
+msgid "NAMES/FR644"
+msgstr "鮑德溫"
+
+msgid "NAMES/FR645"
+msgstr "布洛赫"
+
+msgid "NAMES/FR646"
+msgstr "羅貝爾"
+
+msgid "NAMES/FR647"
+msgstr "羅歇"
+
+msgid "NAMES/FR648"
+msgstr "羅郎"
+
+msgid "NAMES/FR649"
+msgstr "羅梭"
+
+msgid "NAMES/FR65"
+msgstr "亨利"
+
+msgid "NAMES/FR650"
+msgstr "塞爾日"
+
+msgid "NAMES/FR651"
+msgstr "西蒙"
+
+msgid "NAMES/FR652"
+msgstr "伯納德"
+
+msgid "NAMES/FR653"
+msgstr "泰而諾"
+
+msgid "NAMES/FR654"
+msgstr "蒂博"
+
+msgid "NAMES/FR655"
+msgstr "蒂埃爾"
+
+msgid "NAMES/FR656"
+msgstr "於爾班"
+
+msgid "NAMES/FR657"
+msgstr "樊尚"
+
+msgid "NAMES/FR658"
+msgstr "韋騰巴赫"
+
+msgid "NAMES/FR659"
+msgstr "伏爾泰"
+
+msgid "NAMES/FR66"
+msgstr "埃爾維"
+
+msgid "NAMES/FR660"
+msgstr "沃熱"
+
+msgid "NAMES/FR661"
+msgstr "伊夫"
+
+msgid "NAMES/FR662"
+msgstr "澤代"
+
+msgid "NAMES/FR663"
+msgstr "佐拉"
+
+msgid "NAMES/FR664"
+msgstr "左拉"
+
+msgid "NAMES/FR665"
+msgstr "巴西萊"
+
+msgid "NAMES/FR666"
+msgstr "洛薩"
+
+msgid "NAMES/FR667"
+msgstr "阿利克斯"
+
+msgid "NAMES/FR668"
+msgstr "波林"
+
+msgid "NAMES/FR669"
+msgstr "雷米"
+
+msgid "NAMES/FR67"
+msgstr "於貝爾"
+
+msgid "NAMES/FR670"
+msgstr "普里斯卡馬"
+
+msgid "NAMES/FR671"
+msgstr "馬呂斯"
+
+msgid "NAMES/FR672"
+msgstr "塞巴斯蒂安"
+
+msgid "NAMES/FR673"
+msgstr "艾格尼絲"
+
+msgid "NAMES/FR674"
+msgstr "文森特"
+
+msgid "NAMES/FR675"
+msgstr "巴納德"
+
+msgid "NAMES/FR676"
+msgstr "安吉拉"
+
+msgid "NAMES/FR677"
+msgstr "託馬斯阿奎那"
+
+msgid "NAMES/FR678"
+msgstr "吉爾達斯"
+
+msgid "NAMES/FR679"
+msgstr "馬丁"
+
+msgid "NAMES/FR68"
+msgstr "雨果"
+
+msgid "NAMES/FR680"
+msgstr "馬塞勒"
+
+msgid "NAMES/FR681"
+msgstr "布萊斯"
+
+msgid "NAMES/FR682"
+msgstr "維羅尼卡"
+
+msgid "NAMES/FR683"
+msgstr "阿加莎"
+
+msgid "NAMES/FR684"
+msgstr "加斯東"
+
+msgid "NAMES/FR685"
+msgstr "歐仁妮"
+
+msgid "NAMES/FR686"
+msgstr "傑奎琳"
+
+msgid "NAMES/FR687"
+msgstr "阿爾諾"
+
+msgid "NAMES/FR688"
+msgstr "盧爾德"
+
+msgid "NAMES/FR689"
+msgstr "費利克斯"
+
+msgid "NAMES/FR69"
+msgstr "雅克"
+
+msgid "NAMES/FR690"
+msgstr "曼弗雷德"
+
+msgid "NAMES/FR691"
+msgstr "瓦倫丁"
+
+msgid "NAMES/FR692"
+msgstr "克勞德"
+
+msgid "NAMES/FR693"
+msgstr "朱利安"
+
+msgid "NAMES/FR694"
+msgstr "瑪麗"
+
+msgid "NAMES/FR695"
+msgstr "羅希爾"
+
+msgid "NAMES/FR696"
+msgstr "加賓"
+
+msgid "NAMES/FR697"
+msgstr "艾梅"
+
+msgid "NAMES/FR698"
+msgstr "達米安"
+
+msgid "NAMES/FR699"
+msgstr "布倫特"
+
+msgid "NAMES/FR7"
+msgstr "斯圖爾特"
+
+msgid "NAMES/FR70"
+msgstr "讓"
+
+msgid "NAMES/FR700"
+msgstr "伊莎貝爾"
+
+msgid "NAMES/FR701"
+msgstr "拉撒路"
+
+msgid "NAMES/FR702"
+msgstr "莫德斯特"
+
+msgid "NAMES/FR703"
+msgstr "羅密歐"
+
+msgid "NAMES/FR704"
+msgstr "阿梅代"
+
+msgid "NAMES/FR705"
+msgstr "查爾斯"
+
+msgid "NAMES/FR706"
+msgstr "卡西米爾"
+
+msgid "NAMES/FR707"
+msgstr "科萊特"
+
+msgid "NAMES/FR708"
+msgstr "布利斯"
+
+msgid "NAMES/FR709"
+msgstr "約翰神"
+
+msgid "NAMES/FR71"
+msgstr "熱羅姆"
+
+msgid "NAMES/FR710"
+msgstr "弗朗索瓦"
+
+msgid "NAMES/FR711"
+msgstr "費雯麗"
+
+msgid "NAMES/FR712"
+msgstr "海寧"
+
+msgid "NAMES/FR713"
+msgstr "羅德里格"
+
+msgid "NAMES/FR714"
+msgstr "明德"
+
+msgid "NAMES/FR715"
+msgstr "所羅門"
+
+msgid "NAMES/FR716"
+msgstr "本篤"
+
+msgid "NAMES/FR717"
+msgstr "帕特里斯"
+
+msgid "NAMES/FR718"
+msgstr "西里爾"
+
+msgid "NAMES/FR719"
+msgstr "約瑟夫"
+
+msgid "NAMES/FR72"
+msgstr "約瑟夫"
+
+msgid "NAMES/FR720"
+msgstr "克萊門斯"
+
+msgid "NAMES/FR721"
+msgstr "維多利亞"
+
+msgid "NAMES/FR722"
+msgstr "拉里薩"
+
+msgid "NAMES/FR723"
+msgstr "哈比卜"
+
+msgid "NAMES/FR724"
+msgstr "阿梅代"
+
+msgid "NAMES/FR725"
+msgstr "本傑明"
+
+msgid "NAMES/FR726"
+msgstr "休斯"
+
+msgid "NAMES/FR727"
+msgstr "桑德琳"
+
+msgid "NAMES/FR728"
+msgstr "梅西埃"
+
+msgid "NAMES/FR729"
+msgstr "伊西多爾"
+
+msgid "NAMES/FR73"
+msgstr "朱爾"
+
+msgid "NAMES/FR730"
+msgstr "艾琳"
+
+msgid "NAMES/FR731"
+msgstr "朱莉"
+
+msgid "NAMES/FR732"
+msgstr "斯坦尼斯拉"
+
+msgid "NAMES/FR733"
+msgstr "井田"
+
+msgid "NAMES/FR734"
+msgstr "亞歷山大"
+
+msgid "NAMES/FR735"
+msgstr "思蒂"
+
+msgid "NAMES/FR736"
+msgstr "鮑里斯"
+
+msgid "NAMES/FR737"
+msgstr "西爾"
+
+msgid "NAMES/FR738"
+msgstr "朱迪思"
+
+msgid "NAMES/FR739"
+msgstr "西爾萬"
+
+msgid "NAMES/FR74"
+msgstr "于勒"
+
+msgid "NAMES/FR740"
+msgstr "埃斯特爾"
+
+msgid "NAMES/FR741"
+msgstr "馬蒂亞斯"
+
+msgid "NAMES/FR742"
+msgstr "丹尼斯"
+
+msgid "NAMES/FR743"
+msgstr "查皮安"
+
+msgid "NAMES/FR744"
+msgstr "奧諾雷"
+
+msgid "NAMES/FR745"
+msgstr "帕斯卡"
+
+msgid "NAMES/FR746"
+msgstr "埃裡克"
+
+msgid "NAMES/FR747"
+msgstr "伊夫"
+
+msgid "NAMES/FR748"
+msgstr "貝爾納丁"
+
+msgid "NAMES/FR749"
+msgstr "康斯坦丁"
+
+msgid "NAMES/FR75"
+msgstr "凱澤"
+
+msgid "NAMES/FR750"
+msgstr "巴圖姆"
+
+msgid "NAMES/FR751"
+msgstr "皮特魯斯"
+
+msgid "NAMES/FR752"
+msgstr "迪奧"
+
+msgid "NAMES/FR753"
+msgstr "帕克"
+
+msgid "NAMES/FR754"
+msgstr "密特朗"
+
+msgid "NAMES/FR755"
+msgstr "薩科奇"
+
+msgid "NAMES/FR756"
+msgstr "笛卡爾"
+
+msgid "NAMES/FR757"
+msgstr "梅耶"
+
+msgid "NAMES/FR758"
+msgstr "貝巴夫"
+
+msgid "NAMES/FR759"
+msgstr "迪翁"
+
+msgid "NAMES/FR76"
+msgstr "凱格雷斯"
+
+msgid "NAMES/FR760"
+msgstr "波拿巴"
+
+msgid "NAMES/FR761"
+msgstr "莫雷爾"
+
+msgid "NAMES/FR762"
+msgstr "巴爾扎克"
+
+msgid "NAMES/FR763"
+msgstr "埃米爾"
+
+msgid "NAMES/FR764"
+msgstr "迪迪埃"
+
+msgid "NAMES/FR765"
+msgstr "阿森鬆"
+
+msgid "NAMES/FR766"
+msgstr "貝朗熱"
+
+msgid "NAMES/FR767"
+msgstr "奧古斯丁"
+
+msgid "NAMES/FR768"
+msgstr "穆蘭"
+
+msgid "NAMES/FR769"
+msgstr "賈斯汀"
+
+msgid "NAMES/FR77"
+msgstr "凱什蘭"
+
+msgid "NAMES/FR770"
+msgstr "凱文"
+
+msgid "NAMES/FR771"
+msgstr "吉爾伯特"
+
+msgid "NAMES/FR772"
+msgstr "梅達德魯韋"
+
+msgid "NAMES/FR773"
+msgstr "桑迪弗"
+
+msgid "NAMES/FR774"
+msgstr "黛安"
+
+msgid "NAMES/FR775"
+msgstr "蘭德里"
+
+msgid "NAMES/FR776"
+msgstr "巴拿巴"
+
+msgid "NAMES/FR777"
+msgstr "蓋伊"
+
+msgid "NAMES/FR778"
+msgstr "安東尼"
+
+msgid "NAMES/FR779"
+msgstr "查爾斯"
+
+msgid "NAMES/FR78"
+msgstr "屈爾特"
+
+msgid "NAMES/FR780"
+msgstr "科爾曼"
+
+msgid "NAMES/FR781"
+msgstr "傑曼"
+
+msgid "NAMES/FR782"
+msgstr "裡吉斯"
+
+msgid "NAMES/FR783"
+msgstr "埃爾韋"
+
+msgid "NAMES/FR784"
+msgstr "阿爾邦"
+
+msgid "NAMES/FR785"
+msgstr "普羅斯珀"
+
+msgid "NAMES/FR786"
+msgstr "託馬斯"
+
+msgid "NAMES/FR787"
+msgstr "弗洛朗"
+
+msgid "NAMES/FR788"
+msgstr "安東尼"
+
+msgid "NAMES/FR789"
+msgstr "馬裡埃特"
+
+msgid "NAMES/FR79"
+msgstr "博郎"
+
+msgid "NAMES/FR790"
+msgstr "拉烏爾"
+
+msgid "NAMES/FR791"
+msgstr "烏爾裡希"
+
+msgid "NAMES/FR792"
+msgstr "貝努瓦"
+
+msgid "NAMES/FR793"
+msgstr "奧利維爾"
+
+msgid "NAMES/FR794"
+msgstr "唐納德"
+
+msgid "NAMES/FR795"
+msgstr "弗雷德裡克"
+
+msgid "NAMES/FR796"
+msgstr "阿瑟"
+
+msgid "NAMES/FR797"
+msgstr "維克託"
+
+msgid "NAMES/FR798"
+msgstr "阿方斯"
+
+msgid "NAMES/FR799"
+msgstr "朱利安"
+
+msgid "NAMES/FR8"
+msgstr "巴蒂斯特"
+
+msgid "NAMES/FR80"
+msgstr "貝瑞"
+
+msgid "NAMES/FR800"
+msgstr "丘位元"
+
+msgid "NAMES/FR801"
+msgstr "亞伯"
+
+msgid "NAMES/FR802"
+msgstr "克萊爾"
+
+msgid "NAMES/FR803"
+msgstr "克拉利瑟"
+
+msgid "NAMES/FR804"
+msgstr "薩特菲特"
+
+msgid "NAMES/FR805"
+msgstr "克里斯托弗"
+
+msgid "NAMES/FR806"
+msgstr "法布里奇奧"
+
+msgid "NAMES/FR807"
+msgstr "巴塞洛繆"
+
+msgid "NAMES/FR808"
+msgstr "路易斯"
+
+msgid "NAMES/FR809"
+msgstr "娜塔莎"
+
+msgid "NAMES/FR81"
+msgstr "路易"
+
+msgid "NAMES/FR810"
+msgstr "莫尼克"
+
+msgid "NAMES/FR811"
+msgstr "薩賓"
+
+msgid "NAMES/FR812"
+msgstr "艾蒂安"
+
+msgid "NAMES/FR813"
+msgstr "西爾韋斯特"
+
+msgid "NAMES/FR814"
+msgstr "明德"
+
+msgid "NAMES/FR815"
+msgstr "路易斯"
+
+msgid "NAMES/FR816"
+msgstr "本篤"
+
+msgid "NAMES/FR817"
+msgstr "帕特里斯"
+
+msgid "NAMES/FR818"
+msgstr "布利斯"
+
+msgid "NAMES/FR819"
+msgstr "約翰神"
+
+msgid "NAMES/FR82"
+msgstr "呂西安"
+
+msgid "NAMES/FR820"
+msgstr "弗朗索瓦"
+
+msgid "NAMES/FR821"
+msgstr "費雯麗"
+
+msgid "NAMES/FR822"
+msgstr "海寧"
+
+msgid "NAMES/FR823"
+msgstr "羅德里格"
+
+msgid "NAMES/FR824"
+msgstr "明德"
+
+msgid "NAMES/FR825"
+msgstr "路易斯"
+
+msgid "NAMES/FR826"
+msgstr "狄奧多羅斯"
+
+msgid "NAMES/FR827"
+msgstr "帕特里斯"
+
+msgid "NAMES/FR828"
+msgstr "西里爾"
+
+msgid "NAMES/FR829"
+msgstr "約瑟夫"
+
+msgid "NAMES/FR83"
+msgstr "馬埃"
+
+msgid "NAMES/FR830"
+msgstr "克萊門斯"
+
+msgid "NAMES/FR831"
+msgstr "維多利亞"
+
+msgid "NAMES/FR832"
+msgstr "拉里薩"
+
+msgid "NAMES/FR833"
+msgstr "哈比卜"
+
+msgid "NAMES/FR834"
+msgstr "阿梅代"
+
+msgid "NAMES/FR835"
+msgstr "本傑明"
+
+msgid "NAMES/FR836"
+msgstr "休斯"
+
+msgid "NAMES/FR837"
+msgstr "桑德琳"
+
+msgid "NAMES/FR838"
+msgstr "理查德"
+
+msgid "NAMES/FR839"
+msgstr "伊西多爾"
+
+msgid "NAMES/FR84"
+msgstr "馬塞爾"
+
+msgid "NAMES/FR840"
+msgstr "艾琳"
+
+msgid "NAMES/FR841"
+msgstr "朱莉"
+
+msgid "NAMES/FR842"
+msgstr "斯坦尼斯拉"
+
+msgid "NAMES/FR843"
+msgstr "井田"
+
+msgid "NAMES/FR844"
+msgstr "亞歷山大"
+
+msgid "NAMES/FR845"
+msgstr "思蒂"
+
+msgid "NAMES/FR846"
+msgstr "鮑里斯"
+
+msgid "NAMES/FR847"
+msgstr "西爾"
+
+msgid "NAMES/FR848"
+msgstr "朱迪思"
+
+msgid "NAMES/FR849"
+msgstr "吉賽爾邦"
+
+msgid "NAMES/FR85"
+msgstr "莫里斯"
+
+msgid "NAMES/FR850"
+msgstr "埃斯特爾"
+
+msgid "NAMES/FR851"
+msgstr "馬蒂亞斯"
+
+msgid "NAMES/FR852"
+msgstr "丹尼斯"
+
+msgid "NAMES/FR853"
+msgstr "查皮安"
+
+msgid "NAMES/FR854"
+msgstr "巴羅"
+
+msgid "NAMES/FR855"
+msgstr "巴泰勒米"
+
+msgid "NAMES/FR856"
+msgstr "布爾熱"
+
+msgid "NAMES/FR857"
+msgstr "布律諾"
+
+msgid "NAMES/FR858"
+msgstr "波旁"
+
+msgid "NAMES/FR859"
+msgstr "卡爾萬"
+
+msgid "NAMES/FR86"
+msgstr "馬克西米利安"
+
+msgid "NAMES/FR860"
+msgstr "康帕涅"
+
+msgid "NAMES/FR861"
+msgstr "尚鬆"
+
+msgid "NAMES/FR862"
+msgstr "夏爾"
+
+msgid "NAMES/FR863"
+msgstr "謝瓦利埃"
+
+msgid "NAMES/FR864"
+msgstr "羅密歐"
+
+msgid "NAMES/FR865"
+msgstr "內斯特"
+
+msgid "NAMES/FR866"
+msgstr "查爾斯"
+
+msgid "NAMES/FR867"
+msgstr "卡西米爾"
+
+msgid "NAMES/FR868"
+msgstr "科萊特"
+
+msgid "NAMES/FR869"
+msgstr "布利斯"
+
+msgid "NAMES/FR87"
+msgstr "米歇爾"
+
+msgid "NAMES/FR870"
+msgstr "約翰神"
+
+msgid "NAMES/FR871"
+msgstr "弗朗索瓦"
+
+msgid "NAMES/FR872"
+msgstr "費雯麗"
+
+msgid "NAMES/FR873"
+msgstr "海寧"
+
+msgid "NAMES/FR874"
+msgstr "羅德里格"
+
+msgid "NAMES/FR875"
+msgstr "明德"
+
+msgid "NAMES/FR876"
+msgstr "路易斯"
+
+msgid "NAMES/FR877"
+msgstr "本篤"
+
+msgid "NAMES/FR878"
+msgstr "帕特里斯"
+
+msgid "NAMES/FR879"
+msgstr "西里爾"
+
+msgid "NAMES/FR88"
+msgstr "密特朗"
+
+msgid "NAMES/FR880"
+msgstr "約瑟夫"
+
+msgid "NAMES/FR881"
+msgstr "克萊門斯"
+
+msgid "NAMES/FR882"
+msgstr "佛羅倫薩"
+
+msgid "NAMES/FR883"
+msgstr "弗蘭克"
+
+msgid "NAMES/FR884"
+msgstr "哈比卜"
+
+msgid "NAMES/FR885"
+msgstr "阿梅代"
+
+msgid "NAMES/FR886"
+msgstr "本傑明"
+
+msgid "NAMES/FR887"
+msgstr "休斯"
+
+msgid "NAMES/FR888"
+msgstr "桑德琳"
+
+msgid "NAMES/FR889"
+msgstr "理查德"
+
+msgid "NAMES/FR89"
+msgstr "莫里哀"
+
+msgid "NAMES/FR890"
+msgstr "伊西多爾"
+
+msgid "NAMES/FR891"
+msgstr "艾琳"
+
+msgid "NAMES/FR892"
+msgstr "朱莉"
+
+msgid "NAMES/FR893"
+msgstr "斯坦尼斯拉"
+
+msgid "NAMES/FR894"
+msgstr "井田"
+
+msgid "NAMES/FR895"
+msgstr "亞歷山大"
+
+msgid "NAMES/FR896"
+msgstr "思蒂"
+
+msgid "NAMES/FR897"
+msgstr "鮑里斯"
+
+msgid "NAMES/FR898"
+msgstr "西爾"
+
+msgid "NAMES/FR899"
+msgstr "戈萬"
+
+msgid "NAMES/FR9"
+msgstr "博蒙"
+
+msgid "NAMES/FR90"
+msgstr "莫尼克"
+
+msgid "NAMES/FR900"
+msgstr "吉賽爾邦"
+
+msgid "NAMES/FR901"
+msgstr "埃斯特爾"
+
+msgid "NAMES/FR902"
+msgstr "馬蒂亞斯"
+
+msgid "NAMES/FR903"
+msgstr "丹尼斯"
+
+msgid "NAMES/FR904"
+msgstr "查皮安"
+
+msgid "NAMES/FR905"
+msgstr "奧諾雷"
+
+msgid "NAMES/FR906"
+msgstr "帕斯卡"
+
+msgid "NAMES/FR907"
+msgstr "埃裡克"
+
+msgid "NAMES/FR908"
+msgstr "伊夫"
+
+msgid "NAMES/FR909"
+msgstr "貝爾納丁"
+
+msgid "NAMES/FR91"
+msgstr "孟德斯鳩"
+
+msgid "NAMES/FR910"
+msgstr "康斯坦丁"
+
+msgid "NAMES/FR911"
+msgstr "巴圖姆"
+
+msgid "NAMES/FR912"
+msgstr "皮特魯斯"
+
+msgid "NAMES/FR913"
+msgstr "迪奧"
+
+msgid "NAMES/FR914"
+msgstr "帕克"
+
+msgid "NAMES/FR915"
+msgstr "密特朗"
+
+msgid "NAMES/FR916"
+msgstr "薩科奇"
+
+msgid "NAMES/FR917"
+msgstr "笛卡爾"
+
+msgid "NAMES/FR918"
+msgstr "梅耶"
+
+msgid "NAMES/FR919"
+msgstr "貝巴夫"
+
+msgid "NAMES/FR92"
+msgstr "拿破崙"
+
+msgid "NAMES/FR920"
+msgstr "迪翁"
+
+msgid "NAMES/FR921"
+msgstr "波拿巴"
+
+msgid "NAMES/FR922"
+msgstr "雨果"
+
+msgid "NAMES/FR923"
+msgstr "巴爾扎克"
+
+msgid "NAMES/FR924"
+msgstr "埃米爾"
+
+msgid "NAMES/FR925"
+msgstr "魯"
+
+msgid "NAMES/FR926"
+msgstr "阿森鬆"
+
+msgid "NAMES/FR927"
+msgstr "貝朗熱"
+
+msgid "NAMES/FR928"
+msgstr "奧古斯丁"
+
+msgid "NAMES/FR929"
+msgstr "費迪南德"
+
+msgid "NAMES/FR93"
+msgstr "尼古拉"
+
+msgid "NAMES/FR930"
+msgstr "賈斯汀"
+
+msgid "NAMES/FR931"
+msgstr "凱文"
+
+msgid "NAMES/FR932"
+msgstr "吉爾伯特"
+
+msgid "NAMES/FR933"
+msgstr "梅達德魯韋"
+
+msgid "NAMES/FR934"
+msgstr "桑迪弗"
+
+msgid "NAMES/FR935"
+msgstr "黛安"
+
+msgid "NAMES/FR936"
+msgstr "蘭德里"
+
+msgid "NAMES/FR937"
+msgstr "巴拿巴"
+
+msgid "NAMES/FR938"
+msgstr "蓋伊"
+
+msgid "NAMES/FR939"
+msgstr "安東尼"
+
+msgid "NAMES/FR94"
+msgstr "奧貝蘭"
+
+msgid "NAMES/FR940"
+msgstr "以利沙"
+
+msgid "NAMES/FR941"
+msgstr "科爾曼"
+
+msgid "NAMES/FR942"
+msgstr "巴塞洛繆"
+
+msgid "NAMES/FR943"
+msgstr "路易斯"
+
+msgid "NAMES/FR944"
+msgstr "娜塔莎"
+
+msgid "NAMES/FR945"
+msgstr "莫尼克"
+
+msgid "NAMES/FR946"
+msgstr "薩賓"
+
+msgid "NAMES/FR947"
+msgstr "艾蒂安"
+
+msgid "NAMES/FR948"
+msgstr "西爾韋斯特"
+
+msgid "NAMES/FR949"
+msgstr "明德"
+
+msgid "NAMES/FR95"
+msgstr "奧內"
+
+msgid "NAMES/FR950"
+msgstr "路易斯"
+
+msgid "NAMES/FR951"
+msgstr "本篤"
+
+msgid "NAMES/FR952"
+msgstr "帕特里斯"
+
+msgid "NAMES/FR953"
+msgstr "布利斯"
+
+msgid "NAMES/FR954"
+msgstr "約翰神"
+
+msgid "NAMES/FR955"
+msgstr "弗朗索瓦"
+
+msgid "NAMES/FR956"
+msgstr "費雯麗"
+
+msgid "NAMES/FR957"
+msgstr "海寧"
+
+msgid "NAMES/FR958"
+msgstr "聖伊萊爾"
+
+msgid "NAMES/FR959"
+msgstr "明德"
+
+msgid "NAMES/FR96"
+msgstr "奧內伊"
+
+msgid "NAMES/FR960"
+msgstr "路易斯"
+
+msgid "NAMES/FR961"
+msgstr "本篤"
+
+msgid "NAMES/FR962"
+msgstr "帕特里斯"
+
+msgid "NAMES/FR963"
+msgstr "西里爾"
+
+msgid "NAMES/FR964"
+msgstr "約瑟夫"
+
+msgid "NAMES/FR965"
+msgstr "克萊門斯"
+
+msgid "NAMES/FR966"
+msgstr "維多利亞"
+
+msgid "NAMES/FR967"
+msgstr "拉里薩"
+
+msgid "NAMES/FR968"
+msgstr "哈比卜"
+
+msgid "NAMES/FR969"
+msgstr "阿梅代"
+
+msgid "NAMES/FR97"
+msgstr "保羅"
+
+msgid "NAMES/FR970"
+msgstr "本傑明"
+
+msgid "NAMES/FR971"
+msgstr "休斯"
+
+msgid "NAMES/FR972"
+msgstr "桑德琳"
+
+msgid "NAMES/FR973"
+msgstr "理查德"
+
+msgid "NAMES/FR974"
+msgstr "伊西多爾"
+
+msgid "NAMES/FR975"
+msgstr "艾琳"
+
+msgid "NAMES/FR976"
+msgstr "朱莉"
+
+msgid "NAMES/FR977"
+msgstr "斯坦尼斯拉"
+
+msgid "NAMES/FR978"
+msgstr "井田"
+
+msgid "NAMES/FR979"
+msgstr "亞歷山大"
+
+msgid "NAMES/FR98"
+msgstr "保爾"
+
+msgid "NAMES/FR980"
+msgstr "思蒂"
+
+msgid "NAMES/FR981"
+msgstr "鮑里斯"
+
+msgid "NAMES/FR982"
+msgstr "西爾"
+
+msgid "NAMES/FR983"
+msgstr "朱迪思"
+
+msgid "NAMES/FR984"
+msgstr "吉賽爾邦"
+
+msgid "NAMES/FR985"
+msgstr "埃斯特爾"
+
+msgid "NAMES/FR986"
+msgstr "馬蒂亞斯"
+
+msgid "NAMES/FR987"
+msgstr "丹尼斯"
+
+msgid "NAMES/FR988"
+msgstr "查皮安"
+
+msgid "NAMES/FR989"
+msgstr "巴羅"
+
+msgid "NAMES/FR99"
+msgstr "皮埃爾"
+
+msgid "NAMES/FR990"
+msgstr "巴泰勒米"
+
+msgid "NAMES/FR991"
+msgstr "布爾熱"
+
+msgid "NAMES/FR992"
+msgstr "布律諾"
+
+msgid "NAMES/FR993"
+msgstr "波旁"
+
+msgid "NAMES/FR994"
+msgstr "卡爾萬"
+
+msgid "NAMES/FR995"
+msgstr "康帕涅"
+
+msgid "NAMES/FR996"
+msgstr "尚鬆"
+
+msgid "NAMES/FR997"
+msgstr "夏爾"
+
+msgid "NAMES/FR998"
+msgstr "謝瓦利埃"
+
+msgid "NAMES/FR999"
+msgstr "羅密歐"
+
+msgid "NAMES/FRN1"
+msgstr "阿德里安"
+
+msgid "NAMES/FRN10"
+msgstr "卡米爾"
+
+msgid "NAMES/FRN100"
+msgstr "貝西墨"
+
+msgid "NAMES/FRN101"
+msgstr "雷德格雷夫"
+
+msgid "NAMES/FRN102"
+msgstr "坎皮恩"
+
+msgid "NAMES/FRN103"
+msgstr "阿道"
+
+msgid "NAMES/FRN104"
+msgstr "路"
+
+msgid "NAMES/FRN105"
+msgstr "查理曼"
+
+msgid "NAMES/FRN106"
+msgstr "查爾斯"
+
+msgid "NAMES/FRN107"
+msgstr "錢德勒"
+
+msgid "NAMES/FRN108"
+msgstr "凱撒"
+
+msgid "NAMES/FRN109"
+msgstr "貝爾納丁"
+
+msgid "NAMES/FRN11"
+msgstr "希普斯特"
+
+msgid "NAMES/FRN110"
+msgstr "皮特魯斯"
+
+msgid "NAMES/FRN111"
+msgstr "克里斯托夫"
+
+msgid "NAMES/FRN112"
+msgstr "梅達德魯韋"
+
+msgid "NAMES/FRN113"
+msgstr "克勞德"
+
+msgid "NAMES/FRN114"
+msgstr "桑迪弗"
+
+msgid "NAMES/FRN115"
+msgstr "克洛維斯"
+
+msgid "NAMES/FRN116"
+msgstr "阿德里安"
+
+msgid "NAMES/FRN117"
+msgstr "康斯坦丁"
+
+msgid "NAMES/FRN118"
+msgstr "科爾賓"
+
+msgid "NAMES/FRN119"
+msgstr "科林"
+
+msgid "NAMES/FRN12"
+msgstr "科姆"
+
+msgid "NAMES/FRN120"
+msgstr "丘位元"
+
+msgid "NAMES/FRN121"
+msgstr "西普里安恩"
+
+msgid "NAMES/FRN122"
+msgstr "西里爾"
+
+msgid "NAMES/FRN123"
+msgstr "西里爾"
+
+msgid "NAMES/FRN124"
+msgstr "達加爾"
+
+msgid "NAMES/FRN125"
+msgstr "丹尼斯"
+
+msgid "NAMES/FRN126"
+msgstr "德弗羅"
+
+msgid "NAMES/FRN127"
+msgstr "迪迪埃"
+
+msgid "NAMES/FRN128"
+msgstr "迪厄多內"
+
+msgid "NAMES/FRN129"
+msgstr "狄奧多羅斯"
+
+msgid "NAMES/FRN13"
+msgstr "多米尼克"
+
+msgid "NAMES/FRN130"
+msgstr "洛薩"
+
+msgid "NAMES/FRN131"
+msgstr "艾琳"
+
+msgid "NAMES/FRN132"
+msgstr "愛德蒙"
+
+msgid "NAMES/FRN133"
+msgstr "愛德華"
+
+msgid "NAMES/FRN134"
+msgstr "德弗魯"
+
+msgid "NAMES/FRN135"
+msgstr "埃斯特爾"
+
+msgid "NAMES/FRN136"
+msgstr "埃利奧特"
+
+msgid "NAMES/FRN137"
+msgstr "埃洛伊"
+
+msgid "NAMES/FRN138"
+msgstr "麥克萊倫"
+
+msgid "NAMES/FRN139"
+msgstr "埃米爾"
+
+msgid "NAMES/FRN14"
+msgstr "埃斯梅"
+
+msgid "NAMES/FRN140"
+msgstr "斯蒂芬"
+
+msgid "NAMES/FRN141"
+msgstr "費爾南"
+
+msgid "NAMES/FRN142"
+msgstr "莫法特"
+
+msgid "NAMES/FRN143"
+msgstr "費爾南"
+
+msgid "NAMES/FRN144"
+msgstr "克萊蒙費朗"
+
+msgid "NAMES/FRN145"
+msgstr "佛羅倫薩"
+
+msgid "NAMES/FRN146"
+msgstr "弗蘭克"
+
+msgid "NAMES/FRN147"
+msgstr "弗朗索瓦"
+
+msgid "NAMES/FRN148"
+msgstr "弗雷澤"
+
+msgid "NAMES/FRN149"
+msgstr "弗雷德裡克"
+
+msgid "NAMES/FRN15"
+msgstr "加斯科涅語"
+
+msgid "NAMES/FRN150"
+msgstr "加斯帕德"
+
+msgid "NAMES/FRN151"
+msgstr "雷德格雷夫"
+
+msgid "NAMES/FRN152"
+msgstr "加斯頓"
+
+msgid "NAMES/FRN153"
+msgstr "戈捷"
+
+msgid "NAMES/FRN154"
+msgstr "戈蒂埃"
+
+msgid "NAMES/FRN155"
+msgstr "戈萬"
+
+msgid "NAMES/FRN156"
+msgstr "傑弗裡"
+
+msgid "NAMES/FRN157"
+msgstr "傑拉爾德"
+
+msgid "NAMES/FRN158"
+msgstr "熱爾曼"
+
+msgid "NAMES/FRN159"
+msgstr "熱爾韋"
+
+msgid "NAMES/FRN16"
+msgstr "吉爾斯"
+
+msgid "NAMES/FRN160"
+msgstr "希斯韋特"
+
+msgid "NAMES/FRN161"
+msgstr "戈達爾"
+
+msgid "NAMES/FRN162"
+msgstr "戈達德"
+
+msgid "NAMES/FRN163"
+msgstr "戈弗雷"
+
+msgid "NAMES/FRN164"
+msgstr "希普斯特"
+
+msgid "NAMES/FRN165"
+msgstr "亞歷山大"
+
+msgid "NAMES/FRN166"
+msgstr "格雷戈裡"
+
+msgid "NAMES/FRN167"
+msgstr "格羅夫納"
+
+msgid "NAMES/FRN168"
+msgstr "吉爾伯特"
+
+msgid "NAMES/FRN169"
+msgstr "古斯塔夫"
+
+msgid "NAMES/FRN17"
+msgstr "亞歷山大"
+
+msgid "NAMES/FRN170"
+msgstr "奧諾雷"
+
+msgid "NAMES/FRN171"
+msgstr "哈蒙"
+
+msgid "NAMES/FRN172"
+msgstr "亨利"
+
+msgid "NAMES/FRN173"
+msgstr "埃爾韋"
+
+msgid "NAMES/FRN174"
+msgstr "聖伊萊爾"
+
+msgid "NAMES/FRN175"
+msgstr "賀拉斯"
+
+msgid "NAMES/FRN176"
+msgstr "休伯特"
+
+msgid "NAMES/FRN177"
+msgstr "伊格"
+
+msgid "NAMES/FRN178"
+msgstr "富勞沃"
+
+msgid "NAMES/FRN179"
+msgstr "阿拉德"
+
+msgid "NAMES/FRN18"
+msgstr "艾琳"
+
+msgid "NAMES/FRN180"
+msgstr "以賽亞"
+
+msgid "NAMES/FRN181"
+msgstr "艾夫斯"
+
+msgid "NAMES/FRN182"
+msgstr "雅克"
+
+msgid "NAMES/FRN183"
+msgstr "詹姆斯"
+
+msgid "NAMES/FRN184"
+msgstr "讓"
+
+msgid "NAMES/FRN185"
+msgstr "埃尼斯"
+
+msgid "NAMES/FRN186"
+msgstr "阿洛伊斯恩"
+
+msgid "NAMES/FRN187"
+msgstr "耶利米"
+
+msgid "NAMES/FRN188"
+msgstr "傑羅姆"
+
+msgid "NAMES/FRN189"
+msgstr "喬爾"
+
+msgid "NAMES/FRN19"
+msgstr "若蘇埃"
+
+msgid "NAMES/FRN190"
+msgstr "約旦"
+
+msgid "NAMES/FRN191"
+msgstr "儒勒"
+
+msgid "NAMES/FRN192"
+msgstr "阿爾方"
+
+msgid "NAMES/FRN193"
+msgstr "朱利安"
+
+msgid "NAMES/FRN194"
+msgstr "拉默特"
+
+msgid "NAMES/FRN195"
+msgstr "卡斯帕"
+
+msgid "NAMES/FRN196"
+msgstr "蘭斯洛特"
+
+msgid "NAMES/FRN197"
+msgstr "洛朗"
+
+msgid "NAMES/FRN198"
+msgstr "拉撒路"
+
+msgid "NAMES/FRN199"
+msgstr "利安德"
+
+msgid "NAMES/FRN2"
+msgstr "密特朗"
+
+msgid "NAMES/FRN20"
+msgstr "勒莫瓦納"
+
+msgid "NAMES/FRN200"
+msgstr "利奧波德"
+
+msgid "NAMES/FRN201"
+msgstr "阿爾文"
+
+msgid "NAMES/FRN202"
+msgstr "萊昂內爾"
+
+msgid "NAMES/FRN203"
+msgstr "格奧爾格"
+
+msgid "NAMES/FRN204"
+msgstr "洛塞爾"
+
+msgid "NAMES/FRN205"
+msgstr "路易"
+
+msgid "NAMES/FRN206"
+msgstr "西里爾"
+
+msgid "NAMES/FRN207"
+msgstr "呂西安"
+
+msgid "NAMES/FRN208"
+msgstr "瑪索"
+
+msgid "NAMES/FRN209"
+msgstr "哈比卜"
+
+msgid "NAMES/FRN21"
+msgstr "馬丁"
+
+msgid "NAMES/FRN210"
+msgstr "馬修"
+
+msgid "NAMES/FRN211"
+msgstr "馬西斯"
+
+msgid "NAMES/FRN212"
+msgstr "格倫"
+
+msgid "NAMES/FRN213"
+msgstr "莫里斯"
+
+msgid "NAMES/FRN214"
+msgstr "馬克西米利安"
+
+msgid "NAMES/FRN215"
+msgstr "米歇爾"
+
+msgid "NAMES/FRN216"
+msgstr "摩西"
+
+msgid "NAMES/FRN217"
+msgstr "拿破崙"
+
+msgid "NAMES/FRN218"
+msgstr "納澤爾"
+
+msgid "NAMES/FRN219"
+msgstr "內爾"
+
+msgid "NAMES/FRN22"
+msgstr "薩科"
+
+msgid "NAMES/FRN220"
+msgstr "諾埃"
+
+msgid "NAMES/FRN221"
+msgstr "諾伯特"
+
+msgid "NAMES/FRN222"
+msgstr "漢弗萊"
+
+msgid "NAMES/FRN223"
+msgstr "帕特里斯"
+
+msgid "NAMES/FRN224"
+msgstr "保羅"
+
+msgid "NAMES/FRN225"
+msgstr "佩蘭"
+
+msgid "NAMES/FRN226"
+msgstr "阿毛裡"
+
+msgid "NAMES/FRN227"
+msgstr "菲利普"
+
+msgid "NAMES/FRN228"
+msgstr "龐斯"
+
+msgid "NAMES/FRN229"
+msgstr "昆廷"
+
+msgid "NAMES/FRN23"
+msgstr "雷蒙"
+
+msgid "NAMES/FRN230"
+msgstr "萊蒙德"
+
+msgid "NAMES/FRN231"
+msgstr "雷尼爾"
+
+msgid "NAMES/FRN232"
+msgstr "拉烏爾"
+
+msgid "NAMES/FRN233"
+msgstr "拉斐爾"
+
+msgid "NAMES/FRN234"
+msgstr "裡吉斯"
+
+msgid "NAMES/FRN235"
+msgstr "雷米"
+
+msgid "NAMES/FRN236"
+msgstr "雷諾"
+
+msgid "NAMES/FRN237"
+msgstr "勒內"
+
+msgid "NAMES/FRN238"
+msgstr "羅伯特"
+
+msgid "NAMES/FRN239"
+msgstr "魯道夫"
+
+msgid "NAMES/FRN24"
+msgstr "羅德里格"
+
+msgid "NAMES/FRN240"
+msgstr "羅希爾"
+
+msgid "NAMES/FRN241"
+msgstr "鮑里斯"
+
+msgid "NAMES/FRN242"
+msgstr "阿梅代"
+
+msgid "NAMES/FRN243"
+msgstr "薩沙"
+
+msgid "NAMES/FRN244"
+msgstr "所羅門"
+
+msgid "NAMES/FRN245"
+msgstr "塞巴斯蒂安"
+
+msgid "NAMES/FRN246"
+msgstr "朱迪思"
+
+msgid "NAMES/FRN247"
+msgstr "塞韋林"
+
+msgid "NAMES/FRN248"
+msgstr "西蒙"
+
+msgid "NAMES/FRN249"
+msgstr "斯特凡"
+
+msgid "NAMES/FRN25"
+msgstr "斯圖爾特"
+
+msgid "NAMES/FRN250"
+msgstr "西爾萬"
+
+msgid "NAMES/FRN251"
+msgstr "西奧"
+
+msgid "NAMES/FRN252"
+msgstr "西奧多"
+
+msgid "NAMES/FRN253"
+msgstr "阿納託利"
+
+msgid "NAMES/FRN254"
+msgstr "蒂博"
+
+msgid "NAMES/FRN255"
+msgstr "蒂埃裡"
+
+msgid "NAMES/FRN256"
+msgstr "提摩太"
+
+msgid "NAMES/FRN257"
+msgstr "圖桑"
+
+msgid "NAMES/FRN258"
+msgstr "特里斯坦"
+
+msgid "NAMES/FRN259"
+msgstr "崔斯特瑞姆"
+
+msgid "NAMES/FRN26"
+msgstr "阿爾賓"
+
+msgid "NAMES/FRN260"
+msgstr "瓦列裡"
+
+msgid "NAMES/FRN261"
+msgstr "費雯麗"
+
+msgid "NAMES/FRN262"
+msgstr "安德烈"
+
+msgid "NAMES/FRN263"
+msgstr "伊夫"
+
+msgid "NAMES/FRN264"
+msgstr "伊馮"
+
+msgid "NAMES/FRN265"
+msgstr "撒迦利亞"
+
+msgid "NAMES/FRN266"
+msgstr "安塞爾"
+
+msgid "NAMES/FRN267"
+msgstr "安瑟倫"
+
+msgid "NAMES/FRN268"
+msgstr "約瑟夫"
+
+msgid "NAMES/FRN269"
+msgstr "安東寧"
+
+msgid "NAMES/FRN27"
+msgstr "阿波利奈爾"
+
+msgid "NAMES/FRN270"
+msgstr "阿里斯蒂德"
+
+msgid "NAMES/FRN271"
+msgstr "阿爾曼"
+
+msgid "NAMES/FRN272"
+msgstr "阿爾芒"
+
+msgid "NAMES/FRN273"
+msgstr "拉瑪爾"
+
+msgid "NAMES/FRN274"
+msgstr "阿爾諾"
+
+msgid "NAMES/FRN275"
+msgstr "阿斯特"
+
+msgid "NAMES/FRN276"
+msgstr "亞他那修"
+
+msgid "NAMES/FRN277"
+msgstr "克雷博"
+
+msgid "NAMES/FRN278"
+msgstr "奧賓"
+
+msgid "NAMES/FRN279"
+msgstr "奧古斯丁"
+
+msgid "NAMES/FRN28"
+msgstr "奧勒留"
+
+msgid "NAMES/FRN280"
+msgstr "艾利"
+
+msgid "NAMES/FRN281"
+msgstr "巴拿巴"
+
+msgid "NAMES/FRN282"
+msgstr "凱拉爾"
+
+msgid "NAMES/FRN283"
+msgstr "巴斯天"
+
+msgid "NAMES/FRN284"
+msgstr "鮑德溫"
+
+msgid "NAMES/FRN285"
+msgstr "布洛赫"
+
+msgid "NAMES/FRN286"
+msgstr "博蒙特"
+
+msgid "NAMES/FRN287"
+msgstr "博勒加德"
+
+msgid "NAMES/FRN288"
+msgstr "貝朗熱"
+
+msgid "NAMES/FRN289"
+msgstr "伯納德"
+
+msgid "NAMES/FRN29"
+msgstr "伯特蘭"
+
+msgid "NAMES/FRN290"
+msgstr "布萊斯"
+
+msgid "NAMES/FRN291"
+msgstr "布賴恩"
+
+msgid "NAMES/FRN292"
+msgstr "布里昂"
+
+msgid "NAMES/FRN293"
+msgstr "布魯斯"
+
+msgid "NAMES/FRN294"
+msgstr "雷德格雷夫"
+
+msgid "NAMES/FRN295"
+msgstr "希普斯特"
+
+msgid "NAMES/FRN296"
+msgstr "洛薩"
+
+msgid "NAMES/FRN297"
+msgstr "雷德格雷夫"
+
+msgid "NAMES/FRN298"
+msgstr "希普斯特"
+
+msgid "NAMES/FRN299"
+msgstr "富勞沃"
+
+msgid "NAMES/FRN3"
+msgstr "采邑"
+
+msgid "NAMES/FRN30"
+msgstr "桑迪弗"
+
+msgid "NAMES/FRN300"
+msgstr "富勞沃"
+
+msgid "NAMES/FRN301"
+msgstr "阿爾諾"
+
+msgid "NAMES/FRN302"
+msgstr "阿斯特"
+
+msgid "NAMES/FRN303"
+msgstr "亞他那修"
+
+msgid "NAMES/FRN304"
+msgstr "奧貝爾"
+
+msgid "NAMES/FRN305"
+msgstr "費利克斯"
+
+msgid "NAMES/FRN306"
+msgstr "奧古斯丁"
+
+msgid "NAMES/FRN307"
+msgstr "曼弗雷德"
+
+msgid "NAMES/FRN308"
+msgstr "奧勒留"
+
+msgid "NAMES/FRN309"
+msgstr "魯道夫"
+
+msgid "NAMES/FRN31"
+msgstr "羅德里格"
+
+msgid "NAMES/FRN310"
+msgstr "羅希爾"
+
+msgid "NAMES/FRN311"
+msgstr "羅蘭"
+
+msgid "NAMES/FRN312"
+msgstr "阿梅代"
+
+msgid "NAMES/FRN313"
+msgstr "明德"
+
+msgid "NAMES/FRN314"
+msgstr "所羅門"
+
+msgid "NAMES/FRN315"
+msgstr "塞巴斯蒂安"
+
+msgid "NAMES/FRN316"
+msgstr "帕特里斯"
+
+msgid "NAMES/FRN317"
+msgstr "阿納斯塔斯"
+
+msgid "NAMES/FRN318"
+msgstr "約瑟夫"
+
+msgid "NAMES/FRN319"
+msgstr "塞韋林"
+
+msgid "NAMES/FRN32"
+msgstr "西蒙"
+
+msgid "NAMES/FRN320"
+msgstr "斯特凡"
+
+msgid "NAMES/FRN321"
+msgstr "斯圖爾特"
+
+msgid "NAMES/FRN322"
+msgstr "西爾萬"
+
+msgid "NAMES/FRN323"
+msgstr "西奧"
+
+msgid "NAMES/FRN324"
+msgstr "阿德里安"
+
+msgid "NAMES/FRN325"
+msgstr "卡米爾"
+
+msgid "NAMES/FRN326"
+msgstr "坎皮恩"
+
+msgid "NAMES/FRN327"
+msgstr "阿道"
+
+msgid "NAMES/FRN328"
+msgstr "富勞沃"
+
+msgid "NAMES/FRN329"
+msgstr "路"
+
+msgid "NAMES/FRN33"
+msgstr "查理曼"
+
+msgid "NAMES/FRN330"
+msgstr "查爾斯"
+
+msgid "NAMES/FRN331"
+msgstr "錢德勒"
+
+msgid "NAMES/FRN332"
+msgstr "凱撒"
+
+msgid "NAMES/FRN333"
+msgstr "傑曼"
+
+msgid "NAMES/FRN334"
+msgstr "安德烈亞斯"
+
+msgid "NAMES/FRN335"
+msgstr "克里斯托夫"
+
+msgid "NAMES/FRN336"
+msgstr "克勞德"
+
+msgid "NAMES/FRN337"
+msgstr "弗洛朗"
+
+msgid "NAMES/FRN338"
+msgstr "阿德里安"
+
+msgid "NAMES/FRN339"
+msgstr "康斯坦丁"
+
+msgid "NAMES/FRN34"
+msgstr "科爾賓"
+
+msgid "NAMES/FRN340"
+msgstr "科林"
+
+msgid "NAMES/FRN341"
+msgstr "科姆"
+
+msgid "NAMES/FRN342"
+msgstr "丘位元"
+
+msgid "NAMES/FRN343"
+msgstr "西普里安恩"
+
+msgid "NAMES/FRN344"
+msgstr "西里爾"
+
+msgid "NAMES/FRN345"
+msgstr "薩特菲特"
+
+msgid "NAMES/FRN346"
+msgstr "西里爾"
+
+msgid "NAMES/FRN347"
+msgstr "達加爾"
+
+msgid "NAMES/FRN348"
+msgstr "約翰神"
+
+msgid "NAMES/FRN349"
+msgstr "德弗羅"
+
+msgid "NAMES/FRN35"
+msgstr "迪迪埃"
+
+msgid "NAMES/FRN350"
+msgstr "路易斯"
+
+msgid "NAMES/FRN351"
+msgstr "狄奧多羅斯"
+
+msgid "NAMES/FRN352"
+msgstr "哈比卜"
+
+msgid "NAMES/FRN353"
+msgstr "愛德蒙"
+
+msgid "NAMES/FRN354"
+msgstr "吉賽爾邦"
+
+msgid "NAMES/FRN355"
+msgstr "魯尼"
+
+msgid "NAMES/FRN356"
+msgstr "以利亞"
+
+msgid "NAMES/FRN357"
+msgstr "波爾蒂"
+
+msgid "NAMES/FRN358"
+msgstr "埃利奧特"
+
+msgid "NAMES/FRN359"
+msgstr "埃洛伊"
+
+msgid "NAMES/FRN36"
+msgstr "埃米爾"
+
+msgid "NAMES/FRN360"
+msgstr "埃斯梅"
+
+msgid "NAMES/FRN361"
+msgstr "斯蒂芬"
+
+msgid "NAMES/FRN362"
+msgstr "費爾南"
+
+msgid "NAMES/FRN363"
+msgstr "費爾南"
+
+msgid "NAMES/FRN364"
+msgstr "克萊蒙費朗"
+
+msgid "NAMES/FRN365"
+msgstr "佛羅倫薩"
+
+msgid "NAMES/FRN366"
+msgstr "弗蘭克"
+
+msgid "NAMES/FRN367"
+msgstr "弗朗索瓦"
+
+msgid "NAMES/FRN368"
+msgstr "哈比卜"
+
+msgid "NAMES/FRN369"
+msgstr "弗雷德裡克"
+
+msgid "NAMES/FRN37"
+msgstr "加斯科涅語"
+
+msgid "NAMES/FRN370"
+msgstr "理查德"
+
+msgid "NAMES/FRN371"
+msgstr "加斯頓"
+
+msgid "NAMES/FRN372"
+msgstr "戈捷"
+
+msgid "NAMES/FRN373"
+msgstr "戈蒂埃"
+
+msgid "NAMES/FRN374"
+msgstr "戈萬"
+
+msgid "NAMES/FRN375"
+msgstr "傑弗裡"
+
+msgid "NAMES/FRN376"
+msgstr "傑拉爾德"
+
+msgid "NAMES/FRN377"
+msgstr "熱爾曼"
+
+msgid "NAMES/FRN378"
+msgstr "熱爾韋"
+
+msgid "NAMES/FRN379"
+msgstr "貝爾納丁"
+
+msgid "NAMES/FRN38"
+msgstr "希斯韋特"
+
+msgid "NAMES/FRN380"
+msgstr "戈達爾"
+
+msgid "NAMES/FRN381"
+msgstr "戈達德"
+
+msgid "NAMES/FRN382"
+msgstr "戈弗雷"
+
+msgid "NAMES/FRN383"
+msgstr "格拉蒂安卡"
+
+msgid "NAMES/FRN384"
+msgstr "格雷戈裡"
+
+msgid "NAMES/FRN385"
+msgstr "格羅夫納"
+
+msgid "NAMES/FRN386"
+msgstr "吉爾伯特"
+
+msgid "NAMES/FRN387"
+msgstr "古斯塔夫"
+
+msgid "NAMES/FRN388"
+msgstr "亞歷山大"
+
+msgid "NAMES/FRN389"
+msgstr "哈梅林"
+
+msgid "NAMES/FRN39"
+msgstr "哈蒙"
+
+msgid "NAMES/FRN390"
+msgstr "亨利"
+
+msgid "NAMES/FRN391"
+msgstr "埃爾韋"
+
+msgid "NAMES/FRN392"
+msgstr "聖伊萊爾"
+
+msgid "NAMES/FRN393"
+msgstr "賀拉斯"
+
+msgid "NAMES/FRN394"
+msgstr "休伯特"
+
+msgid "NAMES/FRN395"
+msgstr "伊格"
+
+msgid "NAMES/FRN396"
+msgstr "阿拉德"
+
+msgid "NAMES/FRN397"
+msgstr "艾琳"
+
+msgid "NAMES/FRN398"
+msgstr "以賽亞"
+
+msgid "NAMES/FRN399"
+msgstr "艾夫斯"
+
+msgid "NAMES/FRN4"
+msgstr "雅克"
+
+msgid "NAMES/FRN40"
+msgstr "詹姆斯"
+
+msgid "NAMES/FRN400"
+msgstr "讓"
+
+msgid "NAMES/FRN401"
+msgstr "阿洛伊斯恩"
+
+msgid "NAMES/FRN402"
+msgstr "西爾"
+
+msgid "NAMES/FRN403"
+msgstr "傑羅姆"
+
+msgid "NAMES/FRN404"
+msgstr "埃斯特爾"
+
+msgid "NAMES/FRN405"
+msgstr "格雷戈裡"
+
+msgid "NAMES/FRN406"
+msgstr "謝瓦利埃"
+
+msgid "NAMES/FRN407"
+msgstr "特雷弗"
+
+msgid "NAMES/FRN408"
+msgstr "吉爾伯特"
+
+msgid "NAMES/FRN409"
+msgstr "古斯塔夫"
+
+msgid "NAMES/FRN41"
+msgstr "馬蒂亞斯"
+
+msgid "NAMES/FRN410"
+msgstr "亞歷山大"
+
+msgid "NAMES/FRN411"
+msgstr "瓦列裡"
+
+msgid "NAMES/FRN412"
+msgstr "哈梅林"
+
+msgid "NAMES/FRN413"
+msgstr "哈蒙"
+
+msgid "NAMES/FRN414"
+msgstr "亨利"
+
+msgid "NAMES/FRN415"
+msgstr "埃爾韋"
+
+msgid "NAMES/FRN416"
+msgstr "聖伊萊爾"
+
+msgid "NAMES/FRN417"
+msgstr "賀拉斯"
+
+msgid "NAMES/FRN418"
+msgstr "休伯特"
+
+msgid "NAMES/FRN419"
+msgstr "伊格"
+
+msgid "NAMES/FRN42"
+msgstr "博杜安"
+
+msgid "NAMES/FRN420"
+msgstr "阿拉德"
+
+msgid "NAMES/FRN421"
+msgstr "艾琳"
+
+msgid "NAMES/FRN422"
+msgstr "以賽亞"
+
+msgid "NAMES/FRN423"
+msgstr "艾夫斯"
+
+msgid "NAMES/FRN43"
+msgstr "雅克"
+
+msgid "NAMES/FRN44"
+msgstr "詹姆斯"
+
+msgid "NAMES/FRN45"
+msgstr "讓"
+
+msgid "NAMES/FRN46"
+msgstr "阿洛伊斯恩"
+
+msgid "NAMES/FRN47"
+msgstr "耶利米"
+
+msgid "NAMES/FRN48"
+msgstr "比鬆"
+
+msgid "NAMES/FRN49"
+msgstr "傑羅姆"
+
+msgid "NAMES/FRN5"
+msgstr "喬爾"
+
+msgid "NAMES/FRN50"
+msgstr "若蘇埃"
+
+msgid "NAMES/FRN51"
+msgstr "約旦"
+
+msgid "NAMES/FRN52"
+msgstr "儒勒"
+
+msgid "NAMES/FRN53"
+msgstr "阿爾方"
+
+msgid "NAMES/FRN54"
+msgstr "朱利安"
+
+msgid "NAMES/FRN55"
+msgstr "拉默特"
+
+msgid "NAMES/FRN56"
+msgstr "伯納"
+
+msgid "NAMES/FRN57"
+msgstr "卡斯帕"
+
+msgid "NAMES/FRN58"
+msgstr "布歇"
+
+msgid "NAMES/FRN59"
+msgstr "蘭斯洛特"
+
+msgid "NAMES/FRN6"
+msgstr "洛朗"
+
+msgid "NAMES/FRN60"
+msgstr "拉撒路"
+
+msgid "NAMES/FRN61"
+msgstr "利安德"
+
+msgid "NAMES/FRN62"
+msgstr "密特朗"
+
+msgid "NAMES/FRN63"
+msgstr "勒莫瓦納"
+
+msgid "NAMES/FRN64"
+msgstr "巴泰勒米"
+
+msgid "NAMES/FRN65"
+msgstr "布律諾"
+
+msgid "NAMES/FRN66"
+msgstr "利奧波德"
+
+msgid "NAMES/FRN67"
+msgstr "阿爾文"
+
+msgid "NAMES/FRN68"
+msgstr "阿克塞爾"
+
+msgid "NAMES/FRN69"
+msgstr "萊昂內爾"
+
+msgid "NAMES/FRN7"
+msgstr "洛塞爾"
+
+msgid "NAMES/FRN70"
+msgstr "伯特蘭"
+
+msgid "NAMES/FRN71"
+msgstr "埃弗裡"
+
+msgid "NAMES/FRN72"
+msgstr "布萊斯"
+
+msgid "NAMES/FRN73"
+msgstr "布賴恩"
+
+msgid "NAMES/FRN74"
+msgstr "布里昂"
+
+msgid "NAMES/FRN75"
+msgstr "布魯斯"
+
+msgid "NAMES/FRN76"
+msgstr "采邑"
+
+msgid "NAMES/FRN77"
+msgstr "阿爾諾"
+
+msgid "NAMES/FRN78"
+msgstr "阿斯特"
+
+msgid "NAMES/FRN79"
+msgstr "亞他那修"
+
+msgid "NAMES/FRN8"
+msgstr "奧貝爾"
+
+msgid "NAMES/FRN80"
+msgstr "仲馬"
+
+msgid "NAMES/FRN81"
+msgstr "歐仁尼"
+
+msgid "NAMES/FRN82"
+msgstr "奧賓"
+
+msgid "NAMES/FRN83"
+msgstr "古羅"
+
+msgid "NAMES/FRN84"
+msgstr "艾夫斯"
+
+msgid "NAMES/FRN85"
+msgstr "雅克"
+
+msgid "NAMES/FRN86"
+msgstr "詹姆斯"
+
+msgid "NAMES/FRN87"
+msgstr "查爾斯"
+
+msgid "NAMES/FRN88"
+msgstr "錢德勒"
+
+msgid "NAMES/FRN89"
+msgstr "凱撒"
+
+msgid "NAMES/FRN9"
+msgstr "查理"
+
+msgid "NAMES/FRN90"
+msgstr "凱澤"
+
+msgid "NAMES/FRN91"
+msgstr "克里斯托夫"
+
+msgid "NAMES/FRN92"
+msgstr "屈爾特"
+
+msgid "NAMES/FRN93"
+msgstr "米歇爾"
+
+msgid "NAMES/FRN94"
+msgstr "卡特勒梅爾"
+
+msgid "NAMES/FRN95"
+msgstr "佈雷"
+
+msgid "NAMES/FRN96"
+msgstr "克洛維斯"
+
+msgid "NAMES/FRN97"
+msgstr "布賴恩"
+
+msgid "NAMES/FRN98"
+msgstr "阿德里安"
+
+msgid "NAMES/FRN99"
+msgstr "康斯坦丁"
+
+msgid "RANKSFR/1"
+msgstr "上校"
+
+msgid "RANKSFR/10"
+msgstr "中士"
+
+msgid "RANKSFR/2"
+msgstr "中校"
+
+msgid "RANKSFR/3"
+msgstr "少校"
+
+msgid "RANKSFR/4"
+msgstr "上尉"
+
+msgid "RANKSFR/5"
+msgstr "中尉"
+
+msgid "RANKSFR/6"
+msgstr "少尉"
+
+msgid "RANKSFR/7"
+msgstr "准尉"
+
+msgid "RANKSFR/8"
+msgstr "一等士官長"
+
+msgid "RANKSFR/9"
+msgstr "上士"

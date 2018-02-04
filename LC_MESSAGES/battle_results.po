@@ -1,0 +1,819 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: World Of Tanks\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-06-01 10:00+0300\n"
+"Last-Translator: i_maliavko <i_maliavko@wargaming.net>\n"
+"Language-Team: WoT Team <noreply@wargaming.net>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "AFTERBATTLE_MESSAGE_ALL_PLAYERS_LEFT"
+msgstr "戰鬥結束: 所有玩家已離開戰鬥"
+
+msgid "AFTERBATTLE_PROGRESS_DAILY_QUESTS"
+msgstr "\"{quest_name}\" 每日任務進度 {ratio}"
+
+msgid "AFTERBATTLE_PROGRESS_DAILY_QUESTS_COMPLETE"
+msgstr "\"{quest_name}\" 每日任務完成！ {ratio}"
+
+msgid "AFTERBATTLE_STATISTICS_ACHIEVEMENT_GET"
+msgstr "獲得 {achievement_name} 勳章"
+
+msgid "AFTERBATTLE_STATISTICS_ALLIES_REACHED_SUPREMACY"
+msgstr "取得制空權"
+
+msgid "AFTERBATTLE_STATISTICS_ALL_ALLIES_DEAD"
+msgstr "所有己方戰機被擊毀"
+
+msgid "AFTERBATTLE_STATISTICS_ALL_ENEMY_SAUCERS_DEAD"
+msgstr "所有敵方飛碟被摧毀!"
+
+msgid "AFTERBATTLE_STATISTICS_ALL_FRIENDLY_SAUCERS_DEAD"
+msgstr "所有己方飛碟被摧毀!"
+
+msgid "AFTERBATTLE_STATISTICS_BOTH_REACHED_SUPREMACY"
+msgstr "兩隊都獲得優勢"
+
+msgid "AFTERBATTLE_STATISTICS_BUTTON_DETAILED"
+msgstr "詳細資訊"
+
+msgid "AFTERBATTLE_STATISTICS_BUTTON_REPLAY"
+msgstr "錄影"
+
+msgid "AFTERBATTLE_STATISTICS_BUTTON_WATCH"
+msgstr "開始"
+
+msgid "AFTERBATTLE_STATISTICS_COLUMN_HEADER_ASSISTS"
+msgstr "助攻<br>助攻數量"
+
+msgid "AFTERBATTLE_STATISTICS_COLUMN_HEADER_GROUND_TARGETS_KILLED"
+msgstr "優勢點<br>戰鬥所獲分數"
+
+msgid "AFTERBATTLE_STATISTICS_COLUMN_HEADER_PLANES_KILLED"
+msgstr "擊墜數<br>擊落敵機數量"
+
+msgid "AFTERBATTLE_STATISTICS_COLUMN_HEADER_SAUCERS_KILLED"
+msgstr "擊落<br>飛碟"
+
+msgid "AFTERBATTLE_STATISTICS_CONTEXT_BOT-USERS_PENALTY"
+msgstr "使用外掛懲罰"
+
+msgid "AFTERBATTLE_STATISTICS_CONTEXT_COMPENSATION_FROM_ALLIES"
+msgstr "誤傷隊友懲罰:"
+
+msgid "AFTERBATTLE_STATISTICS_CONTEXT_FOR_MODE_NAME"
+msgstr "(在 {mode_name})"
+
+msgid "AFTERBATTLE_STATISTICS_CONTEXT_LOW_ACTIVITY_PENALTY"
+msgstr "掛機懲罰"
+
+msgid "AFTERBATTLE_STATISTICS_CONTEXT_PENALTY_FOR_DAMAGE_TO_ALLIES"
+msgstr "惡意TK隊友懲罰"
+
+msgid "AFTERBATTLE_STATISTICS_CONTEXT_PERCENT_OF_AMOUNT"
+msgstr "{percent} 的 {amount}"
+
+msgid "AFTERBATTLE_STATISTICS_DRAW_ALL_SAUCERS_DEAD"
+msgstr "所有飛碟被摧毀!"
+
+msgid "AFTERBATTLE_STATISTICS_ENEMIES_REACHED_SUPREMACY"
+msgstr "敵方取得制空權"
+
+msgid "AFTERBATTLE_STATISTICS_HEADER_ALLIES"
+msgstr "我方"
+
+msgid "AFTERBATTLE_STATISTICS_HEADER_BATTLE_RESULTS"
+msgstr "戰績"
+
+msgid "AFTERBATTLE_STATISTICS_HEADER_BATTLE_XP_EVENTS"
+msgstr "經驗活動"
+
+msgid "AFTERBATTLE_STATISTICS_HEADER_BONUS_EVENTS"
+msgstr "活動"
+
+msgid "AFTERBATTLE_STATISTICS_HEADER_CREW_XP_EVENTS"
+msgstr "乘員經驗活動"
+
+msgid "AFTERBATTLE_STATISTICS_HEADER_DETAILED_STATISTICS"
+msgstr "詳細戰績"
+
+msgid "AFTERBATTLE_STATISTICS_HEADER_ENEMIES"
+msgstr "敵方"
+
+msgid "AFTERBATTLE_STATISTICS_HEADER_EVENTS"
+msgstr "任務進度"
+
+msgid "AFTERBATTLE_STATISTICS_HEADER_FIRST_WIN_DAILY_EVENT"
+msgstr "每日首勝"
+
+msgid "AFTERBATTLE_STATISTICS_HEADER_FREE_XP_EVENTS"
+msgstr "自由經驗活動"
+
+msgid "AFTERBATTLE_STATISTICS_HEADER_PERSONAL_PROGRESS"
+msgstr "個人進展"
+
+msgid "AFTERBATTLE_STATISTICS_HEADER_PERSONAL_RESULT"
+msgstr "個人戰績："
+
+msgid "AFTERBATTLE_STATISTICS_HEADER_STATISTICS"
+msgstr "統計"
+
+msgid "AFTERBATTLE_STATISTICS_HEADER_TEAM_RESULT"
+msgstr "團隊戰績"
+
+msgid "AFTERBATTLE_STATISTICS_HEADER_TIME"
+msgstr "時間"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_ACCURACY"
+msgstr "命中率"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_AOGAS_PENALTY"
+msgstr "防沉迷系統懲罰"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_AUTOREEQUIP"
+msgstr "自動補充消耗品"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_AUTOREEQUIP_SHORT"
+msgstr "補充補給"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_AUTOREFILL"
+msgstr "自動補充彈藥"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_AUTOREFILL_SHORT"
+msgstr "補充彈藥"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_AUTOREPAIR"
+msgstr "自動維修"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_AUTOREPAIR_SHORT"
+msgstr "自動修理"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_BATTLES_PER_SESSION"
+msgstr "當前會話總數:"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_BATTLE_DURATION"
+msgstr "戰鬥持續時間"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_BATTLE_EFFICIENCY"
+msgstr "戰鬥統計"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_BATTLE_START"
+msgstr "開始時間"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_BELTS"
+msgstr "彈藥:"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_BEST_RESULT"
+msgstr "（新紀錄）"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_BEST_RESULT_OBJECTS"
+msgstr "摧毀地面目標個數!"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_BEST_RESULT_PLANES"
+msgstr "摧毀敵機數量!"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_BEST_RESULT_XP"
+msgstr "戰鬥所獲經驗!"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_BOMBS"
+msgstr "炸彈:"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_CLEAR_INCOME_FOR_BATTLE"
+msgstr "戰鬥收益"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_COMPENSATION_FROM_ALLIES"
+msgstr "因被隊友傷害補償"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_CONSUMABLES_AND_EQUIPMENT"
+msgstr "消耗品和裝置"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_CREDITS"
+msgstr "銀幣"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_CREDS"
+msgstr "銀幣"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_CREDS_AFTER_BATTLE"
+msgstr "戰鬥獲得:"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_CREDS_AND_GOLD"
+msgstr "銀幣"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_CREDS_AND_GOLD_FOR_BATTLE"
+msgstr "銀幣"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_CREDS_AND_GOLD_FOR_BATTLE_TOTAL"
+msgstr "總銀幣和金幣:"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_CREDS_FOR_BATTLE"
+msgstr "銀幣"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_CREDS_WITH_MODIFIERS"
+msgstr "包含加成:"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_CREW_XP"
+msgstr "乘員經驗"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_CREW_XP_FOR_BATTLE"
+msgstr "乘員經驗"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_CREW_XP_FOR_BATTLE_TOTAL"
+msgstr "總乘員經驗:"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_CREW_XP_RECEIVED_FOR_BATTLE"
+msgstr "乘員經驗收益:"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_CRITICAL_DAMAGE_DONE"
+msgstr "致命傷害"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_DAILY_FIRST_WIN"
+msgstr "每日首勝"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_DAMAGE_BY_BOMBS"
+msgstr "炸彈"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_DAMAGE_BY_FIRE"
+msgstr "起火"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_DAMAGE_BY_GUNNER"
+msgstr "後射機槍"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_DAMAGE_BY_GUNS"
+msgstr "機槍"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_DAMAGE_BY_RAMMING"
+msgstr "碰撞"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_DAMAGE_BY_ROCKETS"
+msgstr "火箭彈"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_DAMAGE_DEALT"
+msgstr "造成傷害:"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_DAMAGE_DONE"
+msgstr "擊傷"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_DAMAGE_FROM_AA-GUNS"
+msgstr "被防空砲"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_DAMAGE_FROM_ALLIES"
+msgstr "被隊友"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_DAMAGE_FROM_ENEMIES"
+msgstr "被敵機"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_DAMAGE_FROM_FIRE"
+msgstr "引擎著火造成的傷害"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_DAMAGE_FROM_GUNNERS"
+msgstr "敵方機槍手造成的傷害"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_DAMAGE_TO_ALLIES"
+msgstr "對隊友造成的傷害（摧毀/生命值）"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_DESTROYED_IN_GROUP"
+msgstr "助攻"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_DESTROYED_PERSONALY"
+msgstr "獨立擊殺"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_DETAILED_INFO_UNAVAILABLE"
+msgstr "無法檢視詳細資訊"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_DETECTED"
+msgstr "發現"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_EVENT"
+msgstr "活動:"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_FASTER_CREW_TRAINING"
+msgstr "加速乘員培訓"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_FASTER_TRAINING"
+msgstr "加速乘員訓練"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_FREE_XP_RECEIVED_FOR_BATTLE"
+msgstr "自由經驗收益:"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_GROUND_TARGETS"
+msgstr "地面目標"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_GROUND_TARGETS_COUNT"
+msgstr "地面目標"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_GROUND_TARGETS_KILLED"
+msgstr "摧毀地面目標"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_HITS_MADE"
+msgstr "擊中次數"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_IGNITIONS_MADE"
+msgstr "著火"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_INCLUDING_FREE_XP"
+msgstr "(包含自由經驗)"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_INCOME_FOR_ALL_BONUSES"
+msgstr "總獎勵"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_INCOME_FOR_BATTLE"
+msgstr "獲得:"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_INCOME_JUST_BONUSES"
+msgstr "獎勵"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_INCOME_MODIFIERS"
+msgstr "加成:"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_INCOME_NO_BONUSES"
+msgstr "沒有收到獎勵"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_INCOME_TOTAL"
+msgstr "總計獲得"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_INCOME_TOTAL_CONTEXT"
+msgstr "總計獲得:"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_KILLED_BY_BOMB"
+msgstr "被({name}, {aircraft})的炸彈炸燬 "
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_KILLED_BY_COLLISION"
+msgstr "與({name}, {aircraft})碰撞後損毀 "
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_KILLED_BY_ENEMY_AA"
+msgstr "被防空砲擊毀"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_KILLED_BY_GUNNNER"
+msgstr "被({name}, {aircraft})的尾砲擊落"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_KILLED_BY_PLAYER"
+msgstr "被({name}, {aircraft})擊毀"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_KILLED_BY_ROCKET"
+msgstr "被({name}, {aircraft})的火箭彈擊毀 "
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_KILLED_CRASHED"
+msgstr "戰機墜毀"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_KILLED_WITH_FIRE"
+msgstr "起火損毀 ({name}, {aircraft})"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_LIFETIME_IN_BATTLE"
+msgstr "存活次數"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_LOW_ACTIVITY_PENALTY"
+msgstr "消極戰鬥懲罰"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_LOW_ACTIVITY_PENALTY_VALUE"
+msgstr "消極戰鬥懲罰: -{number}% {amount}"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_MODULE_READY_FOR_PURCHASE"
+msgstr "可購買: {module_name}"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_MODULE_READY_FOR_RESEARCH"
+msgstr "可研發: {module_name}"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_NO_NEW_EVENTS"
+msgstr "無新進展"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_PARTICULAR_DAMAGE_DONE"
+msgstr "部分損壞"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_PAYMENT_FOR_BATTLE"
+msgstr "獲得"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_PENALTIES"
+msgstr "懲罰:"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_PENALTY_FOR_DAMAGE_TO_ALLIES"
+msgstr "傷害隊友懲罰"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_PENALTY_TIMER"
+msgstr "時間懲罰"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_PLANES"
+msgstr "戰機"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_PLANES_COUNT"
+msgstr "戰機"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_PLANES_KILLED"
+msgstr "擊落敵機"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_PLANE_READY_FOR_PURCHASE"
+msgstr "{plane} 可購買"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_PLANE_READY_FOR_RESEARCH"
+msgstr "{plane} 可研發"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_PLAYER_SURVIVED"
+msgstr "存活"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_POSSIBLE_BALANCE_IF_PREMIUM"
+msgstr "加值帳號加成"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_POSSIBLY WITH_PREMIUM"
+msgstr "加值帳號加成"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_PREMIUM"
+msgstr "加值帳號"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_QUEST"
+msgstr "任務:"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_QUESTS_OUTDATED_REWARD"
+msgstr "到期任務完成!"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_QUEST_COMPLETION_REWARD"
+msgstr "任務獎勵:"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_QUEST_REWARD_RECEIVED"
+msgstr "總獎勵:"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_ROCKETS"
+msgstr "火箭彈:"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_SAUCERS_KILLED"
+msgstr "擊落飛碟"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_SESSION_BATTLES_LOG"
+msgstr "戰績"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_SHOTS_MADE"
+msgstr "射擊次數"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_SHOTS_PRESISE"
+msgstr "擊中次數"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_SHOTS_TAKEN"
+msgstr "被擊中次數"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_SPENT"
+msgstr "支出:"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_SPENT_AFTER_BATTLE"
+msgstr "戰鬥消耗"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_SPENT_AMMO_AUTOREFILL"
+msgstr "自動補充彈藥"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_SPENT_CONSUMABLES_AUTOREFILL"
+msgstr "自動補充消耗品"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_SPENT_FOR_GUNNER"
+msgstr "花費在培訓尾砲手"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_SPENT_FOR_PILOT"
+msgstr "花費在培訓飛行員"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_SPENT_FOR_TRAINING"
+msgstr "加速乘員培訓"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_SPENT_TOTAL"
+msgstr "總支出"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_TARGETS"
+msgstr "目標"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_TOTALLY"
+msgstr "總數："
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_TOTAL_ACCOUNT_BALANCE"
+msgstr "淨收入總和"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_TOTAL_ACCOUNT_BALANCE_IF_PREMIUM"
+msgstr "總計加值帳號加成"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_TOTAL_CREW_XP"
+msgstr "總收入"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_TOTAL_FOR_BATTLE"
+msgstr "總計:"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_TOTAL_NO_COLON"
+msgstr "總計"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_WINS_BATTLES"
+msgstr "勝率"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_WITHOUT_PREMIUM"
+msgstr "普通帳號"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_WITH_PREMIUM"
+msgstr "加值帳號"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_WITH_PREMIUM_CREDS_XP"
+msgstr "加值帳號 {credits} {xp}"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_XP"
+msgstr "經驗"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_XP_FOR_BATTLE"
+msgstr "經驗"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_XP_FOR_BATTLE_TOTAL"
+msgstr "總經驗:"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_XP_INCOME_FOR_BATTLE"
+msgstr "獲得經驗:"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_XP_MODIFIERS"
+msgstr "經驗加成:"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_XP_NO_BONUSES"
+msgstr "正常收益"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_XP_RECEIVED_FOR_BATTLE"
+msgstr "經驗收益:"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_YOUR_BATTLE_EFFICIENCY"
+msgstr "作戰效能"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_YOUR_KILLS_AND_DAMAGED"
+msgstr "摧毀和受損"
+
+msgid "AFTERBATTLE_STATISTICS_LABEL_ZERO_BATTLE_ACTIVITY"
+msgstr "無戰果"
+
+msgid "AFTERBATTLE_STATISTICS_LAVEL_PLAYER_DEAD"
+msgstr "被擊毀"
+
+msgid "AFTERBATTLE_STATISTICS_MESSAGES_ALL_ENEMIES_DEAD"
+msgstr "敵機被全部擊毀"
+
+msgid "AFTERBATTLE_STATISTICS_MESSAGE_BOT-USERS_WARNING"
+msgstr "掛機懲罰，僅獲得50%的經驗和銀幣收益"
+
+msgid "AFTERBATTLE_STATISTICS_MESSAGE_DRAW"
+msgstr "繪製"
+
+msgid "AFTERBATTLE_STATISTICS_MESSAGE_LOST"
+msgstr "失敗"
+
+msgid "AFTERBATTLE_STATISTICS_MESSAGE_WIN"
+msgstr "勝利"
+
+msgid "AFTERBATTLE_STATISTICS_MORE_ENEMY_SAUCERS_DEAD"
+msgstr "我方擊落飛碟!"
+
+msgid "AFTERBATTLE_STATISTICS_MORE_FRIENDLY_SAUCERS_DEAD"
+msgstr "敵方擊落飛碟!"
+
+msgid "AFTERBATTLE_STATISTICS_NO_STATS_FOR_PVE_MODE"
+msgstr ""
+"人機對戰資料將不計入戰鬥統計<br>完成相關任務可解鎖其它遊戲模式<br>並顯示更為"
+"詳細的戰鬥統計"
+
+msgid "AFTERBATTLE_STATISTICS_PREMIUM_BONUS_VALUE"
+msgstr "+50%"
+
+msgid "AFTERBATTLE_STATISTICS_PTS_FOR_GROUND_TARGETS"
+msgstr "摧毀地面目標"
+
+msgid "AFTERBATTLE_STATISTICS_PTS_FOR_PLANES"
+msgstr "擊落戰機"
+
+msgid "AFTERBATTLE_STATISTICS_PVE_NO_PLAYERS"
+msgstr "所有玩家戰機被擊落！"
+
+msgid "AFTERBATTLE_STATISTICS_SUPERIORITY_PTS"
+msgstr "優勢點數"
+
+msgid "AFTERBATTLE_STATISTICS_TOTAL_RESULT_FOR_BATTLE"
+msgstr "總計"
+
+msgid "BATTLERESULT_CREDITS"
+msgstr "<font color='#B9E1FF'>銀幣:</font>  {credits}"
+
+msgid "BATTLERESULT_DAMAGED"
+msgstr "擊傷："
+
+msgid "BATTLERESULT_DEAD"
+msgstr "擊毀："
+
+msgid "BATTLERESULT_DISCONNECTED"
+msgstr "關閉"
+
+msgid "BATTLERESULT_EXPERIENCE"
+msgstr "<font color='#B9E1FF'>經驗:</font> {xp}"
+
+msgid "BATTLERESULT_FRAGS"
+msgstr "被擊毀"
+
+msgid "BATTLERESULT_HEADER"
+msgstr "戰鬥結果"
+
+msgid "BATTLERESULT_HITS"
+msgstr "次擊中"
+
+msgid "BATTLERESULT_HITS_TAKEN"
+msgstr "次被擊中"
+
+msgid "BATTLERESULT_KILLED"
+msgstr "擊毀："
+
+msgid "BATTLERESULT_KILLED_BY_GROUND"
+msgstr "撞地墜毀"
+
+msgid "BATTLERESULT_KILLED_BY_TURRET"
+msgstr "被防空砲擊毀"
+
+msgid "BATTLERESULT_KILLER_DATA"
+msgstr "<font color='#B9E1FF'>擊毀你的玩家:</font> {player} ({vehicle})"
+
+msgid "BATTLERESULT_KILLER_DATA_ENDGAME"
+msgstr "<font color='#B9E1FF'>擊毀:</font> {killerName}"
+
+msgid "BATTLERESULT_KILLER_NAME"
+msgstr "擊毀你的玩家:"
+
+msgid "BATTLERESULT_KILLER_TURRET_DATA"
+msgstr "<font color='#B9E1FF'>擊毀:</font> {killerName}"
+
+msgid "BATTLERESULT_NOT_DEAD"
+msgstr "在戰鬥中"
+
+msgid "BATTLERESULT_OWN_DATA"
+msgstr "{player} ({vehicle})"
+
+msgid "BATTLERESULT_PERSONAL"
+msgstr "個人戰績"
+
+msgid "BATTLERESULT_PLAYER_NAME"
+msgstr "玩家"
+
+msgid "BATTLERESULT_PLAYER_STATUS"
+msgstr "條件"
+
+msgid "BATTLERESULT_PRESS_ESC_TO_EXIT"
+msgstr "按Esc鍵返回機庫"
+
+msgid "BATTLERESULT_REPAIR"
+msgstr "修理:"
+
+msgid "BATTLERESULT_SHOTS_NUMBER"
+msgstr "次射擊"
+
+msgid "BATTLERESULT_SPOTTED"
+msgstr "發現："
+
+msgid "BATTLERESULT_TEAM"
+msgstr "團隊戰績"
+
+msgid "BATTLERESULT_VEHICLE"
+msgstr "戰機狀態"
+
+msgid "BATTLE_RESULT_AVAILABLE_FIRST_SKILL_POINT"
+msgstr "提供第一個技能點"
+
+msgid "BATTLE_RESULT_AVAILABLE_NEW_SKILL_POINT"
+msgstr "提供新的技能點"
+
+msgid "BATTLE_RESULT_EARN_EXP_FOR_SKILL_POINT"
+msgstr "{member_name}正在積累經驗，獲得另一個技能點"
+
+msgid "BATTLE_RESULT_PROGRESS_BAR_FULL_UP_SPECIALITY"
+msgstr "{member_name}的能力訓練100%"
+
+msgid "BATTLE_RESULT_PROGRESS_BAR_UP_SPECIALITY"
+msgstr "{member_name}提高了能力"
+
+msgid "BATTLE_RESULT_RECEIVED_FIRST_SKILL_POINT"
+msgstr "{member_name}獲得第一個技能點！"
+
+msgid "BATTLE_RESULT_RECEIVED_NEXT_SKILL_POINT"
+msgstr "{member_name}已經獲得了新的技能點！"
+
+msgid "BATTLE_RESULT_TEXT"
+msgstr "戰績："
+
+msgid "HIT_TABLE_TEXT"
+msgstr "擊傷："
+
+msgid "HUD_BATTLE_RESULT_OBJECT_DISCOVERED"
+msgstr "偵察到的目標："
+
+msgid "HUD_BATTLE_RESULT_PENALTY_CREDITS"
+msgstr "{credits} 銀幣"
+
+msgid "HUD_BATTLE_RESULT_PENALTY_EXP"
+msgstr "{exp} 經驗"
+
+msgid "HUD_BATTLE_RESULT_TITLE_COMPENSATION"
+msgstr "被隊友擊傷的賠償："
+
+msgid "HUD_BATTLE_RESULT_TITLE_PENALTY"
+msgstr "擊傷隊友的懲罰："
+
+msgid "KILL_TABLE_TEXT"
+msgstr "擊毀："
+
+msgid "RETURN_LOBBY_BUTTON"
+msgstr "返回大廳"
+
+msgid "SPOT_TABLE_TEXT"
+msgstr "發現："
+
+msgid "TEAMOBJECT"
+msgstr "摧毀目標："
+
+msgid "TEAMTURRENT"
+msgstr "摧毀防空砲："
+
+msgid "BATTLE_RESULTS_RECEIVED_AFTER_BATTLE"
+msgstr "Earned in battle"
+
+msgid "BATTLE_RESULT_ALL_PLANES_EXP"
+msgstr "All aircraft XP"
+
+msgid "BATTLE_RESULT_ASSISTS"
+msgstr "Assist points"
+
+msgid "BATTLE_RESULT_BATTLE_POINTS"
+msgstr "Combat points"
+
+msgid "BATTLE_RESULT_CAP_POINTS_IN_ATT"
+msgstr "Capture points earned in attack"
+
+msgid "BATTLE_RESULT_CAP_POINTS_IN_DEF"
+msgstr "Capture points earned in defense"
+
+msgid "BATTLE_RESULT_CAP_POINT_RECEIVED"
+msgstr "Capture points received"
+
+msgid "BATTLE_RESULT_CREDITS"
+msgstr "Credits"
+
+msgid "BATTLE_RESULT_DAMAGE_DEALT_TO_OBJECT"
+msgstr "Damage to ground targets"
+
+msgid "BATTLE_RESULT_DAMAGE_DEALT_TO_PLANES"
+msgstr "Damage to aerial targets"
+
+msgid "BATTLE_RESULT_DEATH"
+msgstr "Times player was destroyed"
+
+msgid "BATTLE_RESULT_EXP"
+msgstr "XP"
+
+msgid "BATTLE_RESULT_GENERAL_EFFICIENCY"
+msgstr "General Performance"
+
+msgid "BATTLE_RESULT_GENERAL_STATS_FOR_ALL_PLANES_IN_BATTLE"
+msgstr "Report on all aircraft that<br>participated in the battle"
+
+msgid "BATTLE_RESULT_GUNNER_EXP"
+msgstr "Gunner experience:"
+
+msgid "BATTLE_RESULT_HEADER_GENERAL"
+msgstr "Summary"
+
+msgid "BATTLE_RESULT_HEADER_PLAYERS"
+msgstr "Players"
+
+msgid "BATTLE_RESULT_JA_TR_STAT_TEXT_1"
+msgstr "Loot crate earned!"
+
+msgid "BATTLE_RESULT_JA_TR_STAT_TEXT_2"
+msgstr "Points to next loot crate:"
+
+msgid "BATTLE_RESULT_MASTERY_POINTS"
+msgstr "Mastery points"
+
+msgid "BATTLE_RESULT_OBJECTS_DESTROYED"
+msgstr "Ground targets destroyed"
+
+msgid "BATTLE_RESULT_PARTS_DESTROYED"
+msgstr "Sections of ground targets destroyed"
+
+msgid "BATTLE_RESULT_PILOT_EXP"
+msgstr "Pilot experience:"
+
+msgid "BATTLE_RESULT_PLANES_DESTROYED"
+msgstr "Aerial targets destroyed"
+
+msgid "BATTLE_RESULT_PLANES_DESTROYED_1"
+msgstr "Aerial targets destroyed"
+
+msgid "BATTLE_RESULT_PLANES_DESTROYED_IN_DEFENCE"
+msgstr "Destroyed when defending"
+
+msgid "BATTLE_RESULT_PLANE_EXP"
+msgstr "Aircraft experience:"
+
+msgid "BATTLE_RESULT_PREMIUM_AIRCRAFT_BONUS"
+msgstr "Premium aircraft: +20% to crew experience"
+
+msgid "BATTLE_RESULT_REWARD_FOR_BATTLE_QUESTS"
+msgstr "Mission award:"
+
+msgid "BATTLE_RESULT_SECTORS_CAPTURED"
+msgstr "Sectors captured"
+
+msgid "BATTLE_RESULT_TIME_IN_BATTLE"
+msgstr "Time spent in battle"
+
+msgid "BATTLE_RESULT_YOUR_PLACE_IN_TEAM_SCORE"
+msgstr "Rank in combat group"

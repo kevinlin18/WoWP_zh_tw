@@ -1,0 +1,93 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: World Of Tanks\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-06-01 10:00+0300\n"
+"Last-Translator: i_maliavko <i_maliavko@wargaming.net>\n"
+"Language-Team: WoT Team <noreply@wargaming.net>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "TOOLTIPS_HUD_LOBBY_BEST_SCORE_CLASS_NAME"
+msgstr "Best Result:"
+
+msgid ""
+"TOOLTIPS_HUD_LOBBY_CLASS_QUEST_DESCRIPTION_ATTACK_GROUND_OBJECTS_FOR_ASSAULT-"
+"BOMBERS"
+msgstr "Earn capture points for destroying enemy ground targets"
+
+msgid ""
+"TOOLTIPS_HUD_LOBBY_CLASS_QUEST_DESCRIPTION_ATTACK_SECTORS_FOR_H-FIGHTERS-NAVY"
+msgstr ""
+"Earn capture points for destroying air defense aircraft, enemy aircraft, and "
+"ground targets when attacking sectors"
+
+msgid ""
+"TOOLTIPS_HUD_LOBBY_CLASS_QUEST_DESCRIPTION_CAPTURE_SECTORS_FOR_H-FIGHTERS-"
+"NAVY-ASSAULT-BOMBERS"
+msgstr "Participate in capturing sectors"
+
+msgid ""
+"TOOLTIPS_HUD_LOBBY_CLASS_QUEST_DESCRIPTION_DEFENCE_SECTOR_FOR_FIGHTERS-H-"
+"FIGHTERS-NAVY"
+msgstr "Destroy enemy aircraft while defending sectors"
+
+msgid ""
+"TOOLTIPS_HUD_LOBBY_CLASS_QUEST_DESCRIPTION_DESTROY_OBJECT_PARTS_FOR_ASSAULT-"
+"BOMBERS"
+msgstr "Destroy sections of enemy ground targets"
+
+msgid "TOOLTIPS_HUD_LOBBY_CLASS_QUEST_DESCRIPTION_DOGFIGHT_FOR_SECTORS_FOR_FIGHTERS"
+msgstr ""
+"Earn capture points for destroying air defense aircraft and enemy aircraft "
+"when attacking sectors"
+
+msgid "TOOLTIPS_HUD_LOBBY_CLASS_QUEST_DESCRIPTION_ENEMY_PLANES_FOR_FIGHTERS"
+msgstr ""
+"Destroy aerial targets (enemy aircraft, air defense aircraft, and bombers "
+"from the Attack Flight)"
+
+msgid "TOOLTIPS_HUD_LOBBY_CLASS_QUEST_DESCRIPTION_HOW_THIS_WORK"
+msgstr "How Aircraft Type Grades Are Assigned"
+
+msgid "TOOLTIPS_HUD_LOBBY_CLASS_QUEST_DESCRIPTION_HOW_THIS_WORK_DESCRIPTION_1"
+msgstr ""
+"<font color='#3e8cb3'>The blue segments</font> indicate the progress towards "
+"completing a mission on a scale from <font color='#3e8cb3'>1</font> to <font "
+"color='#3e8cb3'>5</font>. The total number of all segments corresponds to a "
+"certain aircraft type grade."
+
+msgid "TOOLTIPS_HUD_LOBBY_CLASS_QUEST_DESCRIPTION_HOW_THIS_WORK_DESCRIPTION_2"
+msgstr ""
+"<font color='#267c99'>The blue segments</font> indicate the progress towards "
+"completing a mission on a scale from <font color='#267c99'>1</font> to <font "
+"color='#267c99'>5</font>. The total number of all segments corresponds to a "
+"certain aircraft type grade."
+
+msgid ""
+"TOOLTIPS_HUD_LOBBY_CLASS_QUEST_NAME_ATTACK_GROUND_OBJECTS_FOR_ASSAULT-BOMBERS"
+msgstr "Destruction of Ground Targets"
+
+msgid "TOOLTIPS_HUD_LOBBY_CLASS_QUEST_NAME_ATTACK_SECTORS_FOR_H-FIGHTERS-NAVY"
+msgstr "Sector Attack"
+
+msgid ""
+"TOOLTIPS_HUD_LOBBY_CLASS_QUEST_NAME_CAPTURE_SECTORS_FOR_H-FIGHTERS-NAVY-"
+"ASSAULT-BOMBERS"
+msgstr "Sector Capture"
+
+msgid ""
+"TOOLTIPS_HUD_LOBBY_CLASS_QUEST_NAME_DEFENCE_SECTOR_FOR_FIGHTERS-H-FIGHTERS-"
+"NAVY"
+msgstr "Sector Defense"
+
+msgid ""
+"TOOLTIPS_HUD_LOBBY_CLASS_QUEST_NAME_DESTROY_OBJECT_PARTS_FOR_ASSAULT-BOMBERS"
+msgstr "Destruction of Infrastructure"
+
+msgid "TOOLTIPS_HUD_LOBBY_CLASS_QUEST_NAME_DOGFIGHT_FOR_SECTORS_FOR_FIGHTERS"
+msgstr "Air Battle for Sectors"
+
+msgid "TOOLTIPS_HUD_LOBBY_CLASS_QUEST_NAME_ENEMY_PLANES_FOR_FIGHTERS"
+msgstr "Destruction of Aerial Targets"

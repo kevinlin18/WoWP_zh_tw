@@ -1,0 +1,349 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: World Of Tanks\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-06-01 10:00+0300\n"
+"Last-Translator: i_maliavko <i_maliavko@wargaming.net>\n"
+"Language-Team: WoT Team <noreply@wargaming.net>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: \n"
+"Language: zh_TW\n"
+"X-Generator: Poedit 2.0.5\n"
+
+msgid "DIALOG_QUEUE_AVG_TIME"
+msgstr "(排隊平均等待時間: %(avg)s 分鐘.)"
+
+msgid "DIALOG_QUEUE_PLACE_MESSAGE"
+msgstr "您的排隊位置:第 %(number)s 名，總計 %(total)s 人"
+
+msgid "DIALOG_QUEUE_TIME"
+msgstr "等候時間: %(time)s"
+
+msgid "DIALOG_SERVER_FULL_BUTTON_LEAVE_QUEUE"
+msgstr "離開"
+
+msgid "DIALOG_SERVER_FULL_HEADER"
+msgstr "伺服器 {name} 繁忙"
+
+msgid "DIALOG_SERVER_FULL_MESSAGE"
+msgstr "您已經進入遊戲等待佇列，請等待客戶端自動連線遊戲伺服器。"
+
+msgid "DIALOG_SERVER_OVERLOADED_HEADER"
+msgstr "對不起, 伺服器忙。"
+
+msgid "DIALOG_SERVER_OVERLOADED_MESSAGE"
+msgstr "連線至伺服器…"
+
+msgid "DIALOG_SERVER_OVERLOADED_MESSAGE_SHORT"
+msgstr "連線到伺服器。"
+
+msgid "DIALOG_SERVER_RECONNECTING_MESSAGE"
+msgstr "無法連線到伺服器，重新連線中…"
+
+msgid "DIALOG_SERVER_WAITING_TIME_MESSAGE"
+msgstr "伺服器連線時間:"
+
+msgid "DIALOG_TRAINING_QUEUE_MESSAGE"
+msgstr "不進行訓練或稍後再參加訓練，無需進行訓練即可參加標準戰鬥。"
+
+msgid "DIALOG_TRAINING_WAIT_MESSAGE"
+msgstr "教程將自動開啟"
+
+msgid "DISCLAIMER"
+msgstr ""
+"健康遊戲忠告\r\n"
+"抵制不良遊戲，拒絕盜版遊戲。注意自我保護，謹防受騙上當。\r\n"
+"適度遊戲益腦，沉迷遊戲傷身。合理安排時間，享受健康生活。"
+
+msgid "DISCONNECTED"
+msgstr "連線伺服器發生丟包。"
+
+msgid "ENTER"
+msgstr "進入戰鬥"
+
+msgid "ERROR_MESSAGE_NO_MOUSE_FOUND"
+msgstr "未檢測到滑鼠"
+
+msgid "INVALID_LOGIN"
+msgstr "電子信箱或密碼不正確"
+
+msgid "INVALID_LOGIN_LENGTH"
+msgstr "信箱地址不正確。"
+
+msgid "INVALID_PASSWORD"
+msgstr "密碼不正確"
+
+msgid "LOGIN/STATUS/ALREADY_ONLINE_LOCALLY"
+msgstr "客戶端已經架設在本地網。"
+
+msgid "LOGIN/STATUS/CANCELLED"
+msgstr "使用者與伺服器連線被中斷"
+
+msgid "LOGIN/STATUS/CONNECTING"
+msgstr "?empty?"
+
+msgid "LOGIN/STATUS/CONNECTION_FAILED"
+msgstr "無法連線到網路"
+
+msgid "LOGIN/STATUS/DISCONNECTED"
+msgstr "你已與伺服器中斷連線"
+
+msgid "LOGIN/STATUS/DNS_LOOKUP_FAILED"
+msgstr "通過DNS無法找到伺服器的IP地址"
+
+msgid "LOGIN/STATUS/EMPTY_LOGIN"
+msgstr "請輸入您的帳號"
+
+msgid "LOGIN/STATUS/EMPTY_PASSWORD"
+msgstr "請輸入您的密碼"
+
+msgid "LOGIN/STATUS/EMPTY_SERVER"
+msgstr "請選擇一個伺服器"
+
+msgid "LOGIN/STATUS/INVALID_LOGIN"
+msgstr "請使用您的註冊帳號登入"
+
+msgid "LOGIN/STATUS/INVALID_LOGIN_LENGTH"
+msgstr "帳號必須至少5個字元"
+
+msgid "LOGIN/STATUS/INVALID_PASSWORD"
+msgstr "密碼必須至少6個字元"
+
+msgid "LOGIN/STATUS/LOGIN_BAD_PROTOCOL_VERSION"
+msgstr "請更新客戶端應用程式"
+
+msgid "LOGIN/STATUS/LOGIN_CUSTOM_DEFINED_ERROR"
+msgstr "伺服器不可用.原因： ％s"
+
+msgid "LOGIN/STATUS/LOGIN_MALFORMED_REQUEST"
+msgstr "登入資料包傳送到伺服器的格式不正確。客戶端可能會過時或損壞。"
+
+msgid "LOGIN/STATUS/LOGIN_REJECTED_ACTIVATING"
+msgstr "登入中……"
+
+msgid "LOGIN/STATUS/LOGIN_REJECTED_ALREADY_LOGGED_IN"
+msgstr "該名稱的玩家已經在遊戲中"
+
+msgid "LOGIN/STATUS/LOGIN_REJECTED_AUTHORIZING_ERROR"
+msgstr "授權錯誤，請輸入您的帳號和密碼"
+
+msgid "LOGIN/STATUS/LOGIN_REJECTED_BAD_DIGEST"
+msgstr "請更新客戶端應用程式"
+
+msgid "LOGIN/STATUS/LOGIN_REJECTED_BAN"
+msgstr "您的帳號已被鎖定直到%(time)s。原因: %(reason)s。"
+
+msgid "LOGIN/STATUS/LOGIN_REJECTED_BAN_UNLIMITED"
+msgstr "您的帳號已被暫停。原因: %(reason)s。"
+
+msgid "LOGIN/STATUS/LOGIN_REJECTED_BASEAPPMGR_TIMEOUT"
+msgstr "伺服器錯誤 (BASEAPPMGR_TIMEOUT)"
+
+msgid "LOGIN/STATUS/LOGIN_REJECTED_BASEAPP_OVERLOAD"
+msgstr "伺服器忙碌中，請稍後再試一次。"
+
+msgid "LOGIN/STATUS/LOGIN_REJECTED_BASEAPP_TIMEOUT"
+msgstr "進入遊戲失敗：伺服器重啟中"
+
+msgid "LOGIN/STATUS/LOGIN_REJECTED_CELLAPP_OVERLOAD"
+msgstr "伺服器忙碌中，請稍後再試一次。"
+
+msgid "LOGIN/STATUS/LOGIN_REJECTED_DBMGR_OVERLOAD"
+msgstr "伺服器忙碌中，請稍後再試一次。"
+
+msgid "LOGIN/STATUS/LOGIN_REJECTED_DB_GENERAL_FAILURE"
+msgstr "伺服器錯誤 (DB_GENERAL_FAILURE)"
+
+msgid "LOGIN/STATUS/LOGIN_REJECTED_DB_NOT_READY"
+msgstr "伺服器錯誤 (DB_NOT_READY)"
+
+msgid "LOGIN/STATUS/LOGIN_REJECTED_ILLEGAL_CHARACTERS"
+msgstr "帳號或密碼包含無效字元"
+
+msgid "LOGIN/STATUS/LOGIN_REJECTED_INVALID_LOGIN"
+msgstr "帳號或密碼不正確"
+
+msgid "LOGIN/STATUS/LOGIN_REJECTED_INVALID_PASSWORD"
+msgstr "帳號或密碼不正確"
+
+msgid "LOGIN/STATUS/LOGIN_REJECTED_LOGINS_NOT_ALLOWED"
+msgstr "由於例行維護伺服器暫時無法使用"
+
+msgid "LOGIN/STATUS/LOGIN_REJECTED_LOGIN_QUEUE"
+msgstr "伺服器忙碌中，等待伺服器連線，您的佇列號： %d"
+
+msgid "LOGIN/STATUS/LOGIN_REJECTED_NOT_REGISTERED"
+msgstr "無法登入。請確認您的帳號和密碼。"
+
+msgid "LOGIN/STATUS/LOGIN_REJECTED_NO_BASEAPPS"
+msgstr "進入遊戲失敗：伺服器重啟中"
+
+msgid "LOGIN/STATUS/LOGIN_REJECTED_NO_BASEAPP_RESPONSE"
+msgstr "伺服器錯誤 (NO_BASEAPPS)"
+
+msgid "LOGIN/STATUS/LOGIN_REJECTED_NO_LOGINAPP"
+msgstr ""
+"無法連線至伺服器，\n"
+"伺服器目前暫不可用或您的網路連線設定有錯誤。"
+
+msgid "LOGIN/STATUS/LOGIN_REJECTED_NO_LOGINAPP_RESPONSE"
+msgstr ""
+"無法連線至伺服器，\n"
+"伺服器目前暫不可用或您的網路連線設定有錯誤。"
+
+msgid "LOGIN/STATUS/LOGIN_REJECTED_NO_SUCH_USER"
+msgstr "帳號或密碼不正確"
+
+msgid "LOGIN/STATUS/LOGIN_REJECTED_RATE_LIMITED"
+msgstr "伺服器忙碌中，等待伺服器連線"
+
+msgid "LOGIN/STATUS/LOGIN_REJECTED_REGISTRATION_NOT_ALLOWED"
+msgstr "登入暫時被禁止"
+
+msgid "LOGIN/STATUS/LOGIN_REJECTED_REGISTRATION_NOT_CONFIRMED"
+msgstr "無法登入。請確認您的帳號和密碼。"
+
+msgid "LOGIN/STATUS/LOGIN_REJECTED_SERVER_NOT_READY"
+msgstr "伺服器未準備就緒，請稍後再進行嘗試。"
+
+msgid "LOGIN/STATUS/LOGIN_REJECTED_UNABLE_TO_PARSE_JSON"
+msgstr "帳號包含無效符號。請嘗試其他帳號。"
+
+msgid "LOGIN/STATUS/LOGIN_REJECTED_USERS_LIMIT"
+msgstr "伺服器忙。請選擇其他伺服器或者稍後登入。"
+
+msgid "LOGIN/STATUS/PUBLIC_KEY_LOOKUP_FAILED"
+msgstr "無法找到客戶端公鑰，請更新客戶端程式"
+
+msgid "LOGIN/STATUS/UNAVAILABLE"
+msgstr "伺服器不可用"
+
+msgid "LOGIN/STATUS/UNKNOWN_ERROR"
+msgstr "發生未知錯誤"
+
+msgid "LOGIN/STATUS/UPDATEURLAVAIALBLEAT"
+msgstr "請運行遊戲資料夾中的 WOWpLauncher.exe 檔案更新客戶端"
+
+msgid "LOGIN_ACCOUNT"
+msgstr "帳號:"
+
+msgid "LOGIN_AUTO_ENTER"
+msgstr "自動連線"
+
+msgid "LOGIN_CUSTOM_DEFINED_ERROR"
+msgstr "發生未知錯誤"
+
+msgid "LOGIN_ENTER"
+msgstr "登 入"
+
+msgid "LOGIN_EXIT_ACCOUNT"
+msgstr "登 出"
+
+msgid "LOGIN_FAST_ENTER"
+msgstr "快速登入:"
+
+msgid "LOGIN_FIELD"
+msgstr "電子信箱："
+
+msgid "LOGIN_FORGOT_PASSWORD_TEXT"
+msgstr "忘記密碼？"
+
+msgid "LOGIN_LAW_INFO"
+msgstr "法律資訊"
+
+msgid "LOGIN_LOGIN"
+msgstr "電子信箱："
+
+msgid "LOGIN_NICK"
+msgstr "帳號："
+
+msgid "LOGIN_PASS"
+msgstr "密碼："
+
+msgid "LOGIN_POPUP_MENU"
+msgstr "選單"
+
+msgid "LOGIN_REJECTED_ACCOUNT_OUTDATED"
+msgstr "連線超時"
+
+msgid "LOGIN_REJECTED_ACTIVATION"
+msgstr "帳號未被啟動，請使用啟動碼啟動遊戲！"
+
+msgid "LOGIN_REJECTED_BAN"
+msgstr "您的帳號已被鎖定直到 %(time)s。原因: %(reason)s。"
+
+msgid "LOGIN_REJECTED_BAN_UNLIMITED"
+msgstr "您的帳號已被永久封號。原因: %(reason)s。"
+
+msgid "LOGIN_REJECTED_INVALID_DATA"
+msgstr "無效的證書。"
+
+msgid "LOGIN_REJECTED_LOGIN_QUEUE"
+msgstr "排隊進入遊戲:"
+
+msgid "LOGIN_REJECTED_RATE_LIMITED"
+msgstr "伺服器忙碌中，等待伺服器連線"
+
+msgid "LOGIN_SERVER"
+msgstr "伺服器："
+
+msgid "LOGIN_SIGN_UP_TEXT"
+msgstr "註冊"
+
+msgid "NICK_FIELD"
+msgstr "帳號："
+
+msgid "PASS_FIELD"
+msgstr "密碼："
+
+msgid "REMEMBER_PASSWORD"
+msgstr "記憶帳號"
+
+msgid "REPLAY_MESSAGE_CLIENT_ALREADY_LAUNCHED"
+msgstr "請退出遊戲後再開啟播放器觀看 replay。"
+
+msgid "REPLAY_MESSAGE_INCOMPATIBLE_CLIENT_VERSION"
+msgstr "此 replay 的錄製版本與當前遊戲版本不相容"
+
+msgid "RETURN_TO_GAME_BTN"
+msgstr "回到遊戲"
+
+msgid "SERVER_UNAVAILABLE_HEADER"
+msgstr "伺服器不可用"
+
+msgid "SERVER_UNAVAILABLE_MESSAGE"
+msgstr "暫時無法切換伺服器，你可選擇繼續使用當前伺服器或等待切換功能可用"
+
+msgid "TOOLTIP_LOGIN_EXIT_ACCOUNT"
+msgstr "清除登入資訊"
+
+msgid "TOOLTIP_LOGIN_FORGOT_PASSWORD_TEXT"
+msgstr "您將跳轉至密碼恢復頁面"
+
+msgid "TOOLTIP_LOGIN_SIGN_UP_TEXT"
+msgstr "您將跳轉至註冊頁面"
+
+msgid "TOOLTIP_REDIRECT_SOCIAL"
+msgstr "您將跳轉至登入頁面"
+
+msgid "UPDATEURLAVAIALBLEAT"
+msgstr "請更新客戶端應用程式"
+
+msgid "WAIT_CONNECTION_BTN"
+msgstr "等待"
+
+msgid "WARGAMING_COPYRIGHT"
+msgstr "© 2011-2018 Wargaming.net. 保留所有權利。"
+
+msgid "LOGIN_MESSAGES_DOWNLOAD_AND_UPDATE"
+msgstr ""
+"If update does not start, download the update file from the {link_start}"
+"link{link_end} and run it."
+
+msgid "LOGIN_MESSAGES_NEW_UPDATE"
+msgstr "New game client version is available."
+
+msgid "LOGIN_MESSAGES_START_UPDATE"
+msgstr "Start update"

@@ -1,0 +1,1024 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: World Of Tanks\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-06-01 10:00+0300\n"
+"Last-Translator: i_maliavko <i_maliavko@wargaming.net>\n"
+"Language-Team: WoT Team <noreply@wargaming.net>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "PRESET_NAME_2PA-L_P"
+msgstr "2PA-L"
+
+msgid "PRESET_NAME_A5M2_P"
+msgstr "九六式二號"
+
+msgid "PRESET_NAME_A5M4A_P"
+msgstr "九六式四號一型"
+
+msgid "PRESET_NAME_A5M4C_P"
+msgstr "九六式四號三型"
+
+msgid "PRESET_NAME_A6M1_M11_P"
+msgstr "十二試艦戰一一型"
+
+msgid "PRESET_NAME_A6M1_M12B_P"
+msgstr "十二試艦戰一二型乙"
+
+msgid "PRESET_NAME_A6M1_M12_P"
+msgstr "十二試艦戰一二型甲"
+
+msgid "PRESET_NAME_A6M2_M11_P"
+msgstr "零戰一一型"
+
+msgid "PRESET_NAME_A6M3_M32A_P"
+msgstr "零戰三二型"
+
+msgid "PRESET_NAME_A6M3_M32B_P"
+msgstr "零戰二二型"
+
+msgid "PRESET_NAME_A6M3_M52A_P"
+msgstr "零戰五二型甲"
+
+msgid "PRESET_NAME_A6M3_M52C_P"
+msgstr "零戰五二型丙"
+
+msgid "PRESET_NAME_A6M3_M53C_P"
+msgstr "零戰五三型"
+
+msgid "PRESET_NAME_A6M3_M54C_P"
+msgstr "零戰五四型"
+
+msgid "PRESET_NAME_A7M1_M11A_P"
+msgstr "烈風 11a型"
+
+msgid "PRESET_NAME_A7M1_M11B_P"
+msgstr "烈風 11b型"
+
+msgid "PRESET_NAME_A7M1_M22A_P"
+msgstr "烈風 22a型"
+
+msgid "PRESET_NAME_A7M1_M23B_P"
+msgstr "烈風 23b型"
+
+msgid "PRESET_NAME_A7M1_M24B_P"
+msgstr "烈風 24b型"
+
+msgid "PRESET_NAME_AO-192C-1_P"
+msgstr "Ao 192C-1"
+
+msgid "PRESET_NAME_AO-192C-3_P"
+msgstr "Ao 192C-3"
+
+msgid "PRESET_NAME_AO-192CA_P"
+msgstr "Ao 192CA"
+
+msgid "PRESET_NAME_AR-197_P"
+msgstr "Ar 197"
+
+msgid "PRESET_NAME_AR64E_P"
+msgstr "Ar 64E"
+
+msgid "PRESET_NAME_AR64V1_P"
+msgstr "Ar 64 V1"
+
+msgid "PRESET_NAME_AR65D_P"
+msgstr "Ar 65D"
+
+msgid "PRESET_NAME_AR65V1_P"
+msgstr "Ar 65 V1"
+
+msgid "PRESET_NAME_AR68D_P"
+msgstr "Ar 68d"
+
+msgid "PRESET_NAME_AR68G_P"
+msgstr "Ar 68G"
+
+msgid "PRESET_NAME_AR68H_P"
+msgstr "Ar 68h"
+
+msgid "PRESET_NAME_AR68V1_P"
+msgstr "Ar 68 V1"
+
+msgid "PRESET_NAME_AR68V3_P"
+msgstr "Ar 68 V 3"
+
+msgid "PRESET_NAME_AR80V1_P"
+msgstr "Ar 80 V1"
+
+msgid "PRESET_NAME_AR80V2_P"
+msgstr "Ar 80 V1-3"
+
+msgid "PRESET_NAME_AR80V301_P"
+msgstr "Ar 80 V3-1"
+
+msgid "PRESET_NAME_AR80V3_P"
+msgstr "Ar 80 V3"
+
+msgid "PRESET_NAME_ATTACKER_P"
+msgstr "攻擊者"
+
+msgid "PRESET_NAME_BEAUFIGHTER-F_P"
+msgstr "英俊戰士"
+
+msgid "PRESET_NAME_BF-109EE3_P"
+msgstr "Bf 109 E-3"
+
+msgid "PRESET_NAME_BF-109EE4_P"
+msgstr "Bf 109 E-4"
+
+msgid "PRESET_NAME_BF-109EV14_P"
+msgstr "Bf 109 V14"
+
+msgid "PRESET_NAME_BF-109EV15_P"
+msgstr "Bf 109 V15"
+
+msgid "PRESET_NAME_BF-109F4_P"
+msgstr "Bf 109 F-4"
+
+msgid "PRESET_NAME_BF-109F_P"
+msgstr "Bf 109 F-2"
+
+msgid "PRESET_NAME_BF-109G0_P"
+msgstr "Bf 109 G-0"
+
+msgid "PRESET_NAME_BF-109G14_P"
+msgstr "Bf 109 G-14"
+
+msgid "PRESET_NAME_BF-109G2_P"
+msgstr "Bf 109 G-2"
+
+msgid "PRESET_NAME_BF-109G6AS_P"
+msgstr "Bf 109 G-6/AS"
+
+msgid "PRESET_NAME_BF-109G6R4_P"
+msgstr "Bf 109 G-6/R4"
+
+msgid "PRESET_NAME_BF-109G6R6_P"
+msgstr "Bf 109 G-6/R6"
+
+msgid "PRESET_NAME_BF-109G6_P"
+msgstr "Bf 109 G-6/R2"
+
+msgid "PRESET_NAME_BF-109TL1C_P"
+msgstr "Me 109 TL-1c"
+
+msgid "PRESET_NAME_BF-109TL1E_P"
+msgstr "Me 109 TL-1e"
+
+msgid "PRESET_NAME_BF-109TL1U4_P"
+msgstr "Me 109 TL-1/U4"
+
+msgid "PRESET_NAME_BF-109TL1_P"
+msgstr "Me 109 TL-1"
+
+msgid "PRESET_NAME_BF-109ZV1_P"
+msgstr "Bf 109 Z V1"
+
+msgid "PRESET_NAME_BF-109ZV2A_P"
+msgstr "Bf 109 Z V2a"
+
+msgid "PRESET_NAME_BF-109ZV3B_P"
+msgstr "Bf 109 Z V3b"
+
+msgid "PRESET_NAME_BF-109ZV4_P"
+msgstr "Bf 109 Z V4"
+
+msgid "PRESET_NAME_BF-110A4_P"
+msgstr "Bf 110 A-4"
+
+msgid "PRESET_NAME_BF-110B1MG81_P"
+msgstr "Bf 110 B-1/MG-81"
+
+msgid "PRESET_NAME_BF-110B1_P"
+msgstr "Bf 110 B-1"
+
+msgid "PRESET_NAME_BF-110C-6_P"
+msgstr "Bf 110C-6"
+
+msgid "PRESET_NAME_BF-110C1_P"
+msgstr "Bf 110 C-1"
+
+msgid "PRESET_NAME_BF-110C7_P"
+msgstr "Bf 110 C-7"
+
+msgid "PRESET_NAME_BF-110D1_P"
+msgstr "Bf 110 D-1"
+
+msgid "PRESET_NAME_BF-110E1_P"
+msgstr "Bf 110 E-1"
+
+msgid "PRESET_NAME_BF-110E6_P"
+msgstr "Bf 110 E-6"
+
+msgid "PRESET_NAME_BF-110F1MG81Z_P"
+msgstr "Bf 110 F-1/MG-81Z"
+
+msgid "PRESET_NAME_BF-110F1_P"
+msgstr "Bf 110 F-1"
+
+msgid "PRESET_NAME_BF-110F7_P"
+msgstr "Bf 110 F-7"
+
+msgid "PRESET_NAME_BF-209A1A_P"
+msgstr "Me 209 A-1a"
+
+msgid "PRESET_NAME_BF-209A1_P"
+msgstr "Me 209 A-1"
+
+msgid "PRESET_NAME_BF-209A2_P"
+msgstr "Me 209 A-2"
+
+msgid "PRESET_NAME_BF-209V5_P"
+msgstr "Me 209 V5"
+
+msgid "PRESET_NAME_BF109B-1_P"
+msgstr "Bf 109 B-1"
+
+msgid "PRESET_NAME_BF109B-2_P"
+msgstr "Bf 109 B-2"
+
+msgid "PRESET_NAME_BF109C-1_P"
+msgstr "Bf 109 C-1"
+
+msgid "PRESET_NAME_BF109C-2_P"
+msgstr "Bf 109 C-2"
+
+msgid "PRESET_NAME_BF109D-1_P"
+msgstr "Bf 109 D-1"
+
+msgid "PRESET_NAME_BF109D-3_P"
+msgstr "Bf 109 D-3"
+
+msgid "PRESET_NAME_BLENHEIM-F_P"
+msgstr "布倫海姆 F"
+
+msgid "PRESET_NAME_BRISTOL-TYPE-105_P"
+msgstr "鬥牛犬"
+
+msgid "PRESET_NAME_BRISTOL-TYPE-133_P"
+msgstr "布裡斯托爾 133"
+
+msgid "PRESET_NAME_BRISTOL-TYPE-146_P"
+msgstr "布裡斯托爾 146"
+
+msgid "PRESET_NAME_BSH-1_P"
+msgstr "BSh-1"
+
+msgid "PRESET_NAME_BSH-2_P"
+msgstr "BSh-2"
+
+msgid "PRESET_NAME_CKB-3_M-22_P"
+msgstr "TsKB-3 M-22"
+
+msgid "PRESET_NAME_D-H-103_P"
+msgstr "黃蜂"
+
+msgid "PRESET_NAME_D-H-98_P"
+msgstr "蚊式"
+
+msgid "PRESET_NAME_DEMON_P"
+msgstr "惡魔"
+
+msgid "PRESET_NAME_F-86A_P"
+msgstr "F-86A"
+
+msgid "PRESET_NAME_F11C_P"
+msgstr "F11C"
+
+msgid "PRESET_NAME_F2A-1_P"
+msgstr "F2A-1"
+
+msgid "PRESET_NAME_F2A-2_P"
+msgstr "F2A-2"
+
+msgid "PRESET_NAME_F2A-3_P"
+msgstr "F2A-3"
+
+msgid "PRESET_NAME_F2F-1_P"
+msgstr "F2F-1"
+
+msgid "PRESET_NAME_F2F-2_P"
+msgstr "F2F-2"
+
+msgid "PRESET_NAME_F2F-3_P"
+msgstr "F2F-3"
+
+msgid "PRESET_NAME_F2G-1A_P"
+msgstr "F2G-1A"
+
+msgid "PRESET_NAME_F2G-1C_P"
+msgstr "F2G-1C"
+
+msgid "PRESET_NAME_F2G-1D_P"
+msgstr "F2G-1D"
+
+msgid "PRESET_NAME_F2M_P"
+msgstr "F2M"
+
+msgid "PRESET_NAME_F3F-1_P"
+msgstr "F3F-1"
+
+msgid "PRESET_NAME_F3F-2_P"
+msgstr "F3F-2"
+
+msgid "PRESET_NAME_F3F-4_P"
+msgstr "F3F-4"
+
+msgid "PRESET_NAME_F4F-3_P"
+msgstr "F4F-3"
+
+msgid "PRESET_NAME_F4F-4_P"
+msgstr "F4F-4"
+
+msgid "PRESET_NAME_F4U-1A_P"
+msgstr "F4U-1A"
+
+msgid "PRESET_NAME_F4U-1C_P"
+msgstr "F4U-1C"
+
+msgid "PRESET_NAME_F4U-1D_P"
+msgstr "F4U-1D"
+
+msgid "PRESET_NAME_F4U-4_P"
+msgstr "F4U-4"
+
+msgid "PRESET_NAME_F5U-1A_P"
+msgstr "F5U-1A"
+
+msgid "PRESET_NAME_F6U-1_P"
+msgstr "F6U-1"
+
+msgid "PRESET_NAME_F6U-2_P"
+msgstr "F6U-2"
+
+msgid "PRESET_NAME_F6U-3_P"
+msgstr "F6U-3"
+
+msgid "PRESET_NAME_F7U_P"
+msgstr "F7U"
+
+msgid "PRESET_NAME_FJ-1A_P"
+msgstr "FJ-1A"
+
+msgid "PRESET_NAME_FJ-1_P"
+msgstr "FJ-1"
+
+msgid "PRESET_NAME_FL-1_P"
+msgstr "FL-1"
+
+msgid "PRESET_NAME_FM-1_P"
+msgstr "FM-1"
+
+msgid "PRESET_NAME_FW-56_P"
+msgstr "Fw 56"
+
+msgid "PRESET_NAME_FW-57V101_P"
+msgstr "Fw 57 V1-1"
+
+msgid "PRESET_NAME_FW-57V102_P"
+msgstr "Fw 57 V1-MG-FF"
+
+msgid "PRESET_NAME_FW-57V103_P"
+msgstr "Fw 57 V1-3"
+
+msgid "PRESET_NAME_FW-57V104_P"
+msgstr "Fw 57 V1-4"
+
+msgid "PRESET_NAME_FW-57V3_P"
+msgstr "Fw 57 V3"
+
+msgid "PRESET_NAME_GLOSTER-JAVELIN_P"
+msgstr "標槍"
+
+msgid "PRESET_NAME_GLOSTER-P-228_P"
+msgstr "P. 228"
+
+msgid "PRESET_NAME_GOLDFINCH_P"
+msgstr "金翅雀"
+
+msgid "PRESET_NAME_H75A-5_P"
+msgstr "H75A-5"
+
+msgid "PRESET_NAME_HE-100_P"
+msgstr "He 100"
+
+msgid "PRESET_NAME_I-152-1_P"
+msgstr "伊-152-1"
+
+msgid "PRESET_NAME_I-152DM_P"
+msgstr "伊-152DM"
+
+msgid "PRESET_NAME_I-152_P"
+msgstr "伊-152"
+
+msgid "PRESET_NAME_I-15BIS-DM2_P"
+msgstr "伊-152DM"
+
+msgid "PRESET_NAME_I-15_P"
+msgstr "伊-15"
+
+msgid "PRESET_NAME_I-16-10_EARLY_P"
+msgstr "伊-16-10"
+
+msgid "PRESET_NAME_I-16-10_LATE_P"
+msgstr "伊-16-15"
+
+msgid "PRESET_NAME_I-16-10_P"
+msgstr "伊-16-18"
+
+msgid "PRESET_NAME_I-16-14_P"
+msgstr "伊-16-14"
+
+msgid "PRESET_NAME_I-16-27_P"
+msgstr "伊-16-27"
+
+msgid "PRESET_NAME_I-16-28_P"
+msgstr "伊-16-28"
+
+msgid "PRESET_NAME_I-16-29_P"
+msgstr "伊-16-29"
+
+msgid "PRESET_NAME_I-16-4_P"
+msgstr "伊-16-4"
+
+msgid "PRESET_NAME_I-16-5_P"
+msgstr "伊-16-5"
+
+msgid "PRESET_NAME_I-17_P"
+msgstr "伊-17"
+
+msgid "PRESET_NAME_I-5BIS_P"
+msgstr "伊-5比斯"
+
+msgid "PRESET_NAME_I-5SHKAS_P"
+msgstr "伊-5 施卡斯"
+
+msgid "PRESET_NAME_I-5_P"
+msgstr "伊-5"
+
+msgid "PRESET_NAME_IL-10_EARLY_P"
+msgstr "伊爾-10 早期型"
+
+msgid "PRESET_NAME_IL-10_LATE_P"
+msgstr "伊爾-10 改進型"
+
+msgid "PRESET_NAME_IL-16M_NR_P"
+msgstr "伊爾-16M NR"
+
+msgid "PRESET_NAME_IL-16M_P"
+msgstr "伊爾-16M"
+
+msgid "PRESET_NAME_IL-16_AM-42_P"
+msgstr "伊爾-16 AM-42"
+
+msgid "PRESET_NAME_IL-16_AM-43_P"
+msgstr "伊爾-16 AM-43"
+
+msgid "PRESET_NAME_IL-20-1_P"
+msgstr "伊爾-20-1"
+
+msgid "PRESET_NAME_IL-20-2_P"
+msgstr "伊爾-20-2"
+
+msgid "PRESET_NAME_IL-20M_N-57_P"
+msgstr "伊爾-20M N-57"
+
+msgid "PRESET_NAME_IL-20M_P"
+msgstr "伊爾-20M"
+
+msgid "PRESET_NAME_IL-2MOD_P"
+msgstr "伊爾-2M"
+
+msgid "PRESET_NAME_IL-2_1942EARLY_P"
+msgstr "伊爾-2 1942年早期型"
+
+msgid "PRESET_NAME_IL-2_1942LATE_P"
+msgstr "伊爾-2 1942年改進型"
+
+msgid "PRESET_NAME_IL-2_1943_P"
+msgstr "伊爾-2 1943年型"
+
+msgid "PRESET_NAME_IL-2_AM-35_P"
+msgstr "伊爾-2 AM-35"
+
+msgid "PRESET_NAME_IL-2_AM-38EARLY_P"
+msgstr "伊爾-2 AM-38 早期型"
+
+msgid "PRESET_NAME_IL-2_AM-38LATE_P"
+msgstr "伊爾-2 AM-38 改進型"
+
+msgid "PRESET_NAME_IL-2_M82_P"
+msgstr "伊爾-2 M-82"
+
+msgid "PRESET_NAME_IL-2_M_P"
+msgstr "伊爾-2M"
+
+msgid "PRESET_NAME_IL-2_NS-37_P"
+msgstr "伊爾-2 NS-37"
+
+msgid "PRESET_NAME_IL-2_SHFK_P"
+msgstr "伊爾-2 ShFK-37"
+
+msgid "PRESET_NAME_IL-40P_P"
+msgstr "伊爾-40P"
+
+msgid "PRESET_NAME_IL-40_P"
+msgstr "伊爾-40"
+
+msgid "PRESET_NAME_IL-8-37_P"
+msgstr "伊爾-8-37 AM-38"
+
+msgid "PRESET_NAME_IL-8-45_AM-42_P"
+msgstr "伊爾-8-45 AM-42"
+
+msgid "PRESET_NAME_IL-8M_P"
+msgstr "伊爾-8M"
+
+msgid "PRESET_NAME_IL-8_AM-38_P"
+msgstr "伊爾-8 AM-38"
+
+msgid "PRESET_NAME_IL-8_AM-42_P"
+msgstr "伊爾-8 AM-42"
+
+msgid "PRESET_NAME_J4M1_M11_P"
+msgstr "閃電 11型"
+
+msgid "PRESET_NAME_J4M1_M12_P"
+msgstr "閃電 12型"
+
+msgid "PRESET_NAME_J4M1_M22B_P"
+msgstr "閃電 22b型"
+
+msgid "PRESET_NAME_J4M1_M23B_P"
+msgstr "閃電 23b型"
+
+msgid "PRESET_NAME_J4M1_M24B_P"
+msgstr "閃電 24b型"
+
+msgid "PRESET_NAME_J7W1_M11A_P"
+msgstr "震電 11a型"
+
+msgid "PRESET_NAME_J7W1_M11B_P"
+msgstr "震電 11b型"
+
+msgid "PRESET_NAME_J7W1_M12C_P"
+msgstr "震電 12c型"
+
+msgid "PRESET_NAME_J7W1_M13C_P"
+msgstr "震電 13c型"
+
+msgid "PRESET_NAME_J7W2_M11A_P"
+msgstr "震電改 11a型"
+
+msgid "PRESET_NAME_J7W2_M12B_P"
+msgstr "震電改 12b型"
+
+msgid "PRESET_NAME_J7W2_M12C_P"
+msgstr "震電改 12c型"
+
+msgid "PRESET_NAME_J7W2_M13C_P"
+msgstr "震電改 13c型"
+
+msgid "PRESET_NAME_J7W3_P"
+msgstr "J7W3"
+
+msgid "PRESET_NAME_KA-14_P"
+msgstr "九試單戰"
+
+msgid "PRESET_NAME_KA14_P"
+msgstr "九試單戰"
+
+msgid "PRESET_NAME_KI-18_P"
+msgstr "Ki-18"
+
+msgid "PRESET_NAME_KI-33_P"
+msgstr "Ki-33"
+
+msgid "PRESET_NAME_LA-126_P"
+msgstr "拉-126"
+
+msgid "PRESET_NAME_LA-150M2_P"
+msgstr "拉-150M2"
+
+msgid "PRESET_NAME_LA-150M_P"
+msgstr "拉-150M"
+
+msgid "PRESET_NAME_LA-150_JUMO_P"
+msgstr "拉-150 巨魔"
+
+msgid "PRESET_NAME_LA-150_P"
+msgstr "拉-150"
+
+msgid "PRESET_NAME_LA-15_P"
+msgstr "拉-15"
+
+msgid "PRESET_NAME_LA-160-1_P"
+msgstr "拉-160-1"
+
+msgid "PRESET_NAME_LA-160-2_P"
+msgstr "拉-160-2"
+
+msgid "PRESET_NAME_LA-160-ARROW_P"
+msgstr "拉-160 史特爾卡"
+
+msgid "PRESET_NAME_LA-160F_P"
+msgstr "拉-160F"
+
+msgid "PRESET_NAME_LA-5-37_P"
+msgstr "拉-5-37"
+
+msgid "PRESET_NAME_LA-5F-39_P"
+msgstr "拉-5F-39"
+
+msgid "PRESET_NAME_LA-5FN-39_P"
+msgstr "拉-5FN-39"
+
+msgid "PRESET_NAME_LA-5_M-71_P"
+msgstr "拉-5 M-71"
+
+msgid "PRESET_NAME_LA-7-STOCK_P"
+msgstr "拉-5 1944年型"
+
+msgid "PRESET_NAME_LA-7CM_P"
+msgstr "拉-7 (TsM)"
+
+msgid "PRESET_NAME_LA-7R_P"
+msgstr "拉-7R"
+
+msgid "PRESET_NAME_LA-7_P"
+msgstr "拉-7"
+
+msgid "PRESET_NAME_LA-9M_P"
+msgstr "拉-9M"
+
+msgid "PRESET_NAME_LA-9RD_P"
+msgstr "拉-9RD"
+
+msgid "PRESET_NAME_LA-9_P"
+msgstr "拉-9 量產型"
+
+msgid "PRESET_NAME_LAGG-3-11_P"
+msgstr "拉格-3-11"
+
+msgid "PRESET_NAME_LAGG-3-1_P"
+msgstr "拉格-3-1"
+
+msgid "PRESET_NAME_LAGG-3-28_P"
+msgstr "拉格-3-28"
+
+msgid "PRESET_NAME_LAGG-3-33_P"
+msgstr "拉格-3-33"
+
+msgid "PRESET_NAME_LAGG-3-66_P"
+msgstr "拉格-3-66"
+
+msgid "PRESET_NAME_LAGG-3F_P"
+msgstr "拉格-3F"
+
+msgid "PRESET_NAME_LAGG-3M_P"
+msgstr "拉格-3M"
+
+msgid "PRESET_NAME_LSH-1_P"
+msgstr "TSh-2"
+
+msgid "PRESET_NAME_M-20_P"
+msgstr "M.20"
+
+msgid "PRESET_NAME_M81A-1_P"
+msgstr "Model 81A-1"
+
+msgid "PRESET_NAME_ME-210_P"
+msgstr "Me 210"
+
+msgid "PRESET_NAME_ME-262-HG2_P"
+msgstr "Me 262HG II"
+
+msgid "PRESET_NAME_ME-262-HG3_P"
+msgstr "Me 262 HG III"
+
+msgid "PRESET_NAME_ME-262A1AU4_P"
+msgstr "Me 262 A-1a/U4"
+
+msgid "PRESET_NAME_ME-262A1A_P"
+msgstr "Me 262 A-1a"
+
+msgid "PRESET_NAME_ME-262A1B_P"
+msgstr "Me 262 A-1b"
+
+msgid "PRESET_NAME_ME-262C1A_P"
+msgstr "Me 262 C-1a"
+
+msgid "PRESET_NAME_ME-262V5_P"
+msgstr "Me 262 V5"
+
+msgid "PRESET_NAME_ME-410A1R1_P"
+msgstr "Me 410 A-1/U2"
+
+msgid "PRESET_NAME_ME-410A1R2_P"
+msgstr "Me 410 A-2/R2"
+
+msgid "PRESET_NAME_ME-410A1U1_P"
+msgstr "Me 410 A-2/U2"
+
+msgid "PRESET_NAME_ME-410A1_P"
+msgstr "Me 410 A-1"
+
+msgid "PRESET_NAME_ME-410V12_P"
+msgstr "Me 410 V12"
+
+msgid "PRESET_NAME_ME-410V1_P"
+msgstr "Me 410 V1"
+
+msgid "PRESET_NAME_ME-609V1_P"
+msgstr "Me 609 V1"
+
+msgid "PRESET_NAME_ME-609V4_P"
+msgstr "Me 609 V4"
+
+msgid "PRESET_NAME_ME-609V5A_P"
+msgstr "Me 609 V5a"
+
+msgid "PRESET_NAME_ME-609V6B_P"
+msgstr "Me 609 V6b"
+
+msgid "PRESET_NAME_ME-P1092_P"
+msgstr "Me P.1092 V4"
+
+msgid "PRESET_NAME_ME-P1099BV1_P"
+msgstr "Me P.1099 B V1"
+
+msgid "PRESET_NAME_ME-P1099BV2_P"
+msgstr "Me P.1099 B V2"
+
+msgid "PRESET_NAME_ME-P1099BV3_P"
+msgstr "Me P.1099 B V3"
+
+msgid "PRESET_NAME_ME-P1099BV4_P"
+msgstr "Me P.1099 B V4"
+
+msgid "PRESET_NAME_ME-P1101_P"
+msgstr "Me P.1101"
+
+msgid "PRESET_NAME_ME-P1102_P"
+msgstr "Me P.1102"
+
+msgid "PRESET_NAME_MODEL_75D_P"
+msgstr "75D型"
+
+msgid "PRESET_NAME_MODEL_75H_P"
+msgstr "75H型"
+
+msgid "PRESET_NAME_MODEL_75N_P"
+msgstr "75N型"
+
+msgid "PRESET_NAME_MUSTANG_IA_P"
+msgstr "野馬 IA"
+
+msgid "PRESET_NAME_MUSTANG_X_P"
+msgstr "野馬 X"
+
+msgid "PRESET_NAME_NAKAJIMAA4N1_P"
+msgstr "中島 A4N1"
+
+msgid "PRESET_NAME_NAKAJIMAA4N2_P"
+msgstr "中島 A4N2"
+
+msgid "PRESET_NAME_NAKAJIMANC_P"
+msgstr "中島 NC"
+
+msgid "PRESET_NAME_NAKAJIMAYM_P"
+msgstr "中島 YM"
+
+msgid "PRESET_NAME_P-12E_P"
+msgstr "P-12E"
+
+msgid "PRESET_NAME_P-36A_P"
+msgstr "P-36A"
+
+msgid "PRESET_NAME_P-36F_P"
+msgstr "P-36F"
+
+msgid "PRESET_NAME_P-36G_P"
+msgstr "P-36G"
+
+msgid "PRESET_NAME_P-39Q_P"
+msgstr "P-39"
+
+msgid "PRESET_NAME_P-40-M-105_P"
+msgstr "P-40 M-105"
+
+msgid "PRESET_NAME_P-40B_P"
+msgstr "P-40B"
+
+msgid "PRESET_NAME_P-40G_P"
+msgstr "XP-40G"
+
+msgid "PRESET_NAME_P-40K_P"
+msgstr "P-40E"
+
+msgid "PRESET_NAME_P-40N_P"
+msgstr "P-40N"
+
+msgid "PRESET_NAME_P-51A_P"
+msgstr "P-51A"
+
+msgid "PRESET_NAME_P-51B-1-NA_P"
+msgstr "P-51B-1-NA"
+
+msgid "PRESET_NAME_P-51C-10-NT_P"
+msgstr "P-51C-10-NT"
+
+msgid "PRESET_NAME_P-51D-1-NA_P"
+msgstr "P-51D-1-NA"
+
+msgid "PRESET_NAME_P-51D-25-NA_P"
+msgstr "P-51D-25-NA"
+
+msgid "PRESET_NAME_P-51JP-1_P"
+msgstr "P-51JP-1"
+
+msgid "PRESET_NAME_P-51JP-5_P"
+msgstr "P-51JP-5"
+
+msgid "PRESET_NAME_P-51_P"
+msgstr "P-51"
+
+msgid "PRESET_NAME_P-77_P"
+msgstr "P-77"
+
+msgid "PRESET_NAME_PEGAS_P"
+msgstr "飛馬"
+
+msgid "PRESET_NAME_R-9SH_P"
+msgstr "R-9Sh"
+
+msgid "PRESET_NAME_SH-1_M-87_P"
+msgstr "Sh-1 M-87"
+
+msgid "PRESET_NAME_SH-1_M-88_P"
+msgstr "Sh-1 M-88"
+
+msgid "PRESET_NAME_SH-2_M-85_P"
+msgstr "Sh-2 M-85"
+
+msgid "PRESET_NAME_SKUA_P"
+msgstr "賊鷗"
+
+msgid "PRESET_NAME_SPITFIRE-IX_P"
+msgstr "噴火 IX"
+
+msgid "PRESET_NAME_SPITFIRE-I_P"
+msgstr "噴火 I"
+
+msgid "PRESET_NAME_SPITFIRE-V_P"
+msgstr "噴火 V"
+
+msgid "PRESET_NAME_SPITFIRE-XIV_P"
+msgstr "噴火 XIV"
+
+msgid "PRESET_NAME_SWIFT_P"
+msgstr "褐雨燕"
+
+msgid "PRESET_NAME_TANDEM_P"
+msgstr "Sh雙座型"
+
+msgid "PRESET_NAME_TSH-1_6PV_P"
+msgstr "TSh-1 6PV"
+
+msgid "PRESET_NAME_TSH-1_P"
+msgstr "TSh-1"
+
+msgid "PRESET_NAME_TSH-2_M-17F_P"
+msgstr "TSh-2 M-17F"
+
+msgid "PRESET_NAME_TSH-3M_P"
+msgstr "TSh-3M"
+
+msgid "PRESET_NAME_TSH-3_PV_P"
+msgstr "TSh-3 PV"
+
+msgid "PRESET_NAME_TSH-3_SHKAS_P"
+msgstr "TSh-3 ShKAS"
+
+msgid "PRESET_NAME_TYPE-91_2_P"
+msgstr "中島 91-2"
+
+msgid "PRESET_NAME_TYPE-91_P"
+msgstr "中島 91-1"
+
+msgid "PRESET_NAME_VS-315_P"
+msgstr "VS-315"
+
+msgid "PRESET_NAME_VT_12_P"
+msgstr "VT-12"
+
+msgid "PRESET_NAME_WESTLAND-P-1056_P"
+msgstr "P.1056"
+
+msgid "PRESET_NAME_XF2A_P"
+msgstr "XF2A"
+
+msgid "PRESET_NAME_XF2B-1_P"
+msgstr "XF2B-1"
+
+msgid "PRESET_NAME_XF2F_P"
+msgstr "XF2F"
+
+msgid "PRESET_NAME_XF2G-1_P"
+msgstr "XF2G-1"
+
+msgid "PRESET_NAME_XF3F-1_P"
+msgstr "XF3F-1"
+
+msgid "PRESET_NAME_XF4B-1_P"
+msgstr "XF4B-1"
+
+msgid "PRESET_NAME_XF4F-3_(LATE)_P"
+msgstr "XF4F-3 改進型"
+
+msgid "PRESET_NAME_XF4F-3_P"
+msgstr "XF4F-3"
+
+msgid "PRESET_NAME_XF4U-1WM_P"
+msgstr "XF4U-1WM"
+
+msgid "PRESET_NAME_XF4U-1_P"
+msgstr "XF4U-1"
+
+msgid "PRESET_NAME_XF5U-1_P"
+msgstr "XF5U-1"
+
+msgid "PRESET_NAME_XF5U-2_P"
+msgstr "XF5U-2"
+
+msgid "PRESET_NAME_XF6U-1_P"
+msgstr "XF6U-1"
+
+msgid "PRESET_NAME_XFJ-1A_P"
+msgstr "XFJ-1A"
+
+msgid "PRESET_NAME_XFJ-1B_P"
+msgstr "XFJ-1B"
+
+msgid "PRESET_NAME_XP-23A_P"
+msgstr "XP-23A"
+
+msgid "PRESET_NAME_XP-23B_P"
+msgstr "XP-23B"
+
+msgid "PRESET_NAME_XP-36D_P"
+msgstr "XP-36D"
+
+msgid "PRESET_NAME_XP-51E-1_P"
+msgstr "XP-51E-1"
+
+msgid "PRESET_NAME_XP-51H_P"
+msgstr "XP-51H"
+
+msgid "PRESET_NAME_XP-51JP-1_P"
+msgstr "XP-51JP-1"
+
+msgid "PRESET_NAME_XP-51JP-2_P"
+msgstr "XP-51JP-2"
+
+msgid "PRESET_NAME_XP-51JP-V_P"
+msgstr "XP-51JP-V"
+
+msgid "PRESET_NAME_YAK-15_P"
+msgstr "雅克-15"
+
+msgid "PRESET_NAME_YAK-19_P"
+msgstr "雅克-19"
+
+msgid "PRESET_NAME_YAK-1M_P"
+msgstr "雅克-1M"
+
+msgid "PRESET_NAME_YAK-1_P"
+msgstr "雅克-1"
+
+msgid "PRESET_NAME_YAK-30_P"
+msgstr "雅克-30"
+
+msgid "PRESET_NAME_YAK-3_P"
+msgstr "雅克-3"
+
+msgid "PRESET_NAME_YAK-7_P"
+msgstr "雅克-7"
+
+msgid "PRESET_NAME_YAK-9U_P"
+msgstr "雅克-9U"
+
+msgid "PRESET_NAME_YAK-9_P"
+msgstr "雅克-9"
+
+msgid "PRESET_NAME_YP-23_P"
+msgstr "YP-23A"
+
+msgid "PRESET_NAME_YP-36_P"
+msgstr "YP-36"
+
+msgid "PRESET_NAME_Р-36С_P"
+msgstr "P-36C"

@@ -1,0 +1,506 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: World Of Warplanes\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-06-01 10:00+0300\n"
+"Last-Translator: v_tytarchuk <v_tytarchuk@wargaming.net>\n"
+"Language-Team: WoT Team <noreply@wargaming.net>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "SKILL_DESCRIPTION_GUNNER_KILLER"
+msgstr "尾砲手集中火力<font color='#f2f2f2'>攻擊生命值最少的飛機。"
+
+msgid "SKILL_DESCRIPTION_GUNNER_LONGRANGE"
+msgstr ""
+"增加<font color='#f2f2f2'>尾砲</font>射擊範圍<font color='#8dbb44'>15%</"
+"font>，尾砲的<font color='#f2f2f2'>穩定性20%。"
+
+msgid "SKILL_DESCRIPTION_GUNNER_NIMBLE"
+msgstr ""
+"減少尾砲的<font color='#f2f2f2'>瞄準時間</font> 尾砲的 <font "
+"color='#8dbb44'>50%</font>."
+
+msgid "SKILL_DESCRIPTION_GUNNER_PROTECTOR"
+msgstr "減少受到敵方尾砲的傷害 <font color='#8dbb44'>30%</font>。"
+
+msgid "SKILL_DESCRIPTION_GUNNER_PUNISHER"
+msgstr ""
+"尾砲手集火<font color='#f2f2f2'>最易受傷害的敵人的飛機</font>。由尾砲造成致命"
+"傷害的機率明顯增加。"
+
+msgid "SKILL_DESCRIPTION_GUNNER_SIGHTRANGE"
+msgstr ""
+"增加<font color='#f2f2f2'>尾砲手</font>發現敵機範圍<font color='#8dbb44'>20% "
+"</font>。"
+
+msgid "SKILL_DESCRIPTION_GUNNER_TOUGH"
+msgstr ""
+"減少<font color='#f2f2f2'>尾砲手</font>受傷機率<font color='#8dbb44'>20%</"
+"font>。"
+
+msgid "SKILL_DESCRIPTION_GUNNER_VOLLEY"
+msgstr ""
+"提高<font color='#8dbb44'>20％</font>尾砲<font color='#f2f2f2'>脈衝時間</"
+"font>。"
+
+msgid "SKILL_DESCRIPTION_LONG_AGILITY"
+msgstr "提高乘員的生存能力使乘員不易受傷，效果隨技能等級而變化。"
+
+msgid "SKILL_DESCRIPTION_LONG_BOMBER"
+msgstr ""
+"提高發射火箭彈或投擲炸彈的精度，技能對機槍或航砲的射擊精度沒有影響，效果隨技"
+"能等級而變化。"
+
+msgid "SKILL_DESCRIPTION_LONG_EAGLE_EYE"
+msgstr ""
+"增加後射機槍手對敵機進行攻擊的範圍，技能對飛機的主武器沒有影響，效果隨技能等"
+"級而變化。"
+
+msgid "SKILL_DESCRIPTION_LONG_ENGINE_SPECIALIST"
+msgstr "提高飛機在直線飛行或爬升時的加速能力，效果隨技能等級而變化。"
+
+msgid "SKILL_DESCRIPTION_LONG_FIRE_FIGHTING"
+msgstr ""
+"提高飛機在沒有滅火器情況下的滅火能力，效果隨機組乘員此技能的平均水平而變化。"
+
+msgid "SKILL_DESCRIPTION_LONG_LONG_SIGHT"
+msgstr "擴大乘員對敵機的發現範圍，效果隨技能等級而變化。"
+
+msgid "SKILL_DESCRIPTION_LONG_MEMORY"
+msgstr ""
+"增加能夠發現敵機的視野範圍<br>技能效果隨等級而提高<br>有效技能等級指所有成員"
+"的平均等級"
+
+msgid "SKILL_DESCRIPTION_LONG_SHARP_SHOOTER"
+msgstr ""
+"提高後射機槍手對敵機進行攻擊的準確性，技能對飛機的主武器沒有影響，效果隨技能"
+"等級而變化。"
+
+msgid "SKILL_DESCRIPTION_LONG_SNIPER"
+msgstr ""
+"提高機槍和航砲的射擊精度，技能對發射火箭彈或投擲炸彈的精度沒有影響，效果隨技"
+"能等級而變化。"
+
+msgid "SKILL_DESCRIPTION_LONG_TUTOR"
+msgstr ""
+"增加包括尾砲手在內的所有機組乘員在戰鬥中所獲經驗。<br>效果隨技能等級而變化。"
+
+msgid "SKILL_DESCRIPTION_LONG_VETERAN"
+msgstr "提高受損飛機的可操控性，效果隨技能等級而變化。"
+
+msgid "SKILL_DESCRIPTION_LONG_WEAPON_SPECIALIST"
+msgstr ""
+"使後射機槍手能夠進行較長時間的持續攻擊，技能對飛機的主武器沒有影響，效果隨技"
+"能等級而變化。"
+
+msgid "SKILL_DESCRIPTION_LONG_WIDE_SHOOTER"
+msgstr ""
+"使後射機槍手能夠以較大的角度開火，技能對飛機的主武器沒有影響，效果隨技能等級"
+"而變化。"
+
+msgid "SKILL_DESCRIPTION_MIDDLE_AGILITY"
+msgstr "提高乘員的生存能力使乘員不易受傷。"
+
+msgid "SKILL_DESCRIPTION_MIDDLE_BOMBER"
+msgstr "提高發射火箭彈或投擲炸彈的精度。"
+
+msgid "SKILL_DESCRIPTION_MIDDLE_EAGLE_EYE"
+msgstr "增加後射機槍手對敵機進行攻擊的範圍。"
+
+msgid "SKILL_DESCRIPTION_MIDDLE_ENGINE_SPECIALIST"
+msgstr "提高飛機在直線飛行或爬升時的加速能力。"
+
+msgid "SKILL_DESCRIPTION_MIDDLE_FIRE_FIGHTING"
+msgstr "提高飛機在沒有滅火器情況下的滅火能力。"
+
+msgid "SKILL_DESCRIPTION_MIDDLE_LONG_SIGHT"
+msgstr "擴大乘員對敵機的發現範圍。"
+
+msgid "SKILL_DESCRIPTION_MIDDLE_MEMORY"
+msgstr "增加能夠發現敵機的視野範圍"
+
+msgid "SKILL_DESCRIPTION_MIDDLE_SHARP_SHOOTER"
+msgstr "提高後射機槍手對敵機進行攻擊的準確性。"
+
+msgid "SKILL_DESCRIPTION_MIDDLE_SNIPER"
+msgstr "提高機槍和航砲的射擊精度。"
+
+msgid "SKILL_DESCRIPTION_MIDDLE_TUTOR"
+msgstr "增加包括尾砲手在內的所有機組乘員在戰鬥中所獲經驗。"
+
+msgid "SKILL_DESCRIPTION_MIDDLE_VETERAN"
+msgstr "提高受損飛機的可操控性。"
+
+msgid "SKILL_DESCRIPTION_MIDDLE_WEAPON_SPECIALIST"
+msgstr "使後射機槍手能夠進行較長時間的持續攻擊。"
+
+msgid "SKILL_DESCRIPTION_MIDDLE_WIDE_SHOOTER"
+msgstr "使後射機槍手能夠以較大的角度開火。"
+
+msgid "SKILL_DESCRIPTION_PILOT_BATTLETRIED"
+msgstr ""
+"減少<font color='#f2f2f2'>飛行員</font>受傷機率<font color='#8dbb44'>20％</"
+"font>。提高當飛機機翼，尾翼，和機身的損壞嚴重<font color='#f2f2f2'>飛機可控性"
+"</font><font color='#8dbb44'>25％</font>。"
+
+msgid "SKILL_DESCRIPTION_PILOT_EQUIP_ARMOR"
+msgstr ""
+"增加<font color='#f2f2f2'>改進型蒙皮，強化型機體，附加裝甲板，隱蔽偽裝</font>"
+"的效果<font color='#8dbb44'>20%</font>。"
+
+msgid "SKILL_DESCRIPTION_PILOT_EQUIP_FLIGHT"
+msgstr ""
+"增加<font color='#f2f2f2'>機體拋光，光面蒙皮，輕量化機身，飛行操縱裝置，改進"
+"型襟翼</font>效果<font color='#8dbb44'>20%</font>。"
+
+msgid "SKILL_DESCRIPTION_PILOT_FIREDURATION"
+msgstr ""
+"減少<font color='#f2f2f2'>著火持續時間和傷害</font> <font "
+"color='#8dbb44'>10%</font>。"
+
+msgid "SKILL_DESCRIPTION_PILOT_KNOWENGINE_I"
+msgstr ""
+"增加<font color='#f2f2f2'>引擎推力</font><font color='#8dbb44'>3%</font>。顯"
+"著提高了飛機的加速。"
+
+msgid "SKILL_DESCRIPTION_PILOT_KNOWENGINE_II"
+msgstr ""
+"增加<font color='#f2f2f2'>引擎推力和最高速</font><font color='#8dbb44'>2%</"
+"font>。該效果和技能 \"<font color='#f2f2f2'>引擎保養 I</font>\"疊加。"
+
+msgid "SKILL_DESCRIPTION_PILOT_MARKSMAN_I"
+msgstr ""
+"增加機槍和機砲的<font color='#f2f2f2'>命中率</font><font color='#8dbb44'>5%</"
+"font>。顯著增加命中目標的機率。"
+
+msgid "SKILL_DESCRIPTION_PILOT_MARKSMAN_II"
+msgstr ""
+"增加機槍和機砲的<font color='#f2f2f2'>命中率</font><font color='#8dbb44'>5%</"
+"font>和對機動目標<font color='#f2f2f2'>射擊精度</font><font "
+"color='#8dbb44'>10%</font>。該效果與\"<font color='#f2f2f2'>神槍手 I</font>"
+"\"技能疊加。"
+
+msgid "SKILL_DESCRIPTION_PILOT_PILOTAGE"
+msgstr ""
+"增加各軸向上<font color='#f2f2f2'>機動效能</font><font color='#8dbb44'>2%</"
+"font>。顯著增加近距離纏鬥的優勢。"
+
+msgid "SKILL_DESCRIPTION_PILOT_ROCKETKILLER"
+msgstr ""
+"增加<font color='#f2f2f2'>火箭彈</font><font color='#f2f2f2'>命中空中目標</"
+"font>機率的<font color='#8dbb44'>25%</font>。"
+
+msgid "SKILL_DESCRIPTION_PILOT_SHELLMASTER"
+msgstr ""
+"增加<font color='#f2f2f2'>火箭彈和炸彈引起的損害</font>和<font "
+"color='#f2f2f2'>爆炸半徑</font><font color='#8dbb44'>15%</font>。"
+
+msgid "SKILL_DESCRIPTION_PILOT_SIGHTRANGE"
+msgstr ""
+"增加<font color='#f2f2f2'>敵機靠近</font>時，飛行員偵查範圍的<font "
+"color='#8dbb44'>20%</font>。"
+
+msgid "SKILL_DESCRIPTION_PILOT_S_BLOODLUST"
+msgstr ""
+"減少<font color='#f2f2f2'>武器過熱</font><font color='#8dbb44'>25%</font>和擊"
+"毀敵機後<font color='#f2f2f2'>射擊精度</font>增加<font color='#8dbb44'>10%</"
+"font>，持續10秒。"
+
+msgid "SKILL_DESCRIPTION_PILOT_S_BOOMZOOM"
+msgstr ""
+"增加俯衝時對敵機造成<font color='#f2f2f2'>著火和致命傷害</font>的機率<font "
+"color='#8dbb44'>50%</font> 。當飛機臨近最大俯衝速度和俯仰角度超過45°時有效。"
+
+msgid "SKILL_DESCRIPTION_PILOT_S_CRUISEFLIGHT"
+msgstr ""
+"當飛機20秒內沒有受到傷害時，增加飛行員<font color='#f2f2f2'>視野範圍</font> "
+"<font color='#8dbb44'>20%</font>、<font color='#f2f2f2'>引擎推力和最高速</"
+"font><font color='#8dbb44'>3%</font>。攻擊和被攻擊後效果消失。"
+
+msgid "SKILL_DESCRIPTION_PILOT_S_DIEHARD"
+msgstr ""
+"當飛機生命值低於70%時，維修<font color='#f2f2f2'>所有致命傷害</font>、治癒所"
+"有乘員、減少 <font color='#f2f2f2'>引擎和武器過熱</font><font "
+"color='#8dbb44'>50%</font>並且增加<font color='#f2f2f2'>機動性</font>和<font "
+"color='#f2f2f2'>引擎推力</font>。該技能每場戰鬥觸發一次，戰鬥結束前都有效。"
+
+msgid "SKILL_DESCRIPTION_PILOT_S_EVASIONMANUVER"
+msgstr ""
+"減少<font color='#f2f2f2'>傷害</font>和<font color='#f2f2f2'>致命損傷</font>"
+"和乘員受傷時的操作性<font color='#8dbb44'>25%</font>，在俯仰和側傾保持高角度"
+"時觸發這個技能。"
+
+msgid "SKILL_DESCRIPTION_PILOT_S_FIREMANUVER"
+msgstr ""
+"通過主動操控<font color='#f2f2f2'>自動滅火</font>，在任意軸保持一個較高的角度"
+"來進行滅火。"
+
+msgid "SKILL_DESCRIPTION_SHORT_AGILITY"
+msgstr "改善乘員生存能力 {skill_modifier}"
+
+msgid "SKILL_DESCRIPTION_SHORT_BOMBER"
+msgstr "炸彈和火箭彈的準確性 {skill_modifier}"
+
+msgid "SKILL_DESCRIPTION_SHORT_EAGLE_EYE"
+msgstr "增大後射機槍手火力範圍 {skill_modifier}"
+
+msgid "SKILL_DESCRIPTION_SHORT_ENGINE_SPECIALIST"
+msgstr "引擎功率提升 {skill_modifier}"
+
+msgid "SKILL_DESCRIPTION_SHORT_FIRE_FIGHTING"
+msgstr "消防能力 {skill_modifier}"
+
+msgid "SKILL_DESCRIPTION_SHORT_LONG_SIGHT"
+msgstr "偵查範圍增大 {skill_modifier}"
+
+msgid "SKILL_DESCRIPTION_SHORT_MEMORY"
+msgstr "目標丟失距離 {skill_modifier}"
+
+msgid "SKILL_DESCRIPTION_SHORT_SHARP_SHOOTER"
+msgstr "後射機槍精度 {skill_modifier}"
+
+msgid "SKILL_DESCRIPTION_SHORT_SNIPER"
+msgstr "機槍和航砲精度 {skill_modifier}"
+
+msgid "SKILL_DESCRIPTION_SHORT_TUTOR"
+msgstr "經驗獲取 {skill_modifier}"
+
+msgid "SKILL_DESCRIPTION_SHORT_VETERAN"
+msgstr "受損飛機控制 {skill_modifier}"
+
+msgid "SKILL_DESCRIPTION_SHORT_WEAPON_SPECIALIST"
+msgstr "後射機槍連發 {skill_modifier}"
+
+msgid "SKILL_DESCRIPTION_SHORT_WIDE_SHOOTER"
+msgstr "後射機槍射角 {skill_modifier}"
+
+msgid "SKILL_NAME_AGILITY"
+msgstr "堅韌"
+
+msgid "SKILL_NAME_BOMBER"
+msgstr "投彈手"
+
+msgid "SKILL_NAME_EAGLE_EYE"
+msgstr "鷹眼"
+
+msgid "SKILL_NAME_ENGINE_SPECIALIST"
+msgstr "引擎保養"
+
+msgid "SKILL_NAME_FIRE_FIGHTING"
+msgstr "滅火"
+
+msgid "SKILL_NAME_GUNNER_KILLER"
+msgstr "智者為王"
+
+msgid "SKILL_NAME_GUNNER_LONGRANGE"
+msgstr "彈道學專家"
+
+msgid "SKILL_NAME_GUNNER_NIMBLE"
+msgstr "快速反應"
+
+msgid "SKILL_NAME_GUNNER_PROTECTOR"
+msgstr "防禦火力"
+
+msgid "SKILL_NAME_GUNNER_PUNISHER"
+msgstr "精密槍手"
+
+msgid "SKILL_NAME_GUNNER_SIGHTRANGE"
+msgstr "提高警惕"
+
+msgid "SKILL_NAME_GUNNER_TOUGH"
+msgstr "耐力驚人"
+
+msgid "SKILL_NAME_GUNNER_VOLLEY"
+msgstr "兵器製造者"
+
+msgid "SKILL_NAME_LONG_SIGHT"
+msgstr "千里眼"
+
+msgid "SKILL_NAME_MEMORY"
+msgstr "跟蹤"
+
+msgid "SKILL_NAME_PILOT_BATTLETRIED"
+msgstr "戰鬥測試"
+
+msgid "SKILL_NAME_PILOT_EQUIP_ARMOR"
+msgstr "防護專家"
+
+msgid "SKILL_NAME_PILOT_EQUIP_FLIGHT"
+msgstr "動力學家"
+
+msgid "SKILL_NAME_PILOT_FIREDURATION"
+msgstr "抗火英雄"
+
+msgid "SKILL_NAME_PILOT_KNOWENGINE_I"
+msgstr "引擎保養 I"
+
+msgid "SKILL_NAME_PILOT_KNOWENGINE_II"
+msgstr "引擎保養 II"
+
+msgid "SKILL_NAME_PILOT_MARKSMAN_I"
+msgstr "神槍手 I"
+
+msgid "SKILL_NAME_PILOT_MARKSMAN_II"
+msgstr "神槍手 II"
+
+msgid "SKILL_NAME_PILOT_PILOTAGE"
+msgstr "特技大師"
+
+msgid "SKILL_NAME_PILOT_ROCKETKILLER"
+msgstr "王牌火箭手"
+
+msgid "SKILL_NAME_PILOT_SHELLMASTER"
+msgstr "爆破專家"
+
+msgid "SKILL_NAME_PILOT_SIGHTRANGE"
+msgstr "鷹眼"
+
+msgid "SKILL_NAME_PILOT_S_BLOODLUST"
+msgstr "腎上腺素"
+
+msgid "SKILL_NAME_PILOT_S_BOOMZOOM"
+msgstr "猛禽一擊"
+
+msgid "SKILL_NAME_PILOT_S_CRUISEFLIGHT"
+msgstr "巡航飛行"
+
+msgid "SKILL_NAME_PILOT_S_DIEHARD"
+msgstr "快速恢復"
+
+msgid "SKILL_NAME_PILOT_S_EVASIONMANUVER"
+msgstr "規避目標"
+
+msgid "SKILL_NAME_PILOT_S_FIREMANUVER"
+msgstr "救火隊員"
+
+msgid "SKILL_NAME_SHARP_SHOOTER"
+msgstr "神射手"
+
+msgid "SKILL_NAME_SNIPER"
+msgstr "百發百中"
+
+msgid "SKILL_NAME_TUTOR"
+msgstr "導師"
+
+msgid "SKILL_NAME_VETERAN"
+msgstr "老兵"
+
+msgid "SKILL_NAME_WEAPON_SPECIALIST"
+msgstr "機械師"
+
+msgid "SKILL_NAME_WIDE_SHOOTER"
+msgstr "掃射力"
+
+msgid "SKILL_DESCRIPTION_LAST_DASH"
+msgstr ""
+"<font color='#f2f2f2'>Repairs all critical damage</font>, heals all crew "
+"injuries, and increases <font color='#f2f2f2'>maneuverability</font> and "
+"<font color='#f2f2f2'>engine thrust</font> by <font color='#8dbb44'>10%</"
+"font> when the aircraft loses 50% of its hit points. The skill is activated "
+"automatically once per battle and remains effective until the end of the "
+"battle."
+
+msgid "SKILL_DESCRIPTION_MASTER_PLANE_BF_109E_3"
+msgstr ""
+"Increases <font color='#f2f2f2'>airspeed and damage</font> by <font "
+"color='#8dbb44'>10%</font>. Takes effect only on the <font "
+"color='#f2f2f2'>Bf 109 E-3</font>."
+
+msgid "SKILL_DESCRIPTION_MASTER_PLANE_SPITFIRE_MK_IA"
+msgstr ""
+"Increases <font color='#f2f2f2'>maneuverability and damage</font> by <font "
+"color='#8dbb44'>10%</font>. Takes effect only on the <font "
+"color='#f2f2f2'>Spitfire Mk Ia</font>."
+
+msgid "SKILL_DESCRIPTION_PILOT_BRIGHT_STAR"
+msgstr ""
+"Increases the <font color='#f2f2f2'>range at which enemy aircraft are "
+"detected</font> by <font color='#8dbb44'>40%</font> and the <font "
+"color='#f2f2f2'>range at which the aircraft is detected by enemy aircraft</"
+"font> by <font color='#d93d00'>10%</font>."
+
+msgid "SKILL_DESCRIPTION_PILOT_EXPLOSIVE_CHARACTER"
+msgstr ""
+"Increases the <font color='#f2f2f2'>damage caused by bombs and rockets</"
+"font> and their <font color='#f2f2f2'>blast radius</font> by <font "
+"color='#8dbb44'>15%</font>. If the aircraft is destroyed by a collision with "
+"terrain or a ground target, the aircraft explodes and deals damage in the "
+"affected area equal to double the maximum number of hit points of this "
+"aircraft."
+
+msgid "SKILL_DESCRIPTION_PILOT_FASTER_THAN_WIND"
+msgstr ""
+"Increases <font color='#f2f2f2'>engine thrust</font> by <font "
+"color='#8dbb44'>2%</font> and <font color='#f2f2f2'>boost duration</font> by "
+"<font color='#8dbb44'>10%</font>. Significantly improves aircraft "
+"acceleration and climb performance."
+
+msgid "SKILL_DESCRIPTION_PILOT_FTW_KNOWENGINE_II"
+msgstr ""
+"Increases <font color='#f2f2f2'>engine thrust and top speed</font> by <font "
+"color='#8dbb44'>2%</font>. The effect is cumulative with the effect of the "
+"skill <font color='#f2f2f2'>\"Eagle's Wings\"</font>."
+
+msgid "SKILL_DESCRIPTION_PILOT_SKY_FURY"
+msgstr ""
+"In a head-on attack, the pilot fires at the most vulnerable sections of an "
+"enemy aircraft. Improves the <font color='#f2f2f2'>chance of causing "
+"critical damage to an enemy aircraft and setting it on fire</font>, and "
+"increases the <font color='#f2f2f2'>damage caused in a head-on attack</font> "
+"by <font color='#8dbb44'>20%</font>."
+
+msgid "SKILL_DESCRIPTION_PILOT_SOME_LIKE_IT_HOT"
+msgstr ""
+"<font color='#f2f2f2'>Sets a ground target on fire</font> as a result of "
+"continuous shooting with forward-firing weapons and hitting unarmored "
+"sections of the ground target."
+
+msgid "SKILL_DESCRIPTION_PILOT_VALKYRIE"
+msgstr ""
+"Rockets and bombs released in a dive cause <font color='#f2f2f2'>double "
+"damage to ground targets</font>. Takes effect when the aircraft speed "
+"approaches maximum dive speed and pitch angle exceeds 45°."
+
+msgid "SKILL_DESCRIPTION_STEEP_PEAK"
+msgstr ""
+"Increases <font color='#f2f2f2'>damage</font> by <font color='#8dbb44'>10%</"
+"font> and the <font color='#f2f2f2'>chance of setting an enemy aircraft on "
+"fire and causing critical damage</font> by <font color='#8dbb44'>50%</font> "
+"when firing with forward-firing weapons in a diving attack. Takes effect "
+"when the aircraft speed approaches maximum dive speed and pitch angle "
+"exceeds 45°."
+
+msgid "SKILL_NAME_LAST_DASH"
+msgstr "Final Dash"
+
+msgid "SKILL_NAME_MASTER_PLANE_BF_109E_3"
+msgstr "Bf 109 E-3 Master"
+
+msgid "SKILL_NAME_MASTER_PLANE_SPITFIRE_MK_IA"
+msgstr "Spitfire Mk Ia Master"
+
+msgid "SKILL_NAME_PILOT_BRIGHT_STAR"
+msgstr "Dazzling Star"
+
+msgid "SKILL_NAME_PILOT_EXPLOSIVE_CHARACTER"
+msgstr "Supernova"
+
+msgid "SKILL_NAME_PILOT_FASTER_THAN_WIND"
+msgstr "Eagle's Wings"
+
+msgid "SKILL_NAME_PILOT_FTW_KNOWENGINE_II"
+msgstr "Engine Guru II"
+
+msgid "SKILL_NAME_PILOT_SKY_FURY"
+msgstr "Celestial Fury"
+
+msgid "SKILL_NAME_PILOT_SOME_LIKE_IT_HOT"
+msgstr "Femme Fatale"
+
+msgid "SKILL_NAME_PILOT_VALKYRIE"
+msgstr "Valkyrie's Wrath"
+
+msgid "SKILL_NAME_STEEP_PEAK"
+msgstr "Nosedive"
