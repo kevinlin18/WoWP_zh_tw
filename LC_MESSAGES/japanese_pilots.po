@@ -1,1415 +1,1427 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: World Of Tanks\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-06-01 10:00+0300\n"
+"Last-Translator: kevinlin18 <https://github.com/kevinlin18/WoWP_zh_tw>\n"
+"Language-Team: WoWP_zh_tw <https://github.com/kevinlin18/WoWP_zh_tw>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ja\n"
+
 msgid "NAMES/JAP1"
-msgstr "Tadao"
+msgstr "忠雄"
 
 msgid "NAMES/JAP10"
-msgstr "Tateo"
+msgstr "館尾"
 
 msgid "NAMES/JAP100"
-msgstr "Koji"
+msgstr "倖次"
 
 msgid "NAMES/JAP101"
-msgstr "Koji"
+msgstr "光二"
 
 msgid "NAMES/JAP102"
-msgstr "Sadamitsu"
+msgstr "定光"
 
 msgid "NAMES/JAP103"
-msgstr "Saburo"
+msgstr "三郎"
 
 msgid "NAMES/JAP104"
-msgstr "Takashi"
+msgstr "隆"
 
 msgid "NAMES/JAP105"
-msgstr "Akiyoshi"
+msgstr "秋吉"
 
 msgid "NAMES/JAP106"
-msgstr "Shoichi"
+msgstr "川昭一"
 
 msgid "NAMES/JAP107"
-msgstr "Eisaku"
+msgstr "榮作"
 
 msgid "NAMES/JAP108"
-msgstr "Tadao"
+msgstr "忠雄"
 
 msgid "NAMES/JAP109"
-msgstr "Yohei"
+msgstr "洋平"
 
 msgid "NAMES/JAP11"
-msgstr "Tomio"
+msgstr "富雄"
 
 msgid "NAMES/JAP110"
-msgstr "Tomita"
+msgstr "富田"
 
 msgid "NAMES/JAP111"
-msgstr "Ken-ichi"
+msgstr "健一"
 
 msgid "NAMES/JAP112"
-msgstr "Kozaburo"
+msgstr "公三郎"
 
 msgid "NAMES/JAP113"
-msgstr "Kiyoshi"
+msgstr "清司"
 
 msgid "NAMES/JAP114"
-msgstr "Chitoshi"
+msgstr "千利"
 
 msgid "NAMES/JAP115"
-msgstr "Matsuo"
+msgstr "松尾"
 
 msgid "NAMES/JAP116"
-msgstr "Kazushi"
+msgstr "野合"
 
 msgid "NAMES/JAP117"
-msgstr "Takashi"
+msgstr "隆"
 
 msgid "NAMES/JAP118"
-msgstr "Takeo"
+msgstr "猛男"
 
 msgid "NAMES/JAP119"
-msgstr "Kenji"
+msgstr "健司"
 
 msgid "NAMES/JAP12"
-msgstr "Mamoru"
+msgstr "真守"
 
 msgid "NAMES/JAP120"
-msgstr "Nobuo"
+msgstr "申生"
 
 msgid "NAMES/JAP121"
-msgstr "Hoki"
+msgstr "伯耆"
 
 msgid "NAMES/JAP122"
-msgstr "Kazuo"
+msgstr "一夫"
 
 msgid "NAMES/JAP123"
-msgstr "Tomokazu"
+msgstr "友和"
 
 msgid "NAMES/JAP124"
-msgstr "Kan-ichi"
+msgstr "侃阿一"
 
 msgid "NAMES/JAP125"
-msgstr "Kiyoshi"
+msgstr "清"
 
 msgid "NAMES/JAP126"
-msgstr "Manabu"
+msgstr "押尾"
 
 msgid "NAMES/JAP127"
-msgstr "Tetsuzo"
+msgstr "鐵三"
 
 msgid "NAMES/JAP128"
-msgstr "Tetsuo"
+msgstr "哲夫"
 
 msgid "NAMES/JAP129"
-msgstr "Kesaku"
+msgstr "圭作"
 
 msgid "NAMES/JAP13"
-msgstr "Isamu"
+msgstr "勇"
 
 msgid "NAMES/JAP130"
-msgstr "Mototsuna"
+msgstr "元紘"
 
 msgid "NAMES/JAP131"
-msgstr "Masayoshi"
+msgstr "正義"
 
 msgid "NAMES/JAP132"
-msgstr "Toshi"
+msgstr "登志"
 
 msgid "NAMES/JAP133"
-msgstr "Isamu"
+msgstr "勇"
 
 msgid "NAMES/JAP134"
-msgstr "Gitaro"
+msgstr "義太郎"
 
 msgid "NAMES/JAP135"
-msgstr "Yoshijiro"
+msgstr "美治郎"
 
 msgid "NAMES/JAP136"
-msgstr "Yoshio"
+msgstr "雄"
 
 msgid "NAMES/JAP137"
-msgstr "Masaichi"
+msgstr "雅一"
 
 msgid "NAMES/JAP138"
-msgstr "Takeo"
+msgstr "武夫"
 
 msgid "NAMES/JAP139"
-msgstr "Tadashi"
+msgstr "忠"
 
 msgid "NAMES/JAP14"
-msgstr "Susumu"
+msgstr "進"
 
 msgid "NAMES/JAP140"
-msgstr "Kaname"
+msgstr "金目"
 
 msgid "NAMES/JAP141"
-msgstr "Kiyozumi"
+msgstr "浄泉"
 
 msgid "NAMES/JAP142"
-msgstr "Shigetoshi"
+msgstr "重利"
 
 msgid "NAMES/JAP143"
-msgstr "Kiyomi"
+msgstr "清"
 
 msgid "NAMES/JAP144"
-msgstr "Ken-ichi"
+msgstr "健一"
 
 msgid "NAMES/JAP145"
-msgstr "Shigeru"
+msgstr "茂"
 
 msgid "NAMES/JAP146"
-msgstr "Toraichi"
+msgstr "寅一"
 
 msgid "NAMES/JAP147"
-msgstr "Takekazu"
+msgstr "長和"
 
 msgid "NAMES/JAP148"
-msgstr "Toshio"
+msgstr "敏夫"
 
 msgid "NAMES/JAP149"
-msgstr "Kiyokazu"
+msgstr "清和"
 
 msgid "NAMES/JAP15"
-msgstr "Daisuke"
+msgstr "大輔"
 
 msgid "NAMES/JAP150"
-msgstr "Siro"
+msgstr "白"
 
 msgid "NAMES/JAP151"
-msgstr "Masao"
+msgstr "正雄"
 
 msgid "NAMES/JAP152"
-msgstr "Saburo"
+msgstr "三郎"
 
 msgid "NAMES/JAP153"
-msgstr "Takao"
+msgstr "高尾"
 
 msgid "NAMES/JAP154"
-msgstr "Junichi"
+msgstr "淳一"
 
 msgid "NAMES/JAP155"
-msgstr "Sahe"
+msgstr "佐平"
 
 msgid "NAMES/JAP156"
-msgstr "Kojiro"
+msgstr "小次郎"
 
 msgid "NAMES/JAP157"
-msgstr "Sadao"
+msgstr "貞夫"
 
 msgid "NAMES/JAP158"
-msgstr "Ichirohe"
+msgstr "一戸"
 
 msgid "NAMES/JAP159"
-msgstr "Akira"
+msgstr "晃"
 
 msgid "NAMES/JAP16"
-msgstr "Kenzo"
+msgstr "賢造"
 
 msgid "NAMES/JAP160"
-msgstr "Ichiro"
+msgstr "一郎"
 
 msgid "NAMES/JAP161"
-msgstr "Tomezo"
+msgstr "留蔵"
 
 msgid "NAMES/JAP162"
-msgstr "Matao"
+msgstr "馬唐"
 
 msgid "NAMES/JAP163"
-msgstr "Masami"
+msgstr "雅美"
 
 msgid "NAMES/JAP164"
-msgstr "Hiroshi"
+msgstr "弘"
 
 msgid "NAMES/JAP165"
-msgstr "Sekiyoshi"
+msgstr "積佳"
 
 msgid "NAMES/JAP166"
-msgstr "Motonari"
+msgstr "元就"
 
 msgid "NAMES/JAP167"
-msgstr "Shigeru"
+msgstr "茂"
 
 msgid "NAMES/JAP168"
-msgstr "Yasuhiro"
+msgstr "康広"
 
 msgid "NAMES/JAP169"
-msgstr "Tokan"
+msgstr "斗煥"
 
 msgid "NAMES/JAP17"
-msgstr "Koichi"
+msgstr "浩"
 
 msgid "NAMES/JAP170"
-msgstr "Toichi"
+msgstr "東一"
 
 msgid "NAMES/JAP171"
-msgstr "Sadamu"
+msgstr "貞武"
 
 msgid "NAMES/JAP172"
-msgstr "Yoshinao"
+msgstr "義直"
 
 msgid "NAMES/JAP173"
-msgstr "Yasuhei"
+msgstr "保平"
 
 msgid "NAMES/JAP174"
-msgstr "Hidetoku"
+msgstr "秀徳"
 
 msgid "NAMES/JAP175"
-msgstr "Akio"
+msgstr "明夫"
 
 msgid "NAMES/JAP176"
-msgstr "Momoto"
+msgstr "桃十"
 
 msgid "NAMES/JAP177"
-msgstr "Kagemitsu"
+msgstr "景充"
 
 msgid "NAMES/JAP178"
-msgstr "Sadao"
+msgstr "貞夫"
 
 msgid "NAMES/JAP179"
-msgstr "Keishu"
+msgstr "慶秀"
 
 msgid "NAMES/JAP18"
-msgstr "Fumiharu"
+msgstr "郁治"
 
 msgid "NAMES/JAP180"
-msgstr "Teruo"
+msgstr "照雄"
 
 msgid "NAMES/JAP181"
-msgstr "Shoichi"
+msgstr "庄一"
 
 msgid "NAMES/JAP182"
-msgstr "Shigeo"
+msgstr "鎮雄"
 
 msgid "NAMES/JAP183"
-msgstr "Kazuo"
+msgstr "一夫"
 
 msgid "NAMES/JAP184"
-msgstr "Tadashi"
+msgstr "忠"
 
 msgid "NAMES/JAP185"
-msgstr "Kiyoshi"
+msgstr "清"
 
 msgid "NAMES/JAP186"
-msgstr "Hiroyoshi"
+msgstr "弘義"
 
 msgid "NAMES/JAP187"
-msgstr "Saburo"
+msgstr "三郎"
 
 msgid "NAMES/JAP188"
-msgstr "Shizuo"
+msgstr "静雄"
 
 msgid "NAMES/JAP189"
-msgstr "Isamu"
+msgstr "勇"
 
 msgid "NAMES/JAP19"
-msgstr "Yoshio"
+msgstr "夫"
 
 msgid "NAMES/JAP190"
-msgstr "Susumu"
+msgstr "進"
 
 msgid "NAMES/JAP191"
-msgstr "Sadaaki"
+msgstr "貞明"
 
 msgid "NAMES/JAP192"
-msgstr "Shojiro"
+msgstr "正二郎"
 
 msgid "NAMES/JAP193"
-msgstr "Hideo"
+msgstr "英朗"
 
 msgid "NAMES/JAP194"
-msgstr "Takahide"
+msgstr "隆英"
 
 msgid "NAMES/JAP195"
-msgstr "Tadao"
+msgstr "忠雄"
 
 msgid "NAMES/JAP196"
-msgstr "Toshio"
+msgstr "敏夫"
 
 msgid "NAMES/JAP197"
-msgstr "Ryoji"
+msgstr "亮治"
 
 msgid "NAMES/JAP198"
-msgstr "Shigetaka"
+msgstr "茂隆"
 
 msgid "NAMES/JAP199"
-msgstr "Yoshio"
+msgstr "善郎"
 
 msgid "NAMES/JAP2"
-msgstr "Katsumi"
+msgstr "勝見"
 
 msgid "NAMES/JAP20"
-msgstr "Katsuaki"
+msgstr "勝亮"
 
 msgid "NAMES/JAP200"
-msgstr "Yoshio"
+msgstr "雄"
 
 msgid "NAMES/JAP201"
-msgstr "Tadao"
+msgstr "忠雄"
 
 msgid "NAMES/JAP202"
-msgstr "Takeo"
+msgstr "武雄"
 
 msgid "NAMES/JAP203"
-msgstr "Takeo"
+msgstr "武夫"
 
 msgid "NAMES/JAP204"
-msgstr "Kunimori"
+msgstr "國森"
 
 msgid "NAMES/JAP205"
-msgstr "Masayuki"
+msgstr "正之"
 
 msgid "NAMES/JAP206"
-msgstr "Yoshiichi"
+msgstr "儀一"
 
 msgid "NAMES/JAP207"
-msgstr "Fumiyoshi"
+msgstr "文良"
 
 msgid "NAMES/JAP208"
-msgstr "Wataru"
+msgstr "渡"
 
 msgid "NAMES/JAP209"
-msgstr "Yoshikazu"
+msgstr "嘉"
 
 msgid "NAMES/JAP21"
-msgstr "Hideo"
+msgstr "秀夫"
 
 msgid "NAMES/JAP210"
-msgstr "Yoshikazu"
+msgstr "義"
 
 msgid "NAMES/JAP211"
-msgstr "Kuniyoshi"
+msgstr "國芳"
 
 msgid "NAMES/JAP212"
-msgstr "Tamiho"
+msgstr "民穂"
 
 msgid "NAMES/JAP213"
-msgstr "Jiro"
+msgstr "次郎"
 
 msgid "NAMES/JAP214"
-msgstr "Shinsaku"
+msgstr "晉"
 
 msgid "NAMES/JAP215"
-msgstr "Hideo"
+msgstr "英朗"
 
 msgid "NAMES/JAP216"
-msgstr "Iyozo"
+msgstr "伊与蔵"
 
 msgid "NAMES/JAP217"
-msgstr "Yoshimi"
+msgstr "吉見義明"
 
 msgid "NAMES/JAP218"
-msgstr "Hatsuo"
+msgstr "初男"
 
 msgid "NAMES/JAP219"
-msgstr "Yoshijiro"
+msgstr "美治郎"
 
 msgid "NAMES/JAP22"
-msgstr "Goro"
+msgstr "五郎"
 
 msgid "NAMES/JAP220"
-msgstr "Watari"
+msgstr "渡"
 
 msgid "NAMES/JAP221"
-msgstr "Yukiharu"
+msgstr "幸治"
 
 msgid "NAMES/JAP222"
-msgstr "Kaneyoshi"
+msgstr "兼善"
 
 msgid "NAMES/JAP223"
-msgstr "Kazuo"
+msgstr "一夫"
 
 msgid "NAMES/JAP224"
-msgstr "Sumio"
+msgstr "澄夫"
 
 msgid "NAMES/JAP225"
-msgstr "Shigeo"
+msgstr "鎮雄"
 
 msgid "NAMES/JAP226"
-msgstr "Saburo"
+msgstr "三郎"
 
 msgid "NAMES/JAP227"
-msgstr "Mitsuo"
+msgstr "三雄"
 
 msgid "NAMES/JAP228"
-msgstr "Minoru"
+msgstr "稔"
 
 msgid "NAMES/JAP229"
-msgstr "Yoshio"
+msgstr "雄"
 
 msgid "NAMES/JAP23"
-msgstr "Moritsugu"
+msgstr "盛次"
 
 msgid "NAMES/JAP230"
-msgstr "Minoru"
+msgstr "稔"
 
 msgid "NAMES/JAP231"
-msgstr "Kiyotake"
+msgstr "清武"
 
 msgid "NAMES/JAP24"
-msgstr "Goichi"
+msgstr "吾一"
 
 msgid "NAMES/JAP25"
-msgstr "Yoshiro"
+msgstr "郎"
 
 msgid "NAMES/JAP26"
-msgstr "Satoru"
+msgstr "悟"
 
 msgid "NAMES/JAP27"
-msgstr "Muneyoshi"
+msgstr "宗悅"
 
 msgid "NAMES/JAP28"
-msgstr "Yoshigoro"
+msgstr "芳五郎"
 
 msgid "NAMES/JAP29"
-msgstr "Sada"
+msgstr "沙達"
 
 msgid "NAMES/JAP3"
-msgstr "Yoshihito"
+msgstr "吉人"
 
 msgid "NAMES/JAP30"
-msgstr "Goro"
+msgstr "五郎"
 
 msgid "NAMES/JAP31"
-msgstr "Tomesaku"
+msgstr "富作"
 
 msgid "NAMES/JAP32"
-msgstr "Yoshio"
+msgstr "雄"
 
 msgid "NAMES/JAP33"
-msgstr "Tomio"
+msgstr "富雄"
 
 msgid "NAMES/JAP34"
-msgstr "Toyoki"
+msgstr "豐喜"
 
 msgid "NAMES/JAP35"
-msgstr "Haruo"
+msgstr "春夫"
 
 msgid "NAMES/JAP36"
-msgstr "Keiji"
+msgstr "敬"
 
 msgid "NAMES/JAP37"
-msgstr "Takeo"
+msgstr "竹夫"
 
 msgid "NAMES/JAP38"
-msgstr "Yashuhiko"
+msgstr "保彦"
 
 msgid "NAMES/JAP39"
-msgstr "Taruyoshi"
+msgstr "楢義"
 
 msgid "NAMES/JAP4"
-msgstr "Totaro"
+msgstr "十太郎"
 
 msgid "NAMES/JAP40"
-msgstr "Shoji"
+msgstr "莊司"
 
 msgid "NAMES/JAP41"
-msgstr "Isao"
+msgstr "勳"
 
 msgid "NAMES/JAP42"
-msgstr "Chiyoharu"
+msgstr "功"
 
 msgid "NAMES/JAP43"
-msgstr "Shogo"
+msgstr "尚伍"
 
 msgid "NAMES/JAP44"
-msgstr "Isao"
+msgstr "省吾"
 
 msgid "NAMES/JAP45"
-msgstr "Iori"
+msgstr "八神"
 
 msgid "NAMES/JAP46"
-msgstr "Toshio"
+msgstr "俊雄"
 
 msgid "NAMES/JAP47"
-msgstr "Fumikazu"
+msgstr "文和"
 
 msgid "NAMES/JAP48"
-msgstr "Hironojo"
+msgstr "浩之丞"
 
 msgid "NAMES/JAP49"
-msgstr "Chuichi"
+msgstr "忠一"
 
 msgid "NAMES/JAP5"
-msgstr "Misao"
+msgstr "三佐男"
 
 msgid "NAMES/JAP50"
-msgstr "Kojun"
+msgstr "孝純"
 
 msgid "NAMES/JAP51"
-msgstr "Hiromichi"
+msgstr "弘道"
 
 msgid "NAMES/JAP52"
-msgstr "Rikio"
+msgstr "力雄"
 
 msgid "NAMES/JAP53"
-msgstr "Yukiyoshi"
+msgstr "幸義"
 
 msgid "NAMES/JAP54"
-msgstr "Noboru"
+msgstr "升"
 
 msgid "NAMES/JAP55"
-msgstr "Masatoshi"
+msgstr "雅俊"
 
 msgid "NAMES/JAP56"
-msgstr "Makoto"
+msgstr "誠"
 
 msgid "NAMES/JAP57"
-msgstr "Mitsuo"
+msgstr "光夫"
 
 msgid "NAMES/JAP58"
-msgstr "Megumu"
+msgstr "恵武"
 
 msgid "NAMES/JAP59"
-msgstr "Hiroshi"
+msgstr "弘"
 
 msgid "NAMES/JAP6"
-msgstr "Iwataro"
+msgstr "岩太郎"
 
 msgid "NAMES/JAP60"
-msgstr "Hazuki"
+msgstr "葉月"
 
 msgid "NAMES/JAP61"
-msgstr "Teruhiko"
+msgstr "輝彥"
 
 msgid "NAMES/JAP62"
-msgstr "Taro"
+msgstr "太郎"
 
 msgid "NAMES/JAP63"
-msgstr "Toshio"
+msgstr "敏夫"
 
 msgid "NAMES/JAP64"
-msgstr "Ryotaro"
+msgstr "太郎"
 
 msgid "NAMES/JAP65"
-msgstr "Naoharu"
+msgstr "直治"
 
 msgid "NAMES/JAP66"
-msgstr "Noboru"
+msgstr "登"
 
 msgid "NAMES/JAP67"
-msgstr "Masao"
+msgstr "正雄"
 
 msgid "NAMES/JAP68"
-msgstr "Tokuya"
+msgstr "徳哉"
 
 msgid "NAMES/JAP69"
-msgstr "Mitsuyoshi"
+msgstr "光良"
 
 msgid "NAMES/JAP7"
-msgstr "Jiro"
+msgstr "次郎"
 
 msgid "NAMES/JAP70"
-msgstr "Tadashi"
+msgstr "忠"
 
 msgid "NAMES/JAP71"
-msgstr "Kazuo"
+msgstr "一雄"
 
 msgid "NAMES/JAP72"
-msgstr "Hideharu"
+msgstr "秀治"
 
 msgid "NAMES/JAP73"
-msgstr "Kiyoshi"
+msgstr "清"
 
 msgid "NAMES/JAP74"
-msgstr "Goro"
+msgstr "五郎"
 
 msgid "NAMES/JAP75"
-msgstr "Yutaka"
+msgstr "悠貴"
 
 msgid "NAMES/JAP76"
-msgstr "Takeo"
+msgstr "丈男"
 
 msgid "NAMES/JAP77"
-msgstr "Kanshi"
+msgstr "寛之"
 
 msgid "NAMES/JAP78"
-msgstr "Noriyasu"
+msgstr "則安"
 
 msgid "NAMES/JAP79"
-msgstr "Koji"
+msgstr "孝志"
 
 msgid "NAMES/JAP8"
-msgstr "Yukio"
+msgstr "由紀夫"
 
 msgid "NAMES/JAP80"
-msgstr "Hitoshi"
+msgstr "一志"
 
 msgid "NAMES/JAP81"
-msgstr "Hyoe"
+msgstr "兵衛"
 
 msgid "NAMES/JAP82"
-msgstr "Kyushiro"
+msgstr "久士郎"
 
 msgid "NAMES/JAP83"
-msgstr "Zenzaburo"
+msgstr "善三郎"
 
 msgid "NAMES/JAP84"
-msgstr "Mitsugu"
+msgstr "貢"
 
 msgid "NAMES/JAP85"
-msgstr "Yoshihiko"
+msgstr "仁彦"
 
 msgid "NAMES/JAP86"
-msgstr "Shogo"
+msgstr "田省吾"
 
 msgid "NAMES/JAP87"
-msgstr "Saburo"
+msgstr "三郎"
 
 msgid "NAMES/JAP88"
-msgstr "Yoshihiko"
+msgstr "義彦"
 
 msgid "NAMES/JAP89"
-msgstr "Riichi"
+msgstr "利一"
 
 msgid "NAMES/JAP9"
-msgstr "Masaharu"
+msgstr "正治"
 
 msgid "NAMES/JAP90"
-msgstr "Tomoaki"
+msgstr "智章"
 
 msgid "NAMES/JAP91"
-msgstr "Kosuke"
+msgstr "孝助"
 
 msgid "NAMES/JAP92"
-msgstr "Miyoshi"
+msgstr "三好"
 
 msgid "NAMES/JAP93"
-msgstr "Kenzi"
+msgstr "肯茲"
 
 msgid "NAMES/JAP94"
-msgstr "Saburo"
+msgstr "三郎"
 
 msgid "NAMES/JAP95"
-msgstr "Takaaki"
+msgstr "隆明"
 
 msgid "NAMES/JAP96"
-msgstr "Shigeo"
+msgstr "鎮雄"
 
 msgid "NAMES/JAP97"
-msgstr "Nagao"
+msgstr "長尾"
 
 msgid "NAMES/JAP98"
-msgstr "Nakakazu"
+msgstr "中嘉"
 
 msgid "NAMES/JAP99"
-msgstr "Tokuro"
+msgstr "得郎"
 
 msgid "NAMES/JAPN1"
-msgstr "Ashida"
+msgstr "蘆田"
 
 msgid "NAMES/JAPN10"
-msgstr "Kato"
+msgstr "加藤"
 
 msgid "NAMES/JAPN100"
-msgstr "Motomura"
+msgstr "本村"
 
 msgid "NAMES/JAPN101"
-msgstr "Kimura"
+msgstr "木村"
 
 msgid "NAMES/JAPN102"
-msgstr "Kimura"
+msgstr "紀村"
 
 msgid "NAMES/JAPN103"
-msgstr "Kimura"
+msgstr "紀邑"
 
 msgid "NAMES/JAPN104"
-msgstr "Noguchi"
+msgstr "野口"
 
 msgid "NAMES/JAPN105"
-msgstr "Nomura"
+msgstr "野村"
 
 msgid "NAMES/JAPN106"
-msgstr "Suzuki"
+msgstr "鈴木"
 
 msgid "NAMES/JAPN107"
-msgstr "Suzuki"
+msgstr "寿松木"
 
 msgid "NAMES/JAPN108"
-msgstr "Sumi"
+msgstr "壽美"
 
 msgid "NAMES/JAPN109"
-msgstr "Hinoki"
+msgstr "桧"
 
 msgid "NAMES/JAPN11"
-msgstr "Hanada"
+msgstr "花田"
 
 msgid "NAMES/JAPN110"
-msgstr "Abu"
+msgstr "阿布"
 
 msgid "NAMES/JAPN111"
-msgstr "Abe"
+msgstr "安倍"
 
 msgid "NAMES/JAPN112"
-msgstr "Yasui"
+msgstr "安井"
 
 msgid "NAMES/JAPN113"
-msgstr "Ito"
+msgstr "伊藤"
 
 msgid "NAMES/JAPN114"
-msgstr "Isozaki"
+msgstr "磯崎"
 
 msgid "NAMES/JAPN115"
-msgstr "Hagiri"
+msgstr "羽切"
 
 msgid "NAMES/JAPN116"
-msgstr "Hato"
+msgstr "鳩"
 
 msgid "NAMES/JAPN117"
-msgstr "Oshibuchi"
+msgstr "鴛淵"
 
 msgid "NAMES/JAPN118"
-msgstr "Okumura"
+msgstr "奧村"
 
 msgid "NAMES/JAPN119"
-msgstr "Okabe"
+msgstr "岡部"
 
 msgid "NAMES/JAPN12"
-msgstr "Hanada"
+msgstr "花田"
 
 msgid "NAMES/JAPN120"
-msgstr "Ogiya"
+msgstr "扇谷"
 
 msgid "NAMES/JAPN121"
-msgstr "Kato"
+msgstr "加藤"
 
 msgid "NAMES/JAPN122"
-msgstr "Tsunoda"
+msgstr "角田"
 
 msgid "NAMES/JAPN123"
-msgstr "Kasai"
+msgstr "開賽"
 
 msgid "NAMES/JAPN124"
-msgstr "Kashimura"
+msgstr "柏村"
 
 msgid "NAMES/JAPN125"
-msgstr "Sekitani"
+msgstr "関谷"
 
 msgid "NAMES/JAPN126"
-msgstr "Iwai"
+msgstr "岩井"
 
 msgid "NAMES/JAPN127"
-msgstr "Iwamoto"
+msgstr "岩本"
 
 msgid "NAMES/JAPN128"
-msgstr "Kikuchi"
+msgstr "菊池"
 
 msgid "NAMES/JAPN129"
-msgstr "Yoshimura"
+msgstr "吉村"
 
 msgid "NAMES/JAPN13"
-msgstr "Kashiide"
+msgstr "樫出"
 
 msgid "NAMES/JAPN130"
-msgstr "Yoshida"
+msgstr "吉田"
 
 msgid "NAMES/JAPN131"
-msgstr "Yoshida"
+msgstr "依田"
 
 msgid "NAMES/JAPN132"
-msgstr "Yoshino"
+msgstr "吉野"
 
 msgid "NAMES/JAPN133"
-msgstr "Miyazaki"
+msgstr "宮崎"
 
 msgid "NAMES/JAPN134"
-msgstr "Miyazaki"
+msgstr "宮嵜"
 
 msgid "NAMES/JAPN135"
-msgstr "Miyano"
+msgstr "宮野"
 
 msgid "NAMES/JAPN136"
-msgstr "Hashiguchi"
+msgstr "橋口"
 
 msgid "NAMES/JAPN137"
-msgstr "Kondo"
+msgstr "近藤"
 
 msgid "NAMES/JAPN138"
-msgstr "Kanamaru"
+msgstr "金丸"
 
 msgid "NAMES/JAPN139"
-msgstr "Kaneko"
+msgstr "金子"
 
 msgid "NAMES/JAPN14"
-msgstr "Kajinami"
+msgstr "梶並"
 
 msgid "NAMES/JAPN140"
-msgstr "Harada"
+msgstr "原田"
 
 msgid "NAMES/JAPN141"
-msgstr "Koga"
+msgstr "古賀"
 
 msgid "NAMES/JAPN142"
-msgstr "Kudo"
+msgstr "工藤"
 
 msgid "NAMES/JAPN143"
-msgstr "Katsuki"
+msgstr "勝木"
 
 msgid "NAMES/JAPN144"
-msgstr "Takahashi"
+msgstr "高橋"
 
 msgid "NAMES/JAPN145"
-msgstr "Takahashi"
+msgstr "高階"
 
 msgid "NAMES/JAPN146"
-msgstr "Takatsuka"
+msgstr "高塚"
 
 msgid "NAMES/JAPN147"
-msgstr "Kokubu"
+msgstr "國分"
 
 msgid "NAMES/JAPN148"
-msgstr "Kuroiwa"
+msgstr "黑岩"
 
 msgid "NAMES/JAPN149"
-msgstr "Kurosawa"
+msgstr "黒沢"
 
 msgid "NAMES/JAPN15"
-msgstr "Kanbara"
+msgstr "蒲原"
 
 msgid "NAMES/JAPN150"
-msgstr "Kurotori"
+msgstr "黒鳥"
 
 msgid "NAMES/JAPN151"
-msgstr "Sasakihara"
+msgstr "佐々木原"
 
 msgid "NAMES/JAPN152"
-msgstr "Sakai"
+msgstr "酒井"
 
 msgid "NAMES/JAPN153"
-msgstr "Sakano"
+msgstr "坂野"
 
 msgid "NAMES/JAPN154"
-msgstr "Sasai"
+msgstr "笹井"
 
 msgid "NAMES/JAPN155"
-msgstr "Yamashita"
+msgstr "山下"
 
 msgid "NAMES/JAPN156"
-msgstr "Yamashita"
+msgstr "月夜里"
 
 msgid "NAMES/JAPN157"
-msgstr "Yamaguchi"
+msgstr "山口"
 
 msgid "NAMES/JAPN158"
-msgstr "Yamazaki"
+msgstr "山崎"
 
 msgid "NAMES/JAPN159"
-msgstr "Yamamoto"
+msgstr "山本"
 
 msgid "NAMES/JAPN16"
-msgstr "Iwahashi"
+msgstr "岩橋"
 
 msgid "NAMES/JAPN160"
-msgstr "Yamamoto"
+msgstr "山本"
 
 msgid "NAMES/JAPN161"
-msgstr "Yamamoto"
+msgstr "山元"
 
 msgid "NAMES/JAPN162"
-msgstr "Ichioka"
+msgstr "市岡"
 
 msgid "NAMES/JAPN163"
-msgstr "Shiga"
+msgstr "志賀"
 
 msgid "NAMES/JAPN164"
-msgstr "Shibagaki"
+msgstr "柴垣"
 
 msgid "NAMES/JAPN165"
-msgstr "Shibayama"
+msgstr "芝山"
 
 msgid "NAMES/JAPN166"
-msgstr "Shubo"
+msgstr "舒博"
 
 msgid "NAMES/JAPN167"
-msgstr "Shibukawa"
+msgstr "渋川"
 
 msgid "NAMES/JAPN168"
-msgstr "Shigematsu"
+msgstr "重松"
 
 msgid "NAMES/JAPN169"
-msgstr "Kodaka"
+msgstr "小高"
 
 msgid "NAMES/JAPN17"
-msgstr "Iwase"
+msgstr "岩瀬"
 
 msgid "NAMES/JAPN170"
-msgstr "Koizumi"
+msgstr "古泉"
 
 msgid "NAMES/JAPN171"
-msgstr "Komachi"
+msgstr "小町"
 
 msgid "NAMES/JAPN172"
-msgstr "Kodaira"
+msgstr "小平"
 
 msgid "NAMES/JAPN173"
-msgstr "Kobayashi"
+msgstr "小林"
 
 msgid "NAMES/JAPN174"
-msgstr "Matsunaga"
+msgstr "松永"
 
 msgid "NAMES/JAPN175"
-msgstr "Matsuba"
+msgstr "松葉"
 
 msgid "NAMES/JAPN176"
-msgstr "Matsumura"
+msgstr "松村"
 
 msgid "NAMES/JAPN177"
-msgstr "Matsuo"
+msgstr "松尾"
 
 msgid "NAMES/JAPN178"
-msgstr "Uehara"
+msgstr "上原"
 
 msgid "NAMES/JAPN179"
-msgstr "Kamidaira"
+msgstr "上平"
 
 msgid "NAMES/JAPN18"
-msgstr "Yoshiyama"
+msgstr "吉山"
 
 msgid "NAMES/JAPN180"
-msgstr "Sugiyama"
+msgstr "杉山"
 
 msgid "NAMES/JAPN181"
-msgstr "Sugita"
+msgstr "杉田"
 
 msgid "NAMES/JAPN182"
-msgstr "Sugio"
+msgstr "杉尾"
 
 msgid "NAMES/JAPN183"
-msgstr "Sugino"
+msgstr "杉野"
 
 msgid "NAMES/JAPN184"
-msgstr "Sugano"
+msgstr "菅野"
 
 msgid "NAMES/JAPN185"
-msgstr "Simizu"
+msgstr "清水"
 
 msgid "NAMES/JAPN186"
-msgstr "Nishizawa"
+msgstr "西澤"
 
 msgid "NAMES/JAPN187"
-msgstr "Saito"
+msgstr "斎藤"
 
 msgid "NAMES/JAPN188"
-msgstr "Ishii"
+msgstr "石井"
 
 msgid "NAMES/JAPN189"
-msgstr "Ishii"
+msgstr "石居"
 
 msgid "NAMES/JAPN19"
-msgstr "Yoshida"
+msgstr "吉田"
 
 msgid "NAMES/JAPN190"
-msgstr "Ishiwara"
+msgstr "石原"
 
 msgid "NAMES/JAPN191"
-msgstr "Akamatsu"
+msgstr "赤松"
 
 msgid "NAMES/JAPN192"
-msgstr "Kawato"
+msgstr "川戶"
 
 msgid "NAMES/JAPN193"
-msgstr "Maeda"
+msgstr "前田"
 
 msgid "NAMES/JAPN194"
-msgstr "Aioi"
+msgstr "相生"
 
 msgid "NAMES/JAPN195"
-msgstr "Masuyama"
+msgstr "益山"
 
 msgid "NAMES/JAPN196"
-msgstr "Ota"
+msgstr "大田"
 
 msgid "NAMES/JAPN197"
-msgstr "Ohara"
+msgstr "大原"
 
 msgid "NAMES/JAPN198"
-msgstr "Omori"
+msgstr "大森"
 
 msgid "NAMES/JAPN199"
-msgstr "Oishi"
+msgstr "大石"
 
 msgid "NAMES/JAPN2"
-msgstr "Anma"
+msgstr "安馬"
 
 msgid "NAMES/JAPN20"
-msgstr "Kira"
+msgstr "基拉"
 
 msgid "NAMES/JAPN200"
-msgstr "Oki"
+msgstr "隠岐"
 
 msgid "NAMES/JAPN201"
-msgstr "Taniguchi"
+msgstr "谷口"
 
 msgid "NAMES/JAPN202"
-msgstr "Tanimizu"
+msgstr "谷水"
 
 msgid "NAMES/JAPN203"
-msgstr "Tanimizu"
+msgstr "谷水"
 
 msgid "NAMES/JAPN204"
-msgstr "Nakagaya"
+msgstr "中萱"
 
 msgid "NAMES/JAPN205"
-msgstr "Nakase"
+msgstr "中瀬"
 
 msgid "NAMES/JAPN206"
-msgstr "Nakatani"
+msgstr "中谷"
 
 msgid "NAMES/JAPN207"
-msgstr "Nakajima"
+msgstr "中島"
 
 msgid "NAMES/JAPN208"
-msgstr "Nakamichi"
+msgstr "中道"
 
 msgid "NAMES/JAPN209"
-msgstr "Nagahama"
+msgstr "長濱"
 
 msgid "NAMES/JAPN21"
-msgstr "Miyabe"
+msgstr "宮部"
 
 msgid "NAMES/JAPN210"
-msgstr "Nagano"
+msgstr "長野"
 
 msgid "NAMES/JAPN211"
-msgstr "Tanaka"
+msgstr "田中"
 
 msgid "NAMES/JAPN212"
-msgstr "Tanaka"
+msgstr "田中"
 
 msgid "NAMES/JAPN213"
-msgstr "Tanaka"
+msgstr "田仲"
 
 msgid "NAMES/JAPN214"
-msgstr "Tanaka"
+msgstr "多中"
 
 msgid "NAMES/JAPN215"
-msgstr "Watanabe"
+msgstr "渡邊"
 
 msgid "NAMES/JAPN216"
-msgstr "Fujita"
+msgstr "藤田"
 
 msgid "NAMES/JAPN217"
-msgstr "Minami"
+msgstr "南"
 
 msgid "NAMES/JAPN218"
-msgstr "Hidaka"
+msgstr "日高"
 
 msgid "NAMES/JAPN219"
-msgstr "Shirahama"
+msgstr "白濱"
 
 msgid "NAMES/JAPN22"
-msgstr "Miyamoto"
+msgstr "宮本"
 
 msgid "NAMES/JAPN220"
-msgstr "Handa"
+msgstr "函大"
 
 msgid "NAMES/JAPN221"
-msgstr "Ozeki"
+msgstr "大關"
 
 msgid "NAMES/JAPN222"
-msgstr "Mutou"
+msgstr "武藤"
 
 msgid "NAMES/JAPN223"
-msgstr "Fukube"
+msgstr "福部"
 
 msgid "NAMES/JAPN224"
-msgstr "Fukuda"
+msgstr "福田"
 
 msgid "NAMES/JAPN225"
-msgstr "Fukumoto"
+msgstr "福本"
 
 msgid "NAMES/JAPN226"
-msgstr "Kitahata"
+msgstr "北畠"
 
 msgid "NAMES/JAPN227"
-msgstr "Hori"
+msgstr "堀"
 
 msgid "NAMES/JAPN228"
-msgstr "Honda"
+msgstr "本田"
 
 msgid "NAMES/JAPN229"
-msgstr "Wajima"
+msgstr "輪島"
 
 msgid "NAMES/JAPN23"
-msgstr "Kanai"
+msgstr "金井"
 
 msgid "NAMES/JAPN230"
-msgstr "Suzuki"
+msgstr "鈴木"
 
 msgid "NAMES/JAPN231"
-msgstr "Shigeno"
+msgstr "茂野"
 
 msgid "NAMES/JAPN24"
-msgstr "Sumino"
+msgstr "角野"
 
 msgid "NAMES/JAPN25"
-msgstr "Kuwabara"
+msgstr "桑原"
 
 msgid "NAMES/JAPN26"
-msgstr "Anabuki"
+msgstr "穴吹"
 
 msgid "NAMES/JAPN27"
-msgstr "Motojima"
+msgstr "本島"
 
 msgid "NAMES/JAPN28"
-msgstr "Haraguchi"
+msgstr "原口"
 
 msgid "NAMES/JAPN29"
-msgstr "Koga"
+msgstr "古賀"
 
 msgid "NAMES/JAPN3"
-msgstr "Yasuda"
+msgstr "安田"
 
 msgid "NAMES/JAPN30"
-msgstr "Furugori"
+msgstr "古郡"
 
 msgid "NAMES/JAPN31"
-msgstr "Igarashi"
+msgstr "五十嵐"
 
 msgid "NAMES/JAPN32"
-msgstr "Hirose"
+msgstr "廣瀨"
 
 msgid "NAMES/JAPN33"
-msgstr "Hirohata"
+msgstr "廣畑"
 
 msgid "NAMES/JAPN34"
-msgstr "Eto"
+msgstr "江藤"
 
 msgid "NAMES/JAPN35"
-msgstr "Takagaki"
+msgstr "高垣"
 
 msgid "NAMES/JAPN36"
-msgstr "Takamiya"
+msgstr "高宮"
 
 msgid "NAMES/JAPN37"
-msgstr "Takahashi"
+msgstr "高橋"
 
 msgid "NAMES/JAPN38"
-msgstr "Kuroe"
+msgstr "黑江"
 
 msgid "NAMES/JAPN39"
-msgstr "Kuroki"
+msgstr "黑木"
 
 msgid "NAMES/JAPN4"
-msgstr "Ito"
+msgstr "伊藤"
 
 msgid "NAMES/JAPN40"
-msgstr "Kurono"
+msgstr "黒野"
 
 msgid "NAMES/JAPN41"
-msgstr "Sasaki"
+msgstr "佐々木"
 
 msgid "NAMES/JAPN42"
-msgstr "Saito"
+msgstr "斉藤"
 
 msgid "NAMES/JAPN43"
-msgstr "Saito"
+msgstr "齋藤"
 
 msgid "NAMES/JAPN44"
-msgstr "Hosono"
+msgstr "細野"
 
 msgid "NAMES/JAPN45"
-msgstr "Sakai"
+msgstr "坂井"
 
 msgid "NAMES/JAPN46"
-msgstr "Sakakawa"
+msgstr "酒川"
 
 msgid "NAMES/JAPN47"
-msgstr "Yamaguchi"
+msgstr "山口"
 
 msgid "NAMES/JAPN48"
-msgstr "Yoshimoto"
+msgstr "吉本"
 
 msgid "NAMES/JAPN49"
-msgstr "Ichikawa"
+msgstr "市川"
 
 msgid "NAMES/JAPN5"
-msgstr "Inoue"
+msgstr "井上"
 
 msgid "NAMES/JAPN50"
-msgstr "Kodama"
+msgstr "兒玉"
 
 msgid "NAMES/JAPN51"
-msgstr "Shinohara"
+msgstr "筱原"
 
 msgid "NAMES/JAPN52"
-msgstr "Shibata"
+msgstr "柴田"
 
 msgid "NAMES/JAPN53"
-msgstr "Wakamatsu"
+msgstr "若松"
 
 msgid "NAMES/JAPN54"
-msgstr "So"
+msgstr "荘"
 
 msgid "NAMES/JAPN55"
-msgstr "Masuzawa"
+msgstr "増沢"
 
 msgid "NAMES/JAPN56"
-msgstr "Ogawa"
+msgstr "小川"
 
 msgid "NAMES/JAPN57"
-msgstr "Ogura"
+msgstr "小倉"
 
 msgid "NAMES/JAPN58"
-msgstr "Ono"
+msgstr "小野"
 
 msgid "NAMES/JAPN59"
-msgstr "Onozaki"
+msgstr "小野崎"
 
 msgid "NAMES/JAPN6"
-msgstr "Usawa"
+msgstr "宇沢"
 
 msgid "NAMES/JAPN60"
-msgstr "Kobayashi"
+msgstr "小林"
 
 msgid "NAMES/JAPN61"
-msgstr "Kobayashi"
+msgstr "古林"
 
 msgid "NAMES/JAPN62"
-msgstr "Kobayashi"
+msgstr "子林"
 
 msgid "NAMES/JAPN63"
-msgstr "Matsuura"
+msgstr "松浦"
 
 msgid "NAMES/JAPN64"
-msgstr "Jobo"
+msgstr "上坊"
 
 msgid "NAMES/JAPN65"
-msgstr "Shiromoto"
+msgstr "城本"
 
 msgid "NAMES/JAPN66"
-msgstr "Kobe"
+msgstr "戸部"
 
 msgid "NAMES/JAPN67"
-msgstr "Shindo"
+msgstr "進藤"
 
 msgid "NAMES/JAPN68"
-msgstr "Sudo"
+msgstr "須藤"
 
 msgid "NAMES/JAPN69"
-msgstr "Tarui"
+msgstr "樽井"
 
 msgid "NAMES/JAPN7"
-msgstr "Okuda"
+msgstr "奧田"
 
 msgid "NAMES/JAPN70"
-msgstr "Tadano"
+msgstr "多田野"
 
 msgid "NAMES/JAPN71"
-msgstr "Shimizu"
+msgstr "清水"
 
 msgid "NAMES/JAPN72"
-msgstr "Kiyono"
+msgstr "清野"
 
 msgid "NAMES/JAPN73"
-msgstr "Ikui"
+msgstr "生井"
 
 msgid "NAMES/JAPN74"
-msgstr "Nishihara"
+msgstr "西原"
 
 msgid "NAMES/JAPN75"
-msgstr "Aoyagi"
+msgstr "青柳"
 
 msgid "NAMES/JAPN76"
-msgstr "Ishii"
+msgstr "石井"
 
 msgid "NAMES/JAPN77"
-msgstr "Ishikawa"
+msgstr "石川"
 
 msgid "NAMES/JAPN78"
-msgstr "Ishizuka"
+msgstr "石塚"
 
 msgid "NAMES/JAPN79"
-msgstr "Ishizawa"
+msgstr "石澤"
 
 msgid "NAMES/JAPN8"
-msgstr "Shimokawa"
+msgstr "下川"
 
 msgid "NAMES/JAPN80"
-msgstr "Asano"
+msgstr "淺野"
 
 msgid "NAMES/JAPN81"
-msgstr "Yonaga"
+msgstr "世永"
 
 msgid "NAMES/JAPN82"
-msgstr "Otake"
+msgstr "大竹"
 
 msgid "NAMES/JAPN83"
-msgstr "Otsuka"
+msgstr "大塚"
 
 msgid "NAMES/JAPN84"
-msgstr "Sawata"
+msgstr "佐和田"
 
 msgid "NAMES/JAPN85"
-msgstr "Tanijima"
+msgstr "谷島"
 
 msgid "NAMES/JAPN86"
-msgstr "Takeuchi"
+msgstr "竹内"
 
 msgid "NAMES/JAPN87"
-msgstr "Nakamura"
+msgstr "中村"
 
 msgid "NAMES/JAPN88"
-msgstr "Nakata"
+msgstr "中田"
 
 msgid "NAMES/JAPN89"
-msgstr "Igashira"
+msgstr "井頭"
 
 msgid "NAMES/JAPN9"
-msgstr "Kato"
+msgstr "加藤"
 
 msgid "NAMES/JAPN90"
-msgstr "Hasegawa"
+msgstr "長谷川"
 
 msgid "NAMES/JAPN91"
-msgstr "Tsubone"
+msgstr "坪根"
 
 msgid "NAMES/JAPN92"
-msgstr "Simamura"
+msgstr "島村"
 
 msgid "NAMES/JAPN93"
-msgstr "Shimada"
+msgstr "島田"
 
 msgid "NAMES/JAPN94"
-msgstr "Togo"
+msgstr "都合"
 
 msgid "NAMES/JAPN95"
-msgstr "Minami"
+msgstr "南"
 
 msgid "NAMES/JAPN96"
-msgstr "Nango"
+msgstr "南鄉"
 
 msgid "NAMES/JAPN97"
-msgstr "Shirai"
+msgstr "白井"
 
 msgid "NAMES/JAPN98"
-msgstr "Ozaki"
+msgstr "尾崎"
 
 msgid "NAMES/JAPN99"
-msgstr "Fukuda"
+msgstr "福田"
 
 msgid "RANKSJAP/1"
-msgstr "Taisa"
+msgstr "大佐"
 
 msgid "RANKSJAP/10"
-msgstr "Nitto Hiko Heiso"
+msgstr "二等飛行兵曹"
 
 msgid "RANKSJAP/2"
-msgstr "Chusa"
+msgstr "中佐"
 
 msgid "RANKSJAP/3"
-msgstr "Shosa"
+msgstr "少佐"
 
 msgid "RANKSJAP/4"
-msgstr "Taii"
+msgstr "大尉"
 
 msgid "RANKSJAP/5"
-msgstr "Chui"
+msgstr "中尉"
 
 msgid "RANKSJAP/6"
-msgstr "Shoi"
+msgstr "少尉"
 
 msgid "RANKSJAP/7"
-msgstr "Hiko Hei socho"
+msgstr "飛行兵曹長"
 
 msgid "RANKSJAP/8"
-msgstr "Joto Hiko Heiso"
+msgstr "上等飛行兵曹"
 
 msgid "RANKSJAP/9"
-msgstr "Itto Hiko Heiso"
+msgstr "一等飛行兵曹"
