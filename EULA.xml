@@ -1,15 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <EULA>
 	<paragraph>
-		<text>Please read the&nbsp;</text>
+		<text>請在點擊繼續前仔細閱讀</text>
 		<link>
-		<text>End User License Agreement</text>
+		<text>使用者授權協議</text>
 		<url>http://legal.na.wargaming.net/?EULA</url>
 		</link>
-		<text>.</text>
 			</paragraph>
-	<br></br>
 	<paragraph>
-		<text>BY CLICKING "CONTINUE", YOU ACKNOWLEDGE THAT YOU HAVE READ, UNDERSTOOD, AND AGREE TO BE BOUND BY, AND COMPLY WITH, THE TERMS OF THE END USER LICENSE AGREEMENT, AND BE LIABLE FOR ANY VIOLATION THEREOF. EULA AND ANY AMENDMENTS THERETO ARE MATERIAL TO AND BINDING UPON ALL PROJECT MEMBERS.</text>
+		<text>點擊「繼續」，即表示您已經閱讀，理解，同意遵守使用者協議中的全部條款，受其約束，並承擔違反上述條款所造成的全部責任。使用者協議及其後續修訂是非常重要的並對所有使用者有效。</text>
 	</paragraph>
 </EULA>
