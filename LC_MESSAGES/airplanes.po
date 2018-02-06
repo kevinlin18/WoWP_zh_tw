@@ -3632,34 +3632,22 @@ msgstr "雅克-9U"
 msgid "PLANE_NAME_YP-29"
 msgstr "YP-29"
 
-#, fuzzy
-#| msgid "MARKET_AIRPLANE_DESCRIPTION_P-26"
 msgid "MARKET_AIRPLANE_DESCRIPTION_A-26B"
 msgstr ""
-"Developed as an attack bomber to replace the Douglas "
-"A-20 Havoc serving the U.S. Air Force. The A-26B was "
-"the first aircraft in the series to enter mass "
-"production. A significant number of modifications were "
-"built based on the A-26B."
+"為了替代美國空軍道格拉斯 A-20 浩劫攻擊機而研製的轟炸"
+"機，A-26B 是該系列中第一批投入量產的飛機。有大量的衍生"
+"版本是基於 A-26B 所製造。"
 
-#, fuzzy
-#| msgid "MARKET_AIRPLANE_DESCRIPTION_BF109E"
 msgid "MARKET_AIRPLANE_DESCRIPTION_BF-109E-3"
 msgstr ""
-"The most widely produced version of the Bf 109 E that "
-"was extensively used in the French campaign in 1940 "
-"and the Battle of Britain. A total of 1,868 aircraft "
-"were built."
+"生產最為廣泛的 Bf 109 E 型號，在 1940 年的法國戰役和不"
+"列顛戰役期間使用，一共生產了 1,868 架。"
 
-#, fuzzy
-#| msgid "MARKET_AIRPLANE_DESCRIPTION_BLENHEIM-F"
 msgid "MARKET_AIRPLANE_DESCRIPTION_BLENHEIM-IV"
 msgstr ""
-"Developed by the Bristol company as Type 149. Featured "
-"a lengthened nose, which provided more comfortable "
-"conditions for a navigator. The first several Blenheim "
-"Mk.IVs inherited the defensive armament of the "
-"Blenheim Mk.I."
+"由 Bristol 公司開發的 Type 149。特色為加長的機頭，為領"
+"航員提供更舒適的環境。最早的幾架布倫海姆 Mk.IV 繼承了布"
+"倫海姆 Mk.I 的防禦武器。"
 
 #, fuzzy
 #| msgid "MARKET_AIRPLANE_DESCRIPTION_I-210"
@@ -3700,42 +3688,27 @@ msgstr ""
 "aircraft did not see active combat service. A total of "
 "223 modifications of the DI-6 were built."
 
-#, fuzzy
-#| msgid "MARKET_AIRPLANE_DESCRIPTION_DO-17Z"
 msgid "MARKET_AIRPLANE_DESCRIPTION_DO-17Z-2"
 msgstr ""
-"The last and most advanced version of the Do 17 "
-"bomber. The prototype first took to the air in March "
-"1938. It featured an absolutely new cockpit design, "
-"new engines, and enhanced defensive armament. A total "
-"of roughly 500 Do 17 Z aircraft in several versions "
-"were built."
+"Do 17 轟炸機最後和最先進的版本。原型機於 1938 年 3 月首"
+"飛。它的特點在於全新設計的駕駛艙、引擎及防禦武器。連同"
+"其所有改進型號一共生產了約 500 架 Do 17 Z。"
 
-#, fuzzy
-#| msgid "MARKET_AIRPLANE_DESCRIPTION_DO-17Z"
 msgid "MARKET_AIRPLANE_DESCRIPTION_DO-217M"
 msgstr ""
-"The Do 217 M was a variant of the mass-produced "
-"Do 217 K with the DB 603 engine instead of the BMW 801 "
-"that was in great demand for fighters. Both bomber "
-"variants were used mainly on the Western Front."
+"Do 217 M 是大量生產的 Do 217 K 的一種衍生型號，配備 DB "
+"603 發動機，而不是戰鬥機的 BMW 801。 這兩架轟炸機版本主"
+"要用於西方戰線。"
 
-#, fuzzy
-#| msgid "MARKET_AIRPLANE_DESCRIPTION_DO-17Z"
 msgid "MARKET_AIRPLANE_DESCRIPTION_DO-335A1"
 msgstr ""
-"Developed as a high-speed heavy fighter-bomber. The "
-"prototype first took to the air on October 26, 1943. A "
-"series of about 12 Do 335 A-1s were built by the end "
-"of World War II."
+"以重型戰鬥轟炸機為目標開發。原型機於 1943 年 10 月 26 "
+"日首飛。一系列約 12 架 Do 335A-1 在二戰結束時建成。"
 
-#, fuzzy
-#| msgid "MARKET_AIRPLANE_DESCRIPTION_HS-129"
 msgid "MARKET_AIRPLANE_DESCRIPTION_HS-123"
 msgstr ""
-"First flew in May 1935. Successfully used for close "
-"air support during the Spanish Civil War and World War "
-"II. A total of about 260 aircraft were built."
+"1935 年 5 月首飛，在西班牙內戰和二戰期間成功地提供近距"
+"離空中支援。共有約 260 架戰機被製造出來。"
 
 #, fuzzy
 #| msgid "MARKET_AIRPLANE_DESCRIPTION_HS-129"
@@ -3764,14 +3737,11 @@ msgstr ""
 "enhanced. This modification remained in production "
 "until 1944 and was also built in Canada."
 
-#, fuzzy
-#| msgid "MARKET_AIRPLANE_DESCRIPTION_I16-24"
 msgid "MARKET_AIRPLANE_DESCRIPTION_I-16-29"
 msgstr ""
-"Last mass-produced modification of the 波利卡爾波"
-"夫 伊-16. First flew in 1940. The main difference from "
-"its predecessors was it had no guns in the wings, but "
-"carried a synchronized large-caliber machine gun."
+"波利卡爾波夫 伊-16 最後量產的改良型號。於 1940 年首飛。"
+"與早期型號的主要區別在於機翼上沒有機槍，而是搭載了大口"
+"徑的同步機槍。"
 
 #, fuzzy
 #| msgid "MARKET_AIRPLANE_DESCRIPTION_I-210"
@@ -3783,23 +3753,16 @@ msgstr ""
 "prototype was built by the spring of 1941, but the "
 "project was discontinued."
 
-#, fuzzy
-#| msgid "MARKET_AIRPLANE_DESCRIPTION_I-21"
 msgid "MARKET_AIRPLANE_DESCRIPTION_I-211"
 msgstr ""
-"Development started in 1946. The prototype first flew "
-"on September 5, 1947. The concept of the aircraft was "
-"constantly improved. The further development of the "
-"project resulted in the creation of the I-215."
+"於 1946 年開始研製。原型機於 1947 年 9 月 5 日首飛。飛"
+"機的概念不斷改良。該計劃的後續發展衍生出了 I-215。"
 
-#, fuzzy
-#| msgid "MARKET_AIRPLANE_DESCRIPTION_I-21"
 msgid "MARKET_AIRPLANE_DESCRIPTION_I-215"
 msgstr ""
-"Designed on the basis of the I-211 with changes made "
-"to the engines and weapon mix. Never entered service "
-"due to the decision to concentrate the development of "
-"fighters in the Mikoyan and Yakovlev design bureau."
+"在 I-211 的基礎上設計，改變了發動機和武器組合。由於決定"
+"集中發展米高揚和雅克列夫設計局的戰鬥機，從未進入部隊服"
+"役。"
 
 #, fuzzy
 #| msgid "MARKET_AIRPLANE_DESCRIPTION_IL-10M"
