@@ -3,11 +3,14 @@ msgstr ""
 "Project-Id-Version: World Of Tanks\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2010-06-01 10:00+0300\n"
-"Last-Translator: i_maliavko <i_maliavko@wargaming.net>\n"
+"Last-Translator: kevinlin18 <https://github.com/kevinlin18/WoWP_zh_tw>\n"
 "Language-Team: WoT Team <noreply@wargaming.net>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: \n"
+"Language: zh_TW\n"
+"X-Generator: Poedit 2.0.6\n"
 
 msgid "ACHIEVEMENTS_ACCURACY_TOOLTIP"
 msgstr "射擊精準度"
@@ -2184,8 +2187,8 @@ msgstr "顯示所有飛機"
 
 msgid "TOOLTIP_COMMON_FREE_XP"
 msgstr ""
-"自由經驗可用來研發任何的戰機或裝備<br>你在戰鬥中所獲得的全"
-"局經驗可在《戰車世界》和《戰機世界》中通用"
+"自由經驗可用來研發任何的戰機或裝備<br>你在戰鬥中所獲得的全局經驗可在《戰車世"
+"界》和《戰機世界》中通用"
 
 msgid "TOOLTIP_CONSUMABLES_INFO_COOLDOWN_TIME"
 msgstr "下次使用:"
@@ -2213,8 +2216,7 @@ msgstr "創建編隊"
 
 msgid "TOOLTIP_CREDITS"
 msgstr ""
-"在遊戲中賺取的遊戲幣，<br/>銀幣可用於購買裝備和飛機，補充彈藥"
-"和修理戰機"
+"在遊戲中賺取的遊戲幣，<br/>銀幣可用於購買裝備和飛機，補充彈藥和修理戰機"
 
 msgid "TOOLTIP_CREW_GUNNER"
 msgstr "尾部機槍手"
@@ -2318,30 +2320,36 @@ msgstr ""
 
 msgid "TOOLTIP_EVENT_EMBLEM_DESCRIPTION_CHINA"
 msgstr ""
-"您可在個性化介面中徽章選項中選擇使用特殊徽章並進行套用<br>在機庫中選中中國戰機"
+"您可在個性化介面中徽章選項中選擇使用特殊徽章並進行套用<br>在機庫中選中中國戰"
+"機"
 
 msgid "TOOLTIP_EVENT_EMBLEM_DESCRIPTION_GERMANY"
 msgstr ""
-"您可在個性化介面中徽章選項中選擇使用特殊徽章並進行套用<br>在機庫中選中德國戰機"
+"您可在個性化介面中徽章選項中選擇使用特殊徽章並進行套用<br>在機庫中選中德國戰"
+"機"
 
 msgid "TOOLTIP_EVENT_EMBLEM_DESCRIPTION_JAPAN"
 msgstr ""
-"您可在個性化介面中徽章選項中選擇使用特殊徽章並進行套用<br>在機庫中選中日本戰機"
+"您可在個性化介面中徽章選項中選擇使用特殊徽章並進行套用<br>在機庫中選中日本戰"
+"機"
 
 msgid "TOOLTIP_EVENT_EMBLEM_DESCRIPTION_SEARCH"
 msgstr "您可在徽章選項中選擇使用特殊徽章並進行套用<br>進入個性化介面進行調整"
 
 msgid "TOOLTIP_EVENT_EMBLEM_DESCRIPTION_UK"
 msgstr ""
-"您可在個性化介面中徽章選項中選擇使用特殊徽章並進行套用<br>在機庫中選中英國戰機"
+"您可在個性化介面中徽章選項中選擇使用特殊徽章並進行套用<br>在機庫中選中英國戰"
+"機"
 
 msgid "TOOLTIP_EVENT_EMBLEM_DESCRIPTION_USA"
 msgstr ""
-"您可在個性化介面中徽章選項中選擇使用特殊徽章並進行套用<br>在機庫中選中美國戰機"
+"您可在個性化介面中徽章選項中選擇使用特殊徽章並進行套用<br>在機庫中選中美國戰"
+"機"
 
 msgid "TOOLTIP_EVENT_EMBLEM_DESCRIPTION_USSR"
 msgstr ""
-"您可在個性化介面中徽章選項中選擇使用特殊徽章並進行套用<br>在機庫中選中蘇聯戰機"
+"您可在個性化介面中徽章選項中選擇使用特殊徽章並進行套用<br>在機庫中選中蘇聯戰"
+"機"
 
 msgid "TOOLTIP_EVENT_EQUIPMENT_DESCRIPTION"
 msgstr "您可在倉庫中找到配件"
@@ -2446,8 +2454,8 @@ msgstr "點選檢視德國科技樹，點選戰機檢視其裝備"
 
 msgid "TOOLTIP_GOLD"
 msgstr ""
-"需要用真實貨幣進行購買的特殊遊戲幣，<br/>用金幣可購買銀幣、高"
-"級帳號和高階飛機，同時也可以將經驗兌換成自由經驗"
+"需要用真實貨幣進行購買的特殊遊戲幣，<br/>用金幣可購買銀幣、高級帳號和高階飛"
+"機，同時也可以將經驗兌換成自由經驗"
 
 msgid "TOOLTIP_GOLD_1"
 msgstr ""
@@ -3285,10 +3293,10 @@ msgstr "預覽所選範圍中的標識設定"
 
 msgid "TOOLTIP_SETTINGS_MOUSE_HEADER_MIXING"
 msgstr ""
-"選擇滑鼠與鍵盤指令的優先順序:<br><br> - 滑鼠和鍵盤: 滑鼠的控制指令與鍵盤的控制"
-"指令同時生效<br> - 鍵盤: 當不觸碰滑鼠時將只根據鍵盤指令控制戰機<br> - 混合: "
-"正向視角時滑鼠與鍵盤的控制指令均有效果; 自由視角或捕捉到目標的視角只有鍵盤的"
-"控制指令有效"
+"選擇滑鼠與鍵盤指令的優先順序:<br><br> - 滑鼠和鍵盤: 滑鼠的控制指令與鍵盤的控"
+"制指令同時生效<br> - 鍵盤: 當不觸碰滑鼠時將只根據鍵盤指令控制戰機<br> - 混"
+"合: 正向視角時滑鼠與鍵盤的控制指令均有效果; 自由視角或捕捉到目標的視角只有鍵"
+"盤的控制指令有效"
 
 msgid "TOOLTIP_SETTINGS_MOUSE_PATTERN_FIXED_HORIZON"
 msgstr "視角與固定視野<br>跟隨於戰機的視角"
@@ -3726,7 +3734,7 @@ msgid "WING_CONTEXT_START_CHAT_AND_ANOTHER_INFO"
 msgstr "檢視玩家列表"
 
 msgid "WING_CONTEXT_STOP_AUTO_SEARCH"
-msgstr "暫停自動搜搜"
+msgstr "暫停自動搜尋"
 
 msgid "WING_CONTEXT_WAIT_PLAYER_OR_INVITE_NEW"
 msgstr "等待玩家回到遊戲或離開當前編隊組建一個新的編隊。"
@@ -3734,586 +3742,756 @@ msgstr "等待玩家回到遊戲或離開當前編隊組建一個新的編隊。
 msgid "WING_DESCRIPTION_FRIENDS"
 msgstr "你可以在機庫左下角找到已新增的玩家名單。"
 
+#, fuzzy
 msgid "TOOLTIPS_ACHIEVEMENTS_ARCHIVE_DESCRIPTION"
 msgstr ""
 "Open the default browser to go to the archive of achievements awarded in the "
 "mode \"Superiority\"."
 
+#, fuzzy
 msgid "TOOLTIPS_ACHIEVEMENTS_BATTLE_EFFICIENCY"
 msgstr ""
 "Ratio of destroyed enemy aircraft to destroyed player's aircraft. Air "
 "defense aircraft and bombers from Attack Flights do not count."
 
+#, fuzzy
 msgid "TOOLTIPS_ACHIEVEMENTS_SORT_BY_KILL-DEATH"
 msgstr ""
 "Sort by ratio of destroyed enemy aircraft to destroyed player's aircraft"
 
 msgid "TOOLTIPS_ACHIEVEMENTS_SORT_BY_PLAYTIME_ON_PLANES"
-msgstr "Sort by average amount of time spent in the aircraft"
+msgstr "按飛行時數排序"
 
+#, fuzzy
 msgid "TOOLTIPS_ACTIVE_SKILL"
 msgstr "Active skill"
 
+#, fuzzy
 msgid "TOOLTIPS_AFTERBATTLE_SHARE_EXP_CREW"
 msgstr "Aircraft Experience has been directed toward training the crew."
 
+#, fuzzy
 msgid "TOOLTIPS_AFTERBATTLE_SHARE_EXP_PILOT"
 msgstr "Aircraft Experience has been directed toward training the pilot."
 
+#, fuzzy
 msgid "TOOLTIPS_AFTERBATTLE_SHARE_EXP_PILOT_PER_BATTLE"
 msgstr "Experience received by the pilot"
 
+#, fuzzy
 msgid "TOOLTIPS_AFTERBATTLE_SHARE_EXP_PLANE"
 msgstr "Experience received by the aircraft"
 
+#, fuzzy
 msgid "TOOLTIPS_AFTERBATTLE_SHARE_EXP_REARGUNNER"
 msgstr "Aircraft Experience has been directed toward training the gunner."
 
+#, fuzzy
 msgid "TOOLTIPS_AFTERBATTLE_SHARE_EXP_REARGUNNER_PER_BATTLE"
 msgstr "Experience received by the gunner"
 
+#, fuzzy
 msgid "TOOLTIPS_AILERONS_DESCRIPTION"
 msgstr "Flight control surfaces used for roll guidance"
 
+#, fuzzy
 msgid "TOOLTIPS_AIRCRAFT_CONTROL_RODS_DESCRIPTION"
 msgstr ""
 "Transfer the motions of control wheel, rudder pedals, and other controls to "
 "aircraft control surfaces"
 
+#, fuzzy
 msgid "TOOLTIPS_ALBION_PARTICIPATING_EVENT_AND_GET_PLANE"
 msgstr ""
 "You can receive this aircraft by participating in the Skies of Albion event."
 
+#, fuzzy
 msgid "TOOLTIPS_ALTITUDE_AND_DIRECTION_RUDDERS_DESCRIPTION"
 msgstr "Provide aircraft pitch and yaw control"
 
+#, fuzzy
 msgid "TOOLTIPS_ARMORED_OBJECT"
 msgstr "Armored ground target"
 
+#, fuzzy
 msgid "TOOLTIPS_BATTLE_RESULTS_PERSONALS_QUESTS_PROGRESS_ACHIEVED"
 msgstr "Achieved progress"
 
+#, fuzzy
 msgid "TOOLTIPS_BATTLE_SINGLE_FLIGHT_DESCRIPTION"
 msgstr ""
 "A combat flight with random players. Battle results affect main statistics."
 
+#, fuzzy
 msgid "TOOLTIPS_BATTLE_TRAINING_FLIGHT_DESCRIPTION"
 msgstr ""
 "A training flight with specially selected teammates and opponents. Battle "
 "results do not affect main statistics."
 
+#, fuzzy
 msgid "TOOLTIPS_BOMBARDIER_EQUIPMENT_DESCRIPTION"
 msgstr "Instruments and sight device for high-altitude precision bombing"
 
+#, fuzzy
 msgid "TOOLTIPS_BOMBBAY_DESCRIPTION"
 msgstr "Compartment for bombs and equipment"
 
+#, fuzzy
 msgid "TOOLTIPS_BOMBER_LIMITED_EDITION_TEXT"
 msgstr "Take your chance! The offer is available until {date}"
 
+#, fuzzy
 msgid "TOOLTIPS_BOMB_MODE"
 msgstr "High-altitude bombing mode (Left Shift)"
 
+#, fuzzy
 msgid "TOOLTIPS_BRAKING_SYSTEM_DESCRIPTION"
 msgstr "Main system for aircraft ground slowing"
 
+#, fuzzy
 msgid "TOOLTIPS_CANHAVE_BIGBOMBS"
 msgstr "Can carry powerful bombs"
 
+#, fuzzy
 msgid "TOOLTIPS_CANHAVE_ROCKETSANDBOMBS"
 msgstr "Can carry bombs and rockets"
 
+#, fuzzy
 msgid "TOOLTIPS_CANHAVE_ROCKETSORBOMBS"
 msgstr "Can carry bombs or rockets"
 
+#, fuzzy
 msgid "TOOLTIPS_CANHAVE_SALVOROCKETS"
 msgstr "Can carry salvo-launched rockets"
 
+#, fuzzy
 msgid "TOOLTIPS_CANHAVE_SALVOROCKETSANDBOMBS"
 msgstr "Can carry bombs and salvo-launched rockets"
 
+#, fuzzy
 msgid "TOOLTIPS_CANHAVE_SALVOROCKETSORBOMBS"
 msgstr "Can carry bombs or salvo-launched rockets"
 
+#, fuzzy
 msgid "TOOLTIPS_CANHAVE_SMALLBOMBS"
 msgstr "Can carry small bombs"
 
+#, fuzzy
 msgid "TOOLTIPS_CANHAVE_SMALLROCKETS"
 msgstr "Can carry small rockets"
 
+#, fuzzy
 msgid "TOOLTIPS_CANT_BE_RESET_SKILL"
 msgstr "Unique skill cannot be reset"
 
+#, fuzzy
 msgid "TOOLTIPS_CHANGE_EXP_DESCRIPTION"
 msgstr "Use Free Experience to accelerate earning of skill points."
 
+#, fuzzy
 msgid "TOOLTIPS_CHANGE_GUNNER"
 msgstr "Replace gunner"
 
+#, fuzzy
 msgid "TOOLTIPS_CHANGE_PILOT"
 msgstr "Replace pilot"
 
+#, fuzzy
 msgid "TOOLTIPS_CLASS_HINT_ASSAULT"
 msgstr ""
 "Highly durable aircraft designed to destroy ground targets from a medium "
 "altitude. Carry powerful strike weapons and normally one defensive turret."
 
+#, fuzzy
 msgid "TOOLTIPS_CLASS_HINT_BOMBER"
 msgstr ""
 "High-speed aircraft designed to attack ground targets by dropping bombs from "
 "a high altitude. Carry high load of bombs and powerful defensive armament."
 
+#, fuzzy
 msgid "TOOLTIPS_CLASS_HINT_FIGHTERS"
 msgstr ""
 "Highly maneuverable aircraft designed to intercept and destroy enemy "
 "aircraft in maneuvering battles as well as to cover allies."
 
+#, fuzzy
 msgid "TOOLTIPS_CLASS_HINT_HEAVY"
 msgstr ""
 "Fast and heavily armed universal aircraft that are capable of effectively "
 "intercepting enemy attack aircraft and bombers and destroying ground targets."
 
+#, fuzzy
 msgid "TOOLTIPS_CLASS_HINT_NAVY"
 msgstr ""
 "Universal aircraft designed to engage in active combat and destroy unarmored "
 "ground targets. Capable of carrying several bombs or rockets."
 
+#, fuzzy
 msgid "TOOLTIPS_CLASS_LVL_1_PROGRESS"
 msgstr "Grade I"
 
+#, fuzzy
 msgid "TOOLTIPS_CLASS_LVL_2_PROGRESS"
 msgstr "Grade II"
 
+#, fuzzy
 msgid "TOOLTIPS_CLASS_LVL_3_PROGRESS"
 msgstr "Grade III"
 
+#, fuzzy
 msgid "TOOLTIPS_CLASS_LVL_4_PROGRESS"
 msgstr "Grade IV"
 
+#, fuzzy
 msgid "TOOLTIPS_CLASS_LVL_5_PROGRESS"
 msgstr "Grade V"
 
+#, fuzzy
 msgid "TOOLTIPS_CLASS_QUEST_NAME"
 msgstr "Aircraft type-specific mission<br>\"{name}\""
 
+#, fuzzy
 msgid "TOOLTIPS_CLOSECOMBAT_BIGGUNS"
 msgstr "Large-caliber armament effective in close combat"
 
+#, fuzzy
 msgid "TOOLTIPS_CLOSECOMBAT_CANONS"
 msgstr "Autocannon armament effective in close combat"
 
+#, fuzzy
 msgid "TOOLTIPS_CLOSECOMBAT_MASHINEGUNS"
 msgstr "Machine gun armament effective in close combat"
 
+#, fuzzy
 msgid "TOOLTIPS_CLOSECOMBAT_MIXEDGUNS"
 msgstr "Machine gun and autocannon armament effective in close combat"
 
+#, fuzzy
 msgid "TOOLTIPS_COLLECT_ALL_PARTS"
 msgstr "Collect all parts to get a bomber for free."
 
+#, fuzzy
 msgid "TOOLTIPS_CREW_RESET_FOR_GOLD_BETTER"
 msgstr "It is more effective to reset skills for gold."
 
+#, fuzzy
 msgid "TOOLTIPS_DESCRIPTION_PREMIUM_AIRCRAFTS"
 msgstr "Premium aircraft earn more credits in battle"
 
+#, fuzzy
 msgid "TOOLTIPS_DESCRIPTION_TO_ONLY_ONE_DIRECTIVE_CAN_BE_ACTIVE"
 msgstr "First finish executing the activated operation order or deactivate it."
 
 msgid "TOOLTIPS_DETAIL_BUTTON_DESCRIPTION"
-msgstr "Open the default browser to view the details."
+msgstr "打開您的預設瀏覽器來查看詳情。"
 
+#, fuzzy
 msgid "TOOLTIPS_ENGINE_DESCRIPTION"
 msgstr "Main component of the propulsion system"
 
+#, fuzzy
 msgid "TOOLTIPS_EQUIPMENT_NOT_PURCHASED"
 msgstr "Purchase"
 
+#, fuzzy
 msgid "TOOLTIPS_EQUIPMENT_PURCHASED"
 msgstr "Purchased"
 
+#, fuzzy
 msgid "TOOLTIPS_FIRST_WIN_BONUS"
 msgstr "First victory of the day bonus:"
 
+#, fuzzy
 msgid "TOOLTIPS_FLAPS_DESCRIPTION"
 msgstr "Used for augmenting wing lift"
 
+#, fuzzy
 msgid "TOOLTIPS_FR_BANNER_TIME_LEFT"
 msgstr "Don't miss your chance! The offer is available for {days} d."
 
+#, fuzzy
 msgid "TOOLTIPS_FR_INCLUDED_IN_PRICE"
 msgstr "The price also includes:"
 
+#, fuzzy
 msgid "TOOLTIPS_FUEL_TANKS_DESCRIPTION"
 msgstr "Containers with fuel for engines"
 
+#, fuzzy
 msgid "TOOLTIPS_FUSELAGE_FRAME_DESCRIPTION"
 msgstr "Set of load-bearing elements, basis of an aircraft structure"
 
+#, fuzzy
 msgid "TOOLTIPS_GA_CANONS"
 msgstr "Autocannon armament effective against ground targets"
 
+#, fuzzy
 msgid "TOOLTIPS_GA_LONGRANGE_BIGGUN"
 msgstr "Long-range armament effective against armored ground targets"
 
+#, fuzzy
 msgid "TOOLTIPS_GA_MASHINEGUNS"
 msgstr "Machine gun armament effective against unarmored ground targets"
 
+#, fuzzy
 msgid "TOOLTIPS_GA_MIXEDGUNS"
 msgstr "Machine gun and autocannon armament effective against ground targets"
 
+#, fuzzy
 msgid "TOOLTIPS_GOOD_ROCKET_WEAPON"
 msgstr "Good rocket armament"
 
+#, fuzzy
 msgid "TOOLTIPS_GUNNER_CABIN_DESCRIPTION"
 msgstr ""
 "Compartment for a gunner. Includes cockpit windows, a gunner seat, and an "
 "armor plate."
 
+#, fuzzy
 msgid "TOOLTIPS_HAVE_POWEFUL_ROCKETSANDBOMBS"
 msgstr "Carries powerful bombs and rockets"
 
+#, fuzzy
 msgid "TOOLTIPS_HAVE_POWERFUL_BOMBS"
 msgstr "Carries powerful bombs"
 
+#, fuzzy
 msgid "TOOLTIPS_HAVE_POWERFUL_ROCKETS"
 msgstr "Carries powerful rockets"
 
+#, fuzzy
 msgid "TOOLTIPS_HAVE_ROCKETSANDBOMBS"
 msgstr "Carries rockets and bombs"
 
+#, fuzzy
 msgid "TOOLTIPS_HAVE_SMALLBOMBS"
 msgstr "Carries small bombs"
 
+#, fuzzy
 msgid "TOOLTIPS_HEIGHT_BOMBER"
 msgstr ""
 "Very effective in destroying ground targets by bombing them from high "
 "altitude"
 
+#, fuzzy
 msgid "TOOLTIPS_HEIGHT_INTERCEPT"
 msgstr "Very effective in intercepting aircraft at a high altitude"
 
+#, fuzzy
 msgid "TOOLTIPS_HIGH_MANUVER"
 msgstr "High maneuverability in horizontal turns"
 
+#, fuzzy
 msgid "TOOLTIPS_HIGH_MANUVER_AND_HIGHROLL"
 msgstr "High maneuverability and rate of roll"
 
+#, fuzzy
 msgid "TOOLTIPS_HIGH_SPEED"
 msgstr "High airspeed, good boost"
 
+#, fuzzy
 msgid "TOOLTIPS_HIGH_SPEED_AND_LONGWEP"
 msgstr "High airspeed, long-lasting boost"
 
+#, fuzzy
 msgid "TOOLTIPS_HIGH_SPEED_AND_POWERFULWEP"
 msgstr "High airspeed, accelerates quickly when boosting"
 
+#, fuzzy
 msgid "TOOLTIPS_INCREASE_CREDIT_AND_EXP"
 msgstr "Increased credit and experience income per battle"
 
+#, fuzzy
 msgid "TOOLTIPS_JA_TR_10_POINTS_PER_EPIC_ACHIEVEMENT"
 msgstr "10 points for an Epic Achievement"
 
+#, fuzzy
 msgid "TOOLTIPS_JA_TR_1_POINT_PER_15SUP_POINTS"
 msgstr "1 point for each 15 superiority points"
 
+#, fuzzy
 msgid "TOOLTIPS_JA_TR_1_POINT_PER_WIN"
 msgstr "1 point for victory"
 
+#, fuzzy
 msgid "TOOLTIPS_JA_TR_2_POINTS_FOR_PARTICIPATION_IN_BATTLE"
 msgstr "2 points for participation in battles"
 
+#, fuzzy
 msgid "TOOLTIPS_JA_TR_4_POINTS_PER_BATTLE_HEROES_ACHIEVEMENT"
 msgstr "4 points for a Service Award"
 
+#, fuzzy
 msgid "TOOLTIPS_JA_TR_CHANGE_FACTION_AVAILABLE_AFTER_SELECT_FACTION"
 msgstr "You can change forces only after you select it."
 
+#, fuzzy
 msgid "TOOLTIPS_JA_TR_CHANGE_FACTION_AVAILABLE_IN_PEACETIME"
 msgstr "You can change forces during peacetime only."
 
+#, fuzzy
 msgid "TOOLTIPS_JA_TR_CLICK_TO_GET"
 msgstr "Click to receive the aircraft."
 
+#, fuzzy
 msgid "TOOLTIPS_JA_TR_COMPLETE_QUEST_GET_FREE_PLANE_1"
 msgstr "Complete the special mission to receive the aircraft for free."
 
+#, fuzzy
 msgid "TOOLTIPS_JA_TR_COMPLETE_QUEST_GET_FREE_PLANE_2"
 msgstr ""
 "You will receive the aircraft for free after you complete the special "
 "mission during peacetime."
 
+#, fuzzy
 msgid "TOOLTIPS_JA_TR_NOT_ENOUGH_TOKENS"
 msgstr "Not enough tokens"
 
+#, fuzzy
 msgid "TOOLTIPS_JA_TR_NO_AICRAFT_AXIS"
 msgstr "No aircraft from the <font color='#{color}'>Axis</font> forces"
 
+#, fuzzy
 msgid "TOOLTIPS_JA_TR_NO_AIRCRAFT_ALLY"
 msgstr "No aircraft from the <font color='#{color}'>Allied</font> forces"
 
+#, fuzzy
 msgid "TOOLTIPS_JA_TR_PARTICIPATING_EVENT_AND_GET_PLANE"
 msgstr ""
 "You can receive the aircraft by participating in the event \"Japanese Threat"
 "\"."
 
+#, fuzzy
 msgid "TOOLTIPS_JA_TR_PLANE_OBTAINED"
 msgstr "Aircraft received"
 
+#, fuzzy
 msgid "TOOLTIPS_JA_TR_PPL_IN_OTHER_FACTION"
 msgstr "Enemy forces' size"
 
+#, fuzzy
 msgid "TOOLTIPS_JA_TR_PPL_IN_OUR_FACTION"
 msgstr "Your forces' size"
 
+#, fuzzy
 msgid "TOOLTIPS_JA_TR_PREFER_QUEST"
 msgstr "Go to Special Mission"
 
+#, fuzzy
 msgid "TOOLTIPS_JA_TR_QUEST"
 msgstr "Mission"
 
+#, fuzzy
 msgid "TOOLTIPS_JA_TR_SEARCH_QUEST"
 msgstr "Find Special Mission"
 
+#, fuzzy
 msgid "TOOLTIPS_JA_TR_SELECT_FACTION_UNAVAILABLE_NO_SUITABLE_AIRCRAFT"
 msgstr ""
 "You cannot select this side:<br>there are no suitable aircraft in your "
 "Hangar."
 
+#, fuzzy
 msgid "TOOLTIPS_JA_TR_SMALLEST_FACTION_INCREASED_TO_VICTORY"
 msgstr ""
 "A small force is reinforced additionally:<br>victory in a battle will bring "
 "more points towards the victory in a confrontation."
 
+#, fuzzy
 msgid "TOOLTIPS_JA_TR_YOU_WILL_NOT_EARN_POINTS_1"
 msgstr ""
 "The aircraft you selected cannot participate in the event.<br><font "
 "size='6'><br></font>You cannot earn loot points while flying this aircraft."
 
+#, fuzzy
 msgid "TOOLTIPS_JA_TR_YOU_WILL_NOT_EARN_POINTS_2"
 msgstr ""
 "The aircraft you selected can fight only on the side of the enemy force."
 "<br><font size='6'><br></font>You cannot earn loot points while flying this "
 "aircraft."
 
+#, fuzzy
 msgid "TOOLTIPS_LONGRANGE_BIGGUN"
 msgstr "Accurate long-range large-caliber armament"
 
+#, fuzzy
 msgid "TOOLTIPS_LOWHEIGHT_GA"
 msgstr "Effective in destroying ground targets in low-level flight"
 
+#, fuzzy
 msgid "TOOLTIPS_LOWHEIGHT_MANUVER"
 msgstr "Effective in low-altitude maneuvering combat"
 
+#, fuzzy
 msgid "TOOLTIPS_LOWHEIGHT_MR"
 msgstr ""
 "Effective in low-altitude combat and in destroying small amounts of ground "
 "targets"
 
+#, fuzzy
 msgid "TOOLTIPS_LOWHEIGHT_VERYGOOD_MANUVER"
 msgstr "Very effective in low-altitude maneuvering combat"
 
+#, fuzzy
 msgid "TOOLTIPS_LOWMED_MENEUVER"
 msgstr "Low effectiveness in maneuvering combat"
 
+#, fuzzy
 msgid "TOOLTIPS_LOW_DEFENCE_ENGINE"
 msgstr "Low survivability, vulnerable engine"
 
+#, fuzzy
 msgid "TOOLTIPS_LOW_DEFENCE_ENGINE_FLAMABLE"
 msgstr "Low survivability, vulnerable engine, often catches fire"
 
+#, fuzzy
 msgid "TOOLTIPS_LOW_DEFENCE_FLAMABLE"
 msgstr "Low survivability, often catches fire"
 
+#, fuzzy
 msgid "TOOLTIPS_LOW_MENUVER"
 msgstr "Ineffective in maneuvering combat"
 
+#, fuzzy
 msgid "TOOLTIPS_LOW_SPEED_AND_WEP"
 msgstr "Low airspeed, weak boost"
 
+#, fuzzy
 msgid "TOOLTIPS_LOW_SPEED_BUT_LONGWEP"
 msgstr "Low airspeed, but good and long-lasting boost"
 
+#, fuzzy
 msgid "TOOLTIPS_LOW_SPEED_BUT_WEP"
 msgstr "Low airspeed, but good boost"
 
+#, fuzzy
 msgid "TOOLTIPS_MANY_BOMBS"
 msgstr "High load of bombs"
 
+#, fuzzy
 msgid "TOOLTIPS_MEDHEIGHT"
 msgstr "Effective in mid-altitude combat"
 
+#, fuzzy
 msgid "TOOLTIPS_MEDHEIGHT_MANUVER"
 msgstr "Effective in mid-altitude maneuvering combat"
 
+#, fuzzy
 msgid "TOOLTIPS_MEDHEIGHT_MR"
 msgstr ""
 "Effective in mid-altitude combat and in destroying small amounts of ground "
 "targets"
 
+#, fuzzy
 msgid "TOOLTIPS_MED_DEFENCE_BUTBIG"
 msgstr "Good survivability, but large dimensions"
 
+#, fuzzy
 msgid "TOOLTIPS_MED_DEFENCE_BUTBIG_ENGINE"
 msgstr "Good survivability, but large dimensions and vulnerable engines"
 
+#, fuzzy
 msgid "TOOLTIPS_MED_DEFENCE_ENGINE"
 msgstr "Good survivability, but vulnerable engines"
 
+#, fuzzy
 msgid "TOOLTIPS_MED_DEFENCE_GA"
 msgstr "Good survivability, resistant to critical damage and fire"
 
+#, fuzzy
 msgid "TOOLTIPS_MED_MANUVER"
 msgstr "Good maneuverability in horizontal turns"
 
+#, fuzzy
 msgid "TOOLTIPS_MED_MANUVER_AND_ROLL"
 msgstr "Good maneuverability in rolls and turns"
 
+#, fuzzy
 msgid "TOOLTIPS_MED_SPEED"
 msgstr "Good airspeed and boost"
 
+#, fuzzy
 msgid "TOOLTIPS_MED_SPEED_AND_LONGWEP"
 msgstr "Good airspeed, long-lasting boost"
 
+#, fuzzy
 msgid "TOOLTIPS_MIDRANGE_CANONS"
 msgstr "Autocannon armament effective at medium range"
 
+#, fuzzy
 msgid "TOOLTIPS_MIDRANGE_MIXEDGUNS"
 msgstr "Machine gun and autocannon armament effective at medium range"
 
+#, fuzzy
 msgid "TOOLTIPS_MODS_FOR_NEXT_BATTLE"
 msgstr "Modifiers for the next battle:"
 
+#, fuzzy
 msgid "TOOLTIPS_MODULE_INFO_NOT_READY_ON_RESPAWN"
 msgstr "Not ready for use upon respawning"
 
+#, fuzzy
 msgid "TOOLTIPS_MODULE_INFO_READY_ON_RESPAWN"
 msgstr "Ready for use upon respawning"
 
+#, fuzzy
 msgid "TOOLTIPS_MODULE_INFO_USED_AT_BATTLE_END"
 msgstr "Used automatically after the battle is finished"
 
+#, fuzzy
 msgid "TOOLTIPS_MODULE_INFO_USED_CONTINOUSLY"
 msgstr "Effective for the course of the battle"
 
+#, fuzzy
 msgid "TOOLTIPS_MULTIPLE_POWERFUL_TURRETS"
 msgstr "Equipped with several powerful defensive turrets"
 
+#, fuzzy
 msgid "TOOLTIPS_MULTIPLE_TURRETS"
 msgstr "Equipped with several defensive turrets"
 
+#, fuzzy
 msgid "TOOLTIPS_NOT_ARMORED_OBJECT"
 msgstr "Unarmored ground target"
 
+#, fuzzy
 msgid "TOOLTIPS_NO_CAMP_PARTICIPATING_EVENT_AND_GET_PLANE"
 msgstr ""
 "You can receive the aircraft by participating in the Battle for Thor's "
 "Hammer event."
 
+#, fuzzy
 msgid "TOOLTIPS_NO_GUNS"
 msgstr "No forward-firing offensive armament"
 
+#, fuzzy
 msgid "TOOLTIPS_NO_WEAPONS"
 msgstr "No forward-firing offensive armament"
 
+#, fuzzy
 msgid "TOOLTIPS_OIL_TANKS_DESCRIPTION"
 msgstr "Containers with oil for engines"
 
 msgid "TOOLTIPS_OPEN_VIDEOLIST"
 msgstr "檢視影片列表"
 
+#, fuzzy
 msgid "TOOLTIPS_OPEN_VIDEOMATERIALS"
 msgstr "View <font color='#{color}'>Videos</font> section"
 
+#, fuzzy
 msgid "TOOLTIPS_OXYGEN_EQUIPMENT_DESCRIPTION"
 msgstr "Provides crew with oxygen during high-altitude flights"
 
+#, fuzzy
 msgid "TOOLTIPS_PART_COST"
 msgstr "Price for missing parts:"
 
+#, fuzzy
 msgid "TOOLTIPS_PASSIVE_SKILL"
 msgstr "Passive skill"
 
+#, fuzzy
 msgid "TOOLTIPS_PFT_DIRECTIVE_STATUS_ACTIVATED"
 msgstr ""
 "The operation order was activated. Complete the chain of secret missions "
 "within the allocated time to receive an aircraft."
 
+#, fuzzy
 msgid "TOOLTIPS_PFT_DIRECTIVE_STATUS_COMPLETED"
 msgstr ""
 "The operation order was executed. You can receive the aircraft for free!"
 
+#, fuzzy
 msgid "TOOLTIPS_PFT_DIRECTIVE_STATUS_UNACTIVATED_UNCOMPLITED"
 msgstr ""
 "The operation order was received and will be available in the Inventory for "
 "an unlimited period of time. Activate the operation order and complete the "
 "chain of missions to receive an aircraft."
 
+#, fuzzy
 msgid "TOOLTIPS_PFT_TIME_LEFT_TO_REFRESH_DIRECTIVE"
 msgstr "Time left before operation orders in the Shop are updated"
 
+#, fuzzy
 msgid "TOOLTIPS_PFT_WILL_BE_AVAILABLE_YET"
 msgstr "Time left to purchase tokens:"
 
+#, fuzzy
 msgid "TOOLTIPS_PILOT_CABIN_DESCRIPTION"
 msgstr ""
 "Compartment for a pilot. Includes cockpit windows, a pilot seat, and an "
 "armor plate."
 
+#, fuzzy
 msgid "TOOLTIPS_PILOT_EQUIPMENT_DESCRIPTION"
 msgstr "Instrumentation for direct aircraft control"
 
+#, fuzzy
 msgid "TOOLTIPS_PLANE_CAROUSEL_FILTER_ALBION"
 msgstr ""
 "This aircraft can participate in the <font color='#{color}'>Skies of Albion</"
 "font> event."
 
+#, fuzzy
 msgid "TOOLTIPS_PLANE_CAROUSEL_FILTER_JA_TR"
 msgstr "Aircraft can participate in the event \"Japanese Threat\"."
 
+#, fuzzy
 msgid "TOOLTIPS_PLANE_CAROUSEL_FILTER_NO_CAMP"
 msgstr "The aircraft can participate in the Battle for Thor's Hammer event."
 
+#, fuzzy
 msgid "TOOLTIPS_PLANE_COST_WITH_DISCOUNT"
 msgstr "Aircraft price with discount:"
 
+#, fuzzy
 msgid "TOOLTIPS_POWEFUL_GA_CANONS"
 msgstr "Powerful autocannon armament effective against ground targets"
 
+#, fuzzy
 msgid "TOOLTIPS_POWERFUL_BIGGUN"
 msgstr ""
 "Powerful large-caliber armament effective against aircraft with high "
 "survivability"
 
+#, fuzzy
 msgid "TOOLTIPS_POWERFUL_CANONS"
 msgstr ""
 "Powerful autocannon armament effective against aircraft with high "
 "survivability"
 
+#, fuzzy
 msgid "TOOLTIPS_POWERFUL_GA_LONGRANGE_BIGGUN"
 msgstr "Powerful long-range armament effective against armored ground targets"
 
+#, fuzzy
 msgid "TOOLTIPS_POWERFUL_GA_MASHINEGUNS"
 msgstr ""
 "Powerful machine gun complement very effective against unarmored ground "
 "targets"
 
+#, fuzzy
 msgid "TOOLTIPS_POWERFUL_MASHINEGUNS"
 msgstr ""
 "Powerful machine gun complement effective against aircraft with high "
 "survivability"
 
+#, fuzzy
 msgid "TOOLTIPS_POWERFUL_MIXEDGUNS"
 msgstr ""
 "Powerful machine gun and autocannon armament effective against aircraft with "
 "high survivability"
 
+#, fuzzy
 msgid "TOOLTIPS_POWERFUL_ROCKET_WEAPON"
 msgstr "Powerful rocket armament"
 
+#, fuzzy
 msgid "TOOLTIPS_POWERFUL_TURRET"
 msgstr "Equipped with a powerful defensive turret"
 
+#, fuzzy
 msgid "TOOLTIPS_POWERFUL_TURRET_ANGLES"
 msgstr "Equipped with a powerful defensive turret with a wide field of fire"
 
@@ -4321,189 +4499,240 @@ msgid "TOOLTIPS_PREMIUM_SHOP"
 msgstr "加值商店"
 
 msgid "TOOLTIPS_PREMIUM_SHOP_DESCRIPTION"
-msgstr "Open the default browser to go to Premium Shop."
+msgstr "打開您的預設瀏覽器來前往加值商店。"
 
+#, fuzzy
 msgid "TOOLTIPS_PRIZE_BONUSES_EXP_AND_CREDITS"
 msgstr "Bonus to experience and credits"
 
+#, fuzzy
 msgid "TOOLTIPS_PRIZE_BUNKS_IN_THE_BARRACKS"
 msgstr "Bunks in Barracks"
 
+#, fuzzy
 msgid "TOOLTIPS_QUESTS_2016_JAPANESE_THREAT_001_BASIC"
 msgstr ""
 "Win 5 battles while fighting for the Allies or Axis during the event "
 "\"Japanese Threat\"."
 
+#, fuzzy
 msgid "TOOLTIPS_QUESTS_2016_JAPANESE_THREAT_001_NAME"
 msgstr "Sortie"
 
+#, fuzzy
 msgid "TOOLTIPS_QUESTS_2016_JAPANESE_THREAT_01_BASIC"
 msgstr "Destroy 2 enemy aircraft in battles."
 
+#, fuzzy
 msgid "TOOLTIPS_QUESTS_2016_JAPANESE_THREAT_01_EXTRA"
 msgstr ""
 "Earn 50 superiority points for destroying enemy ground targets in battles."
 
+#, fuzzy
 msgid "TOOLTIPS_QUESTS_2016_JAPANESE_THREAT_01_HARD"
 msgstr ""
 "Destroy 2 enemy aircraft of the same type as your aircraft in one battle and "
 "win the battle."
 
+#, fuzzy
 msgid "TOOLTIPS_QUESTS_2016_JAPANESE_THREAT_01_NAME"
 msgstr "Gaining Altitude"
 
+#, fuzzy
 msgid "TOOLTIPS_QUESTS_2016_JAPANESE_THREAT_02_BASIC"
 msgstr "Earn 70 superiority points for destroying enemy aircraft in battles."
 
+#, fuzzy
 msgid "TOOLTIPS_QUESTS_2016_JAPANESE_THREAT_02_EXTRA"
 msgstr "Destroy 20 enemy AA guns in battles."
 
+#, fuzzy
 msgid "TOOLTIPS_QUESTS_2016_JAPANESE_THREAT_02_HARD"
 msgstr ""
 "Earn 30 superiority points for destroying enemy aircraft and 15 superiority "
 "points for destroying enemy ground targets in one battle and win the battle."
 
+#, fuzzy
 msgid "TOOLTIPS_QUESTS_2016_JAPANESE_THREAT_02_NAME"
 msgstr "At Full Throttle"
 
+#, fuzzy
 msgid "TOOLTIPS_QUESTS_2016_JAPANESE_THREAT_03_BASIC"
 msgstr "Earn 50 superiority points in one battle."
 
+#, fuzzy
 msgid "TOOLTIPS_QUESTS_2016_JAPANESE_THREAT_03_EXTRA"
 msgstr ""
 "Survive and win 3 battles and destroy 2 enemy aircraft in each of the "
 "battles."
 
+#, fuzzy
 msgid "TOOLTIPS_QUESTS_2016_JAPANESE_THREAT_03_HARD"
 msgstr "Earn one of the Honorary Ranks (Rocketeer, Quick Shot, or Rear Cover)."
 
+#, fuzzy
 msgid "TOOLTIPS_QUESTS_2016_JAPANESE_THREAT_03_NAME"
 msgstr "Limitless Skies"
 
+#, fuzzy
 msgid "TOOLTIPS_QUESTS_2016_JAPANESE_THREAT_04_BASIC"
 msgstr ""
 "Earn 30 superiority points for damage caused by bombs or rockets in one "
 "battle."
 
+#, fuzzy
 msgid "TOOLTIPS_QUESTS_2016_JAPANESE_THREAT_04_EXTRA"
 msgstr ""
 "Become the top player on your team by damage caused to enemy aircraft in "
 "each of 3 battles."
 
+#, fuzzy
 msgid "TOOLTIPS_QUESTS_2016_JAPANESE_THREAT_04_HARD"
 msgstr "Win 5 battles and earn 800 combat XP in each of the battles."
 
+#, fuzzy
 msgid "TOOLTIPS_QUESTS_2016_JAPANESE_THREAT_04_NAME"
 msgstr "Attack Run"
 
+#, fuzzy
 msgid "TOOLTIPS_QUESTS_2016_JAPANESE_THREAT_05_BASIC"
 msgstr "Destroy 20 enemy aircraft in battles. A battle counts only if you win."
 
+#, fuzzy
 msgid "TOOLTIPS_QUESTS_2016_JAPANESE_THREAT_05_EXTRA"
 msgstr ""
 "Earn 300 superiority points for destroying enemy ground targets in battles. "
 "A battle counts only if you earn at least 60 superiority points and win."
 
+#, fuzzy
 msgid "TOOLTIPS_QUESTS_2016_JAPANESE_THREAT_05_HARD"
 msgstr ""
 "Win 3 battles and earn 150 superiority points in each of the battles while "
 "playing solo or in a Flight. You can find a Flight mate for this mission "
 "using the Auto-Search for Flight Member option."
 
+#, fuzzy
 msgid "TOOLTIPS_QUESTS_2016_JAPANESE_THREAT_05_NAME"
 msgstr "Turbulence"
 
+#, fuzzy
 msgid "TOOLTIPS_QUESTS_2016_JAPANESE_THREAT_06_BASIC"
 msgstr ""
 "Survive 5 battles and become the top player on both teams by the number of "
 "destroyed enemy aircraft or ground targets in each of the battles."
 
+#, fuzzy
 msgid "TOOLTIPS_QUESTS_2016_JAPANESE_THREAT_06_EXTRA"
 msgstr ""
 "Earn two of the Service Awards (Ace, Destroyer, or Thunder) in one battle."
 
+#, fuzzy
 msgid "TOOLTIPS_QUESTS_2016_JAPANESE_THREAT_06_HARD"
 msgstr ""
 "Earn 3 Ace medals. Your accuracy of firing at enemy aircraft must be at "
 "least 25%."
 
+#, fuzzy
 msgid "TOOLTIPS_QUESTS_2016_JAPANESE_THREAT_06_NAME"
 msgstr "Risky Challenge"
 
+#, fuzzy
 msgid "TOOLTIPS_QUESTS_2016_JAPANESE_THREAT_07_BASIC"
 msgstr ""
 "Survive 3 battles, earn 1 Thunder medal and destroy 1 enemy aircraft in each "
 "of the battles."
 
+#, fuzzy
 msgid "TOOLTIPS_QUESTS_2016_JAPANESE_THREAT_07_EXTRA"
 msgstr ""
 "Survive 5 battles and earn the Ace or Destroyer medals in each of the "
 "battles."
 
+#, fuzzy
 msgid "TOOLTIPS_QUESTS_2016_JAPANESE_THREAT_07_HARD"
 msgstr ""
 "Destroy 2 enemy aircraft with the use of bombs or rockets in one battle and "
 "win the battle."
 
+#, fuzzy
 msgid "TOOLTIPS_QUESTS_2016_JAPANESE_THREAT_07_NAME"
 msgstr "In the Nick of Time"
 
+#, fuzzy
 msgid "TOOLTIPS_RADIOSTATION_DESCRIPTION"
 msgstr "Provides short-range and long-range radio communication"
 
+#, fuzzy
 msgid "TOOLTIPS_READ_PERSONAL_PILOT_INFO_AND_RECRUIT"
 msgstr "View female pilot's personal file and recruit her"
 
+#, fuzzy
 msgid "TOOLTIPS_RECRUIT_CREW"
 msgstr "Recruit crew member"
 
+#, fuzzy
 msgid "TOOLTIPS_RECRUIT_UNIQUE_PILOT_FOR_PLANE"
 msgstr "Recruit a unique pilot for this aircraft"
 
+#, fuzzy
 msgid "TOOLTIPS_SHOP_MESSAGE_NOT_ENOUGH_TOKENS"
 msgstr "Not enough tokens. To earn tokens, complete missions."
 
+#, fuzzy
 msgid "TOOLTIPS_SHOW_CURRENT_DIRECTIVES"
 msgstr "Show currently active missions from operation orders"
 
+#, fuzzy
 msgid "TOOLTIPS_SHOW_LIST_NOTIFICATION"
 msgstr "Click to view notification list"
 
+#, fuzzy
 msgid "TOOLTIPS_SHOW_NEAR_EVENTS"
 msgstr "Display specials that will soon be available"
 
+#, fuzzy
 msgid "TOOLTIPS_TAIL_PART_DESCRIPTION"
 msgstr "Rear body and stabilizers"
 
+#, fuzzy
 msgid "TOOLTIPS_TFC_PLANE_READ_PERSONAL_PILOT_INFO_AND_RECRUIT"
 msgstr ""
 "View aircraft specifications and female pilot's personal file and recruit her"
 
+#, fuzzy
 msgid "TOOLTIPS_THREE_POWERFUL_TURRETS"
 msgstr "Equipped with three powerful defensive turrets"
 
+#, fuzzy
 msgid "TOOLTIPS_TOKENS_ABLE_BUY_DD_HH_MM"
 msgstr "Time left to purchase tokens: {dd_hh_mm}"
 
+#, fuzzy
 msgid "TOOLTIPS_TURRET"
 msgstr "Equipped with a defensive turret"
 
+#, fuzzy
 msgid "TOOLTIPS_TURRET_ANGLES"
 msgstr "Equipped with a defensive turret with a wide field of fire"
 
+#, fuzzy
 msgid "TOOLTIPS_TURRET_MODE"
 msgstr "Turret control mode (T)"
 
+#, fuzzy
 msgid "TOOLTIPS_TUTORIAL_QUEST_10_HELP_DESCRIPTION"
 msgstr "Combat points are earned for being actively involved in the action."
 
+#, fuzzy
 msgid "TOOLTIPS_TUTORIAL_QUEST_1_1_HELP_DESCRIPTION"
 msgstr "Aircraft defending neutral sectors are indicated by gray markers."
 
+#, fuzzy
 msgid "TOOLTIPS_TUTORIAL_QUEST_1_2_HELP_DESCRIPTION"
 msgstr ""
 "Ground targets located in neutral sectors are indicated by gray markers."
 
+#, fuzzy
 msgid "TOOLTIPS_TUTORIAL_QUEST_1_HELP_DESCRIPTION"
 msgstr ""
 "Air defense aircraft are indicated by special markers {marker_defender}."
@@ -4512,6 +4741,7 @@ msgstr ""
 "markers.<br>Recommended aircraft type for completing the mission: fighters "
 "or heavy fighters."
 
+#, fuzzy
 msgid "TOOLTIPS_TUTORIAL_QUEST_2_1_HELP_DESCRIPTION"
 msgstr ""
 "Ground targets are groups of installations indicated by special markers "
@@ -4519,6 +4749,7 @@ msgstr ""
 "by gray markers.<br>Recommended aircraft type for completing the mission: "
 "attack aircraft."
 
+#, fuzzy
 msgid "TOOLTIPS_TUTORIAL_QUEST_2_HELP_DESCRIPTION"
 msgstr ""
 "Ground targets are groups of installations indicated by special markers "
@@ -4526,21 +4757,25 @@ msgstr ""
 "by gray markers.<br>Recommended aircraft type for completing the mission: "
 "multirole fighters or attack aircraft."
 
+#, fuzzy
 msgid "TOOLTIPS_TUTORIAL_QUEST_3_HELP_DESCRIPTION"
 msgstr ""
 "Destroy enemy aircraft in your sector.<br>Enemy force is indicated by red "
 "markers."
 
+#, fuzzy
 msgid "TOOLTIPS_TUTORIAL_QUEST_4_HELP_DESCRIPTION"
 msgstr ""
 "Sectors under enemy control are marked red on the minimap. Achieve "
 "superiority in an enemy sector to take over control of it."
 
+#, fuzzy
 msgid "TOOLTIPS_TUTORIAL_QUEST_5_HELP_DESCRIPTION"
 msgstr ""
 "AA guns {markers_aad} are ground objects that fire at enemy aircraft."
 "<br>Recommended aircraft type for completing the mission: attack aircraft."
 
+#, fuzzy
 msgid "TOOLTIPS_TUTORIAL_QUEST_6_HELP_DESCRIPTION"
 msgstr ""
 "Controlling airfields {markers_airfield_1}{markers_airfield_3} allows you to "
@@ -4549,17 +4784,20 @@ msgstr ""
 "available aircraft of the same tier.<br>Recommended aircraft type for "
 "completing the mission: fighters."
 
+#, fuzzy
 msgid "TOOLTIPS_TUTORIAL_QUEST_7_HELP_DESCRIPTION"
 msgstr ""
 "Controlling plants {markers_factory_3} earns you more influence points."
 "<br>Recommended aircraft type for completing the mission: attack aircraft."
 
+#, fuzzy
 msgid "TOOLTIPS_TUTORIAL_QUEST_8_HELP_DESCRIPTION"
 msgstr ""
 "A military base {markers_militarybase} under your control launches rocket "
 "strikes on enemy ground targets.<br>Recommended aircraft type for completing "
 "the mission: multirole fighters."
 
+#, fuzzy
 msgid "TOOLTIPS_TUTORIAL_QUEST_9_HELP_DESCRIPTION"
 msgstr ""
 "A command center {markers_commcenter} under your control calls in Attack "
@@ -4567,201 +4805,263 @@ msgstr ""
 "be intercepted and destroyed.<br>Recommended aircraft type for completing "
 "the mission: heavy fighters."
 
+#, fuzzy
 msgid "TOOLTIPS_UNDERCARRIAGE_DESCRIPTION"
 msgstr "Gear struts with steerable gear linkage"
 
+#, fuzzy
 msgid "TOOLTIPS_UNIQUE_SKILL_DOESNT_WORK"
 msgstr "A unique universal skill is inactive."
 
+#, fuzzy
 msgid "TOOLTIPS_VERYHIGH_DEFENCE_GA"
 msgstr "Very high survivability, resistant to critical damage and fire"
 
+#, fuzzy
 msgid "TOOLTIPS_VERYHIGH_MANUVER"
 msgstr "Very high maneuverability in horizontal turns"
 
+#, fuzzy
 msgid "TOOLTIPS_VERYHIGH_SPEED_AND_LONGWEP"
 msgstr "Very high airspeed, powerful and long-lasting boost"
 
+#, fuzzy
 msgid "TOOLTIPS_VERYHIGH_SPEED_AND_POWERFULWEP"
 msgstr "Very high airspeed, accelerates very quickly when boosting"
 
+#, fuzzy
 msgid "TOOLTIPS_VERYLOW_MENUVER"
 msgstr "Not designed for maneuvering combat"
 
+#, fuzzy
 msgid "TOOLTIPS_VERYLOW_SPEED"
 msgstr "Very low airspeed"
 
+#, fuzzy
 msgid "TOOLTIPS_WARNING_MESSAGE_NO_BOMB_ROKETS"
 msgstr "No bombs and rockets"
 
+#, fuzzy
 msgid "TOOLTIPS_WATCH_VIDEO_NAME"
 msgstr "Watch video: {videoName}"
 
+#, fuzzy
 msgid "TOOLTIPS_WEAK_GUNS"
 msgstr "Weak forward-firing weapon"
 
+#, fuzzy
 msgid "TOOLTIPS_WEAPONS_DESCRIPTION"
 msgstr "Aircraft guns including autocannon and machine guns"
 
+#, fuzzy
 msgid "TOOLTIPS_WINGS_DESCRIPTION"
 msgstr "Main source of lift of an aircraft"
 
+#, fuzzy
 msgid "TOOLTIP_ALIGNMENT_SPEED_CONTROLS_DESCRIPTION"
 msgstr ""
 "The maximum value ensures the aircraft's stability in the pitching plane. "
 "With the minimum value, mouse movements have no effect on the aircraft's "
 "level-off."
 
+#, fuzzy
 msgid "TOOLTIP_BATTLE_POINTS_DESCRIPTION"
 msgstr ""
 "The number of combat points earned in battle depends on the amount of damage "
 "caused to enemy targets. The points are converted to credits: the more "
 "combat points earned in battle, the more credits received."
 
+#, fuzzy
 msgid "TOOLTIP_BATTLE_RESULTS_ACHIEVEMENTS"
 msgstr "Earned Achievements"
 
+#, fuzzy
 msgid "TOOLTIP_BATTLE_RESULTS_ALL_WITH_BONUSES"
 msgstr "Total with bonuses:"
 
+#, fuzzy
 msgid "TOOLTIP_BATTLE_RESULTS_BATTLE_POINTS"
 msgstr "Combat points:"
 
+#, fuzzy
 msgid "TOOLTIP_BATTLE_RESULTS_BEFORE_YOU_PLANE_DESTROYED"
 msgstr "Best Series"
 
+#, fuzzy
 msgid "TOOLTIP_BATTLE_RESULTS_BEFORE_YOU_PLANE_DESTROYED_EVENT_1"
 msgstr "Enemy aircraft destroyed"
 
+#, fuzzy
 msgid "TOOLTIP_BATTLE_RESULTS_BEFORE_YOU_PLANE_DESTROYED_EVENT_2"
 msgstr "Air defense aircraft destroyed"
 
+#, fuzzy
 msgid "TOOLTIP_BATTLE_RESULTS_BEFORE_YOU_PLANE_DESTROYED_EVENT_3"
 msgstr "Aircraft destroyed with the player's assistance"
 
+#, fuzzy
 msgid "TOOLTIP_BATTLE_RESULTS_BEFORE_YOU_PLANE_DESTROYED_EVENT_4"
 msgstr "Ground targets destroyed"
 
+#, fuzzy
 msgid "TOOLTIP_BATTLE_RESULTS_BEFORE_YOU_PLANE_DESTROYED_EVENT_5"
 msgstr "Combat points earned"
 
+#, fuzzy
 msgid "TOOLTIP_BATTLE_RESULTS_BONUSES_BD_PLANE"
 msgstr "Aircraft anniversary"
 
+#, fuzzy
 msgid "TOOLTIP_BATTLE_RESULTS_BONUSES_EQUIPMENT"
 msgstr "Equipment"
 
+#, fuzzy
 msgid "TOOLTIP_BATTLE_RESULTS_BONUSES_FOR_PREM_ACC"
 msgstr "Premium Account bonus"
 
+#, fuzzy
 msgid "TOOLTIP_BATTLE_RESULTS_BONUSES_QUESTS"
 msgstr "Missions"
 
+#, fuzzy
 msgid "TOOLTIP_BATTLE_RESULTS_BONUSES_WITH_CONSUMABLES"
 msgstr "Consumables"
 
+#, fuzzy
 msgid "TOOLTIP_BATTLE_RESULTS_BONUSES_WITH_PREM_ACC"
 msgstr "Premium Account"
 
+#, fuzzy
 msgid "TOOLTIP_BATTLE_RESULTS_BONUSES_WITH_QUEST"
 msgstr "Mission \"{quest-name}\""
 
+#, fuzzy
 msgid "TOOLTIP_BATTLE_RESULTS_CREDITS_WITHOUT_BONUSES"
 msgstr "Total credits without bonuses"
 
+#, fuzzy
 msgid "TOOLTIP_BATTLE_RESULTS_EXP_BONUSES"
 msgstr "Bonus to XP:"
 
+#, fuzzy
 msgid "TOOLTIP_BATTLE_RESULTS_EXP_WITHOUT_BONUSES"
 msgstr "Total XP without bonuses"
 
+#, fuzzy
 msgid "TOOLTIP_BATTLE_RESULTS_FREE_EXP_WITHOUT_BONUSES"
 msgstr "Total Free XP received in battle (5% of received experience)"
 
+#, fuzzy
 msgid "TOOLTIP_BATTLE_RESULTS_MASTERY_POINTS"
 msgstr "Mastery points:"
 
+#, fuzzy
 msgid "TOOLTIP_BATTLE_RESULTS_OTHER_BONUSES"
 msgstr "Other bonuses"
 
+#, fuzzy
 msgid "TOOLTIP_BATTLE_RESULTS_PREM_PLANE_TIER_VIII"
 msgstr "Tier VIII Premium aircraft"
 
+#, fuzzy
 msgid "TOOLTIP_BATTLE_RESULTS_SORT_BY_BATTLE_POINTS"
 msgstr "Sort by number of combat points"
 
+#, fuzzy
 msgid "TOOLTIP_BATTLE_RESULTS_SORT_BY_CLASS_RANK"
 msgstr "Sort by aircraft with the highest aircraft type grade"
 
+#, fuzzy
 msgid "TOOLTIP_BATTLE_RESULTS_SPECIAL_REWARD"
 msgstr "Special Achievements"
 
+#, fuzzy
 msgid "TOOLTIP_BATTLE_RESULTS_SPECIAL_REWARD_EVENT_1"
 msgstr "Ram attack against aircraft"
 
+#, fuzzy
 msgid "TOOLTIP_BATTLE_RESULTS_TEAM_SCORE_BATTLE_POINTS"
 msgstr "Number of combat points"
 
+#, fuzzy
 msgid "TOOLTIP_BATTLE_RESULTS_TEAM_SCORE_DEATHS"
 msgstr "Number of times player's aircraft was destroyed"
 
+#, fuzzy
 msgid "TOOLTIP_BATTLE_RESULTS_TEAM_SCORE_DP-DA"
 msgstr ""
 "Number of destroyed air defense aircraft / Number of air defense aircraft "
 "destroyed with the player's assistance"
 
+#, fuzzy
 msgid "TOOLTIP_BATTLE_RESULTS_TEAM_SCORE_DP-DA_PLAYER_DAMAGE"
 msgstr "Total damage caused to air defense aircraft: {value}"
 
+#, fuzzy
 msgid "TOOLTIP_BATTLE_RESULTS_TEAM_SCORE_GK-GA"
 msgstr ""
 "Number of destroyed ground targets / Number of ground targets destroyed with "
 "the player's assistance"
 
+#, fuzzy
 msgid "TOOLTIP_BATTLE_RESULTS_TEAM_SCORE_GK-GA_PLAYER_DAMAGE"
 msgstr "Total damage caused to ground targets: {value}"
 
+#, fuzzy
 msgid "TOOLTIP_BATTLE_RESULTS_TEAM_SCORE_MASTERY_POINTS"
 msgstr "Number of mastery points"
 
+#, fuzzy
 msgid "TOOLTIP_BATTLE_RESULTS_TEAM_SCORE_MEDAL_COUNT"
 msgstr "Achievements earned"
 
+#, fuzzy
 msgid "TOOLTIP_BATTLE_RESULTS_TEAM_SCORE_PK-PA"
 msgstr ""
 "Number of destroyed enemy aircraft / Number of enemy aircraft destroyed with "
 "the player's assistance"
 
+#, fuzzy
 msgid "TOOLTIP_BATTLE_RESULTS_TEAM_SCORE_PK-PA_PLAYER_DAMAGE"
 msgstr "Total damage caused to enemy aircraft: {value}"
 
+#, fuzzy
 msgid "TOOLTIP_BATTLE_RESULTS_TEAM_SCORE_SECTOR_CAP_PARTICIPATION"
 msgstr "Number of participations in capturing sector"
 
+#, fuzzy
 msgid "TOOLTIP_CANCEL_INSTALL"
 msgstr "Cancel loading"
 
+#, fuzzy
 msgid "TOOLTIP_CANCEL_SELECT_TO_INST_STANDARD"
 msgstr "Replace with a standard belt"
 
+#, fuzzy
 msgid "TOOLTIP_CAROUSEL_FILTER_BY_TYPE_BOMBER"
 msgstr "Aircraft type (bombers)"
 
+#, fuzzy
 msgid "TOOLTIP_CLASS_NAME_RANK_1"
 msgstr "Grade I {class_name}"
 
+#, fuzzy
 msgid "TOOLTIP_CLASS_NAME_RANK_2"
 msgstr "Grade II {class_name}"
 
+#, fuzzy
 msgid "TOOLTIP_CLASS_NAME_RANK_3"
 msgstr "Grade III {class_name}"
 
+#, fuzzy
 msgid "TOOLTIP_CLASS_NAME_RANK_4"
 msgstr "Grade IV {class_name}"
 
+#, fuzzy
 msgid "TOOLTIP_CLASS_NAME_RANK_5"
 msgstr "Grade V {class_name}"
 
+#, fuzzy
 msgid "TOOLTIP_CLASS_RANK_DESCRIPTION"
 msgstr ""
 "An aircraft type grade indicates the efficiency of a player's performance in "
@@ -4770,54 +5070,66 @@ msgstr ""
 "assigned to all aircraft of the same type. Aircraft of different types have "
 "different missions and different grades."
 
+#, fuzzy
 msgid "TOOLTIP_CLASS_RANK_LEFT_TO_PROMOTION"
 msgstr "Required for grade promotion"
 
 msgid "TOOLTIP_CREDITS_HEADER"
 msgstr "銀幣"
 
+#, fuzzy
 msgid "TOOLTIP_DESCRIPTION_FOR_BARRACKS"
 msgstr "Barracks are used to accommodate crews when they are not in aircraft."
 
+#, fuzzy
 msgid "TOOLTIP_DESCRIPTION_FOR_SLOT_IN_HANGAR"
 msgstr ""
 "Slots in the Hangar are used to store aircraft. Each aircraft in the Hangar "
 "uses one slot."
 
+#, fuzzy
 msgid "TOOLTIP_FLAPS_CONTROLS_DESCRIPTION"
 msgstr ""
 "With the maximum value, the aircraft rolls quickly in the direction of the "
 "mouse movement. With the minimum value, mouse movements have no effect on "
 "the aircraft's roll."
 
+#, fuzzy
 msgid "TOOLTIP_HANGAR_BOMB_AND_ROCKETS"
 msgstr ""
 "Indicates the capacity to damage ground targets with bombs and rockets. "
 "Factors in damage and resupply time."
 
+#, fuzzy
 msgid "TOOLTIP_INCREASE_BATTLE_EXP_CREDITS"
 msgstr ""
 "The amount of experience and credits earned in subsequent battles will be "
 "increased."
 
+#, fuzzy
 msgid "TOOLTIP_LEFT_TRAINING_ROOM"
 msgstr "Exit training flight"
 
+#, fuzzy
 msgid "TOOLTIP_MARKET_AIRPLANE_ALTITUDE"
 msgstr "Sort by altitude performance"
 
+#, fuzzy
 msgid "TOOLTIP_MARKET_AIRPLANE_BOMB_AND_ROCKETS"
 msgstr "Sort by bombs and rockets"
 
+#, fuzzy
 msgid "TOOLTIP_MASTERY_POINTS_DESCRIPTION"
 msgstr ""
 "The number of mastery points earned in battle depends on the efficiency of "
 "completing aircraft type missions. The points are converted to XP: the more "
 "mastery points earned, the more XP received by aircraft and crew."
 
+#, fuzzy
 msgid "TOOLTIP_NOT_INSTALLED"
 msgstr "Mount"
 
+#, fuzzy
 msgid "TOOLTIP_PLACE_IN_TEAM_DESCRIPTION"
 msgstr ""
 "Indicates a player's efficiency compared to other players of the combat "
@@ -4825,6 +5137,7 @@ msgstr ""
 "Aircraft with the same grade are compared using the number of combat points "
 "earned."
 
+#, fuzzy
 msgid "TOOLTIP_PLACE_NUMBER_IN_TEAM_DESCRIPTION"
 msgstr ""
 "Reach rank {number} in the combat group by number of combat points earned."
@@ -4832,36 +5145,42 @@ msgstr ""
 msgid "TOOLTIP_PLAYER_MENU_HEADER"
 msgstr "帳號選單"
 
+#, fuzzy
 msgid "TOOLTIP_PRESS_TO_INST_CONSUMABLES"
 msgstr "Click to load consumable"
 
+#, fuzzy
 msgid "TOOLTIP_PRIZE_IN_TROPHY"
 msgstr "Prize from a loot crate"
 
+#, fuzzy
 msgid "TOOLTIP_RESEARCH_COST_WITH_PREVIOUS_MODULES"
 msgstr "Research price including preceding modules"
 
+#, fuzzy
 msgid "TOOLTIP_STANDARTBELT_WEP"
 msgstr ""
 "A standard-issue ammunition belt with a low chance of causing critical "
 "damage."
 
+#, fuzzy
 msgid "TOOLTIP_UNLOAD_SELECT_TO_INST_STANDARD"
 msgstr "Send to Depot and mount a standard belt"
 
 msgid "TOOLTIP_VIDEO_OFF"
-msgstr "Disable video intro"
+msgstr "關閉背景影片"
 
 msgid "TOOLTIP_VIDEO_ON"
-msgstr "Enable video intro"
+msgstr "開啓背景影片"
 
 msgid "TOOLTIP_VIDEO_SOUND_OFF"
-msgstr "Disable sound"
+msgstr "關閉聲音"
 
+#, fuzzy
 msgid "TOOLTIP_VIDEO_SOUND_OFF_DESCRIPTION"
 msgstr ""
 "Sound is disabled. Go to the tab \"Sound\" in the game settings and enable "
 "sound in the section \"Volume\"."
 
 msgid "TOOLTIP_VIDEO_SOUND_ON"
-msgstr "Enable sound"
+msgstr "開啓聲音"

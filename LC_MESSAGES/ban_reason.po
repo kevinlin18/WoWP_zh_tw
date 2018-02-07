@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: World Of Tanks\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-01-15 10:00+0300\n"
-"Last-Translator:  <>\n"
+"Last-Translator: kevinlin18 <https://github.com/kevinlin18/WoWP_zh_tw>\n"
 "Language-Team: WoT Team <noreply@wargaming.net>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
@@ -24,6 +24,7 @@ msgstr "已超過24小時的遊戲時間限制"
 msgid "EDITING"
 msgstr "帳戶被鎖定"
 
+#, fuzzy
 msgid "LOGIN_PRIORITY_CHEAT"
 msgstr "Подозрение в жульничестве при входе в игру"
 
@@ -36,6 +37,7 @@ msgstr "已超過24小時的遊戲時間限制"
 msgid "PARENT_CONTROL_WEEKLY"
 msgstr "由於家長控制系統，您現在不能進入遊戲"
 
+#, fuzzy
 msgid "PORTAL_DELETION_REQUEST"
 msgstr "Из портала выставлен запрос на удаление"
 

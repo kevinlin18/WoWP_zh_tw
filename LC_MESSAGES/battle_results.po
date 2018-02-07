@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: World Of Tanks\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2010-06-01 10:00+0300\n"
-"Last-Translator: i_maliavko <i_maliavko@wargaming.net>\n"
+"Last-Translator: kevinlin18 <https://github.com/kevinlin18/WoWP_zh_tw>\n"
 "Language-Team: WoT Team <noreply@wargaming.net>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
@@ -563,8 +563,8 @@ msgstr "敵方擊落飛碟!"
 
 msgid "AFTERBATTLE_STATISTICS_NO_STATS_FOR_PVE_MODE"
 msgstr ""
-"人機對戰數據將不計入戰鬥統計<br>完成相關任務可解鎖其它遊戲模式<br>並顯示更為"
-"詳細的戰鬥統計"
+"人機對戰數據將不計入戰鬥統計<br>完成相關任務可解鎖其它遊戲模式<br>"
+"並顯示更為詳細的戰鬥統計"
 
 msgid "AFTERBATTLE_STATISTICS_PREMIUM_BONUS_VALUE"
 msgstr "+50%"
@@ -621,7 +621,8 @@ msgid "BATTLERESULT_KILLED_BY_TURRET"
 msgstr "被防空砲擊毀"
 
 msgid "BATTLERESULT_KILLER_DATA"
-msgstr "<font color='#B9E1FF'>擊毀你的玩家:</font> {player} ({vehicle})"
+msgstr ""
+"<font color='#B9E1FF'>擊毀你的玩家:</font> {player} ({vehicle})"
 
 msgid "BATTLERESULT_KILLER_DATA_ENDGAME"
 msgstr "<font color='#B9E1FF'>擊毀:</font> {killerName}"
@@ -671,6 +672,7 @@ msgstr "戰鬥收益"
 msgid "BATTLE_RESULT_ALL_PLANES_EXP"
 msgstr "所有戰機經驗"
 
+#, fuzzy
 msgid "BATTLE_RESULT_ASSISTS"
 msgstr "Assist points"
 
@@ -680,15 +682,19 @@ msgstr "提供第一個技能點"
 msgid "BATTLE_RESULT_AVAILABLE_NEW_SKILL_POINT"
 msgstr "提供新的技能點"
 
+#, fuzzy
 msgid "BATTLE_RESULT_BATTLE_POINTS"
 msgstr "Combat points"
 
+#, fuzzy
 msgid "BATTLE_RESULT_CAP_POINTS_IN_ATT"
 msgstr "Capture points earned in attack"
 
+#, fuzzy
 msgid "BATTLE_RESULT_CAP_POINTS_IN_DEF"
 msgstr "Capture points earned in defense"
 
+#, fuzzy
 msgid "BATTLE_RESULT_CAP_POINT_RECEIVED"
 msgstr "Capture points received"
 
@@ -710,12 +716,14 @@ msgstr "{member_name}正在積累經驗，獲得另一個技能點"
 msgid "BATTLE_RESULT_EXP"
 msgstr "經驗"
 
+#, fuzzy
 msgid "BATTLE_RESULT_GENERAL_EFFICIENCY"
 msgstr "General 表現"
 
 msgid "BATTLE_RESULT_GENERAL_STATS_FOR_ALL_PLANES_IN_BATTLE"
 msgstr "所有參與戰鬥的<br>戰報"
 
+#, fuzzy
 msgid "BATTLE_RESULT_GUNNER_EXP"
 msgstr "Gunner 經驗:"
 
@@ -773,6 +781,7 @@ msgstr "{member_name}已經獲得了新的技能點！"
 msgid "BATTLE_RESULT_REWARD_FOR_BATTLE_QUESTS"
 msgstr "任務獎勵:"
 
+#, fuzzy
 msgid "BATTLE_RESULT_SECTORS_CAPTURED"
 msgstr "Sectors captured"
 

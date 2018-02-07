@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: World Of Tanks\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2010-06-01 10:00+0300\n"
-"Last-Translator: i_maliavko <i_maliavko@wargaming.net>\n"
+"Last-Translator: kevinlin18 <https://github.com/kevinlin18/WoWP_zh_tw>\n"
 "Language-Team: WoT Team <noreply@wargaming.net>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
@@ -928,144 +928,184 @@ msgstr "玩家{name}已經是另一個編隊中的隊員。請選擇列表中的
 msgid "WING_MESSAGE_YOU_DONT_CAN_INVITE_OFFLINE_PLAYER"
 msgstr "你不能邀請一個離線的玩家加入編隊。"
 
+#, fuzzy
 msgid "MESSAGES_BONUS_GOLD_NY"
 msgstr "Gold bonus:"
 
+#, fuzzy
 msgid "MESSAGES_CONGRATULATION_YOU_CAN_GET_PLANE"
 msgstr "Congratulations! You can claim your aircraft."
 
+#, fuzzy
 msgid "MESSAGES_DIRECTIVE_ACTIVATED"
 msgstr "Operation Order Activated"
 
+#, fuzzy
 msgid "MESSAGES_DIRECTIVE_DEACTIVATED"
 msgstr "Operation Order Deactivated"
 
+#, fuzzy
 msgid "MESSAGES_DIRECTIVE_DEDUCT"
 msgstr "Operation order removed."
 
+#, fuzzy
 msgid "MESSAGES_DIRECTIVE_IN_INVENTORY"
 msgstr "Operation order is available in the Inventory."
 
+#, fuzzy
 msgid "MESSAGES_DIRECTIVE_PURCHASED"
 msgstr "Operation order purchased."
 
+#, fuzzy
 msgid "MESSAGES_DIRECTIVE_RECEIVED"
 msgstr "Operation Order Added to Your Account"
 
+#, fuzzy
 msgid "MESSAGES_DIRECTIVE_SOLD"
 msgstr "Operation order sold."
 
+#, fuzzy
 msgid "MESSAGES_EXCLUSIVE_CAMO"
 msgstr "Unique paint scheme"
 
+#, fuzzy
 msgid "MESSAGES_EXCLUSIVE_EMBLEM"
 msgstr "Unique emblem"
 
+#, fuzzy
 msgid "MESSAGES_NEW_QUESTS_AVAILABLE"
 msgstr "New missions are available."
 
+#, fuzzy
 msgid "MESSAGES_PROGRESS_QUESTS_RESET"
 msgstr "Mission progress reset."
 
+#, fuzzy
 msgid "MESSAGES_RECIEVED_ACHIEVEMENT_WG_FEST"
 msgstr ""
 "На память о посещении фестиваля WG Fest вы получаете уникальный памятный "
 "знак."
 
+#, fuzzy
 msgid "MESSAGES_RECIEVED_GIFT_SECRET_SANTA"
 msgstr ""
 "{username}, happy holidays! You have received a <font color='#color'>gift</"
 "font>!"
 
+#, fuzzy
 msgid "MESSAGES_SECRET_SANTA_2017"
 msgstr "Santa's Bag"
 
+#, fuzzy
 msgid "MESSAGES_SECRET_SANTA_COMPENSATION"
 msgstr ""
 "Pilot! <font color='#'>Santa's bag</font> has been opened. All presents "
 "found have been added to your account."
 
+#, fuzzy
 msgid "MESSAGES_SETUP_MODULES"
 msgstr "Mount Modules"
 
+#, fuzzy
 msgid "MESSAGE_ACHIEVEMENT"
 msgstr "Achievement:"
 
+#, fuzzy
 msgid "SYSTEM_MESSAGE_ALBION_EVENT_BEGAN"
 msgstr "The <font color='#{color}'>Skies of Albion</font> event is underway!"
 
+#, fuzzy
 msgid "SYSTEM_MESSAGE_ALBION_EVENT_END"
 msgstr "The <font color='#{color}'>Skies of Albion</font> event is over!"
 
+#, fuzzy
 msgid "SYSTEM_MESSAGE_COMPENSATION_TROPHY_ALBION_OPERATION_OFF"
 msgstr ""
 "Loot crates that you did not open during the <font color='#'>Skies of "
 "Albion</font> event have been opened automatically. All prizes from the loot "
 "crates have been added to your account."
 
+#, fuzzy
 msgid "SYSTEM_MESSAGE_COMPENSATION_TROPHY_JA_TR_OFF"
 msgstr ""
 "Loot crates that you did not open during the <font color='#{color}'>"
 "\"Japanese Threat\"</font> event have been opened automatically. All prizes "
 "from the loot crates have been added to your account."
 
+#, fuzzy
 msgid "SYSTEM_MESSAGE_COMPENSATION_TROPHY_NO_CAMP_OFF"
 msgstr ""
 "Loot crates that you did not open during the <font color='#{color}'>Battle "
 "for Thor's Hammer</font> event have been opened automatically. All prizes "
 "from the loot crates have been added to your account."
 
+#, fuzzy
 msgid "SYSTEM_MESSAGE_CONTEXT_INCLUDING"
 msgstr "Including:"
 
+#, fuzzy
 msgid "SYSTEM_MESSAGE_DISMISS_CREW"
 msgstr "Dismiss"
 
+#, fuzzy
 msgid "SYSTEM_MESSAGE_FAST_TRAINING_OFF"
 msgstr "Accelerated training disabled"
 
+#, fuzzy
 msgid "SYSTEM_MESSAGE_FAST_TRAINING_ON"
 msgstr "Accelerated training enabled"
 
+#, fuzzy
 msgid "SYSTEM_MESSAGE_FR_EXTRA_GIFT"
 msgstr "Extra Bonus"
 
+#, fuzzy
 msgid "SYSTEM_MESSAGE_FR_PACK_SUCCESSFUL_PURCHASE"
 msgstr ""
 "Bundle of the <font color='#{color}'>{plane_name1}</font> and <font "
 "color='#{color}'>{plane_name2}</font> aircraft successfully purchased."
 
+#, fuzzy
 msgid "SYSTEM_MESSAGE_FR_PACK_UNIQUE_CAMO_EMBLEM"
 msgstr ""
 "Unique paint scheme, nose art, and emblem for the <font "
 "color='#{color}'>{plane_name1}</font> and <font "
 "color='#{color}'>{plane_name2}</font> aircraft"
 
+#, fuzzy
 msgid "SYSTEM_MESSAGE_GUNNER_DISMISS"
 msgstr "Gunner {crew_name} dismissed"
 
+#, fuzzy
 msgid "SYSTEM_MESSAGE_HEADER_PILOT"
 msgstr "Pilot!"
 
+#, fuzzy
 msgid "SYSTEM_MESSAGE_NEW_QUEST_AVAILABLE"
 msgstr "New mission available!"
 
+#, fuzzy
 msgid "SYSTEM_MESSAGE_NOW_CREW_TRAINING_FASTER"
 msgstr "Now the crew will be trained more quickly."
 
+#, fuzzy
 msgid "SYSTEM_MESSAGE_NOW_EXP_COLLECT_ON_PLANE"
 msgstr "Now experience will be allocated to the aircraft."
 
+#, fuzzy
 msgid "SYSTEM_MESSAGE_PACK_SLOT_SUCCESSFUL_PURCHASE"
 msgstr "Slots ({number}) in the Hangar successfully purchased."
 
+#, fuzzy
 msgid "SYSTEM_MESSAGE_PILOT_DISMISS"
 msgstr "Pilot {crew_name} dismissed"
 
+#, fuzzy
 msgid "SYSTEM_MESSAGE_QUEST_COMPENSATION"
 msgstr ""
 "Pilot! You have already received the \"{name}\" mission and it cannot be "
 "completed again. The mission cost has been compensated."
 
+#, fuzzy
 msgid "SYSTEM_MESSAGE_TOTAL_ACCOUNT_BALANCE"
 msgstr "Total added to account:"
