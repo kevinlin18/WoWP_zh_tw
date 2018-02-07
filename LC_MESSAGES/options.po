@@ -254,7 +254,7 @@ msgstr "滑鼠預設："
 
 msgid "CONTROL_PROFILE_MOUSE_TYPE_DESCRIPTION"
 msgstr ""
-"使用影象配置需移動滑鼠使飛機翻滾並按照要求持續進行翻滾。<br>• 使用縱軸調整翻"
+"使用影像配置需移動滑鼠使飛機翻滾並按照要求持續進行翻滾。<br>• 使用縱軸調整翻"
 "轉姿勢。如果控制點在網格的頂部，飛機將進行翻滾或停止翻滾。如果處於底部，飛機"
 "將繼續沿指定方向翻轉。<br>• 橫軸表示游標與飛機飛行方向之間的角度。網格左側對"
 "應於較小的滑鼠操作，右側對應較大的操作。"
@@ -275,7 +275,7 @@ msgid "FULLRES"
 msgstr "高"
 
 msgid "FULL_SCREEN_TOGGLE"
-msgstr "全屏模式"
+msgstr "全螢幕模式"
 
 msgid "GAMEPAD"
 msgstr "手柄"
@@ -290,7 +290,7 @@ msgid "GAME_SETTINGS"
 msgstr "遊戲"
 
 msgid "GRAPHIC_SETTINGS_PRESET"
-msgstr "影象"
+msgstr "影像"
 
 msgid "HALFRES"
 msgstr "低"
@@ -1351,7 +1351,7 @@ msgstr "最佳視角範圍約為95°"
 
 msgid "SETTINGS_FOV_DESCRIPTION_3"
 msgstr ""
-"越寬闊的視角越容易出現影象扭曲<br>增加視野範圍會影響遊戲在一些電腦配置下的遊"
+"越寬闊的視角越容易出現影像扭曲<br>增加視野範圍會影響遊戲在一些電腦配置下的遊"
 "戲效能"
 
 msgid "SETTINGS_FOV_HEADER"
@@ -1361,7 +1361,7 @@ msgid "SETTINGS_FOV_SLIDER_TEXT"
 msgstr "視角最大範圍:"
 
 msgid "SETTINGS_FULLSCREEN"
-msgstr "全屏模式"
+msgstr "全螢幕模式"
 
 msgid "SETTINGS_GAMEPAD_ALT_PATTERN"
 msgstr "(二選一)"
@@ -1526,7 +1526,7 @@ msgid "SETTINGS_GAMMA"
 msgstr "亮度:"
 
 msgid "SETTINGS_GRAPHICS_QUALITY"
-msgstr "影象品質"
+msgstr "影像品質"
 
 msgid "SETTINGS_GRAPH_AUTODETECT_AGREE_BUTTON"
 msgstr "好極了！"
@@ -1541,7 +1541,7 @@ msgid "SETTINGS_GRAPH_AUTODETECT_DISABLE_OPTION"
 msgstr "禁用自動檢測設定"
 
 msgid "SETTINGS_GRAPH_AUTODETECT_HEADER"
-msgstr "自動檢測影象設定"
+msgstr "自動檢測影像設定"
 
 msgid "SETTINGS_GRAPH_AUTODETECT_OK_MESSAGE"
 msgstr "您當前 {settings_1} 圖形設定能夠確保獲得最佳的遊戲體驗，祝您遊戲愉快！"
@@ -1608,7 +1608,7 @@ msgstr ""
 "擊“檢測”開始進行檢測。"
 
 msgid "SETTINGS_GRAPH_AUTODETECT_WINDOW_HEADER"
-msgstr "自動檢測影象設定"
+msgstr "自動檢測影像設定"
 
 msgid "SETTINGS_GRAPH_SETTINGS_CONTEXT_HIGH"
 msgstr "高"
@@ -2124,7 +2124,7 @@ msgid "SETTINGS_MARKERS_CONTEXT_OBJECTS"
 msgstr "地面目標"
 
 msgid "SETTINGS_MARKERS_CONTEXT_OBJECT_AA_PART"
-msgstr "防空砲標識"
+msgstr "高射砲標識"
 
 msgid "SETTINGS_MARKERS_CONTEXT_OBJECT_ARMORED_PART"
 msgstr "裝甲目標標識"
@@ -2241,7 +2241,7 @@ msgstr ""
 
 msgid "SETTINGS_MESSAGE_CAN_USE_HD_DOWNLOAD_BUTTON"
 msgstr ""
-"遊戲客戶端檢測發現您的電腦可以使用 {settings} 影象設定，新設定已得到套用，為"
+"遊戲客戶端檢測發現您的電腦可以使用 {settings} 影像設定，新設定已得到套用，為"
 "了提高遊戲紋理效果，您還需下載 HD 紋理，關閉遊戲客戶端後運行WOWpLauncher.exe"
 "並在選項中選擇64位客戶端後將為您下載 HD 紋理，下載完成後進入遊戲可獲得更好的"
 "紋理效果"
@@ -2261,8 +2261,8 @@ msgstr "注意！準星設定僅適用於戰車模式和最簡模式的戰鬥介
 
 msgid "SETTINGS_MESSAGE_HD_DOWNLOAD_INSTRUCTION"
 msgstr ""
-"選擇高品質影象品質需下載 HD 紋理，請關閉遊戲，運行WOWpLauncher.exe，點選右上"
-"角的設定並選擇 HD 品質。當您下載 HD 紋理後，即可選擇設定高品質影象品質和 HD "
+"選擇高品質影像品質需下載 HD 紋理，請關閉遊戲，運行WOWpLauncher.exe，點選右上"
+"角的設定並選擇 HD 品質。當您下載 HD 紋理後，即可選擇設定高品質影像品質和 HD "
 "紋理。"
 
 msgid "SETTINGS_MESSAGE_HD_UNAVAILABLE_NEED_64BIT"
@@ -2272,11 +2272,11 @@ msgid "SETTINGS_MESSAGE_NEED_64BIT_FOR_HD"
 msgstr " HD 紋理只適用於64位的Windows系統"
 
 msgid "SETTINGS_MESSAGE_NEED_DOWNLOAD_AND_RESTART_FOR_HD"
-msgstr "影象品質選擇“高”或“很高”需下載 HD 紋理並重啟遊戲"
+msgstr "影像品質選擇“高”或“很高”需下載 HD 紋理並重啟遊戲"
 
 msgid "SETTINGS_MESSAGE_NEED_LOAD_HD_DOWNLOAD_BUTTON"
 msgstr ""
-"影象品質選擇“高”或“很高”需下載 HD 紋理，單擊 {download_button} 後將關閉遊戲客"
+"影像品質選擇“高”或“很高”需下載 HD 紋理，單擊 {download_button} 後將關閉遊戲客"
 "戶端開始下載和安裝 HD 紋理"
 
 msgid "SETTINGS_MESSAGE_NEED_RESTART_FOR_CHANGE_TEXTURES"
@@ -2584,7 +2584,7 @@ msgid "SETTINGS_TOGGLE_ASSAULT_MODE"
 msgstr "掃射模式"
 
 msgid "SETTINGS_TOGGLE_SNIPER_MODE_DESCRIPTION"
-msgstr "此模式下將放大目標影象"
+msgstr "此模式下將放大目標影像"
 
 msgid "SETTINGS_TOOLTIP_ALTIMETER"
 msgstr ""
@@ -2682,7 +2682,7 @@ msgid "SETTINGS_WINDOW_CONFIRMATION_SHEME_SETTINGS_RESTORE_MESSAGE"
 msgstr "恢復到預設設定？"
 
 msgid "SETTINGS_WINDOW_CONFIRMATION_ULTRALOW_SETTINGS"
-msgstr "非常低圖形設定將會顯著降低影象品質<br>確定套用超低圖形設定?"
+msgstr "非常低圖形設定將會顯著降低影像品質<br>確定套用超低圖形設定?"
 
 msgid "SETTINGS_WINDOW_SAVE_CONTROLS_HEADER"
 msgstr "儲存設定"
@@ -2736,7 +2736,7 @@ msgid "SOUND_TYPE_HEADPHONES"
 msgstr "耳機"
 
 msgid "SOUND_TYPE_LAPTOP"
-msgstr "膝上型電腦"
+msgstr "筆記型電腦"
 
 msgid "SUPERMOUSE_CAMERA_ALIGNING"
 msgstr "* 視角校準區域:"
@@ -2843,9 +2843,8 @@ msgstr "很低"
 msgid "VERYNEAR"
 msgstr "很近"
 
-#, fuzzy
 msgid "GRAPHIC_SETTINGS_ABOVE_CHECKBOXES"
-msgstr "Graphics Settings"
+msgstr "影像設定"
 
 #, fuzzy
 msgid "KEYMAPPING/CMD_BOMBER_MODE"
@@ -2855,9 +2854,8 @@ msgstr "Switch to Bombing Mode"
 msgid "KEYMAPPING/CMD_DANGEROUS_TARGET"
 msgstr "Lock Dangerous Enemy"
 
-#, fuzzy
 msgid "KEYMAPPING/CMD_F8_1_CHAT_COMMAND"
-msgstr "Good Job!"
+msgstr "做得好!"
 
 #, fuzzy
 msgid "KEYMAPPING/CMD_GUNNER_MODE"
@@ -2889,9 +2887,8 @@ msgstr ""
 msgid "SETTINGS_AVIADEVICES"
 msgstr "Flight Instruments"
 
-#, fuzzy
 msgid "SETTINGS_BUTTON_COPY"
-msgstr "Copy"
+msgstr "複製"
 
 #, fuzzy
 msgid "SETTINGS_CAMERA_EFFECTS"
@@ -2901,9 +2898,8 @@ msgstr "Camera Effects"
 msgid "SETTINGS_CHECKBOX_ROTATE_PLAYER_MINIMAP_FIXED"
 msgstr "Rotate player marker (map pinned)"
 
-#, fuzzy
 msgid "SETTINGS_CHECKBOX_SCREENSHOTS"
-msgstr "Save screenshots"
+msgstr "螢幕截圖儲存位置"
 
 #, fuzzy
 msgid "SETTINGS_CHECKBOX_SHOW_ROLL_HORIZON"
@@ -3503,9 +3499,8 @@ msgstr "Airspeed indicator"
 msgid "SETTINGS_MARKERS_STALL_SPEED"
 msgstr "Stall speed"
 
-#, fuzzy
 msgid "SETTINGS_MARKERS_START_POINT_RESPAWN"
-msgstr "Spawn/respawn point"
+msgstr "出生/重生點"
 
 #, fuzzy
 msgid "SETTINGS_MARKERS_TACTICAL_MARKER_COMPEX"

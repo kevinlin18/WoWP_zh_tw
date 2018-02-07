@@ -1105,7 +1105,7 @@ msgid "BOT_START_TEAMSINGLE_2"
 msgstr "優先消滅攻擊機!"
 
 msgid "BOT_START_TEAMSINGLE_3"
-msgstr "攻擊機,優先消滅防空砲"
+msgstr "攻擊機,優先消滅高射砲"
 
 msgid "BOT_START_TEAMSINGLE_4"
 msgstr "新飛機上天"

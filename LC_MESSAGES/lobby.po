@@ -1439,10 +1439,10 @@ msgid "LOBBY_AIRCRAFT_COMPARISON_DISCLAIMER_DINAMIC_WING_UNDER_CONSTRUCTION"
 msgstr "PLACEHOLDER"
 
 msgid "LOBBY_AIRCRAFT_COMPARISON_ENEMY_ALL_BETTER_2"
-msgstr "規避敵人或誘使敵人進入己方戰機或防空砲的火力範圍內"
+msgstr "規避敵人或誘使敵人進入己方戰機或高射砲的火力範圍內"
 
 msgid "LOBBY_AIRCRAFT_COMPARISON_ENEMY_ALL_EQUAL_2"
-msgstr "誘使敵人進入己方戰機或防空砲的火力範圍內"
+msgstr "誘使敵人進入己方戰機或高射砲的火力範圍內"
 
 msgid "LOBBY_AIRCRAFT_COMPARISON_ENEMY_ALTITUDE_BETTER_1"
 msgstr "敵機的最佳飛行高度較高<br>應誘使其在低空進行戰鬥"
@@ -8439,13 +8439,13 @@ msgid "LOBBY_QUESTS_2015_AUTUMN_096_NAME"
 msgstr "重點打擊"
 
 msgid "LOBBY_QUESTS_2015_AUTUMN_097_BASIC"
-msgstr "在一場戰鬥中擊落至少2架敵方戰鬥機或攻擊機並摧毀4座防空砲"
+msgstr "在一場戰鬥中擊落至少2架敵方戰鬥機或攻擊機並摧毀4座高射砲"
 
 msgid "LOBBY_QUESTS_2015_AUTUMN_097_NAME"
 msgstr "全能戰士"
 
 msgid "LOBBY_QUESTS_2015_AUTUMN_098_BASIC"
-msgstr "在一場獲得勝利的戰鬥中擊落至少1架戰鬥機或重型戰鬥機並摧毀2座防空砲"
+msgstr "在一場獲得勝利的戰鬥中擊落至少1架戰鬥機或重型戰鬥機並摧毀2座高射砲"
 
 msgid "LOBBY_QUESTS_2015_AUTUMN_098_NAME"
 msgstr "空戰技巧"
@@ -8509,7 +8509,7 @@ msgid "LOBBY_QUESTS_2015_AUTUMN_107_NAME"
 msgstr "襲擊者"
 
 msgid "LOBBY_QUESTS_2015_AUTUMN_108_BASIC"
-msgstr "在一場獲得勝利的戰鬥中至少對3架敵機造成傷害並摧毀至少4座防空砲"
+msgstr "在一場獲得勝利的戰鬥中至少對3架敵機造成傷害並摧毀至少4座高射砲"
 
 msgid "LOBBY_QUESTS_2015_AUTUMN_108_NAME"
 msgstr "清潔行動"
@@ -8570,7 +8570,7 @@ msgstr "空中支援"
 
 msgid "LOBBY_QUESTS_2015_AUTUMN_117_BASIC"
 msgstr ""
-"在一場戰鬥中累計擊落至少2架敵方戰鬥機或多用途戰鬥機和摧毀至少5座防空砲。並且"
+"在一場戰鬥中累計擊落至少2架敵方戰鬥機或多用途戰鬥機和摧毀至少5座高射砲。並且"
 "戰鬥勝利。"
 
 msgid "LOBBY_QUESTS_2015_AUTUMN_117_NAME"
@@ -8578,7 +8578,7 @@ msgstr "朗朗乾坤"
 
 msgid "LOBBY_QUESTS_2015_AUTUMN_118_BASIC"
 msgstr ""
-"在戰鬥中累計擊落3架敵方攻擊機或多用途戰鬥機並摧毀至少3座防空砲，並贏的戰鬥勝"
+"在戰鬥中累計擊落3架敵方攻擊機或多用途戰鬥機並摧毀至少3座高射砲，並贏的戰鬥勝"
 "利。"
 
 msgid "LOBBY_QUESTS_2015_AUTUMN_118_NAME"
@@ -8771,11 +8771,11 @@ msgid "LOBBY_QUESTS_2015_WINTER_01_NAME"
 msgstr "飛行訓練"
 
 msgid "LOBBY_QUESTS_2015_WINTER_02_BASIC"
-msgstr "在一場戰鬥中消滅了10個敵人防空砲。"
+msgstr "在一場戰鬥中消滅了10個敵人高射砲。"
 
 msgid "LOBBY_QUESTS_2015_WINTER_02_EXTRA"
 msgstr ""
-"在三場戰鬥中累計摧毀15個敵方防空砲。一場戰鬥中摧毀至少5個敵方防空砲才記錄擊毀"
+"在三場戰鬥中累計摧毀15個敵方高射砲。一場戰鬥中摧毀至少5個敵方高射砲才記錄擊毀"
 "數。"
 
 msgid "LOBBY_QUESTS_2015_WINTER_02_NAME"
@@ -10272,10 +10272,10 @@ msgid "LOBBY_QUESTS_2016_SPRING_08_NAME"
 msgstr "準確度！"
 
 msgid "LOBBY_QUESTS_2016_SPRING_09_BASIC"
-msgstr "在一場戰鬥中，摧毀4個敵方防空砲並勝利"
+msgstr "在一場戰鬥中，摧毀4個敵方高射砲並勝利"
 
 msgid "LOBBY_QUESTS_2016_SPRING_09_EXTRA"
-msgstr "在一場戰鬥中摧毀25架敵人的防空砲。並且必須勝利並倖存。"
+msgstr "在一場戰鬥中摧毀25架敵人的高射砲。並且必須勝利並倖存。"
 
 msgid "LOBBY_QUESTS_2016_SPRING_09_NAME"
 msgstr "對防空火力的威脅"
@@ -11917,7 +11917,7 @@ msgid "LOBBY_QUESTS_STATUS_UNAVAILABLE_REQUIREMENTS"
 msgstr "任務不可用。不符合要求"
 
 msgid "LOBBY_QUESTS_SUBTASK_GROUND_AA_PARTS_DESTROYED"
-msgstr "摧毀防空砲"
+msgstr "摧毀高射砲"
 
 msgid "LOBBY_QUESTS_SUBTASK_GROUND_ARMORED_PARTS_DESTROYED"
 msgstr "裝甲目標被摧毀"
@@ -13079,41 +13079,29 @@ msgstr "獲得 1000 點佔領點數。"
 msgid "LOBBY_TUTORIAL_QUEST_4_TEXT_2"
 msgstr "獲得 1500 點佔領點數。"
 
-#, fuzzy
 msgid "LOBBY_TUTORIAL_QUEST_5_NAME"
-msgstr "Destroy AA guns!"
+msgstr "摧毀高射砲！"
 
-#, fuzzy
 msgid "LOBBY_TUTORIAL_QUEST_5_TEXT"
-msgstr "Destroy 4 AA guns in a single battle."
+msgstr "在一場戰鬥中，摧毀 4 座高射砲。"
 
-#, fuzzy
 msgid "LOBBY_TUTORIAL_QUEST_6_NAME"
-msgstr "Capture a Forward Airstrip!"
+msgstr "佔領前線簡易機場！"
 
-#, fuzzy
 msgid "LOBBY_TUTORIAL_QUEST_6_TEXT_1"
-msgstr "Participate in capturing a Forward Airstrip."
+msgstr "參與佔領前線簡易機場。"
 
-#, fuzzy
 msgid "LOBBY_TUTORIAL_QUEST_6_TEXT_2"
-msgstr ""
-"Participate in capturing a Forward Airstrip.<br>Total number of battles "
-"required to complete the mission: 3."
+msgstr "參與佔領前線簡易機場。<br>完成任務所需次數: 3"
 
-#, fuzzy
 msgid "LOBBY_TUTORIAL_QUEST_7_NAME"
-msgstr "Capture a Mining Plant!"
+msgstr "佔領採礦場！"
 
-#, fuzzy
 msgid "LOBBY_TUTORIAL_QUEST_7_TEXT_1"
-msgstr "Participate in capturing a Mining Plant."
+msgstr "參與佔領採礦場。"
 
-#, fuzzy
 msgid "LOBBY_TUTORIAL_QUEST_7_TEXT_2"
-msgstr ""
-"Participate in capturing at least 2 plants.<br>Total number of battles "
-"required to complete the mission: 5."
+msgstr "參與佔領至少 2 座採礦場。<br>完成任務所需次數: 5"
 
 #, fuzzy
 msgid "LOBBY_TUTORIAL_QUEST_8_NAME"
@@ -13286,7 +13274,7 @@ msgid "LOGIN_FORUM_TEXT"
 msgstr "論壇"
 
 msgid "LOGIN_SEND_ERROR_TEXT"
-msgstr "報告錯誤"
+msgstr "回報錯誤"
 
 msgid "MACHINEGUN_HEAVY_DESCRIPTION"
 msgstr "機槍"
@@ -14483,7 +14471,7 @@ msgstr "沒有合適的對手。你可以選擇另一架飛機。"
 
 msgid "WAITING_IN_QUEUE_SELECT_ANOTHER_AIRCRAFT"
 msgstr ""
-"如果在佇列中的時間過長，則可以選擇另一架飛機。<br>大多數球員現在使用{value}飛"
+"如果在佇列中的時間過長，則可以選擇另一架飛機。<br>大多數玩家現在使用{value}飛"
 "機。"
 
 msgid "WAITING_TIME"

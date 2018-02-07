@@ -344,7 +344,7 @@ msgstr "使用重型戰鬥機累計獲得3個“破壞者”勳章"
 
 msgid "MEDAL_DESCRIPTION_BREAKTHROUGH"
 msgstr ""
-"授予在戰鬥中摧毀敵方3座防空砲或配有防空砲的地面目標<br><br>只可在標準戰鬥中獲"
+"授予在戰鬥中摧毀敵方3座高射砲或配有高射砲的地面目標<br><br>只可在標準戰鬥中獲"
 "得，且每架戰機只可獲得一次"
 
 msgid "MEDAL_DESCRIPTION_CADET"
@@ -1097,7 +1097,7 @@ msgid "MEDAL_EVENT_DESCRIPTION_BONG3"
 msgstr "使用重型戰鬥機獲得3個“破壞者”勳章"
 
 msgid "MEDAL_EVENT_DESCRIPTION_BREAKTHROUGH"
-msgstr "摧毀3座防空砲"
+msgstr "摧毀3座高射砲"
 
 msgid "MEDAL_EVENT_DESCRIPTION_CADET_1"
 msgstr "飛行訓練一級"

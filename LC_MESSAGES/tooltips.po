@@ -867,13 +867,13 @@ msgid "TOOLTIPS_QUESTS_2015_AUTUMN_096_NAME"
 msgstr "重點打擊"
 
 msgid "TOOLTIPS_QUESTS_2015_AUTUMN_097_BASIC"
-msgstr "在一場戰鬥中擊落至少2架敵方戰鬥機或攻擊機並摧毀4座防空砲"
+msgstr "在一場戰鬥中擊落至少2架敵方戰鬥機或攻擊機並摧毀4座高射砲"
 
 msgid "TOOLTIPS_QUESTS_2015_AUTUMN_097_NAME"
 msgstr "全能戰士"
 
 msgid "TOOLTIPS_QUESTS_2015_AUTUMN_098_BASIC"
-msgstr "在一場獲得勝利的戰鬥中擊落至少1架戰鬥機或重型戰鬥機並摧毀2座防空砲"
+msgstr "在一場獲得勝利的戰鬥中擊落至少1架戰鬥機或重型戰鬥機並摧毀2座高射砲"
 
 msgid "TOOLTIPS_QUESTS_2015_AUTUMN_098_NAME"
 msgstr "空戰技巧"
@@ -937,7 +937,7 @@ msgid "TOOLTIPS_QUESTS_2015_AUTUMN_107_NAME"
 msgstr "襲擊者"
 
 msgid "TOOLTIPS_QUESTS_2015_AUTUMN_108_BASIC"
-msgstr "在一場獲得勝利的戰鬥中至少對3架敵機造成傷害並摧毀至少4座防空砲"
+msgstr "在一場獲得勝利的戰鬥中至少對3架敵機造成傷害並摧毀至少4座高射砲"
 
 msgid "TOOLTIPS_QUESTS_2015_AUTUMN_108_NAME"
 msgstr "清潔行動"
@@ -998,7 +998,7 @@ msgstr "空中支援"
 
 msgid "TOOLTIPS_QUESTS_2015_AUTUMN_117_BASIC"
 msgstr ""
-"在一場戰鬥中累計擊落至少2架敵方戰鬥機或多用途戰鬥機和摧毀至少5座防空砲。並且"
+"在一場戰鬥中累計擊落至少2架敵方戰鬥機或多用途戰鬥機和摧毀至少5座高射砲。並且"
 "戰鬥勝利！"
 
 msgid "TOOLTIPS_QUESTS_2015_AUTUMN_117_NAME"
@@ -1006,7 +1006,7 @@ msgstr "朗朗乾坤"
 
 msgid "TOOLTIPS_QUESTS_2015_AUTUMN_118_BASIC"
 msgstr ""
-"在戰鬥中累計擊落3架敵方攻擊機或多用途戰鬥機並摧毀至少3座防空砲，並贏的戰鬥勝"
+"在戰鬥中累計擊落3架敵方攻擊機或多用途戰鬥機並摧毀至少3座高射砲，並贏的戰鬥勝"
 "利。"
 
 msgid "TOOLTIPS_QUESTS_2015_AUTUMN_118_NAME"
@@ -1063,11 +1063,11 @@ msgid "TOOLTIPS_QUESTS_2015_WINTER_01_NAME"
 msgstr "飛行訓練"
 
 msgid "TOOLTIPS_QUESTS_2015_WINTER_02_BASIC"
-msgstr "在一場戰鬥中消滅了10個敵人防空砲。"
+msgstr "在一場戰鬥中消滅了10個敵人高射砲。"
 
 msgid "TOOLTIPS_QUESTS_2015_WINTER_02_EXTRA"
 msgstr ""
-"在三場戰鬥中累計摧毀15個敵方防空砲。一場戰鬥中摧毀至少5個敵方防空砲才記錄擊毀"
+"在三場戰鬥中累計摧毀15個敵方高射砲。一場戰鬥中摧毀至少5個敵方高射砲才記錄擊毀"
 "數。"
 
 msgid "TOOLTIPS_QUESTS_2015_WINTER_02_NAME"
@@ -1268,10 +1268,10 @@ msgid "TOOLTIPS_QUESTS_2016_SPRING_08_NAME"
 msgstr "準確度！"
 
 msgid "TOOLTIPS_QUESTS_2016_SPRING_09_BASIC"
-msgstr "在一場戰鬥中，摧毀4個敵方防空砲並勝利"
+msgstr "在一場戰鬥中，摧毀4個敵方高射砲並勝利"
 
 msgid "TOOLTIPS_QUESTS_2016_SPRING_09_EXTRA"
-msgstr "在一場戰鬥中摧毀25架敵人的防空砲。並且必須勝利並倖存。"
+msgstr "在一場戰鬥中摧毀25架敵人的高射砲。並且必須勝利並倖存。"
 
 msgid "TOOLTIPS_QUESTS_2016_SPRING_09_NAME"
 msgstr "對防空火力的威脅"
@@ -1804,7 +1804,7 @@ msgid "TOOLTIP_BATTLE_RESULTS_DESTROYED_BY_ROCKET"
 msgstr "火箭彈"
 
 msgid "TOOLTIP_BATTLE_RESULTS_DESTROYED_BY_TEAM_AA"
-msgstr "防空砲火"
+msgstr "高射砲火"
 
 msgid "TOOLTIP_BATTLE_RESULTS_FASTER_CREW_TRAINING"
 msgstr ""
@@ -3102,7 +3102,7 @@ msgstr "<b>基地防守!</b><br/>傳送一個隊聊“基地防守！”"
 
 msgid "TOOLTIP_ROLES_ARMORED_PLANE"
 msgstr ""
-"<b>攻擊機</b><br/>攻擊機上較厚的裝甲可以抵禦防空砲火和小口徑機砲的攻擊。"
+"<b>攻擊機</b><br/>攻擊機上較厚的裝甲可以抵禦高射砲火和小口徑機砲的攻擊。"
 
 msgid "TOOLTIP_ROLES_DESTROYER"
 msgstr ""
@@ -3236,7 +3236,7 @@ msgid "TOOLTIP_SETTINGS_MARKERS_CONTEXT_MARKER_STAT"
 msgstr "允許在選擇戰機類型時設定獨立的標誌參數，該圖表示標誌參數的可見距離"
 
 msgid "TOOLTIP_SETTINGS_MARKERS_CONTEXT_OBJECT_AA_PART"
-msgstr "選擇地面防空砲標識的可見距離範圍"
+msgstr "選擇地面高射砲標識的可見距離範圍"
 
 msgid "TOOLTIP_SETTINGS_MARKERS_CONTEXT_OBJECT_ARMORED_PART"
 msgstr "選擇地面目標群中裝甲目標標識的可見距離範圍"
@@ -3813,9 +3813,8 @@ msgstr "Provide aircraft pitch and yaw control"
 msgid "TOOLTIPS_ARMORED_OBJECT"
 msgstr "Armored ground target"
 
-#, fuzzy
 msgid "TOOLTIPS_BATTLE_RESULTS_PERSONALS_QUESTS_PROGRESS_ACHIEVED"
-msgstr "Achieved progress"
+msgstr "達成進度"
 
 #, fuzzy
 msgid "TOOLTIPS_BATTLE_SINGLE_FLIGHT_DESCRIPTION"
@@ -4879,9 +4878,8 @@ msgstr "Earned Achievements"
 msgid "TOOLTIP_BATTLE_RESULTS_ALL_WITH_BONUSES"
 msgstr "Total with bonuses:"
 
-#, fuzzy
 msgid "TOOLTIP_BATTLE_RESULTS_BATTLE_POINTS"
-msgstr "Combat points:"
+msgstr "戰鬥點數:"
 
 #, fuzzy
 msgid "TOOLTIP_BATTLE_RESULTS_BEFORE_YOU_PLANE_DESTROYED"

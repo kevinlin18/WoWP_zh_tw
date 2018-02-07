@@ -264,7 +264,7 @@ msgid "LOBBY_HEADER_DRAW"
 msgstr "平局 {aircraft}!"
 
 msgid "LOBBY_HEADER_HELLO"
-msgstr "尊敬的"
+msgstr "親愛的"
 
 msgid "LOBBY_HEADER_INVESTIGATED"
 msgstr "研發："
@@ -375,7 +375,7 @@ msgid "LOBBY_MSG_DESTROYED_TEAM_OBJECTS"
 msgstr "擊毀目標"
 
 msgid "LOBBY_MSG_DESTROYED_TURRENTS"
-msgstr "摧毀防空砲"
+msgstr "摧毀高射砲"
 
 msgid "LOBBY_MSG_DETECTED_AIRCRAFT"
 msgstr "發現戰機"
@@ -1041,7 +1041,7 @@ msgstr ""
 
 #, fuzzy
 msgid "SYSTEM_MESSAGE_CONTEXT_INCLUDING"
-msgstr "Including:"
+msgstr "包含:"
 
 #, fuzzy
 msgid "SYSTEM_MESSAGE_DISMISS_CREW"
@@ -1108,4 +1108,4 @@ msgstr ""
 
 #, fuzzy
 msgid "SYSTEM_MESSAGE_TOTAL_ACCOUNT_BALANCE"
-msgstr "Total added to account:"
+msgstr "帳號一共獲得:"

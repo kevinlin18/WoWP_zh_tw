@@ -115,7 +115,7 @@ msgid "OBJECT_NAME_BOATS"
 msgstr "小型船隻"
 
 msgid "OBJECT_NAME_CANNON"
-msgstr "防空砲"
+msgstr "高射砲"
 
 msgid "OBJECT_NAME_CONVOY"
 msgstr "地面部隊"
@@ -184,16 +184,16 @@ msgid "OBJECT_NAME_TRUCKS"
 msgstr "貨車"
 
 msgid "OBJECT_NAME_TURRET1"
-msgstr "防空砲"
+msgstr "高射砲"
 
 msgid "OBJECT_NAME_TURRET_13MM"
-msgstr "防空砲"
+msgstr "高射砲"
 
 msgid "OBJECT_NAME_TURRET_20MM"
-msgstr "防空砲"
+msgstr "高射砲"
 
 msgid "OBJECT_NAME_TURRET_7MM"
-msgstr "防空砲"
+msgstr "高射砲"
 
 msgid "OBJECT_NAME_TURRET_AA"
 msgstr "高射砲"

@@ -256,7 +256,7 @@ msgid "AFTERBATTLE_STATISTICS_LABEL_DAMAGE_DONE"
 msgstr "擊傷"
 
 msgid "AFTERBATTLE_STATISTICS_LABEL_DAMAGE_FROM_AA-GUNS"
-msgstr "被防空砲"
+msgstr "被高射砲"
 
 msgid "AFTERBATTLE_STATISTICS_LABEL_DAMAGE_FROM_ALLIES"
 msgstr "被隊友"
@@ -343,7 +343,7 @@ msgid "AFTERBATTLE_STATISTICS_LABEL_KILLED_BY_COLLISION"
 msgstr "與({name}, {aircraft})碰撞後損毀 "
 
 msgid "AFTERBATTLE_STATISTICS_LABEL_KILLED_BY_ENEMY_AA"
-msgstr "被防空砲擊毀"
+msgstr "被高射砲擊毀"
 
 msgid "AFTERBATTLE_STATISTICS_LABEL_KILLED_BY_GUNNNER"
 msgstr "被({name}, {aircraft})的尾砲擊落"
@@ -618,7 +618,7 @@ msgid "BATTLERESULT_KILLED_BY_GROUND"
 msgstr "撞地墜毀"
 
 msgid "BATTLERESULT_KILLED_BY_TURRET"
-msgstr "被防空砲擊毀"
+msgstr "被高射砲擊毀"
 
 msgid "BATTLERESULT_KILLER_DATA"
 msgstr ""
@@ -672,9 +672,8 @@ msgstr "戰鬥收益"
 msgid "BATTLE_RESULT_ALL_PLANES_EXP"
 msgstr "所有戰機經驗"
 
-#, fuzzy
 msgid "BATTLE_RESULT_ASSISTS"
-msgstr "Assist points"
+msgstr "協助點數"
 
 msgid "BATTLE_RESULT_AVAILABLE_FIRST_SKILL_POINT"
 msgstr "提供第一個技能點"
@@ -682,21 +681,17 @@ msgstr "提供第一個技能點"
 msgid "BATTLE_RESULT_AVAILABLE_NEW_SKILL_POINT"
 msgstr "提供新的技能點"
 
-#, fuzzy
 msgid "BATTLE_RESULT_BATTLE_POINTS"
-msgstr "Combat points"
+msgstr "戰鬥點數"
 
-#, fuzzy
 msgid "BATTLE_RESULT_CAP_POINTS_IN_ATT"
-msgstr "Capture points earned in attack"
+msgstr "攻擊時獲得的佔領點數"
 
-#, fuzzy
 msgid "BATTLE_RESULT_CAP_POINTS_IN_DEF"
-msgstr "Capture points earned in defense"
+msgstr "防守時獲得的佔領點數"
 
-#, fuzzy
 msgid "BATTLE_RESULT_CAP_POINT_RECEIVED"
-msgstr "Capture points received"
+msgstr "獲得佔領點數"
 
 msgid "BATTLE_RESULT_CREDITS"
 msgstr "銀幣"
@@ -708,7 +703,7 @@ msgid "BATTLE_RESULT_DAMAGE_DEALT_TO_PLANES"
 msgstr "對空中目標造成傷害"
 
 msgid "BATTLE_RESULT_DEATH"
-msgstr "玩家被摧毀的時間"
+msgstr "玩家被摧毀的次數"
 
 msgid "BATTLE_RESULT_EARN_EXP_FOR_SKILL_POINT"
 msgstr "{member_name}正在積累經驗，獲得另一個技能點"
@@ -758,7 +753,7 @@ msgid "BATTLE_RESULT_PLANES_DESTROYED_1"
 msgstr "空中目標被摧毀"
 
 msgid "BATTLE_RESULT_PLANES_DESTROYED_IN_DEFENCE"
-msgstr "防守時被摧毀"
+msgstr "防守時摧毀"
 
 msgid "BATTLE_RESULT_PLANE_EXP"
 msgstr "戰機經驗:"
@@ -781,9 +776,8 @@ msgstr "{member_name}已經獲得了新的技能點！"
 msgid "BATTLE_RESULT_REWARD_FOR_BATTLE_QUESTS"
 msgstr "任務獎勵:"
 
-#, fuzzy
 msgid "BATTLE_RESULT_SECTORS_CAPTURED"
-msgstr "Sectors captured"
+msgstr "佔領區域"
 
 msgid "BATTLE_RESULT_TEXT"
 msgstr "戰績："
@@ -825,4 +819,4 @@ msgid "TEAMOBJECT"
 msgstr "摧毀目標："
 
 msgid "TEAMTURRENT"
-msgstr "摧毀防空砲："
+msgstr "摧毀高射砲："
