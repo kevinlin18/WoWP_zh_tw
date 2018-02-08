@@ -256,7 +256,7 @@ msgid "BUTTON_LEAVE_GAME_MODE"
 msgstr "關閉"
 
 msgid "BUTTON_MANUAL_CONFIGURATION"
-msgstr "自定義配置"
+msgstr "自訂配置"
 
 msgid "BUTTON_MINIMIZE"
 msgstr "最小化"
@@ -598,7 +598,7 @@ msgid "CONTEXT_MENU_SELL"
 msgstr "出售"
 
 msgid "CONTEXT_MENU_TOTALY"
-msgstr "共計："
+msgstr "共計"
 
 msgid "CONTEXT_MENU_UNMARK_AS_FAVORITE"
 msgstr "設為備用"
@@ -637,10 +637,10 @@ msgid "COUNTER_SECOND"
 msgstr "秒"
 
 msgid "CREATE_BUTTON"
-msgstr "創建"
+msgstr "建立"
 
 msgid "CREATE_DEV_BUTTON"
-msgstr "創建"
+msgstr "建立"
 
 msgid "CURRENT_LEVEL"
 msgstr "當前等級"
@@ -753,7 +753,7 @@ msgstr ""
 "經驗不足。配置已還原。"
 
 msgid "DIALOG_CHANGE_ROOM_SETTINGS_HEADER"
-msgstr "設定訓練房間"
+msgstr "設定訓練房"
 
 msgid "DIALOG_CHANGE_ROOM_SETTINGS_MESSAGE"
 msgstr ""
@@ -769,7 +769,7 @@ msgid "DIALOG_CONFIGURATION_UNAVAILABLE_MESSAGE"
 msgstr "不能套用{name}：配置不相容！已恢復到當前配置"
 
 msgid "DIALOG_DELETE_TRAINING_ROOM_HEADER"
-msgstr "刪除訓練房間"
+msgstr "刪除訓練房"
 
 msgid "DIALOG_DELETE_TRAINING_ROOM_MESSAGE"
 msgstr "訓練房還有: {numplayers}個玩家，確定要刪除房間嗎？"
@@ -1505,7 +1505,7 @@ msgstr "避免沿直線飛行以躲避敵機砲火。"
 
 msgid "LOBBY_AIRCRAFT_COMPARISON_ENEMY_SPEED_EQUAL_1"
 msgstr ""
-"敵機的速度效能與你相近<br>當你在直線飛行時可嘗試通過加力拉開與敵機之間的距離"
+"敵機的速度效能與你相近<br>當你在直線飛行時可嘗試通過增壓拉開與敵機之間的距離"
 
 msgid "LOBBY_AIRCRAFT_COMPARISON_ENEMY_SPEED_EQUAL_2"
 msgstr " "
@@ -2499,7 +2499,7 @@ msgid "LOBBY_BUY_MISSION"
 msgstr "購買"
 
 msgid "LOBBY_BUY_PLANE_TROOM_NOT_AVAILABLE"
-msgstr "在訓練房間中無法使用"
+msgstr "在訓練房中無法使用"
 
 msgid "LOBBY_BUY_PLANE_WING_NOT_AVAILABLE"
 msgstr "在組隊時無法播放"
@@ -4311,16 +4311,16 @@ msgid "LOBBY_EQUIPMENT_EFFECT_IMPROVED_GUNNER_RANGE_IV"
 msgstr "增加15%的尾砲射擊範圍"
 
 msgid "LOBBY_EQUIPMENT_EFFECT_IMPROVED_RAD_I"
-msgstr "引擎在未加力狀態時的冷卻速度增加30%"
+msgstr "引擎在未增壓狀態時的冷卻速度增加30%"
 
 msgid "LOBBY_EQUIPMENT_EFFECT_IMPROVED_RAD_II"
-msgstr "引擎在未加力狀態時的冷卻速度增加30%"
+msgstr "引擎在未增壓狀態時的冷卻速度增加30%"
 
 msgid "LOBBY_EQUIPMENT_EFFECT_IMPROVED_RAD_III"
-msgstr "引擎在未加力狀態時的冷卻速度增加30%"
+msgstr "引擎在未增壓狀態時的冷卻速度增加30%"
 
 msgid "LOBBY_EQUIPMENT_EFFECT_IMPROVED_RAD_IV"
-msgstr "引擎在未加力狀態時的冷卻速度增加30%"
+msgstr "引擎在未增壓狀態時的冷卻速度增加30%"
 
 msgid "LOBBY_EQUIPMENT_EFFECT_LIGHT_HULL_I"
 msgstr "各軸向上的機動性增加3%"
@@ -4666,7 +4666,7 @@ msgid "LOBBY_EVENTS_CONTEXT_DISCOUNTS_CAMOS_TYPE_PURCHASE"
 msgstr "購買 {camo_type} 塗裝"
 
 msgid "LOBBY_EVENTS_CONTEXT_DISCOUNTS_CLAN_CREATION"
-msgstr "創建軍團"
+msgstr "建立軍團"
 
 msgid "LOBBY_EVENTS_CONTEXT_DISCOUNTS_COMPLEX_EQUIPMENT_DISMOUNT"
 msgstr "拆卸複雜配件"
@@ -4805,7 +4805,7 @@ msgid "LOBBY_EVENTS_STATUS_REFRESHING"
 msgstr "更新活動列表…"
 
 msgid "LOBBY_EVENT_BUTTON_BUY_TICKETS"
-msgstr "購買兌換券"
+msgstr "購買令牌"
 
 msgid "LOBBY_EVENT_BUTTON_EVENT_SHOP"
 msgstr "檢視折扣商品"
@@ -4817,13 +4817,13 @@ msgid "LOBBY_EVENT_BUTTON_EXCHANGE_GOLD_CH"
 msgstr "兌換銀幣"
 
 msgid "LOBBY_EVENT_BUTTON_EXCHANGE_TICKETS"
-msgstr "金幣兌換為兌換券"
+msgstr "金幣兌換為令牌"
 
 msgid "LOBBY_EVENT_BUTTON_EXCHANGE_TICKETS_1"
 msgstr "使用銀幣兌換令牌"
 
 msgid "LOBBY_EVENT_BUTTON_EXCHANGE_TICKETS_CH"
-msgstr "銀幣兌換為兌換券"
+msgstr "銀幣兌換為令牌"
 
 msgid "LOBBY_EVENT_BUTTON_GET_PRIZES"
 msgstr "獲取獎勵"
@@ -4848,7 +4848,7 @@ msgid "LOBBY_EVENT_BUTTON_SELL_TICKETS"
 msgstr "販賣令牌"
 
 msgid "LOBBY_EVENT_BUTTON_USE_TICKET"
-msgstr "兌換券抽獎"
+msgstr "令牌抽獎"
 
 msgid "LOBBY_EVENT_CATEGORY_EVENT_SHOP"
 msgstr "折扣商品"
@@ -4857,7 +4857,7 @@ msgid "LOBBY_EVENT_CATEGORY_EXCHANGE"
 msgstr "兌換"
 
 msgid "LOBBY_EVENT_CATEGORY_TICKETS"
-msgstr "兌換券"
+msgstr "令牌"
 
 msgid "LOBBY_EVENT_CONTEXT_ALL_QUESTS"
 msgstr "所有任務"
@@ -4887,16 +4887,16 @@ msgid "LOBBY_EVENT_CONTEXT_MY_QUESTS"
 msgstr "您的任務:"
 
 msgid "LOBBY_EVENT_CONTEXT_MY_TICKETS"
-msgstr "您的兌換券: "
+msgstr "您的令牌: "
 
 msgid "LOBBY_EVENT_CONTEXT_NEW"
 msgstr "最新"
 
 msgid "LOBBY_EVENT_CONTEXT_NO_DISCOUNTS_YET"
-msgstr "沒有收到折扣優惠。<br>使用兌換券獲取折扣優惠。"
+msgstr "沒有收到折扣優惠。<br>使用令牌獲取折扣優惠。"
 
 msgid "LOBBY_EVENT_CONTEXT_PLANES_FOR_TICKETS"
-msgstr "該戰機可使用兌換券購買"
+msgstr "該戰機可使用令牌購買"
 
 msgid "LOBBY_EVENT_CONTEXT_YOUR_PREMIUM_PLANES_DISCOUNTS"
 msgstr "您購買加值戰機時將享有優惠折扣"
@@ -4938,10 +4938,10 @@ msgid "LOBBY_EVENT_HEADER_SPECIAL_NAME_WINTER"
 msgstr "新年活動：冬季戰役"
 
 msgid "LOBBY_EVENT_HEADER_TICKETS"
-msgstr "兌換券"
+msgstr "令牌"
 
 msgid "LOBBY_EVENT_HEADER_TICKETS_EXCHANGE"
-msgstr "使用兌換券"
+msgstr "使用令牌"
 
 msgid "LOBBY_EVENT_MESSAGE_ACCURACY_EQUIPMENT_AD"
 msgstr "提高射擊精度<br>特殊配件!"
@@ -4959,7 +4959,7 @@ msgid "LOBBY_EVENT_MESSAGE_AGILITY_EQUIPMENT_MORE"
 msgstr "優化引擎<br>機體拋光<br>光面蒙皮"
 
 msgid "LOBBY_EVENT_MESSAGE_BUY_TICKETS_FOR_GOLD"
-msgstr "需要更多兌換券?"
+msgstr "需要更多令牌?"
 
 msgid "LOBBY_EVENT_MESSAGE_BUY_TICKETS_FOR_GOLD_1"
 msgstr "使用金幣購買!"
@@ -4998,22 +4998,22 @@ msgid "LOBBY_EVENT_MESSAGE_DURABILITY_EQUIPMENT_MORE"
 msgstr "增強蒙皮<br>裝甲玻璃<br>附加裝甲板"
 
 msgid "LOBBY_EVENT_MESSAGE_EARN_TICKETS_WITH_QUESTS"
-msgstr "通過完成任務獲得兌換券"
+msgstr "通過完成任務獲得令牌"
 
 msgid "LOBBY_EVENT_MESSAGE_EMBLEMS_AD"
 msgstr "別具一格的外觀<br>稀有徽章圖案!"
 
 msgid "LOBBY_EVENT_MESSAGE_END_IS_NEAR"
 msgstr ""
-"飛行員! 特別活動臨近尾聲，活動結束後加值戰機將不能再使用兌換券購買，而您所剩"
-"餘的未使用兌換券將會全部兌換為銀幣。"
+"飛行員! 特別活動臨近尾聲，活動結束後加值戰機將不能再使用令牌購買，而您所剩"
+"餘的未使用令牌將會全部兌換為銀幣。"
 
 msgid "LOBBY_EVENT_MESSAGE_END_IS_NEAR1"
 msgstr ""
 "飛行員!連鎖閃電系列活動即將結束，活動結束後您尚未使用的令牌將被轉換為金幣"
 
 msgid "LOBBY_EVENT_MESSAGE_END_IS_NEAR_CH"
-msgstr "飛行員! 特別活動臨近尾聲，未使用的兌換券將會全部兌換為銀幣。"
+msgstr "飛行員! 特別活動臨近尾聲，未使用的令牌將會全部兌換為銀幣。"
 
 msgid "LOBBY_EVENT_MESSAGE_END_IS_NEAR_WARCASH"
 msgstr ""
@@ -5033,10 +5033,10 @@ msgid "LOBBY_EVENT_MESSAGE_GET_PRIZES_AND_DISCOUNTS"
 msgstr "獲得特別的獎勵和享受加值戰機優惠折扣"
 
 msgid "LOBBY_EVENT_MESSAGE_GET_PRIZES_FOR_TICKETS"
-msgstr "獲得獎勵和兌換券"
+msgstr "獲得獎勵和令牌"
 
 msgid "LOBBY_EVENT_MESSAGE_GET_TICKETS_FOR_QUESTS"
-msgstr "完成任務並獲得兌換券"
+msgstr "完成任務並獲得令牌"
 
 msgid "LOBBY_EVENT_MESSAGE_NEW_EQUIPMENT_AD"
 msgstr "增加機體負荷承受力<br>附加配件!"
@@ -5045,19 +5045,19 @@ msgid "LOBBY_EVENT_MESSAGE_NOSEART_AD"
 msgstr "為你的戰機<br>贏得與眾不同的個性化塗裝!"
 
 msgid "LOBBY_EVENT_MESSAGE_PREM_PLANE_FOR_TICKETS"
-msgstr "特別的加值戰機<br>現在可使用兌換券進行購買!"
+msgstr "特別的加值戰機<br>現在可使用令牌進行購買!"
 
 msgid "LOBBY_EVENT_MESSAGE_PREM_PLANE_FOR_TICKETS_NOT_FOUND"
-msgstr "沒有可使用兌換券購買的戰機"
+msgstr "沒有可使用令牌購買的戰機"
 
 msgid "LOBBY_EVENT_MESSAGE_QUESTS_AND_TICKETS"
 msgstr "完成任務"
 
 msgid "LOBBY_EVENT_MESSAGE_QUESTS_AND_TICKETS_1"
-msgstr "獲取兌換券"
+msgstr "獲取令牌"
 
 msgid "LOBBY_EVENT_MESSAGE_RESULT_OF_EXCHANGE"
-msgstr "使用兌換券"
+msgstr "使用令牌"
 
 msgid "LOBBY_EVENT_MESSAGE_START_WARCASH"
 msgstr ""
@@ -5066,26 +5066,26 @@ msgstr ""
 
 msgid "LOBBY_EVENT_MESSAGE_TICKETS_EXCHANGE"
 msgstr ""
-"活動現已結束,加值戰機已不能使用兌換券購買,您可在商店中使用金幣購買這些戰機,您"
-"尚未使用的兌換券已被兌換為銀幣"
+"活動現已結束,加值戰機已不能使用令牌購買,您可在商店中使用金幣購買這些戰機,您"
+"尚未使用的令牌已被兌換為銀幣"
 
 msgid "LOBBY_EVENT_MESSAGE_TICKETS_EXCHANGE_CH"
-msgstr "活動現已結束，您尚未使用的兌換券已被兌換為銀幣。"
+msgstr "活動現已結束，您尚未使用的令牌已被兌換為銀幣。"
 
 msgid "LOBBY_EVENT_MESSAGE_TICKETS_NEEDED_FOR_PRIZES"
-msgstr "贏得兌換券來兌換獎勵"
+msgstr "贏得令牌來兌換獎勵"
 
 msgid "LOBBY_EVENT_MESSAGE_UNIQUE_PLANES"
 msgstr "提升你的飛行員的能力<br>並獲得銀幣<br>在特別的戰機中!"
 
 msgid "LOBBY_EVENT_MESSAGE_USE_TICKETS_WIN_DISCOUNT_PR_PLANES"
-msgstr "沒有購買折扣優惠也沒有戰機可使用兌換券購買<br>使用兌換券獲取折扣優惠"
+msgstr "沒有購買折扣優惠也沒有戰機可使用令牌購買<br>使用令牌獲取折扣優惠"
 
 msgid "LOBBY_EVENT_MESSAGE_USE_TICKETS_WIN_DISCOUNT_PR_PLANES_CH"
-msgstr "沒有收到折扣優惠。<br>使用兌換券獲取折扣優惠。"
+msgstr "沒有收到折扣優惠。<br>使用令牌獲取折扣優惠。"
 
 msgid "LOBBY_EVENT_MESSAGE_USE_TICKETS_WIN_PRIZES"
-msgstr "點選“兌換券抽獎”按鈕，獲取豐厚獎勵"
+msgstr "點選“令牌抽獎”按鈕，獲取豐厚獎勵"
 
 #, fuzzy
 msgid "LOBBY_EVENT_NAME_NINE_DAYS_OF_DUNKIRK"
@@ -5104,10 +5104,10 @@ msgid "LOBBY_EVENT_NEW_HAPPYB_PLANE"
 msgstr "戰機週年慶"
 
 msgid "LOBBY_EVENT_NEW_QUESTS_AND_WIN_PR_8"
-msgstr "完成任務，獲取兌換券，<br>並獲得全新戰機"
+msgstr "完成任務，獲取令牌，<br>並獲得全新戰機"
 
 msgid "LOBBY_EVENT_NEW_QUESTS_AND_WIN_PR_8_CH"
-msgstr "完成任務，獲取兌換券。"
+msgstr "完成任務，獲取令牌。"
 
 msgid "LOBBY_EVENT_NY_AVALIABLE_BUTTON_EXCHANGE_TICKETS"
 msgstr "飛行員！現在，您可以使用銀幣兌換令牌。此功能將一直持續到該活動結束後。"
@@ -5131,13 +5131,13 @@ msgid "LOBBY_EVENT_TICKETS"
 msgstr "令牌："
 
 msgid "LOBBY_EVENT_TICKETS_MESSAGE1"
-msgstr "使用金幣兌換兌換券"
+msgstr "使用金幣兌換令牌"
 
 msgid "LOBBY_EVENT_TICKETS_MESSAGE2"
-msgstr "使用兌換券來獲得新消耗品和優惠折扣!"
+msgstr "使用令牌來獲得新消耗品和優惠折扣!"
 
 msgid "LOBBY_EVENT_TICKETS_MESSAGE_CH"
-msgstr "使用銀幣兌換兌換券"
+msgstr "使用銀幣兌換令牌"
 
 msgid "LOBBY_EVENT_WINDOW_TEXT_BIRTHDAY_EVENT"
 msgstr ""
@@ -5148,7 +5148,7 @@ msgstr "我們將提供新的8級加值戰機, 新的配件消耗品, 以及特�
 
 msgid "LOBBY_EVENT_WINDOW_TEXT_TICKET_EVENT"
 msgstr ""
-"活動臨近結束! 在活動進行時間內獲得的兌換券可用於購買加值戰機, 新的配件與消耗"
+"活動臨近結束! 在活動進行時間內獲得的令牌可用於購買加值戰機, 新的配件與消耗"
 "品, 以及特別的徽章和塗裝方案!"
 
 msgid "LOBBY_EXCHANGE_GOLD_HEADER_OVERLIMIT"
@@ -5440,13 +5440,11 @@ msgstr "Check out the new intimidatingly awesome paint schemes and nose art."
 msgid "LOBBY_HEADER_NEW_POSTER_CREW_TEXT_1"
 msgstr "CREW IS ALL-IMPORTANT IN A PLANE!"
 
-#, fuzzy
 msgid "LOBBY_HEADER_NEW_POSTER_CREW_TEXT_2"
-msgstr "Use Free Experience to train your crew."
+msgstr "使用自由經驗訓練乘員。"
 
-#, fuzzy
 msgid "LOBBY_HEADER_TRAINING_FREE_EXP"
-msgstr "Train With Free Experience"
+msgstr "使用自由經驗訓練"
 
 msgid "LOBBY_HEADER_WARNING"
 msgstr "警告！"
@@ -11641,7 +11639,7 @@ msgstr "節日裝飾 (P-36)"
 
 msgid "LOBBY_QUESTS_NY_QUEST_WING_COLOURS_DESCRIPTION"
 msgstr ""
-"創建或加入編隊，並使用有節日塗裝的戰機參與5場標準戰鬥或人機對戰，節日塗裝包括"
+"建立或加入編隊，並使用有節日塗裝的戰機參與5場標準戰鬥或人機對戰，節日塗裝包括"
 "塗裝、機首圖案和徽章"
 
 msgid "LOBBY_QUESTS_NY_QUEST_WING_COLOURS_NAME"
@@ -11848,7 +11846,7 @@ msgid "LOBBY_QUESTS_REWARD_TICKETS_MANY"
 msgstr "{number}"
 
 msgid "LOBBY_QUESTS_REWARD_TICKET_ONE"
-msgstr "1兌換券"
+msgstr "1令牌"
 
 msgid "LOBBY_QUESTS_REWARD_TRIPLE_PLANE_XP_CREDITS"
 msgstr "{plane_name}: 三倍經驗和銀幣收益"
@@ -12227,17 +12225,14 @@ msgstr "Open loot crates and collect bomber parts!"
 msgid "LOBBY_RULE_BOMBER_EVENT_3"
 msgstr "Collect all parts to get a bomber for free!"
 
-#, fuzzy
 msgid "LOBBY_RULE_GAMEMODE_1"
-msgstr "Destroy the enemy!"
+msgstr "消滅敵軍！"
 
-#, fuzzy
 msgid "LOBBY_RULE_GAMEMODE_2"
-msgstr "Capture territories!"
+msgstr "攻佔領土！"
 
-#, fuzzy
 msgid "LOBBY_RULE_GAMEMODE_3"
-msgstr "Hold them to win!"
+msgstr "守住以獲得勝利！"
 
 #, fuzzy
 msgid "LOBBY_SECRET_PROJECT_BANNER_TEXT_1"
@@ -12924,27 +12919,21 @@ msgstr ""
 "<font color='#{colorID}'>Combat points</font> are earned for being actively "
 "involved in the action"
 
-#, fuzzy
 msgid "LOBBY_TUTORIAL_BANNER_TEXT_11"
 msgstr ""
-"Carry out combat reconnaissance to earn <font color='#{colorID}'>1,000 gold</"
-"font>!"
+"完成「戰鬥偵察」賺取 <font color='#{colorID}'>1000 枚金幣</font>！"
 
-#, fuzzy
 msgid "LOBBY_TUTORIAL_BANNER_TEXT_12"
-msgstr "Stage \"Combat Reconnaissance\" completed!"
+msgstr "「戰鬥偵察」階段已完成！"
 
-#, fuzzy
 msgid "LOBBY_TUTORIAL_BANNER_TEXT_12_1"
-msgstr "Proceed to the next stage!"
+msgstr "前往下一個階段！"
 
-#, fuzzy
 msgid "LOBBY_TUTORIAL_BANNER_TEXT_13"
-msgstr "Congratulations!"
+msgstr "恭喜！"
 
-#, fuzzy
 msgid "LOBBY_TUTORIAL_BANNER_TEXT_13_1"
-msgstr "Combat reconnaissance successfully carried out!"
+msgstr "戰鬥偵察已成功地完成！"
 
 #, fuzzy
 msgid "LOBBY_TUTORIAL_BANNER_TEXT_14"
@@ -12964,17 +12953,15 @@ msgstr ""
 "Mastery points are converted to <b><font color='#{colorID}'>experience</"
 "font></b> at the end of a battle"
 
-#, fuzzy
 msgid "LOBBY_TUTORIAL_BANNER_TEXT_17"
-msgstr "Enemy aircraft and ground targets are indicated by red markers"
+msgstr "敵方戰機和地面目標以紅色標記表示"
 
-#, fuzzy
 msgid "LOBBY_TUTORIAL_BANNER_TEXT_18"
-msgstr "Achieve maximum influence to score victory!"
+msgstr "取得最多影響力以取得勝利！"
 
 #, fuzzy
 msgid "LOBBY_TUTORIAL_BANNER_TEXT_2"
-msgstr "Control over sectors increases your influence in the area of operation"
+msgstr "控制分區以增加你在任務區域的影響力"
 
 #, fuzzy
 msgid "LOBBY_TUTORIAL_BANNER_TEXT_3"
@@ -13042,15 +13029,12 @@ msgstr ""
 "Destroy at least 3 air defense aircraft in a single battle.<br>Total number "
 "of battles required to complete the mission: 3."
 
-#, fuzzy
 msgid "LOBBY_TUTORIAL_QUEST_2_NAME"
-msgstr "Lay waste to ground targets!"
+msgstr "破壞地面目標！"
 
-#, fuzzy
 msgid "LOBBY_TUTORIAL_QUEST_2_TEXT_1"
 msgstr ""
-"Destroy at least 3 ground targets.<br>Total number of battles required to "
-"complete the mission: 3."
+"摧毀至少 3 座地面目標。<br>完成任務所需次數: 3"
 
 #, fuzzy
 msgid "LOBBY_TUTORIAL_QUEST_2_TEXT_2"
@@ -13133,7 +13117,7 @@ msgstr ""
 
 #, fuzzy
 msgid "LOBBY_TUTORIAL_QUEST_HEADER"
-msgstr "Combat Reconnaissance"
+msgstr "戰鬥偵察"
 
 msgid "LOBBY_UNDERCARRIAGE"
 msgstr "起落架"
@@ -13320,7 +13304,7 @@ msgstr "無需修理"
 
 msgid "MANUAL_CONFIGURATION_"
 msgstr ""
-"已經有一個自定義配置，儲存新的配置會替換原有自定義配置並恢復至預設裝備，確定"
+"已經有一個自訂配置，儲存新的配置會替換原有自訂配置並恢復至預設裝備，確定"
 "要儲存嗎？"
 
 msgid "MANUAL_CONFIGURATION_BUTTON_SAVE_CONFIG"
@@ -13333,19 +13317,19 @@ msgid "MANUAL_CONFIGURATION_MAKE_USING_CONFIG"
 msgstr "基於配置："
 
 msgid "MANUAL_CONFIGURATION_OVERWRITE_CONFIG_CONFIRMATION_TEXT"
-msgstr "已經有一個自定義配置，儲存新的配置會替換原有自定義配置，確定要儲存嗎？"
+msgstr "已經有一個自訂配置，儲存新的配置會替換原有自訂配置，確定要儲存嗎？"
 
 msgid "MANUAL_CONFIGURATION_OVERWRITE_CONFIG_INTALL_DEFAULT_CONFIRMATION_TEXT"
-msgstr "自定義配置"
+msgstr "自訂配置"
 
 msgid "MANUAL_CONFIGURATION_USER_CONFIG"
-msgstr "自定義"
+msgstr "自訂"
 
 msgid "MANUAL_CONFIGURATION_YOUR_CONFIG_MATCHES_PRESET"
 msgstr "新配置與預設配置 {name}一樣"
 
 msgid "MANUAL_CONFIG_EDIT_MANUAL_CONFIGURATION"
-msgstr "修改自定義配置"
+msgstr "修改自訂配置"
 
 msgid "MANUAL_CONFIG_INSTALLATION_REQUIRES"
 msgstr "首先需要研發並且購買"
@@ -13637,7 +13621,7 @@ msgid "MODULES_CHARACTERISTICS_INSTALLED"
 msgstr "已安裝"
 
 msgid "MODULES_CHARACTERISTICS_JET"
-msgstr "衝壓噴氣引擎"
+msgstr "衝壓噴射引擎"
 
 msgid "MODULES_CHARACTERISTICS_LEVEL"
 msgstr "等級"
@@ -13664,7 +13648,7 @@ msgid "MODULES_CHARACTERISTICS_PTS"
 msgstr "數量"
 
 msgid "MODULES_CHARACTERISTICS_RAMJET"
-msgstr "衝壓噴氣引擎"
+msgstr "衝壓噴射引擎"
 
 msgid "MODULES_CHARACTERISTICS_RATE_OF_FIRE"
 msgstr "射速"
@@ -13673,7 +13657,7 @@ msgid "MODULES_CHARACTERISTICS_RATE_OF_FIRE_UNITS"
 msgstr ", 發/分鐘"
 
 msgid "MODULES_CHARACTERISTICS_ROCKET"
-msgstr "火箭噴氣引擎"
+msgstr "火箭噴射引擎"
 
 msgid "MODULES_CHARACTERISTICS_ROCKETS_IN_A_SALVO"
 msgstr "發射火箭的數量"
@@ -14218,7 +14202,7 @@ msgid "TRAINING_ROOMS_BUTTON_FILL_BOTS"
 msgstr "自動新增AI"
 
 msgid "TRAINING_ROOMS_CAN_JOIN"
-msgstr "可進入的訓練房間"
+msgstr "可進入的訓練房"
 
 msgid "TRAINING_ROOMS_CHANGE"
 msgstr "修改房間設定"
@@ -14230,13 +14214,13 @@ msgid "TRAINING_ROOMS_CHOOSE_BOT_LEVEL"
 msgstr "技能等級:"
 
 msgid "TRAINING_ROOMS_CREATE"
-msgstr "創建房間"
+msgstr "建立房間"
 
 msgid "TRAINING_ROOMS_CREATE_NAME"
-msgstr "創建訓練房間名稱"
+msgstr "建立訓練房名稱"
 
 msgid "TRAINING_ROOMS_CREATE_NEXT"
-msgstr "創建"
+msgstr "建立"
 
 msgid "TRAINING_ROOMS_CREATE_TOOLTIP"
 msgstr "選擇一張地圖，設定戰鬥參數"
@@ -14248,19 +14232,19 @@ msgid "TRAINING_ROOMS_DURATION"
 msgstr "戰鬥持續時間"
 
 msgid "TRAINING_ROOMS_ENTER_NAME"
-msgstr "輸入訓練房間的說明"
+msgstr "輸入訓練房的說明"
 
 msgid "TRAINING_ROOMS_FIGHT_TYPE"
 msgstr "遊戲模式:"
 
 msgid "TRAINING_ROOMS_FILTER_TOOLTIP"
-msgstr "篩選設定無法使用<br>因為該設定與此訓練房間的限制設定相沖突"
+msgstr "篩選設定無法使用<br>因為該設定與此訓練房的限制設定相沖突"
 
 msgid "TRAINING_ROOMS_FOREVER_ALONE"
 msgstr "單人模式"
 
 msgid "TRAINING_ROOMS_INSIDE_NAME"
-msgstr "訓練房間"
+msgstr "訓練房"
 
 msgid "TRAINING_ROOMS_IN_BATTLE"
 msgstr "在戰鬥中的房間"
@@ -14296,22 +14280,22 @@ msgid "TRAINING_ROOMS_MSG_ERROR_FAILED_TO_CREATE_ARENA"
 msgstr "無法開始戰鬥，請稍後再試。"
 
 msgid "TRAINING_ROOMS_MSG_ERROR_INCOMPLETE_CREW"
-msgstr "您的乘員不足，不能進入訓練房間。"
+msgstr "您的乘員不足，不能進入訓練房。"
 
 msgid "TRAINING_ROOMS_MSG_ERROR_NEED_REFILL"
-msgstr "不能進入訓練房間: 請補充彈藥"
+msgstr "不能進入訓練房: 請補充彈藥"
 
 msgid "TRAINING_ROOMS_MSG_ERROR_NEED_REPAIR"
-msgstr "您的戰機未進行維修，不能進入訓練房間。"
+msgstr "您的戰機未進行維修，不能進入訓練房。"
 
 msgid "TRAINING_ROOMS_MSG_ERROR_NOT_READY"
 msgstr "伺服器正忙，請稍後再試一次。"
 
 msgid "TRAINING_ROOMS_MSG_ERROR_ROOM_DELETED"
-msgstr "不能進入訓練房間: 房間已被刪除"
+msgstr "不能進入訓練房: 房間已被刪除"
 
 msgid "TRAINING_ROOMS_MSG_ERROR_USER_LIMIT"
-msgstr "不能進入訓練房間: 房間人數已滿"
+msgstr "不能進入訓練房: 房間人數已滿"
 
 msgid "TRAINING_ROOMS_NAME"
 msgstr "訓練模式"
@@ -14329,7 +14313,7 @@ msgid "TRAINING_ROOMS_RENEW"
 msgstr "重新整理"
 
 msgid "TRAINING_ROOMS_ROOM_SETTINGS"
-msgstr "訓練房間參數設定"
+msgstr "訓練房參數設定"
 
 msgid "TRAINING_ROOMS_SEARCH"
 msgstr "搜尋房間"
@@ -14362,7 +14346,7 @@ msgid "TRAINING_ROOMS_TIME"
 msgstr "戰鬥時間"
 
 msgid "TRAINING_ROOMS_TOOLTIP"
-msgstr "選擇加入一個房間或者創建自己的房間"
+msgstr "選擇加入一個房間或者建立自己的房間"
 
 msgid "TRAINING_ROOMS_VOICE_CHAT"
 msgstr "語音聊天:"
@@ -14568,7 +14552,7 @@ msgid "WING_BUTTON_DELETE_WING"
 msgstr "解散編隊"
 
 msgid "WING_BUTTON_DONT_CREATE_WING"
-msgstr "不創建編隊"
+msgstr "不建立編隊"
 
 msgid "WING_BUTTON_FIND_PLAYER"
 msgstr "查詢玩家"
@@ -14730,7 +14714,7 @@ msgid "WING_MESSAGE_CONFIRM_LEAVE_GAME_MODE"
 msgstr "你需要退出 {name}模式以加入編隊，是否繼續?"
 
 msgid "WING_MESSAGE_CONFIRM_WING_CHANGE"
-msgstr "您已經創建了一個編隊，確定接受邀請進入新編隊並刪除現有編隊嗎？"
+msgstr "您已經建立了一個編隊，確定接受邀請進入新編隊並刪除現有編隊嗎？"
 
 msgid "WING_MESSAGE_CONFIRM_WING_CHANGE_MEMBER"
 msgstr "確定離開 {name1}編隊並且 加入{name2}編隊?"
@@ -14751,7 +14735,7 @@ msgid "WING_MESSAGE_NEED_TO_PURCHASE_PREMIUM"
 msgstr "購買加值帳號可邀請兩個好友"
 
 msgid "WING_MESSAGE_NO_FRIENDS_ONLINE"
-msgstr "所有好友均不線上，如要創建編隊，請新增新的好友或使用自動搜尋組隊"
+msgstr "所有好友均不線上，如要建立編隊，請新增新的好友或使用自動搜尋組隊"
 
 msgid "WING_MESSAGE_PLAYER_INVITED_TO_WING"
 msgstr ""
@@ -14780,7 +14764,7 @@ msgid "WING_MESSAGE_PLEYER_KICKED_YOU_FROM_WING"
 msgstr "玩家{name} 將您從編隊中開除"
 
 msgid "WING_MESSAGE_PREMIUM_NEEDED"
-msgstr "只有高階使用者能創建3人編隊"
+msgstr "只有高階使用者能建立3人編隊"
 
 msgid "WING_MESSAGE_WAITING_LEADER_DESIGION"
 msgstr "等待隊長響應……"

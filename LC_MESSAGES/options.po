@@ -10,7 +10,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "ADVANCED_CONTROLS"
-msgstr "更多設定"
+msgstr "進階設定"
 
 msgid "AIRCRAFT_QUALITY_HIGH"
 msgstr "高效能"
@@ -166,22 +166,22 @@ msgid "CONTROL_PROFILE_FREE"
 msgstr "自由視角模式"
 
 msgid "CONTROL_PROFILE_GAMEPAD"
-msgstr "手柄"
+msgstr "手把"
 
 msgid "CONTROL_PROFILE_GAMEPAD_CAPS"
-msgstr "手柄"
+msgstr "手把"
 
 msgid "CONTROL_PROFILE_GAMEPAD_DIRECT_CONTROL"
-msgstr "手柄"
+msgstr "手把"
 
 msgid "CONTROL_PROFILE_GAMEPAD_DIRECT_CONTROL_CAPS"
-msgstr "手柄"
+msgstr "手把"
 
 msgid "CONTROL_PROFILE_GAMEPAD_GRAPH_DESCRIPTION"
 msgstr " "
 
 msgid "CONTROL_PROFILE_GAMEPAD_NAME"
-msgstr "手柄控制預設 \"%gamepad_name%\""
+msgstr "手把控制預設 \"%gamepad_name%\""
 
 msgid "CONTROL_PROFILE_JOYSTICK"
 msgstr "搖桿"
@@ -223,7 +223,7 @@ msgid "CONTROL_PROFILE_MOUSESHOOTER"
 msgstr "射擊滑鼠"
 
 msgid "CONTROL_PROFILE_MOUSE_ADVANCED"
-msgstr "滑鼠：高階"
+msgstr "滑鼠：高手"
 
 msgid "CONTROL_PROFILE_MOUSE_CASUAL"
 msgstr "滑鼠：新手"
@@ -260,7 +260,7 @@ msgstr ""
 "應於較小的滑鼠操作，右側對應較大的操作。"
 
 msgid "CUSTOM"
-msgstr "自定義"
+msgstr "自訂"
 
 msgid "DEFAULT"
 msgstr "標準"
@@ -278,13 +278,13 @@ msgid "FULL_SCREEN_TOGGLE"
 msgstr "全螢幕模式"
 
 msgid "GAMEPAD"
-msgstr "手柄"
+msgstr "手把"
 
 msgid "GAMEPAD_AXIS_SETTINGS"
-msgstr "調整手柄曲線"
+msgstr "調整手把曲線"
 
 msgid "GAMEPAD_SETTINGS_HEADER"
-msgstr "高階手柄設定"
+msgstr "高階手把設定"
 
 msgid "GAME_SETTINGS"
 msgstr "遊戲"
@@ -317,7 +317,7 @@ msgid "JOYSTICK_SETTINGS_AXIS_SIGNAL_INDICATOR"
 msgstr "軸訊號指示器"
 
 msgid "JOYSTICK_SETTINGS_BOOST"
-msgstr "加力"
+msgstr "增壓"
 
 msgid "JOYSTICK_SETTINGS_CURRENT_AXIS"
 msgstr "當前軸："
@@ -335,10 +335,10 @@ msgid "JOYSTICK_SETTINGS_CURVE_SETTINGS_PATTERN_LINEAR"
 msgstr "線性"
 
 msgid "JOYSTICK_SETTINGS_CURVE_SETTINGS_PATTERN_PERSONAL"
-msgstr "自定義"
+msgstr "自訂"
 
 msgid "JOYSTICK_SETTINGS_CURVE_SETTINGS_PATTERN_PERSONAL_EXT"
-msgstr "自定義高階設定"
+msgstr "自訂高階設定"
 
 msgid "JOYSTICK_SETTINGS_DEAD_ZONE"
 msgstr "死區："
@@ -401,7 +401,7 @@ msgid "JOYSTICK_SETTINGS_THRUST"
 msgstr "推力"
 
 msgid "JOYSTICK_SETTINGS_THRUST_AND_BOOST"
-msgstr "推力和加力"
+msgstr "推力和增壓"
 
 msgid "JOYSTICK_SETTINGS_YAW"
 msgstr "轉向"
@@ -512,7 +512,7 @@ msgid "KEYMAPPING/CMD_HIDE_SHOW_HUD"
 msgstr "隱藏/顯示介面"
 
 msgid "KEYMAPPING/CMD_INCREASE_FORCE"
-msgstr "加力"
+msgstr "增壓"
 
 msgid "KEYMAPPING/CMD_INC_TARGET_FORCE"
 msgstr "增加油門"
@@ -910,7 +910,7 @@ msgid "SETTINGS_ALTIMETER_DROPDOWN_MENU_VARIANT_RADIO"
 msgstr "相對高度"
 
 msgid "SETTINGS_ANTIALIAS"
-msgstr "抗鋸齒"
+msgstr "反鋸齒"
 
 msgid "SETTINGS_APPLY_BUTTON"
 msgstr "套用"
@@ -1156,16 +1156,16 @@ msgid "SETTINGS_CB_ENABLE_POST_DEATH"
 msgstr "在死亡模式中啟用後效應"
 
 msgid "SETTINGS_CB_MSG_DATE"
-msgstr "在郵件中顯示日期"
+msgstr "在訊息中顯示日期"
 
 msgid "SETTINGS_CB_MSG_TIME"
-msgstr "在郵件中顯示時間"
+msgstr "在訊息中顯示時間"
 
 msgid "SETTINGS_CB_PLAYER_CONN"
 msgstr "當使用者連線/斷開時通知"
 
 msgid "SETTINGS_CB_SAVE_CHANNEL_WINDOW"
-msgstr "儲存通道視窗的位置和大小"
+msgstr "儲存頻道視窗的位置和大小"
 
 msgid "SETTINGS_CB_SAVE_OTHER_WINDOWS"
 msgstr "儲存其他視窗的位置和大小"
@@ -1219,7 +1219,7 @@ msgid "SETTINGS_CHECKBOX_SHOW_DEVICE_BARS"
 msgstr "最佳範圍指示器"
 
 msgid "SETTINGS_CHECKBOX_SHOW_HP_AND_BOOST"
-msgstr "生命值和加力指示器"
+msgstr "生命值和增壓指示器"
 
 msgid "SETTINGS_CHECKBOX_SIGNAL_WHEN_IN_EFFECTIVE_RANGE"
 msgstr "顯示最佳射擊範圍"
@@ -1252,7 +1252,7 @@ msgid "SETTINGS_CONTEXT_EXTENDED_SETTING"
 msgstr "<br>高階設定"
 
 msgid "SETTINGS_CONTEXT_GAMEPAD_SETTING_PERSONAL"
-msgstr "自定義"
+msgstr "自訂"
 
 msgid "SETTINGS_CONTEXT_GRAPH_INPUT_SIGNAL"
 msgstr "輸入訊號"
@@ -1261,10 +1261,10 @@ msgid "SETTINGS_CONTEXT_GRAPH_OUTPUT_SIGNAL"
 msgstr "輸出訊號"
 
 msgid "SETTINGS_CONTEXT_JOYSTICK_SETTING_PERSONAL"
-msgstr "自定義"
+msgstr "自訂"
 
 msgid "SETTINGS_CONTEXT_MOUSE_SETTING_PERSONAL"
-msgstr "自定義"
+msgstr "自訂"
 
 msgid "SETTINGS_CONTEXT_NOT_ASSIGNED"
 msgstr "(未分配)"
@@ -1285,13 +1285,13 @@ msgid "SETTINGS_DEFAULT_MODE_MOUSE"
 msgstr "預設滑鼠模式："
 
 msgid "SETTINGS_DESCRIPTION_CAMERA_PLANE_SCREEN"
-msgstr "在這裡您可選擇滑鼠預設模式或對設定進行自定義修改"
+msgstr "在這裡您可選擇滑鼠預設模式或對設定進行自訂修改"
 
 msgid "SETTINGS_DESCRIPTION_YAW_PITCH_MIX_SCREEN"
 msgstr "在這裡您可以調整戰機在偏轉、俯仰和瞄準時的相關設定"
 
 msgid "SETTINGS_DEVICE_GAMEPAD_TYPE"
-msgstr "手柄類型："
+msgstr "手把類型："
 
 msgid "SETTINGS_DEVICE_JOYSTICK_TYPE"
 msgstr "搖桿類型："
@@ -1303,7 +1303,7 @@ msgid "SETTINGS_DEVICE_TYPE_USER_DEFINED"
 msgstr "使用者"
 
 msgid "SETTINGS_DEVICE_TYPE_USER_SETTINGS"
-msgstr "自定義設定"
+msgstr "自訂設定"
 
 msgid "SETTINGS_DISABLED"
 msgstr "禁用"
@@ -1351,7 +1351,7 @@ msgstr "最佳視角範圍約為95°"
 
 msgid "SETTINGS_FOV_DESCRIPTION_3"
 msgstr ""
-"越寬闊的視角越容易出現影像扭曲<br>增加視野範圍會影響遊戲在一些電腦配置下的遊"
+"越寬闊的視角越容易出現影像扭曲<br>增加視野範圍會影響遊戲在一些電腦配備下的遊"
 "戲效能"
 
 msgid "SETTINGS_FOV_HEADER"
@@ -1367,7 +1367,7 @@ msgid "SETTINGS_GAMEPAD_ALT_PATTERN"
 msgstr "(二選一)"
 
 msgid "SETTINGS_GAMEPAD_ALT_PATTERN_NAME"
-msgstr "手柄控制預設 \"{gamepad_type} (二選一)\""
+msgstr "手把控制預設 \"{gamepad_type} (二選一)\""
 
 msgid "SETTINGS_GAMEPAD_ASSIGN_TO_CONTROL_NAME"
 msgstr "控制分配 \"<b>%control_name%<b/>\""
@@ -1376,34 +1376,34 @@ msgid "SETTINGS_GAMEPAD_AXIS"
 msgstr "軸"
 
 msgid "SETTINGS_GAMEPAD_BTN_1"
-msgstr "手柄1"
+msgstr "手把1"
 
 msgid "SETTINGS_GAMEPAD_BTN_10"
-msgstr "手柄10"
+msgstr "手把10"
 
 msgid "SETTINGS_GAMEPAD_BTN_2"
-msgstr "手柄2"
+msgstr "手把2"
 
 msgid "SETTINGS_GAMEPAD_BTN_3"
-msgstr "手柄3"
+msgstr "手把3"
 
 msgid "SETTINGS_GAMEPAD_BTN_4"
-msgstr "手柄4"
+msgstr "手把4"
 
 msgid "SETTINGS_GAMEPAD_BTN_5"
-msgstr "手柄5"
+msgstr "手把5"
 
 msgid "SETTINGS_GAMEPAD_BTN_6"
-msgstr "手柄6"
+msgstr "手把6"
 
 msgid "SETTINGS_GAMEPAD_BTN_7"
-msgstr "手柄7"
+msgstr "手把7"
 
 msgid "SETTINGS_GAMEPAD_BTN_8"
-msgstr "手柄8"
+msgstr "手把8"
 
 msgid "SETTINGS_GAMEPAD_BTN_9"
-msgstr "手柄9"
+msgstr "手把9"
 
 msgid "SETTINGS_GAMEPAD_BUTTON_PRESS"
 msgstr "<b>按: </b>"
@@ -1418,7 +1418,7 @@ msgid "SETTINGS_GAMEPAD_CHOOSE_PATTERN"
 msgstr "更多設定"
 
 msgid "SETTINGS_GAMEPAD_CHOSEN_PATTERN_NAME"
-msgstr "手柄控制預設 \"{gamepad_type}\""
+msgstr "手把控制預設 \"{gamepad_type}\""
 
 msgid "SETTINGS_GAMEPAD_CONFIRM"
 msgstr " - 確認"
@@ -1448,7 +1448,7 @@ msgid "SETTINGS_GAMEPAD_NOT_ASSIGNED"
 msgstr "未分配"
 
 msgid "SETTINGS_GAMEPAD_PATTERN_LIST"
-msgstr "手柄預設:"
+msgstr "手把預設:"
 
 msgid "SETTINGS_GAMEPAD_PLANE_ROLL"
 msgstr "戰機翻轉"
@@ -1475,7 +1475,7 @@ msgid "SETTINGS_GAMEPAD_UP_DOWN"
 msgstr "<b>向上/向下</b>"
 
 msgid "SETTINGS_GAMEPAD_USER_SETTINGS"
-msgstr "自定義設定"
+msgstr "自訂設定"
 
 msgid "SETTINGS_GAMEPAD_VERTICAL_AXIS"
 msgstr "縱軸"
@@ -1505,7 +1505,7 @@ msgid "SETTINGS_GAME_CINEMA_CAMERA"
 msgstr "啟用鎖定視窗的真實視野"
 
 msgid "SETTINGS_GAME_COMMON"
-msgstr "普通"
+msgstr "一般"
 
 msgid "SETTINGS_GAME_FREEZE_CAMERA"
 msgstr "用搖桿時鎖定自由視角"
@@ -1604,7 +1604,7 @@ msgstr "手動設定"
 
 msgid "SETTINGS_GRAPH_AUTODETECT_WARNING_MESSAGE"
 msgstr ""
-"您的電腦配置已更改，遊戲已準備好重新檢測適合當前電腦配置的最佳圖形設定，點"
+"您的電腦配備已更改，遊戲已準備好重新檢測適合當前電腦配備的最佳圖形設定，點"
 "擊“檢測”開始進行檢測。"
 
 msgid "SETTINGS_GRAPH_AUTODETECT_WINDOW_HEADER"
@@ -1626,7 +1626,7 @@ msgid "SETTINGS_GRAPH_SETTINGS_CONTEXT_MEDIUM"
 msgstr "中"
 
 msgid "SETTINGS_GRAPH_SETTINGS_CONTEXT_PERSONAL"
-msgstr "自定義"
+msgstr "自訂"
 
 msgid "SETTINGS_GS_AIRCRAFT_QUALITY"
 msgstr "飛機品質"
@@ -1647,7 +1647,7 @@ msgid "SETTINGS_GS_FOOT_PRINTS"
 msgstr "飛行痕跡"
 
 msgid "SETTINGS_GS_FXAA"
-msgstr "抗鋸齒"
+msgstr "反鋸齒"
 
 msgid "SETTINGS_GS_HIGH"
 msgstr "高"
@@ -1794,7 +1794,7 @@ msgid "SETTINGS_HEADER_ROCKETS"
 msgstr "火箭彈"
 
 msgid "SETTINGS_HEADER_SET_AXIS_FOR_THRUST_AND_BOOST"
-msgstr "設定推力和加力曲線："
+msgstr "設定推力和增壓曲線："
 
 msgid "SETTINGS_HEADER_SPEEDOMETER"
 msgstr "速度表"
@@ -1929,7 +1929,7 @@ msgid "SETTINGS_JOYSTICK_CHOOSE_PATTERN"
 msgstr "更多設定"
 
 msgid "SETTINGS_JOYSTICK_CHOSEN_PATTERN_NAME"
-msgstr "手柄控制預設 \"{joystick_type}\""
+msgstr "手把控制預設 \"{joystick_type}\""
 
 msgid "SETTINGS_JOYSTICK_CURVE_FIX"
 msgstr "鎖定X軸"
@@ -1956,7 +1956,7 @@ msgid "SETTINGS_JOYSTICK_CURVE_ROLL_SPEED"
 msgstr "滾轉率"
 
 msgid "SETTINGS_JOYSTICK_CURVE_SMOOTH"
-msgstr "抗鋸齒:"
+msgstr "反鋸齒:"
 
 msgid "SETTINGS_JOYSTICK_CURVE_YAW"
 msgstr "偏航"
@@ -1992,7 +1992,7 @@ msgid "SETTINGS_JOYSTICK_THRUST_BOOST_ADJUSTMENT"
 msgstr "調整推力和加速"
 
 msgid "SETTINGS_JOYSTICK_USER_SETTINGS"
-msgstr "自定義設定"
+msgstr "自訂設定"
 
 msgid "SETTINGS_JOYSTICK_VERTICAL_INVERSION"
 msgstr "垂直反轉"
@@ -2202,11 +2202,11 @@ msgid "SETTINGS_MARKERS_HEADER_APPLY_SETTINGS"
 msgstr "套用設定"
 
 msgid "SETTINGS_MARKERS_MESSAGE_APPLY_SETTINGS"
-msgstr "您當前的自定義設定將變更為預設 {template_name_list}<br>確定套用新設定?"
+msgstr "您當前的自訂設定將變更為預設 {template_name_list}<br>確定套用新設定?"
 
 msgid "SETTINGS_MARKERS_MESSAGE_APPLY_SETTINGS_LIST"
 msgstr ""
-"您當前的自定義設定將被預設模式: {template_name_list}所替換<br>確認套用新設定?"
+"您當前的自訂設定將被預設模式: {template_name_list}所替換<br>確認套用新設定?"
 
 msgid "SETTINGS_MARKERS_MODE_ALT"
 msgstr "替換 (請按 {key} 鍵)"
@@ -2344,7 +2344,7 @@ msgid "SETTINGS_MOUSE_PATTERN_MOVING_HORIZON"
 msgstr "自由視角模式"
 
 msgid "SETTINGS_MOUSE_PATTERN_PERSONAL"
-msgstr "自定義"
+msgstr "自訂"
 
 msgid "SETTINGS_MOUSE_PATTERN_SELECTOR"
 msgstr "滑鼠預設:"
@@ -2440,7 +2440,7 @@ msgid "SETTINGS_REPLAY_PATH_OPTION_CHOOSE"
 msgstr "選擇"
 
 msgid "SETTINGS_REPLAY_PATH_OPTION_CREATE"
-msgstr "創建"
+msgstr "建立"
 
 msgid "SETTINGS_SCREEN_RESOLUTION"
 msgstr "螢幕解析度"
@@ -2524,7 +2524,7 @@ msgid "SETTINGS_SPEED_POINTER"
 msgstr "游標速度"
 
 msgid "SETTINGS_STANDART"
-msgstr "普通"
+msgstr "一般"
 
 msgid "SETTINGS_STYLE_SWITCH_MOUSE"
 msgstr "選擇模式："
@@ -2592,7 +2592,7 @@ msgstr ""
 
 msgid "SETTINGS_TOOLTIP_ARMAMENT"
 msgstr ""
-"顯示機槍的升溫速度，可使用的炸彈和火箭彈，以及加力可持續時間等資訊的動態指示"
+"顯示機槍的升溫速度，可使用的炸彈和火箭彈，以及增壓可持續時間等資訊的動態指示"
 
 msgid "SETTINGS_TOOLTIP_CRITS"
 msgstr "顯示戰機部件和乘員受損程度"
@@ -2628,19 +2628,19 @@ msgid "SETTINGS_TRIPLE_BUFFERING"
 msgstr "三重緩衝"
 
 msgid "SETTINGS_USER_MARKER_TEMPLATE_ASSAULT"
-msgstr "攻擊機 (自定義)"
+msgstr "攻擊機 (自訂)"
 
 msgid "SETTINGS_USER_MARKER_TEMPLATE_EXPLANATION"
-msgstr "自定義"
+msgstr "自訂"
 
 msgid "SETTINGS_USER_MARKER_TEMPLATE_FIGHTER"
-msgstr "戰鬥機 (自定義)"
+msgstr "戰鬥機 (自訂)"
 
 msgid "SETTINGS_USER_MARKER_TEMPLATE_HEAVY_FIGHTER"
-msgstr "重型戰鬥機 (自定義)"
+msgstr "重型戰鬥機 (自訂)"
 
 msgid "SETTINGS_USER_MARKER_TEMPLATE_NAVY"
-msgstr "多用途戰鬥機 (自定義)"
+msgstr "多用途戰鬥機 (自訂)"
 
 msgid "SETTINGS_VERTICAL"
 msgstr "垂直靈敏度"
@@ -2724,7 +2724,7 @@ msgid "SOUND_QUALITY_SETTINGS_TURN_OFF"
 msgstr "靜音"
 
 msgid "SOUND_SETTINGS"
-msgstr "音量"
+msgstr "聲音"
 
 msgid "SOUND_TYPE"
 msgstr "裝置類型："
@@ -3558,17 +3558,14 @@ msgstr "Sector influence direction"
 msgid "SETTINGS_MARKERS_WING_BOMBERS"
 msgstr "Flight of bombers"
 
-#, fuzzy
 msgid "SETTINGS_MARKERS_ZOOM_CLOSE"
-msgstr "Near"
+msgstr "近"
 
-#, fuzzy
 msgid "SETTINGS_MARKERS_ZOOM_FAR"
-msgstr "Far"
+msgstr "遠"
 
-#, fuzzy
 msgid "SETTINGS_MARKERS_ZOOM_MEDIUM"
-msgstr "Medium"
+msgstr "中"
 
 #, fuzzy
 msgid "SETTINGS_MESSAGES_DESCRIPTION_CHANGE"
@@ -3637,6 +3634,5 @@ msgstr "Stick Settings"
 msgid "SETTINGS_TILT_SCALE"
 msgstr "Pitch indicator"
 
-#, fuzzy
 msgid "SETTINGS_WARNING_DESCRIPTION_FOR_EXP_PLAYERS"
-msgstr "Attention! Advanced settings are intended for experienced players."
+msgstr "注意！進階設定適合有經驗的玩家來調整。"

@@ -127,7 +127,7 @@ msgid "TOOLTIPS_BIG_WEAPON"
 msgstr "大口徑武器"
 
 msgid "TOOLTIPS_BUY_PLANE_TROOM_NOT_AVAILABLE"
-msgstr "當你進入訓練房間時不可購買戰機"
+msgstr "當你進入訓練房時不可購買戰機"
 
 msgid "TOOLTIPS_BUY_PLANE_WING_NOT_AVAILABLE"
 msgstr "當你加入編隊並點選“準備！”按鈕後不可購買戰機"
@@ -195,7 +195,7 @@ msgid "TOOLTIPS_GOOD_ATTACK_WEAPON"
 msgstr "良好的攻擊武器"
 
 msgid "TOOLTIPS_GOOD_BOOSTING"
-msgstr "良好的加力能力"
+msgstr "良好的增壓能力"
 
 msgid "TOOLTIPS_GOOD_DEFENCE"
 msgstr "良好的生命值"
@@ -272,7 +272,7 @@ msgid "TOOLTIPS_POWERFUL_ATTACK_WEAPON"
 msgstr "強大的攻擊武器"
 
 msgid "TOOLTIPS_POWERFUL_BOOSTING"
-msgstr "強勁的加力能力"
+msgstr "強勁的增壓能力"
 
 msgid "TOOLTIPS_PURCHASE_SLOT"
 msgstr "{price}購買機位"
@@ -1474,7 +1474,7 @@ msgid "TOOLTIPS_VERY_LOW_MENEUVERABILITY"
 msgstr "極低的機動性"
 
 msgid "TOOLTIPS_VERY_POWERFUL_BOOSTING"
-msgstr "極強的加力能力"
+msgstr "極強的增壓能力"
 
 msgid "TOOLTIP_ACHIEVEMENTS_PAGE"
 msgstr "顯示戰鬥的勝利、失敗等資料統計，以及通過戰鬥所獲得的勳章等內容"
@@ -1549,7 +1549,7 @@ msgid "TOOLTIP_AFTERBATTLE_STATISTICS_QUEST_CREW_XP_BONUS"
 msgstr "{number}%戰鬥所獲經驗和加值帳號加成<br>(如果購買加值帳號)沒有其它獎勵"
 
 msgid "TOOLTIP_AFTERBURNER"
-msgstr "<b>啟動加力</b><br/>持續加大發動機馬力來迅速增加飛行速度。"
+msgstr "<b>啟動增壓</b><br/>持續加大發動機馬力來迅速增加飛行速度。"
 
 msgid "TOOLTIP_AIRCRAFT_BASIC_FIREPOWER"
 msgstr "基本火力"
@@ -1696,7 +1696,7 @@ msgid "TOOLTIP_ATTACK_MESSAGE"
 msgstr "<b>攻擊敵機!</b><br/>傳送一個隊聊“攻擊敵機！”"
 
 msgid "TOOLTIP_AUTOMATICAL_SETTINGS"
-msgstr "自動檢測最佳影象設定<br>根據您的計算機配置進行檢測"
+msgstr "自動檢測最佳影像設定<br>根據您的計算機配置進行檢測"
 
 msgid "TOOLTIP_AUTOMATIC_FLAPS"
 msgstr "在急轉中自動開啟襟翼<br/>將會加快戰機的轉向，但會損失空速"
@@ -2134,7 +2134,7 @@ msgid "TOOLTIP_CHAT_MOVE_PLAYER_TO_GROUP_COMMON"
 msgstr "所有玩家"
 
 msgid "TOOLTIP_CHAT_MOVE_PLAYER_TO_GROUP_NONE_CREATED"
-msgstr "(未創建群組)"
+msgstr "(未建立群組)"
 
 msgid "TOOLTIP_CHAT_PLAYER_STATUS_IN_BATTLE"
 msgstr "(戰鬥中)"
@@ -2143,7 +2143,7 @@ msgid "TOOLTIP_CHAT_PLAYER_STATUS_NOT_IN_BATTLE"
 msgstr "(不在戰鬥中)"
 
 msgid "TOOLTIP_CHECKBOX_AUTOMATICAL_SETTINGS"
-msgstr "自動檢測最佳影象品質<br>當電腦配置發生變化時將自動進行檢測"
+msgstr "自動檢測最佳影像品質<br>當電腦配備發生變化時將自動進行檢測"
 
 msgid "TOOLTIP_CHECKBOX_SETTINGS_RECOMENDED"
 msgstr "取消訪問其他設定選項"
@@ -2209,10 +2209,10 @@ msgid "TOOLTIP_CONTACT_ALREADY_INVITED"
 msgstr "此聯絡人已接受他人邀請"
 
 msgid "TOOLTIP_CONTROL_SCHEME"
-msgstr "選擇控制飛機的裝置，並自定義控制項"
+msgstr "選擇控制飛機的裝置，並自訂控制項"
 
 msgid "TOOLTIP_CREATE_WING_HEADER"
-msgstr "創建編隊"
+msgstr "建立編隊"
 
 msgid "TOOLTIP_CREDITS"
 msgstr ""
@@ -2358,7 +2358,7 @@ msgid "TOOLTIP_EVENT_MESSAGE_CREDITS_ADDED"
 msgstr "銀幣已新增至帳號中"
 
 msgid "TOOLTIP_EVENT_MESSAGE_TICKETS_ADDED"
-msgstr "兌換券已新增至帳號中"
+msgstr "令牌已新增至帳號中"
 
 msgid "TOOLTIP_EXTEND_PREMIUM"
 msgstr "<b>加值帳號</b><br/>延長加值帳號時限持續獲得50%的戰鬥收益加成"
@@ -2472,13 +2472,13 @@ msgid "TOOLTIP_GOLD_SYNCHRONISATION_SUCCESSFUL"
 msgstr "帳號同步成功，現在您的金幣和自由經驗均可使用"
 
 msgid "TOOLTIP_GOTO_MANUAL_CONFIG"
-msgstr "去自定義配置"
+msgstr "去自訂配置"
 
 msgid "TOOLTIP_GOTO_MODULES"
 msgstr "返回裝備介面"
 
 msgid "TOOLTIP_GRAPHICS_QUALITY"
-msgstr "選擇影象品質"
+msgstr "選擇影像品質"
 
 msgid "TOOLTIP_GRASS_DENSITY"
 msgstr "調整地圖的弗洛拉密度"
@@ -2508,7 +2508,7 @@ msgstr "<b>可用</b><br/>可用的炸彈數量"
 
 msgid "TOOLTIP_HANGAR_CHANNELS"
 msgstr ""
-"可通過現有公共聊天頻道與其他玩家進行討論，或創建自己的頻道並邀請朋友加入討論"
+"可通過現有公共聊天頻道與其他玩家進行討論，或建立自己的頻道並邀請朋友加入討論"
 
 msgid "TOOLTIP_HANGAR_CHOOSE_MODE"
 msgstr "選擇遊戲模式或戰鬥類型"
@@ -2542,7 +2542,7 @@ msgid "TOOLTIP_HANGAR_PAGE_PRE_PVP"
 msgstr "選擇戰機並進入戰鬥"
 
 msgid "TOOLTIP_HANGAR_QUICKNESS"
-msgstr "平均值，包括戰機加力效能、最大飛行速度和最大俯衝速度等因素"
+msgstr "平均值，包括戰機增壓效能、最大飛行速度和最大俯衝速度等因素"
 
 msgid "TOOLTIP_HANGAR_ROCKETS_HAVE"
 msgstr "<b>可用</b><br/>可用的火箭彈數量"
@@ -2626,8 +2626,8 @@ msgstr ""
 "在圖中調整搖桿移動的輸入訊號<br><br>使用\"線性\"預設設定時將不會對輸入訊號作"
 "出調整，輸出訊號將與輸入訊號一致，戰機飛行動作將與搖桿一致<br><br>使用\"指數"
 "\"預設設定時，搖桿在小範圍移動時的靈敏度將會提升，而在大範圍移動時的靈敏度將"
-"會降低<br><br>使用\"自定義\"設定時，可讓您根據自身喜好自行定義設定<br><br>"
-"\"高階自定義\"設定可幫助您為每個軸區間進行自由設定"
+"會降低<br><br>使用\"自訂\"設定時，可讓您根據自身喜好自行定義設定<br><br>\"高"
+"階自訂\"設定可幫助您為每個軸區間進行自由設定"
 
 msgid "TOOLTIP_JOYSTICK_SETTINGS_SIGNAL_BEFORE_AFTER"
 msgstr "對曲線進行調整後可看到輸出訊號與輸入訊號間的差異"
@@ -2830,7 +2830,7 @@ msgid "TOOLTIP_MODULES_HIDE"
 msgstr "<b>隱藏</b><br/>隱藏飛機面板"
 
 msgid "TOOLTIP_MODULES_MANUAL_CONFIG"
-msgstr "<b>自定義配置</b><br/>研發、購買和安裝飛機單獨的裝備"
+msgstr "<b>自訂配置</b><br/>研發、購買和安裝飛機單獨的裝備"
 
 msgid "TOOLTIP_MODULES_PAGE"
 msgstr "選擇飛機配置、安裝額外裝備"
@@ -3173,7 +3173,7 @@ msgid "TOOLTIP_SETTINGS_CHANGE_ADVANCE_POINT_DISPLAY_SIZE"
 msgstr "根據與敵人的距離調整射擊指示環"
 
 msgid "TOOLTIP_SETTINGS_CHAT_ACCEPT_MESSAGES_FROM_FRIENDS"
-msgstr "只從聯絡人列表中的玩家處接收郵件"
+msgstr "只從聯絡人列表中的玩家處接收訊息"
 
 msgid "TOOLTIP_SETTINGS_CHECKBOX_RESPONSE_INCREASE"
 msgstr "遊戲客戶端將會預測戰機飛行行為，提高控制的響應速度和姿態"
@@ -3182,7 +3182,7 @@ msgid "TOOLTIP_SETTINGS_DO_NOT_SHOW_OFFLINE_PLAYERS"
 msgstr "隱藏列表中目前離線的玩家"
 
 msgid "TOOLTIP_SETTINGS_GAMEPAD_CHOOSE_PATTERN"
-msgstr "在這裡您可選擇遊戲手柄預設或對設定進行自定義修改"
+msgstr "在這裡您可選擇遊戲手把預設或對設定進行自訂修改"
 
 msgid "TOOLTIP_SETTINGS_JOYSTICK_CAMERA_LAG"
 msgstr ""
@@ -3190,7 +3190,7 @@ msgstr ""
 "視角將即刻作出響應"
 
 msgid "TOOLTIP_SETTINGS_JOYSTICK_CHOOSE_PATTERN"
-msgstr "在這裡您可選擇遊戲搖桿預設或對設定進行自定義修改"
+msgstr "在這裡您可選擇遊戲搖桿預設或對設定進行自訂修改"
 
 msgid "TOOLTIP_SETTINGS_JOYSTICK_EDIT_SPLINE"
 msgstr "左鍵點選進行新增，右鍵點選進行刪除"
@@ -3215,8 +3215,8 @@ msgstr ""
 
 msgid "TOOLTIP_SETTINGS_JOYSTICK_THRUST_BOOST_ADJUSTMENT"
 msgstr ""
-"使用滑塊來調節推力軸上的加力啟動點、最大推力點和死區，在最大推力點時戰機引擎"
-"將滿功率運行但不會進行加力"
+"使用滑塊來調節推力軸上的增壓啟動點、最大推力點和死區，在最大推力點時戰機引擎"
+"將滿功率運行但不會進行增壓"
 
 msgid "TOOLTIP_SETTINGS_MARKERS_CONTEXT_ALTITUDE_TYPE"
 msgstr "選擇戰機高度指示類型"
@@ -3496,7 +3496,7 @@ msgstr ""
 "資源獲得最佳的遊戲效能，或者選擇各向異性以獲得最好的視覺效果。"
 
 msgid "TOOLTIP_TEXTURES_QUALITY"
-msgstr "選擇整體影象品質"
+msgstr "選擇整體影像品質"
 
 msgid "TOOLTIP_THRUST_CHANGE_SPEED"
 msgstr "<b>發動機馬力</b><br/>配置軸控制發動機馬力"
@@ -3561,10 +3561,10 @@ msgid "TOOLTIP_TRAINING_CHANGE_MODE"
 msgstr "<b>訓練模式</b><br/>點選滑鼠左鍵更換戰鬥模式"
 
 msgid "TOOLTIP_TRAINING_CREATE"
-msgstr "<b>創建房間</b><br/>創建並設定好訓練房"
+msgstr "<b>建立房間</b><br/>建立並設定好訓練房"
 
 msgid "TOOLTIP_TRAINING_DELETE_ROOM"
-msgstr "<b>刪除房間</b><br/>刪除已創建的訓練房間"
+msgstr "<b>刪除房間</b><br/>刪除已建立的訓練房"
 
 msgid "TOOLTIP_TRAINING_DESCRIPTION"
 msgstr "<b>說明</b><br/>填寫房間說明，例如：“對所有人開放”"
@@ -3633,11 +3633,11 @@ msgid "TOOLTIP_UK_TREE"
 msgstr "點選檢視英國科技樹，點選戰機檢視其裝備"
 
 msgid "TOOLTIP_UNAVAILABLE_COMPLETE_ROOM_CREATION"
-msgstr "<b>未完成創建</b><br/>要開始一場戰鬥，請完成創建房間"
+msgstr "<b>未完成建立</b><br/>要開始一場戰鬥，請完成建立房間"
 
 msgid "TOOLTIP_UNAVAILABLE_ENTER_OR_CREATE_ROOM"
 msgstr ""
-"<b>不能進入或者創建房間</b><br/>選擇一個房間然後選擇隊伍，或者自己創建房間"
+"<b>不能進入或者建立房間</b><br/>選擇一個房間然後選擇隊伍，或者自己建立房間"
 
 msgid "TOOLTIP_UNAVAILABLE_REPAIR_AIRPLANE"
 msgstr "<b>當前戰機不可用</b><br/>請修理戰機或者選擇另外一架"
@@ -3762,9 +3762,8 @@ msgstr ""
 msgid "TOOLTIPS_ACHIEVEMENTS_SORT_BY_PLAYTIME_ON_PLANES"
 msgstr "按飛行時數排序"
 
-#, fuzzy
 msgid "TOOLTIPS_ACTIVE_SKILL"
-msgstr "Active skill"
+msgstr "啓動技能"
 
 #, fuzzy
 msgid "TOOLTIPS_AFTERBATTLE_SHARE_EXP_CREW"
@@ -3809,9 +3808,8 @@ msgstr ""
 msgid "TOOLTIPS_ALTITUDE_AND_DIRECTION_RUDDERS_DESCRIPTION"
 msgstr "Provide aircraft pitch and yaw control"
 
-#, fuzzy
 msgid "TOOLTIPS_ARMORED_OBJECT"
-msgstr "Armored ground target"
+msgstr "地面裝甲目標"
 
 msgid "TOOLTIPS_BATTLE_RESULTS_PERSONALS_QUESTS_PROGRESS_ACHIEVED"
 msgstr "達成進度"
@@ -3849,35 +3847,28 @@ msgstr "Main system for aircraft ground slowing"
 
 #, fuzzy
 msgid "TOOLTIPS_CANHAVE_BIGBOMBS"
-msgstr "Can carry powerful bombs"
+msgstr "可掛載強大的炸彈"
 
-#, fuzzy
 msgid "TOOLTIPS_CANHAVE_ROCKETSANDBOMBS"
-msgstr "Can carry bombs and rockets"
+msgstr "可掛載炸彈和火箭彈"
 
-#, fuzzy
 msgid "TOOLTIPS_CANHAVE_ROCKETSORBOMBS"
-msgstr "Can carry bombs or rockets"
+msgstr "可掛載炸彈或火箭彈"
 
-#, fuzzy
 msgid "TOOLTIPS_CANHAVE_SALVOROCKETS"
-msgstr "Can carry salvo-launched rockets"
+msgstr "可掛載齊射火箭彈"
 
-#, fuzzy
 msgid "TOOLTIPS_CANHAVE_SALVOROCKETSANDBOMBS"
-msgstr "Can carry bombs and salvo-launched rockets"
+msgstr "可掛載炸彈和齊射火箭彈"
 
-#, fuzzy
 msgid "TOOLTIPS_CANHAVE_SALVOROCKETSORBOMBS"
-msgstr "Can carry bombs or salvo-launched rockets"
+msgstr "可掛載炸彈或齊射火箭彈"
 
-#, fuzzy
 msgid "TOOLTIPS_CANHAVE_SMALLBOMBS"
-msgstr "Can carry small bombs"
+msgstr "可掛載小型炸彈"
 
-#, fuzzy
 msgid "TOOLTIPS_CANHAVE_SMALLROCKETS"
-msgstr "Can carry small rockets"
+msgstr "可掛載小型火箭彈"
 
 #, fuzzy
 msgid "TOOLTIPS_CANT_BE_RESET_SKILL"
@@ -3887,13 +3878,11 @@ msgstr "Unique skill cannot be reset"
 msgid "TOOLTIPS_CHANGE_EXP_DESCRIPTION"
 msgstr "Use Free Experience to accelerate earning of skill points."
 
-#, fuzzy
 msgid "TOOLTIPS_CHANGE_GUNNER"
-msgstr "Replace gunner"
+msgstr "替換砲手"
 
-#, fuzzy
 msgid "TOOLTIPS_CHANGE_PILOT"
-msgstr "Replace pilot"
+msgstr "替換飛行員"
 
 #, fuzzy
 msgid "TOOLTIPS_CLASS_HINT_ASSAULT"
@@ -3925,45 +3914,36 @@ msgstr ""
 "Universal aircraft designed to engage in active combat and destroy unarmored "
 "ground targets. Capable of carrying several bombs or rockets."
 
-#, fuzzy
 msgid "TOOLTIPS_CLASS_LVL_1_PROGRESS"
-msgstr "Grade I"
+msgstr "I 級"
 
-#, fuzzy
 msgid "TOOLTIPS_CLASS_LVL_2_PROGRESS"
-msgstr "Grade II"
+msgstr "II 級"
 
-#, fuzzy
 msgid "TOOLTIPS_CLASS_LVL_3_PROGRESS"
-msgstr "Grade III"
+msgstr "III 級"
 
-#, fuzzy
 msgid "TOOLTIPS_CLASS_LVL_4_PROGRESS"
-msgstr "Grade IV"
+msgstr "IV 級"
 
-#, fuzzy
 msgid "TOOLTIPS_CLASS_LVL_5_PROGRESS"
-msgstr "Grade V"
+msgstr "V 級"
 
 #, fuzzy
 msgid "TOOLTIPS_CLASS_QUEST_NAME"
 msgstr "Aircraft type-specific mission<br>\"{name}\""
 
-#, fuzzy
 msgid "TOOLTIPS_CLOSECOMBAT_BIGGUNS"
-msgstr "Large-caliber armament effective in close combat"
+msgstr "大口徑武器在近距離戰鬥有優勢"
 
-#, fuzzy
 msgid "TOOLTIPS_CLOSECOMBAT_CANONS"
-msgstr "Autocannon armament effective in close combat"
+msgstr "自動砲在近距離戰鬥有優勢"
 
-#, fuzzy
 msgid "TOOLTIPS_CLOSECOMBAT_MASHINEGUNS"
-msgstr "Machine gun armament effective in close combat"
+msgstr "機槍在近距離戰鬥有優勢"
 
-#, fuzzy
 msgid "TOOLTIPS_CLOSECOMBAT_MIXEDGUNS"
-msgstr "Machine gun and autocannon armament effective in close combat"
+msgstr "機槍和自動砲在近距離戰鬥有優勢"
 
 #, fuzzy
 msgid "TOOLTIPS_COLLECT_ALL_PARTS"
@@ -3988,17 +3968,14 @@ msgstr "打開您的預設瀏覽器來查看詳情。"
 msgid "TOOLTIPS_ENGINE_DESCRIPTION"
 msgstr "Main component of the propulsion system"
 
-#, fuzzy
 msgid "TOOLTIPS_EQUIPMENT_NOT_PURCHASED"
-msgstr "Purchase"
+msgstr "購買"
 
-#, fuzzy
 msgid "TOOLTIPS_EQUIPMENT_PURCHASED"
-msgstr "Purchased"
+msgstr "已購買"
 
-#, fuzzy
 msgid "TOOLTIPS_FIRST_WIN_BONUS"
-msgstr "First victory of the day bonus:"
+msgstr "每日首勝加成:"
 
 #, fuzzy
 msgid "TOOLTIPS_FLAPS_DESCRIPTION"
@@ -4046,25 +4023,20 @@ msgstr ""
 "Compartment for a gunner. Includes cockpit windows, a gunner seat, and an "
 "armor plate."
 
-#, fuzzy
 msgid "TOOLTIPS_HAVE_POWEFUL_ROCKETSANDBOMBS"
-msgstr "Carries powerful bombs and rockets"
+msgstr "掛載強大的炸彈和火箭彈"
 
-#, fuzzy
 msgid "TOOLTIPS_HAVE_POWERFUL_BOMBS"
-msgstr "Carries powerful bombs"
+msgstr "掛載強大的炸彈"
 
-#, fuzzy
 msgid "TOOLTIPS_HAVE_POWERFUL_ROCKETS"
-msgstr "Carries powerful rockets"
+msgstr "掛載強大彈火箭彈"
 
-#, fuzzy
 msgid "TOOLTIPS_HAVE_ROCKETSANDBOMBS"
-msgstr "Carries rockets and bombs"
+msgstr "掛載火箭彈與炸彈"
 
-#, fuzzy
 msgid "TOOLTIPS_HAVE_SMALLBOMBS"
-msgstr "Carries small bombs"
+msgstr "掛載小型炸彈"
 
 #, fuzzy
 msgid "TOOLTIPS_HEIGHT_BOMBER"
@@ -4074,31 +4046,25 @@ msgstr ""
 
 #, fuzzy
 msgid "TOOLTIPS_HEIGHT_INTERCEPT"
-msgstr "Very effective in intercepting aircraft at a high altitude"
+msgstr "在高空攔截飛機非常有優勢"
 
-#, fuzzy
 msgid "TOOLTIPS_HIGH_MANUVER"
-msgstr "High maneuverability in horizontal turns"
+msgstr "高水平轉彎機動性"
 
-#, fuzzy
 msgid "TOOLTIPS_HIGH_MANUVER_AND_HIGHROLL"
-msgstr "High maneuverability and rate of roll"
+msgstr "高翻滾和轉彎機動性"
 
-#, fuzzy
 msgid "TOOLTIPS_HIGH_SPEED"
-msgstr "High airspeed, good boost"
+msgstr "飛行速度高、增壓能力良好"
 
-#, fuzzy
 msgid "TOOLTIPS_HIGH_SPEED_AND_LONGWEP"
-msgstr "High airspeed, long-lasting boost"
+msgstr "飛行速度高、增壓能力持久"
 
-#, fuzzy
 msgid "TOOLTIPS_HIGH_SPEED_AND_POWERFULWEP"
-msgstr "High airspeed, accelerates quickly when boosting"
+msgstr "飛行速度高、增壓時加速快"
 
-#, fuzzy
 msgid "TOOLTIPS_INCREASE_CREDIT_AND_EXP"
-msgstr "Increased credit and experience income per battle"
+msgstr "每場戰鬥增加銀幣和經驗值"
 
 #, fuzzy
 msgid "TOOLTIPS_JA_TR_10_POINTS_PER_EPIC_ACHIEVEMENT"
@@ -4142,9 +4108,8 @@ msgstr ""
 "You will receive the aircraft for free after you complete the special "
 "mission during peacetime."
 
-#, fuzzy
 msgid "TOOLTIPS_JA_TR_NOT_ENOUGH_TOKENS"
-msgstr "Not enough tokens"
+msgstr "令牌不足"
 
 #, fuzzy
 msgid "TOOLTIPS_JA_TR_NO_AICRAFT_AXIS"
@@ -4215,103 +4180,88 @@ msgstr "Accurate long-range large-caliber armament"
 
 #, fuzzy
 msgid "TOOLTIPS_LOWHEIGHT_GA"
-msgstr "Effective in destroying ground targets in low-level flight"
+msgstr "低空飛行時有效摧毀地面目標"
 
 #, fuzzy
 msgid "TOOLTIPS_LOWHEIGHT_MANUVER"
-msgstr "Effective in low-altitude maneuvering combat"
+msgstr "低空纏鬥能力良好"
 
 #, fuzzy
 msgid "TOOLTIPS_LOWHEIGHT_MR"
-msgstr ""
-"Effective in low-altitude combat and in destroying small amounts of ground "
-"targets"
+msgstr "低空戰鬥和摧毀少量地面目標良好"
 
 #, fuzzy
 msgid "TOOLTIPS_LOWHEIGHT_VERYGOOD_MANUVER"
-msgstr "Very effective in low-altitude maneuvering combat"
+msgstr "低空纏鬥能力非常良好"
 
 #, fuzzy
 msgid "TOOLTIPS_LOWMED_MENEUVER"
-msgstr "Low effectiveness in maneuvering combat"
+msgstr "纏鬥能力不佳"
 
 #, fuzzy
 msgid "TOOLTIPS_LOW_DEFENCE_ENGINE"
-msgstr "Low survivability, vulnerable engine"
+msgstr "低生命值、虛弱的引擎"
 
 #, fuzzy
 msgid "TOOLTIPS_LOW_DEFENCE_ENGINE_FLAMABLE"
-msgstr "Low survivability, vulnerable engine, often catches fire"
+msgstr "低生命值、虛弱的引擎、容易著火"
 
-#, fuzzy
 msgid "TOOLTIPS_LOW_DEFENCE_FLAMABLE"
-msgstr "Low survivability, often catches fire"
+msgstr "低生命值、容易著火"
 
 #, fuzzy
 msgid "TOOLTIPS_LOW_MENUVER"
-msgstr "Ineffective in maneuvering combat"
+msgstr "不適合纏鬥"
 
-#, fuzzy
 msgid "TOOLTIPS_LOW_SPEED_AND_WEP"
-msgstr "Low airspeed, weak boost"
+msgstr "飛行速度低、增壓能力差"
 
-#, fuzzy
 msgid "TOOLTIPS_LOW_SPEED_BUT_LONGWEP"
-msgstr "Low airspeed, but good and long-lasting boost"
+msgstr "飛行速度低、但增壓能力良好且持久"
 
-#, fuzzy
 msgid "TOOLTIPS_LOW_SPEED_BUT_WEP"
-msgstr "Low airspeed, but good boost"
+msgstr "飛行速度低、但增壓能力良好"
 
-#, fuzzy
 msgid "TOOLTIPS_MANY_BOMBS"
-msgstr "High load of bombs"
+msgstr "炸彈載彈量高"
 
 #, fuzzy
 msgid "TOOLTIPS_MEDHEIGHT"
-msgstr "Effective in mid-altitude combat"
+msgstr "中空戰鬥良好"
 
 #, fuzzy
 msgid "TOOLTIPS_MEDHEIGHT_MANUVER"
-msgstr "Effective in mid-altitude maneuvering combat"
+msgstr "中空纏鬥能力良好"
 
 #, fuzzy
 msgid "TOOLTIPS_MEDHEIGHT_MR"
-msgstr ""
-"Effective in mid-altitude combat and in destroying small amounts of ground "
-"targets"
+msgstr "中空戰鬥和摧毀少量地面目標良好"
 
-#, fuzzy
 msgid "TOOLTIPS_MED_DEFENCE_BUTBIG"
-msgstr "Good survivability, but large dimensions"
+msgstr "高生命值、但機體龐大"
 
 #, fuzzy
 msgid "TOOLTIPS_MED_DEFENCE_BUTBIG_ENGINE"
-msgstr "Good survivability, but large dimensions and vulnerable engines"
+msgstr "高生命值、但機體龐大、虛弱的引擎"
 
 #, fuzzy
 msgid "TOOLTIPS_MED_DEFENCE_ENGINE"
-msgstr "Good survivability, but vulnerable engines"
+msgstr "高生命值、但虛弱的引擎"
 
-#, fuzzy
 msgid "TOOLTIPS_MED_DEFENCE_GA"
-msgstr "Good survivability, resistant to critical damage and fire"
+msgstr "高生命值、能抵抗嚴重傷害與火災"
 
-#, fuzzy
 msgid "TOOLTIPS_MED_MANUVER"
-msgstr "Good maneuverability in horizontal turns"
+msgstr "一般的水平轉彎機動性"
 
-#, fuzzy
 msgid "TOOLTIPS_MED_MANUVER_AND_ROLL"
-msgstr "Good maneuverability in rolls and turns"
+msgstr "一般的翻滾和轉彎機動性"
 
-#, fuzzy
 msgid "TOOLTIPS_MED_SPEED"
-msgstr "Good airspeed and boost"
+msgstr "飛行速度一般、增壓能力一般"
 
-#, fuzzy
 msgid "TOOLTIPS_MED_SPEED_AND_LONGWEP"
-msgstr "Good airspeed, long-lasting boost"
+msgstr "飛行速度一般、增壓能力持久"
 
 #, fuzzy
 msgid "TOOLTIPS_MIDRANGE_CANONS"
@@ -4349,9 +4299,8 @@ msgstr "Equipped with several powerful defensive turrets"
 msgid "TOOLTIPS_MULTIPLE_TURRETS"
 msgstr "Equipped with several defensive turrets"
 
-#, fuzzy
 msgid "TOOLTIPS_NOT_ARMORED_OBJECT"
-msgstr "Unarmored ground target"
+msgstr "無裝甲地面目標"
 
 #, fuzzy
 msgid "TOOLTIPS_NO_CAMP_PARTICIPATING_EVENT_AND_GET_PLANE"
@@ -4374,9 +4323,8 @@ msgstr "Containers with oil for engines"
 msgid "TOOLTIPS_OPEN_VIDEOLIST"
 msgstr "檢視影片列表"
 
-#, fuzzy
 msgid "TOOLTIPS_OPEN_VIDEOMATERIALS"
-msgstr "View <font color='#{color}'>Videos</font> section"
+msgstr "檢視<font color='#{color}'>影片</font>區塊"
 
 #, fuzzy
 msgid "TOOLTIPS_OXYGEN_EQUIPMENT_DESCRIPTION"
@@ -4681,9 +4629,8 @@ msgstr "Not enough tokens. To earn tokens, complete missions."
 msgid "TOOLTIPS_SHOW_CURRENT_DIRECTIVES"
 msgstr "Show currently active missions from operation orders"
 
-#, fuzzy
 msgid "TOOLTIPS_SHOW_LIST_NOTIFICATION"
-msgstr "Click to view notification list"
+msgstr "點選檢視通知列表"
 
 #, fuzzy
 msgid "TOOLTIPS_SHOW_NEAR_EVENTS"
@@ -4961,9 +4908,8 @@ msgstr "Other bonuses"
 msgid "TOOLTIP_BATTLE_RESULTS_PREM_PLANE_TIER_VIII"
 msgstr "Tier VIII Premium aircraft"
 
-#, fuzzy
 msgid "TOOLTIP_BATTLE_RESULTS_SORT_BY_BATTLE_POINTS"
-msgstr "Sort by number of combat points"
+msgstr "按戰鬥點數排序"
 
 #, fuzzy
 msgid "TOOLTIP_BATTLE_RESULTS_SORT_BY_CLASS_RANK"
@@ -5035,29 +4981,23 @@ msgstr "Cancel loading"
 msgid "TOOLTIP_CANCEL_SELECT_TO_INST_STANDARD"
 msgstr "Replace with a standard belt"
 
-#, fuzzy
 msgid "TOOLTIP_CAROUSEL_FILTER_BY_TYPE_BOMBER"
-msgstr "Aircraft type (bombers)"
+msgstr "戰機類型（轟炸機）"
 
-#, fuzzy
 msgid "TOOLTIP_CLASS_NAME_RANK_1"
-msgstr "Grade I {class_name}"
+msgstr "I 級 {class_name}"
 
-#, fuzzy
 msgid "TOOLTIP_CLASS_NAME_RANK_2"
-msgstr "Grade II {class_name}"
+msgstr "II 級 {class_name}"
 
-#, fuzzy
 msgid "TOOLTIP_CLASS_NAME_RANK_3"
-msgstr "Grade III {class_name}"
+msgstr "III 級 {class_name}"
 
-#, fuzzy
 msgid "TOOLTIP_CLASS_NAME_RANK_4"
-msgstr "Grade IV {class_name}"
+msgstr "IV 級 {class_name}"
 
-#, fuzzy
 msgid "TOOLTIP_CLASS_NAME_RANK_5"
-msgstr "Grade V {class_name}"
+msgstr "V 級 {class_name}"
 
 #, fuzzy
 msgid "TOOLTIP_CLASS_RANK_DESCRIPTION"
@@ -5104,9 +5044,8 @@ msgstr ""
 "The amount of experience and credits earned in subsequent battles will be "
 "increased."
 
-#, fuzzy
 msgid "TOOLTIP_LEFT_TRAINING_ROOM"
-msgstr "Exit training flight"
+msgstr "離開飛行訓練"
 
 #, fuzzy
 msgid "TOOLTIP_MARKET_AIRPLANE_ALTITUDE"

@@ -52,16 +52,16 @@ msgid "CHAT_BUTTON_CONFIRM"
 msgstr "確定"
 
 msgid "CHAT_BUTTON_CREATE"
-msgstr "創建"
+msgstr "建立"
 
 msgid "CHAT_BUTTON_CREATE_CHANNEL"
-msgstr "創建頻道"
+msgstr "建立頻道"
 
 msgid "CHAT_BUTTON_CREATE_GROUP"
-msgstr "創建 群組"
+msgstr "建立 群組"
 
 msgid "CHAT_BUTTON_CREATE_GROUP_CHANNEL"
-msgstr "創建頻道"
+msgstr "建立頻道"
 
 msgid "CHAT_BUTTON_ENABLE_CENSORSHIP"
 msgstr "管理員訊息"
@@ -121,7 +121,7 @@ msgid "CHAT_CHANNEL_CONTEXT_HIGH_LOAD"
 msgstr "（高負載模式）"
 
 msgid "CHAT_CHANNEL_CREATION_HEADER"
-msgstr "創建新頻道"
+msgstr "建立新頻道"
 
 msgid "CHAT_CHANNEL_FAQ"
 msgstr "遊戲問題與解答"
@@ -352,7 +352,7 @@ msgid "CHAT_CHANNEL_TALK_TW"
 msgstr "[TW] 題外討論"
 
 msgid "CHAT_CHAT_SYSTEM_MESSAGE_UNABLE_TO_CREATE_CHANNEL_MAX_CHANNELS_EXEEDED_V2"
-msgstr "無法創建頻道！創建頻道數達到上限！"
+msgstr "無法建立頻道！建立頻道數達到上限！"
 
 msgid "CHAT_CLAN_CONTEXT_CLAN_NOT_ONLINE"
 msgstr "軍團離線"
@@ -481,7 +481,7 @@ msgid "CHAT_CONTEXT_MENU_CREATE_GROUP_CHAT"
 msgstr "建立團隊聊天頻道"
 
 msgid "CHAT_CONTEXT_MENU_CREATE_TEAM"
-msgstr "創建編隊"
+msgstr "建立編隊"
 
 msgid "CHAT_CONTEXT_MENU_DELETE_FROM_CONTACTS"
 msgstr "從聯絡人中刪除"
@@ -574,7 +574,7 @@ msgid "CHAT_CONTEXT_SHOW_MORE_PLAYERS"
 msgstr "顯示更多"
 
 msgid "CHAT_CONTEXT_TRAINING_ROOM"
-msgstr "訓練房間"
+msgstr "訓練房"
 
 msgid "CHAT_CREATE_CHANEL_MESSAGE"
 msgstr "輸入密碼"
@@ -832,7 +832,7 @@ msgid "CHAT_SYSTEM_MESSAGE_ENTER_PASSWORD"
 msgstr "請輸入密碼"
 
 msgid "CHAT_SYSTEM_MESSAGE_GROUP_NAME_TAKEN"
-msgstr "新創建分組的名稱已被使用"
+msgstr "新建立分組的名稱已被使用"
 
 msgid "CHAT_SYSTEM_MESSAGE_INVITATION_NOT_SENT"
 msgstr "邀請傳送失敗"
@@ -850,7 +850,7 @@ msgid "CHAT_SYSTEM_MESSAGE_PLAYER_INVITED"
 msgstr "你已邀請{name}加入公共聊天頻道{chatname}"
 
 msgid "CHAT_SYSTEM_MESSAGE_UNABLE_TO_CREATE_CHANNEL_MAX_CHANNELS_EXEEDED"
-msgstr "無法創建超過10個頻道"
+msgstr "無法建立超過10個頻道"
 
 msgid "CHAT_SYSTEM_MESSAGE_USER_ADDED_TO_FRIENDS"
 msgstr "{name}被加為好友"
@@ -874,7 +874,7 @@ msgid "CHAT_TEAM_CONTEXT_REMOVE_PLAYER_FROM_LIST"
 msgstr "刪除列表中所選擇的玩家"
 
 msgid "CHAT_TEAM_NO_CONTACTS_ADD_PLAYERS"
-msgstr "沒有聯絡人，要創建編隊，請先與其他玩家建立聯絡"
+msgstr "沒有聯絡人，要建立編隊，請先與其他玩家建立聯絡"
 
 msgid "CHAT_TEAM_STATUS_ALREADY_INVITED"
 msgstr "玩家已被邀請加入編隊"
@@ -925,7 +925,7 @@ msgid "TOOLTIP_CHAT_CLOSE"
 msgstr "關閉"
 
 msgid "TOOLTIP_CHAT_CREATE_GROUP_CHAT"
-msgstr "創建一個群聊頻道"
+msgstr "建立一個群聊頻道"
 
 msgid "TOOLTIP_CHAT_FRIEND_NOT_APPROVED"
 msgstr "對方尚未新增你為好友"

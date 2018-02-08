@@ -31,7 +31,7 @@ msgid "DIALOG_SERVER_FULL_MESSAGE"
 msgstr "您已經進入遊戲等待佇列，請等待客戶端自動連線遊戲伺服器。"
 
 msgid "DIALOG_SERVER_OVERLOADED_HEADER"
-msgstr "對不起, 伺服器忙。"
+msgstr "對不起, 伺服器繁忙。"
 
 msgid "DIALOG_SERVER_OVERLOADED_MESSAGE"
 msgstr "連線至伺服器…"
@@ -337,16 +337,11 @@ msgstr "等待"
 msgid "WARGAMING_COPYRIGHT"
 msgstr "© 2011-2018 Wargaming.net. 保留所有權利。"
 
-#, fuzzy
 msgid "LOGIN_MESSAGES_DOWNLOAD_AND_UPDATE"
-msgstr ""
-"If update does not start, download the update file from the {link_start}"
-"link{link_end} and run it."
+msgstr "如果未開始更新，請從 {link_start}link{link_end} 下載更新檔並執行。"
 
-#, fuzzy
 msgid "LOGIN_MESSAGES_NEW_UPDATE"
-msgstr "New game client version is available."
+msgstr "遊戲客戶端已有新版本。"
 
-#, fuzzy
 msgid "LOGIN_MESSAGES_START_UPDATE"
-msgstr "Start update"
+msgstr "開始更新"

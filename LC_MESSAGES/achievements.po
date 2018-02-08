@@ -180,7 +180,7 @@ msgid "ACHIEVEMENTS_REFRESHING_DATA"
 msgstr "正在更新資料..."
 
 msgid "ACHIEVEMENTS_REGISTRATION_DATE"
-msgstr "創建時間："
+msgstr "建立時間："
 
 msgid "ACHIEVEMENTS_SUMMARY_STATS"
 msgstr "彙總統計"
@@ -596,7 +596,7 @@ msgstr ""
 
 msgid "MEDAL_DESCRIPTION_HOT_ENGINES"
 msgstr ""
-"授予戰機發動機在經過長時間加力而過熱後重新完全冷卻的玩家<br><br>只可獲得一次"
+"授予戰機發動機在經過長時間增壓而過熱後重新完全冷卻的玩家<br><br>只可獲得一次"
 
 msgid "MEDAL_DESCRIPTION_INTERCEPTOR"
 msgstr ""
@@ -1554,7 +1554,7 @@ msgstr ""
 msgid "MEDAL_HISTORY_HABREZKI"
 msgstr ""
 "弗朗西斯·加布雷斯基是美國王牌戰鬥機飛行員，在二戰期間駕駛P-47雷電擊落28架敵機"
-"並在朝鮮戰爭中擊落6架敵機。"
+"並在韓戰中擊落6架敵機。"
 
 msgid "MEDAL_HISTORY_LINDBERGH"
 msgstr ""

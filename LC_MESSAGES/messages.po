@@ -881,7 +881,7 @@ msgid "SYSTEM_MESSAGE_QUESTS_SEVERAL_COMPLETED"
 msgstr "任務完成:"
 
 msgid "SYSTEM_MESSAGE_WING_BATTLE_ERROR_TEXT"
-msgstr "進入戰鬥失敗。請選擇另外一架戰機或者是重新創建編隊。"
+msgstr "進入戰鬥失敗。請選擇另外一架戰機或者是重新建立編隊。"
 
 msgid "SYSTEM_MESSAGE_WING_BUTTON_ACCEPT_INVITATION"
 msgstr "接受"

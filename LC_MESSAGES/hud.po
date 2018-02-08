@@ -286,7 +286,7 @@ msgid "HELP_FOLLOW_ME"
 msgstr "跟我來！"
 
 msgid "HELP_FORCING"
-msgstr "加力"
+msgstr "增壓"
 
 msgid "HELP_HEAVY_FIGHTER"
 msgstr "重型戰鬥機"
@@ -348,7 +348,7 @@ msgstr "基地"
 msgid "HELP_P1"
 msgstr ""
 "<p><b>F1</b> — 幫助介面</p><p></p><p>按住 <b>Q</b> — 後視視角</p><p>按住 "
-"<b>C</b> — 拉平戰機</p><p>按住 <b>W</b> — 加力</p><p>按住 <b>S</b> — 停車</"
+"<b>C</b> — 拉平戰機</p><p>按住 <b>W</b> — 增壓</p><p>按住 <b>S</b> — 停車</"
 "p><p></p><p><b>空格鍵</b>, <b>滑鼠左鍵</b> 或者 <b>搖桿J1</b> — 射擊</p><p></"
 "p><p><b>T</b> — 鎖定當前目標</p><p>按住 <b>左 Shift</b> — 對齊目標t</p><p>按"
 "住 <b>"
@@ -699,7 +699,7 @@ msgid "HUD_MESSAGE_BUILDING_DAMAGED_SUP2_TOP"
 msgstr "地面目標受損"
 
 msgid "HUD_MESSAGE_CANNOT_BOOST_ENGINE_DEAD"
-msgstr "引擎熄火！無法加力！"
+msgstr "引擎熄火！無法增壓！"
 
 msgid "HUD_MESSAGE_CREW_MEMBER_HAS_RECOVERED"
 msgstr "{crew_member} 恢復"
@@ -738,7 +738,7 @@ msgid "HUD_MESSAGE_ENEMY_OBJECT_DOWN"
 msgstr "摧毀敵方目標！"
 
 msgid "HUD_MESSAGE_ENGINE_DAMAGED_LESS_AFTERBURN"
-msgstr "發動機受損! 加力能力降低!"
+msgstr "發動機受損! 增壓能力降低!"
 
 msgid "HUD_MESSAGE_ENGINE_DEAD_LESS_THRUST"
 msgstr "引擎熄火! 失去動力!"
@@ -750,7 +750,7 @@ msgid "HUD_MESSAGE_ENGINE_OVERHEAT_APRIL"
 msgstr "發動機需要冷卻! 我們沒法加速了"
 
 msgid "HUD_MESSAGE_ENGINE_OVERHEAT_LOW_BOOST"
-msgstr "發動機過熱：加力效率下降。"
+msgstr "發動機過熱：增壓效率下降。"
 
 msgid "HUD_MESSAGE_FLAPS_DRAWN"
 msgstr "開啟襟翼"
@@ -1363,7 +1363,7 @@ msgid "HUD_TOOLTIP_CONSUMABLE_BUTTON"
 msgstr "按 {button} 鍵進行使用"
 
 msgid "HUD_TOOLTIP_THRUST_BUTTON"
-msgstr "按 {button} 鍵進行加力"
+msgstr "按 {button} 鍵進行增壓"
 
 msgid "HUD_TOOLTIP_THRUST_DURATION"
 msgstr "提高可用性"
@@ -1402,7 +1402,7 @@ msgid "HUD_YOU_MESSAGE"
 msgstr "你"
 
 msgid "INGAME_HELP_KEYS_ASSIGNMENT_TIP"
-msgstr "檢視和自定義遊戲設定，點選設定。"
+msgstr "檢視和自訂遊戲設定，點選設定。"
 
 msgid "INGAME_HELP_RETURN_TO_GAME"
 msgstr "Esc-回到遊戲"
@@ -1640,7 +1640,7 @@ msgid "UI_MESSAGE_ENEMY_DOWN"
 msgstr "摧毀敵人！"
 
 msgid "UI_MESSAGE_ENGINE_DAMAGED_CANNOT_BOOST"
-msgstr "發動機受損！無法加力！"
+msgstr "發動機受損！無法增壓！"
 
 msgid "UI_MESSAGE_ENGINE_DEAD"
 msgstr "發動機故障！"
@@ -1995,13 +1995,11 @@ msgstr "給隊伍:"
 msgid "HUD_CHAT_WING_MODE"
 msgstr "給編隊:"
 
-#, fuzzy
 msgid "HUD_CHOICE_PLANE"
-msgstr "Select aircraft"
+msgstr "選擇戰機"
 
-#, fuzzy
 msgid "HUD_CHOICE_RESPAWN"
-msgstr "Select spawn point for reinforcement aircraft"
+msgstr "為支援戰機選取重生點"
 
 #, fuzzy
 msgid "HUD_CHOICE_SPECTATOR_CAMERA"
@@ -2180,9 +2178,8 @@ msgstr "Captured by the enemy!"
 msgid "HUD_ENEMY_INFLUENCE_75"
 msgstr "Enemy achieved 75% influence in the area of operation!"
 
-#, fuzzy
 msgid "HUD_ENEMY_PLANES"
-msgstr "Enemy aircraft destroyed"
+msgstr "擊落敵方戰機"
 
 msgid "HUD_EVENT_INCOMING_MIN"
 msgstr "將會在 {value} 分鐘後到來"
@@ -2190,13 +2187,11 @@ msgstr "將會在 {value} 分鐘後到來"
 msgid "HUD_EVENT_INCOMING_SEC"
 msgstr "將會在 {value} 秒後到來"
 
-#, fuzzy
 msgid "HUD_EVENT_REINFORCEMENTS_NOT_AVAILABLE"
-msgstr "Reinforcements cannot be called in"
+msgstr "無法呼叫支援"
 
-#, fuzzy
 msgid "HUD_F1_ARMORED_OBJECT_AA_SECTORS"
-msgstr "Armored ground targets"
+msgstr "地面裝甲目標"
 
 #, fuzzy
 msgid "HUD_F1_DEFEND_SECTOR"
@@ -2697,13 +2692,11 @@ msgstr "Attack Flight bomber"
 msgid "HUD_MESSAGES_BATTLE_SCORE_DESTROY_PART"
 msgstr "Section of ground target"
 
-#, fuzzy
 msgid "HUD_MESSAGES_BATTLE_SCORE_DESTROY_SPECIAL_OBJECT"
-msgstr "Major ground target"
+msgstr "主要地面目標"
 
-#, fuzzy
 msgid "HUD_MESSAGES_BATTLE_SCORE_KILL_ALLY"
-msgstr "Ally destroyed"
+msgstr "隊友被擊落"
 
 #, fuzzy
 msgid "HUD_MESSAGES_BATTLE_SCORE_PARTICIPATION_CAP_SECTOR"
@@ -2713,17 +2706,14 @@ msgstr "Participation in capturing sector"
 msgid "HUD_MESSAGES_DEFENDER_DESTROYED_VALUE"
 msgstr "Air defense aircraft destroyed"
 
-#, fuzzy
 msgid "HUD_MESSAGES_ENEMY_DESTROYED_VALUE"
-msgstr "Enemy aircraft destroyed"
+msgstr "已擊落敵方戰機"
 
-#, fuzzy
 msgid "HUD_MESSAGES_OBJECTS_DESTROYED_VALUE"
-msgstr "Ground targets destroyed"
+msgstr "已摧毀地面目標"
 
-#, fuzzy
 msgid "HUD_MESSAGES_PRESS_BUTTON_TO_LOCK_TARGET"
-msgstr "Press C to lock this target."
+msgstr "按下 C 以鎖定這個目標。"
 
 #, fuzzy
 msgid "HUD_MESSAGES_SPACE"
@@ -2773,11 +2763,9 @@ msgstr "Efficiency is partially restored."
 msgid "HUD_MESSAGE_ENEMY_SUPERIORITY"
 msgstr "The enemy is in control of the operation area"
 
-#, fuzzy
 msgid "HUD_MESSAGE_ENGINE_WORK"
-msgstr "The engine is back in operation!"
+msgstr "引擎恢復運作！"
 
-#, fuzzy
 msgid "HUD_MESSAGE_EVENT_NAME_STORM_FRONT"
 msgstr "暴風雨"
 
@@ -2785,13 +2773,11 @@ msgstr "暴風雨"
 msgid "HUD_MESSAGE_GUNNER_HAS_HEALED"
 msgstr "The gunner is back in action!"
 
-#, fuzzy
 msgid "HUD_MESSAGE_LAST_ENEMY"
-msgstr "Last target!"
+msgstr "最後的目標！"
 
-#, fuzzy
 msgid "HUD_MESSAGE_MODULE_WORK"
-msgstr "Back in operation: {module}!"
+msgstr "{module} 已經恢復運作！"
 
 #, fuzzy
 msgid "HUD_MESSAGE_PILOT_HAS_HEALED"
@@ -2801,23 +2787,18 @@ msgstr "The pilot is back in action!"
 msgid "HUD_MESSAGE_SUPERIORITY_1"
 msgstr "Superiority!"
 
-#, fuzzy
 msgid "HUD_MESSAGE_TAIL_WORK"
-msgstr "The tail is operational!"
+msgstr "尾翼恢復運作！"
 
-#, fuzzy
 msgid "HUD_MESSAGE_VICTORY_IS_NEAR"
-msgstr "Victory is close!"
+msgstr "即將取得勝利！"
 
-#, fuzzy
 msgid "HUD_MESSAGE_WING_WORK"
-msgstr "The wing is operational!"
+msgstr "機翼恢復運作！"
 
-#, fuzzy
 msgid "HUD_MILES"
 msgstr "mi"
 
-#, fuzzy
 msgid "HUD_MILLISECOND"
 msgstr "ms"
 
@@ -2834,41 +2815,39 @@ msgid "HUD_NAME_FLAME_OF_HEAVEN"
 msgstr "Flames in the Sky"
 
 msgid "HUD_NAME_OBJECT_AIRBASE"
-msgstr "\"空軍基地\"區域"
+msgstr "\"空軍基地\"分區"
 
 #, fuzzy
 msgid "HUD_NAME_OBJECT_AIRFIELD"
-msgstr "Sector \"Staging Airfield\""
+msgstr "\"Staging Airfield\"分區"
 
 #, fuzzy
 msgid "HUD_NAME_OBJECT_COMMANDCENTER"
-msgstr "Sector \"Command Center\""
+msgstr "\"Command Center\"分區"
 
 #, fuzzy
 msgid "HUD_NAME_OBJECT_FACTORY"
-msgstr "Sector \"Refinery\""
+msgstr "\"Refinery\"分區"
 
 msgid "HUD_NAME_OBJECT_FIELDCAMP"
-msgstr "\"屯駐地\"區域"
+msgstr "\"屯駐地\"分區"
 
 msgid "HUD_NAME_OBJECT_FOUNDRY"
-msgstr "\"採礦場\"區域"
+msgstr "\"採礦場\"分區"
 
-#, fuzzy
 msgid "HUD_NAME_OBJECT_MILITARYBASE"
-msgstr "Sector \"Military Base\""
+msgstr "\"軍事基地\"分區"
 
 #, fuzzy
 msgid "HUD_NAME_OBJECT_RADIOPOINT"
-msgstr "Sector \"Field Headquarters\""
+msgstr "\"Field Headquarters\"分區"
 
-#, fuzzy
 msgid "HUD_NAME_OBJECT_RUNWAY"
-msgstr "Sector \"Forward Airstrip\""
+msgstr "\"前線簡易機場\"分區"
 
 #, fuzzy
 msgid "HUD_NAME_OBJECT_WORKSHOP"
-msgstr "Sector \"Industrial Depot\""
+msgstr "\"Industrial Depot\"分區"
 
 #, fuzzy
 msgid "HUD_NAME_RAMMING"
@@ -4041,29 +4020,24 @@ msgstr ""
 msgid "HUD_WARNING_MESSAGE_ALIGH_PLANE"
 msgstr "Level off!"
 
-#, fuzzy
 msgid "HUD_WARNING_MESSAGE_ANTI_AIR_DEF"
-msgstr "You are under AA fire!"
+msgstr "你正被高射砲攻擊！"
 
-#, fuzzy
 msgid "HUD_WARNING_MESSAGE_AUTOPILOT"
-msgstr "Autopilot is engaged"
+msgstr "已啓動自動駕駛"
 
-#, fuzzy
 msgid "HUD_WARNING_MESSAGE_BACK_TO_OPERATION_AREA"
-msgstr "Get back to the area of operation!"
+msgstr "返回任務區域！"
 
-#, fuzzy
 msgid "HUD_WARNING_MESSAGE_BOMBING_IMPOSSIBLE"
-msgstr "Unable to drop a bomb!"
+msgstr "無法投下炸彈"
 
 #, fuzzy
 msgid "HUD_WARNING_MESSAGE_CHANGE_FLIGHT_PATH"
 msgstr "Change your direction!"
 
-#, fuzzy
 msgid "HUD_WARNING_MESSAGE_COLLISION"
-msgstr "Collision warning!"
+msgstr "碰撞警告！"
 
 #, fuzzy
 msgid "HUD_WARNING_MESSAGE_EFFECTIVENESS_REDUCED"
@@ -4073,15 +4047,12 @@ msgstr "Efficiency is reduced."
 msgid "HUD_WARNING_MESSAGE_ENEMY_ON_SIX"
 msgstr "Enemy on your tail!"
 
-#, fuzzy
 msgid "HUD_WARNING_MESSAGE_ENGINE_MALFUNCTION"
-msgstr "The engine is damaged!"
+msgstr "引擎受損"
 
-#, fuzzy
 msgid "HUD_WARNING_MESSAGE_ENGINE_OVERHEAT"
 msgstr "引擎過熱！"
 
-#, fuzzy
 msgid "HUD_WARNING_MESSAGE_GUNNER_CANT_SHOOT"
 msgstr "無法射擊"
 
@@ -4089,85 +4060,70 @@ msgstr "無法射擊"
 msgid "HUD_WARNING_MESSAGE_GUNNER_WOUNDED"
 msgstr "The gunner is injured!"
 
-#, fuzzy
 msgid "HUD_WARNING_MESSAGE_IMPOSSIBLE_BOOST"
-msgstr "Unable to boost."
+msgstr "無法增壓。"
 
-#, fuzzy
 msgid "HUD_WARNING_MESSAGE_INCREASE_YOUR_SPEED"
-msgstr "Increase your speed!"
+msgstr "提高你的速度！"
 
 #, fuzzy
 msgid "HUD_WARNING_MESSAGE_LEAVE_BATTLEFIELD"
 msgstr "You are leaving the battlefield!"
 
-#, fuzzy
 msgid "HUD_WARNING_MESSAGE_LEAVE_OPERATION_AREA"
-msgstr "You have flown out of the area of operation!"
+msgstr "你已飛離任務區域！"
 
-#, fuzzy
 msgid "HUD_WARNING_MESSAGE_MANEUVER_AAD"
-msgstr "Maneuver to escape enemy fire!"
+msgstr "保持移動避開敵方砲火！"
 
 #, fuzzy
 msgid "HUD_WARNING_MESSAGE_MANEUVER_PLAYER"
 msgstr "Maneuver to escape the enemy's view!"
 
-#, fuzzy
 msgid "HUD_WARNING_MESSAGE_MANEUVER_STOP_FIRE"
-msgstr "Maneuver to extinguish fire!"
+msgstr "保持移動以撲滅火勢！"
 
 #, fuzzy
 msgid "HUD_WARNING_MESSAGE_MODULE_DESTROYED"
 msgstr "Destroyed: {module}!"
 
-#, fuzzy
 msgid "HUD_WARNING_MESSAGE_NO_BOMB"
-msgstr "No bombs to drop"
+msgstr "無炸彈可投射"
 
-#, fuzzy
 msgid "HUD_WARNING_MESSAGE_NO_ROCKETS"
-msgstr "No rockets to launch"
+msgstr "無火箭彈可發射"
 
 #, fuzzy
 msgid "HUD_WARNING_MESSAGE_PILOT_WOUNDED"
 msgstr "The pilot is injured!"
 
-#, fuzzy
 msgid "HUD_WARNING_MESSAGE_PLANE_IN_FIRE"
-msgstr "The aircraft is on fire!"
+msgstr "戰機著火了！"
 
-#, fuzzy
 msgid "HUD_WARNING_MESSAGE_REDUCED_DURATION_BOOST"
-msgstr "Boost duration is reduced."
+msgstr "增壓時間減少！"
 
-#, fuzzy
 msgid "HUD_WARNING_MESSAGE_REDUCED_RATE_OF_FIRE"
-msgstr "Rate of fire is reduced."
+msgstr "射速下降！"
 
-#, fuzzy
 msgid "HUD_WARNING_MESSAGE_TAIL_DAMAGED"
-msgstr "The tail is damaged!"
+msgstr "尾翼受損！"
 
 #, fuzzy
 msgid "HUD_WARNING_MESSAGE_WAIT_REPLENISH_AMMUNITION"
 msgstr "Wait until ordnance is resupplied."
 
-#, fuzzy
 msgid "HUD_WARNING_MESSAGE_WEAPONS_OVERHEAT"
 msgstr "武器過熱！"
 
-#, fuzzy
 msgid "HUD_WARNING_MESSAGE_WING_DAMAGED"
-msgstr "The wing is damaged!"
+msgstr "機翼受損！"
 
-#, fuzzy
 msgid "HUD_WEAPONS"
-msgstr "Weapons"
+msgstr "武器"
 
-#, fuzzy
 msgid "HUD_WIN_SECTORS_STR"
-msgstr "The combat group took control of all sectors"
+msgstr "戰鬥隊伍控制了所有的分區"
 
 #, fuzzy
 msgid "HUD_WIN_TIME_OVER_STR"
@@ -4185,9 +4141,8 @@ msgstr "Zoom in radar area"
 msgid "HUD_ZOOM_OUT_RADAR"
 msgstr "Zoom out radar area"
 
-#, fuzzy
 msgid "OBJECT_NAME_BATTLESHIP"
-msgstr "Warship"
+msgstr "戰艦"
 
 #, fuzzy
 msgid "OBJECT_NAME_RLS STOREHOUSE"
@@ -4201,9 +4156,8 @@ msgstr "Designate a sector more accurately"
 msgid "QUICK_MESSAGE_ERROR_PLANE"
 msgstr "Designate a target more accurately"
 
-#, fuzzy
 msgid "QUICK_MESSAGE_ERROR_SCREEN"
-msgstr "Only a pilot can transmit messages."
+msgstr "只有飛行員可以傳送訊息。"
 
 #, fuzzy
 msgid "QUICK_MESSAGE_ERROR_TIMER"
@@ -4257,9 +4211,8 @@ msgstr "Enemy on my tail! I need help!"
 msgid "QUICK_MESSAGE_F8_1"
 msgstr "Good job!"
 
-#, fuzzy
 msgid "SETTINGS_SHOW_TIPS_CHECKBOX"
-msgstr "Show hints before a battle starts"
+msgstr "在戰鬥開始前顯示提示"
 
 #, fuzzy
 msgid "UI_MESSAGE_BOMBING_NO_EFFECT"
@@ -4273,21 +4226,17 @@ msgstr "Staging airfield captured"
 msgid "UI_MESSAGE_EVENT_AIRFIELD_LOST"
 msgstr "Staging airfield lost"
 
-#, fuzzy
 msgid "UI_MESSAGE_EVENT_ALLY_DESTROYED"
-msgstr "{name} ({aircraft}) destroyed"
+msgstr "{name} ({aircraft}) 被擊落"
 
-#, fuzzy
 msgid "UI_MESSAGE_EVENT_ALLY_SUICIDE"
-msgstr "{name} ({aircraft}) crashed"
+msgstr "{name} ({aircraft}) 墜毀"
 
-#, fuzzy
 msgid "UI_MESSAGE_INCREASE_ALTITUDE"
-msgstr "Gain some altitude."
+msgstr "增加一些高度"
 
-#, fuzzy
 msgid "UI_MESSAGE_REDUCE_ALTITUDE"
-msgstr "Lose some altitude."
+msgstr "降低一些高度"
 
 msgid "UI_MESSAGE_YOU_BURNED_2-0"
 msgstr "飛機被火災摧毀"

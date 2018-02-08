@@ -40,10 +40,10 @@ msgid "AFTERBATTLE_STATISTICS_BUTTON_DETAILED"
 msgstr "詳細資訊"
 
 msgid "AFTERBATTLE_STATISTICS_BUTTON_REPLAY"
-msgstr "錄像"
+msgstr "前往戰鬥錄影"
 
 msgid "AFTERBATTLE_STATISTICS_BUTTON_WATCH"
-msgstr "開始"
+msgstr "播放"
 
 msgid "AFTERBATTLE_STATISTICS_COLUMN_HEADER_ASSISTS"
 msgstr "助攻<br>助攻數量"
@@ -711,16 +711,14 @@ msgstr "{member_name}正在積累經驗，獲得另一個技能點"
 msgid "BATTLE_RESULT_EXP"
 msgstr "經驗"
 
-#, fuzzy
 msgid "BATTLE_RESULT_GENERAL_EFFICIENCY"
-msgstr "General 表現"
+msgstr "一般表現"
 
 msgid "BATTLE_RESULT_GENERAL_STATS_FOR_ALL_PLANES_IN_BATTLE"
 msgstr "所有參與戰鬥的<br>戰報"
 
-#, fuzzy
 msgid "BATTLE_RESULT_GUNNER_EXP"
-msgstr "Gunner 經驗:"
+msgstr "砲手經驗:"
 
 msgid "BATTLE_RESULT_HEADER_GENERAL"
 msgstr "總結"
@@ -744,7 +742,7 @@ msgid "BATTLE_RESULT_PARTS_DESTROYED"
 msgstr "部分的地面目標被摧毀"
 
 msgid "BATTLE_RESULT_PILOT_EXP"
-msgstr "戰機經驗:"
+msgstr "飛行員經驗:"
 
 msgid "BATTLE_RESULT_PLANES_DESTROYED"
 msgstr "空中目標被摧毀"

@@ -160,7 +160,7 @@ msgstr ""
 "再轉向脫離。"
 
 msgid "HINT_46"
-msgstr "遠離混戰區域和使用發動機加力可以幫助重型戰鬥機規避戰鬥機的攻擊。"
+msgstr "遠離混戰區域和使用發動機增壓可以幫助重型戰鬥機規避戰鬥機的攻擊。"
 
 msgid "HINT_47"
 msgstr ""
@@ -226,7 +226,7 @@ msgid "HINT_61"
 msgstr "長時間連續射擊會使武器過熱射速下降，當武器過熱時請等待武器冷卻。"
 
 msgid "HINT_62"
-msgstr "加力會使發動機過熱，當發動機過熱，你將不能繼續加力。"
+msgstr "增壓會使發動機過熱，當發動機過熱，你將不能繼續增壓。"
 
 msgid "HINT_63"
 msgstr ""
@@ -595,13 +595,13 @@ msgid "L3_FOLLOW_PORTALS"
 msgstr "穿過光圈"
 
 msgid "L3_FORSAGE_COOLDOWN"
-msgstr "使用完加力後，需要等待發動機冷卻"
+msgstr "使用完增壓後，需要等待發動機冷卻"
 
 msgid "L3_FORSAGE_DESC"
-msgstr "開啟加力後可以迅速提升航速，得到更快的爬升速度"
+msgstr "開啟增壓後可以迅速提升航速，得到更快的爬升速度"
 
 msgid "L3_FORSAGE_KEY"
-msgstr "要迅速提升速度，按住加力鍵："
+msgstr "要迅速提升速度，按住增壓鍵："
 
 msgid "L3_KEEP_LOW"
 msgstr "保持飛行高度低於峽谷壁！"
@@ -896,7 +896,7 @@ msgid "TUTORIAL_LESSON_1_HEADER_AIM_AT_TARGET"
 msgstr "瞄準目標！"
 
 msgid "TUTORIAL_LESSON_1_HEADER_BOOSTER"
-msgstr "使用加力"
+msgstr "使用增壓"
 
 msgid "TUTORIAL_LESSON_1_HEADER_BORDER"
 msgstr "訓練區域在後方"
@@ -908,7 +908,7 @@ msgid "TUTORIAL_LESSON_1_HEADER_ENGINE_OVERHEAT1"
 msgstr "發動機過熱！"
 
 msgid "TUTORIAL_LESSON_1_HEADER_ENGINE_OVERHEAT2"
-msgstr "無法加力！"
+msgstr "無法增壓！"
 
 msgid "TUTORIAL_LESSON_1_HEADER_FINAL_RUN"
 msgstr "最後一擊"
@@ -1085,7 +1085,7 @@ msgid "TUTORIAL_LESSON_1_HEADER_USE_CONTROLS3"
 msgstr "使用搖桿"
 
 msgid "TUTORIAL_LESSON_1_HEADER_USE_CONTROLS4"
-msgstr "使用手柄"
+msgstr "使用手把"
 
 msgid "TUTORIAL_LESSON_1_HEADER_YAW_LEFT"
 msgstr "左偏轉"
@@ -1103,7 +1103,7 @@ msgid "TUTORIAL_LESSON_1_LOADER_FIRE"
 msgstr "開火"
 
 msgid "TUTORIAL_LESSON_1_LOADER_FORSAGE"
-msgstr "加力"
+msgstr "增壓"
 
 msgid "TUTORIAL_LESSON_1_LOADER_HEADER"
 msgstr "歡迎進行射擊訓練！"
@@ -1115,10 +1115,10 @@ msgid "TUTORIAL_LESSON_1_MESSAGE_BORDER"
 msgstr "如果你飛出訓練區域，你會回到起點"
 
 msgid "TUTORIAL_LESSON_1_MESSAGE_ENGINE_OVERHEAT1"
-msgstr "長時間的加力會使你的發動機過熱"
+msgstr "長時間的增壓會使你的發動機過熱"
 
 msgid "TUTORIAL_LESSON_1_MESSAGE_ENGINE_OVERHEAT2"
-msgstr "發動機過熱，無法加力！"
+msgstr "發動機過熱，無法增壓！"
 
 msgid "TUTORIAL_LESSON_1_MESSAGE_FINAL_RUN"
 msgstr "快！距離終點只差一點點了！"
@@ -1142,7 +1142,7 @@ msgid "TUTORIAL_LESSON_1_MESSAGE_FIRST_AERO"
 msgstr "破壞標記氣球（1/2）"
 
 msgid "TUTORIAL_LESSON_1_MESSAGE_FORSAGE"
-msgstr "使用加力提高飛行速度！"
+msgstr "使用增壓提高飛行速度！"
 
 msgid "TUTORIAL_LESSON_1_MESSAGE_GOING_DOWN"
 msgstr "要下降並獲得飛行速度，讓飛機向下俯衝。"
@@ -1218,7 +1218,7 @@ msgid "TUTORIAL_LESSON_1_MESSAGE_SECOND_AERO"
 msgstr "破壞標記氣球（2/2）"
 
 msgid "TUTORIAL_LESSON_1_MESSAGE_SPEED_UP"
-msgstr "用加力提高飛行速度並超越你的對手！"
+msgstr "用增壓提高飛行速度並超越你的對手！"
 
 msgid "TUTORIAL_LESSON_1_MESSAGE_START1"
 msgstr "歡迎開始您的飛行訓練！"
@@ -1290,7 +1290,7 @@ msgid "TUTORIAL_LESSON_1_MESSAGE_USE_CONTROLS3"
 msgstr "使用搖桿來控制戰機，你可在設定中切換控制方式"
 
 msgid "TUTORIAL_LESSON_1_MESSAGE_USE_CONTROLS4"
-msgstr "使用手柄來控制戰機，你可在設定中切換控制方式"
+msgstr "使用手把來控制戰機，你可在設定中切換控制方式"
 
 msgid "TUTORIAL_LESSON_1_NAME_CAPS"
 msgstr "飛行訓練"
@@ -1878,6 +1878,5 @@ msgstr "恭喜你！訓練成功！"
 msgid "TUTORIAL_TOKENS"
 msgstr "令牌"
 
-#, fuzzy
 msgid "LOBBY_TUTORIAL_UNAVAILABLE_GO_TO_STANDART_BATTLE"
-msgstr "Unavailable. Win a Standard battle."
+msgstr "無法使用。在標準戰鬥中獲得勝利吧。"
