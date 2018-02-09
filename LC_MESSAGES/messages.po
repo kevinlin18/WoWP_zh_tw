@@ -139,7 +139,7 @@ msgid "COMPONENT_NAME_TEXT_PREMIUM_EXPIRES_IN"
 msgstr "加值帳號到期時間："
 
 msgid "COMPONENT_NAME_TEXT_PREMIUM_PROLONGED"
-msgstr "加值帳號續期至："
+msgstr "加值帳號延長至："
 
 msgid "COMPONENT_NAME_TEXT_SCREENSHOT_SAVED"
 msgstr "截圖儲存至："
@@ -166,13 +166,13 @@ msgid "DISCONNECT/#SYSTEM_MESSAGES:LOGIN_TO_OTHER_GAME_UNKNOWN"
 msgstr "當前遊戲中斷。您的帳號被用於登入其他遊戲。"
 
 msgid "DISCONNECT/#SYSTEM_MESSAGES:LOGIN_TO_OTHER_GAME_WEB"
-msgstr "遊戲中斷，已與遊戲伺服器斷開連結"
+msgstr "遊戲中斷，與伺服器的連結已斷開"
 
 msgid "DISCONNECT/#SYSTEM_MESSAGES:LOGIN_TO_OTHER_GAME_WOT"
 msgstr "當前遊戲中斷。您的帳號被用於登入戰車世界。"
 
 msgid "DISCONNECT/#SYSTEM_MESSAGES:LOGIN_TO_OTHER_GAME_WOTBLITZ"
-msgstr "當前遊戲中斷。您的帳號被用於登入戰車世界：閃電戰。"
+msgstr "當前遊戲中斷。您的帳號被用於登入戰車世界：閃擊戰。"
 
 msgid "DISCONNECT/#SYSTEM_MESSAGES:LOGIN_TO_OTHER_GAME_WOTG"
 msgstr "當前遊戲中斷。您的帳號被用於登入戰車世界：將軍。"
@@ -184,25 +184,25 @@ msgid "DISCONNECT/#SYSTEM_MESSAGES:LOGIN_TO_OTHER_GAME_WWP"
 msgstr "當前遊戲中斷。您的帳號被用於登入戰機世界。"
 
 msgid "DISCONNECT/#SYSTEM_MESSAGES:SERVER_REBOOTING"
-msgstr "伺服器重新啟動進行中…請稍後…"
+msgstr "伺服器重新啟動中…請稍後…"
 
 msgid "DISCONNECT/#SYSTEM_MESSAGES:SERVER_SHUTDOWN"
-msgstr "伺服器暫時不可用，請稍後再試一次"
+msgstr "伺服器暫時無法使用，請稍後再試一次"
 
 msgid "DISCONNECT/#SYSTEM_MESSAGES:SERVER_SHUT_DOWN"
-msgstr "重啟遊戲伺服器..."
+msgstr "重新啟動遊戲伺服器..."
 
 msgid "DISCONNECT/#SYSTEM_MESSAGES:SESSION_TRACKER_KICK"
-msgstr "您的帳號已經登入到了戰爭三部曲中的另外一個遊戲，當前遊戲已退出。"
+msgstr "您的帳號已登入戰爭三部曲中的另外一個遊戲，當前遊戲已退出。"
 
 msgid "DISCONNECT/BAN"
-msgstr "帳號未被啟動，請前往官網啟動帳號後登入遊戲"
+msgstr "帳號未啟動，請前往官網啟動帳號後登入遊戲"
 
 msgid "DISCONNECT/BAN_PERIOD"
-msgstr "禁止訪問遊戲："
+msgstr "禁止登入遊戲："
 
 msgid "DISCONNECT/CONNECTION_LOST"
-msgstr "您已與伺服器中斷連線，請稍後再試。"
+msgstr "您與伺服器的連線已中斷，請稍後再試。"
 
 msgid "DISCONNECT/KICK"
 msgstr "您已與管理中斷連線。"
@@ -215,8 +215,8 @@ msgstr "連線中斷"
 
 msgid "ELITE_AIRCRAFT_DESCRIPTION"
 msgstr ""
-"研究戰機的所有可用裝備及全部進階戰機後將被稱為精英戰機。<br/>精英戰機的個體經"
-"驗可被兌換成自由經驗。"
+"研究完戰機的所有可用裝備及後續戰機後將變為精英戰機。<br/>精英戰機的機體經"
+"驗可兌換成自由經驗。"
 
 msgid "ELITE_AIRCRAFT_HEADER"
 msgstr "獲得精英戰機！"
@@ -231,7 +231,7 @@ msgid "LOBBY_BUBBLE_GOLD_EXCHANGE_SUCCESFULL"
 msgstr "金幣兌換成功"
 
 msgid "LOBBY_BUBBLE_TOKENS_EXCHANGE_SUCCESFULL"
-msgstr "令牌兌換成功。"
+msgstr "代幣兌換成功。"
 
 msgid "LOBBY_HEADER_AMMO_REFILL"
 msgstr "補充彈藥:"
@@ -432,7 +432,7 @@ msgid "LOBBY_MSG_PREMIUM_EXTENDED"
 msgstr "延長加值帳號。失效日期: {time}."
 
 msgid "LOBBY_MSG_ROCKETS_REFILL_FAILED"
-msgstr "資金不夠"
+msgstr "資金不足"
 
 msgid "LOBBY_MSG_SCREENSHOT"
 msgstr "截圖儲存到: {adress}"
@@ -444,7 +444,7 @@ msgid "LOBBY_MSG_SET_MODULES"
 msgstr "購買模組 {module_name} "
 
 msgid "LOBBY_MSG_SQUAD_LIMIT_EXCEEDED"
-msgstr "您已經超出了最大組隊人數限制"
+msgstr "您已超出最大組隊人數限制"
 
 msgid "LOBBY_MSG_TITLE_PENALTY"
 msgstr "傷害隊友懲罰："
@@ -492,13 +492,13 @@ msgid "MESSAGE_AMMO_REFILLED_TEXT"
 msgstr "補充彈藥成功。"
 
 msgid "MESSAGE_CAMO_EXPIRES"
-msgstr "塗裝方案使用期限已過！"
+msgstr "塗裝使用期限已過！"
 
 msgid "MESSAGE_CANNOT_SELL_DAMAGED_PLANE"
 msgstr "無法賣出。<br>請先修理戰機{name}。"
 
 msgid "MESSAGE_CONTEXT_APPEARANCE"
-msgstr "個性化"
+msgstr "個人化"
 
 msgid "MESSAGE_ERROR_TEXT"
 msgstr "錯誤！"
@@ -525,7 +525,7 @@ msgid "MESSAGE_TYPE_POPUP_LOBBY_GOLD_RECEIVED"
 msgstr "收到金幣"
 
 msgid "MESSAGE_TYPE_POPUP_LOBBY_TOKENS_RECEIVED"
-msgstr "獲得令牌"
+msgstr "獲得代幣"
 
 msgid "MESSAGE_WING_DESTROYED"
 msgstr "編隊被取消:改玩家另一個編隊中的一員"
@@ -597,7 +597,7 @@ msgid "OPENBETA_DAILY_BONUS_GROUND_TARGET_DESTROYED_NUMBER_9"
 msgstr "9"
 
 msgid "OPENBETA_DAILY_BONUS_LABEL_TOKENS"
-msgstr "令牌。"
+msgstr "代幣。"
 
 msgid "OPENBETA_DAILY_BONUS_WIN"
 msgstr "收到一天內 {number} 場勝利獎勵:"
@@ -978,7 +978,7 @@ msgstr "New missions are available."
 
 #, fuzzy
 msgid "MESSAGES_PROGRESS_QUESTS_RESET"
-msgstr "Mission progress reset."
+msgstr "任務進度重置。"
 
 #, fuzzy
 msgid "MESSAGES_RECIEVED_ACHIEVEMENT_WG_FEST"
@@ -1049,11 +1049,11 @@ msgstr "Dismiss"
 
 #, fuzzy
 msgid "SYSTEM_MESSAGE_FAST_TRAINING_OFF"
-msgstr "Accelerated training disabled"
+msgstr "組員訓練加速已關閉"
 
 #, fuzzy
 msgid "SYSTEM_MESSAGE_FAST_TRAINING_ON"
-msgstr "Accelerated training enabled"
+msgstr "組員訓練加速已啟動"
 
 #, fuzzy
 msgid "SYSTEM_MESSAGE_FR_EXTRA_GIFT"
