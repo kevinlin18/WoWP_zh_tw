@@ -4,13 +4,13 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2010-06-01 10:00+0300\n"
 "PO-Revision-Date: \n"
-"Last-Translator: i_maliavko <i_maliavko@wargaming.net>\n"
+"Last-Translator: kevinlin18 <https://github.com/kevinlin18/WoWP_zh_tw>\n"
 "Language-Team: WoT Team <noreply@wargaming.net>\n"
 "Language: zh_TW\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 2.0.5\n"
+"X-Generator: Poedit 2.0.6\n"
 
 msgid "ACCOUNT_TYPE_BASIC_LOWERCASE"
 msgstr "普通帳號"
@@ -135,8 +135,7 @@ msgstr "5分鐘"
 
 #, fuzzy
 msgid "BATTLE_JA_TR"
-msgstr ""
-"Standard battle with random players during the event \"Japanese Threat\""
+msgstr "Standard battle with random players during the event \"Japanese Threat\""
 
 #, fuzzy
 msgid "BATTLE_NORWEGIAN_CAMPAIGN"
@@ -500,13 +499,12 @@ msgstr "沒有足夠的機位，請購買機位或出售其它戰機"
 
 msgid "CHINA_LOBBY_RENT_MESSAGE_OTHER_CREW_ASSIGNED"
 msgstr ""
-"您所購買的加值戰機已獲得100%乘員，在該戰機的使用期限內仍可在該戰機上放置其他"
-"乘員"
+"您所購買的加值戰機已獲得100%乘員，在該戰機的使用期限內仍可在該戰機上放置其他乘員"
 
 msgid "CHINA_LOBBY_RENT_MESSAGE_OTHER_CREW_ASSIGNED_NEW_CREW_TO_BARRACKS"
 msgstr ""
-"您所購買的加值戰機已獲得100%乘員，在該戰機的使用期限內仍可在該戰機上放置其他"
-"乘員，現有乘員將被放置於兵營"
+"您所購買的加值戰機已獲得100%乘員，在該戰機的使用期限內仍可在該戰機上放置其他乘員，"
+"現有乘員將被放置於兵營"
 
 msgid "CHINA_LOBBY_RENT_MESSAGE_RENT_PERIOD_EXPIRED"
 msgstr "使用期屆滿<br>請進入商店與倉庫介面管理該戰機"
@@ -537,8 +535,8 @@ msgstr "補償"
 
 msgid "COMPENSATION_MULTIPLE_CONTEXT"
 msgstr ""
-"由於遊戲版本升級，部分戰機和裝備的研發或購買價格出現變化，因此而予以補償的自"
-"由經驗和銀幣已新增至您的帳戶中"
+"由於遊戲版本升級，部分戰機和裝備的研發或購買價格出現變化，因此而予以補償的自由經驗"
+"和銀幣已新增至您的帳戶中"
 
 msgid "CONFIGURATION_AVAILABLE"
 msgstr "已研發未安裝"
@@ -616,7 +614,7 @@ msgid "CONVERT_EXCH_GOLD_AFTER_CONVERT"
 msgstr "兌換後餘額："
 
 msgid "CONVERT_EXCH_GOLD_BEFORE_CONVERT"
-msgstr "當前餘額："
+msgstr "目前餘額："
 
 msgid "CONVERT_EXCH_GOLD_TO_CONVERT"
 msgstr "請輸入要兌換的數量："
@@ -643,7 +641,7 @@ msgid "CREATE_DEV_BUTTON"
 msgstr "建立"
 
 msgid "CURRENT_LEVEL"
-msgstr "當前等級"
+msgstr "目前等級"
 
 msgid "CUSTOMIZATION"
 msgstr "個性化"
@@ -703,13 +701,13 @@ msgid "DIALOG_APPLY_PRESET_UNAVAILABLE_HEADER"
 msgstr "不能套用配置"
 
 msgid "DIALOG_APPLY_PRESET_UNAVAILABLE_MESSAGE"
-msgstr "不能套用 {name}: 銀幣不足！ 已恢復到當前配置。"
+msgstr "不能套用 {name}: 銀幣不足！ 已恢復到目前配置。"
 
 msgid "DIALOG_APPLY_PRESET_UNAVAILABLE_MESSAGE_XP"
-msgstr "不能套用 {name}: 經驗不足！ 已恢復到當前配置。"
+msgstr "不能套用 {name}: 經驗不足！ 已恢復到目前配置。"
 
 msgid "DIALOG_APPLY_PRESET_UNAVAILABLE_MESSAGE_XP_CRED"
-msgstr "不能套用 {name}: 銀幣和經驗不足！ 已恢復到當前配置。"
+msgstr "不能套用 {name}: 銀幣和經驗不足！ 已恢復到目前配置。"
 
 msgid "DIALOG_BUY_AIRPLANE_HEADER"
 msgstr "購買戰機"
@@ -727,37 +725,36 @@ msgid "DIALOG_CHANGE_FILTER_APPLY_PRESET_HEADER"
 msgstr "套用配置"
 
 msgid "DIALOG_CHANGE_FILTER_APPLY_PRESET_MESSAGE"
-msgstr "您選擇的篩選條件與當前戰機衝突。您已經選擇了{name}的配置，是否套用？"
+msgstr "您選擇的篩選條件與目前戰機衝突。您已經選擇了{name}的配置，是否套用？"
 
 msgid "DIALOG_CHANGE_FILTER_APPLY_PRESET_UNAVAILABLE_CREDITS_MESSAGE"
 msgstr ""
-"您選擇的篩選條件與當前戰機衝突。您已經選擇了{name}的配置，但無法套用此配置："
-"銀幣不足。配置已還原。"
+"您選擇的篩選條件與目前戰機衝突。您已經選擇了{name}的配置，但無法套用此配置：銀幣不"
+"足。配置已還原。"
 
 msgid "DIALOG_CHANGE_FILTER_APPLY_PRESET_UNAVAILABLE_CREDITS_XP_MESSAGE"
 msgstr ""
-"您選擇的篩選條件與當前戰機衝突。您已經選擇了{name}的配置，但無法套用此配置："
-"經驗和銀幣不足。配置已還原。"
+"您選擇的篩選條件與目前戰機衝突。您已經選擇了{name}的配置，但無法套用此配置：經驗和"
+"銀幣不足。配置已還原。"
 
 msgid "DIALOG_CHANGE_FILTER_APPLY_PRESET_UNAVAILABLE_HEADER"
 msgstr "不能套用配置"
 
 msgid "DIALOG_CHANGE_FILTER_APPLY_PRESET_UNAVAILABLE_INCOMPATIBLE_MESSAGE"
 msgstr ""
-"您選擇的篩選條件與當前戰機衝突。您已經選擇了{name}的配置，但無法套用此配置："
-"配置中的裝備不相容。配置已還原。"
+"您選擇的篩選條件與目前戰機衝突。您已經選擇了{name}的配置，但無法套用此配置：配置中"
+"的裝備不相容。配置已還原。"
 
 msgid "DIALOG_CHANGE_FILTER_APPLY_PRESET_UNAVAILABLE_XP_MESSAGE"
 msgstr ""
-"您選擇的篩選條件與當前戰機衝突。您已經選擇了{name}的配置，但無法套用此配置："
-"經驗不足。配置已還原。"
+"您選擇的篩選條件與目前戰機衝突。您已經選擇了{name}的配置，但無法套用此配置：經驗不"
+"足。配置已還原。"
 
 msgid "DIALOG_CHANGE_ROOM_SETTINGS_HEADER"
 msgstr "設定訓練房"
 
 msgid "DIALOG_CHANGE_ROOM_SETTINGS_MESSAGE"
-msgstr ""
-"有{numplayers}個玩家不符合新的條件設定將會被移出房間，你確定要修改設定嗎？"
+msgstr "有{numplayers}個玩家不符合新的條件設定將會被移出房間，你確定要修改設定嗎？"
 
 msgid "DIALOG_CLEAR_FILTER_HEADER"
 msgstr "清空篩選條件"
@@ -766,7 +763,7 @@ msgid "DIALOG_CLEAR_FILTER_MESSAGE"
 msgstr "確定要清空篩選條件嗎？"
 
 msgid "DIALOG_CONFIGURATION_UNAVAILABLE_MESSAGE"
-msgstr "不能套用{name}：配置不相容！已恢復到當前配置"
+msgstr "不能套用{name}：配置不相容！已恢復到目前配置"
 
 msgid "DIALOG_DELETE_TRAINING_ROOM_HEADER"
 msgstr "刪除訓練房"
@@ -788,8 +785,7 @@ msgstr "研發 {plane_name} 需耗費 {number}{free_exp} ，確定研發?"
 
 msgid "DIALOG_EXPLORE_AIRCRAFT_MESSAGE_PLANE_FREE_EXP"
 msgstr ""
-"研發 {plane_name} 需耗費 {number1}{icon_exp} 和 {number2}{free_exp}，確定研"
-"發?"
+"研發 {plane_name} 需耗費 {number1}{icon_exp} 和 {number2}{free_exp}，確定研發?"
 
 msgid "DIALOG_INSTALL_PRESET_HEADER"
 msgstr "選擇配置"
@@ -862,7 +858,7 @@ msgid "EXCHANGE_XP_CONTEXT_AFTER"
 msgstr "餘額:"
 
 msgid "EXCHANGE_XP_CONTEXT_BEFORE"
-msgstr "當前餘額:"
+msgstr "目前餘額:"
 
 msgid "EXCHANGE_XP_CONTEXT_CONVERT"
 msgstr "兌換:"
@@ -1226,8 +1222,8 @@ msgstr "小口徑機槍優勢在於可以持續的集中火力，特別是在近
 
 msgid "HINT_ROLE_7"
 msgstr ""
-"遠射程機槍/機砲能在較大的距離就能造成傷害，但最好還是近距離發射以避免武器由於"
-"過熱造成近距離打擊效果降低"
+"遠射程機槍/機砲能在較大的距離就能造成傷害，但最好還是近距離發射以避免武器由於過熱造"
+"成近距離打擊效果降低"
 
 msgid "HINT_ROLE_8"
 msgstr "攻擊機是攻擊地面目標的理想選擇"
@@ -1344,8 +1340,8 @@ msgstr "The best gifts are planes!"
 #, fuzzy
 msgid "LOBBY_2016_AD10_BANNER_TEXT_2"
 msgstr ""
-"Congratulations! You have won the ultimate prize—<font "
-"color='#{color}'>Arsenal VB 10!</font>"
+"Congratulations! You have won the ultimate prize—<font color='#{color}'>Arsenal VB "
+"10!</font>"
 
 #, fuzzy
 msgid "LOBBY_2016_AD10_CONGRATULATION_BANNER_TEXT_1"
@@ -1362,8 +1358,7 @@ msgstr "The best gifts are planes!"
 #, fuzzy
 msgid "LOBBY_2016_AFTER_WIN_ONE_PLANE_BANNER_TEXT_2"
 msgstr ""
-"Congratulations! You have successfully completed missions and won both "
-"prizes!"
+"Congratulations! You have successfully completed missions and won both prizes!"
 
 #, fuzzy
 msgid "LOBBY_2016_BEFORE_WIN_ONE_PLANE_BANNER_TEXT_1"
@@ -1371,8 +1366,7 @@ msgstr "Two gifts for one occasion!"
 
 #, fuzzy
 msgid "LOBBY_2016_BEFORE_WIN_ONE_PLANE_BANNER_TEXT_2"
-msgstr ""
-"Complete the entire chain of missions to receive as many as two new planes!"
+msgstr "Complete the entire chain of missions to receive as many as two new planes!"
 
 #, fuzzy
 msgid "LOBBY_2016_DI-6_BANNER_TEXT_1"
@@ -1381,8 +1375,8 @@ msgstr "The Kochyerigin-Yatsenko DI-6i is already in the Hangar!"
 #, fuzzy
 msgid "LOBBY_2016_DI-6_BANNER_TEXT_2"
 msgstr ""
-"Complete all additional tasks to receive the <font color='#{color}'>Arsenal "
-"VB 10!</font>"
+"Complete all additional tasks to receive the <font color='#{color}'>Arsenal VB 10!"
+"</font>"
 
 #, fuzzy
 msgid "LOBBY_2016_DI-6_BANNER_TEXT_3"
@@ -1452,8 +1446,8 @@ msgstr "在低空與敵機進行戰鬥"
 
 msgid "LOBBY_AIRCRAFT_COMPARISON_ENEMY_ALTITUDE_EQUAL_1"
 msgstr ""
-"在相同高度時敵機與你的戰機效能相近<br>應利用你的戰機在其他方面的效能優勢與其"
-"周旋<br>或將其引誘至友機和防空火力射擊範圍內"
+"在相同高度時敵機與你的戰機效能相近<br>應利用你的戰機在其他方面的效能優勢與其周旋"
+"<br>或將其引誘至友機和防空火力射擊範圍內"
 
 msgid "LOBBY_AIRCRAFT_COMPARISON_ENEMY_ALTITUDE_EQUAL_2"
 msgstr " "
@@ -1465,21 +1459,18 @@ msgid "LOBBY_AIRCRAFT_COMPARISON_ENEMY_FIREPOWER_BETTER_2"
 msgstr "避免面對面的射擊。"
 
 msgid "LOBBY_AIRCRAFT_COMPARISON_ENEMY_FIREPOWER_EQUAL_1"
-msgstr ""
-"敵機的火力與你相近<br>如果敵機已嚴重受損<br>應迎面攻擊敵人，然後回到有利位置"
+msgstr "敵機的火力與你相近<br>如果敵機已嚴重受損<br>應迎面攻擊敵人，然後回到有利位置"
 
 msgid "LOBBY_AIRCRAFT_COMPARISON_ENEMY_FIREPOWER_EQUAL_2"
 msgstr " "
 
 msgid "LOBBY_AIRCRAFT_COMPARISON_ENEMY_HITPOINTS_BETTER_1"
 msgstr ""
-"敵機具有更高的生命值，應避免面對面的向其發動攻擊<br>特別是在對方火力也優於你"
-"的時候"
+"敵機具有更高的生命值，應避免面對面的向其發動攻擊<br>特別是在對方火力也優於你的時候"
 
 msgid "LOBBY_AIRCRAFT_COMPARISON_ENEMY_HITPOINTS_EQUAL_1"
 msgstr ""
-"敵機的生命值與你基本相當，可以嘗試迎面向其發起攻擊<br>特別是在你具有火力優勢"
-"的時候"
+"敵機的生命值與你基本相當，可以嘗試迎面向其發起攻擊<br>特別是在你具有火力優勢的時候"
 
 msgid "LOBBY_AIRCRAFT_COMPARISON_ENEMY_MANEUVERABILITY_BETTER_1"
 msgstr "敵機具有更好的機動性<br>應避免與其陷入纏鬥"
@@ -1489,23 +1480,22 @@ msgstr "避免與其纏鬥。"
 
 msgid "LOBBY_AIRCRAFT_COMPARISON_ENEMY_NAMEUVERABILITY_EQUAL_1"
 msgstr ""
-"敵機的機動性與你相近<br>儘量不要與之纏鬥<br>除非你具有其他顯著的優勢或作為最"
-"後的手段"
+"敵機的機動性與你相近<br>儘量不要與之纏鬥<br>除非你具有其他顯著的優勢或作為最後的手"
+"段"
 
 msgid "LOBBY_AIRCRAFT_COMPARISON_ENEMY_NAMEUVERABILITY_EQUAL_2"
 msgstr " "
 
 msgid "LOBBY_AIRCRAFT_COMPARISON_ENEMY_SPEED_BETTER_1"
 msgstr ""
-"敵機具有更好的速度效能<br>應避免沿直線飛行並在躲避敵機的砲火的同時尋找有利的"
-"攻擊位置"
+"敵機具有更好的速度效能<br>應避免沿直線飛行並在躲避敵機的砲火的同時尋找有利的攻擊位"
+"置"
 
 msgid "LOBBY_AIRCRAFT_COMPARISON_ENEMY_SPEED_BETTER_2"
 msgstr "避免沿直線飛行以躲避敵機砲火。"
 
 msgid "LOBBY_AIRCRAFT_COMPARISON_ENEMY_SPEED_EQUAL_1"
-msgstr ""
-"敵機的速度效能與你相近<br>當你在直線飛行時可嘗試通過增壓拉開與敵機之間的距離"
+msgstr "敵機的速度效能與你相近<br>當你在直線飛行時可嘗試通過增壓拉開與敵機之間的距離"
 
 msgid "LOBBY_AIRCRAFT_COMPARISON_ENEMY_SPEED_EQUAL_2"
 msgstr " "
@@ -1602,16 +1592,16 @@ msgstr "你擁有更強的火力"
 
 msgid "LOBBY_AIRCRAFT_COMPARISON_YOUR_HITPOINTS_BETTER_1"
 msgstr ""
-"你具有更高的生命值，迎面向敵人發動攻擊能更好的發揮你的優勢<br>特別是當你同時"
-"具有火力優勢時"
+"你具有更高的生命值，迎面向敵人發動攻擊能更好的發揮你的優勢<br>特別是當你同時具有火"
+"力優勢時"
 
 msgid "LOBBY_AIRCRAFT_COMPARISON_YOUR_HITPOINTS_BETTER_ALLY_1"
 msgstr "你具有更高的生命值"
 
 msgid "LOBBY_AIRCRAFT_COMPARISON_YOUR_MANEUVERABILITY_BETTER_1"
 msgstr ""
-"你擁有更好的機動性<br>如果受到敵人攻擊，可以嘗試閃避敵人砲火<br>然後轉向至敵"
-"人背後展開反擊"
+"你擁有更好的機動性<br>如果受到敵人攻擊，可以嘗試閃避敵人砲火<br>然後轉向至敵人背後"
+"展開反擊"
 
 msgid "LOBBY_AIRCRAFT_COMPARISON_YOUR_MANEUVERABILITY_BETTER_2"
 msgstr "翻滾和轉向能幫助你更好的應對敵機"
@@ -1624,8 +1614,8 @@ msgstr "你的戰機:"
 
 msgid "LOBBY_AIRCRAFT_COMPARISON_YOUR_SPEED_BETTER_1"
 msgstr ""
-"你擁有速度優勢<br>你可以嘗試在直線上利用速度擺脫追究<br>然後在一個安全的位置"
-"展開反擊"
+"你擁有速度優勢<br>你可以嘗試在直線上利用速度擺脫追究<br>然後在一個安全的位置展開反"
+"擊"
 
 msgid "LOBBY_AIRCRAFT_COMPARISON_YOUR_SPEED_BETTER_2"
 msgstr "直線上與敵機拉開距離後，在一個安全距離展開反擊"
@@ -1699,8 +1689,7 @@ msgstr "需要{exp}經驗。"
 
 #, fuzzy
 msgid "LOBBY_ALBION_EVENT_QUEST"
-msgstr ""
-"Win 5 battles on the Allied or Axis side during the Skies of Albion event."
+msgstr "Win 5 battles on the Allied or Axis side during the Skies of Albion event."
 
 #, fuzzy
 msgid "LOBBY_ALBION_OPERATION"
@@ -1709,8 +1698,8 @@ msgstr "Skies of Albion"
 #, fuzzy
 msgid "LOBBY_ALBION_OPERATION_AFTER_PLANE_WILL_BE_AVAILABLE_IN_TREE"
 msgstr ""
-"After the Skies of Albion event ends, the aircraft can be researched and "
-"purchased in the normal way."
+"After the Skies of Albion event ends, the aircraft can be researched and purchased "
+"in the normal way."
 
 #, fuzzy
 msgid "LOBBY_ALBION_OPERATION_BEGAN"
@@ -1730,8 +1719,7 @@ msgstr "Decide the fate of the United Kingdom on the battlefield!"
 
 #, fuzzy
 msgid "LOBBY_ALL_PLANES_RECEIVED_ACTIVATE_DIRECTIVE_UNAVAILABLE"
-msgstr ""
-"The operation order cannot be activated: all aircraft were already received."
+msgstr "The operation order cannot be activated: all aircraft were already received."
 
 #, fuzzy
 msgid "LOBBY_ALL_QUESTS_STATUS_COMPLETED"
@@ -1767,25 +1755,25 @@ msgstr "注意!"
 
 msgid "LOBBY_APRIL_2014_GIFT_MESSAGE_TEXT"
 msgstr ""
-"At 00:00 sharp an anomaly was reported at the secret base \"Area 51\". The "
-"runway began swiftly changing colors to reveal a Sleipnir allied combat "
-"vehicle that arrived from a parallel universe!"
+"At 00:00 sharp an anomaly was reported at the secret base \"Area 51\". The runway "
+"began swiftly changing colors to reveal a Sleipnir allied combat vehicle that "
+"arrived from a parallel universe!"
 
 msgid "LOBBY_APRIL_2014_REMOVAL_MESSAGE_BTN"
 msgstr "女武神歸來!"
 
 msgid "LOBBY_APRIL_2014_REMOVAL_MESSAGE_TEXT"
 msgstr ""
-"根據總部的協商，阿斯加德的使命已經完成，斯雷普尼爾已前往起點，準備開始一場盛"
-"宴的預演。"
+"根據總部的協商，阿斯加德的使命已經完成，斯雷普尼爾已前往起點，準備開始一場盛宴的預"
+"演。"
 
 msgid "LOBBY_APRIL_2015_EMBLEM_POPUP_1"
 msgstr "快飛上去!"
 
 msgid "LOBBY_APRIL_2015_EMBLEM_POPUP_2"
 msgstr ""
-"飛行員,現在你有機會得到—獨特的個性化圖案—並且享受5折優惠! 期限限定: 此限量版"
-"個性化圖案在4月10日後將不可購買!"
+"飛行員,現在你有機會得到—獨特的個性化圖案—並且享受5折優惠! 期限限定: 此限量版個性化"
+"圖案在4月10日後將不可購買!"
 
 msgid "LOBBY_APRIL_2015_WINDOW_HEADER"
 msgstr "愚人節快樂!"
@@ -1816,8 +1804,8 @@ msgstr "Three Years Airborne!"
 
 msgid "LOBBY_BACKGROUND_CHOICE_MESSAGE"
 msgstr ""
-"點選圖片選擇背景樣式，你也可以在遊戲設定選項中變更樣式<br>高階機庫背景樣式的"
-"使用期限與您的加值帳號剩餘期限一致"
+"點選圖片選擇背景樣式，你也可以在遊戲設定選項中變更樣式<br>高階機庫背景樣式的使用期"
+"限與您的加值帳號剩餘期限一致"
 
 msgid "LOBBY_BACKGROUND_HEADER"
 msgstr "背景"
@@ -1842,19 +1830,19 @@ msgid "LOBBY_BACKGROUND_OPTION_WINTER_AIRFIELD"
 msgstr "冬季機場"
 
 msgid "LOBBY_BACKGROUND_WITHOUT_PREM_MESSAGE"
-msgstr "加值帳號已過期，當前僅能使用 \"機庫\" 樣式作為背景"
+msgstr "加值帳號已過期，目前僅能使用 \"機庫\" 樣式作為背景"
 
 #, fuzzy
 msgid "LOBBY_BANNER-1_ALBION_OPERATION_TEXT_1"
 msgstr ""
-"Select a side, participate in the <font color='#'>Skies of Albion</font> "
-"event, and get valuable loot!"
+"Select a side, participate in the <font color='#'>Skies of Albion</font> event, "
+"and get valuable loot!"
 
 #, fuzzy
 msgid "LOBBY_BANNER-1_ALBION_OPERATION_TEXT_2"
 msgstr ""
-"Participate in the <font color='#'>Skies of Albion</font> event, win "
-"battles, and get valuable loot!"
+"Participate in the <font color='#'>Skies of Albion</font> event, win battles, and "
+"get valuable loot!"
 
 #, fuzzy
 msgid "LOBBY_BANNER-1_JA_TR_TEXT_1"
@@ -1863,26 +1851,26 @@ msgstr "Axis or Allies?"
 #, fuzzy
 msgid "LOBBY_BANNER-1_JA_TR_TEXT_2"
 msgstr ""
-"Select a side, participate in the event <font color='#{color}'>\"Japanese "
-"Threat\"</font>, and get valuable loot!"
+"Select a side, participate in the event <font color='#{color}'>\"Japanese Threat"
+"\"</font>, and get valuable loot!"
 
 #, fuzzy
 msgid "LOBBY_BANNER-1_JA_TR_TEXT_3"
 msgstr ""
-"Participate in the event <font color='#{color}'>\"Japanese Threat\"</font>, "
-"win battles, and get valuable loot!"
+"Participate in the event <font color='#{color}'>\"Japanese Threat\"</font>, win "
+"battles, and get valuable loot!"
 
 #, fuzzy
 msgid "LOBBY_BANNER-1_NO_CAMP_TEXT_1"
 msgstr ""
-"Select a side, participate in the <font color='#{color}'>Battle for Thor's "
-"Hammer</font>, and get valuable loot!"
+"Select a side, participate in the <font color='#{color}'>Battle for Thor's Hammer</"
+"font>, and get valuable loot!"
 
 #, fuzzy
 msgid "LOBBY_BANNER-1_NO_CAMP_TEXT_2"
 msgstr ""
-"Participate in the <font color='#{color}'>Battle for Thor's Hammer</font>, "
-"win battles, and get valuable loot!"
+"Participate in the <font color='#{color}'>Battle for Thor's Hammer</font>, win "
+"battles, and get valuable loot!"
 
 #, fuzzy
 msgid "LOBBY_BANNER-2_JA_TR_TEXT_1"
@@ -1925,8 +1913,7 @@ msgid "LOBBY_BANNER_302_TEXT_1"
 msgstr "利用噴射動力"
 
 msgid "LOBBY_BANNER_302_TEXT_2"
-msgstr ""
-"速度，爆發力，加速度等多優點的<br>科斯季科夫302,一架新的實驗性7級戰鬥機！"
+msgstr "速度，爆發力，加速度等多優點的<br>科斯季科夫302,一架新的實驗性7級戰鬥機！"
 
 #, fuzzy
 msgid "LOBBY_BANNER_ALBION_OPERATION_TROPHY"
@@ -1943,8 +1930,7 @@ msgstr "Bombers in Exchange for Tokens"
 #, fuzzy
 msgid "LOBBY_BANNER_BOMBERS_FOR_TOKENS_SMALL"
 msgstr ""
-"Earn tokens for completing missions<br>to purchase the first bombers in the "
-"game!"
+"Earn tokens for completing missions<br>to purchase the first bombers in the game!"
 
 msgid "LOBBY_BANNER_CREW_HEADER"
 msgstr "升級你的技能！"
@@ -2125,8 +2111,7 @@ msgstr "所有戰機的特別紀念勳章"
 
 msgid "LOBBY_BIRTHDAY_2014_GIFT_MESSAGE_TEXT"
 msgstr ""
-"《戰機世界》週年慶典!<br>在這個值得紀唸的日子，我們將贈送您XP-31戰鬥機以及以"
-"下獎勵:"
+"《戰機世界》週年慶典!<br>在這個值得紀唸的日子，我們將贈送您XP-31戰鬥機以及以下獎勵:"
 
 msgid "LOBBY_BIRTHDAY_HEADER"
 msgstr "週年快樂!"
@@ -2419,9 +2404,8 @@ msgstr "Assemble Bomber"
 msgid "LOBBY_BUTTON_CUSTOMIZATION"
 msgstr "個性化"
 
-#, fuzzy
 msgid "LOBBY_BUTTON_DETAILED_CAPS"
-msgstr "DETAILS"
+msgstr "詳情"
 
 #, fuzzy
 msgid "LOBBY_BUTTON_DISCONNECTING"
@@ -2447,9 +2431,8 @@ msgstr "去選擇配置"
 msgid "LOBBY_BUTTON_IN_INVENTORY"
 msgstr "To Inventory"
 
-#, fuzzy
 msgid "LOBBY_BUTTON_IN_SHOP"
-msgstr "To Shop"
+msgstr "前往商店"
 
 msgid "LOBBY_BUTTON_LEAVE_TRAINING_ROOM"
 msgstr "離開"
@@ -2538,7 +2521,7 @@ msgid "LOBBY_CAMO_CONDITION_OBT"
 msgstr "授予參與公測的玩家"
 
 msgid "LOBBY_CAMO_CONDITION_PLANE_AWARDS"
-msgstr "授予當前戰機獲得以下勝利標記的玩家:"
+msgstr "授予目前戰機獲得以下勝利標記的玩家:"
 
 msgid "LOBBY_CAMO_CONFIRMATION"
 msgstr "確定"
@@ -2604,7 +2587,7 @@ msgid "LOBBY_CAMO_CONTEXT_NO_CAMO"
 msgstr "無塗裝模式，該戰機根據其國家被設定成單一的塗裝顏色"
 
 msgid "LOBBY_CAMO_CONTEXT_NO_EFFECT"
-msgstr "當前塗裝主題無隱蔽加成"
+msgstr "目前塗裝主題無隱蔽加成"
 
 msgid "LOBBY_CAMO_CONTEXT_NO_EMBLEM"
 msgstr "未套用徽章"
@@ -2868,8 +2851,7 @@ msgstr "MORE COLORS AND SHINE!"
 
 #, fuzzy
 msgid "LOBBY_CATCH_NORTHERN_STAR_BANNER_TEXT_5"
-msgstr ""
-"New sets of exclusive striking chrome paint schemes for popular aircraft!"
+msgstr "New sets of exclusive striking chrome paint schemes for popular aircraft!"
 
 #, fuzzy
 msgid "LOBBY_CATCH_NORTHERN_STAR_HEADER"
@@ -2884,22 +2866,22 @@ msgstr "滾轉率"
 #, fuzzy
 msgid "LOBBY_CHARACTER_UNIQUE_PILOT_MARINA"
 msgstr ""
-"A fiery tornado. She finds pleasure in starting fires and exploding "
-"everything. Even the destruction of her own aircraft delights her with its "
-"display of flames and sparks."
+"A fiery tornado. She finds pleasure in starting fires and exploding everything. "
+"Even the destruction of her own aircraft delights her with its display of flames "
+"and sparks."
 
 #, fuzzy
 msgid "LOBBY_CHARACTER_UNIQUE_PILOT_MARRY"
 msgstr ""
-"A valkyrie. She flies swifter than the wind and strikes ground targets like "
-"a bolt of lightning."
+"A valkyrie. She flies swifter than the wind and strikes ground targets like a bolt "
+"of lightning."
 
 #, fuzzy
 msgid "LOBBY_CHARACTER_UNIQUE_PILOT_SHARLOTTA"
 msgstr ""
 "Stunning and refined. She cannot go unnoticed while she herself notices "
-"everything. She is a real threat to oncoming opponents. Don't even plan a "
-"head-on attack against her—you will definitely regret it."
+"everything. She is a real threat to oncoming opponents. Don't even plan a head-on "
+"attack against her—you will definitely regret it."
 
 #, fuzzy
 msgid "LOBBY_CHAT_MESSAGE_NO_RESULT_SEARCH"
@@ -2915,29 +2897,29 @@ msgstr "Assign a key for the action \"{action}\""
 
 msgid "LOBBY_CLASS_HINT_ASSAULT"
 msgstr ""
-"攻擊機主要用於攻擊地面目標，他們的機動性較差但超高的機體防禦使他們能更多的承"
-"受地面防空火力，與這種飛機迎面對射是種糟糕的選擇。"
+"攻擊機主要用於攻擊地面目標，他們的機動性較差但超高的機體防禦使他們能更多的承受地面"
+"防空火力，與這種飛機迎面對射是種糟糕的選擇。"
 
 #, fuzzy
 msgid "LOBBY_CLASS_HINT_BOMBER"
 msgstr ""
-"High-speed aircraft designed to attack ground targets by dropping bombs from "
-"a high altitude. Carry high load of bombs and powerful defensive armament."
+"High-speed aircraft designed to attack ground targets by dropping bombs from a "
+"high altitude. Carry high load of bombs and powerful defensive armament."
 
 msgid "LOBBY_CLASS_HINT_FIGHTERS"
 msgstr ""
-"戰鬥機擁有機動性上的優勢，適合在空中混戰，但容易受損和難以承受地面火力攻擊的"
-"特點使他們不適合執行對地攻擊任務。"
+"戰鬥機擁有機動性上的優勢，適合在空中混戰，但容易受損和難以承受地面火力攻擊的特點使"
+"他們不適合執行對地攻擊任務。"
 
 msgid "LOBBY_CLASS_HINT_HEAVY"
 msgstr ""
-"重型戰鬥機擁有強勁的火力和很高的生命值，在速度和爬升能力上也表現出色，但機動"
-"性不佳，適合摧毀攻擊機和地面目標，與其迎面射擊會非常危險。"
+"重型戰鬥機擁有強勁的火力和很高的生命值，在速度和爬升能力上也表現出色，但機動性不"
+"佳，適合摧毀攻擊機和地面目標，與其迎面射擊會非常危險。"
 
 msgid "LOBBY_CLASS_HINT_NAVY"
 msgstr ""
-"多用途戰鬥機適合參與混戰，他們也可攜帶炸彈或火箭彈攻擊地面目標，但那樣會損失"
-"速度和機動性，易受到地面火力或機動性更好的戰機的攻擊。"
+"多用途戰鬥機適合參與混戰，他們也可攜帶炸彈或火箭彈攻擊地面目標，但那樣會損失速度和"
+"機動性，易受到地面火力或機動性更好的戰機的攻擊。"
 
 #, fuzzy
 msgid "LOBBY_CLICK_ON_PORTREIT_FOR_DETAIL_INFO"
@@ -2983,8 +2965,8 @@ msgstr "Receive"
 #, fuzzy
 msgid "LOBBY_CONFIRM_WINDOW_MESSAGES_TEXT_1"
 msgstr ""
-"This aircraft is already researched. You can purchase it using credits in "
-"the Tech Tree."
+"This aircraft is already researched. You can purchase it using credits in the Tech "
+"Tree."
 
 #, fuzzy
 msgid "LOBBY_CONFIRM_WINDOW_MESSAGES_TEXT_2"
@@ -2993,14 +2975,14 @@ msgstr "Exchange tokens for the operation order anyway?"
 #, fuzzy
 msgid "LOBBY_CONFIRM_WINDOW_MESSAGES_TEXT_3"
 msgstr ""
-"All aircraft that can be received upon executing this operation order are "
-"already researched or purchased."
+"All aircraft that can be received upon executing this operation order are already "
+"researched or purchased."
 
 #, fuzzy
 msgid "LOBBY_CONFIRM_WINDOW_MESSAGES_TEXT_4"
 msgstr ""
-"You will not be able to activate this operation order until new aircraft of "
-"the corresponding nations, tiers, and types are added to the game."
+"You will not be able to activate this operation order until new aircraft of the "
+"corresponding nations, tiers, and types are added to the game."
 
 #, fuzzy
 msgid "LOBBY_CONFIRM_WINDOW_MESSAGES_TEXT_4_1"
@@ -3009,9 +2991,9 @@ msgstr "Exchange tokens for the operation order anyway?"
 #, fuzzy
 msgid "LOBBY_CONFIRM_WINDOW_MESSAGES_TEXT_5"
 msgstr ""
-"After you deactivate this operation order, your progress in the missions of "
-"this operation order will be reset, but the operation order will remain in "
-"your Inventory. You can activate it again at any time."
+"After you deactivate this operation order, your progress in the missions of this "
+"operation order will be reset, but the operation order will remain in your "
+"Inventory. You can activate it again at any time."
 
 #, fuzzy
 msgid "LOBBY_CONFIRM_WINDOW_MESSAGES_TEXT_5_1"
@@ -3020,9 +3002,8 @@ msgstr "Deactivate the operation order?"
 #, fuzzy
 msgid "LOBBY_CONFIRM_WINDOW_MESSAGES_TEXT_6"
 msgstr ""
-"The selling price for the operation order is significantly lower than its "
-"purchase price. Note that the purchase transaction cannot be canceled once "
-"it is made."
+"The selling price for the operation order is significantly lower than its purchase "
+"price. Note that the purchase transaction cannot be canceled once it is made."
 
 #, fuzzy
 msgid "LOBBY_CONFIRM_WINDOW_MESSAGES_TEXT_6_1"
@@ -3042,8 +3023,8 @@ msgstr ""
 msgid "LOBBY_CONFIRM_WINDOW_MESSAGES_TEXT_9"
 msgstr ""
 "You can receive any of these aircraft. Note that an executed operation order "
-"enables you to receive one aircraft only. You cannot change your choice once "
-"you make it."
+"enables you to receive one aircraft only. You cannot change your choice once you "
+"make it."
 
 msgid "LOBBY_CONGRATULATIONS_MESSAGE_1"
 msgstr "你被授予飛機！"
@@ -3057,8 +3038,7 @@ msgstr "You have received all unique pilots."
 
 msgid "LOBBY_CONGRATULATION_BANNER"
 msgstr ""
-"享受令人驚歎的全新的5級蘇聯戰鬥機卡爾波夫伊-180-3的機動性吧！它就在你的機庫"
-"中！"
+"享受令人驚歎的全新的5級蘇聯戰鬥機卡爾波夫伊-180-3的機動性吧！它就在你的機庫中！"
 
 msgid "LOBBY_CONGRATULATION_MESSAGES"
 msgstr "祝賀你<br>優秀勳章!"
@@ -3066,9 +3046,8 @@ msgstr "祝賀你<br>優秀勳章!"
 msgid "LOBBY_CONGRATULATION_MESSAGES_2"
 msgstr "祝賀你的功績勳章！"
 
-#, fuzzy
 msgid "LOBBY_CONSTANT_OFFERS_BUTTON"
-msgstr "Permanent Offers"
+msgstr "長期提供"
 
 msgid "LOBBY_CONSUMABLES_DESCRIPTION_SHORT_ADRENALIN"
 msgstr "10秒內提高各軸向上的操控性"
@@ -3212,8 +3191,7 @@ msgid "LOBBY_CONSUMABLES_EFFECT_ON_USE_DAILY_ENGINE_HEATSINK"
 msgstr "100%降低引擎熱量"
 
 msgid "LOBBY_CONSUMABLES_EFFECT_ON_USE_DAILY_FIX_TAIL_AND_WINGS"
-msgstr ""
-"通過穩定控制翼面從而減小翼面損傷所帶來的影響,部分恢復機翼和尾翼的操控性"
+msgstr "通過穩定控制翼面從而減小翼面損傷所帶來的影響,部分恢復機翼和尾翼的操控性"
 
 msgid "LOBBY_CONSUMABLES_EFFECT_ON_USE_DAILY_GUN_HEATSINK"
 msgstr "降低所以機槍或機砲的熱量,並在使用後的5秒內防止其過熱"
@@ -3234,8 +3212,7 @@ msgid "LOBBY_CONSUMABLES_EFFECT_ON_USE_FIRE_WORK"
 msgstr "手動點燃彩色節日焰火"
 
 msgid "LOBBY_CONSUMABLES_EFFECT_ON_USE_FIX_TAIL_AND_WINGS"
-msgstr ""
-"通過穩定控制翼面從而減小翼面損傷所帶來的影響,部分恢復機翼和尾翼的操控性"
+msgstr "通過穩定控制翼面從而減小翼面損傷所帶來的影響,部分恢復機翼和尾翼的操控性"
 
 msgid "LOBBY_CONSUMABLES_EFFECT_ON_USE_GOLD_ADRENALIN"
 msgstr "10秒內增加戰機在各軸向上的旋轉速度"
@@ -3396,8 +3373,8 @@ msgstr "徽章"
 
 msgid "LOBBY_CONTEXT_MESSAGE_FREE_XP"
 msgstr ""
-"精英戰機和加值戰機所獲得的經驗可轉化為自由經驗，標準戰鬥結束後可獲得所獲經驗"
-"5%的自由經驗"
+"精英戰機和加值戰機所獲得的經驗可轉化為自由經驗，標準戰鬥結束後可獲得所獲經驗5%的自"
+"由經驗"
 
 msgid "LOBBY_CONTEXT_MESSAGE_NOSEART"
 msgstr "機首塗裝"
@@ -3453,9 +3430,8 @@ msgstr "高階乘員每場賺取20%的乘員經驗。"
 msgid "LOBBY_CREW_BUTTON_BUY_SKILLS"
 msgstr "掌握技能"
 
-#, fuzzy
 msgid "LOBBY_CREW_BUTTON_CHANGE"
-msgstr "Replace"
+msgstr "替換"
 
 msgid "LOBBY_CREW_BUTTON_DISMOUNT"
 msgstr "移動至兵營"
@@ -3583,8 +3559,8 @@ msgstr "擴大兵營"
 #, fuzzy
 msgid "LOBBY_CREW_EXP_DESCRIPTION"
 msgstr ""
-"Earn experience in battles and use it to increase the proficiency level of "
-"the crew."
+"Earn experience in battles and use it to increase the proficiency level of the "
+"crew."
 
 msgid "LOBBY_CREW_FREE_PLACE_FOR_AVIATOR"
 msgstr "空置床位可容納一名乘員"
@@ -3629,7 +3605,7 @@ msgid "LOBBY_CREW_HEADER_CREW_ORDERS"
 msgstr "乘員指令"
 
 msgid "LOBBY_CREW_HEADER_CURRENT_PLANE"
-msgstr "當前戰機"
+msgstr "目前戰機"
 
 msgid "LOBBY_CREW_HEADER_EFFECTF_ON_THE_PLANE"
 msgstr "對飛機在戰鬥中的影響"
@@ -3819,8 +3795,8 @@ msgstr "訓練這名乘員需要花費{price}{icon_currency}，確定進行訓�
 
 msgid "LOBBY_CREW_MESSAGE_ATTENTION_RANDOM_MODE"
 msgstr ""
-"注意! 在標準戰鬥中，戰機需要進行維修和補充彈藥消耗品 <b>在戰鬥結束後要花費銀"
-"幣或金幣進行!</b>"
+"注意! 在標準戰鬥中，戰機需要進行維修和補充彈藥消耗品 <b>在戰鬥結束後要花費銀幣或金"
+"幣進行!</b>"
 
 msgid "LOBBY_CREW_MESSAGE_AVAILABLE_MODE_NAME"
 msgstr "新模式 {mode_name} 已被解鎖"
@@ -3830,8 +3806,7 @@ msgstr "兵營中沒有空餘床位，請擴大兵營或騰出床位。"
 
 msgid "LOBBY_CREW_MESSAGE_BARRACKS_SIZE"
 msgstr ""
-"兵營中有{places}個可用床位。你可以花費{price}{icon_gold}購買{number}個額外床"
-"位。"
+"兵營中有{places}個可用床位。你可以花費{price}{icon_gold}購買{number}個額外床位。"
 
 msgid "LOBBY_CREW_MESSAGE_CHOSEN_MODE_NAME"
 msgstr "你選擇了新的戰鬥模式 {mode_name}:"
@@ -3850,8 +3825,7 @@ msgstr "已解僱，{days}日內可供招募。"
 
 msgid "LOBBY_CREW_MESSAGE_DISMISS_EXPERIENCED"
 msgstr ""
-"解僱{crew_member}?在一個月內花費{price}{icon_gold}將可按照現有能力重新招募該"
-"乘員。"
+"解僱{crew_member}?在一個月內花費{price}{icon_gold}將可按照現有能力重新招募該乘員。"
 
 msgid "LOBBY_CREW_MESSAGE_DISMISS_MEMBER"
 msgstr "解僱{crew_member}? 這名{crew_member}將不能再使用。"
@@ -3890,7 +3864,7 @@ msgid "LOBBY_CREW_MESSAGE_GIFT"
 msgstr "獎勵"
 
 msgid "LOBBY_CREW_MESSAGE_LEANR_CURRENT_SKILL_TO_ACCES_OTHER_SKILLS"
-msgstr "新技能不可用。需當前技能100%掌握。"
+msgstr "新技能不可用。需目前技能100%掌握。"
 
 msgid "LOBBY_CREW_MESSAGE_LEARN_BASIC_CPECIALITY_TO_ACCES_ADDITIONAL_SKILLS"
 msgstr "要得到第一個技能點，需要先將機組乘員熟練度訓練到100%。"
@@ -3924,8 +3898,8 @@ msgstr "人機對戰!"
 
 msgid "LOBBY_CREW_MESSAGE_QUEST_COMPLETION_RESULTS"
 msgstr ""
-"現在將解鎖新的遊戲功能: 新的戰鬥模式和任務、戰機的研發與購買、對現有戰機進行"
-"裝備升級等等。"
+"現在將解鎖新的遊戲功能: 新的戰鬥模式和任務、戰機的研發與購買、對現有戰機進行裝備升"
+"級等等。"
 
 msgid "LOBBY_CREW_MESSAGE_READY_TO_MODE_NAME"
 msgstr "進行新的遊戲模式: {mode_name}"
@@ -3956,13 +3930,13 @@ msgstr "乘員技能影響飛機效能，較高的訓練水平將能使乘員更
 
 msgid "LOBBY_CREW_MESSAGE_SPEED-UP_CREW_LEARNING"
 msgstr ""
-"這架飛機所獲得的全部經驗將分配給對乘員的培訓，飛行員將得到雙倍的訓練，其他乘"
-"員也會加快。"
+"這架飛機所獲得的全部經驗將分配給對乘員的培訓，飛行員將得到雙倍的訓練，其他乘員也會"
+"加快。"
 
 msgid "LOBBY_CREW_MESSAGE_SPEED-UP_CREW_LEARNING_V2"
 msgstr ""
-"這架飛機所獲得的全部經驗將分配給對乘員的培訓，經驗最少的乘員將得到雙倍的訓"
-"練，其他乘員也會加快。"
+"這架飛機所獲得的全部經驗將分配給對乘員的培訓，經驗最少的乘員將得到雙倍的訓練，其他"
+"乘員也會加快。"
 
 msgid "LOBBY_CREW_MESSAGE_TOTAL_FOR_PLANE"
 msgstr "{plane_name}總計:"
@@ -4094,11 +4068,8 @@ msgstr "通用技能"
 msgid "LOBBY_CURRENT_EVENTS_CHECKBOX"
 msgstr "Display currently active specials."
 
-#, fuzzy
 msgid "LOBBY_DESCRIPTION_BATTLE_POINTS"
-msgstr ""
-"Combat points are converted to <b><font color='#{colorID}'>credits</font></"
-"b> at the end of a battle"
+msgstr "戰鬥接受後戰鬥點數會被轉換為<b><font color='#{colorID}'>銀幣</font></b>"
 
 msgid "LOBBY_DIALOG_SERVER_OVERLOADED_MESSAGE"
 msgstr "連線至伺服器…"
@@ -4117,8 +4088,8 @@ msgstr "DUNKIRK: LAST STAND"
 #, fuzzy
 msgid "LOBBY_DUNKIRK_POSTER_SMALL_TEXT"
 msgstr ""
-"Recruit ace pilots of the legendary aircraft<br>and join the key battle of "
-"World War II!"
+"Recruit ace pilots of the legendary aircraft<br>and join the key battle of World "
+"War II!"
 
 msgid "LOBBY_EARN_TOKENS_OR_BUY_TOKENS"
 msgstr "你可以通過完成每日任務或<a>購買金幣</a>獲得令牌。"
@@ -4341,16 +4312,13 @@ msgid "LOBBY_EQUIPMENT_EFFECT_REFLECTOR_SIGHT_II"
 msgstr "射擊精度+10%"
 
 msgid "LOBBY_EQUIPMENT_EFFECT_REINFORCED_FRAME_I"
-msgstr ""
-"增加戰機10%的生命值，並且降低25%引擎、機翼、尾翼和乘員受到嚴重傷害的機率"
+msgstr "增加戰機10%的生命值，並且降低25%引擎、機翼、尾翼和乘員受到嚴重傷害的機率"
 
 msgid "LOBBY_EQUIPMENT_EFFECT_REINFORCED_FRAME_II"
-msgstr ""
-"增加戰機10%的生命值，並且降低25%引擎、機翼、尾翼和乘員受到嚴重傷害的機率"
+msgstr "增加戰機10%的生命值，並且降低25%引擎、機翼、尾翼和乘員受到嚴重傷害的機率"
 
 msgid "LOBBY_EQUIPMENT_EFFECT_REINFORCED_FRAME_III"
-msgstr ""
-"增加戰機10%的生命值，並且降低25%引擎、機翼、尾翼和乘員受到嚴重傷害的機率"
+msgstr "增加戰機10%的生命值，並且降低25%引擎、機翼、尾翼和乘員受到嚴重傷害的機率"
 
 msgid "LOBBY_EQUIPMENT_EFFECT_SUPER_METAL_COATING"
 msgstr "機體防禦+10%"
@@ -4781,10 +4749,10 @@ msgid "LOBBY_EVENTS_MESSAGE_TILL_THE_END"
 msgstr "優惠活動截止於"
 
 msgid "LOBBY_EVENTS_NO_EVENTS_FOR_CURRENT_PLANE"
-msgstr "沒有適用於當前戰機的活動，選擇 {show_all} 檢視適用於其它戰機的活動"
+msgstr "沒有適用於目前戰機的活動，選擇 {show_all} 檢視適用於其它戰機的活動"
 
 msgid "LOBBY_EVENTS_OPTION_SHOW_CURRENT"
-msgstr "當前"
+msgstr "目前"
 
 msgid "LOBBY_EVENTS_OPTION_SHOW_FUTURE"
 msgstr "即將"
@@ -4793,7 +4761,7 @@ msgid "LOBBY_EVENTS_STATUS_NO_CURRENT_EVENTS"
 msgstr "目前沒有活動"
 
 msgid "LOBBY_EVENTS_STATUS_NO_EVENTS_FOR_PLANE"
-msgstr "沒有適用於當前戰機的活動"
+msgstr "沒有適用於目前戰機的活動"
 
 msgid "LOBBY_EVENTS_STATUS_NO_FUTURE_EVENTS"
 msgstr "沒有即將開始的新活動"
@@ -5005,20 +4973,19 @@ msgstr "別具一格的外觀<br>稀有徽章圖案!"
 
 msgid "LOBBY_EVENT_MESSAGE_END_IS_NEAR"
 msgstr ""
-"飛行員! 特別活動臨近尾聲，活動結束後加值戰機將不能再使用令牌購買，而您所剩"
-"餘的未使用令牌將會全部兌換為銀幣。"
+"飛行員! 特別活動臨近尾聲，活動結束後加值戰機將不能再使用令牌購買，而您所剩餘的未使"
+"用令牌將會全部兌換為銀幣。"
 
 msgid "LOBBY_EVENT_MESSAGE_END_IS_NEAR1"
-msgstr ""
-"飛行員!連鎖閃電系列活動即將結束，活動結束後您尚未使用的令牌將被轉換為金幣"
+msgstr "飛行員!連鎖閃電系列活動即將結束，活動結束後您尚未使用的令牌將被轉換為金幣"
 
 msgid "LOBBY_EVENT_MESSAGE_END_IS_NEAR_CH"
 msgstr "飛行員! 特別活動臨近尾聲，未使用的令牌將會全部兌換為銀幣。"
 
 msgid "LOBBY_EVENT_MESSAGE_END_IS_NEAR_WARCASH"
 msgstr ""
-"節日活動：冬季戰役結束後，不再能進行令牌兌換。但是您可以繼續完成每日任務獲得"
-"令牌，為以後的活動做準備。"
+"節日活動：冬季戰役結束後，不再能進行令牌兌換。但是您可以繼續完成每日任務獲得令牌，"
+"為以後的活動做準備。"
 
 msgid "LOBBY_EVENT_MESSAGE_EQUIPMENT"
 msgstr "提前獲得<br>新裝備<br>新消耗品"
@@ -5061,13 +5028,13 @@ msgstr "使用令牌"
 
 msgid "LOBBY_EVENT_MESSAGE_START_WARCASH"
 msgstr ""
-"飛行員！新年活動：冬季戰役已經開始。在活動期間，您每天都會獲得兩個令牌。您也"
-"可以通關完成每日任務和使命任務來賺取令牌。"
+"飛行員！新年活動：冬季戰役已經開始。在活動期間，您每天都會獲得兩個令牌。您也可以通"
+"關完成每日任務和使命任務來賺取令牌。"
 
 msgid "LOBBY_EVENT_MESSAGE_TICKETS_EXCHANGE"
 msgstr ""
-"活動現已結束,加值戰機已不能使用令牌購買,您可在商店中使用金幣購買這些戰機,您"
-"尚未使用的令牌已被兌換為銀幣"
+"活動現已結束,加值戰機已不能使用令牌購買,您可在商店中使用金幣購買這些戰機,您尚未使用"
+"的令牌已被兌換為銀幣"
 
 msgid "LOBBY_EVENT_MESSAGE_TICKETS_EXCHANGE_CH"
 msgstr "活動現已結束，您尚未使用的令牌已被兌換為銀幣。"
@@ -5148,16 +5115,15 @@ msgstr "我們將提供新的8級加值戰機, 新的配件消耗品, 以及特�
 
 msgid "LOBBY_EVENT_WINDOW_TEXT_TICKET_EVENT"
 msgstr ""
-"活動臨近結束! 在活動進行時間內獲得的令牌可用於購買加值戰機, 新的配件與消耗"
-"品, 以及特別的徽章和塗裝方案!"
+"活動臨近結束! 在活動進行時間內獲得的令牌可用於購買加值戰機, 新的配件與消耗品, 以及"
+"特別的徽章和塗裝方案!"
 
 msgid "LOBBY_EXCHANGE_GOLD_HEADER_OVERLIMIT"
 msgstr "超出限制"
 
 msgid "LOBBY_EXCHANGE_GOLD_MESSAGE_OVERLIMIT"
 msgstr ""
-"您可一次將不超過 {sum} {gold_icon} 兌換為銀幣，如果要大量進行兌換，建議您分多"
-"次完成"
+"您可一次將不超過 {sum} {gold_icon} 兌換為銀幣，如果要大量進行兌換，建議您分多次完成"
 
 #, fuzzy
 msgid "LOBBY_EXCLUSIVE_CAMO_EMBLEM"
@@ -5273,14 +5239,12 @@ msgstr "+ Unique paint scheme and nose art"
 #, fuzzy
 msgid "LOBBY_FR_BANNER_TEXT_2"
 msgstr ""
-"Two sets of Premium ammunition for the {plane_name1} and {plane_name2} "
-"aircraft"
+"Two sets of Premium ammunition for the {plane_name1} and {plane_name2} aircraft"
 
 #, fuzzy
 msgid "LOBBY_FR_BANNER_TEXT_3"
 msgstr ""
-"Unique paint schemes and nose art for the {plane_name1} and {plane_name2} "
-"aircraft"
+"Unique paint schemes and nose art for the {plane_name1} and {plane_name2} aircraft"
 
 #, fuzzy
 msgid "LOBBY_FR_BANNER_TEXT_4"
@@ -5316,25 +5280,22 @@ msgstr "Fuselage"
 
 #, fuzzy
 msgid "LOBBY_GAME_TYPE_DESCRIPTION_AREACONQUEST"
-msgstr ""
-"Combat group's mission: Achieve maximum influence in the area of operation. "
-"Capture and hold sectors to win."
+msgstr "戰鬥隊伍任務: 在任務區域取得最高優勢。佔領分區以獲得勝利。"
 
 #, fuzzy
 msgid "LOBBY_GAME_TYPE_DESCRIPTION_ATTACK_INVASION"
 msgstr ""
-"Attacking group's mission: capture all sectors without losing momentum or "
-"destroy all enemy aircraft."
+"Attacking group's mission: capture all sectors without losing momentum or destroy "
+"all enemy aircraft."
 
 #, fuzzy
 msgid "LOBBY_GAME_TYPE_DESCRIPTION_DEFENCE_INVASION"
 msgstr ""
-"Defending group's mission: prevent the enemy from capturing all sectors or "
-"destroy all their aircraft."
+"Defending group's mission: prevent the enemy from capturing all sectors or destroy "
+"all their aircraft."
 
-#, fuzzy
 msgid "LOBBY_GAME_TYPE_NAME_AREACONQUEST"
-msgstr "CONQUEST"
+msgstr "征服"
 
 #, fuzzy
 msgid "LOBBY_GAME_TYPE_NAME_INVASION"
@@ -5375,8 +5336,8 @@ msgstr "金幣:"
 
 msgid "LOBBY_GOLD_REFILL_UNAVAILABLE"
 msgstr ""
-"自動補充金幣彈藥和消耗品的功能暫不可用<br>更換彈藥種類或不攜帶消耗品進入戰鬥"
-"<br>進入維護介面補充彈藥和消耗品"
+"自動補充金幣彈藥和消耗品的功能暫不可用<br>更換彈藥種類或不攜帶消耗品進入戰鬥<br>進"
+"入維護介面補充彈藥和消耗品"
 
 #, fuzzy
 msgid "LOBBY_GUNNER_CABIN"
@@ -5535,8 +5496,7 @@ msgstr "確認出售"
 
 msgid "LOBBY_I-15BIS-DM2_SELL_MESSAGE_TEXT"
 msgstr ""
-"確認以{sell_price}的價格出售{name}？<br>限量戰機被出售後您將不能再購回這架戰"
-"機。"
+"確認以{sell_price}的價格出售{name}？<br>限量戰機被出售後您將不能再購回這架戰機。"
 
 msgid "LOBBY_IGR_ONLY_FOR_IGR_CHINA"
 msgstr "任務只適用於 {igrIcon} 玩家"
@@ -5584,8 +5544,8 @@ msgstr "Confrontation starts in:"
 #, fuzzy
 msgid "LOBBY_JA_TR_AFTER_PLANE_WILL_BE_AVAILABLE_IN_TREE"
 msgstr ""
-"After the event \"Japanese Threat\" is over, the aircraft can be researched "
-"and purchased in the normal way."
+"After the event \"Japanese Threat\" is over, the aircraft can be researched and "
+"purchased in the normal way."
 
 #, fuzzy
 msgid "LOBBY_JA_TR_AFTER_PURCHASE"
@@ -5598,14 +5558,14 @@ msgstr "Allies"
 #, fuzzy
 msgid "LOBBY_JA_TR_ALL_PARTICIPATION_AS_ALLY_VS_AXIS"
 msgstr ""
-"For all confrontations <font color='#{color}'>on the Allied side</font> "
-"against the Axis"
+"For all confrontations <font color='#{color}'>on the Allied side</font> against "
+"the Axis"
 
 #, fuzzy
 msgid "LOBBY_JA_TR_ALL_PARTICIPATION_AS_AXIS_VS_ALLY"
 msgstr ""
-"For all confrontations <font color='#{color}'>on the Axis side</font> "
-"against the Allies"
+"For all confrontations <font color='#{color}'>on the Axis side</font> against the "
+"Allies"
 
 #, fuzzy
 msgid "LOBBY_JA_TR_ALL_QUEST_NUMBER"
@@ -5634,14 +5594,13 @@ msgstr "Special awards for active participation in confrontations—loot crates.
 #, fuzzy
 msgid "LOBBY_JA_TR_BANNER_TEXT_1"
 msgstr ""
-"Daily confrontation between the Allies and Axis. Select a side and join "
-"battles!"
+"Daily confrontation between the Allies and Axis. Select a side and join battles!"
 
 #, fuzzy
 msgid "LOBBY_JA_TR_BANNER_TEXT_2"
 msgstr ""
-"Special awards for active participation in confrontations—loot crates. "
-"Winners get double the number of crates!"
+"Special awards for active participation in confrontations—loot crates. Winners get "
+"double the number of crates!"
 
 #, fuzzy
 msgid "LOBBY_JA_TR_BANNER_TEXT_3"
@@ -5654,14 +5613,14 @@ msgstr "No loot crates earned. You can order them in exchange for tokens."
 #, fuzzy
 msgid "LOBBY_JA_TR_BANNER_TEXT_5"
 msgstr ""
-"All your loot crates are opened. You can order extra loot crates in exchange "
-"for tokens."
+"All your loot crates are opened. You can order extra loot crates in exchange for "
+"tokens."
 
 #, fuzzy
 msgid "LOBBY_JA_TR_BANNER_TEXT_6"
 msgstr ""
-"You received all possible awards for today. Join the next confrontation to "
-"earn new loot crates!"
+"You received all possible awards for today. Join the next confrontation to earn "
+"new loot crates!"
 
 #, fuzzy
 msgid "LOBBY_JA_TR_BANNER_TEXT_7"
@@ -5709,13 +5668,11 @@ msgstr "Rules"
 
 #, fuzzy
 msgid "LOBBY_JA_TR_BUY_4-LVL"
-msgstr ""
-"To participate in the event, purchase<br>an aircraft of tier IV or higher."
+msgstr "To participate in the event, purchase<br>an aircraft of tier IV or higher."
 
 #, fuzzy
 msgid "LOBBY_JA_TR_BUY_4-LVL_1"
-msgstr ""
-"To participate in the event, purchase an aircraft of tier IV or higher."
+msgstr "To participate in the event, purchase an aircraft of tier IV or higher."
 
 #, fuzzy
 msgid "LOBBY_JA_TR_BUY_PROPHY"
@@ -5744,8 +5701,8 @@ msgstr "Complete mission 2 to unlock this mission."
 #, fuzzy
 msgid "LOBBY_JA_TR_COMPLETED_SPECIAL_QUEST_FOR_FREE_PLANE"
 msgstr ""
-"To get the aircraft for free, find a special mission in your loot crates "
-"earned in confrontations and complete it."
+"To get the aircraft for free, find a special mission in your loot crates earned in "
+"confrontations and complete it."
 
 #, fuzzy
 msgid "LOBBY_JA_TR_COMPLETE_QUESTS_PLANE_1"
@@ -5757,8 +5714,7 @@ msgstr "COMPLETE SPECIAL MISSIONS TO RECEIVE AIRCRAFT."
 
 #, fuzzy
 msgid "LOBBY_JA_TR_COMPLETE_QUEST_IN_PIECETIME_GET_FREE_PLANE"
-msgstr ""
-"To get the aircraft for free, complete the special mission during peacetime."
+msgstr "To get the aircraft for free, complete the special mission during peacetime."
 
 #, fuzzy
 msgid "LOBBY_JA_TR_CONFIRM"
@@ -5767,8 +5723,7 @@ msgstr "Confirm"
 #, fuzzy
 msgid "LOBBY_JA_TR_CONGRATULATION_MESSAGES_BANNER_TEXT"
 msgstr ""
-"Pilot! For your active participation in the event, you earned the following "
-"awards!"
+"Pilot! For your active participation in the event, you earned the following awards!"
 
 #, fuzzy
 msgid "LOBBY_JA_TR_CONGRATULATION_PLANE"
@@ -5789,8 +5744,8 @@ msgstr "Join the Allied forces?"
 #, fuzzy
 msgid "LOBBY_JA_TR_END_IS_NEAR"
 msgstr ""
-"To mark the end of the event, new Japanese aircraft are now available in the "
-"Tech Tree."
+"To mark the end of the event, new Japanese aircraft are now available in the Tech "
+"Tree."
 
 #, fuzzy
 msgid "LOBBY_JA_TR_EXCHANGE_RATE"
@@ -5903,15 +5858,15 @@ msgstr "Reinforced force"
 #, fuzzy
 msgid "LOBBY_JA_TR_RULE_DESCRIPTION"
 msgstr ""
-"You do not yet have any special missions to get new Japanese fighters."
-"<br>Find special missions in loot crates and complete them to get aircraft "
-"from the new branch without research!"
+"You do not yet have any special missions to get new Japanese fighters.<br>Find "
+"special missions in loot crates and complete them to get aircraft from the new "
+"branch without research!"
 
 #, fuzzy
 msgid "LOBBY_JA_TR_RULE_DESCRIPTION_SHORT"
 msgstr ""
-"Find special missions in loot crates and complete them to get aircraft from "
-"the new branch without research!"
+"Find special missions in loot crates and complete them to get aircraft from the "
+"new branch without research!"
 
 #, fuzzy
 msgid "LOBBY_JA_TR_SELECT_FACTION"
@@ -5932,26 +5887,26 @@ msgstr "+50% to crew experience for the next 20 victories"
 #, fuzzy
 msgid "LOBBY_JA_TR_SPECIAL_PLANE_AND_PILOT_III"
 msgstr ""
-"Pilot for the tier III <font color='#{color}'>Ki-27</font> aircraft with 3 "
-"skill points"
+"Pilot for the tier III <font color='#{color}'>Ki-27</font> aircraft with 3 skill "
+"points"
 
 #, fuzzy
 msgid "LOBBY_JA_TR_SPECIAL_PLANE_AND_PILOT_V"
 msgstr ""
-"Pilot for the tier V <font color='#{color}'>Ki-43-II</font> aircraft with 5 "
-"skill points"
+"Pilot for the tier V <font color='#{color}'>Ki-43-II</font> aircraft with 5 skill "
+"points"
 
 #, fuzzy
 msgid "LOBBY_JA_TR_SPECIAL_PLANE_AND_PILOT_VI"
 msgstr ""
-"Pilot for the tier VI <font color='#{color}'>Ki-61</font> aircraft with 7 "
-"skill points"
+"Pilot for the tier VI <font color='#{color}'>Ki-61</font> aircraft with 7 skill "
+"points"
 
 #, fuzzy
 msgid "LOBBY_JA_TR_SPECIAL_PLANE_AND_PILOT_VII"
 msgstr ""
-"Pilot for the tier VII <font color='#{color}'>Ki-84</font> aircraft with 10 "
-"skill points"
+"Pilot for the tier VII <font color='#{color}'>Ki-84</font> aircraft with 10 skill "
+"points"
 
 #, fuzzy
 msgid "LOBBY_JA_TR_SPECIAL_PLANE_BONUS_EXP_1"
@@ -6060,8 +6015,7 @@ msgstr "For superiority points"
 
 #, fuzzy
 msgid "LOBBY_JA_TR_STAT_TEXT_1"
-msgstr ""
-"Earn points in battles and open loot crates during peacetime to get prizes!"
+msgstr "Earn points in battles and open loot crates during peacetime to get prizes!"
 
 #, fuzzy
 msgid "LOBBY_JA_TR_STAT_TEXT_3"
@@ -6136,14 +6090,13 @@ msgstr ""
 #, fuzzy
 msgid "LOBBY_JA_TR_WING_I-III_AND_IV-X_LVL_CANT_JOIN_BATTLE"
 msgstr ""
-"A Flight with an aircraft in tiers I–III cannot enter a battle. To enter a "
-"battle together, select an aircraft from another tier."
+"A Flight with an aircraft in tiers I–III cannot enter a battle. To enter a battle "
+"together, select an aircraft from another tier."
 
 #, fuzzy
 msgid "LOBBY_JA_TR_WIN_FACTION_TROPHY_X2"
 msgstr ""
-"The number of loot crates awarded to the side that wins a confrontation is "
-"doubled."
+"The number of loot crates awarded to the side that wins a confrontation is doubled."
 
 #, fuzzy
 msgid "LOBBY_JA_TR_YOUR_FACTION_LOST"
@@ -6168,8 +6121,8 @@ msgstr "You fight on the Axis side"
 #, fuzzy
 msgid "LOBBY_JA_TR_YOU_RECEIVED_ALL_TROPHY"
 msgstr ""
-"Pilot! You received all loot crates. You can order extra loot crates in "
-"exchange for tokens."
+"Pilot! You received all loot crates. You can order extra loot crates in exchange "
+"for tokens."
 
 msgid "LOBBY_LABEL_ADDITIONALLY"
 msgstr "詳細資訊:"
@@ -6206,8 +6159,8 @@ msgstr "出售配件:"
 
 msgid "LOBBY_LABEL_STOP_SELL_EQUIPMENT"
 msgstr ""
-"在1.9版本更新完成後，所有裝備在戰機上或儲存在倉庫中的高階彈藥和配件“防彈玻"
-"璃”都將被回收。"
+"在1.9版本更新完成後，所有裝備在戰機上或儲存在倉庫中的高階彈藥和配件“防彈玻璃”都將被"
+"回收。"
 
 msgid "LOBBY_LABEL_STOP_SELL_GOLD_BELT"
 msgstr "增強型彈藥將不再使用金幣購買"
@@ -6374,8 +6327,8 @@ msgstr "獲得波利卡爾波夫I-180-3！"
 
 msgid "LOBBY_MESSAGES_GET_PLANE_I-180-3_2"
 msgstr ""
-"<font color='#ffcb05'>完成任務</font> 獲取獨一無二的 <font color='#ffcb05'>波"
-"利卡爾波夫 伊-180-3</font>"
+"<font color='#ffcb05'>完成任務</font> 獲取獨一無二的 <font color='#ffcb05'>波利卡爾"
+"波夫 伊-180-3</font>"
 
 msgid "LOBBY_MESSAGES_LIGHTNING_HEADER"
 msgstr "連鎖閃電"
@@ -6383,8 +6336,8 @@ msgstr "連鎖閃電"
 #, fuzzy
 msgid "LOBBY_MESSAGES_NO_DIRECTIVE_FOR_YOU"
 msgstr ""
-"Research new aircraft of Tier V and higher, and check out the Shop in a few "
-"days: new operation orders may appear for you."
+"Research new aircraft of Tier V and higher, and check out the Shop in a few days: "
+"new operation orders may appear for you."
 
 #, fuzzy
 msgid "LOBBY_MESSAGES_NO_SUITABLE_DIRECTIVE"
@@ -6404,7 +6357,7 @@ msgid "LOBBY_MESSAGES_QUANTITY"
 msgstr "數量:"
 
 msgid "LOBBY_MESSAGE_AIRCRAFT_IN_BATTLE"
-msgstr "當前戰機將在戰鬥結束時返回機庫<br>若要開始新的戰鬥，請選擇其他戰機"
+msgstr "目前戰機將在戰鬥結束時返回機庫<br>若要開始新的戰鬥，請選擇其他戰機"
 
 msgid "LOBBY_MESSAGE_ALL_DAILY_COMPLETED"
 msgstr "明日可進行新的每日任務"
@@ -6426,20 +6379,18 @@ msgstr "加值帳號對戰機世界、戰車世界和戰艦世界是通用的。
 
 msgid "LOBBY_MESSAGE_EXCLUSIVE_OFFER_EMBLEM"
 msgstr ""
-"節日快樂, 飛行員! 在這個歡樂的日子裡,我們將會為您提供可用於裝飾戰機的專屬徽章"
-"以及 {sale} 等特惠活動,一起享受這個美妙的節日吧!"
+"節日快樂, 飛行員! 在這個歡樂的日子裡,我們將會為您提供可用於裝飾戰機的專屬徽章以及 "
+"{sale} 等特惠活動,一起享受這個美妙的節日吧!"
 
 msgid "LOBBY_MESSAGE_EXCLUSIVE_OFFER_RE_EMBLEM"
-msgstr ""
-"嗨, 飛行員! 抓住機會,可用於裝飾戰機的專屬徽章以及 {sale} 等特惠活動在等著你!"
+msgstr "嗨, 飛行員! 抓住機會,可用於裝飾戰機的專屬徽章以及 {sale} 等特惠活動在等著你!"
 
 msgid "LOBBY_MESSAGE_NO_AMMO"
 msgstr "彈藥未裝填"
 
 msgid "LOBBY_MESSAGE_NY_2016_TEXT"
 msgstr ""
-"節日快樂，飛行員！願你在新年裡所有的戰鬥都獲得勝利，並且獲得豐富的獎勵！2016"
-"起飛！"
+"節日快樂，飛行員！願你在新年裡所有的戰鬥都獲得勝利，並且獲得豐富的獎勵！2016起飛！"
 
 msgid "LOBBY_MESSAGE_PREMIUM_ADVANTAGES"
 msgstr "每場戰鬥經驗和銀幣+50%"
@@ -6452,8 +6403,8 @@ msgstr "寬敞的新機庫"
 
 msgid "LOBBY_MESSAGE_PROLONG_PREMIUM_FOR_TOKENS"
 msgstr ""
-"加值帳號對戰機世界和戰車世界是通用的。你可以使用戰車金幣購買加值帳號，此加值"
-"帳號在戰機世界同樣有效。"
+"加值帳號對戰機世界和戰車世界是通用的。你可以使用戰車金幣購買加值帳號，此加值帳號在"
+"戰機世界同樣有效。"
 
 msgid "LOBBY_MESSAGE_PURCHASE_SLOT_HEADER"
 msgstr "購買機位"
@@ -6469,9 +6420,9 @@ msgstr "令牌購買成功"
 
 msgid "LOBBY_MESSAGE_WINDOW_CONTEXT_PORTAL"
 msgstr ""
-"Внимание!<br>Официальный портал World of Warplanes теперь находится по "
-"адресу:<br><br>{link}<br><br>Только здесь вы можете получать всю достоверную "
-"информацию об игре и безопасно пользоваться любыми игровыми сервисами."
+"Внимание!<br>Официальный портал World of Warplanes теперь находится по адресу:"
+"<br><br>{link}<br><br>Только здесь вы можете получать всю достоверную информацию "
+"об игре и безопасно пользоваться любыми игровыми сервисами."
 
 msgid "LOBBY_MESSAGE_WINDOW_HEADER_PORTAL"
 msgstr "Смена адреса"
@@ -6554,8 +6505,7 @@ msgid "LOBBY_MODULES_PAGE_MESSAGE_APPLY_EQIPMENT_INSTALLATION"
 msgstr "安裝配件 {module_name} 將花費 {price_silver}{icon_silver}，確定嗎？"
 
 msgid "LOBBY_MODULES_PAGE_MESSAGE_APPLY_INSTALLATION_OF_COMPLEX_EQIPMENT"
-msgstr ""
-"該配件機構複雜，拆卸需要花費 {price_gold}{icon_gold}。確定安裝此配件嗎?"
+msgstr "該配件機構複雜，拆卸需要花費 {price_gold}{icon_gold}。確定安裝此配件嗎?"
 
 msgid "LOBBY_MODULES_PAGE_MESSAGE_DESTROY_EQUIPMENT"
 msgstr "確定摧毀 {module_name}？"
@@ -6573,8 +6523,7 @@ msgid "LOBBY_MODULES_PAGE_MESSAGE_UNMOUNT_EQUIPMENT_FOR_MONEY"
 msgstr "拆卸 {module_name} 需要花費 {price_gold}{icon_gold}，確定要拆卸？"
 
 msgid "LOBBY_MODULES_PAGE_MESSAGE_UNMOUNT_OR_DESTROY_EQUIPMENT"
-msgstr ""
-"拆卸 {module_name} 需要花費 {price_gold}{icon_gold} ，選擇拆卸或是摧毀？"
+msgstr "拆卸 {module_name} 需要花費 {price_gold}{icon_gold} ，選擇拆卸或是摧毀？"
 
 msgid "LOBBY_MODULES_PAGE_MESSAGE_UNMOUNT_THREE_EQUIPMENT_FOR_MONEY"
 msgstr ""
@@ -6583,8 +6532,7 @@ msgstr ""
 
 msgid "LOBBY_MODULES_PAGE_MESSAGE_UNMOUNT_TWO_EQUIPMENT_FOR_MONEY"
 msgstr ""
-"確認以{price_gold}{icon_gold}的價格拆卸{module_name1}、{module_name2}並送到倉"
-"庫麼？"
+"確認以{price_gold}{icon_gold}的價格拆卸{module_name1}、{module_name2}並送到倉庫麼？"
 
 msgid "LOBBY_MODULES_PAGE_ROCKETS_TO_WAREHOUSE"
 msgstr "{number}  火箭彈將被卸除到倉庫"
@@ -6609,8 +6557,7 @@ msgstr "適用戰機:"
 
 msgid "LOBBY_MODULE_INFO_DESCRIPTION_COMPLEX_EQUIPMENT"
 msgstr ""
-"花費{price_gold}{icon_gold}可進行拆卸，拆卸下的物品可再次使用，或者免費直接進"
-"行摧毀"
+"花費{price_gold}{icon_gold}可進行拆卸，拆卸下的物品可再次使用，或者免費直接進行摧毀"
 
 msgid "LOBBY_MODULE_INFO_DIST_FT"
 msgstr "{dist} ft以內"
@@ -6664,7 +6611,7 @@ msgid "LOBBY_MODULE_INFO_WHEN_DIST_M"
 msgstr "{dist} m以外"
 
 msgid "LOBBY_MODULE_INFO_WHEN_MOUNTED"
-msgstr "當前安裝:"
+msgstr "目前安裝:"
 
 msgid "LOBBY_MODULE_LIMITED_BY_LEVEL"
 msgstr "等級:"
@@ -6717,13 +6664,11 @@ msgstr "你的金幣："
 msgid "LOBBY_MY_TOKENS"
 msgstr "你的令牌："
 
-#, fuzzy
 msgid "LOBBY_NEW_ACHIEVEMENT_HEADER"
-msgstr "New achievement"
+msgstr "新成就"
 
-#, fuzzy
 msgid "LOBBY_NEW_GAMEMOD_HEADER"
-msgstr "New Game Mode \"Conquest\"!"
+msgstr "新遊戲模式「征服」！"
 
 #, fuzzy
 msgid "LOBBY_NEW_GAMEMOD_TEXT_1"
@@ -6731,8 +6676,7 @@ msgstr "TIME TO CONQUER!"
 
 #, fuzzy
 msgid "LOBBY_NEW_GAMEMOD_TEXT_2"
-msgstr ""
-"Join intense battles for control over territories<br>in the new game mode!"
+msgstr "Join intense battles for control over territories<br>in the new game mode!"
 
 msgid "LOBBY_NEW_QUEST"
 msgstr "新任務"
@@ -6748,8 +6692,8 @@ msgstr "Holidays in the Sky!"
 #, fuzzy
 msgid "LOBBY_NEW_YEAR_2017_SMALL_TEXT"
 msgstr ""
-"Conquer new heights in the new year!<br>Let's celebrate the holidays by "
-"giving and receiving presents."
+"Conquer new heights in the new year!<br>Let's celebrate the holidays by giving and "
+"receiving presents."
 
 #, fuzzy
 msgid "LOBBY_NEW_YEAR_2018_HEADER"
@@ -6774,8 +6718,7 @@ msgstr "You have completed all missions."
 #, fuzzy
 msgid "LOBBY_NORTHERN_STAR_CONGRAT_TEXT_2"
 msgstr ""
-"You have successfully completed all missions and received two new Premium "
-"aircraft!"
+"You have successfully completed all missions and received two new Premium aircraft!"
 
 #, fuzzy
 msgid "LOBBY_NORTHERN_STAR_HEADER"
@@ -6802,8 +6745,7 @@ msgstr "You have earned your first star!"
 #, fuzzy
 msgid "LOBBY_NORTHERN_STAR_TEXT_3_1"
 msgstr ""
-"The <font color='#{colorID}'>Lockheed P-80A Shooting Star</font> is almost "
-"yours!"
+"The <font color='#{colorID}'>Lockheed P-80A Shooting Star</font> is almost yours!"
 
 #, fuzzy
 msgid "LOBBY_NORTHERN_STAR_TEXT_4"
@@ -6816,14 +6758,14 @@ msgstr "The Henschel Hs 123 and<br>Lockheed P-80A Shooting Star!"
 #, fuzzy
 msgid "LOBBY_NORTHERN_STAR_TEXT_6"
 msgstr ""
-"Complete all additional tasks to receive<br>the <font "
-"color='#{colorID}'>Lockheed P-80A Shooting Star</font>."
+"Complete all additional tasks to receive<br>the <font color='#{colorID}'>Lockheed "
+"P-80A Shooting Star</font>."
 
 #, fuzzy
 msgid "LOBBY_NORTHERN_STAR_TEXT_7"
 msgstr ""
-"Complete additional tasks to find the <font color='#{colorID}'>Lockheed "
-"P-80A Shooting Star</font> in your Hangar."
+"Complete additional tasks to find the <font color='#{colorID}'>Lockheed P-80A "
+"Shooting Star</font> in your Hangar."
 
 #, fuzzy
 msgid "LOBBY_NORTHERN_STAR_TEXT_8"
@@ -6839,14 +6781,14 @@ msgstr "節日機首圖案"
 #, fuzzy
 msgid "LOBBY_NOT_ENOUGH_SLOT_DESCRIPTION"
 msgstr ""
-"No vacant slots for the new aircraft in the Hangar. Purchase new slots or "
-"sell aircraft to create space for the new aircraft."
+"No vacant slots for the new aircraft in the Hangar. Purchase new slots or sell "
+"aircraft to create space for the new aircraft."
 
 #, fuzzy
 msgid "LOBBY_NO_CAMP_AFTER_PLANE_WILL_BE_AVAILABLE_IN_TREE"
 msgstr ""
-"After the Battle for Thor's Hammer event is over, the aircraft can be "
-"researched and purchased in the normal way."
+"After the Battle for Thor's Hammer event is over, the aircraft can be researched "
+"and purchased in the normal way."
 
 #, fuzzy
 msgid "LOBBY_NO_CAMP_BANNER_TEXT_3"
@@ -6855,9 +6797,9 @@ msgstr "Daily chance to win new aircraft and skilled pilots!"
 #, fuzzy
 msgid "LOBBY_NO_CAMP_RULE_DESCRIPTION"
 msgstr ""
-"You do not yet have any special missions to get new Soviet and German "
-"multirole fighters.<br>Find special missions in loot crates and complete "
-"them to get aircraft from the new branch without research!"
+"You do not yet have any special missions to get new Soviet and German multirole "
+"fighters.<br>Find special missions in loot crates and complete them to get "
+"aircraft from the new branch without research!"
 
 msgid "LOBBY_NO_CAMP_SPECIAL_QUEST_1"
 msgstr "特別任務 \"<font color='#{color}'>BV P.215.02</font>\""
@@ -6900,16 +6842,16 @@ msgstr "無訓練房可加入。"
 
 msgid "LOBBY_NY_2013_GIFT_MESSAGE_TEXT"
 msgstr ""
-"Wargaming 祝你好運連連! 全新的中國戰機—{name}將與你一同慶祝這美妙的時刻! 一起"
-"決戰天空吧! 聖誕快樂!新年快樂!"
+"Wargaming 祝你好運連連! 全新的中國戰機—{name}將與你一同慶祝這美妙的時刻! 一起決戰天"
+"空吧! 聖誕快樂!新年快樂!"
 
 msgid "LOBBY_NY_2015_GIFT_GREETINGS"
 msgstr "節日快樂!"
 
 msgid "LOBBY_NY_2015_GIFT_MESSAGE_TEXT"
 msgstr ""
-"聖誕節和新年已經來臨! 新年裝飾將會為您帶來溫馨的氛圍，但機庫中的戰鷹正等著與"
-"你重回天空! 檢視活動等資訊:"
+"聖誕節和新年已經來臨! 新年裝飾將會為您帶來溫馨的氛圍，但機庫中的戰鷹正等著與你重回"
+"天空! 檢視活動等資訊:"
 
 msgid "LOBBY_NY_2015_GIFT_PLANE_MESSAGE_TEXT"
 msgstr " "
@@ -7030,8 +6972,7 @@ msgstr "You have completed the chain of secret missions!"
 
 #, fuzzy
 msgid "LOBBY_PFT_COMPLETE_SECRET_QUESTS_2"
-msgstr ""
-"Click the \"Claim Aircraft\" button to receive your well-deserved award."
+msgstr "Click the \"Claim Aircraft\" button to receive your well-deserved award."
 
 #, fuzzy
 msgid "LOBBY_PFT_CONFIRM_PURCHASE_DIRECTIVE_COST"
@@ -7057,9 +6998,8 @@ msgstr "Claim Aircraft"
 msgid "LOBBY_PFT_CONFRIM_SOLD_DIRECTIVE_HEADER"
 msgstr "Sell Operation Order"
 
-#, fuzzy
 msgid "LOBBY_PFT_DETAIL_ABOUT_PLANES"
-msgstr "Aircraft details:"
+msgstr "戰機詳情:"
 
 #, fuzzy
 msgid "LOBBY_PFT_DIRECTIVE_STATUS_COMPLETED"
@@ -7098,8 +7038,7 @@ msgstr ""
 
 #, fuzzy
 msgid "LOBBY_PFT_EVENT_DESCRIPTION_TEXT_4MONTH"
-msgstr ""
-"This week only! Get any Tier IV–IX aircraft without doing any research!"
+msgstr "This week only! Get any Tier IV–IX aircraft without doing any research!"
 
 msgid "LOBBY_PFT_EVENT_NAME_1MONTH"
 msgstr "二次世界大戰的傳奇戰鬥機"
@@ -7161,39 +7100,32 @@ msgstr "Operation order prices start from:"
 msgid "LOBBY_PFT_LTO_TEXT_1"
 msgstr "Seize your chance!"
 
-#, fuzzy
 msgid "LOBBY_PFT_LTO_TEXT_2"
-msgstr "Time left:"
+msgstr "剩餘時間:"
 
-#, fuzzy
 msgid "LOBBY_PFT_L_4"
-msgstr "Any Tier IV aircraft"
+msgstr "任何 IV 階戰機"
 
-#, fuzzy
 msgid "LOBBY_PFT_L_5"
-msgstr "Any Tier V aircraft"
+msgstr "任何 V 階戰機"
 
-#, fuzzy
 msgid "LOBBY_PFT_L_6"
-msgstr "Any Tier VI aircraft"
+msgstr "任何 VI 階戰機"
 
-#, fuzzy
 msgid "LOBBY_PFT_L_7"
-msgstr "Any Tier VII aircraft"
+msgstr "任何 VII 階戰機"
 
-#, fuzzy
 msgid "LOBBY_PFT_L_8"
-msgstr "Any Tier VIII aircraft"
+msgstr "任何 VIII 階戰機"
 
-#, fuzzy
 msgid "LOBBY_PFT_L_9"
-msgstr "Any Tier IX aircraft"
+msgstr "任何 XI 階戰機"
 
 #, fuzzy
 msgid "LOBBY_PFT_NOT_ENOUGH_SPACE_IN_HANGAR"
 msgstr ""
-"No empty slot in the Hangar. Purchase a slot to receive an aircraft upon "
-"executing an operation order."
+"No empty slot in the Hangar. Purchase a slot to receive an aircraft upon executing "
+"an operation order."
 
 #, fuzzy
 msgid "LOBBY_PFT_N_GB_L_4_5"
@@ -7295,18 +7227,16 @@ msgstr "Any U.S.S.R. Tier VII–VIII aircraft"
 msgid "LOBBY_PFT_N_USSR_L_8_9"
 msgstr "Any U.S.S.R. Tier VIII–IX aircraft"
 
-#, fuzzy
 msgid "LOBBY_PFT_RECEIVE_CONGRATULATION"
-msgstr "Congratulations!"
+msgstr "恭喜！"
 
 #, fuzzy
 msgid "LOBBY_PFT_SECRET_DIRECTIVE_DESCRIPTION"
 msgstr ""
-"Execute this operation order to receive <font color='#{color}'>one aircraft "
-"from the Tech Tree of your choice</font>, except Premium aircraft and "
-"aircraft that are already available in your Hangar. Activate the operation "
-"order and complete the chain of secret missions. Once it is completed, "
-"choose the aircraft you want."
+"Execute this operation order to receive <font color='#{color}'>one aircraft from "
+"the Tech Tree of your choice</font>, except Premium aircraft and aircraft that are "
+"already available in your Hangar. Activate the operation order and complete the "
+"chain of secret missions. Once it is completed, choose the aircraft you want."
 
 #, fuzzy
 msgid "LOBBY_PFT_SHOP_DIRECTIVE_COST"
@@ -7523,14 +7453,14 @@ msgstr "<font color='#{color}'>Tier VIII–IX multirole fighter</font>"
 #, fuzzy
 msgid "LOBBY_PFT_STEP_DESCRIPTION_TEXT_1_DIR_IN_PROGRESS"
 msgstr ""
-"Complete the chain of missions within the allocated time. Only one operation "
-"order can be active at a time."
+"Complete the chain of missions within the allocated time. Only one operation order "
+"can be active at a time."
 
 #, fuzzy
 msgid "LOBBY_PFT_STEP_DESCRIPTION_TEXT_1_FOR_ACTIVATE_DIR"
 msgstr ""
-"Activate the operation order at any time and complete the chain of missions "
-"within the allocated time."
+"Activate the operation order at any time and complete the chain of missions within "
+"the allocated time."
 
 #, fuzzy
 msgid "LOBBY_PFT_STEP_DESCRIPTION_TEXT_1_FOR_RECEIVE_DIR"
@@ -7541,20 +7471,17 @@ msgstr ""
 #, fuzzy
 msgid "LOBBY_PFT_STEP_DESCRIPTION_TEXT_2_DIR_IN_PROGRESS"
 msgstr ""
-"Each completed mission extends the time allocated for executing an operation "
-"order."
+"Each completed mission extends the time allocated for executing an operation order."
 
 #, fuzzy
 msgid "LOBBY_PFT_STEP_DESCRIPTION_TEXT_2_FOR_ACTIVATE_DIR"
 msgstr ""
-"An operation order that was not executed in time can be activated again for "
-"free."
+"An operation order that was not executed in time can be activated again for free."
 
 #, fuzzy
 msgid "LOBBY_PFT_STEP_DESCRIPTION_TEXT_2_FOR_RECEIVE_DIR"
 msgstr ""
-"An operation order that was not executed in time can be activated again for "
-"free."
+"An operation order that was not executed in time can be activated again for free."
 
 #, fuzzy
 msgid "LOBBY_PFT_STEP_DESCRIPTION_TEXT_3_DIR_IN_PROGRESS"
@@ -7565,14 +7492,12 @@ msgstr ""
 #, fuzzy
 msgid "LOBBY_PFT_STEP_DESCRIPTION_TEXT_3_FOR_ACTIVATE_DIR"
 msgstr ""
-"Once you complete the chain of secret missions, you will receive the "
-"{plane_name}!"
+"Once you complete the chain of secret missions, you will receive the {plane_name}!"
 
 #, fuzzy
 msgid "LOBBY_PFT_STEP_DESCRIPTION_TEXT_3_FOR_RECEIVE_DIR"
 msgstr ""
-"Once you complete the chain of secret missions, you will receive the "
-"{plane_name}!"
+"Once you complete the chain of secret missions, you will receive the {plane_name}!"
 
 #, fuzzy
 msgid "LOBBY_PFT_STEP_DESCRIPTION_TEXT_4_DIR_IN_PROGRESS"
@@ -7583,14 +7508,14 @@ msgstr ""
 #, fuzzy
 msgid "LOBBY_PFT_STEP_DESCRIPTION_TEXT_4_FOR_ACTIVATE_DIR"
 msgstr ""
-"Once you complete a chain of secret missions, you will receive an aircraft "
-"of your choice!"
+"Once you complete a chain of secret missions, you will receive an aircraft of your "
+"choice!"
 
 #, fuzzy
 msgid "LOBBY_PFT_STEP_DESCRIPTION_TEXT_4_FOR_RECEIVE_DIR"
 msgstr ""
-"Once you complete a chain of secret missions, you will receive an aircraft "
-"of your choice!"
+"Once you complete a chain of secret missions, you will receive an aircraft of your "
+"choice!"
 
 #, fuzzy
 msgid "LOBBY_PFT_TIME_EVENT_LEFT"
@@ -7709,8 +7634,7 @@ msgid "LOBBY_PILOT_EFFECTIVE_STATS_REDUCED_25"
 msgstr "飛行員沒有受過這架飛機的訓練。可操作性，發動機功率，射擊精度降低。"
 
 msgid "LOBBY_PILOT_EFFECTIVE_STATS_REDUCED_50"
-msgstr ""
-"飛行員沒有受過這種類型飛機的訓練。可操作性，發動機功率，射擊精度明顯降低。"
+msgstr "飛行員沒有受過這種類型飛機的訓練。可操作性，發動機功率，射擊精度明顯降低。"
 
 #, fuzzy
 msgid "LOBBY_PILOT_EQUIPMENT"
@@ -7736,8 +7660,7 @@ msgstr "Aircraft available in Hangar"
 
 msgid "LOBBY_PLANE_COMPENSATION_MESSAGE"
 msgstr ""
-"變更配件{plane}補償: {gold}{icon_gold}, {credits}{icon_silver}, {exp}"
-"{icon_exp}."
+"變更配件{plane}補償: {gold}{icon_gold}, {credits}{icon_silver}, {exp}{icon_exp}."
 
 msgid "LOBBY_PLANE_DISCOUNT_LEFT"
 msgstr "(折扣: {percent}%;剩餘時間 {time})"
@@ -7751,14 +7674,12 @@ msgstr "戰機已購買，可以使用"
 msgid "LOBBY_PLANE_PURCHASED_MODIFICATIONS_IN_HANGAR"
 msgstr "戰機已購買，移動至機庫對戰機進行配置和維護"
 
-#, fuzzy
 msgid "LOBBY_PLANE_PURCHASE_HEADER"
-msgstr "Purchase Aircraft"
+msgstr "購買戰機"
 
 #, fuzzy
 msgid "LOBBY_PLANE_RECEIVED_ACTIVATE_DIRECTIVE_UNAVAILABLE"
-msgstr ""
-"The operation order cannot be activated: the aircraft was already received."
+msgstr "The operation order cannot be activated: the aircraft was already received."
 
 #, fuzzy
 msgid "LOBBY_PLANE_RECIEVED_IN_HANGAR"
@@ -7786,8 +7707,8 @@ msgstr "Operation order executed!"
 #, fuzzy
 msgid "LOBBY_PLANE_TREE_DIRECTIVE_DESCRIPTION"
 msgstr ""
-"An operation order unlocks a chain of secret missions. Complete them to "
-"receive this aircraft without researching it."
+"An operation order unlocks a chain of secret missions. Complete them to receive "
+"this aircraft without researching it."
 
 #, fuzzy
 msgid "LOBBY_PLANE_TREE_DIRECTIVE_IN_PROGRESS"
@@ -7816,36 +7737,32 @@ msgstr "飛行員, 請注意!"
 
 msgid "LOBBY_POPUP_MESSAGE2_URGENT"
 msgstr ""
-"彈藥,配件,消耗品都將在不久後的更新中發生一些變化,由於這些即將發生的變化,金幣"
-"彈暫時將不能使用金幣購買。"
+"彈藥,配件,消耗品都將在不久後的更新中發生一些變化,由於這些即將發生的變化,金幣彈暫時"
+"將不能使用金幣購買。"
 
 msgid "LOBBY_POPUP_MESSAGE3_URGENT"
 msgstr ""
-"在之後的更新中，儲存在倉庫中和安裝在戰機上的所有彈藥將按照購買時的銀幣價格出"
-"售。"
+"在之後的更新中，儲存在倉庫中和安裝在戰機上的所有彈藥將按照購買時的銀幣價格出售。"
 
 msgid "LOBBY_PREMIUM"
 msgstr "加值帳號"
 
-#, fuzzy
 msgid "LOBBY_PREMIUM_AIRCRAFTS"
 msgstr "加值戰機"
 
-#, fuzzy
 msgid "LOBBY_PREMIUM_SHOP"
 msgstr "加值<br>商店"
 
 msgid "LOBBY_PREM_PLANE_FOR_MISSIONS_TEXT"
 msgstr "完成任務並獲得新的8級加值戰機!"
 
-#, fuzzy
 msgid "LOBBY_PURCHASE_TOKENS"
-msgstr "Purchase Tokens"
+msgstr "購買令牌"
 
 msgid "LOBBY_PVE_CONTEXT_FEATURE_UNLOCK"
 msgstr ""
-"遊戲中，一些功能目前為不能使用的鎖定狀態，要解鎖這些功能，請完成 "
-"\"{quest_name}\" 任務"
+"遊戲中，一些功能目前為不能使用的鎖定狀態，要解鎖這些功能，請完成 \"{quest_name}\" "
+"任務"
 
 msgid "LOBBY_PVE_CONTEXT_PLANE_UNLOCK"
 msgstr "在戰鬥中擊落 {plane_name} 可解鎖該戰機"
@@ -7866,8 +7783,7 @@ msgid "LOBBY_PVP_UNLOCK_BUTTON_CONTINUE_PVE"
 msgstr "繼續人機對戰"
 
 msgid "LOBBY_QUESTS_2015_AUTUMN_001_BASIC"
-msgstr ""
-"使用不同類型的戰機在兩場戰鬥中獲得勝利並在一場戰鬥中取得取得75點的優勢點數"
+msgstr "使用不同類型的戰機在兩場戰鬥中獲得勝利並在一場戰鬥中取得取得75點的優勢點數"
 
 msgid "LOBBY_QUESTS_2015_AUTUMN_001_NAME"
 msgstr "多面手"
@@ -7886,8 +7802,7 @@ msgstr "空中獵人"
 
 msgid "LOBBY_QUESTS_2015_AUTUMN_004_BASIC"
 msgstr ""
-"在戰鬥中通過摧毀地面目標獲得150點優勢點數，使用攻擊機，需多用途戰鬥機或重型戰"
-"鬥機。"
+"在戰鬥中通過摧毀地面目標獲得150點優勢點數，使用攻擊機，需多用途戰鬥機或重型戰鬥機。"
 
 msgid "LOBBY_QUESTS_2015_AUTUMN_004_NAME"
 msgstr "鐵雨風暴"
@@ -7947,15 +7862,13 @@ msgid "LOBBY_QUESTS_2015_AUTUMN_013_NAME"
 msgstr "空中威懾"
 
 msgid "LOBBY_QUESTS_2015_AUTUMN_014_BASIC"
-msgstr ""
-"使用戰鬥機或多用途戰鬥機在一場戰鬥中對至少4架敵機造成傷害並最終獲得勝利"
+msgstr "使用戰鬥機或多用途戰鬥機在一場戰鬥中對至少4架敵機造成傷害並最終獲得勝利"
 
 msgid "LOBBY_QUESTS_2015_AUTUMN_014_NAME"
 msgstr "空中掩護"
 
 msgid "LOBBY_QUESTS_2015_AUTUMN_015_BASIC"
-msgstr ""
-"使用多用途戰鬥機或重型戰鬥機在一場戰鬥中對至少4架敵機造成傷害並最終獲得勝利"
+msgstr "使用多用途戰鬥機或重型戰鬥機在一場戰鬥中對至少4架敵機造成傷害並最終獲得勝利"
 
 msgid "LOBBY_QUESTS_2015_AUTUMN_015_NAME"
 msgstr "準備行動"
@@ -8022,8 +7935,8 @@ msgstr "泰坦隕落"
 
 msgid "LOBBY_QUESTS_2015_AUTUMN_026_BASIC"
 msgstr ""
-"擊落敵機或摧毀地面目標數量排名團隊前3。至少擊殺一架敵方戰機或至少通過擊毀地面"
-"目標獲得20點優勢點才計入戰績"
+"擊落敵機或摧毀地面目標數量排名團隊前3。至少擊殺一架敵方戰機或至少通過擊毀地面目標獲"
+"得20點優勢點才計入戰績"
 
 msgid "LOBBY_QUESTS_2015_AUTUMN_026_NAME"
 msgstr "優勝者"
@@ -8246,16 +8159,15 @@ msgstr "勝利之翼"
 
 msgid "LOBBY_QUESTS_2015_AUTUMN_066_BASIC"
 msgstr ""
-"在一場戰鬥中通過擊落敵機獲得至少30點優勢點數並通過摧毀地面目標獲得10點優勢點"
-"數"
+"在一場戰鬥中通過擊落敵機獲得至少30點優勢點數並通過摧毀地面目標獲得10點優勢點數"
 
 msgid "LOBBY_QUESTS_2015_AUTUMN_066_NAME"
 msgstr "全項精通"
 
 msgid "LOBBY_QUESTS_2015_AUTUMN_067_BASIC"
 msgstr ""
-"在一場戰鬥中通過摧毀敵方地面目標獲得至少55點優勢點數，需使用攻擊機，多用途戰"
-"鬥機或重型戰鬥機。"
+"在一場戰鬥中通過摧毀敵方地面目標獲得至少55點優勢點數，需使用攻擊機，多用途戰鬥機或"
+"重型戰鬥機。"
 
 msgid "LOBBY_QUESTS_2015_AUTUMN_067_NAME"
 msgstr "突破防線"
@@ -8376,8 +8288,8 @@ msgstr "勝利者"
 
 msgid "LOBBY_QUESTS_2015_AUTUMN_087_BASIC"
 msgstr ""
-"在3場戰鬥中擊落敵機數量或摧毀地面目標數量排名團隊前3。至少擊殺一架敵方戰機或"
-"至少通過擊毀地面目標獲得20點優勢點才計入戰績"
+"在3場戰鬥中擊落敵機數量或摧毀地面目標數量排名團隊前3。至少擊殺一架敵方戰機或至少通"
+"過擊毀地面目標獲得20點優勢點才計入戰績"
 
 msgid "LOBBY_QUESTS_2015_AUTUMN_087_NAME"
 msgstr "堅持不懈"
@@ -8480,16 +8392,15 @@ msgstr "戰場霸主"
 
 msgid "LOBBY_QUESTS_2015_AUTUMN_104_BASIC"
 msgstr ""
-"在一場戰鬥中通過擊落敵機獲得至少50點優勢點數，需使用戰鬥機，多用途戰鬥機或重"
-"型戰鬥機。"
+"在一場戰鬥中通過擊落敵機獲得至少50點優勢點數，需使用戰鬥機，多用途戰鬥機或重型戰鬥"
+"機。"
 
 msgid "LOBBY_QUESTS_2015_AUTUMN_104_NAME"
 msgstr "掠食者"
 
 msgid "LOBBY_QUESTS_2015_AUTUMN_105_BASIC"
 msgstr ""
-"使用戰鬥機或重型戰鬥機在一場獲得勝利的戰鬥中獲得至少50點優勢點數並在戰鬥結束"
-"時倖存"
+"使用戰鬥機或重型戰鬥機在一場獲得勝利的戰鬥中獲得至少50點優勢點數並在戰鬥結束時倖存"
 
 msgid "LOBBY_QUESTS_2015_AUTUMN_105_NAME"
 msgstr "生命萬歲"
@@ -8539,8 +8450,7 @@ msgstr "仇怨"
 
 msgid "LOBBY_QUESTS_2015_AUTUMN_113_BASIC"
 msgstr ""
-"使用多用途戰鬥機或重型戰鬥機在一場獲得勝利的戰鬥中擊落至少3架敵機並在戰鬥結束"
-"時倖存"
+"使用多用途戰鬥機或重型戰鬥機在一場獲得勝利的戰鬥中擊落至少3架敵機並在戰鬥結束時倖存"
 
 msgid "LOBBY_QUESTS_2015_AUTUMN_113_NAME"
 msgstr "自由衛士"
@@ -8552,32 +8462,29 @@ msgid "LOBBY_QUESTS_2015_AUTUMN_114_NAME"
 msgstr "優秀獎勵"
 
 msgid "LOBBY_QUESTS_2015_AUTUMN_115_BASIC"
-msgstr ""
-"在一場戰鬥中擊落至少2架敵機並摧毀至少4個裝甲目標。需使用攻擊機或重型戰鬥機。"
+msgstr "在一場戰鬥中擊落至少2架敵機並摧毀至少4個裝甲目標。需使用攻擊機或重型戰鬥機。"
 
 msgid "LOBBY_QUESTS_2015_AUTUMN_115_NAME"
 msgstr "鐵拳"
 
 msgid "LOBBY_QUESTS_2015_AUTUMN_116_BASIC"
 msgstr ""
-"在一場獲得勝利的戰鬥中擊落至少3架敵方多用途戰鬥機或重型戰鬥機並摧毀至少3座防"
-"空砲"
+"在一場獲得勝利的戰鬥中擊落至少3架敵方多用途戰鬥機或重型戰鬥機並摧毀至少3座防空砲"
 
 msgid "LOBBY_QUESTS_2015_AUTUMN_116_NAME"
 msgstr "空中支援"
 
 msgid "LOBBY_QUESTS_2015_AUTUMN_117_BASIC"
 msgstr ""
-"在一場戰鬥中累計擊落至少2架敵方戰鬥機或多用途戰鬥機和摧毀至少5座高射砲。並且"
-"戰鬥勝利。"
+"在一場戰鬥中累計擊落至少2架敵方戰鬥機或多用途戰鬥機和摧毀至少5座高射砲。並且戰鬥勝"
+"利。"
 
 msgid "LOBBY_QUESTS_2015_AUTUMN_117_NAME"
 msgstr "朗朗乾坤"
 
 msgid "LOBBY_QUESTS_2015_AUTUMN_118_BASIC"
 msgstr ""
-"在戰鬥中累計擊落3架敵方攻擊機或多用途戰鬥機並摧毀至少3座高射砲，並贏的戰鬥勝"
-"利。"
+"在戰鬥中累計擊落3架敵方攻擊機或多用途戰鬥機並摧毀至少3座高射砲，並贏的戰鬥勝利。"
 
 msgid "LOBBY_QUESTS_2015_AUTUMN_118_NAME"
 msgstr "事不過三"
@@ -8587,8 +8494,7 @@ msgstr "使用不同類型戰機獲得2場勝利，須在戰鬥中獲得至少15
 
 msgid "LOBBY_QUESTS_2015_SUMMER_01_EXTRA"
 msgstr ""
-"使用不同類型戰機獲得2場勝利，須在戰鬥中獲得至少15分優勢點數並且在戰鬥結束時倖"
-"存。"
+"使用不同類型戰機獲得2場勝利，須在戰鬥中獲得至少15分優勢點數並且在戰鬥結束時倖存。"
 
 msgid "LOBBY_QUESTS_2015_SUMMER_01_NAME"
 msgstr "優勢開局"
@@ -8639,8 +8545,7 @@ msgid "LOBBY_QUESTS_2015_SUMMER_06_NAME"
 msgstr "大殺四方"
 
 msgid "LOBBY_QUESTS_2015_SUMMER_07_BASIC"
-msgstr ""
-"在一場戰鬥中使用沒有升級裝備的戰機擊落敵機或地面目標達到所在隊伍前3名。"
+msgstr "在一場戰鬥中使用沒有升級裝備的戰機擊落敵機或地面目標達到所在隊伍前3名。"
 
 msgid "LOBBY_QUESTS_2015_SUMMER_07_EXTRA"
 msgstr "在五場戰鬥中使用沒有升級裝備的戰機擊落敵機或地面目標達到全場最高。"
@@ -8698,28 +8603,27 @@ msgstr "在戰鬥中擊落20架敵機，其中裝備有尾砲的敵機算為4架
 
 msgid "LOBBY_QUESTS_2015_SUMMER_13_EXTRA"
 msgstr ""
-"通過擊落敵機獲取1500點優勢點數，其中擊落裝備有尾砲的敵機所獲得的優勢點數將按"
-"照實際點數x3計算。"
+"通過擊落敵機獲取1500點優勢點數，其中擊落裝備有尾砲的敵機所獲得的優勢點數將按照實際"
+"點數x3計算。"
 
 msgid "LOBBY_QUESTS_2015_SUMMER_13_NAME"
 msgstr "回馬槍"
 
 msgid "LOBBY_QUESTS_2015_SUMMER_14_BASIC"
 msgstr ""
-"在一場戰鬥中個人或組隊獲得100點優勢點數，可通過邀請或自動搜尋功能與其他飛行員"
-"組隊完成。"
+"在一場戰鬥中個人或組隊獲得100點優勢點數，可通過邀請或自動搜尋功能與其他飛行員組隊完"
+"成。"
 
 msgid "LOBBY_QUESTS_2015_SUMMER_14_EXTRA"
 msgstr ""
-"在一場戰鬥中個人或組隊獲得150點優勢點數並獲得勝利，可通過邀請或自動搜尋功能與"
-"其他飛行員組隊完成。"
+"在一場戰鬥中個人或組隊獲得150點優勢點數並獲得勝利，可通過邀請或自動搜尋功能與其他飛"
+"行員組隊完成。"
 
 msgid "LOBBY_QUESTS_2015_SUMMER_14_NAME"
 msgstr "天空之主"
 
 msgid "LOBBY_QUESTS_2015_SUMMER_15_BASIC"
-msgstr ""
-"在一場戰鬥中通過擊落敵機獲得30點優勢點數並通過摧毀地面目標獲得10點優勢點數。"
+msgstr "在一場戰鬥中通過擊落敵機獲得30點優勢點數並通過摧毀地面目標獲得10點優勢點數。"
 
 msgid "LOBBY_QUESTS_2015_SUMMER_15_EXTRA"
 msgstr "獲得兩次破壞者勳章。"
@@ -8731,21 +8635,20 @@ msgid "LOBBY_QUESTS_2015_SUMMER_16_BASIC"
 msgstr "獲得|achievements:1|、|achievements:2|、|achievements:6|其中一枚勳章。"
 
 msgid "LOBBY_QUESTS_2015_SUMMER_16_EXTRA"
-msgstr ""
-"在五場戰鬥中倖存並且在每場戰鬥中獲得|achievements:1|和|achievements:2|勳章。"
+msgstr "在五場戰鬥中倖存並且在每場戰鬥中獲得|achievements:1|和|achievements:2|勳章。"
 
 msgid "LOBBY_QUESTS_2015_SUMMER_16_NAME"
 msgstr "卓越戰鬥"
 
 msgid "LOBBY_QUESTS_2015_SUMMER_17_BASIC"
 msgstr ""
-"在一場戰鬥中個人或組隊對敵機造成1000點傷害，可通過邀請或自動搜尋功能與其他飛"
-"行員組隊完成。"
+"在一場戰鬥中個人或組隊對敵機造成1000點傷害，可通過邀請或自動搜尋功能與其他飛行員組"
+"隊完成。"
 
 msgid "LOBBY_QUESTS_2015_SUMMER_17_EXTRA"
 msgstr ""
-"在一場戰鬥中個人或組隊對敵機造成相當於敵方隊伍總生命值30%的傷害（並且不低於"
-"1500點），可通過邀請或自動搜尋功能與其他飛行員組隊完成。"
+"在一場戰鬥中個人或組隊對敵機造成相當於敵方隊伍總生命值30%的傷害（並且不低於1500"
+"點），可通過邀請或自動搜尋功能與其他飛行員組隊完成。"
 
 msgid "LOBBY_QUESTS_2015_SUMMER_17_NAME"
 msgstr "雙重打擊"
@@ -8773,8 +8676,7 @@ msgstr "在一場戰鬥中消滅了10個敵人高射砲。"
 
 msgid "LOBBY_QUESTS_2015_WINTER_02_EXTRA"
 msgstr ""
-"在三場戰鬥中累計摧毀15個敵方高射砲。一場戰鬥中摧毀至少5個敵方高射砲才記錄擊毀"
-"數。"
+"在三場戰鬥中累計摧毀15個敵方高射砲。一場戰鬥中摧毀至少5個敵方高射砲才記錄擊毀數。"
 
 msgid "LOBBY_QUESTS_2015_WINTER_02_NAME"
 msgstr "突破防空網"
@@ -8881,8 +8783,8 @@ msgstr "傑出壯舉"
 
 msgid "LOBBY_QUESTS_2015_WINTER_14_BASIC"
 msgstr ""
-"在一場戰鬥中，至少擊毀三架敵方戰機並摧毀敵方地面目標獲得至少40點優勢點。飛行"
-"員必須在戰鬥中倖存。"
+"在一場戰鬥中，至少擊毀三架敵方戰機並摧毀敵方地面目標獲得至少40點優勢點。飛行員必須"
+"在戰鬥中倖存。"
 
 msgid "LOBBY_QUESTS_2015_WINTER_14_EXTRA"
 msgstr "獲得精英聯隊"
@@ -8918,8 +8820,8 @@ msgstr "Earn 75 superiority points in battles."
 #, fuzzy
 msgid "LOBBY_QUESTS_2016_AUTUMN_02_EXTRA"
 msgstr ""
-"Earn 1,000 superiority points in battles. A battle counts only if you earn "
-"at least 50 superiority points."
+"Earn 1,000 superiority points in battles. A battle counts only if you earn at "
+"least 50 superiority points."
 
 #, fuzzy
 msgid "LOBBY_QUESTS_2016_AUTUMN_02_NAME"
@@ -8932,8 +8834,7 @@ msgstr "Become one of the top 7 experience earners on your team."
 #, fuzzy
 msgid "LOBBY_QUESTS_2016_AUTUMN_03_EXTRA"
 msgstr ""
-"Earn the most XP of all players on both teams and receive the Thunder or Ace "
-"medal."
+"Earn the most XP of all players on both teams and receive the Thunder or Ace medal."
 
 #, fuzzy
 msgid "LOBBY_QUESTS_2016_AUTUMN_03_NAME"
@@ -8946,9 +8847,8 @@ msgstr "Destroy 3 enemy aircraft of the same type as your aircraft in battles."
 #, fuzzy
 msgid "LOBBY_QUESTS_2016_AUTUMN_04_EXTRA"
 msgstr ""
-"Destroy 10 enemy aircraft of the same type as your aircraft in battles. A "
-"battle counts only if you destroy 2 aircraft of the same type as your "
-"aircraft and win."
+"Destroy 10 enemy aircraft of the same type as your aircraft in battles. A battle "
+"counts only if you destroy 2 aircraft of the same type as your aircraft and win."
 
 #, fuzzy
 msgid "LOBBY_QUESTS_2016_AUTUMN_04_NAME"
@@ -8961,8 +8861,7 @@ msgstr "Damage or destroy 10 enemy aircraft in battles."
 #, fuzzy
 msgid "LOBBY_QUESTS_2016_AUTUMN_05_EXTRA"
 msgstr ""
-"Destroy 20 enemy aircraft in battles. A battle counts only if you survive "
-"and win."
+"Destroy 20 enemy aircraft in battles. A battle counts only if you survive and win."
 
 #, fuzzy
 msgid "LOBBY_QUESTS_2016_AUTUMN_05_NAME"
@@ -8975,9 +8874,8 @@ msgstr "Earn one of the Honorary Ranks (Quick Shot, Rocketeer, or Rear Cover)."
 #, fuzzy
 msgid "LOBBY_QUESTS_2016_AUTUMN_06_EXTRA"
 msgstr ""
-"Win 3 battles and earn 1 Honorary Rank (Quick Shot, Rocketeer, or Rear "
-"Cover) and 1 Service Award (Thunder, Ace, or Destroyer) in each of the "
-"battles."
+"Win 3 battles and earn 1 Honorary Rank (Quick Shot, Rocketeer, or Rear Cover) and "
+"1 Service Award (Thunder, Ace, or Destroyer) in each of the battles."
 
 #, fuzzy
 msgid "LOBBY_QUESTS_2016_AUTUMN_06_NAME"
@@ -8990,8 +8888,8 @@ msgstr "Destroy 2 enemy aircraft of different types in one battle."
 #, fuzzy
 msgid "LOBBY_QUESTS_2016_AUTUMN_07_EXTRA"
 msgstr ""
-"Destroy enemy aircraft of 3 different nations and 3 different types in one "
-"battle. Repeat this result 3 times."
+"Destroy enemy aircraft of 3 different nations and 3 different types in one battle. "
+"Repeat this result 3 times."
 
 #, fuzzy
 msgid "LOBBY_QUESTS_2016_AUTUMN_07_NAME"
@@ -9000,16 +8898,16 @@ msgstr "Do-All Pilot"
 #, fuzzy
 msgid "LOBBY_QUESTS_2016_AUTUMN_08_BASIC"
 msgstr ""
-"Cause 500 HP of damage to enemy aircraft in one battle while playing solo or "
-"in a Flight.<br>You can find a Flight mate for this mission using the Auto-"
-"Search for Flight Member option."
+"Cause 500 HP of damage to enemy aircraft in one battle while playing solo or in a "
+"Flight.<br>You can find a Flight mate for this mission using the Auto-Search for "
+"Flight Member option."
 
 #, fuzzy
 msgid "LOBBY_QUESTS_2016_AUTUMN_08_EXTRA"
 msgstr ""
-"Cause a total damage equaling 30% of total enemy team HP, but no less than "
-"2,000 HP, in one battle while playing solo or in a Flight.<br>You can find a "
-"Flight mate for this mission using the Auto-Search for Flight Member option."
+"Cause a total damage equaling 30% of total enemy team HP, but no less than 2,000 "
+"HP, in one battle while playing solo or in a Flight.<br>You can find a Flight mate "
+"for this mission using the Auto-Search for Flight Member option."
 
 #, fuzzy
 msgid "LOBBY_QUESTS_2016_AUTUMN_08_NAME"
@@ -9036,8 +8934,8 @@ msgstr ""
 #, fuzzy
 msgid "LOBBY_QUESTS_2016_AUTUMN_10_EXTRA"
 msgstr ""
-"Earn 375 superiority points in battles during 24 hours. A battle counts only "
-"if you earn at least 75 superiority points and survive."
+"Earn 375 superiority points in battles during 24 hours. A battle counts only if "
+"you earn at least 75 superiority points and survive."
 
 #, fuzzy
 msgid "LOBBY_QUESTS_2016_AUTUMN_10_NAME"
@@ -9046,14 +8944,14 @@ msgstr "Rush Hour"
 #, fuzzy
 msgid "LOBBY_QUESTS_2016_AUTUMN_11_BASIC"
 msgstr ""
-"Destroy 2 enemy aircraft in one battle and win the battle. Your firing "
-"accuracy must be at least 15%."
+"Destroy 2 enemy aircraft in one battle and win the battle. Your firing accuracy "
+"must be at least 15%."
 
 #, fuzzy
 msgid "LOBBY_QUESTS_2016_AUTUMN_11_EXTRA"
 msgstr ""
-"Earn the Ace or Destroyer medal. Your accuracy of firing at enemy aircraft "
-"must be at least 30%."
+"Earn the Ace or Destroyer medal. Your accuracy of firing at enemy aircraft must be "
+"at least 30%."
 
 #, fuzzy
 msgid "LOBBY_QUESTS_2016_AUTUMN_11_NAME"
@@ -9062,18 +8960,17 @@ msgstr "Sharpshooter"
 #, fuzzy
 msgid "LOBBY_QUESTS_2016_AUTUMN_12_BASIC"
 msgstr ""
-"Become one of the top 5 on your team by the number of destroyed enemy "
-"aircraft or ground targets.<br>A battle counts only if you destroy at least "
-"1 enemy aircraft or earn at least 20 superiority points for destroying enemy "
-"ground targets."
+"Become one of the top 5 on your team by the number of destroyed enemy aircraft or "
+"ground targets.<br>A battle counts only if you destroy at least 1 enemy aircraft "
+"or earn at least 20 superiority points for destroying enemy ground targets."
 
 #, fuzzy
 msgid "LOBBY_QUESTS_2016_AUTUMN_12_EXTRA"
 msgstr ""
-"Become one of the top 3 on your team by the number of destroyed enemy "
-"aircraft or ground targets in 3 battles.<br>A battle counts only if you "
-"destroy at least 1 enemy aircraft or earn at least 20 superiority points for "
-"destroying enemy ground targets."
+"Become one of the top 3 on your team by the number of destroyed enemy aircraft or "
+"ground targets in 3 battles.<br>A battle counts only if you destroy at least 1 "
+"enemy aircraft or earn at least 20 superiority points for destroying enemy ground "
+"targets."
 
 #, fuzzy
 msgid "LOBBY_QUESTS_2016_AUTUMN_12_NAME"
@@ -9082,17 +8979,17 @@ msgstr "Mastery"
 #, fuzzy
 msgid "LOBBY_QUESTS_2016_AUTUMN_13_BASIC"
 msgstr ""
-"Earn 70 superiority points in one battle while playing solo or in a Flight."
-"<br>You can find a Flight mate for this mission using the Auto-Search for "
-"Flight Member option."
+"Earn 70 superiority points in one battle while playing solo or in a Flight.<br>You "
+"can find a Flight mate for this mission using the Auto-Search for Flight Member "
+"option."
 
 #, fuzzy
 msgid "LOBBY_QUESTS_2016_AUTUMN_13_EXTRA"
 msgstr ""
 "Destroy 5 enemy aircraft and earn 75 superiority points for destroying enemy "
-"ground targets in one battle and win the battle while playing solo or in a "
-"Flight. Repeat this result 3 times during 24 hours.<br>You can find a Flight "
-"mate for this mission using the Auto-Search for Flight Member option."
+"ground targets in one battle and win the battle while playing solo or in a Flight. "
+"Repeat this result 3 times during 24 hours.<br>You can find a Flight mate for this "
+"mission using the Auto-Search for Flight Member option."
 
 #, fuzzy
 msgid "LOBBY_QUESTS_2016_AUTUMN_13_NAME"
@@ -9104,8 +9001,7 @@ msgstr "Earn the Ace or Destroyer medal."
 
 #, fuzzy
 msgid "LOBBY_QUESTS_2016_AUTUMN_14_EXTRA"
-msgstr ""
-"Win 5 battles and earn the Ace and Destroyer medals in each of the battles."
+msgstr "Win 5 battles and earn the Ace and Destroyer medals in each of the battles."
 
 #, fuzzy
 msgid "LOBBY_QUESTS_2016_AUTUMN_14_NAME"
@@ -9113,13 +9009,11 @@ msgstr "Double Hero"
 
 #, fuzzy
 msgid "LOBBY_QUESTS_2016_AUTUMN_15_BASIC"
-msgstr ""
-"Win a battle. Primary tasks of all preceding missions must be completed."
+msgstr "Win a battle. Primary tasks of all preceding missions must be completed."
 
 #, fuzzy
 msgid "LOBBY_QUESTS_2016_AUTUMN_15_EXTRA"
-msgstr ""
-"Win a battle. Additional tasks of all preceding missions must be completed."
+msgstr "Win a battle. Additional tasks of all preceding missions must be completed."
 
 #, fuzzy
 msgid "LOBBY_QUESTS_2016_AUTUMN_15_NAME"
@@ -9159,8 +9053,7 @@ msgstr "Regain Control"
 
 #, fuzzy
 msgid "LOBBY_QUESTS_2016_DAILY_005"
-msgstr ""
-"Earn 2,000 combat points for destroying enemy aircraft in a single sector."
+msgstr "Earn 2,000 combat points for destroying enemy aircraft in a single sector."
 
 #, fuzzy
 msgid "LOBBY_QUESTS_2016_DAILY_005_NAME"
@@ -9169,8 +9062,7 @@ msgstr "Vendetta"
 #, fuzzy
 msgid "LOBBY_QUESTS_2016_DAILY_006"
 msgstr ""
-"Earn 1,000 combat points for destroying air defense aircraft in a single "
-"sector."
+"Earn 1,000 combat points for destroying air defense aircraft in a single sector."
 
 #, fuzzy
 msgid "LOBBY_QUESTS_2016_DAILY_006_NAME"
@@ -9179,8 +9071,8 @@ msgstr "A Little Bit of Everything"
 #, fuzzy
 msgid "LOBBY_QUESTS_2016_DAILY_007"
 msgstr ""
-"Earn the required number of combat points for destroying ground targets "
-"located in the same sector in a single battle."
+"Earn the required number of combat points for destroying ground targets located in "
+"the same sector in a single battle."
 
 #, fuzzy
 msgid "LOBBY_QUESTS_2016_DAILY_007_NAME"
@@ -9209,8 +9101,8 @@ msgstr "Aggressor"
 #, fuzzy
 msgid "LOBBY_QUESTS_2016_DAILY_010"
 msgstr ""
-"Earn the required number of combat points when defending sectors. Mission "
-"progress is reset if your aircraft is destroyed."
+"Earn the required number of combat points when defending sectors. Mission progress "
+"is reset if your aircraft is destroyed."
 
 #, fuzzy
 msgid "LOBBY_QUESTS_2016_DAILY_010_NAME"
@@ -9219,8 +9111,8 @@ msgstr "Dust Devil"
 #, fuzzy
 msgid "LOBBY_QUESTS_2016_DAILY_011"
 msgstr ""
-"Earn the required number of combat points when capturing sectors. Mission "
-"progress is reset if your aircraft is destroyed."
+"Earn the required number of combat points when capturing sectors. Mission progress "
+"is reset if your aircraft is destroyed."
 
 #, fuzzy
 msgid "LOBBY_QUESTS_2016_DAILY_011_NAME"
@@ -9261,8 +9153,8 @@ msgstr "Ravening Wolf"
 #, fuzzy
 msgid "LOBBY_QUESTS_2016_DAILY_016"
 msgstr ""
-"Destroy the required number of bombers from an Attack Flight in a single "
-"battle and win the battle."
+"Destroy the required number of bombers from an Attack Flight in a single battle "
+"and win the battle."
 
 #, fuzzy
 msgid "LOBBY_QUESTS_2016_DAILY_016_NAME"
@@ -9303,8 +9195,8 @@ msgstr "Long Fight"
 #, fuzzy
 msgid "LOBBY_QUESTS_2016_DAILY_021"
 msgstr ""
-"Destroy the required number of aerial targets using bombs or rockets in a "
-"single battle."
+"Destroy the required number of aerial targets using bombs or rockets in a single "
+"battle."
 
 #, fuzzy
 msgid "LOBBY_QUESTS_2016_DAILY_021_NAME"
@@ -9313,8 +9205,8 @@ msgstr "Explosive Temper"
 #, fuzzy
 msgid "LOBBY_QUESTS_2016_DAILY_022"
 msgstr ""
-"Destroy the required number of aerial targets when defending sectors in a "
-"single battle and win the battle."
+"Destroy the required number of aerial targets when defending sectors in a single "
+"battle and win the battle."
 
 #, fuzzy
 msgid "LOBBY_QUESTS_2016_DAILY_022_NAME"
@@ -9323,9 +9215,8 @@ msgstr "Agility or Might"
 #, fuzzy
 msgid "LOBBY_QUESTS_2016_DAILY_023"
 msgstr ""
-"Become one of the top 3 in the combat group by damage caused to aerial "
-"targets in the required number of battles. The battle result counts only if "
-"you win."
+"Become one of the top 3 in the combat group by damage caused to aerial targets in "
+"the required number of battles. The battle result counts only if you win."
 
 #, fuzzy
 msgid "LOBBY_QUESTS_2016_DAILY_023_NAME"
@@ -9334,8 +9225,8 @@ msgstr "Caution and Determination"
 #, fuzzy
 msgid "LOBBY_QUESTS_2016_DAILY_024"
 msgstr ""
-"Become one of the top 3 in the combat group by the number of mastery points "
-"in the required number of battles. The battle result counts only if you win."
+"Become one of the top 3 in the combat group by the number of mastery points in the "
+"required number of battles. The battle result counts only if you win."
 
 #, fuzzy
 msgid "LOBBY_QUESTS_2016_DAILY_024_NAME"
@@ -9344,9 +9235,9 @@ msgstr "Rage of Titans"
 #, fuzzy
 msgid "LOBBY_QUESTS_2016_DAILY_025"
 msgstr ""
-"Become one of the top 3 in the combat group by the number of destroyed air "
-"defense aircraft in the required number of battles. The battle result counts "
-"only if you win."
+"Become one of the top 3 in the combat group by the number of destroyed air defense "
+"aircraft in the required number of battles. The battle result counts only if you "
+"win."
 
 #, fuzzy
 msgid "LOBBY_QUESTS_2016_DAILY_025_NAME"
@@ -9355,9 +9246,9 @@ msgstr "Might Makes Right"
 #, fuzzy
 msgid "LOBBY_QUESTS_2016_DAILY_026"
 msgstr ""
-"Become one of the top 3 in the combat group by the number of destroyed "
-"aircraft from the enemy combat group in the required number of battles. The "
-"battle result counts only if you win."
+"Become one of the top 3 in the combat group by the number of destroyed aircraft "
+"from the enemy combat group in the required number of battles. The battle result "
+"counts only if you win."
 
 #, fuzzy
 msgid "LOBBY_QUESTS_2016_DAILY_026_NAME"
@@ -9366,9 +9257,9 @@ msgstr "Fast and Deadly"
 #, fuzzy
 msgid "LOBBY_QUESTS_2016_DAILY_027"
 msgstr ""
-"Become one of the top 3 in the combat group by the number of destroyed "
-"ground targets in the required number of battles. The battle result counts "
-"only if you win."
+"Become one of the top 3 in the combat group by the number of destroyed ground "
+"targets in the required number of battles. The battle result counts only if you "
+"win."
 
 #, fuzzy
 msgid "LOBBY_QUESTS_2016_DAILY_027_NAME"
@@ -9377,9 +9268,9 @@ msgstr "Hail From Heaven"
 #, fuzzy
 msgid "LOBBY_QUESTS_2016_DAILY_028"
 msgstr ""
-"Become one of the top 3 in the combat group by the number of participations "
-"in capturing sectors in the required number of battles. The battle result "
-"counts only if you win."
+"Become one of the top 3 in the combat group by the number of participations in "
+"capturing sectors in the required number of battles. The battle result counts only "
+"if you win."
 
 #, fuzzy
 msgid "LOBBY_QUESTS_2016_DAILY_028_NAME"
@@ -9388,8 +9279,8 @@ msgstr "Solo Artist"
 #, fuzzy
 msgid "LOBBY_QUESTS_2016_DAILY_029"
 msgstr ""
-"Become one of the top 3 in the combat group by the number of combat points "
-"in the required number of battles. The battle result counts only if you win."
+"Become one of the top 3 in the combat group by the number of combat points in the "
+"required number of battles. The battle result counts only if you win."
 
 #, fuzzy
 msgid "LOBBY_QUESTS_2016_DAILY_029_NAME"
@@ -9398,9 +9289,8 @@ msgstr "Lucky Number"
 #, fuzzy
 msgid "LOBBY_QUESTS_2016_DAILY_030"
 msgstr ""
-"Become one of the top 3 in the combat group by damage caused to ground "
-"targets in the required number of battles. The battle result counts only if "
-"you win."
+"Become one of the top 3 in the combat group by damage caused to ground targets in "
+"the required number of battles. The battle result counts only if you win."
 
 #, fuzzy
 msgid "LOBBY_QUESTS_2016_DAILY_030_NAME"
@@ -9409,8 +9299,8 @@ msgstr "Sharp Claws"
 #, fuzzy
 msgid "LOBBY_QUESTS_2016_DAILY_031"
 msgstr ""
-"Become the top player in the combat group by damage caused to aerial targets "
-"in the required number of battles. The battle result counts only if you win."
+"Become the top player in the combat group by damage caused to aerial targets in "
+"the required number of battles. The battle result counts only if you win."
 
 #, fuzzy
 msgid "LOBBY_QUESTS_2016_DAILY_031_NAME"
@@ -9419,8 +9309,8 @@ msgstr "First Star"
 #, fuzzy
 msgid "LOBBY_QUESTS_2016_DAILY_032"
 msgstr ""
-"Become the top player in the combat group by the number of mastery points in "
-"the required number of battles. The battle result counts only if you win."
+"Become the top player in the combat group by the number of mastery points in the "
+"required number of battles. The battle result counts only if you win."
 
 #, fuzzy
 msgid "LOBBY_QUESTS_2016_DAILY_032_NAME"
@@ -9429,9 +9319,9 @@ msgstr "I Came, I Saw, I Conquered"
 #, fuzzy
 msgid "LOBBY_QUESTS_2016_DAILY_033"
 msgstr ""
-"Become the top player in the combat group by the number of destroyed air "
-"defense aircraft in the required number of battles. The battle result counts "
-"only if you win."
+"Become the top player in the combat group by the number of destroyed air defense "
+"aircraft in the required number of battles. The battle result counts only if you "
+"win."
 
 #, fuzzy
 msgid "LOBBY_QUESTS_2016_DAILY_033_NAME"
@@ -9441,8 +9331,8 @@ msgstr "Hall of Fame"
 msgid "LOBBY_QUESTS_2016_DAILY_034"
 msgstr ""
 "Become the top player in the combat group by the number of destroyed aerial "
-"targets in the required number of battles. The battle result counts only if "
-"you win."
+"targets in the required number of battles. The battle result counts only if you "
+"win."
 
 #, fuzzy
 msgid "LOBBY_QUESTS_2016_DAILY_034_NAME"
@@ -9452,8 +9342,8 @@ msgstr "Commendation"
 msgid "LOBBY_QUESTS_2016_DAILY_035"
 msgstr ""
 "Become the top player in the combat group by the number of destroyed ground "
-"targets in the required number of battles. The battle result counts only if "
-"you win."
+"targets in the required number of battles. The battle result counts only if you "
+"win."
 
 #, fuzzy
 msgid "LOBBY_QUESTS_2016_DAILY_035_NAME"
@@ -9472,8 +9362,8 @@ msgstr "Squadron Leader"
 #, fuzzy
 msgid "LOBBY_QUESTS_2016_DAILY_037"
 msgstr ""
-"Become the top player in the combat group by the number of combat points in "
-"the required number of battles. The battle result counts only if you win."
+"Become the top player in the combat group by the number of combat points in the "
+"required number of battles. The battle result counts only if you win."
 
 #, fuzzy
 msgid "LOBBY_QUESTS_2016_DAILY_037_NAME"
@@ -9482,9 +9372,8 @@ msgstr "Above the Sky"
 #, fuzzy
 msgid "LOBBY_QUESTS_2016_DAILY_038"
 msgstr ""
-"Become the top player in the combat group by damage caused to enemy ground "
-"targets in the required number of battles. The battle result counts only if "
-"you win."
+"Become the top player in the combat group by damage caused to enemy ground targets "
+"in the required number of battles. The battle result counts only if you win."
 
 #, fuzzy
 msgid "LOBBY_QUESTS_2016_DAILY_038_NAME"
@@ -9493,9 +9382,8 @@ msgstr "Winners Podium"
 #, fuzzy
 msgid "LOBBY_QUESTS_2016_DAILY_039"
 msgstr ""
-"Become one of the top 5 in the combat group by damage caused to aerial "
-"targets in the required number of battles. The battle result counts only if "
-"you win."
+"Become one of the top 5 in the combat group by damage caused to aerial targets in "
+"the required number of battles. The battle result counts only if you win."
 
 #, fuzzy
 msgid "LOBBY_QUESTS_2016_DAILY_039_NAME"
@@ -9504,8 +9392,8 @@ msgstr "Bringing Terror"
 #, fuzzy
 msgid "LOBBY_QUESTS_2016_DAILY_040"
 msgstr ""
-"Become one of the top 5 in the combat group by the number of mastery points "
-"in the required number of battles. The battle result counts only if you win."
+"Become one of the top 5 in the combat group by the number of mastery points in the "
+"required number of battles. The battle result counts only if you win."
 
 #, fuzzy
 msgid "LOBBY_QUESTS_2016_DAILY_040_NAME"
@@ -9514,9 +9402,9 @@ msgstr "Sudden Blow"
 #, fuzzy
 msgid "LOBBY_QUESTS_2016_DAILY_041"
 msgstr ""
-"Become one of the top 5 in the combat group by the number of destroyed air "
-"defense aircraft in the required number of battles. The battle result counts "
-"only if you win."
+"Become one of the top 5 in the combat group by the number of destroyed air defense "
+"aircraft in the required number of battles. The battle result counts only if you "
+"win."
 
 #, fuzzy
 msgid "LOBBY_QUESTS_2016_DAILY_041_NAME"
@@ -9525,9 +9413,9 @@ msgstr "Lightning-Fast Attack"
 #, fuzzy
 msgid "LOBBY_QUESTS_2016_DAILY_042"
 msgstr ""
-"Become one of the top 5 in the combat group by the number of destroyed "
-"aerial targets in the required number of battles. The battle result counts "
-"only if you win."
+"Become one of the top 5 in the combat group by the number of destroyed aerial "
+"targets in the required number of battles. The battle result counts only if you "
+"win."
 
 #, fuzzy
 msgid "LOBBY_QUESTS_2016_DAILY_042_NAME"
@@ -9536,9 +9424,9 @@ msgstr "Sweet Revenge"
 #, fuzzy
 msgid "LOBBY_QUESTS_2016_DAILY_043"
 msgstr ""
-"Become one of the top 5 in the combat group by the number of destroyed "
-"ground targets in the required number of battles. The battle result counts "
-"only if you win."
+"Become one of the top 5 in the combat group by the number of destroyed ground "
+"targets in the required number of battles. The battle result counts only if you "
+"win."
 
 #, fuzzy
 msgid "LOBBY_QUESTS_2016_DAILY_043_NAME"
@@ -9547,9 +9435,9 @@ msgstr "Price of Victory"
 #, fuzzy
 msgid "LOBBY_QUESTS_2016_DAILY_044"
 msgstr ""
-"Become one of the top 5 in the combat group by the number of participations "
-"in capturing sectors in the required number of battles. The battle result "
-"counts only if you win."
+"Become one of the top 5 in the combat group by the number of participations in "
+"capturing sectors in the required number of battles. The battle result counts only "
+"if you win."
 
 #, fuzzy
 msgid "LOBBY_QUESTS_2016_DAILY_044_NAME"
@@ -9558,8 +9446,8 @@ msgstr "Strategist"
 #, fuzzy
 msgid "LOBBY_QUESTS_2016_DAILY_045"
 msgstr ""
-"Become one of the top 5 in the combat group by the number of combat points "
-"in the required number of battles. The battle result counts only if you win."
+"Become one of the top 5 in the combat group by the number of combat points in the "
+"required number of battles. The battle result counts only if you win."
 
 #, fuzzy
 msgid "LOBBY_QUESTS_2016_DAILY_045_NAME"
@@ -9583,8 +9471,7 @@ msgstr "Top Dog"
 
 #, fuzzy
 msgid "LOBBY_QUESTS_2016_DAILY_048"
-msgstr ""
-"Destroy the required number of air defense aircraft in a single sortie."
+msgstr "Destroy the required number of air defense aircraft in a single sortie."
 
 #, fuzzy
 msgid "LOBBY_QUESTS_2016_DAILY_048_NAME"
@@ -9592,8 +9479,7 @@ msgstr "Flight Prowess"
 
 #, fuzzy
 msgid "LOBBY_QUESTS_2016_DAILY_049"
-msgstr ""
-"Destroy the required number of air defense aircraft in a single sortie."
+msgstr "Destroy the required number of air defense aircraft in a single sortie."
 
 #, fuzzy
 msgid "LOBBY_QUESTS_2016_DAILY_049_NAME"
@@ -9601,8 +9487,7 @@ msgstr "Universal Soldier"
 
 #, fuzzy
 msgid "LOBBY_QUESTS_2016_DAILY_050"
-msgstr ""
-"Earn the required number of combat points for destroying ground targets."
+msgstr "Earn the required number of combat points for destroying ground targets."
 
 #, fuzzy
 msgid "LOBBY_QUESTS_2016_DAILY_050_NAME"
@@ -9626,8 +9511,7 @@ msgstr "Command Orders"
 
 #, fuzzy
 msgid "LOBBY_QUESTS_2016_DAILY_053"
-msgstr ""
-"Earn the required number of combat points when capturing military bases."
+msgstr "Earn the required number of combat points when capturing military bases."
 
 #, fuzzy
 msgid "LOBBY_QUESTS_2016_DAILY_053_NAME"
@@ -9635,8 +9519,7 @@ msgstr "Take by Storm"
 
 #, fuzzy
 msgid "LOBBY_QUESTS_2016_DAILY_054"
-msgstr ""
-"Earn the required number of combat points when capturing command centers."
+msgstr "Earn the required number of combat points when capturing command centers."
 
 #, fuzzy
 msgid "LOBBY_QUESTS_2016_DAILY_054_NAME"
@@ -9644,8 +9527,7 @@ msgstr "Not One Step Back!"
 
 #, fuzzy
 msgid "LOBBY_QUESTS_2016_DAILY_055"
-msgstr ""
-"Earn the required number of combat points when defending captured airfields."
+msgstr "Earn the required number of combat points when defending captured airfields."
 
 #, fuzzy
 msgid "LOBBY_QUESTS_2016_DAILY_055_NAME"
@@ -9653,8 +9535,7 @@ msgstr "Heavyweight Fights"
 
 #, fuzzy
 msgid "LOBBY_QUESTS_2016_DAILY_056"
-msgstr ""
-"Earn the required number of combat points when defending captured plants."
+msgstr "Earn the required number of combat points when defending captured plants."
 
 #, fuzzy
 msgid "LOBBY_QUESTS_2016_DAILY_056_NAME"
@@ -9671,8 +9552,8 @@ msgstr "Bring the Fire"
 #, fuzzy
 msgid "LOBBY_QUESTS_2016_DAILY_058"
 msgstr ""
-"Destroy the required number of ground targets. The battle result counts only "
-"if you win."
+"Destroy the required number of ground targets. The battle result counts only if "
+"you win."
 
 #, fuzzy
 msgid "LOBBY_QUESTS_2016_DAILY_058_NAME"
@@ -9729,8 +9610,8 @@ msgstr "Hit the Mark!"
 #, fuzzy
 msgid "LOBBY_QUESTS_2016_DAILY_064"
 msgstr ""
-"Destroy the required number of aerial targets when defending sectors in a "
-"single battle."
+"Destroy the required number of aerial targets when defending sectors in a single "
+"battle."
 
 #, fuzzy
 msgid "LOBBY_QUESTS_2016_DAILY_064_NAME"
@@ -9739,8 +9620,8 @@ msgstr "Against the Storm"
 #, fuzzy
 msgid "LOBBY_QUESTS_2016_DAILY_065"
 msgstr ""
-"Destroy the required number of aerial targets when defending sectors in a "
-"single battle."
+"Destroy the required number of aerial targets when defending sectors in a single "
+"battle."
 
 #, fuzzy
 msgid "LOBBY_QUESTS_2016_DAILY_065_NAME"
@@ -9749,8 +9630,8 @@ msgstr "Fall of Titans"
 #, fuzzy
 msgid "LOBBY_QUESTS_2016_DAILY_066"
 msgstr ""
-"Destroy the required number of aerial targets when defending sectors in a "
-"single battle."
+"Destroy the required number of aerial targets when defending sectors in a single "
+"battle."
 
 #, fuzzy
 msgid "LOBBY_QUESTS_2016_DAILY_066_NAME"
@@ -9759,8 +9640,8 @@ msgstr "Clear Skies"
 #, fuzzy
 msgid "LOBBY_QUESTS_2016_DAILY_067"
 msgstr ""
-"Destroy the required number of air defense aircraft. The battle result "
-"counts only if you win."
+"Destroy the required number of air defense aircraft. The battle result counts only "
+"if you win."
 
 #, fuzzy
 msgid "LOBBY_QUESTS_2016_DAILY_067_NAME"
@@ -9794,9 +9675,8 @@ msgstr "Durability Test"
 #, fuzzy
 msgid "LOBBY_QUESTS_2016_DAILY_071"
 msgstr ""
-"Make a major contribution to destroying the required number of aerial "
-"targets in a single battle by causing at least 60% of damage to each of the "
-"aerial targets."
+"Make a major contribution to destroying the required number of aerial targets in a "
+"single battle by causing at least 60% of damage to each of the aerial targets."
 
 #, fuzzy
 msgid "LOBBY_QUESTS_2016_DAILY_071_NAME"
@@ -9805,8 +9685,7 @@ msgstr "Earn Your Wings"
 #, fuzzy
 msgid "LOBBY_QUESTS_2016_DAILY_072"
 msgstr ""
-"Earn the required amount of base XP while flying fighters or multirole "
-"fighters."
+"Earn the required amount of base XP while flying fighters or multirole fighters."
 
 #, fuzzy
 msgid "LOBBY_QUESTS_2016_DAILY_072_NAME"
@@ -9824,8 +9703,7 @@ msgstr "Deadly Wings"
 #, fuzzy
 msgid "LOBBY_QUESTS_2016_DAILY_074"
 msgstr ""
-"Earn the required amount of base XP while flying heavy fighters or attack "
-"aircraft."
+"Earn the required amount of base XP while flying heavy fighters or attack aircraft."
 
 #, fuzzy
 msgid "LOBBY_QUESTS_2016_DAILY_074_NAME"
@@ -9834,8 +9712,8 @@ msgstr "Roar of the Skies"
 #, fuzzy
 msgid "LOBBY_QUESTS_2016_DAILY_075"
 msgstr ""
-"Earn the required amount of base XP while flying multirole fighters or "
-"attack aircraft."
+"Earn the required amount of base XP while flying multirole fighters or attack "
+"aircraft."
 
 #, fuzzy
 msgid "LOBBY_QUESTS_2016_DAILY_075_NAME"
@@ -9844,8 +9722,8 @@ msgstr "Different Routes"
 #, fuzzy
 msgid "LOBBY_QUESTS_2016_DAILY_076"
 msgstr ""
-"Earn the required amount of base XP while flying U.S. or U.K. aircraft. The "
-"battle result counts only if you win."
+"Earn the required amount of base XP while flying U.S. or U.K. aircraft. The battle "
+"result counts only if you win."
 
 #, fuzzy
 msgid "LOBBY_QUESTS_2016_DAILY_076_NAME"
@@ -9854,8 +9732,8 @@ msgstr "Cowboy and Aristocrat"
 #, fuzzy
 msgid "LOBBY_QUESTS_2016_DAILY_077"
 msgstr ""
-"Earn the required amount of base XP while flying German or Japanese "
-"aircraft. The battle result counts only if you win."
+"Earn the required amount of base XP while flying German or Japanese aircraft. The "
+"battle result counts only if you win."
 
 #, fuzzy
 msgid "LOBBY_QUESTS_2016_DAILY_077_NAME"
@@ -9864,8 +9742,8 @@ msgstr "Seasoned Expert"
 #, fuzzy
 msgid "LOBBY_QUESTS_2016_DAILY_078"
 msgstr ""
-"Earn the required amount of base XP while flying U.S.S.R. or U.K. aircraft. "
-"The battle result counts only if you win."
+"Earn the required amount of base XP while flying U.S.S.R. or U.K. aircraft. The "
+"battle result counts only if you win."
 
 #, fuzzy
 msgid "LOBBY_QUESTS_2016_DAILY_078_NAME"
@@ -9874,8 +9752,8 @@ msgstr "Wild Hunt"
 #, fuzzy
 msgid "LOBBY_QUESTS_2016_DAILY_079"
 msgstr ""
-"Earn the required amount of base XP while flying U.S.S.R. or U.S. aircraft. "
-"The battle result counts only if you win."
+"Earn the required amount of base XP while flying U.S.S.R. or U.S. aircraft. The "
+"battle result counts only if you win."
 
 #, fuzzy
 msgid "LOBBY_QUESTS_2016_DAILY_079_NAME"
@@ -9884,8 +9762,8 @@ msgstr "Across the Ocean"
 #, fuzzy
 msgid "LOBBY_QUESTS_2016_DAILY_080"
 msgstr ""
-"Earn the required amount of base XP while flying Japanese or U.K. aircraft. "
-"The battle result counts only if you win."
+"Earn the required amount of base XP while flying Japanese or U.K. aircraft. The "
+"battle result counts only if you win."
 
 #, fuzzy
 msgid "LOBBY_QUESTS_2016_DAILY_080_NAME"
@@ -9934,9 +9812,9 @@ msgstr "Will to Win"
 #, fuzzy
 msgid "LOBBY_QUESTS_2016_DAILY_086"
 msgstr ""
-"Become one of the top 3 in the combat group by the number of destroyed "
-"aerial targets in the required number of battles. The battle result counts "
-"only if you survive throughout the entire battle."
+"Become one of the top 3 in the combat group by the number of destroyed aerial "
+"targets in the required number of battles. The battle result counts only if you "
+"survive throughout the entire battle."
 
 #, fuzzy
 msgid "LOBBY_QUESTS_2016_DAILY_086_NAME"
@@ -9945,8 +9823,7 @@ msgstr "Smiles of Fortune"
 #, fuzzy
 msgid "LOBBY_QUESTS_2016_DAILY_087"
 msgstr ""
-"Assist in destroying the required number of aerial targets in a single "
-"battle."
+"Assist in destroying the required number of aerial targets in a single battle."
 
 #, fuzzy
 msgid "LOBBY_QUESTS_2016_DAILY_087_NAME"
@@ -9988,8 +9865,7 @@ msgstr "Five to One"
 #, fuzzy
 msgid "LOBBY_QUESTS_2016_DAILY_092"
 msgstr ""
-"Destroy the required number of aerial targets with turret fire in a single "
-"battle."
+"Destroy the required number of aerial targets with turret fire in a single battle."
 
 #, fuzzy
 msgid "LOBBY_QUESTS_2016_DAILY_092_NAME"
@@ -9998,8 +9874,7 @@ msgstr "Armed and Dangerous"
 #, fuzzy
 msgid "LOBBY_QUESTS_2016_DAILY_093"
 msgstr ""
-"Destroy the required number of aerial targets with turret fire in a single "
-"battle."
+"Destroy the required number of aerial targets with turret fire in a single battle."
 
 #, fuzzy
 msgid "LOBBY_QUESTS_2016_DAILY_093_NAME"
@@ -10016,8 +9891,8 @@ msgstr "Mosquito Bite"
 #, fuzzy
 msgid "LOBBY_QUESTS_2016_DAILY_095"
 msgstr ""
-"Finish capturing a sector by performing an action that will bring the sector "
-"under control of the combat group."
+"Finish capturing a sector by performing an action that will bring the sector under "
+"control of the combat group."
 
 #, fuzzy
 msgid "LOBBY_QUESTS_2016_DAILY_095_NAME"
@@ -10025,8 +9900,7 @@ msgstr "Earth on Fire"
 
 #, fuzzy
 msgid "LOBBY_QUESTS_2016_DAILY_096"
-msgstr ""
-"Participate in capturing the required number of sectors in a single battle."
+msgstr "Participate in capturing the required number of sectors in a single battle."
 
 #, fuzzy
 msgid "LOBBY_QUESTS_2016_DAILY_096_NAME"
@@ -10043,8 +9917,8 @@ msgstr "Faithful Companion"
 #, fuzzy
 msgid "LOBBY_QUESTS_2016_JAPANESE_THREAT_001_BASIC"
 msgstr ""
-"Win 5 battles while fighting for the Allies or Axis during the event "
-"\"Japanese Threat\"."
+"Win 5 battles while fighting for the Allies or Axis during the event \"Japanese "
+"Threat\"."
 
 #, fuzzy
 msgid "LOBBY_QUESTS_2016_JAPANESE_THREAT_001_NAME"
@@ -10056,14 +9930,13 @@ msgstr "Destroy 2 enemy aircraft in battles."
 
 #, fuzzy
 msgid "LOBBY_QUESTS_2016_JAPANESE_THREAT_01_EXTRA"
-msgstr ""
-"Earn 50 superiority points for destroying enemy ground targets in battles."
+msgstr "Earn 50 superiority points for destroying enemy ground targets in battles."
 
 #, fuzzy
 msgid "LOBBY_QUESTS_2016_JAPANESE_THREAT_01_HARD"
 msgstr ""
-"Destroy 2 enemy aircraft of the same type as your aircraft in one battle and "
-"win the battle."
+"Destroy 2 enemy aircraft of the same type as your aircraft in one battle and win "
+"the battle."
 
 #, fuzzy
 msgid "LOBBY_QUESTS_2016_JAPANESE_THREAT_01_NAME"
@@ -10080,8 +9953,8 @@ msgstr "Destroy 20 enemy AA guns in battles."
 #, fuzzy
 msgid "LOBBY_QUESTS_2016_JAPANESE_THREAT_02_HARD"
 msgstr ""
-"Earn 30 superiority points for destroying enemy aircraft and 15 superiority "
-"points for destroying enemy ground targets in one battle and win the battle."
+"Earn 30 superiority points for destroying enemy aircraft and 15 superiority points "
+"for destroying enemy ground targets in one battle and win the battle."
 
 #, fuzzy
 msgid "LOBBY_QUESTS_2016_JAPANESE_THREAT_02_NAME"
@@ -10094,8 +9967,7 @@ msgstr "Earn 50 superiority points in one battle."
 #, fuzzy
 msgid "LOBBY_QUESTS_2016_JAPANESE_THREAT_03_EXTRA"
 msgstr ""
-"Survive and win 3 battles and destroy 2 enemy aircraft in each of the "
-"battles."
+"Survive and win 3 battles and destroy 2 enemy aircraft in each of the battles."
 
 #, fuzzy
 msgid "LOBBY_QUESTS_2016_JAPANESE_THREAT_03_HARD"
@@ -10108,14 +9980,13 @@ msgstr "Limitless Skies"
 #, fuzzy
 msgid "LOBBY_QUESTS_2016_JAPANESE_THREAT_04_BASIC"
 msgstr ""
-"Earn 30 superiority points for damage caused by bombs or rockets in one "
-"battle."
+"Earn 30 superiority points for damage caused by bombs or rockets in one battle."
 
 #, fuzzy
 msgid "LOBBY_QUESTS_2016_JAPANESE_THREAT_04_EXTRA"
 msgstr ""
-"Become the top player on your team by damage caused to enemy aircraft in "
-"each of 3 battles."
+"Become the top player on your team by damage caused to enemy aircraft in each of 3 "
+"battles."
 
 #, fuzzy
 msgid "LOBBY_QUESTS_2016_JAPANESE_THREAT_04_HARD"
@@ -10132,15 +10003,15 @@ msgstr "Destroy 20 enemy aircraft in battles. A battle counts only if you win."
 #, fuzzy
 msgid "LOBBY_QUESTS_2016_JAPANESE_THREAT_05_EXTRA"
 msgstr ""
-"Earn 300 superiority points for destroying enemy ground targets in battles. "
-"A battle counts only if you earn at least 60 superiority points and win."
+"Earn 300 superiority points for destroying enemy ground targets in battles. A "
+"battle counts only if you earn at least 60 superiority points and win."
 
 #, fuzzy
 msgid "LOBBY_QUESTS_2016_JAPANESE_THREAT_05_HARD"
 msgstr ""
-"Win 3 battles and earn 150 superiority points in each of the battles while "
-"playing solo or in a Flight. You can find a Flight mate for this mission "
-"using the Auto-Search for Flight Member option."
+"Win 3 battles and earn 150 superiority points in each of the battles while playing "
+"solo or in a Flight. You can find a Flight mate for this mission using the Auto-"
+"Search for Flight Member option."
 
 #, fuzzy
 msgid "LOBBY_QUESTS_2016_JAPANESE_THREAT_05_NAME"
@@ -10154,14 +10025,12 @@ msgstr ""
 
 #, fuzzy
 msgid "LOBBY_QUESTS_2016_JAPANESE_THREAT_06_EXTRA"
-msgstr ""
-"Earn two of the Service Awards (Ace, Destroyer, or Thunder) in one battle."
+msgstr "Earn two of the Service Awards (Ace, Destroyer, or Thunder) in one battle."
 
 #, fuzzy
 msgid "LOBBY_QUESTS_2016_JAPANESE_THREAT_06_HARD"
 msgstr ""
-"Earn 3 Ace medals. Your accuracy of firing at enemy aircraft must be at "
-"least 25%."
+"Earn 3 Ace medals. Your accuracy of firing at enemy aircraft must be at least 25%."
 
 #, fuzzy
 msgid "LOBBY_QUESTS_2016_JAPANESE_THREAT_06_NAME"
@@ -10170,20 +10039,19 @@ msgstr "Risky Challenge"
 #, fuzzy
 msgid "LOBBY_QUESTS_2016_JAPANESE_THREAT_07_BASIC"
 msgstr ""
-"Survive 3 battles, earn 1 Thunder medal and destroy 1 enemy aircraft in each "
-"of the battles."
+"Survive 3 battles, earn 1 Thunder medal and destroy 1 enemy aircraft in each of "
+"the battles."
 
 #, fuzzy
 msgid "LOBBY_QUESTS_2016_JAPANESE_THREAT_07_EXTRA"
 msgstr ""
-"Survive 5 battles and earn the Ace or Destroyer medals in each of the "
-"battles."
+"Survive 5 battles and earn the Ace or Destroyer medals in each of the battles."
 
 #, fuzzy
 msgid "LOBBY_QUESTS_2016_JAPANESE_THREAT_07_HARD"
 msgstr ""
-"Destroy 2 enemy aircraft with the use of bombs or rockets in one battle and "
-"win the battle."
+"Destroy 2 enemy aircraft with the use of bombs or rockets in one battle and win "
+"the battle."
 
 #, fuzzy
 msgid "LOBBY_QUESTS_2016_JAPANESE_THREAT_07_NAME"
@@ -10192,8 +10060,7 @@ msgstr "In the Nick of Time"
 #, fuzzy
 msgid "LOBBY_QUESTS_2016_NO_CAMP_001_BASIC"
 msgstr ""
-"Win 5 battles on the Allied or Axis side during the Battle for Thor's Hammer "
-"event."
+"Win 5 battles on the Allied or Axis side during the Battle for Thor's Hammer event."
 
 msgid "LOBBY_QUESTS_2016_SPRING_01_BASIC"
 msgstr "在一場戰鬥中，擊毀2架敵方戰機勝利並存活。"
@@ -10236,8 +10103,8 @@ msgstr "在戰鬥中，擊毀三架與你戰機類型相同的敵方戰機"
 
 msgid "LOBBY_QUESTS_2016_SPRING_05_EXTRA"
 msgstr ""
-"在戰鬥中摧毀10架與你戰機同一類型的敵人飛機。只有當你摧毀了2架飛機的相同類型的"
-"飛機並且勝利才計算。"
+"在戰鬥中摧毀10架與你戰機同一類型的敵人飛機。只有當你摧毀了2架飛機的相同類型的飛機並"
+"且勝利才計算。"
 
 msgid "LOBBY_QUESTS_2016_SPRING_05_NAME"
 msgstr "不求寬恕"
@@ -10279,8 +10146,7 @@ msgid "LOBBY_QUESTS_2016_SPRING_09_NAME"
 msgstr "對防空火力的威脅"
 
 msgid "LOBBY_QUESTS_2016_SPRING_10_BASIC"
-msgstr ""
-"通過摧毀敵人地面目標的方式獲得60點優勢點。獲得至少30點的戰鬥才會被計算在內。"
+msgstr "通過摧毀敵人地面目標的方式獲得60點優勢點。獲得至少30點的戰鬥才會被計算在內。"
 
 msgid "LOBBY_QUESTS_2016_SPRING_10_EXTRA"
 msgstr ""
@@ -10309,28 +10175,28 @@ msgstr "平等第一"
 
 msgid "LOBBY_QUESTS_2016_SPRING_13_BASIC"
 msgstr ""
-"在5場戰鬥中依靠擊毀敵機或者地面目標來在雙方隊伍中排名前三，不過你的飛機不能使"
-"用升級部件（只能使用升級標籤下的第一行部件）。只有你在戰鬥中擊毀一架飛機或者"
-"依靠擊毀地面目標獲得20個優勢點數才算完成"
+"在5場戰鬥中依靠擊毀敵機或者地面目標來在雙方隊伍中排名前三，不過你的飛機不能使用升級"
+"部件（只能使用升級標籤下的第一行部件）。只有你在戰鬥中擊毀一架飛機或者依靠擊毀地面"
+"目標獲得20個優勢點數才算完成"
 
 msgid "LOBBY_QUESTS_2016_SPRING_13_EXTRA"
 msgstr ""
-"在5場戰鬥中依靠擊毀敵機或者地面目標來在雙方隊伍中排名第一，不過你的飛機不能使"
-"用升級部件（只能使用升級標籤下的第一行部件）。只有你在戰鬥中擊毀一架飛機或者"
-"依靠擊毀地面目標獲得20個優勢點數才算完成"
+"在5場戰鬥中依靠擊毀敵機或者地面目標來在雙方隊伍中排名第一，不過你的飛機不能使用升級"
+"部件（只能使用升級標籤下的第一行部件）。只有你在戰鬥中擊毀一架飛機或者依靠擊毀地面"
+"目標獲得20個優勢點數才算完成"
 
 msgid "LOBBY_QUESTS_2016_SPRING_13_NAME"
 msgstr "秀翻所有人！"
 
 msgid "LOBBY_QUESTS_2016_SPRING_14_BASIC"
 msgstr ""
-"在一場戰鬥中個人或組隊對敵機造成1000點傷害，可通過邀請或自動搜尋功能與其他飛"
-"行員組隊完成。"
+"在一場戰鬥中個人或組隊對敵機造成1000點傷害，可通過邀請或自動搜尋功能與其他飛行員組"
+"隊完成。"
 
 msgid "LOBBY_QUESTS_2016_SPRING_14_EXTRA"
 msgstr ""
-"在一場戰鬥中個人或組隊對敵機造成相當於敵方隊伍總生命值30%的傷害（並且不低於"
-"1500點），可通過邀請或自動搜尋功能與其他飛行員組隊完成。"
+"在一場戰鬥中個人或組隊對敵機造成相當於敵方隊伍總生命值30%的傷害（並且不低於1500"
+"點），可通過邀請或自動搜尋功能與其他飛行員組隊完成。"
 
 msgid "LOBBY_QUESTS_2016_SPRING_14_NAME"
 msgstr "毀滅打擊"
@@ -10355,13 +10221,13 @@ msgstr "雙英雄"
 
 msgid "LOBBY_QUESTS_2016_SPRING_17_BASIC"
 msgstr ""
-"在一場戰鬥中個人或組隊獲得100點優勢點數，可通過邀請或自動搜尋功能與其他飛行員"
-"組隊完成。"
+"在一場戰鬥中個人或組隊獲得100點優勢點數，可通過邀請或自動搜尋功能與其他飛行員組隊完"
+"成。"
 
 msgid "LOBBY_QUESTS_2016_SPRING_17_EXTRA"
 msgstr ""
-"在一場戰鬥中個人或組隊獲得150點優勢點數並獲得勝利，可通過邀請或自動搜尋功能與"
-"其他飛行員組隊完成。"
+"在一場戰鬥中個人或組隊獲得150點優勢點數並獲得勝利，可通過邀請或自動搜尋功能與其他飛"
+"行員組隊完成。"
 
 msgid "LOBBY_QUESTS_2016_SPRING_17_NAME"
 msgstr "可怕的雙核"
@@ -10391,8 +10257,8 @@ msgstr "Wrong Turn"
 #, fuzzy
 msgid "LOBBY_QUESTS_2017_DAILY_002"
 msgstr ""
-"Destroy the required number of aerial targets while capturing or defending "
-"command centers with a multirole fighter."
+"Destroy the required number of aerial targets while capturing or defending command "
+"centers with a multirole fighter."
 
 #, fuzzy
 msgid "LOBBY_QUESTS_2017_DAILY_002_NAME"
@@ -10401,8 +10267,8 @@ msgstr "Easy Way"
 #, fuzzy
 msgid "LOBBY_QUESTS_2017_DAILY_003"
 msgstr ""
-"Destroy the required number of aerial targets while capturing or defending "
-"command centers with a heavy fighter."
+"Destroy the required number of aerial targets while capturing or defending command "
+"centers with a heavy fighter."
 
 #, fuzzy
 msgid "LOBBY_QUESTS_2017_DAILY_003_NAME"
@@ -10421,9 +10287,8 @@ msgstr "Fair Wind"
 #, fuzzy
 msgid "LOBBY_QUESTS_2017_DAILY_005"
 msgstr ""
-"Earn the required number of combat points while capturing airfields or "
-"command centers with a fighter, heavy, or multirole fighter in a single "
-"battle."
+"Earn the required number of combat points while capturing airfields or command "
+"centers with a fighter, heavy, or multirole fighter in a single battle."
 
 #, fuzzy
 msgid "LOBBY_QUESTS_2017_DAILY_005_NAME"
@@ -10442,8 +10307,8 @@ msgstr ""
 #, fuzzy
 msgid "LOBBY_QUESTS_2017_NO_CAMP_03"
 msgstr ""
-"Earn 500 superiority points for destroying enemy ground targets in any "
-"number of battles."
+"Earn 500 superiority points for destroying enemy ground targets in any number of "
+"battles."
 
 #, fuzzy
 msgid "LOBBY_QUESTS_2017_NO_CAMP_04"
@@ -10452,8 +10317,8 @@ msgstr "Destroy 50 enemy AA guns in any number of battles."
 #, fuzzy
 msgid "LOBBY_QUESTS_2017_NO_CAMP_05"
 msgstr ""
-"Destroy 3 enemy aircraft with the use of bombs or rockets in one battle and "
-"win the battle."
+"Destroy 3 enemy aircraft with the use of bombs or rockets in one battle and win "
+"the battle."
 
 #, fuzzy
 msgid "LOBBY_QUESTS_2017_NO_CAMP_06"
@@ -10464,9 +10329,9 @@ msgstr ""
 #, fuzzy
 msgid "LOBBY_QUESTS_2017_NO_CAMP_07"
 msgstr ""
-"Earn 75 superiority points for destroying enemy aircraft or 75 superiority "
-"points for destroying enemy ground targets in any number of battles. A "
-"battle result counts only if you win."
+"Earn 75 superiority points for destroying enemy aircraft or 75 superiority points "
+"for destroying enemy ground targets in any number of battles. A battle result "
+"counts only if you win."
 
 #, fuzzy
 msgid "LOBBY_QUESTS_2017_NO_CAMP_08"
@@ -10475,14 +10340,13 @@ msgstr "Damage or destroy 40 enemy aircraft in battles."
 #, fuzzy
 msgid "LOBBY_QUESTS_2017_NO_CAMP_09"
 msgstr ""
-"Earn one of the Service Awards (Ace, Destroyer, or Thunder). Repeat this "
-"result 15 times."
+"Earn one of the Service Awards (Ace, Destroyer, or Thunder). Repeat this result 15 "
+"times."
 
 #, fuzzy
 msgid "LOBBY_QUESTS_2017_NO_CAMP_10"
 msgstr ""
-"Destroy 30 enemy aircraft in battles. A battle counts only if you survive "
-"and win."
+"Destroy 30 enemy aircraft in battles. A battle counts only if you survive and win."
 
 #, fuzzy
 msgid "LOBBY_QUESTS_2017_NO_CAMP_11"
@@ -10498,14 +10362,13 @@ msgstr ""
 
 #, fuzzy
 msgid "LOBBY_QUESTS_2017_NO_CAMP_14"
-msgstr ""
-"Win 15 battles and earn the Ace and Destroyer medals in each of the battles."
+msgstr "Win 15 battles and earn the Ace and Destroyer medals in each of the battles."
 
 #, fuzzy
 msgid "LOBBY_QUESTS_2017_NO_CAMP_15"
 msgstr ""
-"Survive and win 20 battles. A battle counts only if you destroy at least 3 "
-"enemy aircraft."
+"Survive and win 20 battles. A battle counts only if you destroy at least 3 enemy "
+"aircraft."
 
 msgid "LOBBY_QUESTS_ADDITIONAL_TIME_BATTLE"
 msgstr "剩餘<font color='#FFFFFF'>{number}場戰鬥</font>完成附加目標"
@@ -10531,12 +10394,11 @@ msgstr "放棄"
 
 msgid "LOBBY_QUESTS_CANCEL_QUEST_MESSAGE"
 msgstr ""
-"如果放棄該任務，你將解鎖全部遊戲功能和所有1級戰機，但你會錯過銀幣和自由經驗獎"
-"勵，只建議有經驗的玩家選擇"
+"如果放棄該任務，你將解鎖全部遊戲功能和所有1級戰機，但你會錯過銀幣和自由經驗獎勵，只"
+"建議有經驗的玩家選擇"
 
 msgid "LOBBY_QUESTS_CANCEL_QUEST_WINDOW_CONTEXT_1"
-msgstr ""
-"如果放棄該任務，你將解鎖全部遊戲功能和所有1級戰機，只建議有經驗的玩家選擇"
+msgstr "如果放棄該任務，你將解鎖全部遊戲功能和所有1級戰機，只建議有經驗的玩家選擇"
 
 msgid "LOBBY_QUESTS_CANCEL_QUEST_WINDOW_CONTEXT_2"
 msgstr "放棄該任務，你將錯過獲得以下獎勵的機會:"
@@ -10563,8 +10425,7 @@ msgid "LOBBY_QUESTS_COMPLEX_02_BASIC"
 msgstr "在一場戰鬥中至少擊落1架敵機並摧毀1個地面目標。"
 
 msgid "LOBBY_QUESTS_COMPLEX_02_EXTRA"
-msgstr ""
-"在一場贏得勝利的戰鬥中獲得“掃地手”勳章並至少擊落2架敵機且在戰鬥結束時倖存。"
+msgstr "在一場贏得勝利的戰鬥中獲得“掃地手”勳章並至少擊落2架敵機且在戰鬥結束時倖存。"
 
 msgid "LOBBY_QUESTS_COMPLEX_02_NAME"
 msgstr "天與地"
@@ -10616,8 +10477,8 @@ msgstr "戰鬥精英"
 
 msgid "LOBBY_QUESTS_COMPLEX_08_BASIC"
 msgstr ""
-"在與其他玩家組隊進行的戰鬥中贏得勝利並在戰鬥結束時倖存，如果您無法聯絡到其他"
-"可與您組隊的玩家，可選擇自動搜尋組隊功能與陌生玩家組隊完成此任務"
+"在與其他玩家組隊進行的戰鬥中贏得勝利並在戰鬥結束時倖存，如果您無法聯絡到其他可與您"
+"組隊的玩家，可選擇自動搜尋組隊功能與陌生玩家組隊完成此任務"
 
 msgid "LOBBY_QUESTS_COMPLEX_08_EXTRA"
 msgstr "在一場贏得勝利的戰鬥中獲得“傑出貢獻”勳章並在戰鬥結束時倖存"
@@ -10653,10 +10514,10 @@ msgid "LOBBY_QUESTS_COMPLEX_11_NAME"
 msgstr "最終勝利"
 
 msgid "LOBBY_QUESTS_COMPLEX_LEVELS_ONLY"
-msgstr "當前活動任務只可使用4至10級戰機完成"
+msgstr "目前活動任務只可使用4至10級戰機完成"
 
 msgid "LOBBY_QUESTS_COMPLEX_STANDARD_BATTLE_ONLY"
-msgstr "當前活動任務只可在標準戰鬥模式下完成"
+msgstr "目前活動任務只可在標準戰鬥模式下完成"
 
 msgid "LOBBY_QUESTS_CONTEXT_ADDITIONAL_QUEST"
 msgstr "附加目標:"
@@ -10713,7 +10574,7 @@ msgid "LOBBY_QUESTS_CONTEXT_TOTAL_REWARD"
 msgstr "總獎勵:"
 
 msgid "LOBBY_QUESTS_CONTEXT_TO_CHANGE_QUEST"
-msgstr "當前進行中的戰鬥結束後可選擇另一任務"
+msgstr "目前進行中的戰鬥結束後可選擇另一任務"
 
 msgid "LOBBY_QUESTS_CONTEXT_UNIVERSAL_QUEST"
 msgstr "常規任務"
@@ -10740,8 +10601,7 @@ msgid "LOBBY_QUESTS_DAILY_2_WINS_FIGHTER_HEAVY_NAME"
 msgstr "速與力 (一級)"
 
 msgid "LOBBY_QUESTS_DAILY_2_WINS_FIGHTER_MULTIROLE_DESCRIPTION"
-msgstr ""
-"使用戰鬥機或多用途戰鬥機獲得2場勝利<br>只可在標準戰鬥中使用1-10級的戰機"
+msgstr "使用戰鬥機或多用途戰鬥機獲得2場勝利<br>只可在標準戰鬥中使用1-10級的戰機"
 
 msgid "LOBBY_QUESTS_DAILY_2_WINS_FIGHTER_MULTIROLE_NAME"
 msgstr "決戰長空 (一級)"
@@ -10777,15 +10637,13 @@ msgid "LOBBY_QUESTS_DAILY_2_WINS_JAPAN_GB_NAME"
 msgstr "馬來亞戰役 (一級)"
 
 msgid "LOBBY_QUESTS_DAILY_2_WINS_MULTIROLE_ATTACK_DESCRIPTION"
-msgstr ""
-"使用多用途戰鬥機或攻擊機獲得2場勝利<br>只可在標準戰鬥中使用1-10級的戰機"
+msgstr "使用多用途戰鬥機或攻擊機獲得2場勝利<br>只可在標準戰鬥中使用1-10級的戰機"
 
 msgid "LOBBY_QUESTS_DAILY_2_WINS_MULTIROLE_ATTACK_NAME"
 msgstr "大口徑 (一級)"
 
 msgid "LOBBY_QUESTS_DAILY_2_WINS_MULTIROLE_HEAVY_DESCRIPTION"
-msgstr ""
-"使用多用途戰鬥機或重型戰鬥機獲得2場勝利<br>只可在標準戰鬥中使用1-10級的戰機"
+msgstr "使用多用途戰鬥機或重型戰鬥機獲得2場勝利<br>只可在標準戰鬥中使用1-10級的戰機"
 
 msgid "LOBBY_QUESTS_DAILY_2_WINS_MULTIROLE_HEAVY_NAME"
 msgstr "重火力 (一級)"
@@ -10839,8 +10697,7 @@ msgid "LOBBY_QUESTS_DAILY_3_WINS_FIGHTER_HEAVY_NAME"
 msgstr "速與力 (二級)"
 
 msgid "LOBBY_QUESTS_DAILY_3_WINS_FIGHTER_MULTIROLE_DESCRIPTION"
-msgstr ""
-"使用戰鬥機或多用途戰鬥機獲得3場勝利<br>只可在標準戰鬥中使用5-10級的戰機"
+msgstr "使用戰鬥機或多用途戰鬥機獲得3場勝利<br>只可在標準戰鬥中使用5-10級的戰機"
 
 msgid "LOBBY_QUESTS_DAILY_3_WINS_FIGHTER_MULTIROLE_NAME"
 msgstr "決戰長空 (二級)"
@@ -10876,15 +10733,13 @@ msgid "LOBBY_QUESTS_DAILY_3_WINS_JAPAN_GB_NAME"
 msgstr "馬來亞戰役 (二級)"
 
 msgid "LOBBY_QUESTS_DAILY_3_WINS_MULTIROLE_ATTACK_DESCRIPTION"
-msgstr ""
-"使用多用途戰鬥機或攻擊機獲得3場勝利<br>只可在標準戰鬥中使用5-10級的戰機"
+msgstr "使用多用途戰鬥機或攻擊機獲得3場勝利<br>只可在標準戰鬥中使用5-10級的戰機"
 
 msgid "LOBBY_QUESTS_DAILY_3_WINS_MULTIROLE_ATTACK_NAME"
 msgstr "大口徑 (二級)"
 
 msgid "LOBBY_QUESTS_DAILY_3_WINS_MULTIROLE_HEAVY_DESCRIPTION"
-msgstr ""
-"使用多用途戰鬥機或重型戰鬥機獲得3場勝利<br>只可在標準戰鬥中使用5-10級的戰機"
+msgstr "使用多用途戰鬥機或重型戰鬥機獲得3場勝利<br>只可在標準戰鬥中使用5-10級的戰機"
 
 msgid "LOBBY_QUESTS_DAILY_3_WINS_MULTIROLE_HEAVY_NAME"
 msgstr "重火力 (二級)"
@@ -10938,8 +10793,7 @@ msgid "LOBBY_QUESTS_DAILY_5_WINS_FIGHTER_HEAVY_NAME"
 msgstr "速與力 (三級)"
 
 msgid "LOBBY_QUESTS_DAILY_5_WINS_FIGHTER_MULTIROLE_DESCRIPTION"
-msgstr ""
-"使用戰鬥機或多用途戰鬥機獲得5場勝利<br>只可在標準戰鬥中使用8-10級的戰機"
+msgstr "使用戰鬥機或多用途戰鬥機獲得5場勝利<br>只可在標準戰鬥中使用8-10級的戰機"
 
 msgid "LOBBY_QUESTS_DAILY_5_WINS_FIGHTER_MULTIROLE_NAME"
 msgstr "決戰長空 (三級)"
@@ -10975,15 +10829,13 @@ msgid "LOBBY_QUESTS_DAILY_5_WINS_JAPAN_GB_NAME"
 msgstr "馬來亞戰役 (三級)"
 
 msgid "LOBBY_QUESTS_DAILY_5_WINS_MULTIROLE_ATTACK_DESCRIPTION"
-msgstr ""
-"使用多用途戰鬥機或攻擊機獲得5場勝利<br>只可在標準戰鬥中使用8-10級的戰機"
+msgstr "使用多用途戰鬥機或攻擊機獲得5場勝利<br>只可在標準戰鬥中使用8-10級的戰機"
 
 msgid "LOBBY_QUESTS_DAILY_5_WINS_MULTIROLE_ATTACK_NAME"
 msgstr "大口徑 (三級)"
 
 msgid "LOBBY_QUESTS_DAILY_5_WINS_MULTIROLE_HEAVY_DESCRIPTION"
-msgstr ""
-"使用多用途戰鬥機或重型戰鬥機獲得5場勝利<br>只可在標準戰鬥中使用8-10級的戰機"
+msgstr "使用多用途戰鬥機或重型戰鬥機獲得5場勝利<br>只可在標準戰鬥中使用8-10級的戰機"
 
 msgid "LOBBY_QUESTS_DAILY_5_WINS_MULTIROLE_HEAVY_NAME"
 msgstr "重火力 (三級)"
@@ -11025,50 +10877,43 @@ msgid "LOBBY_QUESTS_DAILY_5_WINS_USSR_USA_NAME"
 msgstr "會師易北河 (三級)"
 
 msgid "LOBBY_QUESTS_DAILY_KILL_2_ATTACK_DESCRIPTION"
-msgstr ""
-"在一場或多場戰鬥中擊落2架敵方攻擊機<br>只可在標準戰鬥中使用1-10級的戰機"
+msgstr "在一場或多場戰鬥中擊落2架敵方攻擊機<br>只可在標準戰鬥中使用1-10級的戰機"
 
 msgid "LOBBY_QUESTS_DAILY_KILL_2_ATTACK_NAME"
 msgstr "硬骨頭 (一級)"
 
 msgid "LOBBY_QUESTS_DAILY_KILL_2_FIGHTERS_DESCRIPTION"
-msgstr ""
-"在一場或多場戰鬥中擊落2架敵方戰鬥機<br>只可在標準戰鬥中使用1-10級的戰機"
+msgstr "在一場或多場戰鬥中擊落2架敵方戰鬥機<br>只可在標準戰鬥中使用1-10級的戰機"
 
 msgid "LOBBY_QUESTS_DAILY_KILL_2_FIGHTERS_NAME"
 msgstr "移動靶 (一級)"
 
 msgid "LOBBY_QUESTS_DAILY_KILL_2_GB_JAPAN_DESCRIPTION"
-msgstr ""
-"在一場或多場戰鬥中擊落2架日本或英國戰機<br>只可在標準戰鬥中使用1-10級的戰機"
+msgstr "在一場或多場戰鬥中擊落2架日本或英國戰機<br>只可在標準戰鬥中使用1-10級的戰機"
 
 msgid "LOBBY_QUESTS_DAILY_KILL_2_GB_JAPAN_NAME"
 msgstr "太陽與雄獅 (一級)"
 
 msgid "LOBBY_QUESTS_DAILY_KILL_2_GERMANY_GB_DESCRIPTION"
-msgstr ""
-"在一場或多場戰鬥中擊落2架英國或德國戰機<br>只可在標準戰鬥中使用1-10級的戰機"
+msgstr "在一場或多場戰鬥中擊落2架英國或德國戰機<br>只可在標準戰鬥中使用1-10級的戰機"
 
 msgid "LOBBY_QUESTS_DAILY_KILL_2_GERMANY_GB_NAME"
 msgstr "雄獅與鐵十字 (一級)"
 
 msgid "LOBBY_QUESTS_DAILY_KILL_2_GERMANY_JAPAN_DESCRIPTION"
-msgstr ""
-"在一場或多場戰鬥中擊落2架日本或德國戰機<br>只可在標準戰鬥中使用1-10級的戰機"
+msgstr "在一場或多場戰鬥中擊落2架日本或德國戰機<br>只可在標準戰鬥中使用1-10級的戰機"
 
 msgid "LOBBY_QUESTS_DAILY_KILL_2_GERMANY_JAPAN_NAME"
 msgstr "太陽與鐵十字 (一級)"
 
 msgid "LOBBY_QUESTS_DAILY_KILL_2_GERMANY_USA_DESCRIPTION"
-msgstr ""
-"在一場或多場戰鬥中擊落2架美國或德國戰機<br>只可在標準戰鬥中使用1-10級的戰機"
+msgstr "在一場或多場戰鬥中擊落2架美國或德國戰機<br>只可在標準戰鬥中使用1-10級的戰機"
 
 msgid "LOBBY_QUESTS_DAILY_KILL_2_GERMANY_USA_NAME"
 msgstr "翅膀與鐵十字 (一級)"
 
 msgid "LOBBY_QUESTS_DAILY_KILL_2_HEAVY_DESCRIPTION"
-msgstr ""
-"在一場或多場戰鬥中擊落2架敵方重型戰鬥機<br>只可在標準戰鬥中使用1-10級的戰機"
+msgstr "在一場或多場戰鬥中擊落2架敵方重型戰鬥機<br>只可在標準戰鬥中使用1-10級的戰機"
 
 msgid "LOBBY_QUESTS_DAILY_KILL_2_HEAVY_NAME"
 msgstr "捕捉與摧毀 (一級)"
@@ -11081,92 +10926,79 @@ msgid "LOBBY_QUESTS_DAILY_KILL_2_MULTIROLE_NAME"
 msgstr "武器與冒險 (一級)"
 
 msgid "LOBBY_QUESTS_DAILY_KILL_2_USA_GB_DESCRIPTION"
-msgstr ""
-"在一場或多場戰鬥中擊落2架美國或英國戰機<br>只可在標準戰鬥中使用1-10級的戰機"
+msgstr "在一場或多場戰鬥中擊落2架美國或英國戰機<br>只可在標準戰鬥中使用1-10級的戰機"
 
 msgid "LOBBY_QUESTS_DAILY_KILL_2_USA_GB_NAME"
 msgstr "翅膀與雄獅 (一級)"
 
 msgid "LOBBY_QUESTS_DAILY_KILL_2_USA_JAPAN_DESCRIPTION"
-msgstr ""
-"在一場或多場戰鬥中擊落2架日本或美國戰機<br>只可在標準戰鬥中使用1-10級的戰機"
+msgstr "在一場或多場戰鬥中擊落2架日本或美國戰機<br>只可在標準戰鬥中使用1-10級的戰機"
 
 msgid "LOBBY_QUESTS_DAILY_KILL_2_USA_JAPAN_NAME"
 msgstr "太陽與翅膀 (一級)"
 
 msgid "LOBBY_QUESTS_DAILY_KILL_2_USSR_GB_DESCRIPTION"
-msgstr ""
-"在一場或多場戰鬥中擊落2架蘇聯或英國戰機<br>只可在標準戰鬥中使用1-10級的戰機"
+msgstr "在一場或多場戰鬥中擊落2架蘇聯或英國戰機<br>只可在標準戰鬥中使用1-10級的戰機"
 
 msgid "LOBBY_QUESTS_DAILY_KILL_2_USSR_GB_NAME"
 msgstr "紅星與雄獅 (一級)"
 
 msgid "LOBBY_QUESTS_DAILY_KILL_2_USSR_GERMANY_DESCRIPTION"
-msgstr ""
-"在一場或多場戰鬥中擊落2架蘇聯或德國戰機<br>只可在標準戰鬥中使用1-10級的戰機"
+msgstr "在一場或多場戰鬥中擊落2架蘇聯或德國戰機<br>只可在標準戰鬥中使用1-10級的戰機"
 
 msgid "LOBBY_QUESTS_DAILY_KILL_2_USSR_GERMANY_NAME"
 msgstr "紅星與鐵十字 (一級)"
 
 msgid "LOBBY_QUESTS_DAILY_KILL_2_USSR_JAPAN_DESCRIPTION"
-msgstr ""
-"在一場或多場戰鬥中擊落2架日本或蘇聯戰機<br>只可在標準戰鬥中使用1-10級的戰機"
+msgstr "在一場或多場戰鬥中擊落2架日本或蘇聯戰機<br>只可在標準戰鬥中使用1-10級的戰機"
 
 msgid "LOBBY_QUESTS_DAILY_KILL_2_USSR_JAPAN_NAME"
 msgstr "太陽與紅星 (一級)"
 
 msgid "LOBBY_QUESTS_DAILY_KILL_2_USSR_USA_DESCRIPTION"
-msgstr ""
-"在一場或多場戰鬥中擊落2架蘇聯或美國戰機<br>只可在標準戰鬥中使用1-10級的戰機"
+msgstr "在一場或多場戰鬥中擊落2架蘇聯或美國戰機<br>只可在標準戰鬥中使用1-10級的戰機"
 
 msgid "LOBBY_QUESTS_DAILY_KILL_2_USSR_USA_NAME"
 msgstr "紅星與翅膀 (一級)"
 
 msgid "LOBBY_QUESTS_DAILY_KILL_3_ATTACK_DESCRIPTION"
-msgstr ""
-"在一場或多場戰鬥中擊落3架敵方攻擊機<br>只可在標準戰鬥中使用5-10級的戰機"
+msgstr "在一場或多場戰鬥中擊落3架敵方攻擊機<br>只可在標準戰鬥中使用5-10級的戰機"
 
 msgid "LOBBY_QUESTS_DAILY_KILL_3_ATTACK_NAME"
 msgstr "硬骨頭 (二級)"
 
 msgid "LOBBY_QUESTS_DAILY_KILL_3_FIGHTERS_DESCRIPTION"
-msgstr ""
-"在一場或多場戰鬥中擊落3架敵方戰鬥機<br>只可在標準戰鬥中使用5-10級的戰機"
+msgstr "在一場或多場戰鬥中擊落3架敵方戰鬥機<br>只可在標準戰鬥中使用5-10級的戰機"
 
 msgid "LOBBY_QUESTS_DAILY_KILL_3_FIGHTERS_NAME"
 msgstr "移動靶 (二級)"
 
 msgid "LOBBY_QUESTS_DAILY_KILL_3_GB_JAPAN_DESCRIPTION"
-msgstr ""
-"在一場或多場戰鬥中擊落3架日本或英國戰機<br>只可在標準戰鬥中使用5-10級的戰機"
+msgstr "在一場或多場戰鬥中擊落3架日本或英國戰機<br>只可在標準戰鬥中使用5-10級的戰機"
 
 msgid "LOBBY_QUESTS_DAILY_KILL_3_GB_JAPAN_NAME"
 msgstr "太陽與雄獅 (二級)"
 
 msgid "LOBBY_QUESTS_DAILY_KILL_3_GERMANY_GB_DESCRIPTION"
-msgstr ""
-"在一場或多場戰鬥中擊落3架英國或德國戰機<br>只可在標準戰鬥中使用5-10級的戰機"
+msgstr "在一場或多場戰鬥中擊落3架英國或德國戰機<br>只可在標準戰鬥中使用5-10級的戰機"
 
 msgid "LOBBY_QUESTS_DAILY_KILL_3_GERMANY_GB_NAME"
 msgstr "雄獅與鐵十字 (二級)"
 
 msgid "LOBBY_QUESTS_DAILY_KILL_3_GERMANY_JAPAN_DESCRIPTION"
-msgstr ""
-"在一場或多場戰鬥中擊落3架日本或德國戰機<br>只可在標準戰鬥中使用5-10級的戰機"
+msgstr "在一場或多場戰鬥中擊落3架日本或德國戰機<br>只可在標準戰鬥中使用5-10級的戰機"
 
 msgid "LOBBY_QUESTS_DAILY_KILL_3_GERMANY_JAPAN_NAME"
 msgstr "太陽與鐵十字 (二級)"
 
 msgid "LOBBY_QUESTS_DAILY_KILL_3_GERMANY_USA_DESCRIPTION"
-msgstr ""
-"在一場或多場戰鬥中擊落3架美國或德國戰機<br>只可在標準戰鬥中使用5-10級的戰機"
+msgstr "在一場或多場戰鬥中擊落3架美國或德國戰機<br>只可在標準戰鬥中使用5-10級的戰機"
 
 msgid "LOBBY_QUESTS_DAILY_KILL_3_GERMANY_USA_NAME"
 msgstr "翅膀與鐵十字 (二級)"
 
 msgid "LOBBY_QUESTS_DAILY_KILL_3_HEAVY_DESCRIPTION"
-msgstr ""
-"在一場或多場戰鬥中擊落3架敵方重型戰鬥機<br>只可在標準戰鬥中使用5-10級的戰機"
+msgstr "在一場或多場戰鬥中擊落3架敵方重型戰鬥機<br>只可在標準戰鬥中使用5-10級的戰機"
 
 msgid "LOBBY_QUESTS_DAILY_KILL_3_HEAVY_NAME"
 msgstr "捕捉與摧毀 (二級)"
@@ -11179,92 +11011,79 @@ msgid "LOBBY_QUESTS_DAILY_KILL_3_MULTIROLE_NAME"
 msgstr "武器與冒險 (二級)"
 
 msgid "LOBBY_QUESTS_DAILY_KILL_3_USA_GB_DESCRIPTION"
-msgstr ""
-"在一場或多場戰鬥中擊落3架美國或英國戰機<br>只可在標準戰鬥中使用5-10級的戰機"
+msgstr "在一場或多場戰鬥中擊落3架美國或英國戰機<br>只可在標準戰鬥中使用5-10級的戰機"
 
 msgid "LOBBY_QUESTS_DAILY_KILL_3_USA_GB_NAME"
 msgstr "翅膀與雄獅 (二級)"
 
 msgid "LOBBY_QUESTS_DAILY_KILL_3_USA_JAPAN_DESCRIPTION"
-msgstr ""
-"在一場或多場戰鬥中擊落3架日本或美國戰機<br>只可在標準戰鬥中使用5-10級的戰機"
+msgstr "在一場或多場戰鬥中擊落3架日本或美國戰機<br>只可在標準戰鬥中使用5-10級的戰機"
 
 msgid "LOBBY_QUESTS_DAILY_KILL_3_USA_JAPAN_NAME"
 msgstr "太陽與翅膀 (二級)"
 
 msgid "LOBBY_QUESTS_DAILY_KILL_3_USSR_GB_DESCRIPTION"
-msgstr ""
-"在一場或多場戰鬥中擊落3架蘇聯或英國戰機<br>只可在標準戰鬥中使用5-10級的戰機"
+msgstr "在一場或多場戰鬥中擊落3架蘇聯或英國戰機<br>只可在標準戰鬥中使用5-10級的戰機"
 
 msgid "LOBBY_QUESTS_DAILY_KILL_3_USSR_GB_NAME"
 msgstr "紅星與雄獅 (二級)"
 
 msgid "LOBBY_QUESTS_DAILY_KILL_3_USSR_GERMANY_DESCRIPTION"
-msgstr ""
-"在一場或多場戰鬥中擊落3架蘇聯或德國戰機<br>只可在標準戰鬥中使用5-10級的戰機"
+msgstr "在一場或多場戰鬥中擊落3架蘇聯或德國戰機<br>只可在標準戰鬥中使用5-10級的戰機"
 
 msgid "LOBBY_QUESTS_DAILY_KILL_3_USSR_GERMANY_NAME"
 msgstr "紅星與鐵十字 (二級)"
 
 msgid "LOBBY_QUESTS_DAILY_KILL_3_USSR_JAPAN_DESCRIPTION"
-msgstr ""
-"在一場或多場戰鬥中擊落3架日本或蘇聯戰機<br>只可在標準戰鬥中使用5-10級的戰機"
+msgstr "在一場或多場戰鬥中擊落3架日本或蘇聯戰機<br>只可在標準戰鬥中使用5-10級的戰機"
 
 msgid "LOBBY_QUESTS_DAILY_KILL_3_USSR_JAPAN_NAME"
 msgstr "太陽與紅星 (二級)"
 
 msgid "LOBBY_QUESTS_DAILY_KILL_3_USSR_USA_DESCRIPTION"
-msgstr ""
-"在一場或多場戰鬥中擊落3架蘇聯或美國戰機<br>只可在標準戰鬥中使用5-10級的戰機"
+msgstr "在一場或多場戰鬥中擊落3架蘇聯或美國戰機<br>只可在標準戰鬥中使用5-10級的戰機"
 
 msgid "LOBBY_QUESTS_DAILY_KILL_3_USSR_USA_NAME"
 msgstr "紅星與翅膀 (二級)"
 
 msgid "LOBBY_QUESTS_DAILY_KILL_5_ATTACK_DESCRIPTION"
-msgstr ""
-"在一場或多場戰鬥中擊落5架敵方攻擊機<br>只可在標準戰鬥中使用8-10級的戰機"
+msgstr "在一場或多場戰鬥中擊落5架敵方攻擊機<br>只可在標準戰鬥中使用8-10級的戰機"
 
 msgid "LOBBY_QUESTS_DAILY_KILL_5_ATTACK_NAME"
 msgstr "硬骨頭 (三級)"
 
 msgid "LOBBY_QUESTS_DAILY_KILL_5_FIGHTERS_DESCRIPTION"
-msgstr ""
-"在一場或多場戰鬥中擊落5架敵方戰鬥機<br>只可在標準戰鬥中使用8-10級的戰機"
+msgstr "在一場或多場戰鬥中擊落5架敵方戰鬥機<br>只可在標準戰鬥中使用8-10級的戰機"
 
 msgid "LOBBY_QUESTS_DAILY_KILL_5_FIGHTERS_NAME"
 msgstr "移動靶 (三級)"
 
 msgid "LOBBY_QUESTS_DAILY_KILL_5_GB_JAPAN_DESCRIPTION"
-msgstr ""
-"在一場或多場戰鬥中擊落5架日本或英國戰機<br>只可在標準戰鬥中使用8-10級的戰機"
+msgstr "在一場或多場戰鬥中擊落5架日本或英國戰機<br>只可在標準戰鬥中使用8-10級的戰機"
 
 msgid "LOBBY_QUESTS_DAILY_KILL_5_GB_JAPAN_NAME"
 msgstr "太陽與雄獅 (三級)"
 
 msgid "LOBBY_QUESTS_DAILY_KILL_5_GERMANY_GB_DESCRIPTION"
-msgstr ""
-"在一場或多場戰鬥中擊落5架英國或德國戰機<br>只可在標準戰鬥中使用8-10級的戰機"
+msgstr "在一場或多場戰鬥中擊落5架英國或德國戰機<br>只可在標準戰鬥中使用8-10級的戰機"
 
 msgid "LOBBY_QUESTS_DAILY_KILL_5_GERMANY_GB_NAME"
 msgstr "雄獅與鐵十字 (三級)"
 
 msgid "LOBBY_QUESTS_DAILY_KILL_5_GERMANY_JAPAN_DESCRIPTION"
-msgstr ""
-"在一場或多場戰鬥中擊落5架日本或德國戰機<br>只可在標準戰鬥中使用8-10級的戰機"
+msgstr "在一場或多場戰鬥中擊落5架日本或德國戰機<br>只可在標準戰鬥中使用8-10級的戰機"
 
 msgid "LOBBY_QUESTS_DAILY_KILL_5_GERMANY_JAPAN_NAME"
 msgstr "太陽與鐵十字 (三級)"
 
 msgid "LOBBY_QUESTS_DAILY_KILL_5_GERMANY_USA_DESCRIPTION"
-msgstr ""
-"在一場或多場戰鬥中擊落5架美國或德國戰機<br>只可在標準戰鬥中使用8-10級的戰機"
+msgstr "在一場或多場戰鬥中擊落5架美國或德國戰機<br>只可在標準戰鬥中使用8-10級的戰機"
 
 msgid "LOBBY_QUESTS_DAILY_KILL_5_GERMANY_USA_NAME"
 msgstr "翅膀與鐵十字 (三級)"
 
 msgid "LOBBY_QUESTS_DAILY_KILL_5_HEAVY_DESCRIPTION"
-msgstr ""
-"在一場或多場戰鬥中擊落5架敵方重型戰鬥機<br>只可在標準戰鬥中使用8-10級的戰機"
+msgstr "在一場或多場戰鬥中擊落5架敵方重型戰鬥機<br>只可在標準戰鬥中使用8-10級的戰機"
 
 msgid "LOBBY_QUESTS_DAILY_KILL_5_HEAVY_NAME"
 msgstr "捕捉與摧毀 (三級)"
@@ -11277,43 +11096,37 @@ msgid "LOBBY_QUESTS_DAILY_KILL_5_MULTIROLE_NAME"
 msgstr "武器與冒險 (三級)"
 
 msgid "LOBBY_QUESTS_DAILY_KILL_5_USA_GB_DESCRIPTION"
-msgstr ""
-"在一場或多場戰鬥中擊落5架美國或英國戰機<br>只可在標準戰鬥中使用8-10級的戰機"
+msgstr "在一場或多場戰鬥中擊落5架美國或英國戰機<br>只可在標準戰鬥中使用8-10級的戰機"
 
 msgid "LOBBY_QUESTS_DAILY_KILL_5_USA_GB_NAME"
 msgstr "翅膀與雄獅 (三級)"
 
 msgid "LOBBY_QUESTS_DAILY_KILL_5_USA_JAPAN_DESCRIPTION"
-msgstr ""
-"在一場或多場戰鬥中擊落5架日本或美國戰機<br>只可在標準戰鬥中使用8-10級的戰機"
+msgstr "在一場或多場戰鬥中擊落5架日本或美國戰機<br>只可在標準戰鬥中使用8-10級的戰機"
 
 msgid "LOBBY_QUESTS_DAILY_KILL_5_USA_JAPAN_NAME"
 msgstr "太陽與翅膀 (三級)"
 
 msgid "LOBBY_QUESTS_DAILY_KILL_5_USSR_GB_DESCRIPTION"
-msgstr ""
-"在一場或多場戰鬥中擊落5架蘇聯或英國戰機<br>只可在標準戰鬥中使用8-10級的戰機"
+msgstr "在一場或多場戰鬥中擊落5架蘇聯或英國戰機<br>只可在標準戰鬥中使用8-10級的戰機"
 
 msgid "LOBBY_QUESTS_DAILY_KILL_5_USSR_GB_NAME"
 msgstr "紅星與雄獅 (三級)"
 
 msgid "LOBBY_QUESTS_DAILY_KILL_5_USSR_GERMANY_DESCRIPTION"
-msgstr ""
-"在一場或多場戰鬥中擊落5架蘇聯或德國戰機<br>只可在標準戰鬥中使用8-10級的戰機"
+msgstr "在一場或多場戰鬥中擊落5架蘇聯或德國戰機<br>只可在標準戰鬥中使用8-10級的戰機"
 
 msgid "LOBBY_QUESTS_DAILY_KILL_5_USSR_GERMANY_NAME"
 msgstr "紅星與鐵十字 (三級)"
 
 msgid "LOBBY_QUESTS_DAILY_KILL_5_USSR_JAPAN_DESCRIPTION"
-msgstr ""
-"在一場或多場戰鬥中擊落5架日本或蘇聯戰機<br>只可在標準戰鬥中使用8-10級的戰機"
+msgstr "在一場或多場戰鬥中擊落5架日本或蘇聯戰機<br>只可在標準戰鬥中使用8-10級的戰機"
 
 msgid "LOBBY_QUESTS_DAILY_KILL_5_USSR_JAPAN_NAME"
 msgstr "太陽與紅星 (三級)"
 
 msgid "LOBBY_QUESTS_DAILY_KILL_5_USSR_USA_DESCRIPTION"
-msgstr ""
-"在一場或多場戰鬥中擊落5架蘇聯或美國戰機<br>只可在標準戰鬥中使用8-10級的戰機"
+msgstr "在一場或多場戰鬥中擊落5架蘇聯或美國戰機<br>只可在標準戰鬥中使用8-10級的戰機"
 
 msgid "LOBBY_QUESTS_DAILY_KILL_5_USSR_USA_NAME"
 msgstr "紅星與翅膀 (三級)"
@@ -11343,8 +11156,8 @@ msgstr "Earn the Marseille medal 3 times."
 #, fuzzy
 msgid "LOBBY_QUESTS_EVENT_2017_TEXT_6"
 msgstr ""
-"Participate in capturing the required number of sectors in a single battle "
-"and win the battle."
+"Participate in capturing the required number of sectors in a single battle and win "
+"the battle."
 
 #, fuzzy
 msgid "LOBBY_QUESTS_EVENT_2017_TEXT_7"
@@ -11385,26 +11198,26 @@ msgstr "戰鬥所獲經驗收益加成"
 
 msgid "LOBBY_QUESTS_HIDDEN_PREM_BONUS_EXP"
 msgstr ""
-"所有8級加值戰機都將享有20%的戰鬥經驗收益加成，但戰鬥所獲自由經驗和戰鬥統計中"
-"的場均經驗不受其影響"
+"所有8級加值戰機都將享有20%的戰鬥經驗收益加成，但戰鬥所獲自由經驗和戰鬥統計中的場均"
+"經驗不受其影響"
 
 #, fuzzy
 msgid "LOBBY_QUESTS_JA_TR_COMPLEX_LEVELS_ONLY"
 msgstr ""
-"Special missions available during the current event can be completed in "
-"aircraft of tier IV to X only."
+"Special missions available during the current event can be completed in aircraft "
+"of tier IV to X only."
 
 #, fuzzy
 msgid "LOBBY_QUESTS_JA_TR_COMPLEX_STANDARD_BATTLE_ONLY"
 msgstr ""
-"Special missions available during the current event can be completed in "
-"Standard battles only."
+"Special missions available during the current event can be completed in Standard "
+"battles only."
 
 #, fuzzy
 msgid "LOBBY_QUESTS_JA_TR_LEVELS_STANDARD_BATTLE"
 msgstr ""
-"Special missions can be completed in Standard battles in aircraft of tier IV "
-"to X only."
+"Special missions can be completed in Standard battles in aircraft of tier IV to X "
+"only."
 
 msgid "LOBBY_QUESTS_LABEL_AVAILABLE_NUMBER"
 msgstr "完成數:"
@@ -11470,7 +11283,7 @@ msgid "LOBBY_QUESTS_MESSAGE_PLANES_OTHERS"
 msgstr "其它:"
 
 msgid "LOBBY_QUESTS_MESSAGE_QUESTS_FOR_CURRENT_PLANE"
-msgstr "當前戰機任務: {counter}"
+msgstr "目前戰機任務: {counter}"
 
 msgid "LOBBY_QUESTS_MESSAGE_QUEST_PLANES"
 msgstr "所需戰機:"
@@ -11497,7 +11310,7 @@ msgid "LOBBY_QUESTS_MESSAGE_WILL_BE_AVAILABLE_IN"
 msgstr "在 {time} 後釋出此任務"
 
 msgid "LOBBY_QUESTS_NO_QUESTS_FOR_CURRENT_PLANE"
-msgstr "沒有當前戰機可執行的任務，選擇 {show_all} 檢視其它任務"
+msgstr "沒有目前戰機可執行的任務，選擇 {show_all} 檢視其它任務"
 
 msgid "LOBBY_QUESTS_NY_BUTTON_DETAILED"
 msgstr "詳細資訊"
@@ -11516,8 +11329,8 @@ msgstr "初雪"
 
 msgid "LOBBY_QUESTS_NY_DAILY_5_BALLOONS_DESCRIPTION"
 msgstr ""
-"在打雪仗模式下的任意場次戰鬥中摧毀5個新年氣球，氣球將隱藏在地圖中的不同位置，"
-"氣球將不會標註為目標但雙方玩家均可將其摧毀"
+"在打雪仗模式下的任意場次戰鬥中摧毀5個新年氣球，氣球將隱藏在地圖中的不同位置，氣球將"
+"不會標註為目標但雙方玩家均可將其摧毀"
 
 msgid "LOBBY_QUESTS_NY_DAILY_5_BALLOONS_NAME"
 msgstr "搜尋裝飾"
@@ -11566,8 +11379,7 @@ msgstr "寒流"
 
 msgid "LOBBY_QUESTS_NY_QUEST_50_COLOURS_DESCRIPTION"
 msgstr ""
-"使用有節日塗裝的戰機參與50場標準戰鬥或人機對戰，節日塗裝包括塗裝、機首圖案和"
-"徽章"
+"使用有節日塗裝的戰機參與50場標準戰鬥或人機對戰，節日塗裝包括塗裝、機首圖案和徽章"
 
 msgid "LOBBY_QUESTS_NY_QUEST_50_COLOURS_NAME"
 msgstr "節日裝飾"
@@ -11592,8 +11404,8 @@ msgstr "五彩閃光"
 
 msgid "LOBBY_QUESTS_NY_QUEST_FIREWORKS_DESCRIPTION"
 msgstr ""
-"進入拉普蘭德地圖進行戰鬥，並且在地圖中的三個不同地點觀賞新年焰火，你必須在戰"
-"鬥中生存直到看完三個焰火為止，能夠看到焰火的地點: 間歇泉、海濱漁村、冰川峽谷"
+"進入拉普蘭德地圖進行戰鬥，並且在地圖中的三個不同地點觀賞新年焰火，你必須在戰鬥中生"
+"存直到看完三個焰火為止，能夠看到焰火的地點: 間歇泉、海濱漁村、冰川峽谷"
 
 msgid "LOBBY_QUESTS_NY_QUEST_FIREWORKS_NAME"
 msgstr "節日準備"
@@ -11639,8 +11451,8 @@ msgstr "節日裝飾 (P-36)"
 
 msgid "LOBBY_QUESTS_NY_QUEST_WING_COLOURS_DESCRIPTION"
 msgstr ""
-"建立或加入編隊，並使用有節日塗裝的戰機參與5場標準戰鬥或人機對戰，節日塗裝包括"
-"塗裝、機首圖案和徽章"
+"建立或加入編隊，並使用有節日塗裝的戰機參與5場標準戰鬥或人機對戰，節日塗裝包括塗裝、"
+"機首圖案和徽章"
 
 msgid "LOBBY_QUESTS_NY_QUEST_WING_COLOURS_NAME"
 msgstr "化妝舞會"
@@ -11661,14 +11473,14 @@ msgid "LOBBY_QUESTS_OPTION_SHOW_COMPLETED"
 msgstr "顯示已完成任務"
 
 msgid "LOBBY_QUESTS_OPTION_SHOW_CURRENT"
-msgstr "當前"
+msgstr "目前"
 
 #, fuzzy
 msgid "LOBBY_QUESTS_OPTION_SHOW_DIRECTIVE"
 msgstr "Operation Orders"
 
 msgid "LOBBY_QUESTS_OPTION_SHOW_FOR_CURRENT_PLANE"
-msgstr "當前戰機"
+msgstr "目前戰機"
 
 msgid "LOBBY_QUESTS_OPTION_SHOW_FUTURE"
 msgstr "即將"
@@ -11788,8 +11600,7 @@ msgid "LOBBY_QUESTS_PVE_QUEST_TYPE91_NAME"
 msgstr "解鎖九一式!"
 
 msgid "LOBBY_QUESTS_PVP_QUEST_1_DESCRIPTION"
-msgstr ""
-"參加3場標準戰鬥，此任務只能完成一次，進行此任務需完成之前未解鎖的所有任務"
+msgstr "參加3場標準戰鬥，此任務只能完成一次，進行此任務需完成之前未解鎖的所有任務"
 
 msgid "LOBBY_QUESTS_PVP_QUEST_1_NAME"
 msgstr "前線"
@@ -11965,14 +11776,13 @@ msgstr "獲得經驗"
 #, fuzzy
 msgid "LOBBY_QUEST_DESCRIPTION_SECRET_DIRECTIVE"
 msgstr ""
-"Complete the chain of missions within the allocated time to receive an "
-"aircraft."
+"Complete the chain of missions within the allocated time to receive an aircraft."
 
 msgid "LOBBY_QUEST_EVENTS_BUTTON_OPEN_LIST"
 msgstr "檢視列表"
 
 msgid "LOBBY_QUEST_HEADER_CURRENT_PLANE"
-msgstr "當前戰機"
+msgstr "目前戰機"
 
 msgid "LOBBY_QUEST_IN_COMPLETED"
 msgstr "目標完成!"
@@ -12058,8 +11868,7 @@ msgstr "Discount coupon for an aircraft"
 #, fuzzy
 msgid "LOBBY_REWARD_SPECIAL_GUNNER_III_BLENHEIM_IV"
 msgstr ""
-"Trained gunner for the tier III U.K. <font color='#{colorID}'>Blenheim IV</"
-"font>"
+"Trained gunner for the tier III U.K. <font color='#{colorID}'>Blenheim IV</font>"
 
 #, fuzzy
 msgid "LOBBY_REWARD_SPECIAL_GUNNER_IV-DO17Z"
@@ -12071,25 +11880,21 @@ msgstr "Trained gunner for the Tier V <font color='#{colorID}'>Ju 88 A</font>
 
 #, fuzzy
 msgid "LOBBY_REWARD_SPECIAL_GUNNER_VI-DO217M"
-msgstr ""
-"Trained gunner for the Tier VI <font color='#{colorID}'>Do 217 M</font>"
+msgstr "Trained gunner for the Tier VI <font color='#{colorID}'>Do 217 M</font>"
 
 #, fuzzy
 msgid "LOBBY_REWARD_SPECIAL_GUNNER_VIII_RB-17"
 msgstr ""
-"Trained gunner for the tier VIII U.S.S.R. <font color='#{colorID}'>RB-17</"
-"font>"
+"Trained gunner for the tier VIII U.S.S.R. <font color='#{colorID}'>RB-17</font>"
 
 #, fuzzy
 msgid "LOBBY_REWARD_SPECIAL_GUNNER_VI_A-26B"
-msgstr ""
-"Trained gunner for the tier VI U.S. <font color='#{colorID}'>A-26B</font>"
+msgstr "Trained gunner for the tier VI U.S. <font color='#{colorID}'>A-26B</font>"
 
 #, fuzzy
 msgid "LOBBY_REWARD_SPECIAL_GUNNER_V_BEAUFIGHTER"
 msgstr ""
-"Trained gunner for the Tier V U.K. <font color='#{colorID}'>Beaufighter</"
-"font>"
+"Trained gunner for the Tier V U.K. <font color='#{colorID}'>Beaufighter</font>"
 
 #, fuzzy
 msgid "LOBBY_REWARD_SPECIAL_GUNNER_V_BF-110E"
@@ -12099,8 +11904,7 @@ msgstr ""
 #, fuzzy
 msgid "LOBBY_REWARD_SPECIAL_PILOT_III_BLENHEIM_IV"
 msgstr ""
-"Trained pilot for the tier III U.K. <font color='#{colorID}'>Blenheim IV</"
-"font>"
+"Trained pilot for the tier III U.K. <font color='#{colorID}'>Blenheim IV</font>"
 
 #, fuzzy
 msgid "LOBBY_REWARD_SPECIAL_PILOT_III_KI"
@@ -12115,62 +11919,51 @@ msgstr ""
 #, fuzzy
 msgid "LOBBY_REWARD_SPECIAL_PILOT_IV-HURRICANE-I"
 msgstr ""
-"Trained pilot for the Tier IV <font color='#{colorID}'>Hawker Hurricane I</"
-"font>"
+"Trained pilot for the Tier IV <font color='#{colorID}'>Hawker Hurricane I</font>"
 
 #, fuzzy
 msgid "LOBBY_REWARD_SPECIAL_PILOT_IV_I-17"
-msgstr ""
-"Trained pilot for the Tier IV U.S.S.R. <font color='#{colorID}'>I-17</font>"
+msgstr "Trained pilot for the Tier IV U.S.S.R. <font color='#{colorID}'>I-17</font>"
 
 #, fuzzy
 msgid "LOBBY_REWARD_SPECIAL_PILOT_V-HURRICANE-II"
 msgstr ""
-"Trained pilot for the Tier V <font color='#{colorID}'>Hawker Hurricane II</"
-"font>"
+"Trained pilot for the Tier V <font color='#{colorID}'>Hawker Hurricane II</font>"
 
 #, fuzzy
 msgid "LOBBY_REWARD_SPECIAL_PILOT_VI-TORNADO"
-msgstr ""
-"Trained pilot for the Tier VI <font color='#{colorID}'>Hawker Tornado</font>"
+msgstr "Trained pilot for the Tier VI <font color='#{colorID}'>Hawker Tornado</font>"
 
 #, fuzzy
 msgid "LOBBY_REWARD_SPECIAL_PILOT_VIII_RB-17"
 msgstr ""
-"Trained pilot for the tier VIII U.S.S.R. <font color='#{colorID}'>RB-17</"
-"font>"
+"Trained pilot for the tier VIII U.S.S.R. <font color='#{colorID}'>RB-17</font>"
 
 #, fuzzy
 msgid "LOBBY_REWARD_SPECIAL_PILOT_VI_A-26B"
-msgstr ""
-"Trained pilot for the tier VI U.S. <font color='#{colorID}'>A-26B</font>"
+msgstr "Trained pilot for the tier VI U.S. <font color='#{colorID}'>A-26B</font>"
 
 #, fuzzy
 msgid "LOBBY_REWARD_SPECIAL_PILOT_VI_FW-190A5"
 msgstr ""
-"Trained pilot for the Tier VI German <font color='#{colorID}'>Fw 190 A-5</"
-"font>"
+"Trained pilot for the Tier VI German <font color='#{colorID}'>Fw 190 A-5</font>"
 
 #, fuzzy
 msgid "LOBBY_REWARD_SPECIAL_PILOT_VI_YAK-9"
-msgstr ""
-"Trained pilot for the Tier VI U.S.S.R. <font color='#{colorID}'>Yak-9</font>"
+msgstr "Trained pilot for the Tier VI U.S.S.R. <font color='#{colorID}'>Yak-9</font>"
 
 #, fuzzy
 msgid "LOBBY_REWARD_SPECIAL_PILOT_V_BF-110E"
-msgstr ""
-"Trained pilot for the Tier V German <font color='#{colorID}'>Bf 110 E</font>"
+msgstr "Trained pilot for the Tier V German <font color='#{colorID}'>Bf 110 E</font>"
 
 #, fuzzy
 msgid "LOBBY_REWARD_SPECIAL_PILOT_V_FW-190A1"
 msgstr ""
-"Trained pilot for the Tier V German <font color='#{colorID}'>Fw 190 A-1</"
-"font>"
+"Trained pilot for the Tier V German <font color='#{colorID}'>Fw 190 A-1</font>"
 
 #, fuzzy
 msgid "LOBBY_REWARD_SPECIAL_PILOT_V_MIG-3"
-msgstr ""
-"Trained pilot for the Tier V U.S.S.R. <font color='#{colorID}'>MiG-3</font>"
+msgstr "Trained pilot for the Tier V U.S.S.R. <font color='#{colorID}'>MiG-3</font>"
 
 #, fuzzy
 msgid "LOBBY_REWARD_SPECIAL_PILOT_V_P-40"
@@ -12178,13 +11971,11 @@ msgstr "Trained pilot for the Tier V U.S. <font color='#{colorID}'>P-40</font>"
 
 #, fuzzy
 msgid "LOBBY_REWARD_SPECIAL_PILOT_V_SPITFIRE"
-msgstr ""
-"Trained pilot for the Tier V U.K. <font color='#{colorID}'>Spitfire I</font>"
+msgstr "Trained pilot for the Tier V U.K. <font color='#{colorID}'>Spitfire I</font>"
 
 #, fuzzy
 msgid "LOBBY_REWARD_SPECIAL_PILOT_V_YAK-7"
-msgstr ""
-"Trained pilot for the Tier V U.S.S.R. <font color='#{colorID}'>Yak-7</font>"
+msgstr "Trained pilot for the Tier V U.S.S.R. <font color='#{colorID}'>Yak-7</font>"
 
 msgid "LOBBY_REWARD_SPECIAL_QUEST_DO17Z"
 msgstr "特別任務 \"<font color='#'>Do 17 Z</font>\""
@@ -12241,8 +12032,8 @@ msgstr "Secret Project!"
 #, fuzzy
 msgid "LOBBY_SECRET_PROJECT_BANNER_TEXT_2"
 msgstr ""
-"Complete missions and find bomber parts in loot crates<br>to assemble "
-"bombers and crush the enemy!"
+"Complete missions and find bomber parts in loot crates<br>to assemble bombers and "
+"crush the enemy!"
 
 #, fuzzy
 msgid "LOBBY_SECRET_PROJECT_CAPS"
@@ -12290,8 +12081,7 @@ msgstr "Available for purchase in a bundle"
 
 #, fuzzy
 msgid "LOBBY_SELL_PLANE_DESCRIPTION"
-msgstr ""
-"You can sell this aircraft after the special \"Secret Project\" is over."
+msgstr "You can sell this aircraft after the special \"Secret Project\" is over."
 
 msgid "LOBBY_SET_PRIMARY"
 msgstr "設為最愛"
@@ -12364,7 +12154,7 @@ msgid "LOBBY_SHOP_CATEGORY_MG_CANNONS"
 msgstr "武器"
 
 msgid "LOBBY_SHOP_CATEGORY_NONE_MG_CANNONS"
-msgstr "不能使用當前武器"
+msgstr "不能使用目前武器"
 
 msgid "LOBBY_SHOP_CATEGORY_PLANE_COST"
 msgstr "飛機價格"
@@ -12551,21 +12341,20 @@ msgstr "配件"
 
 msgid "LOBBY_SHOP_LOBBY_SHOP_MESSAGE_APPLY_PURCHASE_AMMO-BELTS_PTS"
 msgstr ""
-"購買 {ammo-belt_name} ({ammo-belt_pts} 個)需要花費 {price_creds}, "
-"{price_gold}，確定要購買嗎？"
+"購買 {ammo-belt_name} ({ammo-belt_pts} 個)需要花費 {price_creds}, {price_gold}，確"
+"定要購買嗎？"
 
 msgid "LOBBY_SHOP_LOBBY_SHOP_MESSAGE_APPLY_PURCHASE_AMMO-BELTS_PTS_2"
 msgstr ""
-"購買 {ammo-belt_name} 彈藥 ({ammo-belt_pts} 彈藥)需要花費 {price}，確定購買"
-"嗎？"
+"購買 {ammo-belt_name} 彈藥 ({ammo-belt_pts} 彈藥)需要花費 {price}，確定購買嗎？"
 
 msgid "LOBBY_SHOP_LOBBY_SHOP_MESSAGE_APPLY_PURCHASE_AMMO-BELTS_PTS_SINGLE"
 msgstr "購買 {ammo-belt_name} 彈帶需要花費 {price}，確定購買?"
 
 msgid "LOBBY_SHOP_LOBBY_SHOP_MESSAGE_APPLY_PURCHASE_BOMBS_PTS"
 msgstr ""
-"購買 ({bomb_pts} 個){bomb_name} 需要花費 {price_creds}, {price_gold}，確定要"
-"購買嗎？"
+"購買 ({bomb_pts} 個){bomb_name} 需要花費 {price_creds}, {price_gold}，確定要購買"
+"嗎？"
 
 msgid "LOBBY_SHOP_LOBBY_SHOP_MESSAGE_APPLY_PURCHASE_BOMBS_PTS_2"
 msgstr "購買 ({bomb_pts} 個) {bomb_name} 需要花費 {price}，確定要購買嗎？"
@@ -12575,12 +12364,11 @@ msgstr "購買 (1個){bomb_name} 需要花費 {price}，確定購買?"
 
 msgid "LOBBY_SHOP_LOBBY_SHOP_MESSAGE_APPLY_PURCHASE_ROCKETS_PTS"
 msgstr ""
-"購買火箭彈 ({rockets_pts} 個) {rocket_name} 需要花費 {price_creds}, "
-"{price_gold}，確定要購買嗎？"
+"購買火箭彈 ({rockets_pts} 個) {rocket_name} 需要花費 {price_creds}, {price_gold}，"
+"確定要購買嗎？"
 
 msgid "LOBBY_SHOP_LOBBY_SHOP_MESSAGE_APPLY_PURCHASE_ROCKETS_PTS_2"
-msgstr ""
-"購買火箭彈 ({rockets_pts} 個) {rocket_name} 需要花費 {price}，確定要購買嗎？"
+msgstr "購買火箭彈 ({rockets_pts} 個) {rocket_name} 需要花費 {price}，確定要購買嗎？"
 
 msgid "LOBBY_SHOP_LOBBY_SHOP_MESSAGE_APPLY_PURCHASE_ROCKETS_PTS_SINGLE"
 msgstr "購買 (1個){rocket_name} 需要花費 {price}，確定購買?"
@@ -12591,44 +12379,41 @@ msgstr "飛機已購買"
 #, fuzzy
 msgid "LOBBY_SHOP_MESSAGE_APPLY_DISMISS_UNIQUE_PILOT"
 msgstr ""
-"Dismiss the unique pilot?<br><font color='#{colorID}'>This unique pilot will "
-"no longer be available.</font>"
+"Dismiss the unique pilot?<br><font color='#{colorID}'>This unique pilot will no "
+"longer be available.</font>"
 
 msgid "LOBBY_SHOP_MESSAGE_APPLY_PURCHASE_AIRCRAFT"
-msgstr ""
-"購買 {aircraft_name} 需要花費 {price_creds}, {price_gold}，確定要購買嗎?"
+msgstr "購買 {aircraft_name} 需要花費 {price_creds}, {price_gold}，確定要購買嗎?"
 
 msgid "LOBBY_SHOP_MESSAGE_APPLY_PURCHASE_AIRCRAFT_2"
 msgstr "購買 {aircraft_name} 需要花費 {price}，確定購買嗎?"
 
 msgid "LOBBY_SHOP_MESSAGE_APPLY_PURCHASE_CONSUMABLES_PTS"
 msgstr ""
-"購買 ({equipment_pts} 個) {equipment_name} 需要花費 {price_creds}, "
-"{price_gold}，確定要購買嗎？"
+"購買 ({equipment_pts} 個) {equipment_name} 需要花費 {price_creds}, {price_gold}，確"
+"定要購買嗎？"
 
 msgid "LOBBY_SHOP_MESSAGE_APPLY_PURCHASE_CONSUMABLES_PTS_2"
-msgstr ""
-"購買 ({equipment_pts} 個) {equipment_name} 需要花費 {price}，確定購買嗎？"
+msgstr "購買 ({equipment_pts} 個) {equipment_name} 需要花費 {price}，確定購買嗎？"
 
 msgid "LOBBY_SHOP_MESSAGE_APPLY_PURCHASE_CONSUMABLES_PTS_SINGLE"
 msgstr "購買消耗品(1個) {equipment_name} 需要花費 {price}，確定購買?"
 
 msgid "LOBBY_SHOP_MESSAGE_APPLY_PURCHASE_EQUIPMENT_PTS"
 msgstr ""
-"購買  ({equipment_pts} 個) {equipment_name} 需要花費 {price_creds}, "
-"{price_gold}，確定要購買嗎？"
+"購買  ({equipment_pts} 個) {equipment_name} 需要花費 {price_creds}, {price_gold}，"
+"確定要購買嗎？"
 
 msgid "LOBBY_SHOP_MESSAGE_APPLY_PURCHASE_EQUIPMENT_PTS_2"
-msgstr ""
-"購買 ({equipment_pts} 個) {equipment_name} 需要花費 {price}，確定購買嗎？"
+msgstr "購買 ({equipment_pts} 個) {equipment_name} 需要花費 {price}，確定購買嗎？"
 
 msgid "LOBBY_SHOP_MESSAGE_APPLY_PURCHASE_EQUIPMENT_PTS_SINGLE"
 msgstr "購買配件 (1個) {equipment_name} 需要花費 {price}，確定購買?"
 
 msgid "LOBBY_SHOP_MESSAGE_APPLY_PURCHASE_MODULES_PTS"
 msgstr ""
-"購買 ({module_pts} 個) {module_name} 需要花費 {price_creds}, {price_gold}，確"
-"定要購買嗎？"
+"購買 ({module_pts} 個) {module_name} 需要花費 {price_creds}, {price_gold}，確定要購"
+"買嗎？"
 
 msgid "LOBBY_SHOP_MESSAGE_APPLY_PURCHASE_MODULES_PTS_2"
 msgstr "購買 ({module_pts} 個) {module_name} 需要花費 {price}，確定購買嗎？"
@@ -12639,25 +12424,23 @@ msgstr "購買 (1個) {module_name} 需要花費 {price}，確定購買?"
 #, fuzzy
 msgid "LOBBY_SHOP_MESSAGE_APPLY_PURCHASE_UNIQUE_PILOT_GIFT"
 msgstr ""
-"The female pilot {pilot_name} will be added to your account for free. After "
-"you confirm your choice, you can recruit the other female pilots in exchange "
-"for tokens. You cannot change your choice after confirmation.<br><font "
-"size='6'><br></font>Recruit the female pilot for free?"
+"The female pilot {pilot_name} will be added to your account for free. After you "
+"confirm your choice, you can recruit the other female pilots in exchange for "
+"tokens. You cannot change your choice after confirmation.<br><font size='6'><br></"
+"font>Recruit the female pilot for free?"
 
 #, fuzzy
 msgid "LOBBY_SHOP_MESSAGE_APPLY_PURCHASE_UNIQUE_PILOT_WITHOUT_PLANE"
 msgstr ""
-"The female pilot {pilot_name} will be recruited using {number} tokens. After "
-"you confirm your choice, you will not be able to purchase the {plane_name} "
-"aircraft using tokens. Recruit the female pilot in exchange for {number} "
-"tokens?"
+"The female pilot {pilot_name} will be recruited using {number} tokens. After you "
+"confirm your choice, you will not be able to purchase the {plane_name} aircraft "
+"using tokens. Recruit the female pilot in exchange for {number} tokens?"
 
 #, fuzzy
 msgid "LOBBY_SHOP_MESSAGE_APPLY_PURCHASE_UNIQUE_PILOT_WITH_PLANE"
 msgstr ""
-"The female pilot {pilot_name} will be recruited in exchange for {number} "
-"tokens and will be added to your account along with the {plane_name} "
-"aircraft. Continue?"
+"The female pilot {pilot_name} will be recruited in exchange for {number} tokens "
+"and will be added to your account along with the {plane_name} aircraft. Continue?"
 
 #, fuzzy
 msgid "LOBBY_SHOP_MESSAGE_APPLY_PURCHASE_UNIQUE_PILOT_WITH_PLANE_IN_HANGAR"
@@ -12682,8 +12465,8 @@ msgstr "沒有足夠的金幣。要購買金幣。進入高階商店。"
 
 msgid "LOBBY_SHOP_MESSAGE_NO_FREE_SLOT_IN_HANGAR"
 msgstr ""
-"機位不夠了，請確保有一個空餘的機位。您可以選擇購買一個機位，或者是賣掉一個戰"
-"機來獲得一個空餘的機位。"
+"機位不夠了，請確保有一個空餘的機位。您可以選擇購買一個機位，或者是賣掉一個戰機來獲"
+"得一個空餘的機位。"
 
 msgid "LOBBY_SHOP_MESSAGE_PAGE_UNDER_CONSTRUCTION"
 msgstr "對不起，這個頁面還在開發中"
@@ -12785,13 +12568,11 @@ msgstr "連鎖閃電"
 msgid "LOBBY_TAIL_PART"
 msgstr "Aft body"
 
-#, fuzzy
 msgid "LOBBY_TEAM_ENEMY"
-msgstr "Enemy"
+msgstr "敵方"
 
-#, fuzzy
 msgid "LOBBY_TEAM_MEMBERS"
-msgstr "Combat group"
+msgstr "戰鬥隊伍"
 
 #, fuzzy
 msgid "LOBBY_TEXT_COMPENSATION_JA_TR_OFF"
@@ -12822,10 +12603,10 @@ msgid "LOBBY_TOKENS"
 msgstr "令牌："
 
 msgid "LOBBY_TOKENS_BANNER_1"
-msgstr "賺取<br>完成每日任務令牌！"
+msgstr "完成每日任務<br>以獲得令牌！"
 
 msgid "LOBBY_TOKENS_BANNER_2"
-msgstr "證明你的勇氣<br>在戰鬥中獲得令牌！"
+msgstr "在戰鬥中證明你的勇氣<br>以獲得令牌！"
 
 msgid "LOBBY_TOKENS_BANNER_3"
 msgstr "用令牌兌換<br>一個月的加值帳號"
@@ -12836,14 +12617,12 @@ msgstr "用令牌購買<br>機位擴展你的機庫！"
 #, fuzzy
 msgid "LOBBY_TOKENS_BANNER_5"
 msgstr ""
-"Purchase operation orders with tokens<br>to get aircraft without researching "
-"them!"
+"Purchase operation orders with tokens<br>to get aircraft without researching them!"
 
 #, fuzzy
 msgid "LOBBY_TOKENS_BANNER_6"
 msgstr ""
-"Follow our specials: tokens are sometimes<br>available for purchase with "
-"gold!"
+"Follow our specials: tokens are sometimes<br>available for purchase with gold!"
 
 #, fuzzy
 msgid "LOBBY_TOKENS_EVENTS"
@@ -12853,7 +12632,7 @@ msgid "LOBBY_TOKENS_SHOP_BUTTON"
 msgstr "商店"
 
 msgid "LOBBY_TOKEN_NEWS_HEADER"
-msgstr "好訊息！"
+msgstr "好消息！"
 
 msgid "LOBBY_TOKEN_NEWS_TEXT_1"
 msgstr "令牌不會刪除！"
@@ -12870,9 +12649,8 @@ msgstr "對於未來即將到來的活動做準備"
 msgid "LOBBY_TRAINED_TO_THE_LEVEL"
 msgstr "訓練等級："
 
-#, fuzzy
 msgid "LOBBY_TRAINING_EXCHANGE_RATE"
-msgstr "Exchange rate:"
+msgstr "匯率:"
 
 msgid "LOBBY_TRAINING_ROOMS_BOT_BALANCED"
 msgstr "均衡"
@@ -12903,25 +12681,17 @@ msgstr "Select amount of XP to exchange"
 msgid "LOBBY_TRAINING_TO_CREW_RANK"
 msgstr "Accelerate training to {number}%"
 
-#, fuzzy
 msgid "LOBBY_TROPHY"
-msgstr "Loot crate"
+msgstr "獎勵箱"
 
-#, fuzzy
 msgid "LOBBY_TUTORIAL_BANNER_TEXT_1"
-msgstr ""
-"Destroy ground targets located in a sector and aircraft flying over the "
-"sector to capture it"
+msgstr "摧毀地面目標和上空的戰機以佔領分區"
 
-#, fuzzy
 msgid "LOBBY_TUTORIAL_BANNER_TEXT_10"
-msgstr ""
-"<font color='#{colorID}'>Combat points</font> are earned for being actively "
-"involved in the action"
+msgstr "積極的參與任務行動可獲得<font color='#{colorID}'>戰鬥點數</font>"
 
 msgid "LOBBY_TUTORIAL_BANNER_TEXT_11"
-msgstr ""
-"完成「戰鬥偵察」賺取 <font color='#{colorID}'>1000 枚金幣</font>！"
+msgstr "完成「戰鬥偵察」賺取 <font color='#{colorID}'>1000 枚金幣</font>！"
 
 msgid "LOBBY_TUTORIAL_BANNER_TEXT_12"
 msgstr "「戰鬥偵察」階段已完成！"
@@ -12935,124 +12705,85 @@ msgstr "恭喜！"
 msgid "LOBBY_TUTORIAL_BANNER_TEXT_13_1"
 msgstr "戰鬥偵察已成功地完成！"
 
-#, fuzzy
 msgid "LOBBY_TUTORIAL_BANNER_TEXT_14"
-msgstr ""
-"Capture and hold sectors in the area of operation. Achieve the maximum "
-"influence—and victory will be yours!"
+msgstr "在任務區域佔領和防守分區。當你取得最大的優勢時—勝利將屬於你！"
 
 #, fuzzy
 msgid "LOBBY_TUTORIAL_BANNER_TEXT_15"
 msgstr ""
-"<font color='#{colorID}'>Mastery points</font> are earned for team efforts "
-"and personal accomplishments"
+"團隊努力和個人戰績可獲得<font color='#{colorID}'>精通點數</font>"
 
-#, fuzzy
 msgid "LOBBY_TUTORIAL_BANNER_TEXT_16"
-msgstr ""
-"Mastery points are converted to <b><font color='#{colorID}'>experience</"
-"font></b> at the end of a battle"
+msgstr "戰鬥結束後精通點數會被轉換為<b><font color='#{colorID}'>經驗</font></b>"
 
 msgid "LOBBY_TUTORIAL_BANNER_TEXT_17"
 msgstr "敵方戰機和地面目標以紅色標記表示"
 
 msgid "LOBBY_TUTORIAL_BANNER_TEXT_18"
-msgstr "取得最多影響力以取得勝利！"
+msgstr "取得最多優勢以取得勝利！"
 
-#, fuzzy
 msgid "LOBBY_TUTORIAL_BANNER_TEXT_2"
-msgstr "控制分區以增加你在任務區域的影響力"
+msgstr "控制分區以增加你在任務區域的優勢"
 
-#, fuzzy
 msgid "LOBBY_TUTORIAL_BANNER_TEXT_3"
-msgstr "Sectors are protected by anti-aircraft defense systems"
+msgstr "分區被敵方防空系統所保護"
 
-#, fuzzy
 msgid "LOBBY_TUTORIAL_BANNER_TEXT_4"
-msgstr ""
-"Maneuver to avoid their aimed fire.<br/>To escape their firing range, change "
-"your altitude."
+msgstr "移動以避開他們的瞄準。<br/>變化高度以避開他們的射擊範圍。"
 
-#, fuzzy
 msgid "LOBBY_TUTORIAL_BANNER_TEXT_5"
-msgstr "Lure enemy aircraft to AA guns located in sectors under your control"
+msgstr "引誘敵機接近我方分區的高射砲"
 
-#, fuzzy
 msgid "LOBBY_TUTORIAL_BANNER_TEXT_6"
 msgstr ""
-"Control over an <font color='#{colorID}'>airbase</font> allows you to repair "
-"your aircraft and select a new location to enter the area of operation from"
+"控制<font color='#{colorID}'>空軍基地</font>可以讓你修理戰機和選擇新的重生點"
 
-#, fuzzy
 msgid "LOBBY_TUTORIAL_BANNER_TEXT_7"
 msgstr ""
-"Control over a <font color='#{colorID}'>plant</font> significantly increases "
-"your influence in the area of operation"
+"控制<font color='#{colorID}'>工廠</font>可大幅提升你在區域內的優勢"
 
-#, fuzzy
 msgid "LOBBY_TUTORIAL_BANNER_TEXT_8"
-msgstr ""
-"A <font color='#{colorID}'>military base</font> under your control launches "
-"rocket strikes on enemy sectors"
+msgstr "在我方控制下的<font color='#{colorID}'>軍事基地</font>可向敵方分區發射火箭砲"
 
-#, fuzzy
 msgid "LOBBY_TUTORIAL_BANNER_TEXT_9"
 msgstr ""
-"A <font color='#{colorID}'>command center</font> under your control calls in "
-"Flights of bombers to attack enemy sectors"
+"在我方控制下的<font color='#{colorID}'>指揮中心</font>可呼叫轟炸機攻擊敵方分區"
 
-#, fuzzy
 msgid "LOBBY_TUTORIAL_QUEST_10_NAME"
-msgstr "Reach the top!"
+msgstr "到達頂端！"
 
-#, fuzzy
 msgid "LOBBY_TUTORIAL_QUEST_10_TEXT_1"
-msgstr "Become one of the top 5 players by number of combat points earned."
+msgstr "獲得的戰鬥點數排名團隊前 5。"
 
-#, fuzzy
 msgid "LOBBY_TUTORIAL_QUEST_10_TEXT_2"
-msgstr "Become one of the top 3 players by number of combat points earned."
+msgstr "獲得的戰鬥點數排名團隊前 3。"
 
-#, fuzzy
 msgid "LOBBY_TUTORIAL_QUEST_1_NAME"
-msgstr "Engage enemy aircraft guarding their territories!"
+msgstr "讓敵機防守他們的領土！"
 
-#, fuzzy
 msgid "LOBBY_TUTORIAL_QUEST_1_TEXT_1"
-msgstr ""
-"Destroy at least 2 air defense aircraft in a single battle.<br>Total number "
-"of battles required to complete the mission: 3."
+msgstr "在一場戰鬥中擊落至少 2 架防空戰機。<br>完成任務所需次數: 3"
 
-#, fuzzy
 msgid "LOBBY_TUTORIAL_QUEST_1_TEXT_2"
-msgstr ""
-"Destroy at least 3 air defense aircraft in a single battle.<br>Total number "
-"of battles required to complete the mission: 3."
+msgstr "在一場戰鬥中擊落至少 3 架防空戰機。<br>完成任務所需次數: 3"
 
 msgid "LOBBY_TUTORIAL_QUEST_2_NAME"
 msgstr "破壞地面目標！"
 
 msgid "LOBBY_TUTORIAL_QUEST_2_TEXT_1"
-msgstr ""
-"摧毀至少 3 座地面目標。<br>完成任務所需次數: 3"
+msgstr "摧毀至少 3 座地面目標。<br>完成任務所需次數: 3"
 
-#, fuzzy
 msgid "LOBBY_TUTORIAL_QUEST_2_TEXT_2"
-msgstr ""
-"Destroy at least 5 ground targets.<br>Total number of battles required to "
-"complete the mission: 3."
+msgstr "摧毀至少 5 座地面目標。<br>完成任務所需次數: 3"
 
-#, fuzzy
 msgid "LOBBY_TUTORIAL_QUEST_3_NAME"
-msgstr "Defend your territory!"
+msgstr "保衛你的領土！"
 
-#, fuzzy
 msgid "LOBBY_TUTORIAL_QUEST_3_TEXT_1"
-msgstr "Destroy at least 3 enemy aircraft while defending an allied sector."
+msgstr "在防守我方分區時擊落至少 3 架敵機。"
 
-#, fuzzy
 msgid "LOBBY_TUTORIAL_QUEST_3_TEXT_2"
-msgstr "Destroy at least 5 enemy aircraft while defending an allied sector."
+msgstr "在防守我方分區時擊落至少 5 架敵機。"
 
 msgid "LOBBY_TUTORIAL_QUEST_4_NAME"
 msgstr "為領土而戰！"
@@ -13087,35 +12818,24 @@ msgstr "參與佔領採礦場。"
 msgid "LOBBY_TUTORIAL_QUEST_7_TEXT_2"
 msgstr "參與佔領至少 2 座採礦場。<br>完成任務所需次數: 5"
 
-#, fuzzy
 msgid "LOBBY_TUTORIAL_QUEST_8_NAME"
-msgstr "Capture a Military Base!"
+msgstr "佔領軍事基地！"
 
-#, fuzzy
 msgid "LOBBY_TUTORIAL_QUEST_8_TEXT_1"
-msgstr "Participate in capturing a Military Base."
+msgstr "參與佔領軍事基地。"
 
-#, fuzzy
 msgid "LOBBY_TUTORIAL_QUEST_8_TEXT_2"
-msgstr ""
-"Participate in capturing at least 2 Military Bases.<br>Total number of "
-"battles required to complete the mission: 10."
+msgstr "參與佔領至少 2 座軍事基地。<br>完成任務所需次數: 10"
 
-#, fuzzy
 msgid "LOBBY_TUTORIAL_QUEST_9_NAME"
-msgstr "Take down a bomber Flight!"
+msgstr "擊落轟炸機！"
 
-#, fuzzy
 msgid "LOBBY_TUTORIAL_QUEST_9_TEXT_1"
-msgstr "Destroy at least 3 bombers from an Attack Flight."
+msgstr "駕駛攻擊機摧毀至少 3 架轟炸機。"
 
-#, fuzzy
 msgid "LOBBY_TUTORIAL_QUEST_9_TEXT_2"
-msgstr ""
-"Destroy at least 5 bombers from an Attack Flight.<br>Total number of battles "
-"required to complete the mission: 10."
+msgstr "駕駛攻擊機摧毀至少 3 架轟炸機。<br>完成任務所需次數: 10"
 
-#, fuzzy
 msgid "LOBBY_TUTORIAL_QUEST_HEADER"
 msgstr "戰鬥偵察"
 
@@ -13137,8 +12857,8 @@ msgstr "You can only recruit a female pilot with or without the aircraft once."
 #, fuzzy
 msgid "LOBBY_UNIQUE_PILOT_BANNER_TEXT_3"
 msgstr ""
-"You cannot purchase the aircraft using tokens separately from its female "
-"pilot after she has been recruited."
+"You cannot purchase the aircraft using tokens separately from its female pilot "
+"after she has been recruited."
 
 #, fuzzy
 msgid "LOBBY_UNIQUE_PILOT_BUTTON"
@@ -13158,9 +12878,8 @@ msgstr "取消最愛標籤"
 msgid "LOBBY_USE_SERTIFICATE"
 msgstr "使用"
 
-#, fuzzy
 msgid "LOBBY_VALUE_BUNKS"
-msgstr "Number of bunks"
+msgstr "床位數量"
 
 msgid "LOBBY_VALUE_SLOT"
 msgstr "機位價格："
@@ -13231,9 +12950,8 @@ msgstr "贏得大獎：超級8級戰鬥機 教練 JL-1A-37!"
 msgid "LOBBY_WILL_BE_AVAILABLE_TEXT"
 msgstr "在活動結束前數日，玩家可通過購買的方式完成未完成的任務"
 
-#, fuzzy
 msgid "LOBBY_WINGS"
-msgstr "Wings"
+msgstr "編隊"
 
 msgid "LOBBY_WING_CREATION_OPTION"
 msgstr "與好友組隊"
@@ -13304,8 +13022,7 @@ msgstr "無需修理"
 
 msgid "MANUAL_CONFIGURATION_"
 msgstr ""
-"已經有一個自訂配置，儲存新的配置會替換原有自訂配置並恢復至預設裝備，確定"
-"要儲存嗎？"
+"已經有一個自訂配置，儲存新的配置會替換原有自訂配置並恢復至預設裝備，確定要儲存嗎？"
 
 msgid "MANUAL_CONFIGURATION_BUTTON_SAVE_CONFIG"
 msgstr "儲存配置"
@@ -13451,9 +13168,8 @@ msgstr "投射量"
 msgid "MARKET_AIRPLANE_WING_AREA"
 msgstr "機翼面積，平方米"
 
-#, fuzzy
 msgid "MARKET_BOMB_AND_ROCKETS"
-msgstr "Bombs and Rockets"
+msgstr "炸彈和火箭彈"
 
 msgid "MAX_QUANTITY"
 msgstr "最大"
@@ -13483,19 +13199,18 @@ msgid "MESSAGE_FLIGHT_SCHOOL"
 msgstr "飛行訓練"
 
 msgid "MESSAGE_INCOMPATIBLE_WITH_CURRENT_MODULES"
-msgstr "當前配置不相容"
+msgstr "目前配置不相容"
 
 msgid "MESSAGE_INSTALLED_STANDARTBELT"
 msgstr "所有此類型武器上都將安裝免費的標準彈藥，您可在維護介面中進行更換。"
 
 msgid "MESSAGE_INSTALLED_STANDARTBELT_1"
-msgstr ""
-"所有 \"{armour_name}\"上都安裝有免費的標準彈藥，您可在維護介面中進行更換。"
+msgstr "所有 \"{armour_name}\"上都安裝有免費的標準彈藥，您可在維護介面中進行更換。"
 
 msgid "MESSAGE_INSTALLED_STANDARTBELT_2"
 msgstr ""
-"所有\"{armour_name1}\" 和 \"{armour_name2}\"上都安裝有免費的標準彈藥，您可在"
-"維護界面中進行更換。"
+"所有\"{armour_name1}\" 和 \"{armour_name2}\"上都安裝有免費的標準彈藥，您可在維護界"
+"面中進行更換。"
 
 msgid "MESSAGE_IS_ON_WAREHOUSE"
 msgstr "可用"
@@ -13514,21 +13229,20 @@ msgstr "還需："
 
 msgid "MESSAGE_NOT_ENOUGH_CREDITS"
 msgstr ""
-"無法補充彈藥: <font color='#{creditsColor}'>銀幣</font>不足，已更換為免費的標"
-"準彈藥。"
+"無法補充彈藥: <font color='#{creditsColor}'>銀幣</font>不足，已更換為免費的標準彈"
+"藥。"
 
 msgid "MESSAGE_NOT_ENOUGH_CREDS"
 msgstr "銀幣不夠"
 
 msgid "MESSAGE_NOT_ENOUGH_GOLD"
 msgstr ""
-"無法補充彈藥:<font color='#{goldColor}'>金幣</font>不足，已更換為免費的標準彈"
-"藥。"
+"無法補充彈藥:<font color='#{goldColor}'>金幣</font>不足，已更換為免費的標準彈藥。"
 
 msgid "MESSAGE_NOT_ENOUGH_GOLD_CREDIT"
 msgstr ""
-"無法補充彈藥:<font color='#{goldColor}'>金幣</font>和<font "
-"color='#{creditsColor}'>銀幣</font>不足，已更換為免費的標準彈藥。"
+"無法補充彈藥:<font color='#{goldColor}'>金幣</font>和<font color='#{creditsColor}'>"
+"銀幣</font>不足，已更換為免費的標準彈藥。"
 
 msgid "MESSAGE_NOT_ENOUGH_PTS"
 msgstr "購買："
@@ -13768,8 +13482,7 @@ msgid "MODULES_TREE_MESSAGE_CANNOT_EXPLORE_LEARN_AIRCRAFT_PREVIOUSLY"
 msgstr "不能研發，需要先研發 {name}。"
 
 msgid "MODULES_TREE_MESSAGE_CANNOT_INSTALL_INCOMPATIBLE_MODULE"
-msgstr ""
-"無法安裝：與 {module_type} {module_name}不相容。</br>請更換裝備 {name}。"
+msgstr "無法安裝：與 {module_type} {module_name}不相容。</br>請更換裝備 {name}。"
 
 msgid "MODULES_TREE_MESSAGE_CANNOT_PURCCHASE_AND_INSTALL_BUY_AIRCRAFT"
 msgstr "無法購買並安裝，請先購買戰機 {name}。"
@@ -13785,8 +13498,7 @@ msgstr "無需研發即可購買"
 
 #, fuzzy
 msgid "MODULES_TREE_MESSAGE_PREMIUM_AIRCRAFT_ADVANTAGES_S10"
-msgstr ""
-"Ability to control a turret (T) and conduct precision bombing (Left Shift)"
+msgstr "Ability to control a turret (T) and conduct precision bombing (Left Shift)"
 
 msgid "MODULES_TREE_MESSAGE_PREMIUM_AIRCRAFT_ADVANTAGES_S2"
 msgstr "每場戰鬥獲得經驗"
@@ -13881,23 +13593,23 @@ msgstr "選擇飛機以瞭解更多參數和研發條件"
 
 msgid "NATION_TREES_NATION_CHARACTER_GERMANY"
 msgstr ""
-"德國戰機擁有良好的速度和強大的火力，武器精準度高。海拔越高，機動效能和速度效"
-"能表現越好。"
+"德國戰機擁有良好的速度和強大的火力，武器精準度高。海拔越高，機動效能和速度效能表現"
+"越好。"
 
 msgid "NATION_TREES_NATION_CHARACTER_JAPAN"
 msgstr ""
-"日本戰機擁有非常優異的機動效能，防護能力弱。速度、火力及精準度較弱。機動性在"
-"中低空會表現的更好。"
+"日本戰機擁有非常優異的機動效能，防護能力弱。速度、火力及精準度較弱。機動性在中低空"
+"會表現的更好。"
 
 msgid "NATION_TREES_NATION_CHARACTER_USA"
 msgstr ""
-"美國戰機擁有比較出色的防護效能和速度效能。武器在短距離上的表現非常好，在長距"
-"離戰鬥中威力較小。海拔越高，速度和機動效能表現越好。"
+"美國戰機擁有比較出色的防護效能和速度效能。武器在短距離上的表現非常好，在長距離戰鬥"
+"中威力較小。海拔越高，速度和機動效能表現越好。"
 
 msgid "NATION_TREES_NATION_CHARACTER_USSR"
 msgstr ""
-"蘇聯戰機的機動性比較好，但防護能力較低，因為機身通常為木製的。武器（包括尾"
-"砲）的精度要略低於美國和德國，在低空能更出色的發揮其機動效能。"
+"蘇聯戰機的機動性比較好，但防護能力較低，因為機身通常為木製的。武器（包括尾砲）的精"
+"度要略低於美國和德國，在低空能更出色的發揮其機動效能。"
 
 msgid "NEED_REPAIR"
 msgstr "需要修理!"
@@ -13924,11 +13636,10 @@ msgid "PLANE_INFO_LEVEL_TEMPLATE"
 msgstr "{type}, 等級 {level}"
 
 msgid "PLANE_SELECT"
-msgstr "開始戰鬥"
+msgstr "開始戰鬥！"
 
-#, fuzzy
 msgid "PLANE_SELECT_CAPS"
-msgstr "BATTLE!"
+msgstr "開始戰鬥！"
 
 msgid "PLAYERS_IN_THE_QUEUE"
 msgstr "線上等待玩家："
@@ -14120,8 +13831,7 @@ msgid "SYSTEM_MESSAGE_I-15BIS-DM2_RECEIVED"
 msgstr "獲得："
 
 msgid "SYSTEM_MESSAGE_OTHER_SERVER_PLAYER_INVITES_YOU_TO_WING"
-msgstr ""
-"{name} 在 {server} 伺服器上邀請你加入編隊，接受此邀請請選擇 {server} 伺服器"
+msgstr "{name} 在 {server} 伺服器上邀請你加入編隊，接受此邀請請選擇 {server} 伺服器"
 
 msgid "TECH_CHARACTERISTIC"
 msgstr "參數"
@@ -14455,8 +14165,7 @@ msgstr "沒有合適的對手。你可以選擇另一架飛機。"
 
 msgid "WAITING_IN_QUEUE_SELECT_ANOTHER_AIRCRAFT"
 msgstr ""
-"如果在佇列中的時間過長，則可以選擇另一架飛機。<br>大多數玩家現在使用{value}飛"
-"機。"
+"如果在佇列中的時間過長，則可以選擇另一架飛機。<br>大多數玩家現在使用{value}飛機。"
 
 msgid "WAITING_TIME"
 msgstr "等待時間："
@@ -14726,7 +14435,7 @@ msgid "WING_MESSAGE_ENTER"
 msgstr "輸入您的邀請資訊"
 
 msgid "WING_MESSAGE_INVITED_PLAYER_IN_BATTLE"
-msgstr "注意！該玩家當前正在戰鬥中，戰鬥結束後才能收到邀請"
+msgstr "注意！該玩家目前正在戰鬥中，戰鬥結束後才能收到邀請"
 
 msgid "WING_MESSAGE_INVITE_FRIENDS_TO_WING"
 msgstr "邀請好友進行編隊戰鬥！"
@@ -14739,8 +14448,8 @@ msgstr "所有好友均不線上，如要建立編隊，請新增新的好友或
 
 msgid "WING_MESSAGE_PLAYER_INVITED_TO_WING"
 msgstr ""
-"玩家{name} 邀請您進入編隊。</br>按 <b>Enter</b> 接受邀請， 或者 <b>Esc</b> 拒"
-"絕邀請。</br>邀請將在 {timer} 失效…"
+"玩家{name} 邀請您進入編隊。</br>按 <b>Enter</b> 接受邀請， 或者 <b>Esc</b> 拒絕邀"
+"請。</br>邀請將在 {timer} 失效…"
 
 msgid "WING_MESSAGE_PLAYER_KICKED_FROM_WING"
 msgstr "玩家{name} 被從編隊中除名"
@@ -14813,8 +14522,7 @@ msgstr "玩家{name} 解散了編隊，您不再屬於編隊成員"
 
 #, fuzzy
 #~ msgid "LOBBY_BOMBER_TEXT_2"
-#~ msgstr ""
-#~ "The first bombers in the game are now available in exchange for gold."
+#~ msgstr "The first bombers in the game are now available in exchange for gold."
 
 #~ msgid "LOBBY_BONUSES_CREDITS_WITHOUT_COLON"
 #~ msgstr "獎勵銀幣"

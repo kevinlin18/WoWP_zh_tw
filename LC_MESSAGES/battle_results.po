@@ -151,7 +151,7 @@ msgid "AFTERBATTLE_STATISTICS_LABEL_AUTOREPAIR_SHORT"
 msgstr "自動修理"
 
 msgid "AFTERBATTLE_STATISTICS_LABEL_BATTLES_PER_SESSION"
-msgstr "當前會話總數:"
+msgstr "目前會話總數:"
 
 msgid "AFTERBATTLE_STATISTICS_LABEL_BATTLE_DURATION"
 msgstr "戰鬥持續時間"
@@ -703,7 +703,7 @@ msgid "BATTLE_RESULT_DAMAGE_DEALT_TO_PLANES"
 msgstr "對空中目標造成傷害"
 
 msgid "BATTLE_RESULT_DEATH"
-msgstr "玩家被摧毀的次數"
+msgstr "玩家被擊落的次數"
 
 msgid "BATTLE_RESULT_EARN_EXP_FOR_SKILL_POINT"
 msgstr "{member_name}正在積累經驗，獲得另一個技能點"
@@ -739,19 +739,19 @@ msgid "BATTLE_RESULT_OBJECTS_DESTROYED"
 msgstr "地面目標被摧毀"
 
 msgid "BATTLE_RESULT_PARTS_DESTROYED"
-msgstr "部分的地面目標被摧毀"
+msgstr "地面目標被摧毀"
 
 msgid "BATTLE_RESULT_PILOT_EXP"
 msgstr "飛行員經驗:"
 
 msgid "BATTLE_RESULT_PLANES_DESTROYED"
-msgstr "空中目標被摧毀"
+msgstr "空中目標被擊落"
 
 msgid "BATTLE_RESULT_PLANES_DESTROYED_1"
-msgstr "空中目標被摧毀"
+msgstr "空中目標被擊落"
 
 msgid "BATTLE_RESULT_PLANES_DESTROYED_IN_DEFENCE"
-msgstr "防守時摧毀"
+msgstr "防守時擊落"
 
 msgid "BATTLE_RESULT_PLANE_EXP"
 msgstr "戰機經驗:"

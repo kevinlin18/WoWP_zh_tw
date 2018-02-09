@@ -46,34 +46,34 @@ msgid "EMPTY"
 msgstr "未定義"
 
 msgid "KEY_0"
-msgstr "0（主鍵盤）"
+msgstr "0"
 
 msgid "KEY_1"
-msgstr "1（主鍵盤）"
+msgstr "1"
 
 msgid "KEY_2"
-msgstr "2（主鍵盤）"
+msgstr "2"
 
 msgid "KEY_3"
-msgstr "3（主鍵盤）"
+msgstr "3"
 
 msgid "KEY_4"
-msgstr "4（主鍵盤）"
+msgstr "4"
 
 msgid "KEY_5"
-msgstr "5（主鍵盤）"
+msgstr "5"
 
 msgid "KEY_6"
-msgstr "6（主鍵盤）"
+msgstr "6"
 
 msgid "KEY_7"
-msgstr "7（主鍵盤）"
+msgstr "7"
 
 msgid "KEY_8"
-msgstr "8（主鍵盤）"
+msgstr "8"
 
 msgid "KEY_9"
-msgstr "9（主鍵盤）"
+msgstr "9"
 
 msgid "KEY_A"
 msgstr "A"
@@ -586,7 +586,7 @@ msgid "KEY_SLASH"
 msgstr "/"
 
 msgid "KEY_SPACE"
-msgstr "空格"
+msgstr "空白"
 
 msgid "KEY_T"
 msgstr "T"
@@ -619,4 +619,4 @@ msgid "KEY_Z"
 msgstr "Z"
 
 msgid "MODIFIER_ALT"
-msgstr "3（主鍵盤）"
+msgstr "3"

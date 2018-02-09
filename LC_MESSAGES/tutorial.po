@@ -440,10 +440,10 @@ msgid "L1_WAYPOINT_MESSAGE1"
 msgstr "你還沒有穿過的光圈會用綠色高亮顯示"
 
 msgid "L1_WAYPOINT_MESSAGE2"
-msgstr "您成功穿過的光圈會變成灰色，黃色顯示的是您當前需要穿過的光圈。"
+msgstr "您成功穿過的光圈會變成灰色，黃色顯示的是您目前需要穿過的光圈。"
 
 msgid "L1_WAYPOINT_MESSAGE3"
-msgstr "綠色箭頭指示著當前目標的位置。"
+msgstr "綠色箭頭指示著目前目標的位置。"
 
 msgid "L1_WAYPOINT_TEXT"
 msgstr "按任意鍵繼續"
@@ -452,7 +452,7 @@ msgid "L1_WELLDONE_TEXT"
 msgstr "按任意鍵繼續"
 
 msgid "L2_ARROW_TEXT"
-msgstr "箭頭指示當前目標的位置"
+msgstr "箭頭指示目前目標的位置"
 
 msgid "L2_COMPLETE_HEADER"
 msgstr "任務2成功完成！"

@@ -1733,7 +1733,7 @@ msgid "TOOLTIP_BATTLE_RESULTS_CONTEXT_KILL"
 msgstr "摧毀"
 
 msgid "TOOLTIP_BATTLE_RESULTS_CREDITS_PER_SESSION"
-msgstr "當前遊戲期間獲得的銀幣"
+msgstr "目前遊戲期間獲得的銀幣"
 
 msgid "TOOLTIP_BATTLE_RESULTS_CREDS_AND_GOLD_FOR_BATTLE"
 msgstr "銀幣收益來自於在標準戰鬥中攻擊敵機或敵方地面目標以及作出積極的戰鬥行為"
@@ -1835,7 +1835,7 @@ msgid "TOOLTIP_BATTLE_RESULTS_MEDALS_PER_BATTLE"
 msgstr "戰鬥所獲得的勳章 ({number}):"
 
 msgid "TOOLTIP_BATTLE_RESULTS_MEDALS_PER_SESSION"
-msgstr "當前遊戲期間所獲得的勳章 ({number}):"
+msgstr "目前遊戲期間所獲得的勳章 ({number}):"
 
 msgid "TOOLTIP_BATTLE_RESULTS_MODULE_CRIT"
 msgstr "擊毀:"
@@ -1871,10 +1871,10 @@ msgid "TOOLTIP_BATTLE_RESULTS_RECEIVED_AFTER_BATTLE"
 msgstr "獲得:"
 
 msgid "TOOLTIP_BATTLE_RESULTS_SESSION_BATTLES_LOG"
-msgstr "當前遊戲期間的戰績"
+msgstr "目前遊戲期間的戰績"
 
 msgid "TOOLTIP_BATTLE_RESULTS_SESSION_HISTORY"
-msgstr "當前戰紀"
+msgstr "目前戰紀"
 
 msgid "TOOLTIP_BATTLE_RESULTS_SHOW_BATTLE_HISTORY"
 msgstr "顯示戰績"
@@ -1949,7 +1949,7 @@ msgid "TOOLTIP_BATTLE_RESULTS_XP_FOR_BATTLE"
 msgstr "經驗收益來自於在標準戰鬥中攻擊敵機或敵方地面目標以及作出積極的戰鬥行為"
 
 msgid "TOOLTIP_BATTLE_RESULTS_XP_PER_SESSION"
-msgstr "當前遊戲期間所獲經驗"
+msgstr "目前遊戲期間所獲經驗"
 
 msgid "TOOLTIP_BIRTHDAY_1_MONTH_BIRTHDAY"
 msgstr "購買戰機1個月"
@@ -2241,7 +2241,7 @@ msgid "TOOLTIP_CURRENT_AIRPLANE_NAME"
 msgstr "選擇飛機模型"
 
 msgid "TOOLTIP_CURRENT_AXIS"
-msgstr "<b>當前軸</b><br/>選擇一個軸配置"
+msgstr "<b>目前軸</b><br/>選擇一個軸配置"
 
 msgid "TOOLTIP_CUSTOM_MOUSE"
 msgstr "玩家的特別設定"
@@ -2644,7 +2644,7 @@ msgid "TOOLTIP_JOY_BLIND_ZONE"
 msgstr "<b>死亡區域</b><br/>在飛機做出反應前及時調整搖桿的移動"
 
 msgid "TOOLTIP_JOY_CURRENT_AXIS"
-msgstr "<b>當前軸</b><br/>選擇一個軸配置"
+msgstr "<b>目前軸</b><br/>選擇一個軸配置"
 
 msgid "TOOLTIP_JOY_ENGINE_POWER"
 msgstr "<b>發動機馬力</b><br/>配置軸控制發動機馬力"
@@ -2749,7 +2749,7 @@ msgid "TOOLTIP_LOBBY_QUESTS_COMPLETED_FROM"
 msgstr "完成: {number1} / {number2}"
 
 msgid "TOOLTIP_LOBBY_QUESTS_CURRENT_PLANE"
-msgstr "顯示可適用於當前戰機的任務"
+msgstr "顯示可適用於目前戰機的任務"
 
 msgid "TOOLTIP_LOBBY_QUESTS_NY_MESSAGE_MAIN_GIFT"
 msgstr "完成節日任務並獲得獎勵:"
@@ -2905,11 +2905,11 @@ msgid "TOOLTIP_PLANE_INFO_ASSAULT_PURPOSE"
 msgstr "對地攻擊機"
 
 msgid "TOOLTIP_PLANE_INFO_AVG_EFFECT_VS_ARMOR"
-msgstr "當前所攜帶的武器對地面裝甲目標有較好的殺傷效果"
+msgstr "目前所攜帶的武器對地面裝甲目標有較好的殺傷效果"
 
 msgid "TOOLTIP_PLANE_INFO_AVG_EFFECT_VS_ARMOR_USE_BOMBS_ROCKETS"
 msgstr ""
-"當前所攜帶的武器對地面裝甲目標有較好的殺傷效果，使用炸彈和火箭能獲得更好的攻"
+"目前所攜帶的武器對地面裝甲目標有較好的殺傷效果，使用炸彈和火箭能獲得更好的攻"
 "擊效果"
 
 msgid "TOOLTIP_PLANE_INFO_FIGHTER_PURPOSE"
@@ -2919,14 +2919,14 @@ msgid "TOOLTIP_PLANE_INFO_HEAVY_FIGHTER_PURPOSE"
 msgstr "多用途重型戰鬥機"
 
 msgid "TOOLTIP_PLANE_INFO_HIGH_EFFECT_VS_ARMOR"
-msgstr "當前所攜帶的武器對地面裝甲目標非常有效"
+msgstr "目前所攜帶的武器對地面裝甲目標非常有效"
 
 msgid "TOOLTIP_PLANE_INFO_NO_EFFECT_VS_ARMOR"
-msgstr "當前所攜帶的武器對地面裝甲目標攻擊效果很差"
+msgstr "目前所攜帶的武器對地面裝甲目標攻擊效果很差"
 
 msgid "TOOLTIP_PLANE_INFO_NO_EFFECT_VS_ARMOR_USE_BOMBS_ROCKETS"
 msgstr ""
-"當前所攜帶的武器對地面裝甲目標攻擊效果很差，使用炸彈和火箭彈能取得更好的攻擊"
+"目前所攜帶的武器對地面裝甲目標攻擊效果很差，使用炸彈和火箭彈能取得更好的攻擊"
 "效果"
 
 msgid "TOOLTIP_PLANE_OBT"
@@ -2951,7 +2951,7 @@ msgid "TOOLTIP_PLAYERS_ONLINE"
 msgstr "線上玩家數"
 
 msgid "TOOLTIP_PLAYERS_ONLINE_AND_TOTAL"
-msgstr "當前伺服器上的玩家 / 所有伺服器上的玩家"
+msgstr "目前伺服器上的玩家 / 所有伺服器上的玩家"
 
 msgid "TOOLTIP_PLAYER_MENU"
 msgstr "訪問帳號服務選單，可購買加值帳號、進行儲值等"
@@ -3092,7 +3092,7 @@ msgid "TOOLTIP_RESEARCH_PLANE_MODULES"
 msgstr "研發裝備 {name} 先"
 
 msgid "TOOLTIP_RESEARCH_SEVERAL_PARENTS_MESSAGE"
-msgstr "你可多架戰機中的一架所擁有的經驗來研發當前戰機:"
+msgstr "你可多架戰機中的一架所擁有的經驗來研發目前戰機:"
 
 msgid "TOOLTIP_RESTORE_DEFAULTS"
 msgstr "<b>預設</b><br/>恢復預設設定"
@@ -3514,7 +3514,7 @@ msgid "TOOLTIP_TILT_RIGHT"
 msgstr "<b>右滾轉</b><br/>降下右翼並且升起左翼"
 
 msgid "TOOLTIP_TIME_DATE"
-msgstr "當前日期和時間"
+msgstr "目前日期和時間"
 
 msgid "TOOLTIP_TOGGLE_FULLSCREEN"
 msgstr "選擇螢幕模式"
@@ -3640,7 +3640,7 @@ msgstr ""
 "<b>不能進入或者建立房間</b><br/>選擇一個房間然後選擇隊伍，或者自己建立房間"
 
 msgid "TOOLTIP_UNAVAILABLE_REPAIR_AIRPLANE"
-msgstr "<b>當前戰機不可用</b><br/>請修理戰機或者選擇另外一架"
+msgstr "<b>目前戰機不可用</b><br/>請修理戰機或者選擇另外一架"
 
 msgid "TOOLTIP_UNAVAILABLE_WAIT_ROOM_OWNER"
 msgstr "<b>等待房主相應</b><br/>等待房主分配隊伍並且開始遊戲"
@@ -3737,7 +3737,7 @@ msgid "WING_CONTEXT_STOP_AUTO_SEARCH"
 msgstr "暫停自動搜尋"
 
 msgid "WING_CONTEXT_WAIT_PLAYER_OR_INVITE_NEW"
-msgstr "等待玩家回到遊戲或離開當前編隊組建一個新的編隊。"
+msgstr "等待玩家回到遊戲或離開目前編隊組建一個新的編隊。"
 
 msgid "WING_DESCRIPTION_FRIENDS"
 msgstr "你可以在機庫左下角找到已新增的玩家名單。"
@@ -3929,9 +3929,8 @@ msgstr "IV 級"
 msgid "TOOLTIPS_CLASS_LVL_5_PROGRESS"
 msgstr "V 級"
 
-#, fuzzy
 msgid "TOOLTIPS_CLASS_QUEST_NAME"
-msgstr "Aircraft type-specific mission<br>\"{name}\""
+msgstr "機種任務<br>「{name}」"
 
 msgid "TOOLTIPS_CLOSECOMBAT_BIGGUNS"
 msgstr "大口徑武器在近距離戰鬥有優勢"
@@ -4763,9 +4762,8 @@ msgstr "A unique universal skill is inactive."
 msgid "TOOLTIPS_VERYHIGH_DEFENCE_GA"
 msgstr "Very high survivability, resistant to critical damage and fire"
 
-#, fuzzy
 msgid "TOOLTIPS_VERYHIGH_MANUVER"
-msgstr "Very high maneuverability in horizontal turns"
+msgstr "非常高的水平轉彎機動性"
 
 #, fuzzy
 msgid "TOOLTIPS_VERYHIGH_SPEED_AND_LONGWEP"
@@ -4779,17 +4777,15 @@ msgstr "Very high airspeed, accelerates very quickly when boosting"
 msgid "TOOLTIPS_VERYLOW_MENUVER"
 msgstr "Not designed for maneuvering combat"
 
-#, fuzzy
 msgid "TOOLTIPS_VERYLOW_SPEED"
-msgstr "Very low airspeed"
+msgstr "飛行速度非常低"
 
 #, fuzzy
 msgid "TOOLTIPS_WARNING_MESSAGE_NO_BOMB_ROKETS"
 msgstr "No bombs and rockets"
 
-#, fuzzy
 msgid "TOOLTIPS_WATCH_VIDEO_NAME"
-msgstr "Watch video: {videoName}"
+msgstr "觀看影片: {videoName}"
 
 #, fuzzy
 msgid "TOOLTIPS_WEAK_GUNS"
@@ -4896,9 +4892,8 @@ msgstr "Total XP without bonuses"
 msgid "TOOLTIP_BATTLE_RESULTS_FREE_EXP_WITHOUT_BONUSES"
 msgstr "Total Free XP received in battle (5% of received experience)"
 
-#, fuzzy
 msgid "TOOLTIP_BATTLE_RESULTS_MASTERY_POINTS"
-msgstr "Mastery points:"
+msgstr "精通點數:"
 
 #, fuzzy
 msgid "TOOLTIP_BATTLE_RESULTS_OTHER_BONUSES"
@@ -4985,19 +4980,19 @@ msgid "TOOLTIP_CAROUSEL_FILTER_BY_TYPE_BOMBER"
 msgstr "戰機類型（轟炸機）"
 
 msgid "TOOLTIP_CLASS_NAME_RANK_1"
-msgstr "I 級 {class_name}"
+msgstr "I 等 {class_name}"
 
 msgid "TOOLTIP_CLASS_NAME_RANK_2"
-msgstr "II 級 {class_name}"
+msgstr "II 等 {class_name}"
 
 msgid "TOOLTIP_CLASS_NAME_RANK_3"
-msgstr "III 級 {class_name}"
+msgstr "III 等 {class_name}"
 
 msgid "TOOLTIP_CLASS_NAME_RANK_4"
-msgstr "IV 級 {class_name}"
+msgstr "IV 等 {class_name}"
 
 msgid "TOOLTIP_CLASS_NAME_RANK_5"
-msgstr "V 級 {class_name}"
+msgstr "V 等 {class_name}"
 
 #, fuzzy
 msgid "TOOLTIP_CLASS_RANK_DESCRIPTION"

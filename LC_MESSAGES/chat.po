@@ -661,7 +661,7 @@ msgid "CHAT_HEADER_IGNORED_LIST"
 msgstr "黑名單"
 
 msgid "CHAT_HEADER_INVITATION_TO_CHANNEL"
-msgstr "邀請到當前頻道"
+msgstr "邀請到目前頻道"
 
 msgid "CHAT_HEADER_YOU_ARE_ADDED_TO_FRIENDS"
 msgstr "有玩家將你加為好友"
@@ -685,7 +685,7 @@ msgid "CHAT_MENU_CLOSE_ALL_CHANNELS"
 msgstr "關閉所有頻道"
 
 msgid "CHAT_MENU_CLOSE_ALL_LEAVE ACTIVE"
-msgstr "關閉除當前頻道外的所有頻道"
+msgstr "關閉除目前頻道外的所有頻道"
 
 msgid "CHAT_MENU_MINIMIZE_ALL_CHANNELS"
 msgstr "最小化所有頻道"

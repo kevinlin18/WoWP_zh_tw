@@ -40,10 +40,10 @@ msgid "ACHIEVEMENTS_CONTEXT_AWARDS_NUMBER"
 msgstr "{number} 枚勳章"
 
 msgid "ACHIEVEMENTS_CONTEXT_CURRENT_AWARD_GRADE"
-msgstr "當前獎勵類別:"
+msgstr "目前獎勵類別:"
 
 msgid "ACHIEVEMENTS_CONTEXT_CURRENT_SERIES_NUMBER"
-msgstr "當前累計數量: {number}"
+msgstr "目前累計數量: {number}"
 
 msgid "ACHIEVEMENTS_CONTEXT_GRADE_1_LONG"
 msgstr "一級:"
@@ -79,7 +79,7 @@ msgid "ACHIEVEMENTS_CONTEXT_MAX_SERIES_NUMBER"
 msgstr "最大累計數量: {number}"
 
 msgid "ACHIEVEMENTS_CONTEXT_MEDALS_OF_TYPES_SHOWN"
-msgstr "顯示當前戰機所獲勳章:<br>{medal_type_list}."
+msgstr "顯示目前戰機所獲勳章:<br>{medal_type_list}."
 
 msgid "ACHIEVEMENTS_CONTEXT_OR"
 msgstr "或"
@@ -2379,9 +2379,8 @@ msgstr ""
 "Received on the following aircraft:<br>{aircraft_1}, {aircraft_2}, "
 "{aircraft_3}, {aircraft_4}, {aircraft_5} and {number} more."
 
-#, fuzzy
 msgid "ACHIEVEMENTS_STAT_IN_NEW_MODE_CONQUEST"
-msgstr "Total flying hours for game mode \"Conquest\""
+msgstr "在「征服」模式裡的總飛行時數"
 
 #, fuzzy
 msgid "ACHIEVEMENTS_SUMMARY_BATTLE_POINTS"

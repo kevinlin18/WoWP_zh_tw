@@ -320,7 +320,7 @@ msgid "JOYSTICK_SETTINGS_BOOST"
 msgstr "增壓"
 
 msgid "JOYSTICK_SETTINGS_CURRENT_AXIS"
-msgstr "當前軸："
+msgstr "目前軸："
 
 msgid "JOYSTICK_SETTINGS_CURVE_SETTINGS_HEADER"
 msgstr "調整搖桿"
@@ -1544,10 +1544,10 @@ msgid "SETTINGS_GRAPH_AUTODETECT_HEADER"
 msgstr "自動檢測影像設定"
 
 msgid "SETTINGS_GRAPH_AUTODETECT_OK_MESSAGE"
-msgstr "您當前 {settings_1} 圖形設定能夠確保獲得最佳的遊戲體驗，祝您遊戲愉快！"
+msgstr "您目前 {settings_1} 圖形設定能夠確保獲得最佳的遊戲體驗，祝您遊戲愉快！"
 
 msgid "SETTINGS_GRAPH_AUTODETECT_TESTING_CURRENT_SETTINGS_MESSAGE"
-msgstr "測試當前設定…"
+msgstr "測試目前設定…"
 
 msgid "SETTINGS_GRAPH_AUTODETECT_TESTING_HIGHEST_SETTINGS_MESSAGE"
 msgstr "測試最高設定..."
@@ -1569,18 +1569,18 @@ msgstr "測試螢幕解析度: {resolution}…"
 
 msgid "SETTINGS_GRAPH_AUTODETECT_TOO_HIGH_MESSAGE"
 msgstr ""
-"您當前使用 {settings_1} 圖形設定和 {resolution_1} 的螢幕解析度，遊戲客戶端檢"
-"測認為您當前的設定不能保證最佳的遊戲體驗。<br>建議您將圖形設定調整為 "
+"您目前使用 {settings_1} 圖形設定和 {resolution_1} 的螢幕解析度，遊戲客戶端檢"
+"測認為您目前的設定不能保證最佳的遊戲體驗。<br>建議您將圖形設定調整為 "
 "{settings_2} 並且使用 {resolution_2} 的螢幕解析度。"
 
 msgid "SETTINGS_GRAPH_AUTODETECT_TOO_HIGH_RESOLUTION_ONLY_MESSAGE"
 msgstr ""
-"您當前使用 {resolution_1} 的螢幕解析度，遊戲客戶端檢測認為您當前的設定不能保"
+"您目前使用 {resolution_1} 的螢幕解析度，遊戲客戶端檢測認為您目前的設定不能保"
 "證遊戲的最佳體驗。<br>建議您調整使用 {resolution_2} 的螢幕解析度。"
 
 msgid "SETTINGS_GRAPH_AUTODETECT_TOO_HIGH_SETTINGS_ONLY_MESSAGE"
 msgstr ""
-"您當前使用 {settings_1} 圖形設定，遊戲客戶端檢測認為您當前的設定不能保證遊戲"
+"您目前使用 {settings_1} 圖形設定，遊戲客戶端檢測認為您目前的設定不能保證遊戲"
 "的最佳體驗。<br>建議您調整使用 {settings_2} 圖形設定。"
 
 msgid "SETTINGS_GRAPH_AUTODETECT_TOO_LOW_BOTH_MESSAGE"
@@ -1604,7 +1604,7 @@ msgstr "手動設定"
 
 msgid "SETTINGS_GRAPH_AUTODETECT_WARNING_MESSAGE"
 msgstr ""
-"您的電腦配備已更改，遊戲已準備好重新檢測適合當前電腦配備的最佳圖形設定，點"
+"您的電腦配備已更改，遊戲已準備好重新檢測適合目前電腦配備的最佳圖形設定，點"
 "擊“檢測”開始進行檢測。"
 
 msgid "SETTINGS_GRAPH_AUTODETECT_WINDOW_HEADER"
@@ -2013,7 +2013,7 @@ msgid "SETTINGS_LABEL_NEWLY_ASSIGNED"
 msgstr "新金鑰:"
 
 msgid "SETTINGS_LABEL_NOW_ASSIGNED"
-msgstr "當前金鑰:"
+msgstr "目前金鑰:"
 
 msgid "SETTINGS_LABEL_SOUND_MODE"
 msgstr "音效模式"
@@ -2202,11 +2202,11 @@ msgid "SETTINGS_MARKERS_HEADER_APPLY_SETTINGS"
 msgstr "套用設定"
 
 msgid "SETTINGS_MARKERS_MESSAGE_APPLY_SETTINGS"
-msgstr "您當前的自訂設定將變更為預設 {template_name_list}<br>確定套用新設定?"
+msgstr "您目前的自訂設定將變更為預設 {template_name_list}<br>確定套用新設定?"
 
 msgid "SETTINGS_MARKERS_MESSAGE_APPLY_SETTINGS_LIST"
 msgstr ""
-"您當前的自訂設定將被預設模式: {template_name_list}所替換<br>確認套用新設定?"
+"您目前的自訂設定將被預設模式: {template_name_list}所替換<br>確認套用新設定?"
 
 msgid "SETTINGS_MARKERS_MODE_ALT"
 msgstr "替換 (請按 {key} 鍵)"
@@ -2247,11 +2247,11 @@ msgstr ""
 "紋理效果"
 
 msgid "SETTINGS_MESSAGE_CHANGE_AXIS_CONFIRM"
-msgstr "\"{button_name}\" 當前被用於 \"{action_name}\"，重新分配？"
+msgstr "\"{button_name}\" 目前被用於 \"{action_name}\"，重新分配？"
 
 msgid "SETTINGS_MESSAGE_CHANGE_BUTTON_CONFIRM"
 msgstr ""
-"鍵 \"{button_name}\" 當前被用來控制\"{action_name}\"，是否重新設定該鍵？"
+"鍵 \"{button_name}\" 目前被用來控制\"{action_name}\"，是否重新設定該鍵？"
 
 msgid "SETTINGS_MESSAGE_CLICK_BUTTON_TO_ASSIGN"
 msgstr "請按下要設定為此動作的鍵"
@@ -2296,7 +2296,7 @@ msgstr "注意！一些設定在32位的windows系統下無法使用。"
 
 msgid "SETTINGS_MESSAGE_REPLACE_WITH_PATTERN_NAME"
 msgstr ""
-"注意!<br>您將變更您的控制設定<br>當前設定將變更為預設 \"{pattern_name}\"."
+"注意!<br>您將變更您的控制設定<br>目前設定將變更為預設 \"{pattern_name}\"."
 "<br><br>確定儲存並更改設定?"
 
 msgid "SETTINGS_MESSAGE_SETTINGS_BANDED_TO_CONTROL_PROFILE"
@@ -2350,7 +2350,7 @@ msgid "SETTINGS_MOUSE_PATTERN_SELECTOR"
 msgstr "滑鼠預設:"
 
 msgid "SETTINGS_MOUSE_SETTINGS_CHOSEN_TYPE"
-msgstr "當前滑鼠預設:"
+msgstr "目前滑鼠預設:"
 
 msgid "SETTINGS_MOUSE_VERTICAL_INVERSION"
 msgstr "垂直反轉滑鼠"
@@ -2371,7 +2371,7 @@ msgid "SETTINGS_NEW_BUTTON"
 msgstr "新鍵"
 
 msgid "SETTINGS_OLD_BUTTON"
-msgstr "當前鍵"
+msgstr "目前鍵"
 
 msgid "SETTINGS_OLD_FOV_CHECKBOX"
 msgstr "舊版視角範圍"
@@ -2610,7 +2610,7 @@ msgid "SETTINGS_TOOLTIP_HEADER_HP_INDICATOR"
 msgstr "生命值指示"
 
 msgid "SETTINGS_TOOLTIP_HP_INDICATOR"
-msgstr "顯示當前戰機的生命值"
+msgstr "顯示目前戰機的生命值"
 
 msgid "SETTINGS_TOOLTIP_MINI-MAP"
 msgstr "顯示隊友和目標在地圖上的位置"
@@ -2676,7 +2676,7 @@ msgid "SETTINGS_WINDOW_CONFIRMATION_ALL_SETTINGS_RESTORE_MESSAGE"
 msgstr "恢復到預設設定？"
 
 msgid "SETTINGS_WINDOW_CONFIRMATION_SAVE_SETTINGS_MESSAGE"
-msgstr "退出並儲存當前設定？"
+msgstr "退出並儲存目前設定？"
 
 msgid "SETTINGS_WINDOW_CONFIRMATION_SHEME_SETTINGS_RESTORE_MESSAGE"
 msgstr "恢復到預設設定？"
@@ -2688,7 +2688,7 @@ msgid "SETTINGS_WINDOW_SAVE_CONTROLS_HEADER"
 msgstr "儲存設定"
 
 msgid "SETTINGS_WINDOW_SAVE_CONTROLS_MESSAGE"
-msgstr "儲存當前設定方案?"
+msgstr "儲存目前設定方案?"
 
 msgid "SHADER_MODEL_2"
 msgstr "版本2"
@@ -3221,7 +3221,7 @@ msgstr "Dev Settings Version"
 
 #, fuzzy
 msgid "SETTINGS_MARKERS_DIAMETER_NUMBER_AREA"
-msgstr "Visible area radius numbers"
+msgstr "視野範圍數量"
 
 #, fuzzy
 msgid "SETTINGS_MARKERS_DISTANCE_TO_AIRCRAFT"
@@ -3339,17 +3339,15 @@ msgstr "When activated and during cooldown"
 msgid "SETTINGS_MARKERS_KEY_FOR_BOMB_DROP"
 msgstr "Bomb drop key"
 
-#, fuzzy
 msgid "SETTINGS_MARKERS_MASHINEGUN"
-msgstr "Machine gun"
+msgstr "機槍"
 
 #, fuzzy
 msgid "SETTINGS_MARKERS_MEDIUM_SIZE"
 msgstr "Medium"
 
-#, fuzzy
 msgid "SETTINGS_MARKERS_MESSAGES_DIAMETER_AREA"
-msgstr "\"Visible area radius\" caption"
+msgstr "「視野範圍」 說明"
 
 #, fuzzy
 msgid "SETTINGS_MARKERS_MINIMUM"

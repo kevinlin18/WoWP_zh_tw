@@ -163,25 +163,25 @@ msgid "DISCONNECT/#SYSTEM_MESSAGES:CONNECTION_LOST"
 msgstr "和伺服器中斷連線"
 
 msgid "DISCONNECT/#SYSTEM_MESSAGES:LOGIN_TO_OTHER_GAME_UNKNOWN"
-msgstr "當前遊戲中斷。您的帳號被用於登入其他遊戲。"
+msgstr "目前遊戲中斷。您的帳號被用於登入其他遊戲。"
 
 msgid "DISCONNECT/#SYSTEM_MESSAGES:LOGIN_TO_OTHER_GAME_WEB"
 msgstr "遊戲中斷，與伺服器的連結已斷開"
 
 msgid "DISCONNECT/#SYSTEM_MESSAGES:LOGIN_TO_OTHER_GAME_WOT"
-msgstr "當前遊戲中斷。您的帳號被用於登入戰車世界。"
+msgstr "目前遊戲中斷。您的帳號被用於登入戰車世界。"
 
 msgid "DISCONNECT/#SYSTEM_MESSAGES:LOGIN_TO_OTHER_GAME_WOTBLITZ"
-msgstr "當前遊戲中斷。您的帳號被用於登入戰車世界：閃擊戰。"
+msgstr "目前遊戲中斷。您的帳號被用於登入戰車世界：閃擊戰。"
 
 msgid "DISCONNECT/#SYSTEM_MESSAGES:LOGIN_TO_OTHER_GAME_WOTG"
-msgstr "當前遊戲中斷。您的帳號被用於登入戰車世界：將軍。"
+msgstr "目前遊戲中斷。您的帳號被用於登入戰車世界：將軍。"
 
 msgid "DISCONNECT/#SYSTEM_MESSAGES:LOGIN_TO_OTHER_GAME_WOWS"
-msgstr "當前遊戲中斷。您的帳號被用於登入戰艦世界。"
+msgstr "目前遊戲中斷。您的帳號被用於登入戰艦世界。"
 
 msgid "DISCONNECT/#SYSTEM_MESSAGES:LOGIN_TO_OTHER_GAME_WWP"
-msgstr "當前遊戲中斷。您的帳號被用於登入戰機世界。"
+msgstr "目前遊戲中斷。您的帳號被用於登入戰機世界。"
 
 msgid "DISCONNECT/#SYSTEM_MESSAGES:SERVER_REBOOTING"
 msgstr "伺服器重新啟動中…請稍後…"
@@ -193,7 +193,7 @@ msgid "DISCONNECT/#SYSTEM_MESSAGES:SERVER_SHUT_DOWN"
 msgstr "重新啟動遊戲伺服器..."
 
 msgid "DISCONNECT/#SYSTEM_MESSAGES:SESSION_TRACKER_KICK"
-msgstr "您的帳號已登入戰爭三部曲中的另外一個遊戲，當前遊戲已退出。"
+msgstr "您的帳號已登入戰爭三部曲中的另外一個遊戲，目前遊戲已退出。"
 
 msgid "DISCONNECT/BAN"
 msgstr "帳號未啟動，請前往官網啟動帳號後登入遊戲"
@@ -231,7 +231,7 @@ msgid "LOBBY_BUBBLE_GOLD_EXCHANGE_SUCCESFULL"
 msgstr "金幣兌換成功"
 
 msgid "LOBBY_BUBBLE_TOKENS_EXCHANGE_SUCCESFULL"
-msgstr "代幣兌換成功。"
+msgstr "令牌兌換成功。"
 
 msgid "LOBBY_HEADER_AMMO_REFILL"
 msgstr "補充彈藥:"
@@ -525,7 +525,7 @@ msgid "MESSAGE_TYPE_POPUP_LOBBY_GOLD_RECEIVED"
 msgstr "收到金幣"
 
 msgid "MESSAGE_TYPE_POPUP_LOBBY_TOKENS_RECEIVED"
-msgstr "獲得代幣"
+msgstr "獲得令牌"
 
 msgid "MESSAGE_WING_DESTROYED"
 msgstr "編隊被取消:改玩家另一個編隊中的一員"
@@ -597,7 +597,7 @@ msgid "OPENBETA_DAILY_BONUS_GROUND_TARGET_DESTROYED_NUMBER_9"
 msgstr "9"
 
 msgid "OPENBETA_DAILY_BONUS_LABEL_TOKENS"
-msgstr "代幣。"
+msgstr "令牌。"
 
 msgid "OPENBETA_DAILY_BONUS_WIN"
 msgstr "收到一天內 {number} 場勝利獎勵:"
