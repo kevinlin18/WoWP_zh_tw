@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: World Of Tanks\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2010-06-01 10:00+0300\n"
-"Last-Translator: i_maliavko <i_maliavko@wargaming.net>\n"
+"Last-Translator: kevinlin18 <https://github.com/kevinlin18/WoWP_zh_tw>\n"
 "Language-Team: WoT Team <noreply@wargaming.net>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
@@ -76,7 +76,7 @@ msgid "COMPONENT_NAME_LABEL_INSTALLATION"
 msgstr "安裝："
 
 msgid "COMPONENT_NAME_LABEL_MAINTENANSE_EXPENSES"
-msgstr "維護："
+msgstr "後勤："
 
 msgid "COMPONENT_NAME_LABEL_PENALTY"
 msgstr "處罰："
@@ -163,25 +163,25 @@ msgid "DISCONNECT/#SYSTEM_MESSAGES:CONNECTION_LOST"
 msgstr "和伺服器中斷連線"
 
 msgid "DISCONNECT/#SYSTEM_MESSAGES:LOGIN_TO_OTHER_GAME_UNKNOWN"
-msgstr "當前遊戲中斷。您的帳號被用於登入其他遊戲。"
+msgstr "目前遊戲中斷。您的帳號被用於登入其他遊戲。"
 
 msgid "DISCONNECT/#SYSTEM_MESSAGES:LOGIN_TO_OTHER_GAME_WEB"
 msgstr "遊戲中斷，與伺服器的連結已斷開"
 
 msgid "DISCONNECT/#SYSTEM_MESSAGES:LOGIN_TO_OTHER_GAME_WOT"
-msgstr "當前遊戲中斷。您的帳號被用於登入戰車世界。"
+msgstr "目前遊戲中斷。您的帳號被用於登入戰車世界。"
 
 msgid "DISCONNECT/#SYSTEM_MESSAGES:LOGIN_TO_OTHER_GAME_WOTBLITZ"
-msgstr "當前遊戲中斷。您的帳號被用於登入戰車世界：閃擊戰。"
+msgstr "目前遊戲中斷。您的帳號被用於登入戰車世界：閃擊戰。"
 
 msgid "DISCONNECT/#SYSTEM_MESSAGES:LOGIN_TO_OTHER_GAME_WOTG"
-msgstr "當前遊戲中斷。您的帳號被用於登入戰車世界：將軍。"
+msgstr "目前遊戲中斷。您的帳號被用於登入戰車世界：將軍。"
 
 msgid "DISCONNECT/#SYSTEM_MESSAGES:LOGIN_TO_OTHER_GAME_WOWS"
-msgstr "當前遊戲中斷。您的帳號被用於登入戰艦世界。"
+msgstr "目前遊戲中斷。您的帳號被用於登入戰艦世界。"
 
 msgid "DISCONNECT/#SYSTEM_MESSAGES:LOGIN_TO_OTHER_GAME_WWP"
-msgstr "當前遊戲中斷。您的帳號被用於登入戰機世界。"
+msgstr "目前遊戲中斷。您的帳號被用於登入戰機世界。"
 
 msgid "DISCONNECT/#SYSTEM_MESSAGES:SERVER_REBOOTING"
 msgstr "伺服器重新啟動中…請稍後…"
@@ -193,7 +193,7 @@ msgid "DISCONNECT/#SYSTEM_MESSAGES:SERVER_SHUT_DOWN"
 msgstr "重新啟動遊戲伺服器..."
 
 msgid "DISCONNECT/#SYSTEM_MESSAGES:SESSION_TRACKER_KICK"
-msgstr "您的帳號已登入戰爭三部曲中的另外一個遊戲，當前遊戲已退出。"
+msgstr "您的帳號已登入戰爭三部曲中的另外一個遊戲，目前遊戲已退出。"
 
 msgid "DISCONNECT/BAN"
 msgstr "帳號未啟動，請前往官網啟動帳號後登入遊戲"
@@ -231,7 +231,7 @@ msgid "LOBBY_BUBBLE_GOLD_EXCHANGE_SUCCESFULL"
 msgstr "金幣兌換成功"
 
 msgid "LOBBY_BUBBLE_TOKENS_EXCHANGE_SUCCESFULL"
-msgstr "代幣兌換成功。"
+msgstr "令牌兌換成功。"
 
 msgid "LOBBY_HEADER_AMMO_REFILL"
 msgstr "補充彈藥:"
@@ -264,7 +264,7 @@ msgid "LOBBY_HEADER_DRAW"
 msgstr "平局 {aircraft}!"
 
 msgid "LOBBY_HEADER_HELLO"
-msgstr "尊敬的"
+msgstr "親愛的"
 
 msgid "LOBBY_HEADER_INVESTIGATED"
 msgstr "研發："
@@ -375,7 +375,7 @@ msgid "LOBBY_MSG_DESTROYED_TEAM_OBJECTS"
 msgstr "擊毀目標"
 
 msgid "LOBBY_MSG_DESTROYED_TURRENTS"
-msgstr "摧毀防空砲"
+msgstr "摧毀高射砲"
 
 msgid "LOBBY_MSG_DETECTED_AIRCRAFT"
 msgstr "發現戰機"
@@ -525,7 +525,7 @@ msgid "MESSAGE_TYPE_POPUP_LOBBY_GOLD_RECEIVED"
 msgstr "收到金幣"
 
 msgid "MESSAGE_TYPE_POPUP_LOBBY_TOKENS_RECEIVED"
-msgstr "獲得代幣"
+msgstr "獲得令牌"
 
 msgid "MESSAGE_WING_DESTROYED"
 msgstr "編隊被取消:改玩家另一個編隊中的一員"
@@ -597,7 +597,7 @@ msgid "OPENBETA_DAILY_BONUS_GROUND_TARGET_DESTROYED_NUMBER_9"
 msgstr "9"
 
 msgid "OPENBETA_DAILY_BONUS_LABEL_TOKENS"
-msgstr "代幣。"
+msgstr "令牌。"
 
 msgid "OPENBETA_DAILY_BONUS_WIN"
 msgstr "收到一天內 {number} 場勝利獎勵:"
@@ -735,7 +735,7 @@ msgid "SYSTEM_MESSAGE_CAMO_EXPIRES_IN"
 msgstr "塗裝到期"
 
 msgid "SYSTEM_MESSAGE_CAMO_PLANE"
-msgstr "{plane_name} 個性化塗裝方案"
+msgstr "{plane_name} 個人化塗裝方案"
 
 msgid "SYSTEM_MESSAGE_CHOOSE_HANGAR_HOLIDAY"
 msgstr "更改"
@@ -881,7 +881,7 @@ msgid "SYSTEM_MESSAGE_QUESTS_SEVERAL_COMPLETED"
 msgstr "任務完成:"
 
 msgid "SYSTEM_MESSAGE_WING_BATTLE_ERROR_TEXT"
-msgstr "進入戰鬥失敗。請選擇另外一架戰機或者是重新創建編隊。"
+msgstr "進入戰鬥失敗。請選擇另外一架戰機或者是重新建立編隊。"
 
 msgid "SYSTEM_MESSAGE_WING_BUTTON_ACCEPT_INVITATION"
 msgstr "接受"
@@ -929,86 +929,108 @@ msgid "WING_MESSAGE_YOU_DONT_CAN_INVITE_OFFLINE_PLAYER"
 msgstr "你不能邀請一個離線的玩家加入編隊。"
 
 msgid "MESSAGES_BONUS_GOLD_NY"
-msgstr "Gold bonus:"
+msgstr "金幣加成:"
 
+#, fuzzy
 msgid "MESSAGES_CONGRATULATION_YOU_CAN_GET_PLANE"
 msgstr "Congratulations! You can claim your aircraft."
 
+#, fuzzy
 msgid "MESSAGES_DIRECTIVE_ACTIVATED"
 msgstr "Operation Order Activated"
 
+#, fuzzy
 msgid "MESSAGES_DIRECTIVE_DEACTIVATED"
 msgstr "Operation Order Deactivated"
 
+#, fuzzy
 msgid "MESSAGES_DIRECTIVE_DEDUCT"
 msgstr "Operation order removed."
 
+#, fuzzy
 msgid "MESSAGES_DIRECTIVE_IN_INVENTORY"
 msgstr "Operation order is available in the Inventory."
 
+#, fuzzy
 msgid "MESSAGES_DIRECTIVE_PURCHASED"
 msgstr "Operation order purchased."
 
+#, fuzzy
 msgid "MESSAGES_DIRECTIVE_RECEIVED"
 msgstr "Operation Order Added to Your Account"
 
+#, fuzzy
 msgid "MESSAGES_DIRECTIVE_SOLD"
 msgstr "Operation order sold."
 
+#, fuzzy
 msgid "MESSAGES_EXCLUSIVE_CAMO"
 msgstr "Unique paint scheme"
 
+#, fuzzy
 msgid "MESSAGES_EXCLUSIVE_EMBLEM"
 msgstr "Unique emblem"
 
+#, fuzzy
 msgid "MESSAGES_NEW_QUESTS_AVAILABLE"
 msgstr "New missions are available."
 
+#, fuzzy
 msgid "MESSAGES_PROGRESS_QUESTS_RESET"
 msgstr "任務進度重置。"
 
+#, fuzzy
 msgid "MESSAGES_RECIEVED_ACHIEVEMENT_WG_FEST"
 msgstr ""
 "На память о посещении фестиваля WG Fest вы получаете уникальный памятный "
 "знак."
 
+#, fuzzy
 msgid "MESSAGES_RECIEVED_GIFT_SECRET_SANTA"
 msgstr ""
 "{username}, happy holidays! You have received a <font color='#color'>gift</"
 "font>!"
 
+#, fuzzy
 msgid "MESSAGES_SECRET_SANTA_2017"
 msgstr "Santa's Bag"
 
+#, fuzzy
 msgid "MESSAGES_SECRET_SANTA_COMPENSATION"
 msgstr ""
 "Pilot! <font color='#'>Santa's bag</font> has been opened. All presents "
 "found have been added to your account."
 
+#, fuzzy
 msgid "MESSAGES_SETUP_MODULES"
 msgstr "Mount Modules"
 
 msgid "MESSAGE_ACHIEVEMENT"
-msgstr "Achievement:"
+msgstr "成就:"
 
+#, fuzzy
 msgid "SYSTEM_MESSAGE_ALBION_EVENT_BEGAN"
 msgstr "The <font color='#{color}'>Skies of Albion</font> event is underway!"
 
+#, fuzzy
 msgid "SYSTEM_MESSAGE_ALBION_EVENT_END"
 msgstr "The <font color='#{color}'>Skies of Albion</font> event is over!"
 
+#, fuzzy
 msgid "SYSTEM_MESSAGE_COMPENSATION_TROPHY_ALBION_OPERATION_OFF"
 msgstr ""
 "Loot crates that you did not open during the <font color='#'>Skies of "
 "Albion</font> event have been opened automatically. All prizes from the loot "
 "crates have been added to your account."
 
+#, fuzzy
 msgid "SYSTEM_MESSAGE_COMPENSATION_TROPHY_JA_TR_OFF"
 msgstr ""
 "Loot crates that you did not open during the <font color='#{color}'>"
 "\"Japanese Threat\"</font> event have been opened automatically. All prizes "
 "from the loot crates have been added to your account."
 
+#, fuzzy
 msgid "SYSTEM_MESSAGE_COMPENSATION_TROPHY_NO_CAMP_OFF"
 msgstr ""
 "Loot crates that you did not open during the <font color='#{color}'>Battle "
@@ -1016,56 +1038,67 @@ msgstr ""
 "from the loot crates have been added to your account."
 
 msgid "SYSTEM_MESSAGE_CONTEXT_INCLUDING"
-msgstr "Including:"
+msgstr "包含:"
 
+#, fuzzy
 msgid "SYSTEM_MESSAGE_DISMISS_CREW"
 msgstr "Dismiss"
 
 msgid "SYSTEM_MESSAGE_FAST_TRAINING_OFF"
-msgstr "組員訓練加速已關閉"
+msgstr "乘員訓練加速已關閉"
 
 msgid "SYSTEM_MESSAGE_FAST_TRAINING_ON"
-msgstr "組員訓練加速已啟動"
+msgstr "乘員訓練加速已啟動"
 
 msgid "SYSTEM_MESSAGE_FR_EXTRA_GIFT"
-msgstr "Extra Bonus"
+msgstr "額外加成"
 
+#, fuzzy
 msgid "SYSTEM_MESSAGE_FR_PACK_SUCCESSFUL_PURCHASE"
 msgstr ""
 "Bundle of the <font color='#{color}'>{plane_name1}</font> and <font "
 "color='#{color}'>{plane_name2}</font> aircraft successfully purchased."
 
+#, fuzzy
 msgid "SYSTEM_MESSAGE_FR_PACK_UNIQUE_CAMO_EMBLEM"
 msgstr ""
 "Unique paint scheme, nose art, and emblem for the <font "
 "color='#{color}'>{plane_name1}</font> and <font "
 "color='#{color}'>{plane_name2}</font> aircraft"
 
+#, fuzzy
 msgid "SYSTEM_MESSAGE_GUNNER_DISMISS"
 msgstr "Gunner {crew_name} dismissed"
 
+#, fuzzy
 msgid "SYSTEM_MESSAGE_HEADER_PILOT"
 msgstr "Pilot!"
 
+#, fuzzy
 msgid "SYSTEM_MESSAGE_NEW_QUEST_AVAILABLE"
 msgstr "New mission available!"
 
+#, fuzzy
 msgid "SYSTEM_MESSAGE_NOW_CREW_TRAINING_FASTER"
 msgstr "Now the crew will be trained more quickly."
 
+#, fuzzy
 msgid "SYSTEM_MESSAGE_NOW_EXP_COLLECT_ON_PLANE"
 msgstr "Now experience will be allocated to the aircraft."
 
+#, fuzzy
 msgid "SYSTEM_MESSAGE_PACK_SLOT_SUCCESSFUL_PURCHASE"
 msgstr "Slots ({number}) in the Hangar successfully purchased."
 
+#, fuzzy
 msgid "SYSTEM_MESSAGE_PILOT_DISMISS"
 msgstr "Pilot {crew_name} dismissed"
 
+#, fuzzy
 msgid "SYSTEM_MESSAGE_QUEST_COMPENSATION"
 msgstr ""
 "Pilot! You have already received the \"{name}\" mission and it cannot be "
 "completed again. The mission cost has been compensated."
 
 msgid "SYSTEM_MESSAGE_TOTAL_ACCOUNT_BALANCE"
-msgstr "Total added to account:"
+msgstr "帳號一共獲得:"

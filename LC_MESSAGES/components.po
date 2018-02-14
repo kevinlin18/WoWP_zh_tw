@@ -2350,7 +2350,7 @@ msgid "PRESET_EMPTY"
 msgstr " - "
 
 msgid "PRESET_NAME_CUSTOM"
-msgstr "自定義型號"
+msgstr "自訂型號"
 
 msgid "ROCKET_DESCRIPTION"
 msgstr "火箭彈"

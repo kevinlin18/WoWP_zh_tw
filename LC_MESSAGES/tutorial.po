@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: World Of Tanks\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2010-06-01 10:00+0300\n"
-"Last-Translator: i_maliavko <i_maliavko@wargaming.net>\n"
+"Last-Translator: kevinlin18 <https://github.com/kevinlin18/WoWP_zh_tw>\n"
 "Language-Team: WoT Team <noreply@wargaming.net>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
@@ -87,7 +87,7 @@ msgid "HINT_27"
 msgstr "當飛機進入俯衝的時候，可以收小油門減速或關閉發動機。"
 
 msgid "HINT_28"
-msgstr "如果在己方基地附近發生空戰，可以將對手引到防空砲陣地上空。"
+msgstr "如果在己方基地附近發生空戰，可以將對手引到高射砲陣地上空。"
 
 msgid "HINT_29"
 msgstr "真正的王牌飛行員會知道何時進攻和脫離攻擊。"
@@ -123,7 +123,7 @@ msgstr "當敵人擊落的飛機數量領先的時候，擊毀對方地面目標
 
 msgid "HINT_37"
 msgstr ""
-"防空砲對於對方輕型戰鬥機是致命威脅，所有有時退縮到己方基地附近是明智之舉。"
+"高射砲對於對方輕型戰鬥機是致命威脅，所有有時退縮到己方基地附近是明智之舉。"
 
 msgid "HINT_38"
 msgstr "攻擊機可有效對抗地面防空火力"
@@ -160,7 +160,7 @@ msgstr ""
 "再轉向脫離。"
 
 msgid "HINT_46"
-msgstr "遠離混戰區域和使用發動機加力可以幫助重型戰鬥機規避戰鬥機的攻擊。"
+msgstr "遠離混戰區域和使用發動機增壓可以幫助重型戰鬥機規避戰鬥機的攻擊。"
 
 msgid "HINT_47"
 msgstr ""
@@ -172,7 +172,7 @@ msgstr "攜帶炸彈和火箭彈將會影響你戰機的機動性，應在進行
 
 msgid "HINT_49"
 msgstr ""
-"投放炸彈時不要飛得太低，並小心敵人的防空砲火。在扔完炸彈後你的戰機將更適宜空"
+"投放炸彈時不要飛得太低，並小心敵人的高射砲火。在扔完炸彈後你的戰機將更適宜空"
 "戰。"
 
 msgid "HINT_5"
@@ -226,7 +226,7 @@ msgid "HINT_61"
 msgstr "長時間連續射擊會使武器過熱射速下降，當武器過熱時請等待武器冷卻。"
 
 msgid "HINT_62"
-msgstr "加力會使發動機過熱，當發動機過熱，你將不能繼續加力。"
+msgstr "增壓會使發動機過熱，當發動機過熱，你將不能繼續增壓。"
 
 msgid "HINT_63"
 msgstr ""
@@ -237,7 +237,7 @@ msgid "HINT_64"
 msgstr "破壞或摧毀不同類型的敵機和地面目標後將可獲得不同數量的優勢點數"
 
 msgid "HINT_64_AA_GUN"
-msgstr "防空砲"
+msgstr "高射砲"
 
 msgid "HINT_64_ARMORED_OBJECT"
 msgstr "地面裝甲目標"
@@ -271,7 +271,7 @@ msgid "HINT_7"
 msgstr "當飛機爬升的時候，通常速度會下降。"
 
 msgid "HINT_72"
-msgstr "防空砲 (三角標記)是主要的破壞目標，請優先攻擊它們"
+msgstr "高射砲 (三角標記)是主要的破壞目標，請優先攻擊它們"
 
 msgid "HINT_8"
 msgstr "俯衝或者增大油門都可以使飛機加速。"
@@ -440,10 +440,10 @@ msgid "L1_WAYPOINT_MESSAGE1"
 msgstr "你還沒有穿過的光圈會用綠色高亮顯示"
 
 msgid "L1_WAYPOINT_MESSAGE2"
-msgstr "您成功穿過的光圈會變成灰色，黃色顯示的是您當前需要穿過的光圈。"
+msgstr "您成功穿過的光圈會變成灰色，黃色顯示的是您目前需要穿過的光圈。"
 
 msgid "L1_WAYPOINT_MESSAGE3"
-msgstr "綠色箭頭指示著當前目標的位置。"
+msgstr "綠色箭頭指示著目前目標的位置。"
 
 msgid "L1_WAYPOINT_TEXT"
 msgstr "按任意鍵繼續"
@@ -452,7 +452,7 @@ msgid "L1_WELLDONE_TEXT"
 msgstr "按任意鍵繼續"
 
 msgid "L2_ARROW_TEXT"
-msgstr "箭頭指示當前目標的位置"
+msgstr "箭頭指示目前目標的位置"
 
 msgid "L2_COMPLETE_HEADER"
 msgstr "任務2成功完成！"
@@ -595,13 +595,13 @@ msgid "L3_FOLLOW_PORTALS"
 msgstr "穿過光圈"
 
 msgid "L3_FORSAGE_COOLDOWN"
-msgstr "使用完加力後，需要等待發動機冷卻"
+msgstr "使用完增壓後，需要等待發動機冷卻"
 
 msgid "L3_FORSAGE_DESC"
-msgstr "開啟加力後可以迅速提升航速，得到更快的爬升速度"
+msgstr "開啟增壓後可以迅速提升航速，得到更快的爬升速度"
 
 msgid "L3_FORSAGE_KEY"
-msgstr "要迅速提升速度，按住加力鍵："
+msgstr "要迅速提升速度，按住增壓鍵："
 
 msgid "L3_KEEP_LOW"
 msgstr "保持飛行高度低於峽谷壁！"
@@ -634,7 +634,7 @@ msgid "L3_TOO_HIGH"
 msgstr "您飛的太高了，不利於隱蔽！"
 
 msgid "L4_AA_GUNS"
-msgstr "己方地面防空砲僅對敵機射擊"
+msgstr "己方地面高射砲僅對敵機射擊"
 
 msgid "L4_BASE_DEFEND"
 msgstr "步驟3：利用基地掩護"
@@ -896,7 +896,7 @@ msgid "TUTORIAL_LESSON_1_HEADER_AIM_AT_TARGET"
 msgstr "瞄準目標！"
 
 msgid "TUTORIAL_LESSON_1_HEADER_BOOSTER"
-msgstr "使用加力"
+msgstr "使用增壓"
 
 msgid "TUTORIAL_LESSON_1_HEADER_BORDER"
 msgstr "訓練區域在後方"
@@ -908,7 +908,7 @@ msgid "TUTORIAL_LESSON_1_HEADER_ENGINE_OVERHEAT1"
 msgstr "發動機過熱！"
 
 msgid "TUTORIAL_LESSON_1_HEADER_ENGINE_OVERHEAT2"
-msgstr "無法加力！"
+msgstr "無法增壓！"
 
 msgid "TUTORIAL_LESSON_1_HEADER_FINAL_RUN"
 msgstr "最後一擊"
@@ -1085,7 +1085,7 @@ msgid "TUTORIAL_LESSON_1_HEADER_USE_CONTROLS3"
 msgstr "使用搖桿"
 
 msgid "TUTORIAL_LESSON_1_HEADER_USE_CONTROLS4"
-msgstr "使用手柄"
+msgstr "使用手把"
 
 msgid "TUTORIAL_LESSON_1_HEADER_YAW_LEFT"
 msgstr "左偏轉"
@@ -1103,7 +1103,7 @@ msgid "TUTORIAL_LESSON_1_LOADER_FIRE"
 msgstr "開火"
 
 msgid "TUTORIAL_LESSON_1_LOADER_FORSAGE"
-msgstr "加力"
+msgstr "增壓"
 
 msgid "TUTORIAL_LESSON_1_LOADER_HEADER"
 msgstr "歡迎進行射擊訓練！"
@@ -1115,10 +1115,10 @@ msgid "TUTORIAL_LESSON_1_MESSAGE_BORDER"
 msgstr "如果你飛出訓練區域，你會回到起點"
 
 msgid "TUTORIAL_LESSON_1_MESSAGE_ENGINE_OVERHEAT1"
-msgstr "長時間的加力會使你的發動機過熱"
+msgstr "長時間的增壓會使你的發動機過熱"
 
 msgid "TUTORIAL_LESSON_1_MESSAGE_ENGINE_OVERHEAT2"
-msgstr "發動機過熱，無法加力！"
+msgstr "發動機過熱，無法增壓！"
 
 msgid "TUTORIAL_LESSON_1_MESSAGE_FINAL_RUN"
 msgstr "快！距離終點只差一點點了！"
@@ -1142,7 +1142,7 @@ msgid "TUTORIAL_LESSON_1_MESSAGE_FIRST_AERO"
 msgstr "破壞標記氣球（1/2）"
 
 msgid "TUTORIAL_LESSON_1_MESSAGE_FORSAGE"
-msgstr "使用加力提高飛行速度！"
+msgstr "使用增壓提高飛行速度！"
 
 msgid "TUTORIAL_LESSON_1_MESSAGE_GOING_DOWN"
 msgstr "要下降並獲得飛行速度，讓飛機向下俯衝。"
@@ -1218,7 +1218,7 @@ msgid "TUTORIAL_LESSON_1_MESSAGE_SECOND_AERO"
 msgstr "破壞標記氣球（2/2）"
 
 msgid "TUTORIAL_LESSON_1_MESSAGE_SPEED_UP"
-msgstr "用加力提高飛行速度並超越你的對手！"
+msgstr "用增壓提高飛行速度並超越你的對手！"
 
 msgid "TUTORIAL_LESSON_1_MESSAGE_START1"
 msgstr "歡迎開始您的飛行訓練！"
@@ -1290,7 +1290,7 @@ msgid "TUTORIAL_LESSON_1_MESSAGE_USE_CONTROLS3"
 msgstr "使用搖桿來控制戰機，你可在設定中切換控制方式"
 
 msgid "TUTORIAL_LESSON_1_MESSAGE_USE_CONTROLS4"
-msgstr "使用手柄來控制戰機，你可在設定中切換控制方式"
+msgstr "使用手把來控制戰機，你可在設定中切換控制方式"
 
 msgid "TUTORIAL_LESSON_1_NAME_CAPS"
 msgstr "飛行訓練"
@@ -1566,7 +1566,7 @@ msgid "TUTORIAL_LESSON_3_HEADER_STAGE_COMPELTE_02"
 msgstr "第一階段已完成！"
 
 msgid "TUTORIAL_LESSON_3_HEADER_TURRETS"
-msgstr "警告！注意防空砲火！"
+msgstr "警告！注意高射砲火！"
 
 msgid "TUTORIAL_LESSON_3_HEADER_USE_BOMBS"
 msgstr "使用炸彈摧毀目標"
@@ -1677,7 +1677,7 @@ msgid "TUTORIAL_LESSON_3_MESSAGE_RELOAD_ROCKETS"
 msgstr "火箭彈在戰鬥中有數量限制，在戰鬥結束後需進行補給"
 
 msgid "TUTORIAL_LESSON_3_MESSAGE_TURRETS"
-msgstr "有些敵方地面目標配有防空砲，會向你的戰機進行射擊"
+msgstr "有些敵方地面目標配有高射砲，會向你的戰機進行射擊"
 
 msgid "TUTORIAL_LESSON_3_MESSAGE_USE_BOMBS"
 msgstr "你的任務是使用炸彈摧毀目標"
@@ -1879,4 +1879,4 @@ msgid "TUTORIAL_TOKENS"
 msgstr "令牌"
 
 msgid "LOBBY_TUTORIAL_UNAVAILABLE_GO_TO_STANDART_BATTLE"
-msgstr "Unavailable. Win a Standard battle."
+msgstr "無法使用。在標準戰鬥中獲得勝利吧。"

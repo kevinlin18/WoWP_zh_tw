@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: World Of Tanks\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2010-06-01 10:00+0300\n"
-"Last-Translator: i_maliavko <i_maliavko@wargaming.net>\n"
+"Last-Translator: kevinlin18 <https://github.com/kevinlin18/WoWP_zh_tw>\n"
 "Language-Team: WoT Team <noreply@wargaming.net>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
@@ -115,7 +115,7 @@ msgid "OBJECT_NAME_BOATS"
 msgstr "小型船隻"
 
 msgid "OBJECT_NAME_CANNON"
-msgstr "防空砲"
+msgstr "高射砲"
 
 msgid "OBJECT_NAME_CONVOY"
 msgstr "地面部隊"
@@ -184,16 +184,16 @@ msgid "OBJECT_NAME_TRUCKS"
 msgstr "貨車"
 
 msgid "OBJECT_NAME_TURRET1"
-msgstr "防空砲"
+msgstr "高射砲"
 
 msgid "OBJECT_NAME_TURRET_13MM"
-msgstr "防空砲"
+msgstr "高射砲"
 
 msgid "OBJECT_NAME_TURRET_20MM"
-msgstr "防空砲"
+msgstr "高射砲"
 
 msgid "OBJECT_NAME_TURRET_7MM"
-msgstr "防空砲"
+msgstr "高射砲"
 
 msgid "OBJECT_NAME_TURRET_AA"
 msgstr "高射砲"
@@ -316,222 +316,295 @@ msgstr ""
 "的儲備物資沿江運往縱深防禦陣地，而另一方則要鞏固自己的戰線並從冰原方向包抄敵"
 "人。"
 
+#, fuzzy
 msgid "MAP_CAPS_NAME_HUD_ADRIATIC"
 msgstr "ROAD TO ROME:"
 
+#, fuzzy
 msgid "MAP_CAPS_NAME_HUD_ARCTIC"
 msgstr "PERIPHERAL MISSION:"
 
+#, fuzzy
 msgid "MAP_CAPS_NAME_HUD_ASIAN_BORDER"
 msgstr "ASIAN BORDER:"
 
+#, fuzzy
 msgid "MAP_CAPS_NAME_HUD_EL_HALLOUF"
 msgstr "SCORCHING SANDS:"
 
+#, fuzzy
 msgid "MAP_CAPS_NAME_HUD_FJORDS"
 msgstr "NORTHERN BRIDGEHEAD:"
 
+#, fuzzy
 msgid "MAP_CAPS_NAME_HUD_FORTRES"
 msgstr "OLD FORTRESS:"
 
+#, fuzzy
 msgid "MAP_CAPS_NAME_HUD_HARBOR"
 msgstr "SEA GATE:"
 
+#, fuzzy
 msgid "MAP_CAPS_NAME_HUD_OBSERVATORY"
 msgstr "ALPINE GAMBIT:"
 
+#, fuzzy
 msgid "MAP_CAPS_NAME_HUD_OCEAN"
 msgstr "ARCHIPELAGO:"
 
+#, fuzzy
 msgid "MAP_CAPS_NAME_HUD_PLATEAU"
 msgstr "PLATEAU:"
 
+#, fuzzy
 msgid "MAP_CAPS_SUBNAME_09_ARCTIC_1"
 msgstr "SILENCE OF ICE"
 
+#, fuzzy
 msgid "MAP_CAPS_SUBNAME_09_ARCTIC_2"
 msgstr "SHOCK WAVE"
 
+#, fuzzy
 msgid "MAP_CAPS_SUBNAME_09_ARCTIC_3"
 msgstr "HARSH TIMES"
 
+#, fuzzy
 msgid "MAP_CAPS_SUBNAME_09_ARCTIC_4"
 msgstr "PERIMETER"
 
+#, fuzzy
 msgid "MAP_CAPS_SUBNAME_09_ARCTIC_5"
 msgstr "FOREIGN LAND"
 
+#, fuzzy
 msgid "MAP_CAPS_SUBNAME_09_ARCTIC_6"
 msgstr "SNOWY SHORE"
 
+#, fuzzy
 msgid "MAP_CAPS_SUBNAME_09_ARCTIC_7_ADD"
 msgstr "COLD REALITY"
 
+#, fuzzy
 msgid "MAP_CAPS_SUBNAME_12_FJORDS_2"
 msgstr "POLARIS"
 
+#, fuzzy
 msgid "MAP_CAPS_SUBNAME_12_FJORDS_3"
 msgstr "BREAKTHROUGH"
 
+#, fuzzy
 msgid "MAP_CAPS_SUBNAME_12_FJORDS_4"
 msgstr "COLD SKIES"
 
+#, fuzzy
 msgid "MAP_CAPS_SUBNAME_12_FJORDS_5"
 msgstr "VALHALLA"
 
+#, fuzzy
 msgid "MAP_CAPS_SUBNAME_12_FJORDS_6"
 msgstr "ATONEMENT"
 
+#, fuzzy
 msgid "MAP_CAPS_SUBNAME_12_FJORDS_7"
 msgstr "DEAFENING SILENCE"
 
+#, fuzzy
 msgid "MAP_CAPS_SUBNAME_12_FJORDS_8"
 msgstr "BIRDS OF PREY"
 
+#, fuzzy
 msgid "MAP_CAPS_SUBNAME_12_FJORDS_9_ADD"
 msgstr "STEEL AVALANCHE"
 
+#, fuzzy
 msgid "MAP_CAPS_SUBNAME_13_HARBOR"
 msgstr "BATTLE FOR PORT"
 
+#, fuzzy
 msgid "MAP_CAPS_SUBNAME_13_HARBOR_3"
 msgstr "SIEGE"
 
+#, fuzzy
 msgid "MAP_CAPS_SUBNAME_13_HARBOR_4"
 msgstr "COUNTERATTACK"
 
+#, fuzzy
 msgid "MAP_CAPS_SUBNAME_14_ADRIATIC_1"
 msgstr "CALL OF DUTY"
 
+#, fuzzy
 msgid "MAP_CAPS_SUBNAME_14_ADRIATIC_2"
 msgstr "CONFRONTATION"
 
+#, fuzzy
 msgid "MAP_CAPS_SUBNAME_14_ADRIATIC_4"
 msgstr "OUTPOST"
 
+#, fuzzy
 msgid "MAP_CAPS_SUBNAME_14_ADRIATIC_5"
 msgstr "BREAKTHROUGH"
 
+#, fuzzy
 msgid "MAP_CAPS_SUBNAME_14_ADRIATIC_6"
 msgstr "ASCENSION"
 
+#, fuzzy
 msgid "MAP_CAPS_SUBNAME_14_ADRIATIC_7"
 msgstr "TRAP"
 
+#, fuzzy
 msgid "MAP_CAPS_SUBNAME_14_ADRIATIC_8_ADD"
 msgstr "OFFENSIVE"
 
+#, fuzzy
 msgid "MAP_CAPS_SUBNAME_55_EL_HALLOUF_1"
 msgstr "LEADING EDGE"
 
+#, fuzzy
 msgid "MAP_CAPS_SUBNAME_55_EL_HALLOUF_2"
 msgstr "DECISIVE HOUR"
 
+#, fuzzy
 msgid "MAP_CAPS_SUBNAME_55_EL_HALLOUF_4"
 msgstr "DESERT WIND"
 
+#, fuzzy
 msgid "MAP_CAPS_SUBNAME_55_EL_HALLOUF_5"
 msgstr "INVASION"
 
+#, fuzzy
 msgid "MAP_CAPS_SUBNAME_55_EL_HALLOUF_8"
 msgstr "EDGE OF THE WORLD"
 
+#, fuzzy
 msgid "MAP_CAPS_SUBNAME_55_EL_HALLOUF_9_ADD"
 msgstr "ANCIENT RIVER"
 
+#, fuzzy
 msgid "MAP_CAPS_SUBNAME_62_ASIAN_BORDER_1"
 msgstr "CONFRONTATION"
 
+#, fuzzy
 msgid "MAP_CAPS_SUBNAME_62_ASIAN_BORDER_10_ADD"
 msgstr "EMERALD RIDGE"
 
+#, fuzzy
 msgid "MAP_CAPS_SUBNAME_62_ASIAN_BORDER_2"
 msgstr "SURPRISE EFFECT"
 
+#, fuzzy
 msgid "MAP_CAPS_SUBNAME_62_ASIAN_BORDER_4"
 msgstr "EMERALD RIDGE"
 
+#, fuzzy
 msgid "MAP_CAPS_SUBNAME_62_ASIAN_BORDER_6"
 msgstr "FRONT LINE"
 
+#, fuzzy
 msgid "MAP_CAPS_SUBNAME_62_ASIAN_BORDER_8"
 msgstr "POINT OF NO RETURN"
 
+#, fuzzy
 msgid "MAP_CAPS_SUBNAME_62_ASIAN_BORDER_9"
 msgstr "PREVENTIVE MEASURES"
 
+#, fuzzy
 msgid "MAP_CAPS_SUBNAME_69_OCEAN_1"
 msgstr "DECISIVE BLOW"
 
+#, fuzzy
 msgid "MAP_CAPS_SUBNAME_69_OCEAN_2"
 msgstr "STUMBLING BLOCK"
 
+#, fuzzy
 msgid "MAP_CAPS_SUBNAME_69_OCEAN_3"
 msgstr "RETALIATION"
 
+#, fuzzy
 msgid "MAP_CAPS_SUBNAME_69_OCEAN_4"
 msgstr "RECONNAISSANCE BY FIRE"
 
+#, fuzzy
 msgid "MAP_CAPS_SUBNAME_69_OCEAN_5_ADD"
 msgstr "PEARL ISLANDS"
 
+#, fuzzy
 msgid "MAP_CAPS_SUBNAME_73_OBSERVATORY"
 msgstr "SNOW AND ASHES"
 
+#, fuzzy
 msgid "MAP_CAPS_SUBNAME_73_OBSERVATORY_11_ADD"
 msgstr "EXPANSION"
 
+#, fuzzy
 msgid "MAP_CAPS_SUBNAME_73_OBSERVATORY_2"
 msgstr "FOREIGN LAND"
 
+#, fuzzy
 msgid "MAP_CAPS_SUBNAME_73_OBSERVATORY_3"
 msgstr "VERTICAL"
 
+#, fuzzy
 msgid "MAP_CAPS_SUBNAME_73_OBSERVATORY_4"
 msgstr "COLLISION"
 
+#, fuzzy
 msgid "MAP_CAPS_SUBNAME_73_OBSERVATORY_5"
 msgstr "DAY OF RECKONING"
 
+#, fuzzy
 msgid "MAP_CAPS_SUBNAME_73_OBSERVATORY_6"
 msgstr "NARROW PASS"
 
+#, fuzzy
 msgid "MAP_CAPS_SUBNAME_73_OBSERVATORY_7"
 msgstr "MOMENT OF TRUTH"
 
+#, fuzzy
 msgid "MAP_CAPS_SUBNAME_73_OBSERVATORY_8"
 msgstr "EDELWEISS"
 
+#, fuzzy
 msgid "MAP_CAPS_SUBNAME_75_FORTRESS_2"
 msgstr "FLANKING MANEUVER"
 
+#, fuzzy
 msgid "MAP_CAPS_SUBNAME_75_FORTRESS_4"
 msgstr "DANGER ZONE"
 
+#, fuzzy
 msgid "MAP_CAPS_SUBNAME_75_FORTRES_3"
 msgstr "ENEMY AT THE GATES"
 
+#, fuzzy
 msgid "MAP_CAPS_SUBNAME_76_PLATEAU_2"
 msgstr "BLAZING SKY"
 
+#, fuzzy
 msgid "MAP_CAPS_SUBNAME_76_PLATEAU_3"
 msgstr "DECISIVE HOUR"
 
+#, fuzzy
 msgid "MAP_CAPS_SUBNAME_76_PLATEAU_4"
 msgstr "TURNING POINT"
 
+#, fuzzy
 msgid "MAP_CAPS_SUBNAME_76_PLATEAU_5"
 msgstr "WEAPON OF REVENGE"
 
+#, fuzzy
 msgid "MAP_CAPS_SUBNAME_76_PLATEAU_6"
 msgstr "COLLISION"
 
+#, fuzzy
 msgid "MAP_CAPS_SUBNAME_76_PLATEAU_7_ADD"
 msgstr "GORDIAN KNOT"
 
+#, fuzzy
 msgid "MAP_CAPS_SUBNAME_77_FORTRESS_2"
 msgstr "DAY OF RECKONING"
 
+#, fuzzy
 msgid "MAP_HUD_DESCRIPTION_09_ARCTIC_1"
 msgstr ""
 "An industrial enclave hidden on the unassailable icy shore will be a "
@@ -540,6 +613,7 @@ msgstr ""
 "shore are protected by garrisons, and the airspace is patrolled by air "
 "forces from the airfield located in the valley."
 
+#, fuzzy
 msgid "MAP_HUD_DESCRIPTION_09_ARCTIC_2"
 msgstr ""
 "A forward airstrip on the Greenland coast can become a foothold for "
@@ -549,6 +623,7 @@ msgstr ""
 "a matter of hours: the military bases in the foothills should not have time "
 "to deploy a counterattack."
 
+#, fuzzy
 msgid "MAP_HUD_DESCRIPTION_09_ARCTIC_3"
 msgstr ""
 "According to the aerial photographic report, the enemy has significantly "
@@ -558,6 +633,7 @@ msgstr ""
 "the harbor and mountain ridge. This provides a chance to capture a foothold "
 "using a surprise attack."
 
+#, fuzzy
 msgid "MAP_HUD_DESCRIPTION_09_ARCTIC_4"
 msgstr ""
 "A successful operation has allowed us to capture an airbase located in the "
@@ -567,6 +643,7 @@ msgstr ""
 "launching systems. This immobilizes the corps and places our supply by sea "
 "under threat. The enemy positions must be destroyed or captured immediately."
 
+#, fuzzy
 msgid "MAP_HUD_DESCRIPTION_09_ARCTIC_5"
 msgstr ""
 "Large military industrial facilities on the shore of Greenland are one of "
@@ -576,6 +653,7 @@ msgstr ""
 "the last resort is to destroy the industrial facilities and main military "
 "objects."
 
+#, fuzzy
 msgid "MAP_HUD_DESCRIPTION_09_ARCTIC_6"
 msgstr ""
 "The northern foothold of the enemy poses an extreme danger. A powerful "
@@ -585,6 +663,7 @@ msgstr ""
 "landing. Deep-penetration raids by bombers contain the advance of the "
 "allies. This airbase must be captured at any cost!"
 
+#, fuzzy
 msgid "MAP_HUD_DESCRIPTION_09_ARCTIC_7_ADD"
 msgstr ""
 "The wheels of the thoroughly planned operation aimed at the breakthrough and "
@@ -593,6 +672,7 @@ msgstr ""
 "morning has successfully reached the Greenland coast and is taking advantage "
 "of the surprise assault, attacking the scrambled air force."
 
+#, fuzzy
 msgid "MAP_HUD_DESCRIPTION_12_FJORDS"
 msgstr ""
 "The success of the Norway operation could put an end to the long-running "
@@ -601,6 +681,7 @@ msgstr ""
 "and became the main point of interest for both opposing parties. Its prompt "
 "capture could yield significant tactical benefits over the enemy."
 
+#, fuzzy
 msgid "MAP_HUD_DESCRIPTION_12_FJORDS_2"
 msgstr ""
 "Continued air combat in the Trondheim district raged on. Full-scale "
@@ -610,6 +691,7 @@ msgstr ""
 "reconstructed. This time the battle unfolded for control over the only "
 "surviving industrial complex."
 
+#, fuzzy
 msgid "MAP_HUD_DESCRIPTION_12_FJORDS_3"
 msgstr ""
 "By the end of July, our troops made another attempt to take control of the "
@@ -618,6 +700,7 @@ msgstr ""
 "focus on capturing the fortified military base. Neither of these options "
 "were a guaranteed success, but both could grant victory."
 
+#, fuzzy
 msgid "MAP_HUD_DESCRIPTION_12_FJORDS_4"
 msgstr ""
 "Advancement of the force through the ice-covered fjords slowed down after "
@@ -627,6 +710,7 @@ msgstr ""
 "necessary to ensure an air safety corridor by taking control of the command "
 "center in the north and to consolidate in the forward airstrip in the hollow."
 
+#, fuzzy
 msgid "MAP_HUD_DESCRIPTION_12_FJORDS_5"
 msgstr ""
 "Unable to hold the industrial complexes deep in the Norwegian fjords, the "
@@ -637,6 +721,7 @@ msgstr ""
 "equipped with rocket launchers and a command center coordinating the bombing "
 "raids."
 
+#, fuzzy
 msgid "MAP_HUD_DESCRIPTION_12_FJORDS_6"
 msgstr ""
 "Many days of fighting exhausted the forces of both sides, but the expected "
@@ -646,6 +731,7 @@ msgstr ""
 "command center in the mountains, which will allow coordinating operational "
 "flights deep into the enemy rear."
 
+#, fuzzy
 msgid "MAP_HUD_DESCRIPTION_12_FJORDS_7"
 msgstr ""
 "Thanks to the recently achieved results, the advance is gaining pace again. "
@@ -656,6 +742,7 @@ msgstr ""
 "resupply resources as well as accommodate a significant part of the machines "
 "and military personnel."
 
+#, fuzzy
 msgid "MAP_HUD_DESCRIPTION_12_FJORDS_8"
 msgstr ""
 "After regrouping, repairing their machines, and bringing up supply reserves, "
@@ -666,6 +753,7 @@ msgstr ""
 "enemy force in half, forcing them out to the sea in the north and the "
 "mountain ridge in the south."
 
+#, fuzzy
 msgid "MAP_HUD_DESCRIPTION_12_FJORDS_9_ADD"
 msgstr ""
 "Difficult weather conditions and logistic problems do not allow the "
@@ -675,6 +763,7 @@ msgstr ""
 "resistance, achieve air superiority, and take control of the industrial "
 "facilities."
 
+#, fuzzy
 msgid "MAP_HUD_DESCRIPTION_13_HARBOR"
 msgstr ""
 "According to intelligence reports, a large enemy naval force is approaching "
@@ -684,6 +773,7 @@ msgstr ""
 "depot located at the port by neutralizing the enemy air force and repelling "
 "the attack."
 
+#, fuzzy
 msgid "MAP_HUD_DESCRIPTION_13_HARBOR_3"
 msgstr ""
 "The enemy fleet blocked the exit from the harbor where several battleships "
@@ -693,6 +783,7 @@ msgstr ""
 "located near the port by taking advantage of the forward airstrips at the "
 "coast."
 
+#, fuzzy
 msgid "MAP_HUD_DESCRIPTION_13_HARBOR_4"
 msgstr ""
 "Several minutes ago, enemy ships shelled the port and as a result completely "
@@ -702,6 +793,7 @@ msgstr ""
 "advantage.<br>You need to take control over the surviving ground targets and "
 "achieve decisive superiority in the air."
 
+#, fuzzy
 msgid "MAP_HUD_DESCRIPTION_14_ADRIATIC_1"
 msgstr ""
 "The foothold on the Italian coast is vitally important for an advance to the "
@@ -710,6 +802,7 @@ msgstr ""
 "providing support both in ground operations and patrolling numerous islands "
 "and straits."
 
+#, fuzzy
 msgid "MAP_HUD_DESCRIPTION_14_ADRIATIC_2"
 msgstr ""
 "During the tough battles for control over the mining complex, a significant "
@@ -719,6 +812,7 @@ msgstr ""
 "put the airbase on the plateau into operation. Our mission is to capture it, "
 "cutting off the enemy from their reinforcements."
 
+#, fuzzy
 msgid "MAP_HUD_DESCRIPTION_14_ADRIATIC_4"
 msgstr ""
 "The breakthrough of the ground forces across the mountain passes leading to "
@@ -727,6 +821,7 @@ msgstr ""
 "this enclave will allow the allied force to redeploy the troops from "
 "continental Europe and take control of Italy."
 
+#, fuzzy
 msgid "MAP_HUD_DESCRIPTION_14_ADRIATIC_5"
 msgstr ""
 "The advance of the allied force deep into Italy is complicated by permanent "
@@ -735,6 +830,7 @@ msgstr ""
 "is required. The combat group's mission is to capture the airbase on the "
 "eastern coast, consolidate, and prepare for raids on the frontline."
 
+#, fuzzy
 msgid "MAP_HUD_DESCRIPTION_14_ADRIATIC_6"
 msgstr ""
 "Breaking through to the mining complex on the Adriatic Sea coast from "
@@ -744,6 +840,7 @@ msgstr ""
 "the combat group is to attack from the sea and capture all key objects in "
 "the area."
 
+#, fuzzy
 msgid "MAP_HUD_DESCRIPTION_14_ADRIATIC_7"
 msgstr ""
 "The mining plant on the Adriatic coast supplies raw materials to enemy "
@@ -752,6 +849,7 @@ msgstr ""
 "garrisons, and the main command centers are ready to call in air cover "
 "immediately."
 
+#, fuzzy
 msgid "MAP_HUD_DESCRIPTION_14_ADRIATIC_8_ADD"
 msgstr ""
 "The well-defended enemy enclaves on the mountainous coast pose a serious "
@@ -760,6 +858,7 @@ msgstr ""
 "industrial complex and airbase protecting the complex must be taken control "
 "of or destroyed."
 
+#, fuzzy
 msgid "MAP_HUD_DESCRIPTION_55_EL_HALLOUF_1"
 msgstr ""
 "After an exchange of strikes, both forces fell back to regroup and make up "
@@ -768,6 +867,7 @@ msgstr ""
 "primary targets of their attack. Control over these airfields was supposed "
 "to contribute to a speedy capture of the industrial complex."
 
+#, fuzzy
 msgid "MAP_HUD_DESCRIPTION_55_EL_HALLOUF_2"
 msgstr ""
 "Fierce resistance from the enemy has forced command to carry out a bombing "
@@ -777,6 +877,7 @@ msgstr ""
 "will support an advance on the enemy, and to deploy a forward airstrip that "
 "will help the aircraft get closer to the frontline."
 
+#, fuzzy
 msgid "MAP_HUD_DESCRIPTION_55_EL_HALLOUF_4"
 msgstr ""
 "After the first futile battles, two opposing armies entered into trench "
@@ -785,6 +886,7 @@ msgstr ""
 "captured and held. However, the primary objective of the combat group is "
 "still to secure control over the industrial complex."
 
+#, fuzzy
 msgid "MAP_HUD_DESCRIPTION_55_EL_HALLOUF_5"
 msgstr ""
 "A small region on the fringe of the desert has become a battleground. Two "
@@ -793,9 +895,11 @@ msgstr ""
 "sides of the complex are designed to defend the region, although their "
 "development has not been completed yet."
 
+#, fuzzy
 msgid "MAP_HUD_DESCRIPTION_55_EL_HALLOUF_7"
 msgstr " "
 
+#, fuzzy
 msgid "MAP_HUD_DESCRIPTION_55_EL_HALLOUF_8"
 msgstr ""
 "The operation, during which a rapid capture of the mining complex would "
@@ -805,6 +909,7 @@ msgstr ""
 "force. The only way out is to launch an air strike and force the enemy to "
 "retreat under the hail of steel."
 
+#, fuzzy
 msgid "MAP_HUD_DESCRIPTION_55_EL_HALLOUF_9_ADD"
 msgstr ""
 "The force controlling the industrial complex has been anxiously expecting an "
@@ -813,6 +918,7 @@ msgstr ""
 "nearby. However, the massive scale of the raid has become an unpleasant "
 "surprise for the enemy bleeding from the prolonged campaign in Africa."
 
+#, fuzzy
 msgid "MAP_HUD_DESCRIPTION_62_ASIAN_BORDER_1"
 msgstr ""
 "The only possible route for deploying troops to Burma passes through the "
@@ -822,6 +928,7 @@ msgstr ""
 "strategic facilities in the valley and protect them until the main body "
 "arrives."
 
+#, fuzzy
 msgid "MAP_HUD_DESCRIPTION_62_ASIAN_BORDER_10_ADD"
 msgstr ""
 "The advance of the expeditionary corps deep into Asia has been virtually "
@@ -831,6 +938,7 @@ msgstr ""
 "enemy position and destroy their military objects, approaching them under "
 "the cover of thick fog."
 
+#, fuzzy
 msgid "MAP_HUD_DESCRIPTION_62_ASIAN_BORDER_2"
 msgstr ""
 "While storming the ridge, the advancing force has captured the manufacturing "
@@ -840,6 +948,7 @@ msgstr ""
 "landing fields in the neighborhood and is ready for a counterstrike and any "
 "enemy attempts to escape from the gorge."
 
+#, fuzzy
 msgid "MAP_HUD_DESCRIPTION_62_ASIAN_BORDER_3"
 msgstr ""
 "The fight for the valley on the Burmese border is coming to a head. The "
@@ -849,6 +958,7 @@ msgstr ""
 "capturing military bases and to take control over the regional industrial "
 "facilities with the support of captured objects."
 
+#, fuzzy
 msgid "MAP_HUD_DESCRIPTION_62_ASIAN_BORDER_4"
 msgstr ""
 "Warfare in the Burmese valley has drastically grown in size. Napalm caused "
@@ -858,6 +968,7 @@ msgstr ""
 "advance for both opposing parties is the outpost with a command center "
 "located in the river delta."
 
+#, fuzzy
 msgid "MAP_HUD_DESCRIPTION_62_ASIAN_BORDER_5"
 msgstr ""
 "The warfare in the Burmese valley drastically grew in size. Napalm caused "
@@ -866,6 +977,7 @@ msgstr ""
 "The main area of advance for both opposing parties is the outpost with a "
 "command center located in the river delta."
 
+#, fuzzy
 msgid "MAP_HUD_DESCRIPTION_62_ASIAN_BORDER_6"
 msgstr ""
 "A fierce confrontation ruined the processing facilities and fortifications "
@@ -874,9 +986,11 @@ msgstr ""
 "enemy. It has become clear that further advancement and development of the "
 "operation is impossible without destroying the command center in the gorge."
 
+#, fuzzy
 msgid "MAP_HUD_DESCRIPTION_62_ASIAN_BORDER_7"
 msgstr " "
 
+#, fuzzy
 msgid "MAP_HUD_DESCRIPTION_62_ASIAN_BORDER_8"
 msgstr ""
 "The fight for the valley on the Burmese border is coming to a head. The "
@@ -886,6 +1000,7 @@ msgstr ""
 "capturing military bases and to take control over the regional industrial "
 "facilities with the support of the captured objects."
 
+#, fuzzy
 msgid "MAP_HUD_DESCRIPTION_62_ASIAN_BORDER_9"
 msgstr ""
 "The night air raids that destroyed the military bases in the gorge gave a "
@@ -894,6 +1009,7 @@ msgstr ""
 "precarious balance has been achieved. Only a sudden strike on the enemy "
 "position where it is least expected can disrupt this balance."
 
+#, fuzzy
 msgid "MAP_HUD_DESCRIPTION_69_OCEAN"
 msgstr ""
 "Finally, it was confirmed that a supply base was located in the region, "
@@ -902,6 +1018,7 @@ msgstr ""
 "the port, while the powerful radar systems of the command centers rule out a "
 "surprise attack."
 
+#, fuzzy
 msgid "MAP_HUD_DESCRIPTION_69_OCEAN_1"
 msgstr ""
 "One of the last enclaves of the enemy has been discovered on a small island "
@@ -911,6 +1028,7 @@ msgstr ""
 "surviving staging airfield on the nearby atoll will allow for quick "
 "regrouping, and the command facilities will provide control and assistance."
 
+#, fuzzy
 msgid "MAP_HUD_DESCRIPTION_69_OCEAN_2"
 msgstr ""
 "Our first strikes reached the target: the supply base is ruined and it will "
@@ -919,6 +1037,7 @@ msgstr ""
 "control of the airbases and command centers, and then force the enemy army "
 "remnants out from the region."
 
+#, fuzzy
 msgid "MAP_HUD_DESCRIPTION_69_OCEAN_3"
 msgstr ""
 "During fierce battles for an archipelago in the Pacific Ocean, the enemy "
@@ -928,6 +1047,7 @@ msgstr ""
 "the port. By capturing and holding the command centers, the outcome could be "
 "decided."
 
+#, fuzzy
 msgid "MAP_HUD_DESCRIPTION_69_OCEAN_4"
 msgstr ""
 "Finally, it has been confirmed that a supply base is located in the region, "
@@ -936,6 +1056,7 @@ msgstr ""
 "the port, while the defending force is coordinated from specially equipped "
 "headquarters."
 
+#, fuzzy
 msgid "MAP_HUD_DESCRIPTION_69_OCEAN_5_ADD"
 msgstr ""
 "A short-lived improvement in the weather has finally allowed the combat "
@@ -944,6 +1065,7 @@ msgstr ""
 "taken the garrison by surprise, and it had time to scramble only a small "
 "number of aircraft."
 
+#, fuzzy
 msgid "MAP_HUD_DESCRIPTION_73_OBSERVATORY"
 msgstr ""
 "An unstable situation in Western Europe required urgent military "
@@ -952,6 +1074,7 @@ msgstr ""
 "cut off. The success of the first stage of the operation depended on the "
 "ability to take control of this strategically crucial part of the frontline."
 
+#, fuzzy
 msgid "MAP_HUD_DESCRIPTION_73_OBSERVATORY_1"
 msgstr ""
 "Our initial attacks were repelled, but the enemy could not hold for a long "
@@ -960,6 +1083,7 @@ msgstr ""
 "fortifications provided control over command centers hidden in the mountains "
 "and industrial areas on the river banks."
 
+#, fuzzy
 msgid "MAP_HUD_DESCRIPTION_73_OBSERVATORY_11_ADD"
 msgstr ""
 "The military campaign in Europe is gaining speed and starting to require "
@@ -969,6 +1093,7 @@ msgstr ""
 "resistance and launch as powerful a strike as possible on the production "
 "facilities."
 
+#, fuzzy
 msgid "MAP_HUD_DESCRIPTION_73_OBSERVATORY_2"
 msgstr ""
 "After consolidating on the Alpine slopes and having no opportunity to "
@@ -977,6 +1102,7 @@ msgstr ""
 "while the command centers hidden in the mountains launch bomber raids day "
 "and night. Only deep strikes into the enemy rear can disrupt this balance."
 
+#, fuzzy
 msgid "MAP_HUD_DESCRIPTION_73_OBSERVATORY_3"
 msgstr ""
 "Destruction of the garrison in the hollow has opened the way for advancement "
@@ -986,6 +1112,7 @@ msgstr ""
 "battle and leaving them without any room to maneuver by taking up tactical "
 "positions at the airbases and command centers."
 
+#, fuzzy
 msgid "MAP_HUD_DESCRIPTION_73_OBSERVATORY_4"
 msgstr ""
 "The penetration of the Alps requires a huge amount of resources, and the "
@@ -995,6 +1122,7 @@ msgstr ""
 "to consolidate in the staging airfields in the area, neutralize or capture "
 "the military base, and then take control over the industrial depot."
 
+#, fuzzy
 msgid "MAP_HUD_DESCRIPTION_73_OBSERVATORY_5"
 msgstr ""
 "Industrial complexes located in the Alpine rocks are used by the enemy for "
@@ -1003,6 +1131,7 @@ msgstr ""
 "hard blow to the enemy. The staging airfields are ready to accommodate a "
 "squadron and prepare it for penetrating the enemy defense."
 
+#, fuzzy
 msgid "MAP_HUD_DESCRIPTION_73_OBSERVATORY_6"
 msgstr ""
 "Fierce resistance from the enemy who has taken control of the military base "
@@ -1012,6 +1141,7 @@ msgstr ""
 "mission: capture the military base by any means. Be careful when engaging in "
 "combat—you will have to do so from behind the mountain range."
 
+#, fuzzy
 msgid "MAP_HUD_DESCRIPTION_73_OBSERVATORY_7"
 msgstr ""
 "The battle for the military base lasted for several days, but brought only "
@@ -1020,6 +1150,7 @@ msgstr ""
 "defend them. To take control of the industrial facilities and capture the "
 "much-needed resources, pilots will have to apply all their skills in battle."
 
+#, fuzzy
 msgid "MAP_HUD_DESCRIPTION_73_OBSERVATORY_8"
 msgstr ""
 "After many days of fighting, the enemy finally lost their fortifications in "
@@ -1029,6 +1160,7 @@ msgstr ""
 "in bombers for support. The depots in the west may store fuel that will "
 "prove useful when crossing the ridge."
 
+#, fuzzy
 msgid "MAP_HUD_DESCRIPTION_75_FORTRESS_1"
 msgstr ""
 "Successful counterattacks moved the front line back to the previously lost "
@@ -1038,6 +1170,7 @@ msgstr ""
 "at the river bend and then assist in capturing and holding the surrounding "
 "areas."
 
+#, fuzzy
 msgid "MAP_HUD_DESCRIPTION_75_FORTRESS_2"
 msgstr ""
 "The armies that fell back to regroup have replenished their supplies, "
@@ -1047,6 +1180,7 @@ msgstr ""
 "airstrip over the river will give a tactical advantage and allow us to "
 "launch air strikes on the enemy rear."
 
+#, fuzzy
 msgid "MAP_HUD_DESCRIPTION_75_FORTRESS_3"
 msgstr ""
 "In early October, two armies met in a battle for the high ground over the "
@@ -1055,6 +1189,7 @@ msgstr ""
 "Control over these areas would offer the ground forces a vantage point in "
 "the ruins of the fortress and an opportunity to consolidate the positions."
 
+#, fuzzy
 msgid "MAP_HUD_DESCRIPTION_75_FORTRESS_4"
 msgstr ""
 "The command center at the river bend is ruined, but the nearby military "
@@ -1064,6 +1199,7 @@ msgstr ""
 "airstrip will give a strategic advantage and facilitate achieving air "
 "superiority."
 
+#, fuzzy
 msgid "MAP_HUD_DESCRIPTION_76_PLATEAU_1"
 msgstr ""
 "Although the expeditionary forces leading the charge managed to neutralize "
@@ -1072,6 +1208,7 @@ msgstr ""
 "unsuccessful. The element of surprise was lost and a rapid preventive strike "
 "turned into a full-fledged military operation."
 
+#, fuzzy
 msgid "MAP_HUD_DESCRIPTION_76_PLATEAU_2"
 msgstr ""
 "The military base at the bottom of the table rock still remained a tough nut "
@@ -1082,6 +1219,7 @@ msgstr ""
 "situation perfectly well, thus all available reserve forces were brought to "
 "the plateau."
 
+#, fuzzy
 msgid "MAP_HUD_DESCRIPTION_76_PLATEAU_3"
 msgstr ""
 "The devastating bombing raids ruined the command center and left the "
@@ -1090,6 +1228,7 @@ msgstr ""
 "employs the best tactics and gets their priorities right will become the "
 "winner of the confrontation."
 
+#, fuzzy
 msgid "MAP_HUD_DESCRIPTION_76_PLATEAU_4"
 msgstr ""
 "During the battle for control over the military base at the bottom of the "
@@ -1098,6 +1237,7 @@ msgstr ""
 "another strategy for both sides. However, it has proved impossible to "
 "concentrate the force: the regular raids by heavy bombers impede the advance."
 
+#, fuzzy
 msgid "MAP_HUD_DESCRIPTION_76_PLATEAU_5"
 msgstr ""
 "The advancement of the expeditionary force has slowed down, impeded by the "
@@ -1106,6 +1246,7 @@ msgstr ""
 "through the enemy positions. If lost, the base will put the advancing allied "
 "ground force under fire."
 
+#, fuzzy
 msgid "MAP_HUD_DESCRIPTION_76_PLATEAU_6"
 msgstr ""
 "After restoring the operation of the industrial complex and regrouping, the "
@@ -1115,6 +1256,7 @@ msgstr ""
 "force to break through and leave the enemy without support of bombers so "
 "that the expeditionary force will not be cut off from the supply."
 
+#, fuzzy
 msgid "MAP_HUD_DESCRIPTION_76_PLATEAU_7_ADD"
 msgstr ""
 "The military industrial facilities, securely concealed by the complex "
@@ -1124,467 +1266,551 @@ msgstr ""
 "is supposed to drive the enemy from their positions and secure the advance "
 "of the troops."
 
+#, fuzzy
 msgid "MAP_HUD_DESCRIPTION_77_FORTRESS_2"
 msgstr " "
 
 msgid "MAP_HUD_LORE_DESCRIPTION_09_ARCTIC_1"
-msgstr "Greenland Coast. Morning."
+msgstr "格陵蘭海岸 早晨"
 
 msgid "MAP_HUD_LORE_DESCRIPTION_09_ARCTIC_2"
-msgstr "Greenland Coast. Morning."
+msgstr "格陵蘭海岸 早晨"
 
 msgid "MAP_HUD_LORE_DESCRIPTION_09_ARCTIC_3"
-msgstr "Greenland Coast. Morning."
+msgstr "格陵蘭海岸 早晨"
 
 msgid "MAP_HUD_LORE_DESCRIPTION_09_ARCTIC_4"
-msgstr "Greenland Coast. Morning."
+msgstr "格陵蘭海岸 早晨"
 
 msgid "MAP_HUD_LORE_DESCRIPTION_09_ARCTIC_5"
-msgstr "Greenland Coast. Morning."
+msgstr "格陵蘭海岸 早晨"
 
 msgid "MAP_HUD_LORE_DESCRIPTION_09_ARCTIC_6"
-msgstr "Greenland Coast. Morning."
+msgstr "格陵蘭海岸 早晨"
 
 msgid "MAP_HUD_LORE_DESCRIPTION_09_ARCTIC_7_ADD"
-msgstr "Greenland Coast. Morning."
+msgstr "格陵蘭海岸 早晨"
 
 msgid "MAP_HUD_LORE_DESCRIPTION_12_FJORDS"
-msgstr "Norway, Trondheim district. Noon."
+msgstr "挪威 特隆赫姆區 中午"
 
 msgid "MAP_HUD_LORE_DESCRIPTION_12_FJORDS_2"
-msgstr "Norway, Trondheim district. Noon."
+msgstr "挪威 特隆赫姆區 中午"
 
 msgid "MAP_HUD_LORE_DESCRIPTION_12_FJORDS_3"
-msgstr "Norway, Trondheim district. Noon."
+msgstr "挪威 特隆赫姆區 中午"
 
 msgid "MAP_HUD_LORE_DESCRIPTION_12_FJORDS_4"
-msgstr "Norway, Trondheim district. Noon."
+msgstr "挪威 特隆赫姆區 中午"
 
 msgid "MAP_HUD_LORE_DESCRIPTION_12_FJORDS_5"
-msgstr "Norway, Trondheim district. Noon."
+msgstr "挪威 特隆赫姆區 中午"
 
 msgid "MAP_HUD_LORE_DESCRIPTION_12_FJORDS_6"
-msgstr "Norway, Trondheim district. Noon."
+msgstr "挪威 特隆赫姆區 中午"
 
 msgid "MAP_HUD_LORE_DESCRIPTION_12_FJORDS_7"
-msgstr "Norway, Trondheim district. Noon."
+msgstr "挪威 特隆赫姆區 中午"
 
 msgid "MAP_HUD_LORE_DESCRIPTION_12_FJORDS_8"
-msgstr "Norway, Trondheim district. Noon."
+msgstr "挪威 特隆赫姆區 中午"
 
 msgid "MAP_HUD_LORE_DESCRIPTION_12_FJORDS_9_ADD"
-msgstr "Switzerland, Western Europe. Noon."
+msgstr "瑞士 西歐 中午"
 
 msgid "MAP_HUD_LORE_DESCRIPTION_13_HARBOR"
-msgstr "Black Sea Coast. Afternoon."
+msgstr "黑海海岸 下午"
 
 msgid "MAP_HUD_LORE_DESCRIPTION_13_HARBOR_3"
-msgstr "Black Sea Coast. Afternoon."
+msgstr "黑海海岸 下午"
 
 msgid "MAP_HUD_LORE_DESCRIPTION_13_HARBOR_4"
-msgstr "Black Sea Coast. Afternoon."
+msgstr "黑海海岸 下午"
 
 msgid "MAP_HUD_LORE_DESCRIPTION_14_ADRIATIC_1"
-msgstr "Central Italy, Coast. Afternoon."
+msgstr "義大利中部海岸 下午"
 
 msgid "MAP_HUD_LORE_DESCRIPTION_14_ADRIATIC_2"
-msgstr "Central Italy, Coast. Afternoon."
+msgstr "義大利中部海岸 下午"
 
 msgid "MAP_HUD_LORE_DESCRIPTION_14_ADRIATIC_4"
-msgstr "Central Italy, Coast. Afternoon."
+msgstr "義大利中部海岸 下午"
 
 msgid "MAP_HUD_LORE_DESCRIPTION_14_ADRIATIC_5"
-msgstr "Central Italy, Coast. Afternoon."
+msgstr "義大利中部海岸 下午"
 
 msgid "MAP_HUD_LORE_DESCRIPTION_14_ADRIATIC_6"
-msgstr "Central Italy, Coast. Afternoon."
+msgstr "義大利中部海岸 下午"
 
 msgid "MAP_HUD_LORE_DESCRIPTION_14_ADRIATIC_7"
-msgstr "Central Italy, Coast. Afternoon."
+msgstr "義大利中部海岸 下午"
 
 msgid "MAP_HUD_LORE_DESCRIPTION_14_ADRIATIC_8_ADD"
-msgstr "Central Italy, Coast. Afternoon."
+msgstr "義大利中部海岸 下午"
 
 msgid "MAP_HUD_LORE_DESCRIPTION_55_EL_HALLOUF_1"
-msgstr "North Africa. Afternoon."
+msgstr "北非 下午"
 
 msgid "MAP_HUD_LORE_DESCRIPTION_55_EL_HALLOUF_2"
-msgstr "North Africa. Afternoon."
+msgstr "北非 下午"
 
 msgid "MAP_HUD_LORE_DESCRIPTION_55_EL_HALLOUF_4"
-msgstr "North Africa. Afternoon."
+msgstr "北非 下午"
 
 msgid "MAP_HUD_LORE_DESCRIPTION_55_EL_HALLOUF_5"
-msgstr "North Africa. Afternoon."
+msgstr "北非 下午"
 
 msgid "MAP_HUD_LORE_DESCRIPTION_55_EL_HALLOUF_7"
-msgstr "North Africa. Afternoon."
+msgstr "北非 下午"
 
 msgid "MAP_HUD_LORE_DESCRIPTION_55_EL_HALLOUF_8"
-msgstr "North Africa. Afternoon."
+msgstr "北非 下午"
 
 msgid "MAP_HUD_LORE_DESCRIPTION_55_EL_HALLOUF_9_ADD"
-msgstr "North Africa. Afternoon."
+msgstr "北非 下午"
 
 msgid "MAP_HUD_LORE_DESCRIPTION_62_ASIAN_BORDER_1"
-msgstr "Burma, Southeast Asia. Early evening."
+msgstr "緬甸 東南亞 傍晚"
 
 msgid "MAP_HUD_LORE_DESCRIPTION_62_ASIAN_BORDER_10_ADD"
-msgstr "Burma, Southeast Asia. Early evening."
+msgstr "緬甸 東南亞 傍晚"
 
 msgid "MAP_HUD_LORE_DESCRIPTION_62_ASIAN_BORDER_2"
-msgstr "Burma, Southeast Asia. Early evening."
+msgstr "緬甸 東南亞 傍晚"
 
 msgid "MAP_HUD_LORE_DESCRIPTION_62_ASIAN_BORDER_3"
-msgstr "Burma, Southeast Asia. Early evening."
+msgstr "緬甸 東南亞 傍晚"
 
 msgid "MAP_HUD_LORE_DESCRIPTION_62_ASIAN_BORDER_4"
-msgstr "Burma, Southeast Asia. Early evening."
+msgstr "緬甸 東南亞 傍晚"
 
 msgid "MAP_HUD_LORE_DESCRIPTION_62_ASIAN_BORDER_5"
-msgstr "Burma, Southeast Asia. Early evening."
+msgstr "緬甸 東南亞 傍晚"
 
 msgid "MAP_HUD_LORE_DESCRIPTION_62_ASIAN_BORDER_6"
-msgstr "Burma, Southeast Asia. Early evening."
+msgstr "緬甸 東南亞 傍晚"
 
 msgid "MAP_HUD_LORE_DESCRIPTION_62_ASIAN_BORDER_7"
-msgstr "Burma, Southeast Asia. Early evening."
+msgstr "緬甸 東南亞 傍晚"
 
 msgid "MAP_HUD_LORE_DESCRIPTION_62_ASIAN_BORDER_8"
-msgstr "Burma, Southeast Asia. Early evening."
+msgstr "緬甸 東南亞 傍晚"
 
 msgid "MAP_HUD_LORE_DESCRIPTION_62_ASIAN_BORDER_9"
-msgstr "Burma, Southeast Asia. Early evening."
+msgstr "緬甸 東南亞 傍晚"
 
 msgid "MAP_HUD_LORE_DESCRIPTION_69_OCEAN"
-msgstr "Pacific Ocean, Melanesia. Noon."
+msgstr "太平洋 美拉尼西亞 中午"
 
 msgid "MAP_HUD_LORE_DESCRIPTION_69_OCEAN_1"
-msgstr "Pacific Ocean, Melanesia. Noon."
+msgstr "太平洋 美拉尼西亞 中午"
 
 msgid "MAP_HUD_LORE_DESCRIPTION_69_OCEAN_2"
-msgstr "Pacific Ocean, Melanesia. Noon."
+msgstr "太平洋 美拉尼西亞 中午"
 
 msgid "MAP_HUD_LORE_DESCRIPTION_69_OCEAN_3"
-msgstr "Pacific Ocean, Melanesia. Noon."
+msgstr "太平洋 美拉尼西亞 中午"
 
 msgid "MAP_HUD_LORE_DESCRIPTION_69_OCEAN_4"
-msgstr "Pacific Ocean, Melanesia. Noon."
+msgstr "太平洋 美拉尼西亞 中午"
 
 msgid "MAP_HUD_LORE_DESCRIPTION_69_OCEAN_5_ADD"
-msgstr "Pacific Ocean, Melanesia. Noon."
+msgstr "太平洋 美拉尼西亞 中午"
 
 msgid "MAP_HUD_LORE_DESCRIPTION_73_OBSERVATORY"
-msgstr "Switzerland, Western Europe. Noon."
+msgstr "瑞士 西歐 中午"
 
 msgid "MAP_HUD_LORE_DESCRIPTION_73_OBSERVATORY_1"
-msgstr "Switzerland, Western Europe. Noon."
+msgstr "瑞士 西歐 中午"
 
 msgid "MAP_HUD_LORE_DESCRIPTION_73_OBSERVATORY_11_ADD"
-msgstr "Norway, Trondheim district. Noon."
+msgstr "挪威 特隆赫姆區 中午"
 
 msgid "MAP_HUD_LORE_DESCRIPTION_73_OBSERVATORY_2"
-msgstr "Switzerland, Western Europe. Noon."
+msgstr "瑞士 西歐 中午"
 
 msgid "MAP_HUD_LORE_DESCRIPTION_73_OBSERVATORY_3"
-msgstr "Switzerland, Western Europe. Noon."
+msgstr "瑞士 西歐 中午"
 
 msgid "MAP_HUD_LORE_DESCRIPTION_73_OBSERVATORY_4"
-msgstr "Switzerland, Western Europe. Noon."
+msgstr "瑞士 西歐 中午"
 
 msgid "MAP_HUD_LORE_DESCRIPTION_73_OBSERVATORY_5"
-msgstr "Switzerland, Western Europe. Noon."
+msgstr "瑞士 西歐 中午"
 
 msgid "MAP_HUD_LORE_DESCRIPTION_73_OBSERVATORY_6"
-msgstr "Switzerland, Western Europe. Noon."
+msgstr "瑞士 西歐 中午"
 
 msgid "MAP_HUD_LORE_DESCRIPTION_73_OBSERVATORY_7"
-msgstr "Switzerland, Western Europe. Noon."
+msgstr "瑞士 西歐 中午"
 
 msgid "MAP_HUD_LORE_DESCRIPTION_73_OBSERVATORY_8"
-msgstr "Switzerland, Western Europe. Noon."
+msgstr "瑞士 西歐 中午"
 
 msgid "MAP_HUD_LORE_DESCRIPTION_75_FORTRESS_1"
-msgstr "Ukraine, Eastern Front. Early evening."
+msgstr "烏克蘭 東線 傍晚"
 
 msgid "MAP_HUD_LORE_DESCRIPTION_75_FORTRESS_2"
-msgstr "Ukraine, Eastern Front. Early evening."
+msgstr "烏克蘭 東線 傍晚"
 
 msgid "MAP_HUD_LORE_DESCRIPTION_75_FORTRESS_3"
-msgstr "Ukraine, Eastern Front. Early evening."
+msgstr "烏克蘭 東線 傍晚"
 
 msgid "MAP_HUD_LORE_DESCRIPTION_75_FORTRESS_4"
-msgstr "Ukraine, Eastern Front. Early evening."
+msgstr "烏克蘭 東線 傍晚"
 
 msgid "MAP_HUD_LORE_DESCRIPTION_76_PLATEAU_1"
-msgstr "Colorado, Southwestern United States. Early evening."
+msgstr "科羅拉多 美國西南部 傍晚"
 
 msgid "MAP_HUD_LORE_DESCRIPTION_76_PLATEAU_2"
-msgstr "Colorado, Southwestern United States. Early evening."
+msgstr "科羅拉多 美國西南部 傍晚"
 
 msgid "MAP_HUD_LORE_DESCRIPTION_76_PLATEAU_3"
-msgstr "Colorado, Southwestern United States. Early evening."
+msgstr "科羅拉多 美國西南部 傍晚"
 
 msgid "MAP_HUD_LORE_DESCRIPTION_76_PLATEAU_4"
-msgstr "Colorado, Southwestern United States. Early evening."
+msgstr "科羅拉多 美國西南部 傍晚"
 
 msgid "MAP_HUD_LORE_DESCRIPTION_76_PLATEAU_5"
-msgstr "Colorado, Southwestern United States. Early evening."
+msgstr "科羅拉多 美國西南部 傍晚"
 
 msgid "MAP_HUD_LORE_DESCRIPTION_76_PLATEAU_6"
-msgstr "Colorado, Southwestern United States. Early evening."
+msgstr "科羅拉多 美國西南部 傍晚"
 
 msgid "MAP_HUD_LORE_DESCRIPTION_76_PLATEAU_7_ADD"
-msgstr "Colorado, Southwestern United States. Early evening."
+msgstr "科羅拉多 美國西南部 傍晚"
 
 msgid "MAP_HUD_LORE_DESCRIPTION_77_FORTRESS_2"
-msgstr "Ukraine, Eastern Front. Early evening."
+msgstr "烏克蘭 東線 傍晚"
 
+#, fuzzy
 msgid "MAP_NAME_HUD_ADRIATIC"
 msgstr "Road to Rome:"
 
+#, fuzzy
 msgid "MAP_NAME_HUD_ARCTIC"
 msgstr "Peripheral Mission:"
 
+#, fuzzy
 msgid "MAP_NAME_HUD_ASIAN_BORDER"
 msgstr "Asian Border:"
 
+#, fuzzy
 msgid "MAP_NAME_HUD_EL_HALLOUF"
 msgstr "Scorching Sands:"
 
+#, fuzzy
 msgid "MAP_NAME_HUD_FJORDS"
 msgstr "Northern Bridgehead:"
 
+#, fuzzy
 msgid "MAP_NAME_HUD_FORTRES"
 msgstr "Old Fortress:"
 
+#, fuzzy
 msgid "MAP_NAME_HUD_HARBOR"
 msgstr "Sea Gate:"
 
+#, fuzzy
 msgid "MAP_NAME_HUD_OBSERVATORY"
 msgstr "Alpine Gambit:"
 
+#, fuzzy
 msgid "MAP_NAME_HUD_OCEAN"
 msgstr "Archipelago:"
 
+#, fuzzy
 msgid "MAP_NAME_HUD_PLATEAU"
 msgstr "Plateau:"
 
+#, fuzzy
 msgid "MAP_NAME_LOBBY_ADRIATIC"
 msgstr "Road to Rome"
 
+#, fuzzy
 msgid "MAP_NAME_LOBBY_ARCTIC"
 msgstr "Peripheral Mission"
 
+#, fuzzy
 msgid "MAP_NAME_LOBBY_ASIAN_BORDER"
 msgstr "Asian Border"
 
+#, fuzzy
 msgid "MAP_NAME_LOBBY_EL_HALLOUF"
 msgstr "Scorching Sands"
 
+#, fuzzy
 msgid "MAP_NAME_LOBBY_FJORDS"
 msgstr "Northern Bridgehead"
 
+#, fuzzy
 msgid "MAP_NAME_LOBBY_FORTRES"
 msgstr "Old Fortress"
 
+#, fuzzy
 msgid "MAP_NAME_LOBBY_HARBOR"
 msgstr "Sea Gate"
 
+#, fuzzy
 msgid "MAP_NAME_LOBBY_OBSERVATORY"
 msgstr "Alpine Gambit"
 
+#, fuzzy
 msgid "MAP_NAME_LOBBY_OCEAN"
 msgstr "Archipelago"
 
+#, fuzzy
 msgid "MAP_NAME_LOBBY_PLATEAU"
 msgstr "Plateau"
 
+#, fuzzy
 msgid "MAP_SUBNAME_09_ARCTIC_1"
 msgstr "Silence of Ice"
 
+#, fuzzy
 msgid "MAP_SUBNAME_09_ARCTIC_2"
 msgstr "Shock Wave"
 
+#, fuzzy
 msgid "MAP_SUBNAME_09_ARCTIC_3"
 msgstr "Harsh Times"
 
+#, fuzzy
 msgid "MAP_SUBNAME_09_ARCTIC_4"
 msgstr "Perimeter"
 
+#, fuzzy
 msgid "MAP_SUBNAME_09_ARCTIC_5"
 msgstr "Foreign Land"
 
+#, fuzzy
 msgid "MAP_SUBNAME_09_ARCTIC_6"
 msgstr "Snowy Shore"
 
+#, fuzzy
 msgid "MAP_SUBNAME_09_ARCTIC_7_ADD"
 msgstr "Cold Reality"
 
+#, fuzzy
 msgid "MAP_SUBNAME_12_FJORDS_2"
 msgstr "Polaris"
 
+#, fuzzy
 msgid "MAP_SUBNAME_12_FJORDS_3"
 msgstr "Breakthrough"
 
+#, fuzzy
 msgid "MAP_SUBNAME_12_FJORDS_4"
 msgstr "Cold Skies"
 
+#, fuzzy
 msgid "MAP_SUBNAME_12_FJORDS_5"
 msgstr "Valhalla"
 
+#, fuzzy
 msgid "MAP_SUBNAME_12_FJORDS_6"
 msgstr "Atonement"
 
+#, fuzzy
 msgid "MAP_SUBNAME_12_FJORDS_7"
 msgstr "Deafening Silence"
 
+#, fuzzy
 msgid "MAP_SUBNAME_12_FJORDS_8"
 msgstr "Birds of Prey"
 
+#, fuzzy
 msgid "MAP_SUBNAME_12_FJORDS_9_ADD"
 msgstr "Steel Avalanche"
 
+#, fuzzy
 msgid "MAP_SUBNAME_13_HARBOR"
 msgstr "Battle for Port"
 
+#, fuzzy
 msgid "MAP_SUBNAME_13_HARBOR_3"
 msgstr "Siege"
 
+#, fuzzy
 msgid "MAP_SUBNAME_13_HARBOR_4"
 msgstr "Counterattack"
 
+#, fuzzy
 msgid "MAP_SUBNAME_14_ADRIATIC_1"
 msgstr "Call of Duty"
 
+#, fuzzy
 msgid "MAP_SUBNAME_14_ADRIATIC_2"
 msgstr "Confrontation"
 
+#, fuzzy
 msgid "MAP_SUBNAME_14_ADRIATIC_4"
 msgstr "Outpost"
 
+#, fuzzy
 msgid "MAP_SUBNAME_14_ADRIATIC_5"
 msgstr "Breakthrough"
 
+#, fuzzy
 msgid "MAP_SUBNAME_14_ADRIATIC_6"
 msgstr "Ascension"
 
+#, fuzzy
 msgid "MAP_SUBNAME_14_ADRIATIC_7"
 msgstr "Trap"
 
+#, fuzzy
 msgid "MAP_SUBNAME_14_ADRIATIC_8_ADD"
 msgstr "Offensive"
 
+#, fuzzy
 msgid "MAP_SUBNAME_55_EL_HALLOUF_1"
 msgstr "Leading Edge"
 
+#, fuzzy
 msgid "MAP_SUBNAME_55_EL_HALLOUF_2"
 msgstr "Decisive Hour"
 
+#, fuzzy
 msgid "MAP_SUBNAME_55_EL_HALLOUF_4"
 msgstr "Desert Wind"
 
+#, fuzzy
 msgid "MAP_SUBNAME_55_EL_HALLOUF_5"
 msgstr "Invasion"
 
+#, fuzzy
 msgid "MAP_SUBNAME_55_EL_HALLOUF_8"
 msgstr "Edge of the World"
 
+#, fuzzy
 msgid "MAP_SUBNAME_55_EL_HALLOUF_9_ADD"
 msgstr "Ancient River"
 
+#, fuzzy
 msgid "MAP_SUBNAME_62_ASIAN_BORDER_1"
 msgstr "Confrontation"
 
+#, fuzzy
 msgid "MAP_SUBNAME_62_ASIAN_BORDER_10_ADD"
 msgstr "Emerald Ridge"
 
+#, fuzzy
 msgid "MAP_SUBNAME_62_ASIAN_BORDER_2"
 msgstr "Surprise Effect"
 
+#, fuzzy
 msgid "MAP_SUBNAME_62_ASIAN_BORDER_4"
 msgstr "Emerald Ridge"
 
+#, fuzzy
 msgid "MAP_SUBNAME_62_ASIAN_BORDER_6"
 msgstr "Front Line"
 
+#, fuzzy
 msgid "MAP_SUBNAME_62_ASIAN_BORDER_8"
 msgstr "Point of No Return"
 
+#, fuzzy
 msgid "MAP_SUBNAME_62_ASIAN_BORDER_9"
 msgstr "Preventive Measures"
 
+#, fuzzy
 msgid "MAP_SUBNAME_69_OCEAN_1"
 msgstr "Decisive Blow"
 
+#, fuzzy
 msgid "MAP_SUBNAME_69_OCEAN_2"
 msgstr "Stumbling Block"
 
+#, fuzzy
 msgid "MAP_SUBNAME_69_OCEAN_3"
 msgstr "Retaliation"
 
+#, fuzzy
 msgid "MAP_SUBNAME_69_OCEAN_4"
 msgstr "Reconnaissance by Fire"
 
+#, fuzzy
 msgid "MAP_SUBNAME_69_OCEAN_5_ADD"
 msgstr "Pearl Islands"
 
+#, fuzzy
 msgid "MAP_SUBNAME_73_OBSERVATORY"
 msgstr "Snow and Ashes"
 
+#, fuzzy
 msgid "MAP_SUBNAME_73_OBSERVATORY_11_ADD"
 msgstr "Expansion"
 
+#, fuzzy
 msgid "MAP_SUBNAME_73_OBSERVATORY_2"
 msgstr "Foreign Land"
 
+#, fuzzy
 msgid "MAP_SUBNAME_73_OBSERVATORY_3"
 msgstr "Vertical"
 
+#, fuzzy
 msgid "MAP_SUBNAME_73_OBSERVATORY_4"
 msgstr "Collision"
 
+#, fuzzy
 msgid "MAP_SUBNAME_73_OBSERVATORY_5"
 msgstr "Day of Reckoning"
 
+#, fuzzy
 msgid "MAP_SUBNAME_73_OBSERVATORY_6"
 msgstr "Narrow Pass"
 
+#, fuzzy
 msgid "MAP_SUBNAME_73_OBSERVATORY_7"
 msgstr "Moment of Truth"
 
+#, fuzzy
 msgid "MAP_SUBNAME_73_OBSERVATORY_8"
 msgstr "Edelweiss"
 
+#, fuzzy
 msgid "MAP_SUBNAME_75_FORTRESS_2"
 msgstr "Flanking Maneuver"
 
+#, fuzzy
 msgid "MAP_SUBNAME_75_FORTRESS_3"
 msgstr "Enemy at the Gates"
 
+#, fuzzy
 msgid "MAP_SUBNAME_75_FORTRESS_4"
 msgstr "Danger Zone"
 
+#, fuzzy
 msgid "MAP_SUBNAME_76_PLATEAU_2"
 msgstr "Blazing Sky"
 
+#, fuzzy
 msgid "MAP_SUBNAME_76_PLATEAU_3"
 msgstr "Decisive Hour"
 
+#, fuzzy
 msgid "MAP_SUBNAME_76_PLATEAU_4"
 msgstr "Turning Point"
 
+#, fuzzy
 msgid "MAP_SUBNAME_76_PLATEAU_5"
 msgstr "Weapon of Revenge"
 
+#, fuzzy
 msgid "MAP_SUBNAME_76_PLATEAU_6"
 msgstr "Collision"
 
+#, fuzzy
 msgid "MAP_SUBNAME_76_PLATEAU_7_ADD"
 msgstr "Gordian Knot"
 
+#, fuzzy
 msgid "MAP_SUBNAME_77_FORTRESS_2"
 msgstr "Day of Reckoning"
 
+#, fuzzy
 msgid "TRAINING_ROOMS_MAP_PLACE"
 msgstr "Map Layout"

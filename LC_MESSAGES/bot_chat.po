@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: World Of Tanks\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2010-06-01 10:00+0300\n"
-"Last-Translator: i_maliavko <i_maliavko@wargaming.net>\n"
+"Last-Translator: kevinlin18 <https://github.com/kevinlin18/WoWP_zh_tw>\n"
 "Language-Team: WoT Team <noreply@wargaming.net>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
@@ -1105,7 +1105,7 @@ msgid "BOT_START_TEAMSINGLE_2"
 msgstr "優先消滅攻擊機!"
 
 msgid "BOT_START_TEAMSINGLE_3"
-msgstr "攻擊機,優先消滅防空砲"
+msgstr "攻擊機,優先消滅高射砲"
 
 msgid "BOT_START_TEAMSINGLE_4"
 msgstr "新飛機上天"
@@ -1335,135 +1335,176 @@ msgstr "集體行動更容易活下來"
 msgid "BOT_WINNING_TEAMSINGLE_9"
 msgstr "就要獲勝了"
 
+#, fuzzy
 msgid "BOT_CHAT_BOMBER_HELP_MESSAGES_BOMBSCOPE_1"
 msgstr "Approaching target area! Switching to bombsight mode (Left Shift)."
 
+#, fuzzy
 msgid "BOT_CHAT_BOMBER_HELP_MESSAGES_BOMBSCOPE_2"
 msgstr "Targets in the bombsight! Commencing bombing (Left Shift)."
 
+#, fuzzy
 msgid "BOT_CHAT_BOMBER_HELP_MESSAGES_REARGUNNER"
 msgstr "Enemy on my tail! Switching to the gunner mode (T)."
 
+#, fuzzy
 msgid "BOT_JA_TR_ALLSINGLE_1"
 msgstr "Who's gonna participate in the event tonight?"
 
+#, fuzzy
 msgid "BOT_JA_TR_ALLSINGLE_2"
 msgstr "Hey, which side should I choose?"
 
+#, fuzzy
 msgid "BOT_JA_TR_ALLSINGLE_3"
 msgstr "Has anyone got a plane from the new branch?"
 
+#, fuzzy
 msgid "BOT_JA_TR_ALLSINGLE_4"
 msgstr "So who got what from their loot crates?"
 
+#, fuzzy
 msgid "BOT_JA_TR_ALLSINGLE_5"
 msgstr ""
 "Got a mission for a Japanese plane from the loot crate. Now just need to "
 "complete it!"
 
+#, fuzzy
 msgid "BOT_JA_TR_ALLSINGLE_6"
 msgstr "Which plane type is best for the current event?"
 
+#, fuzzy
 msgid "BOT_JA_TR_BEFORE_BATTLE_ALLY_1"
 msgstr "Come fly on our side! There's a Pancake with us!"
 
+#, fuzzy
 msgid "BOT_JA_TR_BEFORE_BATTLE_ALLY_2"
 msgstr "Roll call: who's going to fight on the Allied side?"
 
+#, fuzzy
 msgid "BOT_JA_TR_BEFORE_BATTLE_ALLY_3"
 msgstr "Hey, Axis! Gonna attack us again?"
 
+#, fuzzy
 msgid "BOT_JA_TR_BEFORE_BATTLE_AXIS_1"
 msgstr "Ready to fight, Allies?"
 
+#, fuzzy
 msgid "BOT_JA_TR_BEFORE_BATTLE_AXIS_2"
 msgstr "Let's see how you, Allies, will defend tonight!"
 
+#, fuzzy
 msgid "BOT_JA_TR_BEFORE_BATTLE_AXIS_3"
 msgstr "Pilot! We need you for the Axis to capture the Pacific Ocean!"
 
+#, fuzzy
 msgid "BOT_JA_TR_BEFORE_IN_BATTLE_ALLY_1"
 msgstr "No mercy for the enemy! Stand your ground!"
 
+#, fuzzy
 msgid "BOT_JA_TR_BEFORE_IN_BATTLE_ALLY_2"
 msgstr "Press the attack to counter the cunning of the enemy!"
 
+#, fuzzy
 msgid "BOT_JA_TR_BEFORE_IN_BATTLE_ALLY_3"
 msgstr "There's nowhere to retreat! Attack!"
 
+#, fuzzy
 msgid "BOT_JA_TR_BEFORE_IN_BATTLE_ALLY_4"
 msgstr "I will surely bring home a katana from this battle."
 
+#, fuzzy
 msgid "BOT_JA_TR_BEFORE_IN_BATTLE_ALLY_5"
 msgstr ""
 "Only wreckage will remain of the enemy aircraft by the end of the battle!"
 
+#, fuzzy
 msgid "BOT_JA_TR_BEFORE_IN_BATTLE_ALLY_6"
 msgstr ""
 "Perfect, we won't event have to search for loot. They are bringing it to us!"
 
+#, fuzzy
 msgid "BOT_JA_TR_BEFORE_IN_BATTLE_ALLY_7"
 msgstr "We didn't start this fight but we will surely end it."
 
+#, fuzzy
 msgid "BOT_JA_TR_BEFORE_IN_BATTLE_AXIS_1"
 msgstr "The ocean will be ours!"
 
+#, fuzzy
 msgid "BOT_JA_TR_BEFORE_IN_BATTLE_AXIS_2"
 msgstr "Dang it! My katana doesn't fit in the cockpit!"
 
+#, fuzzy
 msgid "BOT_JA_TR_BEFORE_IN_BATTLE_AXIS_3"
 msgstr "In the morning our flags will wave over the skies!"
 
+#, fuzzy
 msgid "BOT_JA_TR_BEFORE_IN_BATTLE_AXIS_4"
 msgstr "You have no chance to hold your ground!"
 
+#, fuzzy
 msgid "BOT_JA_TR_BEFORE_IN_BATTLE_AXIS_5"
 msgstr "Pilots! Your courage will not be forgotten!"
 
+#, fuzzy
 msgid "BOT_JA_TR_BEFORE_IN_BATTLE_AXIS_6"
 msgstr "Capture the Pacific Ocean and all loot crates will be ours!"
 
+#, fuzzy
 msgid "BOT_JA_TR_BEFORE_IN_BATTLE_AXIS_7"
 msgstr ""
 "The wind from the islands is carrying my wings. The enemy will be defeated!"
 
+#, fuzzy
 msgid "BOT_JA_TR_BEFORE_IN_BATTLE_AXIS_8"
 msgstr "The fire of the rising sun is guiding my aircraft. Banzai!"
 
+#, fuzzy
 msgid "BOT_LTO_ALLGROUP_1"
 msgstr "Has anyone tried the new A6M3 (exp.)?"
 
+#, fuzzy
 msgid "BOT_LTO_ALLGROUP_1_1"
 msgstr "I earned a Gorovets with it in the last battle!"
 
+#, fuzzy
 msgid "BOT_LTO_ALLSINGLE_1"
 msgstr "Ooh, the new Premium Japanese plane deals massive damage!"
 
+#, fuzzy
 msgid "BOT_LTO_ALLSINGLE_2"
 msgstr "The A6M3 is cool! Good at damage and maneuverability!"
 
+#, fuzzy
 msgid "BOT_LTO_ALLSINGLE_3"
 msgstr ""
 "What's the best way to spend the 5 skill points of the A6M3? Any advice?"
 
+#, fuzzy
 msgid "BOT_LTO_ALLSINGLE_4"
 msgstr "I absolutely love the new large-caliber Japanese plane!"
 
+#, fuzzy
 msgid "BOT_LTO_ALLSINGLE_5"
 msgstr "What's best to upgrade in the A6M3: the engine or damage ability?"
 
+#, fuzzy
 msgid "BOT_LTO_ALLSINGLE_6"
 msgstr "It's a dream come true! They finally added the Zero with 30 mm cannon!"
 
+#, fuzzy
 msgid "BOT_LTO_ALLSINGLE_7"
 msgstr ""
 "The regular Zero is like a samurai with a knife, the new A6M3 is like a "
 "samurai with a sword."
 
+#, fuzzy
 msgid "BOT_LTO_ALLSINGLE_8"
 msgstr ""
 "With the A6M5, I have to dodge all the time. With the new Premium plane, "
 "THEY have to dodge me."
 
+#, fuzzy
 msgid "BOT_LTO_ALLSINGLE_9"
 msgstr "The A6M3 is deadly in close combat"
