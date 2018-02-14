@@ -1270,289 +1270,218 @@ msgstr ""
 msgid "MAP_HUD_DESCRIPTION_77_FORTRESS_2"
 msgstr " "
 
-#, fuzzy
 msgid "MAP_HUD_LORE_DESCRIPTION_09_ARCTIC_1"
-msgstr "Greenland Coast. Morning."
+msgstr "格陵蘭海岸 早晨"
 
-#, fuzzy
 msgid "MAP_HUD_LORE_DESCRIPTION_09_ARCTIC_2"
-msgstr "Greenland Coast. Morning."
+msgstr "格陵蘭海岸 早晨"
 
-#, fuzzy
 msgid "MAP_HUD_LORE_DESCRIPTION_09_ARCTIC_3"
-msgstr "Greenland Coast. Morning."
+msgstr "格陵蘭海岸 早晨"
 
-#, fuzzy
 msgid "MAP_HUD_LORE_DESCRIPTION_09_ARCTIC_4"
-msgstr "Greenland Coast. Morning."
+msgstr "格陵蘭海岸 早晨"
 
-#, fuzzy
 msgid "MAP_HUD_LORE_DESCRIPTION_09_ARCTIC_5"
-msgstr "Greenland Coast. Morning."
+msgstr "格陵蘭海岸 早晨"
 
-#, fuzzy
 msgid "MAP_HUD_LORE_DESCRIPTION_09_ARCTIC_6"
-msgstr "Greenland Coast. Morning."
+msgstr "格陵蘭海岸 早晨"
 
-#, fuzzy
 msgid "MAP_HUD_LORE_DESCRIPTION_09_ARCTIC_7_ADD"
-msgstr "Greenland Coast. Morning."
+msgstr "格陵蘭海岸 早晨"
 
-#, fuzzy
 msgid "MAP_HUD_LORE_DESCRIPTION_12_FJORDS"
-msgstr "Norway, Trondheim district. Noon."
+msgstr "挪威 特隆赫姆區 中午"
 
-#, fuzzy
 msgid "MAP_HUD_LORE_DESCRIPTION_12_FJORDS_2"
-msgstr "Norway, Trondheim district. Noon."
+msgstr "挪威 特隆赫姆區 中午"
 
-#, fuzzy
 msgid "MAP_HUD_LORE_DESCRIPTION_12_FJORDS_3"
-msgstr "Norway, Trondheim district. Noon."
+msgstr "挪威 特隆赫姆區 中午"
 
-#, fuzzy
 msgid "MAP_HUD_LORE_DESCRIPTION_12_FJORDS_4"
-msgstr "Norway, Trondheim district. Noon."
+msgstr "挪威 特隆赫姆區 中午"
 
-#, fuzzy
 msgid "MAP_HUD_LORE_DESCRIPTION_12_FJORDS_5"
-msgstr "Norway, Trondheim district. Noon."
+msgstr "挪威 特隆赫姆區 中午"
 
-#, fuzzy
 msgid "MAP_HUD_LORE_DESCRIPTION_12_FJORDS_6"
-msgstr "Norway, Trondheim district. Noon."
+msgstr "挪威 特隆赫姆區 中午"
 
-#, fuzzy
 msgid "MAP_HUD_LORE_DESCRIPTION_12_FJORDS_7"
-msgstr "Norway, Trondheim district. Noon."
+msgstr "挪威 特隆赫姆區 中午"
 
-#, fuzzy
 msgid "MAP_HUD_LORE_DESCRIPTION_12_FJORDS_8"
-msgstr "Norway, Trondheim district. Noon."
+msgstr "挪威 特隆赫姆區 中午"
 
-#, fuzzy
 msgid "MAP_HUD_LORE_DESCRIPTION_12_FJORDS_9_ADD"
-msgstr "Switzerland, Western Europe. Noon."
+msgstr "瑞士 西歐 中午"
 
-#, fuzzy
 msgid "MAP_HUD_LORE_DESCRIPTION_13_HARBOR"
-msgstr "Black Sea Coast. Afternoon."
+msgstr "黑海海岸 下午"
 
-#, fuzzy
 msgid "MAP_HUD_LORE_DESCRIPTION_13_HARBOR_3"
-msgstr "Black Sea Coast. Afternoon."
+msgstr "黑海海岸 下午"
 
-#, fuzzy
 msgid "MAP_HUD_LORE_DESCRIPTION_13_HARBOR_4"
-msgstr "Black Sea Coast. Afternoon."
+msgstr "黑海海岸 下午"
 
-#, fuzzy
 msgid "MAP_HUD_LORE_DESCRIPTION_14_ADRIATIC_1"
-msgstr "Central Italy, Coast. Afternoon."
+msgstr "義大利中部海岸 下午"
 
-#, fuzzy
 msgid "MAP_HUD_LORE_DESCRIPTION_14_ADRIATIC_2"
-msgstr "Central Italy, Coast. Afternoon."
+msgstr "義大利中部海岸 下午"
 
-#, fuzzy
 msgid "MAP_HUD_LORE_DESCRIPTION_14_ADRIATIC_4"
-msgstr "Central Italy, Coast. Afternoon."
+msgstr "義大利中部海岸 下午"
 
-#, fuzzy
 msgid "MAP_HUD_LORE_DESCRIPTION_14_ADRIATIC_5"
-msgstr "Central Italy, Coast. Afternoon."
+msgstr "義大利中部海岸 下午"
 
-#, fuzzy
 msgid "MAP_HUD_LORE_DESCRIPTION_14_ADRIATIC_6"
-msgstr "Central Italy, Coast. Afternoon."
+msgstr "義大利中部海岸 下午"
 
-#, fuzzy
 msgid "MAP_HUD_LORE_DESCRIPTION_14_ADRIATIC_7"
-msgstr "Central Italy, Coast. Afternoon."
+msgstr "義大利中部海岸 下午"
 
-#, fuzzy
 msgid "MAP_HUD_LORE_DESCRIPTION_14_ADRIATIC_8_ADD"
-msgstr "Central Italy, Coast. Afternoon."
+msgstr "義大利中部海岸 下午"
 
-#, fuzzy
 msgid "MAP_HUD_LORE_DESCRIPTION_55_EL_HALLOUF_1"
-msgstr "North Africa. Afternoon."
+msgstr "北非 下午"
 
-#, fuzzy
 msgid "MAP_HUD_LORE_DESCRIPTION_55_EL_HALLOUF_2"
-msgstr "North Africa. Afternoon."
+msgstr "北非 下午"
 
-#, fuzzy
 msgid "MAP_HUD_LORE_DESCRIPTION_55_EL_HALLOUF_4"
-msgstr "North Africa. Afternoon."
+msgstr "北非 下午"
 
-#, fuzzy
 msgid "MAP_HUD_LORE_DESCRIPTION_55_EL_HALLOUF_5"
-msgstr "North Africa. Afternoon."
+msgstr "北非 下午"
 
-#, fuzzy
 msgid "MAP_HUD_LORE_DESCRIPTION_55_EL_HALLOUF_7"
-msgstr "North Africa. Afternoon."
+msgstr "北非 下午"
 
-#, fuzzy
 msgid "MAP_HUD_LORE_DESCRIPTION_55_EL_HALLOUF_8"
-msgstr "North Africa. Afternoon."
+msgstr "北非 下午"
 
-#, fuzzy
 msgid "MAP_HUD_LORE_DESCRIPTION_55_EL_HALLOUF_9_ADD"
-msgstr "North Africa. Afternoon."
+msgstr "北非 下午"
 
-#, fuzzy
 msgid "MAP_HUD_LORE_DESCRIPTION_62_ASIAN_BORDER_1"
-msgstr "Burma, Southeast Asia. Early evening."
+msgstr "緬甸 東南亞 傍晚"
 
-#, fuzzy
 msgid "MAP_HUD_LORE_DESCRIPTION_62_ASIAN_BORDER_10_ADD"
-msgstr "Burma, Southeast Asia. Early evening."
+msgstr "緬甸 東南亞 傍晚"
 
-#, fuzzy
 msgid "MAP_HUD_LORE_DESCRIPTION_62_ASIAN_BORDER_2"
-msgstr "Burma, Southeast Asia. Early evening."
+msgstr "緬甸 東南亞 傍晚"
 
-#, fuzzy
 msgid "MAP_HUD_LORE_DESCRIPTION_62_ASIAN_BORDER_3"
-msgstr "Burma, Southeast Asia. Early evening."
+msgstr "緬甸 東南亞 傍晚"
 
-#, fuzzy
 msgid "MAP_HUD_LORE_DESCRIPTION_62_ASIAN_BORDER_4"
-msgstr "Burma, Southeast Asia. Early evening."
+msgstr "緬甸 東南亞 傍晚"
 
-#, fuzzy
 msgid "MAP_HUD_LORE_DESCRIPTION_62_ASIAN_BORDER_5"
-msgstr "Burma, Southeast Asia. Early evening."
+msgstr "緬甸 東南亞 傍晚"
 
-#, fuzzy
 msgid "MAP_HUD_LORE_DESCRIPTION_62_ASIAN_BORDER_6"
-msgstr "Burma, Southeast Asia. Early evening."
+msgstr "緬甸 東南亞 傍晚"
 
-#, fuzzy
 msgid "MAP_HUD_LORE_DESCRIPTION_62_ASIAN_BORDER_7"
-msgstr "Burma, Southeast Asia. Early evening."
+msgstr "緬甸 東南亞 傍晚"
 
-#, fuzzy
 msgid "MAP_HUD_LORE_DESCRIPTION_62_ASIAN_BORDER_8"
-msgstr "Burma, Southeast Asia. Early evening."
+msgstr "緬甸 東南亞 傍晚"
 
-#, fuzzy
 msgid "MAP_HUD_LORE_DESCRIPTION_62_ASIAN_BORDER_9"
-msgstr "Burma, Southeast Asia. Early evening."
+msgstr "緬甸 東南亞 傍晚"
 
-#, fuzzy
 msgid "MAP_HUD_LORE_DESCRIPTION_69_OCEAN"
-msgstr "Pacific Ocean, Melanesia. Noon."
+msgstr "太平洋 美拉尼西亞 中午"
 
-#, fuzzy
 msgid "MAP_HUD_LORE_DESCRIPTION_69_OCEAN_1"
-msgstr "Pacific Ocean, Melanesia. Noon."
+msgstr "太平洋 美拉尼西亞 中午"
 
-#, fuzzy
 msgid "MAP_HUD_LORE_DESCRIPTION_69_OCEAN_2"
-msgstr "Pacific Ocean, Melanesia. Noon."
+msgstr "太平洋 美拉尼西亞 中午"
 
-#, fuzzy
 msgid "MAP_HUD_LORE_DESCRIPTION_69_OCEAN_3"
-msgstr "Pacific Ocean, Melanesia. Noon."
+msgstr "太平洋 美拉尼西亞 中午"
 
-#, fuzzy
 msgid "MAP_HUD_LORE_DESCRIPTION_69_OCEAN_4"
-msgstr "Pacific Ocean, Melanesia. Noon."
+msgstr "太平洋 美拉尼西亞 中午"
 
-#, fuzzy
 msgid "MAP_HUD_LORE_DESCRIPTION_69_OCEAN_5_ADD"
-msgstr "Pacific Ocean, Melanesia. Noon."
+msgstr "太平洋 美拉尼西亞 中午"
 
-#, fuzzy
 msgid "MAP_HUD_LORE_DESCRIPTION_73_OBSERVATORY"
-msgstr "Switzerland, Western Europe. Noon."
+msgstr "瑞士 西歐 中午"
 
-#, fuzzy
 msgid "MAP_HUD_LORE_DESCRIPTION_73_OBSERVATORY_1"
-msgstr "Switzerland, Western Europe. Noon."
+msgstr "瑞士 西歐 中午"
 
-#, fuzzy
 msgid "MAP_HUD_LORE_DESCRIPTION_73_OBSERVATORY_11_ADD"
-msgstr "Norway, Trondheim district. Noon."
+msgstr "挪威 特隆赫姆區 中午"
 
-#, fuzzy
 msgid "MAP_HUD_LORE_DESCRIPTION_73_OBSERVATORY_2"
-msgstr "Switzerland, Western Europe. Noon."
+msgstr "瑞士 西歐 中午"
 
-#, fuzzy
 msgid "MAP_HUD_LORE_DESCRIPTION_73_OBSERVATORY_3"
-msgstr "Switzerland, Western Europe. Noon."
+msgstr "瑞士 西歐 中午"
 
-#, fuzzy
 msgid "MAP_HUD_LORE_DESCRIPTION_73_OBSERVATORY_4"
-msgstr "Switzerland, Western Europe. Noon."
+msgstr "瑞士 西歐 中午"
 
-#, fuzzy
 msgid "MAP_HUD_LORE_DESCRIPTION_73_OBSERVATORY_5"
-msgstr "Switzerland, Western Europe. Noon."
+msgstr "瑞士 西歐 中午"
 
-#, fuzzy
 msgid "MAP_HUD_LORE_DESCRIPTION_73_OBSERVATORY_6"
-msgstr "Switzerland, Western Europe. Noon."
+msgstr "瑞士 西歐 中午"
 
-#, fuzzy
 msgid "MAP_HUD_LORE_DESCRIPTION_73_OBSERVATORY_7"
-msgstr "Switzerland, Western Europe. Noon."
+msgstr "瑞士 西歐 中午"
 
-#, fuzzy
 msgid "MAP_HUD_LORE_DESCRIPTION_73_OBSERVATORY_8"
-msgstr "Switzerland, Western Europe. Noon."
+msgstr "瑞士 西歐 中午"
 
-#, fuzzy
 msgid "MAP_HUD_LORE_DESCRIPTION_75_FORTRESS_1"
-msgstr "Ukraine, Eastern Front. Early evening."
+msgstr "烏克蘭 東線 傍晚"
 
-#, fuzzy
 msgid "MAP_HUD_LORE_DESCRIPTION_75_FORTRESS_2"
-msgstr "Ukraine, Eastern Front. Early evening."
+msgstr "烏克蘭 東線 傍晚"
 
-#, fuzzy
 msgid "MAP_HUD_LORE_DESCRIPTION_75_FORTRESS_3"
-msgstr "Ukraine, Eastern Front. Early evening."
+msgstr "烏克蘭 東線 傍晚"
 
-#, fuzzy
 msgid "MAP_HUD_LORE_DESCRIPTION_75_FORTRESS_4"
-msgstr "Ukraine, Eastern Front. Early evening."
+msgstr "烏克蘭 東線 傍晚"
 
-#, fuzzy
 msgid "MAP_HUD_LORE_DESCRIPTION_76_PLATEAU_1"
-msgstr "Colorado, Southwestern United States. Early evening."
+msgstr "科羅拉多 美國西南部 傍晚"
 
-#, fuzzy
 msgid "MAP_HUD_LORE_DESCRIPTION_76_PLATEAU_2"
-msgstr "Colorado, Southwestern United States. Early evening."
+msgstr "科羅拉多 美國西南部 傍晚"
 
-#, fuzzy
 msgid "MAP_HUD_LORE_DESCRIPTION_76_PLATEAU_3"
-msgstr "Colorado, Southwestern United States. Early evening."
+msgstr "科羅拉多 美國西南部 傍晚"
 
-#, fuzzy
 msgid "MAP_HUD_LORE_DESCRIPTION_76_PLATEAU_4"
-msgstr "Colorado, Southwestern United States. Early evening."
+msgstr "科羅拉多 美國西南部 傍晚"
 
-#, fuzzy
 msgid "MAP_HUD_LORE_DESCRIPTION_76_PLATEAU_5"
-msgstr "Colorado, Southwestern United States. Early evening."
+msgstr "科羅拉多 美國西南部 傍晚"
 
-#, fuzzy
 msgid "MAP_HUD_LORE_DESCRIPTION_76_PLATEAU_6"
-msgstr "Colorado, Southwestern United States. Early evening."
+msgstr "科羅拉多 美國西南部 傍晚"
 
-#, fuzzy
 msgid "MAP_HUD_LORE_DESCRIPTION_76_PLATEAU_7_ADD"
-msgstr "Colorado, Southwestern United States. Early evening."
+msgstr "科羅拉多 美國西南部 傍晚"
 
-#, fuzzy
 msgid "MAP_HUD_LORE_DESCRIPTION_77_FORTRESS_2"
-msgstr "Ukraine, Eastern Front. Early evening."
+msgstr "烏克蘭 東線 傍晚"
 
 #, fuzzy
 msgid "MAP_NAME_HUD_ADRIATIC"

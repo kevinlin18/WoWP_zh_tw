@@ -1387,7 +1387,7 @@ msgid "HUD_WAITING4START_STR"
 msgstr "開始戰鬥…"
 
 msgid "HUD_WINNERS_STR"
-msgstr "勝利！"
+msgstr "勝利"
 
 msgid "HUD_WINNERS_STR_APRIL"
 msgstr "贏了!"
@@ -1956,24 +1956,21 @@ msgstr "Barometric altimeter"
 msgid "HUD_BATTLE_COUNTDOWN"
 msgstr "出擊倒數:"
 
-#, fuzzy
 msgid "HUD_BATTLE_END_IS_NEAR_TIME"
-msgstr "Battle will be over in {value} s"
+msgstr "戰鬥將於 {value} 秒後結束"
 
 #, fuzzy
 msgid "HUD_CAPTURE_ENEMY_SECTORS"
 msgstr "Capture enemy sectors"
 
-#, fuzzy
 msgid "HUD_CHANGE_CHAT_MODE"
-msgstr "[Tab] to change recipient"
+msgstr "[Tab] 切換接收對象"
 
 msgid "HUD_CHAT_ALL_MODE"
 msgstr "給所有人:"
 
-#, fuzzy
 msgid "HUD_CHAT_HISTORY"
-msgstr "[Page Up/Down] to show chat history"
+msgstr "[Page Up/Down] 顯示對話記錄"
 
 msgid "HUD_CHAT_TEAM_MODE"
 msgstr "給隊伍:"
@@ -1985,11 +1982,10 @@ msgid "HUD_CHOICE_PLANE"
 msgstr "選擇戰機"
 
 msgid "HUD_CHOICE_RESPAWN"
-msgstr "為支援戰機選取重生點"
+msgstr "為增援戰機選取出生點"
 
-#, fuzzy
 msgid "HUD_CHOICE_SPECTATOR_CAMERA"
-msgstr "Free camera view"
+msgstr "自由視角"
 
 #, fuzzy
 msgid "HUD_CHOICE_SPECTATOR_MODE"
@@ -2060,28 +2056,21 @@ msgstr "敵機被火箭彈擊落"
 msgid "HUD_DESCRIPTION_SECTOR_AIRBASE"
 msgstr "Allows you to choose between reinforcement aircraft"
 
-#, fuzzy
 msgid "HUD_DESCRIPTION_SECTOR_AIRBASE_1"
 msgstr ""
-"Allows <font color='#e5a82e'>a new available aircraft</font> of the same "
-"tier to be selected"
+"讓你可以選擇一架相同階級的<font color='#e5a82e'>新戰機</font>"
 
-#, fuzzy
 msgid "HUD_DESCRIPTION_SECTOR_AIRBASE_2"
-msgstr ""
-"<font color='#e5a82e'>Reduces the spawn time</font> for all new aircraft"
+msgstr "縮短所有新戰機的<font color='#e5a82e'>出生時間</font>"
 
-#, fuzzy
 msgid "HUD_DESCRIPTION_SECTOR_AIRBASE_3"
-msgstr "Allows an aircraft to be <font color='#e5a82e'>repaired</font>"
+msgstr "可<font color='#e5a82e'>修理</font>戰機"
 
-#, fuzzy
 msgid "HUD_DESCRIPTION_SECTOR_AIRFIELD"
-msgstr "Reduces the arrival time of reinforcement aircraft"
+msgstr "縮短增援戰機的抵達時間"
 
-#, fuzzy
 msgid "HUD_DESCRIPTION_SECTOR_ALL_AIRFIELDS"
-msgstr "Allows repairing an aircraft"
+msgstr "可修理戰機"
 
 #, fuzzy
 msgid "HUD_DESCRIPTION_SECTOR_COMMANDCENTER"
@@ -2089,11 +2078,9 @@ msgstr ""
 "Provides communications with the front headquarters for calling in an Attack "
 "Flight"
 
-#, fuzzy
 msgid "HUD_DESCRIPTION_SECTOR_COMMANDCENTER_1"
 msgstr ""
-"Calls in <font color='#e5a82e'>bomber Flights</font> to attack enemy ground "
-"targets"
+"呼叫<font color='#e5a82e'>轟炸機隊</font>攻擊敵方地面目標"
 
 #, fuzzy
 msgid "HUD_DESCRIPTION_SECTOR_FACTORY"
@@ -2103,33 +2090,22 @@ msgstr "Provides an increased influence in the area of operation"
 msgid "HUD_DESCRIPTION_SECTOR_FOUNDRY"
 msgstr "Regularly provides a large influence in the area of operation"
 
-#, fuzzy
 msgid "HUD_DESCRIPTION_SECTOR_FOUNDRY_1"
 msgstr ""
-"Earns <font color='#e5a82e'>an additional 80 influence points</font> every "
-"<font color='#e5a82e'>120 seconds</font>."
+"每 <font color='#e5a82e'>120 秒</font>獲得<font color='#e5a82e'>額外 80 點優勢點數</font>"
 
-#, fuzzy
 msgid "HUD_DESCRIPTION_SECTOR_MILITARYBASE"
-msgstr "Launches rocket strikes on enemy ground targets"
+msgstr "可向敵方地面目標發射火箭"
 
-#, fuzzy
 msgid "HUD_DESCRIPTION_SECTOR_MILITARYBASE_1"
 msgstr ""
-"Launches <font color='#e5a82e'>rocket strikes</font> on ground targets in "
-"nearby sectors"
+"向鄰近分區地面目標發射<font color='#e5a82e'>火箭</font>"
 
-#, fuzzy
 msgid "HUD_DESCRIPTION_SECTOR_RUNWAY"
-msgstr ""
-"Serves as a location for reinforcement aircraft to enter the area of "
-"operation"
+msgstr "為增援戰機進入任務區域的地點"
 
-#, fuzzy
 msgid "HUD_DESCRIPTION_SECTOR_RUNWAY_1"
-msgstr ""
-"Can be selected as <font color='#e5a82e'>a spawn point</font> for new "
-"aircraft"
+msgstr "可被選為新戰機的<font color='#e5a82e'>出生點</font>"
 
 msgid "HUD_DIAMETER_RADAR_AREA"
 msgstr "視野範圍"
@@ -2166,9 +2142,8 @@ msgstr "無法呼叫支援"
 msgid "HUD_F1_ARMORED_OBJECT_AA_SECTORS"
 msgstr "地面裝甲目標"
 
-#, fuzzy
 msgid "HUD_F1_DEFEND_SECTOR"
-msgstr "Sector defense"
+msgstr "防守分區"
 
 msgid "HUD_F1_OPERATION_AREA"
 msgstr "任務區域"
@@ -2179,44 +2154,29 @@ msgstr "防空戰機: 戰鬥機 / 重型戰鬥機"
 msgid "HUD_F1_SECTORS"
 msgstr "分區"
 
-#, fuzzy
 msgid "HUD_F1_SECTOR_DESCRIPTION_COMBINED_1"
-msgstr ""
-"Can be selected as a spawn point for reinforcement aircraft. Earns 3 "
-"influence points every 5 seconds."
+msgstr "可作為增援戰機的出生點。每 5 秒可獲得 3 點優勢點數。"
 
-#, fuzzy
 msgid "HUD_F1_SECTOR_DESCRIPTION_COMBINED_2"
 msgstr ""
-"Can be selected as a spawn point for reinforcement aircraft. Reduces their "
-"arrival time by 10 seconds. Earns 3 influence points every 5 seconds."
+"可作為增援戰機的出生點。縮短他們的抵達時間 10 秒。每 5 秒可獲得 3 點優勢點數。"
 
 #, fuzzy
 msgid "HUD_F1_SECTOR_DESCRIPTION_COMBINED_3"
 msgstr ""
-"Can be selected as a spawn point for reinforcement aircraft. Allows a new "
+"可作為增援戰機的出生點。 Allows a new "
 "available aircraft of the same tier to be selected. Reduces the spawn time "
 "for all new aircraft by 10 seconds. Allows aircraft durability to be "
-"restored and critical damage to be repaired. Earns 3 influence points every "
-"5 seconds."
+"restored and critical damage to be repaired.每 5 秒可獲得 3 點優勢點數。"
 
-#, fuzzy
 msgid "HUD_F1_SECTOR_DESCRIPTION_COMBINED_4"
-msgstr ""
-"Launches rocket strikes on enemy ground targets. Earns 3 influence points "
-"every 5 seconds."
+msgstr "可向敵方地面目標發射火箭。每 5 秒可獲得 3 點優勢點數。"
 
-#, fuzzy
 msgid "HUD_F1_SECTOR_DESCRIPTION_COMBINED_5"
-msgstr ""
-"Calls in bomber Flights to attack enemy ground targets. Earns 3 influence "
-"points every 5 seconds."
+msgstr "呼叫轟炸機隊攻擊敵方地面目標。每 5 秒可獲得 3 點優勢點數。"
 
-#, fuzzy
 msgid "HUD_F1_SECTOR_DESCRIPTION_COMBINED_6"
-msgstr ""
-"Earns 3 influence points every 5 seconds. Additionally, earns 80 influence "
-"points every 120 seconds."
+msgstr "每 5 秒可獲得 3 點優勢點數。每 120 秒可獲得額外 80 點優勢點數。"
 
 msgid "HUD_F1_UNARMORED_OBJECT_AA_SECTORS"
 msgstr "無裝甲地面目標: 部隊 / 高射砲 / 高空高射砲"
@@ -2483,9 +2443,8 @@ msgstr ""
 "Prevent the enemy from capturing all sectors in the allotted time. Capturing "
 "each new sector adds extra time for the next attack."
 
-#, fuzzy
 msgid "HUD_KILL_ENEMY_PLANES_CLASS_QUEST"
-msgstr "Destroy aircraft from the enemy combat group"
+msgstr "摧毀敵方隊伍的戰機"
 
 msgid "HUD_KILOMETERS"
 msgstr "km"
@@ -2503,38 +2462,26 @@ msgstr "The momentum has been lost. The attack time has expired."
 msgid "HUD_MANEUVER_REDUCED"
 msgstr "機動性下降！"
 
-#, fuzzy
 msgid "HUD_MANEUVER_RESTORED"
 msgstr "機動性已部分恢復。"
 
 msgid "HUD_MAP_LOADING_SPAWN"
 msgstr "重生點"
 
-#, fuzzy
 msgid "HUD_MAP_LOADING_SPAWN_ALL"
-msgstr ""
-"Location from which aircraft of your combat group enter the area of "
-"operation."
+msgstr "我方戰鬥隊伍進入任務區域的地點。"
 
-#, fuzzy
 msgid "HUD_MAP_LOADING_SPAWN_ALL_ALT"
-msgstr ""
-"Location from which aircraft of the combat group enter the area of operation"
+msgstr "戰鬥隊伍進入任務區域的地點"
 
 msgid "HUD_MAP_LOADING_SPAWN_CAPS"
 msgstr "重生點"
 
-#, fuzzy
 msgid "HUD_MAP_LOADING_SPAWN_ENEMY"
-msgstr ""
-"Location from which aircraft of the enemy combat group enter the area of "
-"operation."
+msgstr "敵方戰鬥隊伍進入任務區域的地點。"
 
-#, fuzzy
 msgid "HUD_MAP_LOADING_SPAWN_ENEMY_ALT"
-msgstr ""
-"Location from which aircraft of the enemy combat group enter the area of "
-"operation"
+msgstr "敵方戰鬥隊伍進入任務區域的地點。"
 
 msgid "HUD_MEDIUM_ARMORED_OBJECT"
 msgstr "中型地面裝甲目標"
@@ -2619,9 +2566,8 @@ msgstr "Small ground target damaged"
 msgid "HUD_MESSAGES_BATTLE_SCORE_DAMAGE_SPECIAL_OBJECT"
 msgstr "Major ground target damaged"
 
-#, fuzzy
 msgid "HUD_MESSAGES_BATTLE_SCORE_DEFEND_SECTOR"
-msgstr "Sector defense"
+msgstr "防守分區"
 
 #, fuzzy
 msgid "HUD_MESSAGES_BATTLE_SCORE_DESTROY_AIRFIELD"
@@ -2680,11 +2626,9 @@ msgstr "+{time}s"
 msgid "HUD_MESSAGE_ATTACK_TIME_INCREASED"
 msgstr "Attack time increased!"
 
-#, fuzzy
 msgid "HUD_MESSAGE_BATTLE_END_IS_NEAR"
-msgstr "Operation is nearing completion"
+msgstr "任務即將結束"
 
-#, fuzzy
 msgid "HUD_MESSAGE_COMPLEX_NAME"
 msgstr "{complex_name}"
 
@@ -2796,9 +2740,8 @@ msgstr "Ramming attack"
 msgid "HUD_NAME_RELIABLE_REAR"
 msgstr "Rear Cover"
 
-#, fuzzy
 msgid "HUD_NAME_REVENGE"
-msgstr "Avenger"
+msgstr "復仇者"
 
 #, fuzzy
 msgid "HUD_NAME_ROCKETEER"
@@ -2872,11 +2815,9 @@ msgstr "Field Headquarters"
 msgid "HUD_NAME_SECTOR_RADIOPOINT_CAPS"
 msgstr "FIELD HEADQUARTERS"
 
-#, fuzzy
 msgid "HUD_NAME_SECTOR_RUNWAY"
 msgstr "前線簡易機場"
 
-#, fuzzy
 msgid "HUD_NAME_SECTOR_RUNWAY_CAPS"
 msgstr "前線簡易機場"
 
@@ -2894,9 +2835,8 @@ msgstr "摧毀區域內的敵方或中立的空中和地面的目標來佔領它
 msgid "HUD_NEW_LOADING_SCREEN_CONQUEST_HEADER"
 msgstr "佔領和控制區域"
 
-#, fuzzy
 msgid "HUD_NEXT_TARGET"
-msgstr "Switch between allied aircraft"
+msgstr "在隊友間切換"
 
 #, fuzzy
 msgid "HUD_PACKETS_LOST"
@@ -2977,76 +2917,50 @@ msgstr "Reduce radar size"
 msgid "HUD_REINFORCEMENTS_AVAILABLE"
 msgstr "Number of available reinforcement aircraft"
 
-#, fuzzy
 msgid "HUD_REINFORCEMENTS_NOT_AVAILABLE"
 msgstr "無法出擊"
 
-#, fuzzy
 msgid "HUD_SECTOR_ATTACK_ON"
-msgstr "Attack while flying aircraft of the following types:"
+msgstr "駕駛下列機種時攻擊:"
 
-#, fuzzy
 msgid "HUD_SECTOR_BOMBING"
-msgstr "Bombing"
+msgstr "轟炸機隊"
 
-#, fuzzy
 msgid "HUD_SECTOR_DEFEND_ON"
-msgstr "Defend while flying aircraft of the following types:"
+msgstr "駕駛下列機種時防守:"
 
-#, fuzzy
 msgid "HUD_SECTOR_DESCRIPTION_AIRFIELD_1"
-msgstr "Can be selected as a spawn point for reinforcement aircraft."
+msgstr "可作為增援戰機的出生點。"
 
-#, fuzzy
 msgid "HUD_SECTOR_DESCRIPTION_AIRFIELD_2"
-msgstr ""
-"Can be selected as a spawn point for reinforcement aircraft. Reduces their "
-"arrival time."
+msgstr "可作為增援戰機的出生點。縮短他們的抵達時間。"
 
-#, fuzzy
 msgid "HUD_SECTOR_DESCRIPTION_AIRFIELD_3"
-msgstr "Allows for selecting a new available aircraft of the same tier."
+msgstr "可選擇相同階級的新戰機。"
 
-#, fuzzy
 msgid "HUD_SECTOR_DESCRIPTION_ATTACK_1"
-msgstr "Calls in bomber Flights to attack enemy ground targets."
+msgstr "呼叫轟炸機隊攻擊敵方地面目標。"
 
-#, fuzzy
 msgid "HUD_SECTOR_DESCRIPTION_ATTACK_2"
-msgstr "Launches rocket strikes on enemy ground targets."
+msgstr "可向敵方地面目標發射火箭。"
 
-#, fuzzy
 msgid "HUD_SECTOR_DESCRIPTION_DEF_1"
-msgstr ""
-"Equipped with weak AA guns, but protected by a large number of fighters."
+msgstr "備有少量高射砲，但被大量的戰鬥機防守著。"
 
-#, fuzzy
 msgid "HUD_SECTOR_DESCRIPTION_DEF_2"
-msgstr ""
-"Defense system includes high-altitude AA guns and several heavy fighters."
+msgstr "防禦系統包含高空高射砲和少量的重型戰鬥機。"
 
-#, fuzzy
 msgid "HUD_SECTOR_DESCRIPTION_DEF_3"
-msgstr ""
-"Equipped with extensive anti-aircraft defense system and protected by heavy "
-"fighters."
+msgstr "備有大規模的防空系統和且被重型戰鬥機防守著。"
 
-#, fuzzy
 msgid "HUD_SECTOR_DESCRIPTION_DEF_4"
-msgstr ""
-"Defended by multiple light and several high-altitude AA guns. Also protected "
-"by fighters."
+msgstr "被一些高射砲和少量高空高射砲防守著。同時被戰鬥機防守著。"
 
-#, fuzzy
 msgid "HUD_SECTOR_DESCRIPTION_DEF_AIRBASE_ALT"
-msgstr ""
-"Well-protected by a large number of light AA guns and fighters of different "
-"types."
+msgstr "被大量的高射砲和不同種的戰鬥機良好的防守著。"
 
-#, fuzzy
 msgid "HUD_SECTOR_DESCRIPTION_DEF_AIRBASE_MAIN"
-msgstr ""
-"Equipped with weak AA guns, but protected by a large number of fighters."
+msgstr "備有少量高射砲，但被大量的戰鬥機防守著。"
 
 #, fuzzy
 msgid "HUD_SECTOR_DESCRIPTION_DEF_COMMANDCENTER_MAIN"
@@ -3054,67 +2968,47 @@ msgstr ""
 "Equipped with an extensive anti-aircraft defense system and protected by "
 "light fighters."
 
-#, fuzzy
 msgid "HUD_SECTOR_DESCRIPTION_DEF_FIELDCAMP_ALT"
-msgstr "Moderately protected by fighters and AA guns of different types."
+msgstr "被不同的高射砲和戰鬥機良好的防守著。"
 
-#, fuzzy
 msgid "HUD_SECTOR_DESCRIPTION_DEF_FOUNDRY_ALT"
-msgstr ""
-"Equipped with a large number of high-altitude AA guns, but not protected by "
-"air defense aircraft."
+msgstr "備有大量高空高射砲，但沒有防空戰機防守。"
 
-#, fuzzy
 msgid "HUD_SECTOR_DESCRIPTION_DEF_FOUNDRY_MAIN"
-msgstr "Protected by high-altitude AA guns and several heavy fighters."
+msgstr "被高空高射砲和少量重型戰鬥機防守著。"
 
-#, fuzzy
 msgid "HUD_SECTOR_DESCRIPTION_DEF_RADIOPOINT_MAIN"
-msgstr ""
-"Defended by multiple light and several high-altitude AA guns. Also protected "
-"by fighters."
+msgstr "被一些高射砲和少量高空高射砲防守著。同時被戰鬥機防守著。"
 
-#, fuzzy
 msgid "HUD_SECTOR_DESCRIPTION_DEF_WORKSHOP_ALT"
-msgstr "Moderately protected by fighters and AA guns of different types."
+msgstr "被不同的高射砲和戰鬥機良好的防守著。"
 
-#, fuzzy
 msgid "HUD_SECTOR_DESCRIPTION_DEF_WORKSHOP_MAIN"
-msgstr "Protected by high-altitude AA guns and several heavy fighters."
+msgstr "被高空高射砲和少量重型戰鬥機防守著。"
 
-#, fuzzy
 msgid "HUD_SECTOR_DESCRIPTION_INFLUENCE_1"
-msgstr "Earns 3 influence points every 5 seconds."
+msgstr "每 5 秒可獲得 3 點優勢點數。"
 
-#, fuzzy
 msgid "HUD_SECTOR_DESCRIPTION_INFLUENCE_2"
-msgstr "Earns 5 influence points every 5 seconds."
+msgstr "每 5 秒可獲得 5 點優勢點數。"
 
-#, fuzzy
 msgid "HUD_SECTOR_DESCRIPTION_INFLUENCE_3"
-msgstr "Earns 100 influence points every 90 seconds."
+msgstr "每 90 秒可獲得 100 點優勢點數。"
 
-#, fuzzy
 msgid "HUD_SECTOR_DESCRIPTION_INFLUENCE_3_ALT"
-msgstr ""
-"Earns 3 influence points every 5 seconds. Additionally, earns 80 influence "
-"points every 120 seconds."
+msgstr "每 5 秒可獲得 3 點優勢點數。每 120 秒可獲得額外 80 點優勢點數"
 
-#, fuzzy
 msgid "HUD_SECTOR_DESCRIPTION_OBJECT_1"
-msgstr "Contains unarmored ground targets."
+msgstr "包含無裝甲地面目標。"
 
-#, fuzzy
 msgid "HUD_SECTOR_DESCRIPTION_OBJECT_2"
-msgstr "Contains mainly armored ground targets."
+msgstr "包含主要地面裝甲目標。"
 
-#, fuzzy
 msgid "HUD_SECTOR_DESCRIPTION_OBJECT_3"
-msgstr "Contains armored ground targets."
+msgstr "包含地面裝甲目標。"
 
-#, fuzzy
 msgid "HUD_SECTOR_DESCRIPTION_OBJECT_4"
-msgstr "Contains heavily armored ground targets."
+msgstr "包含重裝甲地面目標。"
 
 #, fuzzy
 msgid "HUD_SECTOR_DESCRIPTION_OBJECT_5"
@@ -3124,47 +3018,38 @@ msgstr "Contains well-fortified major ground target."
 msgid "HUD_SECTOR_DESCRIPTION_OBJECT_6"
 msgstr "Contains fortified ground targets."
 
-#, fuzzy
 msgid "HUD_SECTOR_FIND_TARGET"
-msgstr "Searching for target"
+msgstr "正在搜尋目標"
 
-#, fuzzy
 msgid "HUD_SECTOR_INFLUENCE_EVERY_5_SEC"
 msgstr ""
-"<font color='#e5a82e'>+3 influence</font> every <font color='#e5a82e'>5 "
-"seconds</font>."
+"每 <font color='#e5a82e'>5 "
+"秒</font><font color='#e5a82e'>優勢點數 +3</font>。"
 
 #, fuzzy
 msgid "HUD_SECTOR_IS_NOT_WORKING"
 msgstr "Inactive"
 
-#, fuzzy
 msgid "HUD_SECTOR_MESSAGES_CAN_SWAP_YOUR_PLANES"
-msgstr "Allows changing<br>your aircraft"
+msgstr "可更換戰機"
 
-#, fuzzy
 msgid "HUD_SECTOR_MESSAGES_INCREASED_INFLUENCE"
-msgstr "Increased influence"
+msgstr "優勢增加"
 
-#, fuzzy
 msgid "HUD_SECTOR_MESSAGES_ROCKET_ATTACK"
-msgstr "Rocket strike"
+msgstr "火箭"
 
-#, fuzzy
 msgid "HUD_SECTOR_MESSAGES_SPAWN"
-msgstr "Spawn point for reinforcement aircraft"
+msgstr "增援戰機的出生點"
 
-#, fuzzy
 msgid "HUD_SECTOR_MESSAGES_SPAWNTIME_REDUCE"
-msgstr "-{spawntime_reduce} s to the arrival time<br>of reinforcements"
+msgstr "增援戰機的抵達時間 -{spawntime_reduce} 秒"
 
-#, fuzzy
 msgid "HUD_SECTOR_MESSAGES_SUPPORT_SUMMON"
-msgstr "Calls in support"
+msgstr "呼叫支援"
 
-#, fuzzy
 msgid "HUD_SECTOR_MESSAGES_VICTORY_POINTS_INFLUENCE_INCREASE"
-msgstr "+{victory_points} to influence points"
+msgstr "優勢點數 +{victory_points}"
 
 msgid "HUD_SECTOR_SPECIAL_CHARACTERISTICS"
 msgstr "特別屬性:"
@@ -3172,13 +3057,11 @@ msgstr "特別屬性:"
 msgid "HUD_SKIP"
 msgstr "跳過"
 
-#, fuzzy
 msgid "HUD_SMALL_ARMORED_OBJECT"
-msgstr "Small armored ground target"
+msgstr "小型裝甲地面目標"
 
-#, fuzzy
 msgid "HUD_SMALL_OBJECT"
-msgstr "Small ground target"
+msgstr "小型地面目標"
 
 #, fuzzy
 msgid "HUD_SPECTATOR_MODE"
@@ -3219,9 +3102,8 @@ msgstr "SECTOR CAPTURE"
 msgid "HUD_TIPS_CLASS_QUESTS"
 msgstr "AIRCRAFT TYPE MISSIONS"
 
-#, fuzzy
 msgid "HUD_TIPS_COMM_CENTER_DESCRIPTION"
-msgstr "Calls in a bomber Flight to attack enemy ground targets"
+msgstr "呼叫轟炸機隊攻擊敵方地面目標"
 
 msgid "HUD_TIPS_CONQUEST_MODE"
 msgstr "征服"
@@ -3230,9 +3112,8 @@ msgstr "征服"
 msgid "HUD_TIPS_DEFENCE_GROUP"
 msgstr "DEFENDING GROUP"
 
-#, fuzzy
 msgid "HUD_TIPS_FACTORY_DESCRIPTION"
-msgstr "Earns an additional 80 influence points every 120 seconds"
+msgstr "每 120 秒可獲得額外 80 點優勢點數"
 
 #, fuzzy
 msgid "HUD_TIPS_FAST_MESSAGES"
@@ -3384,9 +3265,7 @@ msgstr "Capture and hold key sectors in the area of operation"
 
 #, fuzzy
 msgid "HUD_TIPS_HOW_TO_PLAY_GAMEMODE_2"
-msgstr ""
-"Sectors earn 3 influence points every 5 seconds for the group controlling "
-"them"
+msgstr "分區每 5 秒可為佔領該區的隊伍帶來 3 點優勢點數。"
 
 #, fuzzy
 msgid "HUD_TIPS_HOW_TO_PLAY_GAMEMODE_3"
@@ -3423,9 +3302,8 @@ msgstr "Map, team panels, aircraft type missions"
 msgid "HUD_TIPS_HOW_TO_PLAY_HOT_BUTTONS_5"
 msgstr "Radar scaling"
 
-#, fuzzy
 msgid "HUD_TIPS_INFLUENCE_DESCRIPTION"
-msgstr "Earns 3 influence points every 5 seconds"
+msgstr "每 5 秒可獲得 3 點優勢點數"
 
 #, fuzzy
 msgid "HUD_TIPS_MILITARYBASE_DESCRIPTION"
@@ -3439,13 +3317,11 @@ msgstr "MULTIROLE FIGHTERS"
 msgid "HUD_TIPS_NEW_TERRITORY"
 msgstr "New sector!"
 
-#, fuzzy
 msgid "HUD_TIPS_PLANE_CLASS"
-msgstr "Aircraft type"
+msgstr "機種"
 
-#, fuzzy
 msgid "HUD_TIPS_REPAIR_DESCRIPTION"
-msgstr "Allows an aircraft to be repaired"
+msgstr "可修理戰機"
 
 #, fuzzy
 msgid "HUD_TIPS_SECTOR_DEFENCE_DESCRIPTION_1"
@@ -3456,8 +3332,7 @@ msgstr ""
 #, fuzzy
 msgid "HUD_TIPS_SECTOR_DEFENCE_DESCRIPTION_2"
 msgstr ""
-"Moderately protected by fighters {class:1} and AA guns {teamObject:12} "
-"{teamObject:13} of different types."
+"被不同的高射砲 {teamObject:12} {teamObject:13} 和戰鬥機 {class:1} 良好的防守著。"
 
 #, fuzzy
 msgid "HUD_TIPS_SECTOR_DEFENCE_DESCRIPTION_3"
@@ -3483,13 +3358,11 @@ msgstr ""
 "Equipped with a powerful universal anti-aircraft defense system "
 "{teamObject:12} {teamObject:13} and protected by heavy fighters {class:2}."
 
-#, fuzzy
 msgid "HUD_TIPS_SPAWN_POINT_DESCRIPTION"
-msgstr "Can be selected as a spawn point for reinforcement aircraft"
+msgstr "可被設定為增援戰機的出生點"
 
-#, fuzzy
 msgid "HUD_TIPS_SPAWN_TIME_DESCRIPTION"
-msgstr "Reduces the spawn time for all reinforcement aircraft by 10 seconds"
+msgstr "縮短所有增援戰機的抵達時間 10 秒"
 
 #, fuzzy
 msgid "HUD_TIPS_TACTIC"
@@ -3499,37 +3372,29 @@ msgstr "Tactics"
 msgid "HUD_TIPS_UI"
 msgstr "Interface"
 
-#, fuzzy
 msgid "HUD_TOOLTIPS_AIRCRAFT_MODULE_BACK_ENGINE"
-msgstr "rear engine"
+msgstr "後方引擎"
 
-#, fuzzy
 msgid "HUD_TOOLTIPS_AIRCRAFT_MODULE_CENTER_ENGINE"
-msgstr "central engine"
+msgstr "中央引擎"
 
-#, fuzzy
 msgid "HUD_TOOLTIPS_AIRCRAFT_MODULE_LEFT_ENGINE"
-msgstr "left engine"
+msgstr "左方引擎"
 
-#, fuzzy
 msgid "HUD_TOOLTIPS_AIRCRAFT_MODULE_LEFT_WING"
-msgstr "left wing"
+msgstr "左翼"
 
-#, fuzzy
 msgid "HUD_TOOLTIPS_AIRCRAFT_MODULE_RIGHT_ENGINE"
-msgstr "right engine"
+msgstr "右方引擎"
 
-#, fuzzy
 msgid "HUD_TOOLTIPS_AIRCRAFT_MODULE_RIGHT_WING"
-msgstr "right wing"
+msgstr "右翼"
 
-#, fuzzy
 msgid "HUD_TOOLTIPS_AIRCRAFT_MODULE_TAIL"
-msgstr "tail"
+msgstr "尾翼"
 
-#, fuzzy
 msgid "HUD_TOOLTIPS_AIRCRAFT_MODULE_TURRET"
-msgstr "turret"
+msgstr "砲塔"
 
 #, fuzzy
 msgid "HUD_TOOLTIPS_AIRCRAFT_WITHOUT_CRIT_DMG"
@@ -3546,9 +3411,8 @@ msgstr "Universal belt"
 msgid "HUD_TOOLTIPS_BATTLE_POINTS"
 msgstr "戰鬥點數"
 
-#, fuzzy
 msgid "HUD_TOOLTIPS_BOOST_REMAINING"
-msgstr "Boost availability"
+msgstr "可使用增壓"
 
 #, fuzzy
 msgid "HUD_TOOLTIPS_BUTTON_TO_USE_DESCRIPTION"
@@ -3629,27 +3493,20 @@ msgstr "Number of aircraft in tactical reserve"
 msgid "HUD_TOOLTIPS_STANDARTBELT"
 msgstr "Standard belt"
 
-#, fuzzy
 msgid "HUD_TOOLTIPS_WITHOUT_BONUSES"
-msgstr "No bonuses"
+msgstr "無加成"
 
-#, fuzzy
 msgid "HUD_TO_HANGAR"
-msgstr "Back to Hangar in:"
+msgstr "返回機庫:"
 
-#, fuzzy
 msgid "HUD_TYPE_ASSAULT_NEW_TIP_1"
-msgstr ""
-"Attack enemy sectors by destroying ground targets with powerful forward-"
-"firing weapons"
+msgstr "用你強大的前射武器擊毀敵方分區地面目標"
 
-#, fuzzy
 msgid "HUD_TYPE_ASSAULT_NEW_TIP_2"
-msgstr "Use bombs and rockets to destroy ground targets"
+msgstr "使用炸彈和火箭彈摧毀地面目標"
 
-#, fuzzy
 msgid "HUD_TYPE_ASSAULT_NEW_TIP_3"
-msgstr "Avoid engagements and stay at low altitude"
+msgstr "避免在低空戰鬥和逗留"
 
 #, fuzzy
 msgid "HUD_TYPE_ASSAULT_TIP_1"
@@ -3708,13 +3565,11 @@ msgstr ""
 msgid "HUD_TYPE_BOMBER_NEW_TIP_1"
 msgstr "Attack enemy sectors by destroying ground targets from high altitude"
 
-#, fuzzy
 msgid "HUD_TYPE_BOMBER_NEW_TIP_2"
-msgstr "Attack large ground targets first"
+msgstr "優先攻擊大型地面目標"
 
-#, fuzzy
 msgid "HUD_TYPE_BOMBER_NEW_TIP_3"
-msgstr "Use a turret to defend, or activate boost to disengage"
+msgstr "使用砲塔自保，或啟動增壓逃脫"
 
 #, fuzzy
 msgid "HUD_TYPE_BOMBER_TIP_1"
@@ -3722,9 +3577,8 @@ msgstr ""
 "Medium bombers are high-speed aircraft designed to strike ground targets "
 "with bombs from high altitude."
 
-#, fuzzy
 msgid "HUD_TYPE_BOMBER_TIP_2"
-msgstr "Attack large ground targets first."
+msgstr "優先攻擊大型地面目標。"
 
 #, fuzzy
 msgid "HUD_TYPE_BOMBER_TIP_3"
@@ -3732,11 +3586,8 @@ msgstr ""
 "Attacking ground targets from high altitude allows you to stay out of firing "
 "range of most enemy fighters."
 
-#, fuzzy
 msgid "HUD_TYPE_BOMBER_TIP_4"
-msgstr ""
-"Use turrets to defend against enemy fighters or activate boost to disengage "
-"from them."
+msgstr "使用砲塔抵抗敵方戰鬥機，或啟動增壓逃離他們。"
 
 #, fuzzy
 msgid "HUD_TYPE_BOMBER_TIP_5"
@@ -3771,10 +3622,10 @@ msgid "HUD_TYPE_FIGHTERS_NEW_TIP_2"
 msgstr "保護你的區域免受敵方飛機攻擊"
 
 msgid "HUD_TYPE_FIGHTERS_NEW_TIP_3"
-msgstr "參與中低空的機動作戰"
+msgstr "參與中低空的纏鬥"
 
 msgid "HUD_TYPE_FIGHTERS_NEW_TIP_4"
-msgstr "參與中低空的機動作戰"
+msgstr "參與中低空的纏鬥"
 
 #, fuzzy
 msgid "HUD_TYPE_FIGHTERS_TIP_1"
@@ -3940,7 +3791,6 @@ msgstr ""
 "Multirole fighters are most effective for capturing command centers and "
 "least effective for capturing plants."
 
-#, fuzzy Level off!
 msgid "HUD_WARNING_MESSAGE_ALIGH_PLANE"
 msgstr "保持穩定的飛行！"
 
@@ -4027,9 +3877,8 @@ msgstr "射速下降！"
 msgid "HUD_WARNING_MESSAGE_TAIL_DAMAGED"
 msgstr "尾翼受損！"
 
-#, fuzzy
 msgid "HUD_WARNING_MESSAGE_WAIT_REPLENISH_AMMUNITION"
-msgstr "Wait until ordnance is resupplied."
+msgstr "請等待武器重新裝載完成。"
 
 msgid "HUD_WARNING_MESSAGE_WEAPONS_OVERHEAT"
 msgstr "武器過熱！"
@@ -4079,59 +3928,47 @@ msgstr "只有飛行員可以傳送訊息。"
 msgid "QUICK_MESSAGE_ERROR_TIMER"
 msgstr "Radio contact will be available in: {time_sec}s"
 
-#, fuzzy
 msgid "QUICK_MESSAGE_F2_1"
-msgstr "Proceeding to attack sector \"{sector}\"!"
+msgstr "正在前往攻擊「{sector}」分區!"
 
-#, fuzzy
 msgid "QUICK_MESSAGE_F2_2"
-msgstr "Proceeding to defend sector \"{sector}\"!"
+msgstr "正在前往防守「{sector}」分區!"
 
-#, fuzzy
 msgid "QUICK_MESSAGE_F2_3"
-msgstr "Proceeding to sector \"{sector}\"!"
+msgstr "正在前往「{sector}」分區!"
 
-#, fuzzy
 msgid "QUICK_MESSAGE_F3_1"
-msgstr "Fighting for sector \"{sector}\"! Help!"
+msgstr "正在攻擊「{sector}」! 需要支援!"
 
-#, fuzzy
 msgid "QUICK_MESSAGE_F3_2"
-msgstr "Defending sector \"{sector}\"! Help!"
+msgstr "正在防守「{sector}」! 需要支援!"
 
-#, fuzzy
 msgid "QUICK_MESSAGE_F3_NEED_HELP"
-msgstr "Requesting support!"
+msgstr "需要支援!"
 
-#, fuzzy
 msgid "QUICK_MESSAGE_F4_1"
-msgstr "Attacking {player_name}!"
+msgstr "攻擊 {player_name}!"
 
-#, fuzzy
 msgid "QUICK_MESSAGE_F4_2"
-msgstr "Escorting {player_name}!"
+msgstr "護送 {player_name}!"
 
-#, fuzzy
 msgid "QUICK_MESSAGE_F4_3"
-msgstr "Attacking bomber Flight!"
+msgstr "攻擊轟炸機隊!"
 
-#, fuzzy
 msgid "QUICK_MESSAGE_F4_4"
-msgstr "Escorting bomber Flight!"
+msgstr "護送轟炸機隊!"
 
-#, fuzzy
 msgid "QUICK_MESSAGE_F5_1"
-msgstr "Enemy on my tail! I need help!"
+msgstr "敵人咬住我了! 需要支援!"
 
 msgid "QUICK_MESSAGE_F8_1"
-msgstr "做得好！"
+msgstr "做得好!"
 
 msgid "SETTINGS_SHOW_TIPS_CHECKBOX"
 msgstr "在戰鬥開始前顯示提示"
 
-#, fuzzy
 msgid "UI_MESSAGE_BOMBING_NO_EFFECT"
-msgstr "Bombing is ineffective"
+msgstr "轟炸效果不佳"
 
 #, fuzzy
 msgid "UI_MESSAGE_EVENT_AIRFIELD_CAP"

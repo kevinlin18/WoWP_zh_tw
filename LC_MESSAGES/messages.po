@@ -76,7 +76,7 @@ msgid "COMPONENT_NAME_LABEL_INSTALLATION"
 msgstr "安裝："
 
 msgid "COMPONENT_NAME_LABEL_MAINTENANSE_EXPENSES"
-msgstr "維護："
+msgstr "後勤："
 
 msgid "COMPONENT_NAME_LABEL_PENALTY"
 msgstr "處罰："
@@ -735,7 +735,7 @@ msgid "SYSTEM_MESSAGE_CAMO_EXPIRES_IN"
 msgstr "塗裝到期"
 
 msgid "SYSTEM_MESSAGE_CAMO_PLANE"
-msgstr "{plane_name} 個性化塗裝方案"
+msgstr "{plane_name} 個人化塗裝方案"
 
 msgid "SYSTEM_MESSAGE_CHOOSE_HANGAR_HOLIDAY"
 msgstr "更改"
@@ -928,9 +928,8 @@ msgstr "玩家{name}已經是另一個編隊中的隊員。請選擇列表中的
 msgid "WING_MESSAGE_YOU_DONT_CAN_INVITE_OFFLINE_PLAYER"
 msgstr "你不能邀請一個離線的玩家加入編隊。"
 
-#, fuzzy
 msgid "MESSAGES_BONUS_GOLD_NY"
-msgstr "Gold bonus:"
+msgstr "金幣加成:"
 
 #, fuzzy
 msgid "MESSAGES_CONGRATULATION_YOU_CAN_GET_PLANE"
@@ -1006,9 +1005,8 @@ msgstr ""
 msgid "MESSAGES_SETUP_MODULES"
 msgstr "Mount Modules"
 
-#, fuzzy
 msgid "MESSAGE_ACHIEVEMENT"
-msgstr "Achievement:"
+msgstr "成就:"
 
 #, fuzzy
 msgid "SYSTEM_MESSAGE_ALBION_EVENT_BEGAN"
@@ -1039,7 +1037,6 @@ msgstr ""
 "for Thor's Hammer</font> event have been opened automatically. All prizes "
 "from the loot crates have been added to your account."
 
-#, fuzzy
 msgid "SYSTEM_MESSAGE_CONTEXT_INCLUDING"
 msgstr "包含:"
 
@@ -1047,17 +1044,14 @@ msgstr "包含:"
 msgid "SYSTEM_MESSAGE_DISMISS_CREW"
 msgstr "Dismiss"
 
-#, fuzzy
 msgid "SYSTEM_MESSAGE_FAST_TRAINING_OFF"
-msgstr "組員訓練加速已關閉"
+msgstr "乘員訓練加速已關閉"
 
-#, fuzzy
 msgid "SYSTEM_MESSAGE_FAST_TRAINING_ON"
-msgstr "組員訓練加速已啟動"
+msgstr "乘員訓練加速已啟動"
 
-#, fuzzy
 msgid "SYSTEM_MESSAGE_FR_EXTRA_GIFT"
-msgstr "Extra Bonus"
+msgstr "額外加成"
 
 #, fuzzy
 msgid "SYSTEM_MESSAGE_FR_PACK_SUCCESSFUL_PURCHASE"
@@ -1106,6 +1100,5 @@ msgstr ""
 "Pilot! You have already received the \"{name}\" mission and it cannot be "
 "completed again. The mission cost has been compensated."
 
-#, fuzzy
 msgid "SYSTEM_MESSAGE_TOTAL_ACCOUNT_BALANCE"
 msgstr "帳號一共獲得:"

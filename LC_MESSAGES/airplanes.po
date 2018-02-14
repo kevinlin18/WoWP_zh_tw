@@ -3708,7 +3708,7 @@ msgstr ""
 "but never entered service. Two prototypes were handed over to museums."
 
 msgid "PLANE_LONGNAME_A-26B"
-msgstr "道格拉斯 A-26B 侵略者"
+msgstr "道格拉斯 A-26B 侵入者"
 
 msgid "PLANE_LONGNAME_BF-109E-3"
 msgstr "梅塞施密特 Bf 109 E-3"

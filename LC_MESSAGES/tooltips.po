@@ -1630,7 +1630,7 @@ msgid "TOOLTIP_AMMO_PAGE"
 msgstr "修理您的飛機，補充彈藥和消耗品。"
 
 msgid "TOOLTIP_AMMO_PAGE_HEADER"
-msgstr "維護"
+msgstr "後勤"
 
 msgid "TOOLTIP_AP-INCINERATINGBELT_EFF_RAPID-FIRE_WEP"
 msgstr "高爆燃燒彈是有著很高引燃機率的高效彈藥"
@@ -2031,7 +2031,7 @@ msgid "TOOLTIP_CAMERA_UP_RIGHT"
 msgstr "<b>右斜後下方視角</b><br/>檢視戰機的右上方"
 
 msgid "TOOLTIP_CAMO_PAGE_HEADER"
-msgstr "個性化"
+msgstr "個人化"
 
 msgid "TOOLTIP_CAROUSEL_FILTER_BY_NATION_CH"
 msgstr "戰機國家 (中國)"
@@ -2304,7 +2304,7 @@ msgstr "結束日期:"
 
 msgid "TOOLTIP_EVENT_CAMO_DESCRIPTION"
 msgstr ""
-"選擇 {plane_name} 戰機後您可在個性化介面中地圖類型中選擇使用特殊塗裝並進行應"
+"選擇 {plane_name} 戰機後您可在個人化介面中地圖類型中選擇使用特殊塗裝並進行應"
 "用"
 
 msgid "TOOLTIP_EVENT_CONSUMABLES_DESCRIPTION"
@@ -2315,40 +2315,40 @@ msgstr "您可在\"折扣商品\"中檢視戰機購買折扣資訊"
 
 msgid "TOOLTIP_EVENT_EMBLEM_DESCRIPTION"
 msgstr ""
-"您可在個性化介面中徽章選項中選擇使用特殊徽章並進行套用<br>在機庫中選中 "
+"您可在個人化介面中徽章選項中選擇使用特殊徽章並進行套用<br>在機庫中選中 "
 "{plane_name} 戰機"
 
 msgid "TOOLTIP_EVENT_EMBLEM_DESCRIPTION_CHINA"
 msgstr ""
-"您可在個性化介面中徽章選項中選擇使用特殊徽章並進行套用<br>在機庫中選中中國戰"
+"您可在個人化介面中徽章選項中選擇使用特殊徽章並進行套用<br>在機庫中選中中國戰"
 "機"
 
 msgid "TOOLTIP_EVENT_EMBLEM_DESCRIPTION_GERMANY"
 msgstr ""
-"您可在個性化介面中徽章選項中選擇使用特殊徽章並進行套用<br>在機庫中選中德國戰"
+"您可在個人化介面中徽章選項中選擇使用特殊徽章並進行套用<br>在機庫中選中德國戰"
 "機"
 
 msgid "TOOLTIP_EVENT_EMBLEM_DESCRIPTION_JAPAN"
 msgstr ""
-"您可在個性化介面中徽章選項中選擇使用特殊徽章並進行套用<br>在機庫中選中日本戰"
+"您可在個人化介面中徽章選項中選擇使用特殊徽章並進行套用<br>在機庫中選中日本戰"
 "機"
 
 msgid "TOOLTIP_EVENT_EMBLEM_DESCRIPTION_SEARCH"
-msgstr "您可在徽章選項中選擇使用特殊徽章並進行套用<br>進入個性化介面進行調整"
+msgstr "您可在徽章選項中選擇使用特殊徽章並進行套用<br>進入個人化介面進行調整"
 
 msgid "TOOLTIP_EVENT_EMBLEM_DESCRIPTION_UK"
 msgstr ""
-"您可在個性化介面中徽章選項中選擇使用特殊徽章並進行套用<br>在機庫中選中英國戰"
+"您可在個人化介面中徽章選項中選擇使用特殊徽章並進行套用<br>在機庫中選中英國戰"
 "機"
 
 msgid "TOOLTIP_EVENT_EMBLEM_DESCRIPTION_USA"
 msgstr ""
-"您可在個性化介面中徽章選項中選擇使用特殊徽章並進行套用<br>在機庫中選中美國戰"
+"您可在個人化介面中徽章選項中選擇使用特殊徽章並進行套用<br>在機庫中選中美國戰"
 "機"
 
 msgid "TOOLTIP_EVENT_EMBLEM_DESCRIPTION_USSR"
 msgstr ""
-"您可在個性化介面中徽章選項中選擇使用特殊徽章並進行套用<br>在機庫中選中蘇聯戰"
+"您可在個人化介面中徽章選項中選擇使用特殊徽章並進行套用<br>在機庫中選中蘇聯戰"
 "機"
 
 msgid "TOOLTIP_EVENT_EQUIPMENT_DESCRIPTION"
@@ -2689,7 +2689,7 @@ msgid "TOOLTIP_LABEL_NY_SAUCER_GAMEMODE"
 msgstr "飛碟只可在打雪仗中使用"
 
 msgid "TOOLTIP_LABEL_NY_SAUCER_STATUS"
-msgstr "飛碟無需進行維護、升級裝備、調換塗裝等操作"
+msgstr "飛碟無需進行維修、升級裝備、調換塗裝等操作"
 
 msgid "TOOLTIP_LANDSCAPE_RESOLUTION"
 msgstr "設定地面、山川等地圖上其他細節的顯示品質"
@@ -4868,9 +4868,8 @@ msgstr "Missions"
 msgid "TOOLTIP_BATTLE_RESULTS_BONUSES_WITH_CONSUMABLES"
 msgstr "Consumables"
 
-#, fuzzy
 msgid "TOOLTIP_BATTLE_RESULTS_BONUSES_WITH_PREM_ACC"
-msgstr "Premium Account"
+msgstr "加值帳號"
 
 #, fuzzy
 msgid "TOOLTIP_BATTLE_RESULTS_BONUSES_WITH_QUEST"
@@ -4880,9 +4879,8 @@ msgstr "Mission \"{quest-name}\""
 msgid "TOOLTIP_BATTLE_RESULTS_CREDITS_WITHOUT_BONUSES"
 msgstr "Total credits without bonuses"
 
-#, fuzzy
 msgid "TOOLTIP_BATTLE_RESULTS_EXP_BONUSES"
-msgstr "Bonus to XP:"
+msgstr "經驗加成:"
 
 #, fuzzy
 msgid "TOOLTIP_BATTLE_RESULTS_EXP_WITHOUT_BONUSES"
@@ -4895,13 +4893,11 @@ msgstr "Total Free XP received in battle (5% of received experience)"
 msgid "TOOLTIP_BATTLE_RESULTS_MASTERY_POINTS"
 msgstr "精通點數:"
 
-#, fuzzy
 msgid "TOOLTIP_BATTLE_RESULTS_OTHER_BONUSES"
-msgstr "Other bonuses"
+msgstr "其他加成"
 
-#, fuzzy
 msgid "TOOLTIP_BATTLE_RESULTS_PREM_PLANE_TIER_VIII"
-msgstr "Tier VIII Premium aircraft"
+msgstr "VIII 階加值戰機"
 
 msgid "TOOLTIP_BATTLE_RESULTS_SORT_BY_BATTLE_POINTS"
 msgstr "按戰鬥點數排序"

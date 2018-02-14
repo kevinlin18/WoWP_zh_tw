@@ -234,10 +234,10 @@ msgid "BUTTON_GOTO_INSTALLATION"
 msgstr "安裝"
 
 msgid "BUTTON_GOTO_MAINTENANCE"
-msgstr "去維護"
+msgstr "去後勤"
 
 msgid "BUTTON_GOTO_MAINTENANCE_1"
-msgstr "前往維護介面"
+msgstr "前往後勤介面"
 
 msgid "BUTTON_GOTO_MARKET"
 msgstr "<b>商店與倉庫</b><br/>可購買或出售戰機、配件、彈藥、消耗品"
@@ -486,7 +486,7 @@ msgid "CHINA_LOBBY_RENT_MESSAGE_AIRCRAFT_RENT_OVER"
 msgstr "戰機使用期限屆滿，請進入商店與倉庫介面管理該戰機"
 
 msgid "CHINA_LOBBY_RENT_MESSAGE_CAMO_RENT_OVER"
-msgstr "戰機使用期限屆滿，但仍可嘗試塗裝個性化搭配"
+msgstr "戰機使用期限屆滿，但仍可嘗試塗裝個人化搭配"
 
 msgid "CHINA_LOBBY_RENT_MESSAGE_CREW_MANAGE_NOT_ENOUGH_GOLD_EXTEND_BARRACKS"
 msgstr "沒有足夠的金幣購買床位"
@@ -644,7 +644,7 @@ msgid "CURRENT_LEVEL"
 msgstr "目前等級"
 
 msgid "CUSTOMIZATION"
-msgstr "個性化"
+msgstr "塗裝工坊"
 
 msgid "CUSTOM_CONFIG_MESSAGE_MODULE_INCOMPATIBLE_PART_1"
 msgstr "與裝備 {name}不相容："
@@ -906,7 +906,7 @@ msgid "F1_HANGAR_AIRCRAFT_STATS"
 msgstr "戰機參數"
 
 msgid "F1_HANGAR_AITCRAFT_APPEARANCE"
-msgstr "個性化塗裝"
+msgstr "個人化塗裝"
 
 msgid "F1_HANGAR_AMMO"
 msgstr "彈藥補給"
@@ -1772,7 +1772,7 @@ msgstr "快飛上去!"
 
 msgid "LOBBY_APRIL_2015_EMBLEM_POPUP_2"
 msgstr ""
-"飛行員,現在你有機會得到—獨特的個性化圖案—並且享受5折優惠! 期限限定: 此限量版個性化"
+"飛行員,現在你有機會得到—獨特的個人化圖案—並且享受5折優惠! 期限限定: 此限量版個人化"
 "圖案在4月10日後將不可購買!"
 
 msgid "LOBBY_APRIL_2015_WINDOW_HEADER"
@@ -2402,7 +2402,7 @@ msgid "LOBBY_BUTTON_COLLECT_BOMBER"
 msgstr "Assemble Bomber"
 
 msgid "LOBBY_BUTTON_CUSTOMIZATION"
-msgstr "個性化"
+msgstr "塗裝工坊"
 
 msgid "LOBBY_BUTTON_DETAILED_CAPS"
 msgstr "詳情"
@@ -2438,7 +2438,7 @@ msgid "LOBBY_BUTTON_LEAVE_TRAINING_ROOM"
 msgstr "離開"
 
 msgid "LOBBY_BUTTON_MAINTENANCE"
-msgstr "維護"
+msgstr "後勤"
 
 msgid "LOBBY_BUTTON_MODULES"
 msgstr "裝備"
@@ -2887,9 +2887,8 @@ msgstr ""
 msgid "LOBBY_CHAT_MESSAGE_NO_RESULT_SEARCH"
 msgstr "No results found"
 
-#, fuzzy
 msgid "LOBBY_CHECKBOX_SHOW_QUEST_PLANE"
-msgstr "Display missions available only for the selected aircraft"
+msgstr "只顯示適合目前選擇戰機的任務"
 
 #, fuzzy
 msgid "LOBBY_CHOOSE_BUTTON_ON_ACTION_MESSAGES"
@@ -4064,9 +4063,8 @@ msgstr "模擬訓練"
 msgid "LOBBY_CREW_UNIVERSAL_SKILLS"
 msgstr "通用技能"
 
-#, fuzzy
 msgid "LOBBY_CURRENT_EVENTS_CHECKBOX"
-msgstr "Display currently active specials."
+msgstr "顯示正在進行的優惠"
 
 msgid "LOBBY_DESCRIPTION_BATTLE_POINTS"
 msgstr "戰鬥接受後戰鬥點數會被轉換為<b><font color='#{colorID}'>銀幣</font></b>"
@@ -5009,7 +5007,7 @@ msgid "LOBBY_EVENT_MESSAGE_NEW_EQUIPMENT_AD"
 msgstr "增加機體負荷承受力<br>附加配件!"
 
 msgid "LOBBY_EVENT_MESSAGE_NOSEART_AD"
-msgstr "為你的戰機<br>贏得與眾不同的個性化塗裝!"
+msgstr "為你的戰機<br>贏得與眾不同的個人化塗裝!"
 
 msgid "LOBBY_EVENT_MESSAGE_PREM_PLANE_FOR_TICKETS"
 msgstr "特別的加值戰機<br>現在可使用令牌進行購買!"
@@ -5140,16 +5138,16 @@ msgid "LOBBY_EXIT_GAMEMODE_BUTTON_BACK_CAPS"
 msgstr "返回"
 
 msgid "LOBBY_EXIT_GAMEMODE_BUTTON_CLOSE_APPEARANCE"
-msgstr "關閉個性化"
+msgstr "關閉塗裝工坊"
 
 msgid "LOBBY_EXIT_GAMEMODE_BUTTON_CLOSE_APPEARANCE_CAPS"
-msgstr "關閉個性化"
+msgstr "關閉塗裝工坊"
 
 msgid "LOBBY_EXIT_GAMEMODE_BUTTON_CLOSE_MAINTENANCE"
-msgstr "關閉維護介面"
+msgstr "關閉後勤介面"
 
 msgid "LOBBY_EXIT_GAMEMODE_BUTTON_CLOSE_MAINTENANCE_CAPS"
-msgstr "關閉維護介面"
+msgstr "關閉後勤介面"
 
 msgid "LOBBY_EXIT_GAMEMODE_BUTTON_CLOSE_MODULES"
 msgstr "關閉裝備介面"
@@ -5337,7 +5335,7 @@ msgstr "金幣:"
 msgid "LOBBY_GOLD_REFILL_UNAVAILABLE"
 msgstr ""
 "自動補充金幣彈藥和消耗品的功能暫不可用<br>更換彈藥種類或不攜帶消耗品進入戰鬥<br>進"
-"入維護介面補充彈藥和消耗品"
+"入後勤介面補充彈藥和消耗品"
 
 #, fuzzy
 msgid "LOBBY_GUNNER_CABIN"
@@ -5414,7 +5412,7 @@ msgid "LOBBY_HEADER_WAR_CACHE_COMING_SOON"
 msgstr "節日活動還會有的！"
 
 msgid "LOBBY_HIDEN_PLANES_ANGAR"
-msgstr "在機庫中可隱藏戰機"
+msgstr "隱藏在機庫中的戰機"
 
 msgid "LOBBY_HINT_COMPARISON_MUCH_BETTER"
 msgstr "優越，會使你在戰場上獲得優勢。"
@@ -6218,7 +6216,7 @@ msgid "LOBBY_MAINTENANCE_MESSAGE_APPLY_AIRCRAFT_REPAIR_FOR_PRICE"
 msgstr "確定花費 {price}來修復戰機嗎？"
 
 msgid "LOBBY_MAINTENANCE_MESSAGE_APPLY_TOTAL_SUMM"
-msgstr "確定花費 {total_cost} 維護戰機嗎?"
+msgstr "確定花費 {total_cost} 維修戰機嗎?"
 
 msgid "LOBBY_MAINTENANCE_MESSAGE_INSTALL_AMMOBELT"
 msgstr "安裝彈藥帶"
@@ -6251,10 +6249,10 @@ msgid "LOBBY_MAINTENANCE_PAGE_CHECKBOX_AUTOMATIC_REFILL_CAPS"
 msgstr "自動補充"
 
 msgid "LOBBY_MAINTENANCE_PAGE_HEADER"
-msgstr "維護"
+msgstr "後勤"
 
 msgid "LOBBY_MAINTENANCE_PAGE_HEADER_CAPS"
-msgstr "維護"
+msgstr "後勤"
 
 msgid "LOBBY_MAINTENANCE_PAGE_HEADER_EQIPMENT_CAPS"
 msgstr "消耗品"
@@ -6287,7 +6285,7 @@ msgid "LOBBY_MAINTENANSE_LABEL_PER_ONE"
 msgstr "單價"
 
 msgid "LOBBY_MAINTENANSE_LABEL_REFILL_NEEDED"
-msgstr "去往維護介面！"
+msgstr "去往後勤介面！"
 
 msgid "LOBBY_MAY_2015_WINDOW_HEADER"
 msgstr "С 9 МАЯ!"
@@ -13202,14 +13200,14 @@ msgid "MESSAGE_INCOMPATIBLE_WITH_CURRENT_MODULES"
 msgstr "目前配置不相容"
 
 msgid "MESSAGE_INSTALLED_STANDARTBELT"
-msgstr "所有此類型武器上都將安裝免費的標準彈藥，您可在維護介面中進行更換。"
+msgstr "所有此類型武器上都將安裝免費的標準彈藥，您可在後勤介面中進行更換。"
 
 msgid "MESSAGE_INSTALLED_STANDARTBELT_1"
-msgstr "所有 \"{armour_name}\"上都安裝有免費的標準彈藥，您可在維護介面中進行更換。"
+msgstr "所有 \"{armour_name}\"上都安裝有免費的標準彈藥，您可在後勤介面中進行更換。"
 
 msgid "MESSAGE_INSTALLED_STANDARTBELT_2"
 msgstr ""
-"所有\"{armour_name1}\" 和 \"{armour_name2}\"上都安裝有免費的標準彈藥，您可在維護界"
+"所有\"{armour_name1}\" 和 \"{armour_name2}\"上都安裝有免費的標準彈藥，您可在後勤界"
 "面中進行更換。"
 
 msgid "MESSAGE_IS_ON_WAREHOUSE"
@@ -13636,10 +13634,10 @@ msgid "PLANE_INFO_LEVEL_TEMPLATE"
 msgstr "{type}, 等級 {level}"
 
 msgid "PLANE_SELECT"
-msgstr "開始戰鬥！"
+msgstr "開始戰鬥!"
 
 msgid "PLANE_SELECT_CAPS"
-msgstr "開始戰鬥！"
+msgstr "開始戰鬥!"
 
 msgid "PLAYERS_IN_THE_QUEUE"
 msgstr "線上等待玩家："
