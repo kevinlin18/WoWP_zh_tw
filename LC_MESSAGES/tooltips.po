@@ -3745,8 +3745,7 @@ msgstr "你可以在機庫左下角找到已新增的玩家名單。"
 #, fuzzy
 msgid "TOOLTIPS_ACHIEVEMENTS_ARCHIVE_DESCRIPTION"
 msgstr ""
-"Open the default browser to go to the archive of achievements awarded in the "
-"mode \"Superiority\"."
+"打開您的預設瀏覽器來前往您在「Superiority」模式中獲得的成就檔案。"
 
 #, fuzzy
 msgid "TOOLTIPS_ACHIEVEMENTS_BATTLE_EFFICIENCY"
@@ -3984,9 +3983,8 @@ msgstr "Used for augmenting wing lift"
 msgid "TOOLTIPS_FR_BANNER_TIME_LEFT"
 msgstr "Don't miss your chance! The offer is available for {days} d."
 
-#, fuzzy
 msgid "TOOLTIPS_FR_INCLUDED_IN_PRICE"
-msgstr "The price also includes:"
+msgstr "價格同時包含:"
 
 #, fuzzy
 msgid "TOOLTIPS_FUEL_TANKS_DESCRIPTION"
@@ -3996,21 +3994,17 @@ msgstr "Containers with fuel for engines"
 msgid "TOOLTIPS_FUSELAGE_FRAME_DESCRIPTION"
 msgstr "Set of load-bearing elements, basis of an aircraft structure"
 
-#, fuzzy
 msgid "TOOLTIPS_GA_CANONS"
-msgstr "Autocannon armament effective against ground targets"
+msgstr "機砲在對付地面目標表現良好"
 
-#, fuzzy
 msgid "TOOLTIPS_GA_LONGRANGE_BIGGUN"
-msgstr "Long-range armament effective against armored ground targets"
+msgstr "長距離武器對付地面裝甲目標表現良好"
 
-#, fuzzy
 msgid "TOOLTIPS_GA_MASHINEGUNS"
-msgstr "Machine gun armament effective against unarmored ground targets"
+msgstr "機槍在對付無裝甲地面目標表現良好"
 
-#, fuzzy
 msgid "TOOLTIPS_GA_MIXEDGUNS"
-msgstr "Machine gun and autocannon armament effective against ground targets"
+msgstr "機槍和機砲在對付地面目標表現良好"
 
 #, fuzzy
 msgid "TOOLTIPS_GOOD_ROCKET_WEAPON"
@@ -4262,13 +4256,11 @@ msgstr "飛行速度一般、增壓能力一般"
 msgid "TOOLTIPS_MED_SPEED_AND_LONGWEP"
 msgstr "飛行速度一般、增壓能力持久"
 
-#, fuzzy
 msgid "TOOLTIPS_MIDRANGE_CANONS"
-msgstr "Autocannon armament effective at medium range"
+msgstr "機砲在中距離表現良好"
 
-#, fuzzy
 msgid "TOOLTIPS_MIDRANGE_MIXEDGUNS"
-msgstr "Machine gun and autocannon armament effective at medium range"
+msgstr "機槍和機砲在中距離表現良好"
 
 #, fuzzy
 msgid "TOOLTIPS_MODS_FOR_NEXT_BATTLE"
@@ -4290,13 +4282,11 @@ msgstr "Used automatically after the battle is finished"
 msgid "TOOLTIPS_MODULE_INFO_USED_CONTINOUSLY"
 msgstr "Effective for the course of the battle"
 
-#, fuzzy
 msgid "TOOLTIPS_MULTIPLE_POWERFUL_TURRETS"
-msgstr "Equipped with several powerful defensive turrets"
+msgstr "備有數個強力的防禦砲塔"
 
-#, fuzzy
 msgid "TOOLTIPS_MULTIPLE_TURRETS"
-msgstr "Equipped with several defensive turrets"
+msgstr "備有數個防禦砲塔"
 
 msgid "TOOLTIPS_NOT_ARMORED_OBJECT"
 msgstr "無裝甲地面目標"
@@ -4391,55 +4381,35 @@ msgstr "The aircraft can participate in the Battle for Thor's Hammer event."
 msgid "TOOLTIPS_PLANE_COST_WITH_DISCOUNT"
 msgstr "Aircraft price with discount:"
 
-#, fuzzy
 msgid "TOOLTIPS_POWEFUL_GA_CANONS"
-msgstr "Powerful autocannon armament effective against ground targets"
+msgstr "強勁的機砲在對付地面目標表現良好"
 
-#, fuzzy
 msgid "TOOLTIPS_POWERFUL_BIGGUN"
-msgstr ""
-"Powerful large-caliber armament effective against aircraft with high "
-"survivability"
+msgstr "強勁的大口徑武器在對付高生命值的戰機表現良好"
 
-#, fuzzy
 msgid "TOOLTIPS_POWERFUL_CANONS"
-msgstr ""
-"Powerful autocannon armament effective against aircraft with high "
-"survivability"
+msgstr "強勁的機砲在對付高生命值的戰機表現良好"
 
-#, fuzzy
 msgid "TOOLTIPS_POWERFUL_GA_LONGRANGE_BIGGUN"
-msgstr "Powerful long-range armament effective against armored ground targets"
+msgstr "強勁的長距離武器在對付地面裝甲目標表現良好"
 
-#, fuzzy
 msgid "TOOLTIPS_POWERFUL_GA_MASHINEGUNS"
-msgstr ""
-"Powerful machine gun complement very effective against unarmored ground "
-"targets"
+msgstr "強勁的機槍在對付無裝甲地面目標表現非常良好"
 
-#, fuzzy
 msgid "TOOLTIPS_POWERFUL_MASHINEGUNS"
-msgstr ""
-"Powerful machine gun complement effective against aircraft with high "
-"survivability"
+msgstr "強勁的機槍在對付高生命值的戰機表現良好"
 
-#, fuzzy
 msgid "TOOLTIPS_POWERFUL_MIXEDGUNS"
-msgstr ""
-"Powerful machine gun and autocannon armament effective against aircraft with "
-"high survivability"
+msgstr "強勁的機槍和機砲在對付高生命值的戰機表現良好"
 
-#, fuzzy
 msgid "TOOLTIPS_POWERFUL_ROCKET_WEAPON"
-msgstr "Powerful rocket armament"
+msgstr "強勁的火箭彈"
 
-#, fuzzy
 msgid "TOOLTIPS_POWERFUL_TURRET"
-msgstr "Equipped with a powerful defensive turret"
+msgstr "備有一個強力的防禦砲塔"
 
-#, fuzzy
 msgid "TOOLTIPS_POWERFUL_TURRET_ANGLES"
-msgstr "Equipped with a powerful defensive turret with a wide field of fire"
+msgstr "備有一個廣射界的強力防禦砲塔"
 
 msgid "TOOLTIPS_PREMIUM_SHOP"
 msgstr "加值商店"
@@ -4644,21 +4614,17 @@ msgid "TOOLTIPS_TFC_PLANE_READ_PERSONAL_PILOT_INFO_AND_RECRUIT"
 msgstr ""
 "View aircraft specifications and female pilot's personal file and recruit her"
 
-#, fuzzy
 msgid "TOOLTIPS_THREE_POWERFUL_TURRETS"
-msgstr "Equipped with three powerful defensive turrets"
+msgstr "備有三個強力的防禦砲塔"
 
-#, fuzzy
 msgid "TOOLTIPS_TOKENS_ABLE_BUY_DD_HH_MM"
-msgstr "Time left to purchase tokens: {dd_hh_mm}"
+msgstr "可購買令牌的剩餘時間: {dd_hh_mm}"
 
-#, fuzzy
 msgid "TOOLTIPS_TURRET"
-msgstr "Equipped with a defensive turret"
+msgstr "備有一個防禦砲塔"
 
-#, fuzzy
 msgid "TOOLTIPS_TURRET_ANGLES"
-msgstr "Equipped with a defensive turret with a wide field of fire"
+msgstr "備有一個廣射界的防禦砲塔"
 
 #, fuzzy
 msgid "TOOLTIPS_TURRET_MODE"
@@ -4765,17 +4731,14 @@ msgstr "Very high survivability, resistant to critical damage and fire"
 msgid "TOOLTIPS_VERYHIGH_MANUVER"
 msgstr "非常高的水平轉彎機動性"
 
-#, fuzzy
 msgid "TOOLTIPS_VERYHIGH_SPEED_AND_LONGWEP"
-msgstr "Very high airspeed, powerful and long-lasting boost"
+msgstr "飛行速度非常高，增壓能力強勁且持久"
 
-#, fuzzy
 msgid "TOOLTIPS_VERYHIGH_SPEED_AND_POWERFULWEP"
-msgstr "Very high airspeed, accelerates very quickly when boosting"
+msgstr "飛行速度非常高，增壓時加速快"
 
-#, fuzzy
 msgid "TOOLTIPS_VERYLOW_MENUVER"
-msgstr "Not designed for maneuvering combat"
+msgstr "不是設計來進行纏鬥"
 
 msgid "TOOLTIPS_VERYLOW_SPEED"
 msgstr "飛行速度非常低"
@@ -4813,9 +4776,8 @@ msgstr ""
 "caused to enemy targets. The points are converted to credits: the more "
 "combat points earned in battle, the more credits received."
 
-#, fuzzy
 msgid "TOOLTIP_BATTLE_RESULTS_ACHIEVEMENTS"
-msgstr "Earned Achievements"
+msgstr "獲得的成就"
 
 #, fuzzy
 msgid "TOOLTIP_BATTLE_RESULTS_ALL_WITH_BONUSES"
@@ -4875,16 +4837,14 @@ msgstr "加值帳號"
 msgid "TOOLTIP_BATTLE_RESULTS_BONUSES_WITH_QUEST"
 msgstr "Mission \"{quest-name}\""
 
-#, fuzzy
 msgid "TOOLTIP_BATTLE_RESULTS_CREDITS_WITHOUT_BONUSES"
-msgstr "Total credits without bonuses"
+msgstr "總收益不含加成"
 
 msgid "TOOLTIP_BATTLE_RESULTS_EXP_BONUSES"
 msgstr "經驗加成:"
 
-#, fuzzy
 msgid "TOOLTIP_BATTLE_RESULTS_EXP_WITHOUT_BONUSES"
-msgstr "Total XP without bonuses"
+msgstr "總經驗不含加成"
 
 #, fuzzy
 msgid "TOOLTIP_BATTLE_RESULTS_FREE_EXP_WITHOUT_BONUSES"
@@ -4906,9 +4866,8 @@ msgstr "按戰鬥點數排序"
 msgid "TOOLTIP_BATTLE_RESULTS_SORT_BY_CLASS_RANK"
 msgstr "Sort by aircraft with the highest aircraft type grade"
 
-#, fuzzy
 msgid "TOOLTIP_BATTLE_RESULTS_SPECIAL_REWARD"
-msgstr "Special Achievements"
+msgstr "特殊成就"
 
 #, fuzzy
 msgid "TOOLTIP_BATTLE_RESULTS_SPECIAL_REWARD_EVENT_1"
@@ -4946,9 +4905,8 @@ msgstr "Total damage caused to ground targets: {value}"
 msgid "TOOLTIP_BATTLE_RESULTS_TEAM_SCORE_MASTERY_POINTS"
 msgstr "Number of mastery points"
 
-#, fuzzy
 msgid "TOOLTIP_BATTLE_RESULTS_TEAM_SCORE_MEDAL_COUNT"
-msgstr "Achievements earned"
+msgstr "獲得的成就"
 
 #, fuzzy
 msgid "TOOLTIP_BATTLE_RESULTS_TEAM_SCORE_PK-PA"

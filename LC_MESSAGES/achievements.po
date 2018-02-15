@@ -22,7 +22,7 @@ msgid "ACHIEVEMENTS_AVG_PER_BATTLE"
 msgstr "單場戰鬥平均"
 
 msgid "ACHIEVEMENTS_AVG_XP_PER_BATTLE"
-msgstr "平均每場戰鬥獲得經驗："
+msgstr "每場戰鬥平均獲得經驗"
 
 msgid "ACHIEVEMENTS_BATTLE"
 msgstr "戰鬥"
@@ -106,13 +106,13 @@ msgid "ACHIEVEMENTS_DAMAGE_TO_GROUND_TARGETS"
 msgstr "對地面造成的傷害："
 
 msgid "ACHIEVEMENTS_DEFEATS"
-msgstr "失敗次數："
+msgstr "失敗次數"
 
 msgid "ACHIEVEMENTS_DISCOVERED_TOTAL"
-msgstr "總髮現："
+msgstr "總發現："
 
 msgid "ACHIEVEMENTS_DRAWS"
-msgstr "平局："
+msgstr "平手"
 
 msgid "ACHIEVEMENTS_GROUND_TARGETS_DESTROYED"
 msgstr "擊毀地面目標數："
@@ -151,10 +151,10 @@ msgid "ACHIEVEMENTS_MAX_DESTROYED_PER_BATTLE"
 msgstr "單場最高擊墜數："
 
 msgid "ACHIEVEMENTS_MAX_PER_BATTLE"
-msgstr "單場戰鬥最大"
+msgstr "單場戰鬥最多"
 
 msgid "ACHIEVEMENTS_MAX_XP_FOR_BATTLE"
-msgstr "單次戰鬥獲得最大經驗："
+msgstr "單場戰鬥最多獲得經驗"
 
 msgid "ACHIEVEMENTS_NO_MEDALS"
 msgstr "暫未獲得成就"
@@ -189,7 +189,7 @@ msgid "ACHIEVEMENTS_SUMMARY_XP"
 msgstr "總經驗："
 
 msgid "ACHIEVEMENTS_SUPERIORITY_POINTS_AVG_PER_BATTLE"
-msgstr "平均每場戰鬥獲得的優勢點數"
+msgstr "每場戰鬥平均獲得的優勢點數"
 
 msgid "ACHIEVEMENTS_SUPERIORITY_POINTS_TOTAL"
 msgstr "總獲得的優勢點數"
@@ -237,13 +237,13 @@ msgid "ACHIEVEMENTS_TOTAL"
 msgstr "總計"
 
 msgid "ACHIEVEMENTS_TOTAL_BATTLES"
-msgstr "戰鬥次數："
+msgstr "戰鬥次數"
 
 msgid "ACHIEVEMENTS_WINS"
-msgstr "勝利次數："
+msgstr "勝利次數"
 
 msgid "ACHIEVEMENTS_WINS_IN_GROUP"
-msgstr "助攻次數："
+msgstr "助攻次數"
 
 msgid "ACHIEVEMENTS_WIN_MARKS"
 msgstr "毀傷標記"
@@ -2226,82 +2226,62 @@ msgstr "茲沃納列夫勳章"
 msgid "TOOLTIP_ACHIEVEMENTS_PAGE_PVE"
 msgstr "在戰鬥中獲得勳章和獎勵"
 
-#, fuzzy
 msgid "ACHIEVEMENTS_AIRCRAFTS_DESTROED_IN_DEF_SECTOR"
-msgstr "Enemy aircraft destroyed when defending sectors"
+msgstr "防守分區時擊落敵機"
 
-#, fuzzy
 msgid "ACHIEVEMENTS_AIRCRAFTS_DESTROYED_2-0"
-msgstr "Enemy aircraft destroyed"
+msgstr "擊落敵機"
 
-#, fuzzy
 msgid "ACHIEVEMENTS_AIRCRAFTS_DESTROYED_AVERAGE_PER_BATTLE"
-msgstr "Average number of enemy aircraft destroyed per battle"
+msgstr "單場戰鬥平均擊落敵機"
 
-#, fuzzy
 msgid "ACHIEVEMENTS_AIR_TARGETS_DESTROYED_AVERAGE_PER_FLIGHT"
-msgstr "Average number of aircraft destroyed per sortie"
+msgstr "每次出擊平均擊落敵機"
 
-#, fuzzy
 msgid "ACHIEVEMENTS_ALL_DURATION_ON_PLANES"
-msgstr "Total flying hours in the aircraft"
+msgstr "本機的總飛行時數"
 
-#, fuzzy
 msgid "ACHIEVEMENTS_ARCHIVE"
-msgstr "Archive"
+msgstr "檔案"
 
-#, fuzzy
 msgid "ACHIEVEMENTS_AVERAGE_BATTLE_POINTS_PER_BATTLE"
-msgstr "Average combat points earned per battle"
+msgstr "每場戰鬥平均獲得戰鬥點數"
 
-#, fuzzy
 msgid "ACHIEVEMENTS_AVERAGE_BATTLE_POINTS_PER_FLIGHT"
-msgstr "Average combat points earned per sortie"
+msgstr "每場出擊平均獲得戰鬥點數"
 
-#, fuzzy
 msgid "ACHIEVEMENTS_AVERAGE_DURATION_FLIGHT"
-msgstr "Average sortie duration"
+msgstr "平均出擊時長"
 
-#, fuzzy
 msgid "ACHIEVEMENTS_AVERAGE_EXP_PER_FLIGHT"
-msgstr "Average experience per sortie"
+msgstr "每場出擊平均獲得經驗"
 
-#, fuzzy
 msgid "ACHIEVEMENTS_CLASS_EFFICIENCY"
-msgstr "Aircraft Type Efficiency"
+msgstr "機種表現"
 
-#, fuzzy
 msgid "ACHIEVEMENTS_CLASS_EFFICIENCY_ASSAULT"
-msgstr "Aircraft type efficiency: attack aircraft"
+msgstr "機種表現: 攻擊機"
 
-#, fuzzy
 msgid "ACHIEVEMENTS_CLASS_EFFICIENCY_BOMBER"
-msgstr "Aircraft type efficiency: bombers"
+msgstr "機種表現: 轟炸機"
 
-#, fuzzy
 msgid "ACHIEVEMENTS_CLASS_EFFICIENCY_FIGHTER"
-msgstr "Aircraft type efficiency: fighters"
+msgstr "機種表現: 戰鬥機"
 
-#, fuzzy
 msgid "ACHIEVEMENTS_CLASS_EFFICIENCY_HFIGHTER"
-msgstr "Aircraft type efficiency: heavy fighters"
+msgstr "機種表現: 重型戰鬥機"
 
-#, fuzzy
 msgid "ACHIEVEMENTS_CLASS_EFFICIENCY_NAVY"
-msgstr "Aircraft type efficiency: multirole fighters"
+msgstr "機種表現: 多用途戰鬥機"
 
-#, fuzzy
 msgid "ACHIEVEMENTS_CONTEXT_NOT_RECEIVED"
-msgstr "Achievement not received yet"
+msgstr "尚未獲得成就"
 
-#, fuzzy
 msgid "ACHIEVEMENTS_DEFENDER-BOMBER_DESTROYED"
-msgstr "Air defense aircraft and bombers from Attack Flight destroyed"
+msgstr "擊落防空戰機和轟炸機隊的轟炸機"
 
-#, fuzzy
 msgid "ACHIEVEMENTS_DEFENDER-BOMBER_DESTROYED_ASSISTS"
-msgstr ""
-"Assistance in destroying air defense aircraft and bombers from Attack Flight"
+msgstr "協助擊落防空戰機和轟炸機隊的轟炸機"
 
 #, fuzzy
 msgid "ACHIEVEMENTS_DEFENDER-BOMBER_DESTROYED_AVERAGE_PER_BATTLE"
@@ -2309,69 +2289,50 @@ msgstr ""
 "Average number of air defense aircraft and bombers from Attack Flight "
 "destroyed per battle"
 
-#, fuzzy
 msgid "ACHIEVEMENTS_GROUND_OBJECTS_DESTROYED"
-msgstr "Ground targets destroyed"
+msgstr "擊毀地面目標"
 
-#, fuzzy
 msgid "ACHIEVEMENTS_GROUND_OBJECTS_DESTROYED_ASSIST"
-msgstr "Assistance in destroying ground targets"
+msgstr "協助擊毀地面目標"
 
-#, fuzzy
 msgid "ACHIEVEMENTS_GROUND_OBJECTS_DESTROYED_AVERAGE_PER_BATTLE"
-msgstr "Average number of ground targets destroyed per battle"
+msgstr "每場戰鬥平均擊毀地面目標"
 
-#, fuzzy
 msgid "ACHIEVEMENTS_GROUND_OBJECTS_DESTROYED_AVERAGE_PER_FLIGHT"
-msgstr "Average number of ground targets destroyed per sortie"
+msgstr "每次出擊平均擊毀地面目標"
 
-#, fuzzy
 msgid "ACHIEVEMENTS_HEROIC_DEEDS"
-msgstr "Records"
+msgstr "記錄"
 
-#, fuzzy
 msgid "ACHIEVEMENTS_MAX_AIRCRAFTS_DESTROED_PER_BATTLE"
-msgstr "Most enemy aircraft destroyed in a single battle"
+msgstr "單場戰鬥中最多擊落敵機"
 
-#, fuzzy
 msgid "ACHIEVEMENTS_MAX_AIRCRAFT_DESTROED_IN_DEF_SECTOR"
-msgstr "Most enemy aircraft destroyed when defending sectors"
+msgstr "防守分區時最多擊落敵機"
 
-#, fuzzy
 msgid "ACHIEVEMENTS_MAX_BATTLE_POINTS_PER_BATTLE"
-msgstr "Most combat point earned in a single battle"
+msgstr "單場戰鬥最多獲得戰鬥點數"
 
-#, fuzzy
 msgid "ACHIEVEMENTS_MAX_DAMAGE_AIRCRAFT_PER_BATTLE"
-msgstr "Most damage caused to enemy aircraft in a single battle"
+msgstr "單場戰鬥最多對敵機造成傷害"
 
-#, fuzzy
 msgid "ACHIEVEMENTS_MAX_DAMAGE_AIR_TARGETS_PER_BATTLE"
-msgstr "Most damage caused to aircraft in a single battle"
+msgstr "單場戰鬥最多對戰機造成傷害"
 
-#, fuzzy
 msgid "ACHIEVEMENTS_MAX_DAMAGE_DEFENDER-BOMBER_PER_BATTLE"
-msgstr ""
-"Most damage caused to air defense aircraft and bombers from Attack Flight in "
-"a single battle"
+msgstr "單場戰鬥最多對防空戰機和轟炸機隊的轟炸機機造成傷害"
 
-#, fuzzy
 msgid "ACHIEVEMENTS_MAX_DAMAGE_GROUND_OBJECT_PER_BATTLE"
-msgstr "Most damage caused to ground targets in a single battle"
+msgstr "單場戰鬥最多對地面目標造成傷害"
 
-#, fuzzy
 msgid "ACHIEVEMENTS_MAX_DEFENDER-BOMBER_DESTROED_PER_BATTLE"
-msgstr ""
-"Most air defense aircraft and bombers from Attack Flight destroyed in a "
-"single battle"
+msgstr "單場戰鬥最多擊落防空戰機和轟炸機隊的轟炸機"
 
-#, fuzzy
 msgid "ACHIEVEMENTS_MAX_GROUND_OBJECT_DESTROED_PER_BATTLE"
-msgstr "Most ground targets destroyed in a single battle"
+msgstr "單場戰鬥最多擊毀地面目標"
 
-#, fuzzy
 msgid "ACHIEVEMENTS_PARTICIPATION_IN_CAP_SECTOR"
-msgstr "Participations in capturing sectors"
+msgstr "參與佔領分區"
 
 #, fuzzy
 msgid "ACHIEVEMENTS_RECIEVED_ON_AIRCRAFT"
@@ -2382,9 +2343,8 @@ msgstr ""
 msgid "ACHIEVEMENTS_STAT_IN_NEW_MODE_CONQUEST"
 msgstr "在「征服」模式裡的總飛行時數"
 
-#, fuzzy
 msgid "ACHIEVEMENTS_SUMMARY_BATTLE_POINTS"
-msgstr "Total combat points"
+msgstr "總戰鬥點數"
 
 #, fuzzy
 msgid "ACHIEVEMENTS_SUMMARY_BATTLE_POINTS_ON_PLANES"
@@ -2398,21 +2358,17 @@ msgstr "Total experience earned in the aircraft"
 msgid "ACHIEVEMENTS_TAB_AWARDS_OLD"
 msgstr "Past Achievements"
 
-#, fuzzy
 msgid "ACHIEVEMENTS_TOTAL_FLIGHT"
-msgstr "Sorties"
+msgstr "出擊次數"
 
-#, fuzzy
 msgid "ACHIEVEMENTS_TOTAL_RECIEVED"
-msgstr "Total received:"
+msgstr "總共獲得:"
 
-#, fuzzy
 msgid "ACHIEVEMENTS_WINS_IN_GROUP_2-0"
-msgstr "Assistance in destroying enemy aircraft"
+msgstr "協助擊落敵機"
 
-#, fuzzy
 msgid "ACHIEVEMENTS_XP_AND_BATTLESCORE"
-msgstr "Experience and Combat Points"
+msgstr "經驗和戰鬥點數"
 
 #, fuzzy
 msgid "MEDAL_DESCRIPTION_ACE"
@@ -3378,13 +3334,11 @@ msgstr ""
 "Airacobra. He shot down 59 enemy aircraft personally and 6 together with "
 "other pilots."
 
-#, fuzzy
 msgid "MEDAL_LEVEL_LIMIT"
-msgstr "Can be received in aircraft of Tier IV or higher."
+msgstr "只能用 IV 階以上戰機獲得。"
 
-#, fuzzy
 msgid "MEDAL_LOW_LEVEL_LIMIT"
-msgstr "Can be received in aircraft of Tier III or lower."
+msgstr "只能用 III 階以下戰機獲得。"
 
 #, fuzzy
 msgid "MEDAL_NAME_ACE"
