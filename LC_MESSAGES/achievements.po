@@ -2251,7 +2251,7 @@ msgid "ACHIEVEMENTS_AVERAGE_BATTLE_POINTS_PER_FLIGHT"
 msgstr "每場出擊平均獲得戰鬥點數"
 
 msgid "ACHIEVEMENTS_AVERAGE_DURATION_FLIGHT"
-msgstr "平均出擊時長"
+msgstr "平均出擊時間"
 
 msgid "ACHIEVEMENTS_AVERAGE_EXP_PER_FLIGHT"
 msgstr "每場出擊平均獲得經驗"
@@ -3726,19 +3726,19 @@ msgstr "Lords of the Sky"
 
 #, fuzzy
 msgid "MEDAL_NAME_MIHALENKOV1"
-msgstr "Mikhalenkov Medal Class I"
+msgstr "米哈爾科夫 一級"
 
 #, fuzzy
 msgid "MEDAL_NAME_MIHALENKOV2"
-msgstr "Mikhalenkov Medal Class II"
+msgstr "米哈爾科夫 二級"
 
 #, fuzzy
 msgid "MEDAL_NAME_MIHALENKOV3"
-msgstr "Mikhalenkov Medal Class III"
+msgstr "米哈爾科夫 三級"
 
 #, fuzzy
 msgid "MEDAL_NAME_MIHALENKOV4"
-msgstr "Mikhalenkov Medal Class IV"
+msgstr "米哈爾科夫 四級"
 
 #, fuzzy
 msgid "MEDAL_NAME_MISSILE_STRIKE"
@@ -3746,7 +3746,7 @@ msgstr "Rocket Strike"
 
 #, fuzzy
 msgid "MEDAL_NAME_MISSION_ACCOMPLISHED"
-msgstr "Mission Complete"
+msgstr "任務完成"
 
 #, fuzzy
 msgid "MEDAL_NAME_NORMALWEIGHT"
@@ -3842,23 +3842,23 @@ msgstr "Holiday Season Event"
 
 #, fuzzy
 msgid "MEDAL_NAME_SKY_WOLVES"
-msgstr "Air Wolves"
+msgstr "空中郎"
 
 #, fuzzy
 msgid "MEDAL_NAME_STAR_CATCHER"
-msgstr "Reach for the Star"
+msgstr "登天摘星"
 
 #, fuzzy
 msgid "MEDAL_NAME_STEEL_FLURRY"
-msgstr "Hail of Steel"
+msgstr "鋼鐵冰雹"
 
 #, fuzzy
 msgid "MEDAL_NAME_SUPERHEAVYWEIGHT"
-msgstr "Heavyweight"
+msgstr "重量級"
 
 #, fuzzy
 msgid "MEDAL_NAME_TEAMWORK_GURU"
-msgstr "Hero of the Sky Badge"
+msgstr "空中豪雄"
 
 #, fuzzy
 msgid "MEDAL_NAME_UNLIMITED_WEIGHT"
