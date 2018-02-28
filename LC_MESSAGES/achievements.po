@@ -3842,7 +3842,7 @@ msgstr "Holiday Season Event"
 
 #, fuzzy
 msgid "MEDAL_NAME_SKY_WOLVES"
-msgstr "空中郎"
+msgstr "空中狼"
 
 #, fuzzy
 msgid "MEDAL_NAME_STAR_CATCHER"

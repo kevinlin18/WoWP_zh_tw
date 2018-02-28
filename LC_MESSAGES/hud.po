@@ -2632,9 +2632,8 @@ msgstr "任務即將結束"
 msgid "HUD_MESSAGE_COMPLEX_NAME"
 msgstr "{complex_name}"
 
-#, fuzzy
 msgid "HUD_MESSAGE_CREW_HAS_HEALED"
-msgstr "The {crew} back in action!"
+msgstr "{crew}恢復行動力!"
 
 msgid "HUD_MESSAGE_DEFEAT_IS_NEAR"
 msgstr "有可能失敗！"
@@ -2654,9 +2653,8 @@ msgstr "引擎恢復運作！"
 msgid "HUD_MESSAGE_EVENT_NAME_STORM_FRONT"
 msgstr "暴風雨"
 
-#, fuzzy
 msgid "HUD_MESSAGE_GUNNER_HAS_HEALED"
-msgstr "The gunner is back in action!"
+msgstr "砲手恢復行動力!"
 
 msgid "HUD_MESSAGE_LAST_ENEMY"
 msgstr "最後的目標！"
@@ -2664,9 +2662,8 @@ msgstr "最後的目標！"
 msgid "HUD_MESSAGE_MODULE_WORK"
 msgstr "{module} 已經恢復運作！"
 
-#, fuzzy
 msgid "HUD_MESSAGE_PILOT_HAS_HEALED"
-msgstr "The pilot is back in action!"
+msgstr "飛行員恢復行動力!"
 
 #, fuzzy
 msgid "HUD_MESSAGE_SUPERIORITY_1"
