@@ -684,6 +684,9 @@ msgstr "提供新的技能點"
 msgid "BATTLE_RESULT_BATTLE_POINTS"
 msgstr "戰鬥點數"
 
+msgid "BATTLE_RESULT_CAP_POINT"
+msgstr "獲得佔領點數"
+
 msgid "BATTLE_RESULT_CAP_POINTS_IN_ATT"
 msgstr "攻擊時獲得的佔領點數"
 

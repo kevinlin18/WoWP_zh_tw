@@ -3,11 +3,14 @@ msgstr ""
 "Project-Id-Version: World Of Tanks\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2010-06-01 10:00+0300\n"
+"PO-Revision-Date: \n"
 "Last-Translator: kevinlin18 <https://github.com/kevinlin18/WoWP_zh_tw>\n"
 "Language-Team: WoT Team <noreply@wargaming.net>\n"
+"Language: zh_TW\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.5\n"
 
 msgid "01_NOVOROSSIYSK"
 msgstr "海港"
@@ -84,238 +87,6 @@ msgstr "拉普蘭德"
 msgid "40_EL_HALLOUF_3"
 msgstr "北非沙漠"
 
-msgid "MAP_UNDEFINED"
-msgstr "未指定"
-
-msgid "OBJECT_BATTLESHIP"
-msgstr "戰艦"
-
-msgid "OBJECT_BRIDGE"
-msgstr "大橋"
-
-msgid "OBJECT_NAME_AEROSTAT"
-msgstr "氣球"
-
-msgid "OBJECT_NAME_AIRCRAFT_CARRIER"
-msgstr "航空母艦"
-
-msgid "OBJECT_NAME_B4"
-msgstr "火砲"
-
-msgid "OBJECT_NAME_BARRELS"
-msgstr "儲油罐"
-
-msgid "OBJECT_NAME_BATTLE TRAIN"
-msgstr "裝甲列車"
-
-msgid "OBJECT_NAME_BATTLESHIP"
-msgstr "戰艦"
-
-msgid "OBJECT_NAME_BOATS"
-msgstr "小型船隻"
-
-msgid "OBJECT_NAME_CANNON"
-msgstr "高射砲"
-
-msgid "OBJECT_NAME_CONVOY"
-msgstr "地面部隊"
-
-msgid "OBJECT_NAME_DEPOT"
-msgstr "防禦工事"
-
-msgid "OBJECT_NAME_DOCK"
-msgstr "碼頭"
-
-msgid "OBJECT_NAME_FAU_1"
-msgstr "V1火箭"
-
-msgid "OBJECT_NAME_FLAK40"
-msgstr "Flak 42高射砲"
-
-msgid "OBJECT_NAME_FUEL TANK"
-msgstr "儲油罐"
-
-msgid "OBJECT_NAME_FUEL_STORAGE"
-msgstr "燃料補給站"
-
-msgid "OBJECT_NAME_HEADQUARTERS"
-msgstr "指揮所"
-
-msgid "OBJECT_NAME_HOUSE"
-msgstr "碉堡"
-
-msgid "OBJECT_NAME_LCT"
-msgstr "運輸船"
-
-msgid "OBJECT_NAME_MISSILE"
-msgstr "V2火箭"
-
-msgid "OBJECT_NAME_MOBILE_HEADQUARTERS"
-msgstr "移動指揮所"
-
-msgid "OBJECT_NAME_OBSERVER"
-msgstr "觀測哨"
-
-msgid "OBJECT_NAME_OIL TANK"
-msgstr "油罐"
-
-msgid "OBJECT_NAME_OIL TANKS"
-msgstr "油罐區"
-
-msgid "OBJECT_NAME_RADAR"
-msgstr "訊號站"
-
-msgid "OBJECT_NAME_RLS STOREHOUSE"
-msgstr "修理廠"
-
-msgid "OBJECT_NAME_SHIP"
-msgstr "船隻"
-
-msgid "OBJECT_NAME_STOREHOUSE"
-msgstr "補給站"
-
-msgid "OBJECT_NAME_SUBMARINE"
-msgstr "潛艇"
-
-msgid "OBJECT_NAME_TANKS"
-msgstr "戰車"
-
-msgid "OBJECT_NAME_TRUCKS"
-msgstr "貨車"
-
-msgid "OBJECT_NAME_TURRET1"
-msgstr "高射砲"
-
-msgid "OBJECT_NAME_TURRET_13MM"
-msgstr "高射砲"
-
-msgid "OBJECT_NAME_TURRET_20MM"
-msgstr "高射砲"
-
-msgid "OBJECT_NAME_TURRET_7MM"
-msgstr "高射砲"
-
-msgid "OBJECT_NAME_TURRET_AA"
-msgstr "高射砲"
-
-msgid "OBJECT_NAME_WAREHOUSE"
-msgstr "彈藥庫"
-
-msgid "TRAINING_ROOMS_23_PROVINCE_DESCRIPTION"
-msgstr ""
-"在必爭之地這幅地圖中，雙方將圍繞有著城市和人口密集的街區的高原展開爭奪，險要"
-"的峭壁和峽谷阻礙了地面部隊的推進，雙方只能依靠空中力量打破僵局"
-
-msgid "TRAINING_ROOMS_24_OBSERVATORY_DESCRIPTION"
-msgstr ""
-"在前哨這幅地圖中，雙方將為通往河流與道路交匯處的走廊的控制權展開爭奪，一方的"
-"部隊只能沿著山峰與峽谷間的狹窄道路前進，而另一方將依賴前哨堡壘阻擊敵人"
-
-msgid "TRAINING_ROOMS_27_GIANT_DAM_DESCRIPTION"
-msgstr ""
-"坐落於城鎮上游的水壩至關重要，誰控制了水壩就可以切斷下游城鎮的供電或炸燬水壩"
-"使下游成為一片澤國，為了水壩的控制權雙方將展開激烈的爭奪。"
-
-msgid "TRAINING_ROOMS_ADRIATIC_DESCRIPTION"
-msgstr ""
-"亞德里亞是一幅充滿地中海風貌的地圖，一方試圖清除敵方的制高點並對登入部隊提供"
-"掩護，而另一方則需要守住有利位置直至所有部隊從海上疏散。"
-
-msgid "TRAINING_ROOMS_ARCTIC_NY_DESCRIPTION"
-msgstr "拉普蘭德是專為打雪仗模式而設定的地圖"
-
-msgid "TRAINING_ROOMS_ARIZONA_DESCRIPTION"
-msgstr ""
-"亞利桑那是一幅充滿中美洲古代峽谷風貌的地圖，一支部隊在岩石山下建立了營地，但"
-"遭到了敵方的反擊。兩支部隊的目標是奪取整個區域的控制權，摧毀對方的全部營地和"
-"觀察哨。"
-
-msgid "TRAINING_ROOMS_BURMA_DESCRIPTION"
-msgstr ""
-"霧江是一幅亞洲風貌的地圖，防守方佔據高點部隊沿河與敵方對峙力求通過防禦陣地阻"
-"止敵人的前進，而進攻方通過摧毀敵方陣地力圖深入對方領土。"
-
-msgid "TRAINING_ROOMS_CANYON_DESCRIPTION"
-msgstr ""
-"在南方河谷中，雙方將圍繞一條穿越地圖的河谷展開爭奪，地形兩側山巒聳立，並且氣"
-"候溼潤，零碎的雲層即可用來進行隱蔽，也能夠為突襲行動提供便利"
-
-msgid "TRAINING_ROOMS_CONVOY_DESCRIPTION"
-msgstr ""
-"隱祕之地是一張具有海洋、冰山以及峭壁等多種元素的地圖。一方試圖從一座隱祕的基"
-"地中撤離人員和裝置，而另一方則試圖擊沉敵方艦隊並阻止對方從基地帶走有價值的情"
-"報。"
-
-msgid "TRAINING_ROOMS_ELHALLUF_DESCRIPTION"
-msgstr ""
-"北非沙漠是一幅有著湖泊和乾涸河床的沙漠風格地圖，一方佔據著空軍基地而另一方控"
-"制著燃料庫，佔據基地的一方試圖清除敵人從而奪取寶貴的燃料和支援車輛，而佔據燃"
-"料庫的一方則試圖靠近敵方所控制的空軍基地。"
-
-msgid "TRAINING_ROOMS_FJORDS_DESCRIPTION"
-msgstr ""
-"在峽灣這幅地圖中，兩支艦隊將在由陡峭懸崖所包圍的深而狹窄的水域中展開戰鬥，山"
-"區地形使得地面車輛難以行進，所以空中的支援至關重要。"
-
-msgid "TRAINING_ROOMS_FORTRESS_DESCRIPTION"
-msgstr ""
-"這幅地圖中雙方將會圍繞一個古老的要塞及其周邊土地展開爭奪，整個場景將被貫穿地"
-"圖的河流一分為二，而陸地地形以廣闊的平原和丘陵為主，一方將以地面車輛為主，向"
-"城鎮進發，而另一方則試圖阻止敵軍直至增援抵達。"
-
-msgid "TRAINING_ROOMS_GREENLAND_DESCRIPTION"
-msgstr ""
-"北極雪山是一幅有著沿海基地和間歇泉的雪山風貌地圖，進攻方的艦隊企圖摧毀對方的"
-"基地和船隻，而防守方則希望阻擊敵人。"
-
-msgid "TRAINING_ROOMS_HARBOR_DESCRIPTION"
-msgstr ""
-"在海港這幅地圖中，雙方將對一座海港城市展開爭奪，防守方試圖阻止對方佔據船塢和"
-"進入城市，進攻方則依靠強大的海軍砲火支援企圖建立立足點並進一步發起進攻。"
-
-msgid "TRAINING_ROOMS_LIGHTHOUSE_DESCRIPTION"
-msgstr ""
-"燈塔這幅地圖描繪了一幅大規模登入作戰的場景，防禦方試圖控制住唯一一塊適合作為"
-"登入場的地點，而進攻方則通過龐大的艦隊支援確立立足點。"
-
-msgid "TRAINING_ROOMS_NATIONAL_PARK_2_DESCRIPTION"
-msgstr ""
-"在國家公園中，地形以花崗巖的群山峭壁與將其分割開的深谷為主，雙方將在一個風景"
-"如畫的環境中展開激戰，由於複雜的地形阻礙了前進的腳步，雙方部隊只能想著山谷中"
-"央的河床前進，所以能否獲得空中優勢獲取制高點將成為勝負的關鍵"
-
-msgid "TRAINING_ROOMS_PACIFIC_DESCRIPTION"
-msgstr ""
-"在太平洋這幅地圖中，雙方將會圍繞一個海軍基地展開爭奪，兩支部隊都希望通過海上"
-"和空中力量阻止對方獲得優勢並奪取島嶼控制權。"
-
-msgid "TRAINING_ROOMS_PARK_DESCRIPTION"
-msgstr ""
-"在國家公園這幅地圖中，雙方將圍繞一個幽深的峽谷以及覆蓋著古老樹林和花崗巖風景"
-"的地區展開激戰，防守方試圖保衛機場和附近通訊設施，而進攻方則試圖建立自己的補"
-"給線以支援地面部隊的進攻。"
-
-msgid "TRAINING_ROOMS_PORT_DESCRIPTION"
-msgstr ""
-"這是一幅適合初級/中級飛機作戰的地圖，海灣的某處坐落著一座港口小城，並隱藏著一"
-"支艦隊。高聳的山脊成為連線綿延丘陵和兩個機場的最短航線。"
-
-msgid "TRAINING_ROOMS_SAN_FRANCISCO_DESCRIPTION"
-msgstr ""
-"這幅地圖中，雙方會在一個人口稠密的地區展開激戰，雙方都試圖控制橫跨海峽的大橋"
-"以幫助己方將部隊輸送至對岸。"
-
-msgid "TRAINING_ROOMS_STALINGRAD_DESCRIPTION"
-msgstr ""
-"這幅地圖中，兩軍將在冰凍的河床附近展開激戰，一方試圖突破對方防線並在河對岸鞏"
-"固陣地，而另一方則希望在頂住攻擊的同時能夠奪回丟失的陣地。"
-
-msgid "TRAINING_ROOMS_WINTER_WAR_DESCRIPTION"
-msgstr ""
-"在冬季戰爭這幅地圖中雙方要為城市和工業區的控制權而展開激戰。其中一方要將自己"
-"的儲備物資沿江運往縱深防禦陣地，而另一方則要鞏固自己的戰線並從冰原方向包抄敵"
-"人。"
-
 #, fuzzy
 msgid "MAP_CAPS_NAME_HUD_ADRIATIC"
 msgstr "ROAD TO ROME:"
@@ -345,6 +116,10 @@ msgid "MAP_CAPS_NAME_HUD_HARBOR"
 msgstr "SEA GATE:"
 
 #, fuzzy
+msgid "MAP_CAPS_NAME_HUD_LIGHTHOUSE"
+msgstr "ALBION:"
+
+#, fuzzy
 msgid "MAP_CAPS_NAME_HUD_OBSERVATORY"
 msgstr "ALPINE GAMBIT:"
 
@@ -355,6 +130,42 @@ msgstr "ARCHIPELAGO:"
 #, fuzzy
 msgid "MAP_CAPS_NAME_HUD_PLATEAU"
 msgstr "PLATEAU:"
+
+#, fuzzy
+msgid "MAP_CAPS_NAME_HUD_WINTER_WAR"
+msgstr "ARCTIC REGION:"
+
+#, fuzzy
+msgid "MAP_CAPS_SUBNAME_05_LIGHTHOUSE_1"
+msgstr "TRUMP CARD"
+
+#, fuzzy
+msgid "MAP_CAPS_SUBNAME_05_LIGHTHOUSE_2"
+msgstr "IRON WILL"
+
+#, fuzzy
+msgid "MAP_CAPS_SUBNAME_05_LIGHTHOUSE_3"
+msgstr "FINAL ARGUMENT"
+
+#, fuzzy
+msgid "MAP_CAPS_SUBNAME_05_LIGHTHOUSE_4"
+msgstr "GORDIAN KNOT"
+
+#, fuzzy
+msgid "MAP_CAPS_SUBNAME_05_LIGHTHOUSE_5"
+msgstr "BALANCE OF FORCES"
+
+#, fuzzy
+msgid "MAP_CAPS_SUBNAME_05_LIGHTHOUSE_6"
+msgstr "WINGS OF WAR"
+
+#, fuzzy
+msgid "MAP_CAPS_SUBNAME_05_LIGHTHOUSE_8"
+msgstr "SPHERE OF INFLUENCE"
+
+#, fuzzy
+msgid "MAP_CAPS_SUBNAME_05_LIGHTHOUSE_9_ADD"
+msgstr "ATTACK ON THE COAST"
 
 #, fuzzy
 msgid "MAP_CAPS_SUBNAME_09_ARCTIC_1"
@@ -457,6 +268,26 @@ msgid "MAP_CAPS_SUBNAME_14_ADRIATIC_8_ADD"
 msgstr "OFFENSIVE"
 
 #, fuzzy
+msgid "MAP_CAPS_SUBNAME_17_WINTER_WAR_1"
+msgstr "WINTER WAR"
+
+#, fuzzy
+msgid "MAP_CAPS_SUBNAME_17_WINTER_WAR_2"
+msgstr "ANCIENT HILLS"
+
+#, fuzzy
+msgid "MAP_CAPS_SUBNAME_17_WINTER_WAR_3"
+msgstr "FIRE AND ICE"
+
+#, fuzzy
+msgid "MAP_CAPS_SUBNAME_17_WINTER_WAR_4"
+msgstr "BITTER EXPANSE"
+
+#, fuzzy
+msgid "MAP_CAPS_SUBNAME_17_WINTER_WAR_5"
+msgstr "ALARMING NEWS"
+
+#, fuzzy
 msgid "MAP_CAPS_SUBNAME_55_EL_HALLOUF_1"
 msgstr "LEADING EDGE"
 
@@ -478,7 +309,7 @@ msgstr "EDGE OF THE WORLD"
 
 #, fuzzy
 msgid "MAP_CAPS_SUBNAME_55_EL_HALLOUF_9_ADD"
-msgstr "ANCIENT RIVER"
+msgstr "DESERT STRIKE"
 
 #, fuzzy
 msgid "MAP_CAPS_SUBNAME_62_ASIAN_BORDER_1"
@@ -486,11 +317,15 @@ msgstr "CONFRONTATION"
 
 #, fuzzy
 msgid "MAP_CAPS_SUBNAME_62_ASIAN_BORDER_10_ADD"
-msgstr "EMERALD RIDGE"
+msgstr "ANCIENT RIVER"
 
 #, fuzzy
 msgid "MAP_CAPS_SUBNAME_62_ASIAN_BORDER_2"
 msgstr "SURPRISE EFFECT"
+
+#, fuzzy
+msgid "MAP_CAPS_SUBNAME_62_ASIAN_BORDER_20_ADD"
+msgstr "EMERALD RIDGE"
 
 #, fuzzy
 msgid "MAP_CAPS_SUBNAME_62_ASIAN_BORDER_4"
@@ -531,10 +366,6 @@ msgstr "PEARL ISLANDS"
 #, fuzzy
 msgid "MAP_CAPS_SUBNAME_73_OBSERVATORY"
 msgstr "SNOW AND ASHES"
-
-#, fuzzy
-msgid "MAP_CAPS_SUBNAME_73_OBSERVATORY_11_ADD"
-msgstr "EXPANSION"
 
 #, fuzzy
 msgid "MAP_CAPS_SUBNAME_73_OBSERVATORY_2"
@@ -598,11 +429,86 @@ msgstr "COLLISION"
 
 #, fuzzy
 msgid "MAP_CAPS_SUBNAME_76_PLATEAU_7_ADD"
-msgstr "GORDIAN KNOT"
+msgstr "EXPANSION"
 
 #, fuzzy
 msgid "MAP_CAPS_SUBNAME_77_FORTRESS_2"
 msgstr "DAY OF RECKONING"
+
+#, fuzzy
+msgid "MAP_HUD_DESCRIPTION_05_LIGHTHOUSE_1"
+msgstr ""
+"An industrial complex on the coast of Great Britain is securely covered by "
+"two command centers that serve as early warning stations. Controlling an "
+"airspace that spans many kilometers deep into the island, they are capable "
+"of scrambling the air force and repelling any attack. These facilities must "
+"not fall into the enemy's hands!"
+
+#, fuzzy
+msgid "MAP_HUD_DESCRIPTION_05_LIGHTHOUSE_2"
+msgstr ""
+"The precarious balance in the prolonged battle for Great Britain in many "
+"ways depends on a large airbase located directly on the coast. It provides "
+"cover for a large factory in the north and an isolated command center on the "
+"island. If lost, this airbase will open a safe corridor for the enemy, "
+"allowing for raids deep into the kingdom."
+
+#, fuzzy
+msgid "MAP_HUD_DESCRIPTION_05_LIGHTHOUSE_3"
+msgstr ""
+"The enemy's night raids under the cover of bad weather have been crowned "
+"with success: the command center has been put out of service. To defend the "
+"forward airbase against a possible landing from the sea, the nearby "
+"garrisons have been additionally equipped with artillery systems. They "
+"should be covered securely. Otherwise, once in the enemy's hands, they will "
+"become a formidable weapon capable of destroying the base."
+
+#, fuzzy
+msgid "MAP_HUD_DESCRIPTION_05_LIGHTHOUSE_4"
+msgstr ""
+"A large industrial complex on the coast is covered from the land by "
+"garrisons, and from the sea by a small airfield with a fighter squadron and "
+"a forward radar station with a command center. The complex is critical for "
+"manufacturing machines and supplying the defending kingdom. Control over "
+"these industrial facilities should be retained at any cost."
+
+#, fuzzy
+msgid "MAP_HUD_DESCRIPTION_05_LIGHTHOUSE_5"
+msgstr ""
+"A fierce fight for the seaside industrial complex has left the majority of "
+"defensive installations in tatters. The mission of defending this strategic "
+"position is assigned to the air force. After taking control of the skies "
+"over the command center and factory on the island, the combat group must "
+"repel all enemy raids."
+
+#, fuzzy
+msgid "MAP_HUD_DESCRIPTION_05_LIGHTHOUSE_6"
+msgstr ""
+"Aerial battles unfolding in the skies over Britain's coast have put the "
+"military installations and industrial facilities in danger. Their loss will "
+"take a heavy toll on the defense capacity of the kingdom, because only "
+"regular deliveries from factories allow the troops to defend against the "
+"superior enemy force."
+
+#, fuzzy
+msgid "MAP_HUD_DESCRIPTION_05_LIGHTHOUSE_8"
+msgstr ""
+"A continuous battle, where the best flying aces from both fighting sides "
+"meet, is concentrated in the skies over the airbase covering the strait. The "
+"airbase is surrounded by a chain of fortifications protecting it from sea-"
+"based attacks. The fall of this bastion will mean the instant loss of the "
+"initiative to the attacking squadrons, and the loss of control over "
+"Britain's skies."
+
+#, fuzzy
+msgid "MAP_HUD_DESCRIPTION_05_LIGHTHOUSE_9_ADD"
+msgstr ""
+"The mission of defending Britain's coastline of many kilometers is assigned "
+"to hundreds of fighter and attack aircraft pilots. The coast is fortified "
+"with numerous strongholds that, under the cover of powerful anti-aircraft "
+"defense systems, provide reconnaissance, command, logistics, and aircraft "
+"maintenance support for the combat group. It is going to be a tough task to "
+"break through this defense line."
 
 #, fuzzy
 msgid "MAP_HUD_DESCRIPTION_09_ARCTIC_1"
@@ -857,6 +763,52 @@ msgstr ""
 "flank open for a counterattack from the positions prepared in advance. The "
 "industrial complex and airbase protecting the complex must be taken control "
 "of or destroyed."
+
+#, fuzzy
+msgid "MAP_HUD_DESCRIPTION_17_WINTER_WAR_1"
+msgstr ""
+"A town hidden deep in the tundra is built upon a crucial deposit of rare "
+"earth metals. The complex is defended by a small airfield and several "
+"fortified firing points. Control over this town lost in the Arctic will not "
+"only supply the industry with the necessary resources, but also bring an "
+"opportunity to patrol the Barents Sea and the skies over the Scandinavian "
+"Peninsula."
+
+#, fuzzy
+msgid "MAP_HUD_DESCRIPTION_17_WINTER_WAR_2"
+msgstr ""
+"The night raid put the runway at the airfield out of service and thus put "
+"both fighting forces on par with each other. However, the ground "
+"fortifications continue to impede our advance deep into the town. It is "
+"necessary to suppress the resistance and take control of the garrisons on "
+"the outskirts of the town to open the way to the industrial complex."
+
+#, fuzzy
+msgid "MAP_HUD_DESCRIPTION_17_WINTER_WAR_3"
+msgstr ""
+"A sudden attack on the small polar industrial complex has grown into a full-"
+"fledged siege. On one of the flanks, the engineer corps has deployed a "
+"rocket system that will help break through to the town. The vast expanses of "
+"tundra around make this position vulnerable, and therefore the mission of "
+"covering the rocket launchers falls to the air force."
+
+#, fuzzy
+msgid "MAP_HUD_DESCRIPTION_17_WINTER_WAR_4"
+msgstr ""
+"During the tough battles, one of the flanks covering the approaches to the "
+"industrial complex mining critical rare metals has been broken through. The "
+"combat group's mission for the next night raid is to provide cover and take "
+"control of the skies. Once consolidated there, an opportunity to drive the "
+"enemy from their positions around the town will open up."
+
+#, fuzzy
+msgid "MAP_HUD_DESCRIPTION_17_WINTER_WAR_5"
+msgstr ""
+"The command center to the west of the military industrial facilities hidden "
+"deep in the tundra of the Kola Peninsula is extensively used for "
+"coordinating air raids and patrols in the Barents Sea and the White Sea as "
+"well as in the skies over the Scandinavian Peninsula. It should be captured "
+"or destroyed at any cost."
 
 #, fuzzy
 msgid "MAP_HUD_DESCRIPTION_55_EL_HALLOUF_1"
@@ -1270,6 +1222,46 @@ msgstr ""
 msgid "MAP_HUD_DESCRIPTION_77_FORTRESS_2"
 msgstr " "
 
+#, fuzzy
+#| msgid "MAP_HUD_LORE_DESCRIPTION_55_EL_HALLOUF_1"
+msgid "MAP_HUD_LORE_DESCRIPTION_05_LIGHTHOUSE_1"
+msgstr "Strait of Dover, British coast. Early evening."
+
+#, fuzzy
+#| msgid "MAP_HUD_LORE_DESCRIPTION_55_EL_HALLOUF_2"
+msgid "MAP_HUD_LORE_DESCRIPTION_05_LIGHTHOUSE_2"
+msgstr "Strait of Dover, British coast. Early evening."
+
+#, fuzzy
+#| msgid "MAP_HUD_LORE_DESCRIPTION_76_PLATEAU_3"
+msgid "MAP_HUD_LORE_DESCRIPTION_05_LIGHTHOUSE_3"
+msgstr "Strait of Dover, British coast. Early evening."
+
+#, fuzzy
+#| msgid "MAP_HUD_LORE_DESCRIPTION_55_EL_HALLOUF_4"
+msgid "MAP_HUD_LORE_DESCRIPTION_05_LIGHTHOUSE_4"
+msgstr "Strait of Dover, British coast. Early evening."
+
+#, fuzzy
+#| msgid "MAP_HUD_LORE_DESCRIPTION_55_EL_HALLOUF_5"
+msgid "MAP_HUD_LORE_DESCRIPTION_05_LIGHTHOUSE_5"
+msgstr "Strait of Dover, British coast. Early evening."
+
+#, fuzzy
+#| msgid "MAP_HUD_LORE_DESCRIPTION_76_PLATEAU_6"
+msgid "MAP_HUD_LORE_DESCRIPTION_05_LIGHTHOUSE_6"
+msgstr "Strait of Dover, British coast. Early evening."
+
+#, fuzzy
+#| msgid "MAP_HUD_LORE_DESCRIPTION_55_EL_HALLOUF_8"
+msgid "MAP_HUD_LORE_DESCRIPTION_05_LIGHTHOUSE_8"
+msgstr "Strait of Dover, British coast. Early evening."
+
+#, fuzzy
+#| msgid "MAP_HUD_LORE_DESCRIPTION_55_EL_HALLOUF_9_ADD"
+msgid "MAP_HUD_LORE_DESCRIPTION_05_LIGHTHOUSE_9_ADD"
+msgstr "Strait of Dover, British coast. Early evening."
+
 msgid "MAP_HUD_LORE_DESCRIPTION_09_ARCTIC_1"
 msgstr "格陵蘭海岸 早晨"
 
@@ -1347,6 +1339,31 @@ msgstr "義大利中部海岸 下午"
 
 msgid "MAP_HUD_LORE_DESCRIPTION_14_ADRIATIC_8_ADD"
 msgstr "義大利中部海岸 下午"
+
+#, fuzzy
+#| msgid "MAP_HUD_LORE_DESCRIPTION_76_PLATEAU_1"
+msgid "MAP_HUD_LORE_DESCRIPTION_17_WINTER_WAR_1"
+msgstr "Kola Peninsula, Northern Front. Night."
+
+#, fuzzy
+#| msgid "MAP_HUD_LORE_DESCRIPTION_76_PLATEAU_2"
+msgid "MAP_HUD_LORE_DESCRIPTION_17_WINTER_WAR_2"
+msgstr "Kola Peninsula, Northern Front. Night."
+
+#, fuzzy
+#| msgid "MAP_HUD_LORE_DESCRIPTION_76_PLATEAU_3"
+msgid "MAP_HUD_LORE_DESCRIPTION_17_WINTER_WAR_3"
+msgstr "Kola Peninsula, Northern Front. Night."
+
+#, fuzzy
+#| msgid "MAP_HUD_LORE_DESCRIPTION_76_PLATEAU_4"
+msgid "MAP_HUD_LORE_DESCRIPTION_17_WINTER_WAR_4"
+msgstr "Kola Peninsula, Northern Front. Night."
+
+#, fuzzy
+#| msgid "MAP_HUD_LORE_DESCRIPTION_76_PLATEAU_5"
+msgid "MAP_HUD_LORE_DESCRIPTION_17_WINTER_WAR_5"
+msgstr "Kola Peninsula, Northern Front. Night."
 
 msgid "MAP_HUD_LORE_DESCRIPTION_55_EL_HALLOUF_1"
 msgstr "北非 下午"
@@ -1512,6 +1529,10 @@ msgid "MAP_NAME_HUD_HARBOR"
 msgstr "Sea Gate:"
 
 #, fuzzy
+msgid "MAP_NAME_HUD_LIGHTHOUSE"
+msgstr "Albion:"
+
+#, fuzzy
 msgid "MAP_NAME_HUD_OBSERVATORY"
 msgstr "Alpine Gambit:"
 
@@ -1522,6 +1543,10 @@ msgstr "Archipelago:"
 #, fuzzy
 msgid "MAP_NAME_HUD_PLATEAU"
 msgstr "Plateau:"
+
+#, fuzzy
+msgid "MAP_NAME_HUD_WINTER_WAR"
+msgstr "Arctic Region:"
 
 #, fuzzy
 msgid "MAP_NAME_LOBBY_ADRIATIC"
@@ -1552,6 +1577,10 @@ msgid "MAP_NAME_LOBBY_HARBOR"
 msgstr "Sea Gate"
 
 #, fuzzy
+msgid "MAP_NAME_LOBBY_LIGHTHOUSE"
+msgstr "Albion"
+
+#, fuzzy
 msgid "MAP_NAME_LOBBY_OBSERVATORY"
 msgstr "Alpine Gambit"
 
@@ -1562,6 +1591,42 @@ msgstr "Archipelago"
 #, fuzzy
 msgid "MAP_NAME_LOBBY_PLATEAU"
 msgstr "Plateau"
+
+#, fuzzy
+msgid "MAP_NAME_LOBBY_WINTER_WAR"
+msgstr "Arctic Region"
+
+#, fuzzy
+msgid "MAP_SUBNAME_05_LIGHTHOUSE_1"
+msgstr "Trump Card"
+
+#, fuzzy
+msgid "MAP_SUBNAME_05_LIGHTHOUSE_2"
+msgstr "Iron Will"
+
+#, fuzzy
+msgid "MAP_SUBNAME_05_LIGHTHOUSE_3"
+msgstr "Final Argument"
+
+#, fuzzy
+msgid "MAP_SUBNAME_05_LIGHTHOUSE_4"
+msgstr "Gordian Knot"
+
+#, fuzzy
+msgid "MAP_SUBNAME_05_LIGHTHOUSE_5"
+msgstr "Balance of Forces"
+
+#, fuzzy
+msgid "MAP_SUBNAME_05_LIGHTHOUSE_6"
+msgstr "Wings of War"
+
+#, fuzzy
+msgid "MAP_SUBNAME_05_LIGHTHOUSE_8"
+msgstr "Sphere of Influence"
+
+#, fuzzy
+msgid "MAP_SUBNAME_05_LIGHTHOUSE_9_ADD"
+msgstr "Attack on the Coast"
 
 #, fuzzy
 msgid "MAP_SUBNAME_09_ARCTIC_1"
@@ -1664,6 +1729,26 @@ msgid "MAP_SUBNAME_14_ADRIATIC_8_ADD"
 msgstr "Offensive"
 
 #, fuzzy
+msgid "MAP_SUBNAME_17_WINTER_WAR_1"
+msgstr "Winter War"
+
+#, fuzzy
+msgid "MAP_SUBNAME_17_WINTER_WAR_2"
+msgstr "Ancient Hills"
+
+#, fuzzy
+msgid "MAP_SUBNAME_17_WINTER_WAR_3"
+msgstr "Fire and Ice"
+
+#, fuzzy
+msgid "MAP_SUBNAME_17_WINTER_WAR_4"
+msgstr "Bitter Expanse"
+
+#, fuzzy
+msgid "MAP_SUBNAME_17_WINTER_WAR_5"
+msgstr "Alarming News"
+
+#, fuzzy
 msgid "MAP_SUBNAME_55_EL_HALLOUF_1"
 msgstr "Leading Edge"
 
@@ -1685,7 +1770,7 @@ msgstr "Edge of the World"
 
 #, fuzzy
 msgid "MAP_SUBNAME_55_EL_HALLOUF_9_ADD"
-msgstr "Ancient River"
+msgstr "Desert Strike"
 
 #, fuzzy
 msgid "MAP_SUBNAME_62_ASIAN_BORDER_1"
@@ -1693,11 +1778,15 @@ msgstr "Confrontation"
 
 #, fuzzy
 msgid "MAP_SUBNAME_62_ASIAN_BORDER_10_ADD"
-msgstr "Emerald Ridge"
+msgstr "Ancient River"
 
 #, fuzzy
 msgid "MAP_SUBNAME_62_ASIAN_BORDER_2"
 msgstr "Surprise Effect"
+
+#, fuzzy
+msgid "MAP_SUBNAME_62_ASIAN_BORDER_20_ADD"
+msgstr "Emerald Ridge"
 
 #, fuzzy
 msgid "MAP_SUBNAME_62_ASIAN_BORDER_4"
@@ -1738,10 +1827,6 @@ msgstr "Pearl Islands"
 #, fuzzy
 msgid "MAP_SUBNAME_73_OBSERVATORY"
 msgstr "Snow and Ashes"
-
-#, fuzzy
-msgid "MAP_SUBNAME_73_OBSERVATORY_11_ADD"
-msgstr "Expansion"
 
 #, fuzzy
 msgid "MAP_SUBNAME_73_OBSERVATORY_2"
@@ -1805,12 +1890,252 @@ msgstr "Collision"
 
 #, fuzzy
 msgid "MAP_SUBNAME_76_PLATEAU_7_ADD"
-msgstr "Gordian Knot"
+msgstr "Expansion"
 
 #, fuzzy
 msgid "MAP_SUBNAME_77_FORTRESS_2"
 msgstr "Day of Reckoning"
 
+msgid "MAP_UNDEFINED"
+msgstr "未指定"
+
+msgid "OBJECT_BATTLESHIP"
+msgstr "戰艦"
+
+msgid "OBJECT_BRIDGE"
+msgstr "大橋"
+
+msgid "OBJECT_NAME_AEROSTAT"
+msgstr "氣球"
+
+msgid "OBJECT_NAME_AIRCRAFT_CARRIER"
+msgstr "航空母艦"
+
+msgid "OBJECT_NAME_B4"
+msgstr "火砲"
+
+msgid "OBJECT_NAME_BARRELS"
+msgstr "儲油罐"
+
+msgid "OBJECT_NAME_BATTLE TRAIN"
+msgstr "裝甲列車"
+
+msgid "OBJECT_NAME_BOATS"
+msgstr "小型船隻"
+
+msgid "OBJECT_NAME_CANNON"
+msgstr "高射砲"
+
+msgid "OBJECT_NAME_CONVOY"
+msgstr "地面部隊"
+
+msgid "OBJECT_NAME_DEPOT"
+msgstr "防禦工事"
+
+msgid "OBJECT_NAME_DOCK"
+msgstr "碼頭"
+
+msgid "OBJECT_NAME_FAU_1"
+msgstr "V1火箭"
+
+msgid "OBJECT_NAME_FLAK40"
+msgstr "Flak 42高射砲"
+
+msgid "OBJECT_NAME_FUEL TANK"
+msgstr "儲油罐"
+
+msgid "OBJECT_NAME_FUEL_STORAGE"
+msgstr "燃料補給站"
+
+msgid "OBJECT_NAME_HEADQUARTERS"
+msgstr "指揮所"
+
+msgid "OBJECT_NAME_HOUSE"
+msgstr "碉堡"
+
+msgid "OBJECT_NAME_LCT"
+msgstr "運輸船"
+
+msgid "OBJECT_NAME_MISSILE"
+msgstr "V2火箭"
+
+msgid "OBJECT_NAME_MOBILE_HEADQUARTERS"
+msgstr "移動指揮所"
+
+msgid "OBJECT_NAME_OBSERVER"
+msgstr "觀測哨"
+
+msgid "OBJECT_NAME_OIL TANK"
+msgstr "油罐"
+
+msgid "OBJECT_NAME_OIL TANKS"
+msgstr "油罐區"
+
+msgid "OBJECT_NAME_RADAR"
+msgstr "訊號站"
+
+msgid "OBJECT_NAME_RLS STOREHOUSE"
+msgstr "修理廠"
+
+msgid "OBJECT_NAME_SHIP"
+msgstr "船隻"
+
+msgid "OBJECT_NAME_STOREHOUSE"
+msgstr "補給站"
+
+msgid "OBJECT_NAME_SUBMARINE"
+msgstr "潛艇"
+
+msgid "OBJECT_NAME_TANKS"
+msgstr "戰車"
+
+msgid "OBJECT_NAME_TRUCKS"
+msgstr "貨車"
+
+msgid "OBJECT_NAME_TURRET1"
+msgstr "高射砲"
+
+msgid "OBJECT_NAME_TURRET_13MM"
+msgstr "高射砲"
+
+msgid "OBJECT_NAME_TURRET_20MM"
+msgstr "高射砲"
+
+msgid "OBJECT_NAME_TURRET_7MM"
+msgstr "高射砲"
+
+msgid "OBJECT_NAME_TURRET_AA"
+msgstr "高射砲"
+
+msgid "OBJECT_NAME_WAREHOUSE"
+msgstr "彈藥庫"
+
+msgid "TRAINING_ROOMS_23_PROVINCE_DESCRIPTION"
+msgstr ""
+"在必爭之地這幅地圖中，雙方將圍繞有著城市和人口密集的街區的高原展開爭奪，險要"
+"的峭壁和峽谷阻礙了地面部隊的推進，雙方只能依靠空中力量打破僵局"
+
+msgid "TRAINING_ROOMS_24_OBSERVATORY_DESCRIPTION"
+msgstr ""
+"在前哨這幅地圖中，雙方將為通往河流與道路交匯處的走廊的控制權展開爭奪，一方的"
+"部隊只能沿著山峰與峽谷間的狹窄道路前進，而另一方將依賴前哨堡壘阻擊敵人"
+
+msgid "TRAINING_ROOMS_27_GIANT_DAM_DESCRIPTION"
+msgstr ""
+"坐落於城鎮上游的水壩至關重要，誰控制了水壩就可以切斷下游城鎮的供電或炸燬水壩"
+"使下游成為一片澤國，為了水壩的控制權雙方將展開激烈的爭奪。"
+
+msgid "TRAINING_ROOMS_ADRIATIC_DESCRIPTION"
+msgstr ""
+"亞德里亞是一幅充滿地中海風貌的地圖，一方試圖清除敵方的制高點並對登入部隊提供"
+"掩護，而另一方則需要守住有利位置直至所有部隊從海上疏散。"
+
+msgid "TRAINING_ROOMS_ARCTIC_NY_DESCRIPTION"
+msgstr "拉普蘭德是專為打雪仗模式而設定的地圖"
+
+msgid "TRAINING_ROOMS_ARIZONA_DESCRIPTION"
+msgstr ""
+"亞利桑那是一幅充滿中美洲古代峽谷風貌的地圖，一支部隊在岩石山下建立了營地，但"
+"遭到了敵方的反擊。兩支部隊的目標是奪取整個區域的控制權，摧毀對方的全部營地和"
+"觀察哨。"
+
+msgid "TRAINING_ROOMS_BURMA_DESCRIPTION"
+msgstr ""
+"霧江是一幅亞洲風貌的地圖，防守方佔據高點部隊沿河與敵方對峙力求通過防禦陣地阻"
+"止敵人的前進，而進攻方通過摧毀敵方陣地力圖深入對方領土。"
+
+msgid "TRAINING_ROOMS_CANYON_DESCRIPTION"
+msgstr ""
+"在南方河谷中，雙方將圍繞一條穿越地圖的河谷展開爭奪，地形兩側山巒聳立，並且氣"
+"候溼潤，零碎的雲層即可用來進行隱蔽，也能夠為突襲行動提供便利"
+
+msgid "TRAINING_ROOMS_CONVOY_DESCRIPTION"
+msgstr ""
+"隱祕之地是一張具有海洋、冰山以及峭壁等多種元素的地圖。一方試圖從一座隱祕的基"
+"地中撤離人員和裝置，而另一方則試圖擊沉敵方艦隊並阻止對方從基地帶走有價值的情"
+"報。"
+
+msgid "TRAINING_ROOMS_ELHALLUF_DESCRIPTION"
+msgstr ""
+"北非沙漠是一幅有著湖泊和乾涸河床的沙漠風格地圖，一方佔據著空軍基地而另一方控"
+"制著燃料庫，佔據基地的一方試圖清除敵人從而奪取寶貴的燃料和支援車輛，而佔據燃"
+"料庫的一方則試圖靠近敵方所控制的空軍基地。"
+
+msgid "TRAINING_ROOMS_FJORDS_DESCRIPTION"
+msgstr ""
+"在峽灣這幅地圖中，兩支艦隊將在由陡峭懸崖所包圍的深而狹窄的水域中展開戰鬥，山"
+"區地形使得地面車輛難以行進，所以空中的支援至關重要。"
+
+msgid "TRAINING_ROOMS_FORTRESS_DESCRIPTION"
+msgstr ""
+"這幅地圖中雙方將會圍繞一個古老的要塞及其周邊土地展開爭奪，整個場景將被貫穿地"
+"圖的河流一分為二，而陸地地形以廣闊的平原和丘陵為主，一方將以地面車輛為主，向"
+"城鎮進發，而另一方則試圖阻止敵軍直至增援抵達。"
+
+msgid "TRAINING_ROOMS_GREENLAND_DESCRIPTION"
+msgstr ""
+"北極雪山是一幅有著沿海基地和間歇泉的雪山風貌地圖，進攻方的艦隊企圖摧毀對方的"
+"基地和船隻，而防守方則希望阻擊敵人。"
+
+msgid "TRAINING_ROOMS_HARBOR_DESCRIPTION"
+msgstr ""
+"在海港這幅地圖中，雙方將對一座海港城市展開爭奪，防守方試圖阻止對方佔據船塢和"
+"進入城市，進攻方則依靠強大的海軍砲火支援企圖建立立足點並進一步發起進攻。"
+
+msgid "TRAINING_ROOMS_LIGHTHOUSE_DESCRIPTION"
+msgstr ""
+"燈塔這幅地圖描繪了一幅大規模登入作戰的場景，防禦方試圖控制住唯一一塊適合作為"
+"登入場的地點，而進攻方則通過龐大的艦隊支援確立立足點。"
+
 #, fuzzy
 msgid "TRAINING_ROOMS_MAP_PLACE"
 msgstr "Map Layout"
+
+msgid "TRAINING_ROOMS_NATIONAL_PARK_2_DESCRIPTION"
+msgstr ""
+"在國家公園中，地形以花崗巖的群山峭壁與將其分割開的深谷為主，雙方將在一個風景"
+"如畫的環境中展開激戰，由於複雜的地形阻礙了前進的腳步，雙方部隊只能想著山谷中"
+"央的河床前進，所以能否獲得空中優勢獲取制高點將成為勝負的關鍵"
+
+msgid "TRAINING_ROOMS_PACIFIC_DESCRIPTION"
+msgstr ""
+"在太平洋這幅地圖中，雙方將會圍繞一個海軍基地展開爭奪，兩支部隊都希望通過海上"
+"和空中力量阻止對方獲得優勢並奪取島嶼控制權。"
+
+msgid "TRAINING_ROOMS_PARK_DESCRIPTION"
+msgstr ""
+"在國家公園這幅地圖中，雙方將圍繞一個幽深的峽谷以及覆蓋著古老樹林和花崗巖風景"
+"的地區展開激戰，防守方試圖保衛機場和附近通訊設施，而進攻方則試圖建立自己的補"
+"給線以支援地面部隊的進攻。"
+
+msgid "TRAINING_ROOMS_PORT_DESCRIPTION"
+msgstr ""
+"這是一幅適合初級/中級飛機作戰的地圖，海灣的某處坐落著一座港口小城，並隱藏著一"
+"支艦隊。高聳的山脊成為連線綿延丘陵和兩個機場的最短航線。"
+
+msgid "TRAINING_ROOMS_SAN_FRANCISCO_DESCRIPTION"
+msgstr ""
+"這幅地圖中，雙方會在一個人口稠密的地區展開激戰，雙方都試圖控制橫跨海峽的大橋"
+"以幫助己方將部隊輸送至對岸。"
+
+msgid "TRAINING_ROOMS_STALINGRAD_DESCRIPTION"
+msgstr ""
+"這幅地圖中，兩軍將在冰凍的河床附近展開激戰，一方試圖突破對方防線並在河對岸鞏"
+"固陣地，而另一方則希望在頂住攻擊的同時能夠奪回丟失的陣地。"
+
+msgid "TRAINING_ROOMS_WINTER_WAR_DESCRIPTION"
+msgstr ""
+"在冬季戰爭這幅地圖中雙方要為城市和工業區的控制權而展開激戰。其中一方要將自己"
+"的儲備物資沿江運往縱深防禦陣地，而另一方則要鞏固自己的戰線並從冰原方向包抄敵"
+"人。"
+
+#~ msgid "OBJECT_NAME_BATTLESHIP"
+#~ msgstr "戰艦"
+
+#, fuzzy
+#~ msgid "MAP_CAPS_SUBNAME_73_OBSERVATORY_11_ADD"
+#~ msgstr "EXPANSION"
+
+#, fuzzy
+#~ msgid "MAP_SUBNAME_73_OBSERVATORY_11_ADD"
+#~ msgstr "Expansion"
