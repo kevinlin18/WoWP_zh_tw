@@ -1197,12 +1197,8 @@ msgstr ""
 "font>The count is reset if the player earns fewer than {0} capture points in "
 "a single battle."
 
-#, fuzzy
-#| msgid "MEDAL_DESCRIPTION_AS"
 msgid "MEDAL_DESCRIPTION_INVASION"
-msgstr ""
-"Awarded for winning at least 10 battles in the <font "
-"color='#f2f2f2'>Invasion</font> mode during the Operation Westwall event."
+msgstr "授予在「西牆任務」活動期間，在<font color='#f2f2f2'>「Invasion」</font>模式獲得至少 10 次勝利的玩家。"
 
 msgid "MEDAL_DESCRIPTION_INVULNERABLE"
 msgstr ""
@@ -1442,25 +1438,16 @@ msgstr ""
 "font>The destroyed targets must include aircraft of <font "
 "color='#f2f2f2'>all 5 types</font>."
 
-#, fuzzy
 msgid "MEDAL_DESCRIPTION_MARATHON"
-msgstr ""
-"Awarded for winning at least 5 battles during the combat phase of the "
-"Operation Westwall event."
+msgstr "授予在「西牆任務」活動期間獲得至少 5 次勝利的玩家。"
 
-#, fuzzy
 msgid "MEDAL_DESCRIPTION_MARATHON_DO335A-1"
-msgstr ""
-"Awarded for completing all compound missions for receiving the <font "
-"color='#ffd57e'>Dornier Do 335 A-1 Pfeil</font> during the Operation "
-"Westwall event."
+msgstr "授予在「西牆任務」活動期間完成獲得<font "
+"color='#ffd57e'>多尼爾 Do 335 A-1 Pfeil</font>所有子任務的玩家。"
 
-#, fuzzy
-#| msgid "MEDAL_DESCRIPTION_GRAF1"
 msgid "MEDAL_DESCRIPTION_MARATHON_XF15C"
-msgstr ""
-"Awarded for completing all compound missions for receiving the <font "
-"color='#ffd57e'>Curtiss XF15C</font> during the Operation Westwall event."
+msgstr "授予在「西牆任務」活動期間完成獲得<font "
+"color='#ffd57e'>寇蒂斯 XF15C</font>所有子任務的玩家。"
 
 #, fuzzy
 msgid "MEDAL_DESCRIPTION_MARCEL"
@@ -2027,12 +2014,8 @@ msgstr ""
 msgid "MEDAL_DESCRIPTION_VOLUNTEER"
 msgstr "獎勵給對遊戲貢獻大的評論和論壇版主，<br><br>只能獲得一次。"
 
-#, fuzzy
-#| msgid "MEDAL_DESCRIPTION_WEIGHTY_CONTRIBUTION"
 msgid "MEDAL_DESCRIPTION_WAR_OF_ATTRITION"
-msgstr ""
-"Awarded for winning at least 10 battles in the <font "
-"color='#f2f2f2'>Attrition</font> mode during the Operation Westwall event."
+msgstr "授予在「西牆任務」活動期間，在<font color='#f2f2f2'>「Attrition」</font>模式獲得至少 10 次勝利的玩家。"
 
 msgid "MEDAL_DESCRIPTION_WEIGHTY_CONTRIBUTION"
 msgstr ""

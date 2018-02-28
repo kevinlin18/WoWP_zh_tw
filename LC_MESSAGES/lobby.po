@@ -155,10 +155,8 @@ msgstr "單人戰鬥"
 msgid "BATTLE_SINGLE_FLIGHT"
 msgstr "標準戰鬥"
 
-#, fuzzy
-#| msgid "BATTLE_SINGLE_FLIGHT"
 msgid "BATTLE_SINGLE_FLIGHT_QUEUE_WINDOW"
-msgstr "COMBAT FLIGHT"
+msgstr "標準戰鬥"
 
 msgid "BATTLE_SNOWBALLS"
 msgstr "打雪仗"
@@ -1967,13 +1965,11 @@ msgstr ""
 msgid "LOBBY_BANNER_CAPS_DUEL_IN_THE_SKIES_HEADER"
 msgstr "DUEL IN THE CLOUDS"
 
-#, fuzzy
 msgid "LOBBY_BANNER_CAPS_INVASION_STARTED"
-msgstr "THE INVASION HAS STARTED!"
+msgstr "入侵已經開始了!"
 
-#, fuzzy
 msgid "LOBBY_BANNER_CAPS_PREPARE_FOR_INVASION"
-msgstr "PREPARE FOR AN INVASION!"
+msgstr "準備入侵!"
 
 #, fuzzy
 msgid "LOBBY_BANNER_CAPS_WAR_OF_ATTRITION_INCOMING"
@@ -1984,13 +1980,11 @@ msgstr "WAR OF ATTRITION IS APPROACHING"
 msgid "LOBBY_BANNER_CAPS_WAR_OF_ATTRITION_STARTED"
 msgstr "WAR OF ATTRITION HAS STARTED"
 
-#, fuzzy
 msgid "LOBBY_BANNER_CAPS_WESTWALL"
-msgstr "OPERATION WESTWALL"
+msgstr "西牆任務"
 
-#, fuzzy
 msgid "LOBBY_BANNER_CAPS_WESTWALL_COLON"
-msgstr "OPERATION WESTWALL:"
+msgstr "西牆任務:"
 
 #, fuzzy
 #| msgid "LOBBY_BANNER_TEXT_PILOT"
@@ -2035,23 +2029,17 @@ msgstr ""
 msgid "LOBBY_BANNER_EARN_TOKENS"
 msgstr "通過完成每日任務領取令牌"
 
-#, fuzzy
-#| msgid "LOBBY_BANNER_CREW_TEXT_1"
 msgid "LOBBY_BANNER_EVENT_RULE_1"
-msgstr "Select a chain of event missions"
+msgstr "選擇一系列的活動任務"
 
-#, fuzzy
-#| msgid "LOBBY_BANNER_CREW_TEXT_2"
 msgid "LOBBY_BANNER_EVENT_RULE_2"
-msgstr "Participate in battles during the combat phase of the event"
+msgstr "在活動期間參與戰鬥"
 
-#, fuzzy
 msgid "LOBBY_BANNER_EVENT_RULE_3"
-msgstr "Complete missions to receive a new aircraft"
+msgstr "完成任務以獲得新戰機"
 
-#, fuzzy
 msgid "LOBBY_BANNER_EVENT_RULE_4"
-msgstr "Complete all missions to receive the reward:"
+msgstr "完成所有任務以獲得獎勵:"
 
 #, fuzzy
 msgid "LOBBY_BANNER_GERMAN_HEAVY_FIGHTER_ICON_VIII"
@@ -5388,15 +5376,11 @@ msgstr "沒有即將到開始的購買紀念任務"
 msgid "LOBBY_EVENTS_STATUS_REFRESHING"
 msgstr "更新活動列表…"
 
-#, fuzzy
-#| msgid "LOBBY_EVENT_QUESTS_AND_WIN"
 msgid "LOBBY_EVENT_ATTACK_END_IN"
-msgstr "Attack ends in:"
+msgstr "攻擊結束於:"
 
-#, fuzzy
-#| msgid "LOBBY_EVENT_TICKETS"
 msgid "LOBBY_EVENT_ATTACK_START_IN"
-msgstr "Attack starts in:"
+msgstr "攻擊開始於:"
 
 msgid "LOBBY_EVENT_BUTTON_BUY_TICKETS"
 msgstr "購買令牌"
@@ -5704,15 +5688,11 @@ msgstr "點選“令牌抽獎”按鈕，獲取豐厚獎勵"
 msgid "LOBBY_EVENT_NAME_NINE_DAYS_OF_DUNKIRK"
 msgstr "The Nine Days of Dunkirk"
 
-#, fuzzy
-#| msgid "LOBBY_EVENT_NEW_CAMO"
 msgid "LOBBY_EVENT_NAME_WESTWALL"
-msgstr "Operation Westwall"
+msgstr "西牆任務"
 
-#, fuzzy
-#| msgid "LOBBY_SUMMER_EVENT_NAME_HEADER"
 msgid "LOBBY_EVENT_NAME_WESTWALL_HEADER"
-msgstr "Operation Westwall"
+msgstr "西牆任務"
 
 msgid "LOBBY_EVENT_NEW_CAMO"
 msgstr "全新塗裝<br>全新徽章"
@@ -7602,20 +7582,14 @@ msgstr "一場戰鬥"
 msgid "LOBBY_ONE_USE_IN_BATTLE_BE_CONSUMED"
 msgstr "在戰鬥中至少使用過一次消耗品消耗品在戰鬥結束時被消耗"
 
-#, fuzzy
-#| msgid "LOBBY_CAMO_PLUS_WEEK"
 msgid "LOBBY_ON_LAST_WEEK"
-msgstr "Last Week"
+msgstr "上週"
 
-#, fuzzy
-#| msgid "LOBBY_CAMO_FOR_WEEK"
 msgid "LOBBY_ON_NEXT_WEEK"
-msgstr "Next Week"
+msgstr "下週"
 
-#, fuzzy
-#| msgid "LOBBY_CAMO_PLUS_WEEK"
 msgid "LOBBY_ON_THIS_WEEK"
-msgstr "This Week"
+msgstr "本週"
 
 #, fuzzy
 #| msgid "LOBBY_OK_BUTTON"
@@ -8442,9 +8416,8 @@ msgstr "(折扣: {percent}%;剩餘時間 {time})"
 msgid "LOBBY_PLANE_NOT_RESEARCHED"
 msgstr "戰機未被研發"
 
-#, fuzzy
 msgid "LOBBY_PLANE_PARTICIPATING_IN_EVENT"
-msgstr "The aircraft can participate in the \"Operation Westwall\" event"
+msgstr "該戰機可參與「西牆任務」活動"
 
 msgid "LOBBY_PLANE_PURCHASED_IN_HANGAR"
 msgstr "戰機已購買，可以使用"
@@ -13912,10 +13885,8 @@ msgstr "影片"
 msgid "LOBBY_VIDEOSERVICE_NOTAVAILABLE"
 msgstr "暫時無法查看影片<br>服務很快就會恢復"
 
-#, fuzzy
-#| msgid "LOBBY_EVENT_NEW_CAMO"
 msgid "LOBBY_VIDEO_ABOUT_NEW_GAMEMODE"
-msgstr "Watch Video About Mode"
+msgstr "觀看本模式的影片"
 
 msgid "LOBBY_WARCASH_REWARD_MESSAGES_1"
 msgstr "完成全部每日任務將為您提供令牌作為以後活動的儲備！"

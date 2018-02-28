@@ -977,10 +977,8 @@ msgstr "將會在 {value} 分鐘後到來"
 msgid "HUD_EVENT_INCOMING_SEC"
 msgstr "將會在 {value} 秒後到來"
 
-#, fuzzy
-#| msgid "HUD_EVENT_INCOMING_SEC"
 msgid "HUD_EVENT_NAME_WESTWALL"
-msgstr "Operation Westwall"
+msgstr "西牆任務"
 
 msgid "HUD_EVENT_REINFORCEMENTS_NOT_AVAILABLE"
 msgstr "無法呼叫支援"
