@@ -10,7 +10,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 2.0.6\n"
+"X-Generator: Poedit 2.0.5\n"
 
 msgid "ACCOUNT_TYPE_BASIC_LOWERCASE"
 msgstr "普通帳號"
@@ -960,6 +960,9 @@ msgstr "金幣兌換銀幣"
 msgid "F1_HANGAR_HEADER"
 msgstr "主要介面說明"
 
+msgid "F1_HANGAR_INFO_ABOUT_GAME"
+msgstr "遊戲資訊"
+
 msgid "F1_HANGAR_MAIN_MENU"
 msgstr "主螢幕"
 
@@ -1037,6 +1040,9 @@ msgstr "機槍"
 
 msgid "GRENADE_MED_DESCRIPTION"
 msgstr "機槍"
+
+msgid "GUIDE_HEADER"
+msgstr "指南"
 
 msgid "GUN_12_DESCRIPTION"
 msgstr "機槍"
@@ -1815,6 +1821,12 @@ msgstr "同盟國"
 
 msgid "LOBBY_AS_AXIS_CAPS"
 msgstr "軸心國"
+
+#, fuzzy
+msgid "LOBBY_ATTACK_ENDED_WAITING_FOR_ALL_PLAYERS_TO_GET_FINAL_SCORE"
+msgstr ""
+"Attack has ended. After all pilots return to the Hangar,<br>the final "
+"calculation of points received will be performed."
 
 #, fuzzy
 msgid "LOBBY_AUTUMN_2016_HEADER_1"
@@ -3295,6 +3307,9 @@ msgstr "你被授予飛機！"
 
 msgid "LOBBY_CONGRATULATIONS_MESSAGE_2"
 msgstr "連同飛機，您會收到一個機位、100%能力訓練的乘員和兩套彈藥。"
+
+msgid "LOBBY_CONGRATULATIONS_PLAYER_NAME_CAPS"
+msgstr "恭喜, {name}!"
 
 #, fuzzy
 msgid "LOBBY_CONGRATULATION_ALL_UNIQUE_PILOTS_RECIEVED"
@@ -5813,8 +5828,32 @@ msgstr "Extend Mission Time"
 msgid "LOBBY_FILTER_AIRCRAFT_CLASSES"
 msgstr "戰機類型"
 
+msgid "LOBBY_FILTER_FIND_AIRCRAFT"
+msgstr "搜尋戰機"
+
+msgid "LOBBY_FILTER_HEADER"
+msgstr "過濾"
+
 msgid "LOBBY_FILTER_RECENTLY_EXPLORED"
 msgstr "最近研發"
+
+msgid "LOBBY_FILTER_SORT"
+msgstr "排序"
+
+msgid "LOBBY_FILTER_SORT_BY_CLASS"
+msgstr "按類型"
+
+msgid "LOBBY_FILTER_SORT_BY_LAST_BATTLE"
+msgstr "按前一場戰鬥"
+
+msgid "LOBBY_FILTER_SORT_BY_NATION"
+msgstr "按國家"
+
+msgid "LOBBY_FILTER_SORT_BY_TIER"
+msgstr "按階級"
+
+msgid "LOBBY_FILTER_SORT_BY_WIN_COUNT"
+msgstr "按勝率"
 
 msgid "LOBBY_FILTER_TOTAL_LIST"
 msgstr "全部"
@@ -7633,6 +7672,9 @@ msgstr "Personal points:"
 msgid "LOBBY_PERSONAL_RATING"
 msgstr "Personal Rating"
 
+msgid "LOBBY_PERSONAL_RATING_COLON"
+msgstr "全部"
+
 #, fuzzy
 msgid "LOBBY_PERSONAL_RATING_RULE_1"
 msgstr "Earn personal points to increase personal rating"
@@ -8473,6 +8515,12 @@ msgstr "You have an operation order for this aircraft."
 #, fuzzy
 msgid "LOBBY_PLANE_TREE_DIRECTIVE_TIME_TO_COMPLETE"
 msgstr "Time for execution:"
+
+#, fuzzy
+msgid "LOBBY_PLAY_ONE_GAME_TO_GET_IN_RATING"
+msgstr ""
+"Perform a combat flight in a Tier IV or higher aircraft<br>to enter the "
+"rating."
 
 #, fuzzy
 msgid "LOBBY_PLUS_HOURS_FOR_QUEST"
@@ -12680,6 +12728,9 @@ msgstr "Unavailable"
 msgid "LOBBY_RADIOSTATION"
 msgstr "無線電"
 
+msgid "LOBBY_RAITING_GAME_MODE"
+msgstr "戰鬥模式："
+
 msgid "LOBBY_RATING_AT_LEVEL_HEADER"
 msgstr "等級{LVL}:"
 
@@ -13951,6 +14002,9 @@ msgstr "編隊"
 msgid "LOBBY_WING_CREATION_OPTION"
 msgstr "與好友組隊"
 
+msgid "LOBBY_WING_PLAYER_NOT_READY"
+msgstr "(尚未就緒)"
+
 msgid "LOBBY_WINTER_CELEBRATIONS_HEADER"
 msgstr "假期已經來臨了！"
 
@@ -14287,6 +14341,10 @@ msgstr "Stage 2: Air Strike"
 #| msgid "LOBBY_QUESTS_NY_QUEST_PLANE_NAME_F2A"
 msgid "LOBBY_XF15C_QUESTLINE_NAME_9"
 msgstr "Stage 2: Hunt"
+
+#, fuzzy
+msgid "LOBBY_YOUR_REWARD"
+msgstr "Your prize:"
 
 msgid "LOCALIZATION_LANGUAGE"
 msgstr "ZH-CN"

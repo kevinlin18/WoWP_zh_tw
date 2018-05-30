@@ -479,6 +479,10 @@ msgstr "好"
 msgid "MEDAL_GAIN_BONUS"
 msgstr "收到 {name}:"
 
+#, fuzzy
+msgid "MESSAGES_ATTACK_ENDED"
+msgstr "Attack has ended!"
+
 msgid "MESSAGES_BONUS_GOLD_NY"
 msgstr "金幣加成:"
 

@@ -3,14 +3,14 @@ msgstr ""
 "Project-Id-Version: World Of Tanks\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2010-06-01 10:00+0300\n"
+"PO-Revision-Date: \n"
 "Last-Translator: kevinlin18 <https://github.com/kevinlin18/WoWP_zh_tw>\n"
 "Language-Team: WoT Team <noreply@wargaming.net>\n"
+"Language: zh_TW\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"PO-Revision-Date: \n"
-"Language: zh_TW\n"
-"X-Generator: Poedit 2.0.6\n"
+"X-Generator: Poedit 2.0.5\n"
 
 msgid "ACHIEVEMENTS_ACCURACY_TOOLTIP"
 msgstr "射擊精準度"
@@ -623,8 +623,14 @@ msgstr "替換砲手"
 msgid "TOOLTIPS_CHANGE_PILOT"
 msgstr "替換飛行員"
 
+msgid "TOOLTIPS_CHANGE_SORTING_ORDER"
+msgstr "切換排列順序"
+
 msgid "TOOLTIPS_CHANGE_TEAM_PLACE"
 msgstr "切換隊伍"
+
+msgid "TOOLTIPS_CLASS"
+msgstr "種類："
 
 #, fuzzy
 msgid "TOOLTIPS_CLASS_HINT_ASSAULT"
@@ -693,6 +699,11 @@ msgstr "Collect all parts to get a bomber for free."
 msgid "TOOLTIPS_COMING_SOON"
 msgstr "即將到來！"
 
+#, fuzzy
+msgid "TOOLTIPS_COMPLETE_ALL_HARD_QUESTS_TO_SKIP_THIS_ONE"
+msgstr ""
+"To skip this mission, complete additional tasks in all preceding missions."
+
 msgid "TOOLTIPS_COST_OF_ACQUISITION_SKILL"
 msgstr "掌握技能的條件"
 
@@ -710,6 +721,9 @@ msgstr ""
 
 msgid "TOOLTIPS_CREW_WITHOUT_PEN"
 msgstr "乘員轉移至同國家的其它戰機上時將不會受到懲罰"
+
+msgid "TOOLTIPS_CURRENT_AIRCRAFT"
+msgstr "已選擇的戰機"
 
 #, fuzzy
 #| msgid "TOOLTIP_QUESTS_REWARD"
@@ -775,6 +789,21 @@ msgstr "購買"
 
 msgid "TOOLTIPS_EQUIPMENT_PURCHASED"
 msgstr "已購買"
+
+msgid "TOOLTIPS_FILTER_AIRPLANE_TYPE_ASSAULT"
+msgstr "攻擊機"
+
+msgid "TOOLTIPS_FILTER_AIRPLANE_TYPE_BOMBERS"
+msgstr "轟炸機"
+
+msgid "TOOLTIPS_FILTER_AIRPLANE_TYPE_FIGHTER"
+msgstr "戰鬥機"
+
+msgid "TOOLTIPS_FILTER_AIRPLANE_TYPE_H-FIGHTERS"
+msgstr "重型戰鬥機"
+
+msgid "TOOLTIPS_FILTER_AIRPLANE_TYPE_NAVY"
+msgstr "多用途戰鬥機"
 
 msgid "TOOLTIPS_FIRST_WIN_BONUS"
 msgstr "每日首勝加成:"
@@ -1075,6 +1104,9 @@ msgstr "飛行速度低、但增壓能力良好且持久"
 msgid "TOOLTIPS_LOW_SPEED_BUT_WEP"
 msgstr "飛行速度低、但增壓能力良好"
 
+msgid "TOOLTIPS_LVL"
+msgstr "階級："
+
 msgid "TOOLTIPS_MANY_BOMBS"
 msgstr "炸彈載彈量高"
 
@@ -1153,6 +1185,9 @@ msgstr "備有數個強力的防禦砲塔"
 msgid "TOOLTIPS_MULTIPLE_TURRETS"
 msgstr "備有數個防禦砲塔"
 
+msgid "TOOLTIPS_NATION"
+msgstr "國家："
+
 msgid "TOOLTIPS_NOT_ARMORED_OBJECT"
 msgstr "無裝甲地面目標"
 
@@ -1182,6 +1217,12 @@ msgstr "No forward-firing offensive armament"
 #, fuzzy
 msgid "TOOLTIPS_OIL_TANKS_DESCRIPTION"
 msgstr "Containers with oil for engines"
+
+msgid "TOOLTIPS_OPEN_GUIDE_OR_VIDEOMATERIALS"
+msgstr "檢視<font color='#{1}'>指南</font>或<font color='#{1}'>影片</font>"
+
+msgid "TOOLTIPS_OPEN_SORT_MENU"
+msgstr "開啟戰機排序選單"
 
 msgid "TOOLTIPS_OPEN_VIDEOLIST"
 msgstr "檢視影片列表"
@@ -2593,6 +2634,9 @@ msgstr "招募乘員"
 msgid "TOOLTIPS_RECRUIT_UNIQUE_PILOT_FOR_PLANE"
 msgstr "Recruit a unique pilot for this aircraft"
 
+msgid "TOOLTIPS_RESET_ALL_FILTERS"
+msgstr "重設過濾"
+
 msgid "TOOLTIPS_RESET_DESCRIPTION"
 msgstr "重置技能時，乘員失去所有技能，但返還所有技能點。"
 
@@ -2671,6 +2715,9 @@ msgstr "技能點："
 msgid "TOOLTIPS_SKILL_PURCHASED"
 msgstr "掌握技能"
 
+msgid "TOOLTIPS_STATUS"
+msgstr "狀態："
+
 #, fuzzy
 msgid "TOOLTIPS_TAIL_PART_DESCRIPTION"
 msgstr "Rear body and stabilizers"
@@ -2688,6 +2735,9 @@ msgstr ""
 
 msgid "TOOLTIPS_THREE_POWERFUL_TURRETS"
 msgstr "備有三個強力的防禦砲塔"
+
+msgid "TOOLTIPS_TIER_LVL"
+msgstr "{level} 階"
 
 msgid "TOOLTIPS_TOKENS_ABLE_BUY_DD_HH_MM"
 msgstr "可購買令牌的剩餘時間: {dd_hh_mm}"
