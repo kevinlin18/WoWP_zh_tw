@@ -4,25 +4,27 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2010-06-01 10:00+0300\n"
 "PO-Revision-Date: \n"
-"Last-Translator: kevinlin18 <https://github.com/"
-"kevinlin18/WoWP_zh_tw>\n"
-"Language-Team: WoWP_zh_tw <https://github.com/"
-"kevinlin18/WoWP_zh_tw>\n"
+"Last-Translator: kevinlin18 <https://github.com/kevinlin18/WoWP_zh_tw>\n"
+"Language-Team: WoWP_zh_tw <https://github.com/kevinlin18/WoWP_zh_tw>\n"
 "Language: zh\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 2.0.6\n"
+"X-Generator: Poedit 2.0.5\n"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_2PA-L"
 msgstr ""
-"為了伴隨轟炸機，以 P-35 為基礎而開發的雙座護航戰鬥機。"
-"雖然飛行性能優異，但最終沒能進入部隊服役。"
+"為了伴隨轟炸機，以 P-35 為基礎而開發的雙座護航戰鬥機。雖然飛行性能優異，但最"
+"終沒能進入部隊服役。"
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_A-26B"
+msgstr ""
+"為了替代美國空軍道格拉斯 A-20 浩劫攻擊機而研製的轟炸機，A-26B 是該系列中第一"
+"批投入量產的飛機。有大量的衍生版本是基於 A-26B 所製造。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_A4N"
 msgstr ""
-"中島飛機公司所設計的最後一款雙翼戰鬥機，在 1937 年開始"
-"的戰爭中被廣泛使用。"
+"中島飛機公司所設計的最後一款雙翼戰鬥機，在 1937 年開始的戰爭中被廣泛使用。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_A5M"
 msgstr ""
@@ -33,651 +35,794 @@ msgstr "裝配瑞星發動機的零式戰機原型機，於1939 年 4 月首飛�
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_A6M2"
 msgstr ""
-"太平洋戰爭爆發時，該型戰機是世界上最好的艦載戰鬥機"
-"，並因此而給了日本掌握空中優勢的能力。"
+"太平洋戰爭爆發時，該型戰機是世界上最好的艦載戰鬥機，並因此而給了日本掌握空中"
+"優勢的能力。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_A6M3-30"
 msgstr ""
-"一些 A6M3 裝上 30 毫米 2 型機砲進行實驗。然而，試驗"
-"顯示，30 毫米機砲的後坐力太強大了。因此，放棄了"
-"量產配備這種機砲的 A6M3 的計劃。"
+"一些 A6M3 裝上 30 毫米 2 型機砲進行實驗。然而，試驗顯示，30 毫米機砲的後坐力"
+"太強大了。因此，放棄了量產配備這種機砲的 A6M3 的計劃。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_A6M5"
 msgstr ""
-"這款 A6M 系列戰機的改型一直與盟軍戰機奮戰，直到二次大戰的最後幾天為止，"
-"共生產了 10449 架該型與其它衍生型號的戰機。"
+"這款 A6M 系列戰機的改型一直與盟軍戰機奮戰，直到二次大戰的最後幾天為止，共生產"
+"了 10449 架該型與其它衍生型號的戰機。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_A7M"
 msgstr ""
-"1942 至 1945 年間為日本帝國海軍研製的零式戰機的後繼機種，至"
-"戰爭結束時，只完成了 8 架原型機並進行了部分測試。"
+"1942 至 1945 年間為日本帝國海軍研製的零式戰機的後繼機種，至戰爭結束時，只完成"
+"了 8 架原型機並進行了部分測試。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_AD10"
 msgstr ""
-"這種雙座戰鬥機串聯機翼構造的原型是由阿森納在公司 1939 "
-"年法國的佔領期間完成的。這架飛機是在 1941 年夏天進行測"
-"試，但決定不把它投入大量生產。"
+"這種雙座戰鬥機串聯機翼構造的原型是由阿森納在公司 1939 年法國的佔領期間完成"
+"的。這架飛機是在 1941 年夏天進行測試，但決定不把它投入大量生產。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_AO192"
 msgstr ""
-"在 Ao.192 輕型運輸機基礎上研製的武裝偵察型飛機 "
-"Ao.192CA，最終並沒有製造原型機，僅停留於計劃階段。"
+"在 Ao.192 輕型運輸機基礎上研製的武裝偵察型飛機 Ao.192CA，最終並沒有製造原型"
+"機，僅停留於計劃階段。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_AR-197"
-msgstr ""
-"德國歷史上最後的雙翼戰鬥機，為配合海軍的齊柏林號航空母"
-"艦而設計。"
+msgstr "德國歷史上最後的雙翼戰鬥機，為配合海軍的齊柏林號航空母艦而設計。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_AR-67"
 msgstr ""
-"Ar.67 作為 Ar.65 的替代戰機進行研製，1933 年首飛，但效"
-"能表現上不及 Ar.68 最終未能進入軍隊服役"
+"Ar.67 作為 Ar.65 的替代戰機進行研製，1933 年首飛，但效能表現上不及 Ar.68 最終"
+"未能進入軍隊服役"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_AR65"
-msgstr ""
-"1930 年代所製造的一款雙翼戰鬥機，主要用於飛行學校的教學"
-"訓練。"
+msgstr "1930 年代所製造的一款雙翼戰鬥機，主要用於飛行學校的教學訓練。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_AR68"
 msgstr ""
-"在該國空軍服役的最後一款雙翼戰鬥機，在西班牙和二戰初期"
-"的一些戰場中被當做夜間戰鬥機使用。"
+"在該國空軍服役的最後一款雙翼戰鬥機，在西班牙和二戰初期的一些戰場中被當做夜間"
+"戰鬥機使用。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_AR80"
-msgstr ""
-"根據空軍最高司令部的規劃，在戰前提出的輕型戰鬥機的項"
-"目。"
+msgstr "根據空軍最高司令部的規劃，在戰前提出的輕型戰鬥機的項目。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_ATTACKER"
-msgstr ""
-"英國最早的艦載噴氣式戰鬥機，1946 年 7 月首飛。一共生產"
-"了 185 架。"
+msgstr "英國最早的艦載噴氣式戰鬥機，1946 年 7 月首飛。一共生產了 185 架。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_BA-27"
 msgstr ""
-"佈雷達公司所設計的一款高速單翼戰鬥機，但最終 Ba.27 沒有"
-"能進入義大利空軍服役而是作為外銷戰機進行了出口，抗戰期"
-"間中國空軍也曾使用過此款戰機。"
+"佈雷達公司所設計的一款高速單翼戰鬥機，但最終 Ba.27 沒有能進入義大利空軍服役而"
+"是作為外銷戰機進行了出口，抗戰期間中國空軍也曾使用過此款戰機。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_BEAUFIGHTER-F"
+msgstr "1939 年 7 月首飛，被用於遠端護航和夜間截擊。一共生產了 5928 架。"
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_BF-109E-3"
 msgstr ""
-"1939 年 7 月首飛，被用於遠端護航和夜間截擊。一共生產了 "
-"5928 架。"
+"生產最為廣泛的 Bf 109 E 型號，在 1940 年的法國戰役和不列顛戰役期間使用，一共"
+"生產了 1,868 架。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_BF-109F"
 msgstr ""
-"Bf109F 在 1940 年開始研製，重新修改了空氣力學設計並更換"
-"了強大的發動機和重量更輕的武器裝備，比 Bf109E 更輕更"
-"快。"
+"Bf109F 在 1940 年開始研製，重新修改了空氣力學設計並更換了強大的發動機和重量更"
+"輕的武器裝備，比 Bf109E 更輕更快。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_BF-110C-6"
 msgstr ""
-"Bf-110 安裝了一門 30 毫米 MK-101 反坦克炮，1940 年 5 月"
-"到 7 月間一共生產了 12 架。"
+"Bf-110 安裝了一門 30 毫米 MK-101 反坦克炮，1940 年 5 月到 7 月間一共生產了 "
+"12 架。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_BF-209V"
 msgstr ""
-"根據 Me.209 競速機為基礎所設計的戰鬥機，但該項目由於使"
-"用大功率發動機造成維護上的困難而被終止。"
+"根據 Me.209 競速機為基礎所設計的戰鬥機，但該項目由於使用大功率發動機造成維護"
+"上的困難而被終止。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_BF109"
-msgstr ""
-"生產最為廣泛的梅塞施密特戰鬥機型號，幾乎出現在戰爭中的"
-"所有戰場。"
+msgstr "生產最為廣泛的梅塞施密特戰鬥機型號，幾乎出現在戰爭中的所有戰場。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_BF109C"
 msgstr ""
-"在該國空軍的戰鬥機設計競標中脫穎而出，早期型號曾在西班"
-"牙和二戰初期被使用。"
+"在該國空軍的戰鬥機設計競標中脫穎而出，早期型號曾在西班牙和二戰初期被使用。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_BF109E"
-msgstr ""
-"Bf.109 的改進型號，被德國及其盟友廣泛使用，服役於這些國"
-"家的空軍。"
+msgstr "Bf.109 的改進型號，被德國及其盟友廣泛使用，服役於這些國家的空軍。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_BF109TL"
 msgstr ""
-"1943 年 1 月，在 Bf.109 的基礎上研製的噴氣式戰鬥機方"
-"案，作為 Me.262 的備份，但之後方案被廢止。"
+"1943 年 1 月，在 Bf.109 的基礎上研製的噴氣式戰鬥機方案，作為 Me.262 的備份，"
+"但之後方案被廢止。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_BF109Z"
 msgstr ""
-"將兩個 Bf.109 機身結合在一起的重型戰鬥轟炸機方案，唯一"
-"的原型機在轟炸中被摧毀。"
+"將兩個 Bf.109 機身結合在一起的重型戰鬥轟炸機方案，唯一的原型機在轟炸中被摧"
+"毀。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_BF110B"
 msgstr ""
-"依照在兩次大戰之間的時期所非常流行的 “驅逐戰鬥機” 的概"
-"念所製造的戰機，在波蘭、法國和挪威的戰鬥中表現出色。"
+"依照在兩次大戰之間的時期所非常流行的 “驅逐戰鬥機” 的概念所製造的戰機，在波"
+"蘭、法國和挪威的戰鬥中表現出色。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_BF110E"
 msgstr ""
-"由於 Me.210 戰鬥機的設計並不成功，所以梅塞施密特公司在"
-"Bf.110 戰機的基礎上進行了升級，該戰機作為夜間戰鬥機和截"
-"擊機而被使用。"
+"由於 Me.210 戰鬥機的設計並不成功，所以梅塞施密特公司在Bf.110 戰機的基礎上進行"
+"了升級，該戰機作為夜間戰鬥機和截擊機而被使用。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_BF209A1"
-msgstr ""
-"為了替代 Bf.109 而研製的一種更高、更快的全能型戰鬥機，"
-"但最終沒能投產。"
+msgstr "為了替代 Bf.109 而研製的一種更高、更快的全能型戰鬥機，但最終沒能投產。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_BLENHEIM-F"
+msgstr "利用布倫海姆轟炸機改裝的護航 / 夜間戰鬥機，一共改裝了 60 架。"
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_BLENHEIM-IV"
 msgstr ""
-"利用布倫海姆轟炸機改裝的護航 / 夜間戰鬥機，一共改裝了 "
-"60 架。"
+"由 Bristol 公司開發的 Type 149。特色為加長的機頭，為領航員提供更舒適的環境。"
+"最早的幾架布倫海姆 Mk.IV 繼承了布倫海姆 Mk.I 的防禦武器。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_BOOMERANG"
 msgstr ""
-"澳大利亞在 CA-1 勇士戰鬥機的基礎上設計製造的改進型戰"
-"機，在 1942 年至 1945 年間共製造了 250 架。"
+"澳大利亞在 CA-1 勇士戰鬥機的基礎上設計製造的改進型戰機，在 1942 年至 1945 年"
+"間共製造了 250 架。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_BRISTOL-TYPE-105"
-msgstr ""
-"1929-1937 年服役於英國皇家空軍，一共生產了 443 架。"
+msgstr "1929-1937 年服役於英國皇家空軍，一共生產了 443 架。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_BRISTOL-TYPE-133"
-msgstr ""
-"英國皇家空軍的第一架具有可收放起落架的戰鬥機，1934 年夏"
-"天進行了測試。"
+msgstr "英國皇家空軍的第一架具有可收放起落架的戰鬥機，1934 年夏天進行了測試。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_BRISTOL-TYPE-146"
 msgstr ""
-"在 1938 年完成試驗，計劃用來裝備英國皇家空軍的新型戰"
-"機，但因為效能不及颶風和噴火，最終被放棄。"
+"在 1938 年完成試驗，計劃用來裝備英國皇家空軍的新型戰機，但因為效能不及颶風和"
+"噴火，最終被放棄。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_BSH-1"
 msgstr ""
-"1936 年蘇聯從美國獲得了生產 V-11 攻擊機的許可。蘇聯在 "
-"V-11 的基礎上研製的國產型叫 BSh-1, 在 1937-1939 年進行"
-"了試驗。"
+"1936 年蘇聯從美國獲得了生產 V-11 攻擊機的許可。蘇聯在 V-11 的基礎上研製的國產"
+"型叫 BSh-1, 在 1937-1939 年進行了試驗。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_BSH-2"
+msgstr "單座重型對地攻擊機，伊爾-2 的原型機之一，於 1940 年 10 月 12 日首飛。"
+
+#, fuzzy
+#| msgid "MARKET_AIRPLANE_DESCRIPTION_I-210"
+msgid "MARKET_AIRPLANE_DESCRIPTION_BV-P210"
 msgstr ""
-"單座重型對地攻擊機，伊爾-2 的原型機之一，於 1940 年 10 "
-"月 12 日首飛。"
+"Designed as part of the project for a mass-produced and low-cost jet-powered "
+"\"people's fighter\". The concept and appearance of the aircraft were "
+"defined in September 1944, but the prototype was never built."
+
+#, fuzzy
+#| msgid "MARKET_AIRPLANE_DESCRIPTION_I-210"
+msgid "MARKET_AIRPLANE_DESCRIPTION_BV-P212-03"
+msgstr ""
+"The BV P.212 was designed as part of the Luftwaffe's Emergency Fighter "
+"Program. Several concepts were developed. The BV P.212.03 version was "
+"selected as final. The first prototype was to make its first flight in the "
+"summer of 1945."
+
+#, fuzzy
+#| msgid "MARKET_AIRPLANE_DESCRIPTION_I-210"
+msgid "MARKET_AIRPLANE_DESCRIPTION_BV-P215-02"
+msgstr ""
+"Designed based on the BV P.212 concept. In March 1945, the Luftwaffe "
+"approved the project and recommended the construction of a prototype. "
+"However, by the end of World War II, only theoretical calculations for the "
+"new aircraft specifications were made."
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_CR714"
 msgstr ""
-"在競速飛機的基礎上研製的，1940 年的法國戰役期間使用。共"
-"有約 90 架戰機被製造出來。"
+"在競速飛機的基礎上研製的，1940 年的法國戰役期間使用。共有約 90 架戰機被製造出"
+"來。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_D-H-103"
-msgstr ""
-"1944 年 7 月首飛，連同所有改進型號一共生產了 383 架。"
+msgstr "1944 年 7 月首飛，連同所有改進型號一共生產了 383 架。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_D-H-98"
 msgstr ""
-"多用途戰鬥機，可以執行遠端護航、夜間截擊和戰鬥轟炸任"
-"務。包括其所有改型，一共生產了 7781 架。"
+"多用途戰鬥機，可以執行遠端護航、夜間截擊和戰鬥轟炸任務。包括其所有改型，一共"
+"生產了 7781 架。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_DEMON"
+msgstr "霍克 · 哈特輕型轟炸機的戰鬥機版本，1933 年首飛，一共生產了 305 架。"
+
+#, fuzzy
+#| msgid "MARKET_AIRPLANE_DESCRIPTION_I-260"
+msgid "MARKET_AIRPLANE_DESCRIPTION_DI-6"
 msgstr ""
-"霍克 · 哈特輕型轟炸機的戰鬥機版本，1933 年首飛，一共生"
-"產了 305 架。"
+"Developed as a two-seat multirole fighter capable of engaging single-seat "
+"fighters in maneuvering combat. Its first flight took place in September "
+"1934. The aircraft did not see active combat service. A total of 223 "
+"modifications of the DI-6 were built."
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_DO-17Z"
 msgstr ""
-"在 Do.17Z 轟炸機的基礎上開發的重型夜間戰鬥機版本，與轟"
-"炸機版本的主要區別在於其增強了前射火力並減少了炸彈裝載"
-"量"
+"在 Do.17Z 轟炸機的基礎上開發的重型夜間戰鬥機版本，與轟炸機版本的主要區別在於"
+"其增強了前射火力並減少了炸彈裝載量"
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_DO-17Z-2"
+msgstr ""
+"Do 17 轟炸機最後和最先進的版本。原型機於 1938 年 3 月首飛。它的特點在於全新設"
+"計的駕駛艙、引擎及防禦武器。連同其所有改進型號一共生產了約 500 架 Do 17 Z。"
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_DO-217M"
+msgstr ""
+"Do 217 M 是大量生產的 Do 217 K 的一種衍生型號，配備 DB 603 發動機，而不是戰鬥"
+"機的 BMW 801。 這兩架轟炸機版本主要用於西方戰線。"
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_DO-335A1"
+msgstr ""
+"以重型戰鬥轟炸機為目標開發。原型機於 1943 年 10 月 26 日首飛。一系列約 12 架 "
+"Do 335A-1 在二戰結束時建成。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_F-15C"
-msgstr ""
-"一款使用混合動力系統的戰鬥機，共製造了 3 架原型機，沒有"
-"正式裝備部隊。"
+msgstr "一款使用混合動力系統的戰鬥機，共製造了 3 架原型機，沒有正式裝備部隊。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_F-84B"
 msgstr ""
-"用來取代在美國空軍任職的 P-47 雷電戰機。首飛於 1946 年 "
-"2 月，在朝鮮戰爭期間作為戰鬥轟炸機非常成功。"
+"用來取代在美國空軍任職的 P-47 雷電戰機。首飛於 1946 年 2 月，在朝鮮戰爭期間作"
+"為戰鬥轟炸機非常成功。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_F-84F"
 msgstr ""
-"f-84e 為後掠翼版本，採用一種新的引擎。首飛在 1950 年 6 "
-"月。共有 2711 架 f-84fs 為戰鬥機版本。"
+"f-84e 為後掠翼版本，採用一種新的引擎。首飛在 1950 年 6 月。共有 2711 架 "
+"f-84fs 為戰鬥機版本。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_F11C"
 msgstr ""
-"艦載戰鬥轟炸機。從 1932 到 1933 年一共為美國海軍生產了 "
-"28 架，這種飛機的出口型叫做霍克 II 型。"
+"艦載戰鬥轟炸機。從 1932 到 1933 年一共為美國海軍生產了 28 架，這種飛機的出口"
+"型叫做霍克 II 型。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_F2A"
-msgstr ""
-"曾出口到英國、荷蘭、芬蘭，一直使用到太平洋戰爭初期。"
+msgstr "曾出口到英國、荷蘭、芬蘭，一直使用到太平洋戰爭初期。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_F2A-1"
 msgstr "F2A 水牛的早期版本，該型號一共生產了 11 架。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_F2F"
 msgstr ""
-"在 FF-1 型雙座艦載戰鬥機基礎上研製的單座型，1940 年 9 "
-"月之後全部轉為教練機使用。"
+"在 FF-1 型雙座艦載戰鬥機基礎上研製的單座型，1940 年 9 月之後全部轉為教練機使"
+"用。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_F2G"
 msgstr ""
-"在 F4U 基礎上發展的高速戰鬥機，有些戰機在戰爭結束後被出"
-"售給私人作為飛行競賽機使用。"
+"在 F4U 基礎上發展的高速戰鬥機，有些戰機在戰爭結束後被出售給私人作為飛行競賽機"
+"使用。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_F2H"
-msgstr ""
-"1947 年 1 月首飛，在朝鮮戰爭期間曾被使用，共製造了 895 "
-"架該型飛機。"
+msgstr "1947 年 1 月首飛，在朝鮮戰爭期間曾被使用，共製造了 895 架該型飛機。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_F3F"
 msgstr "1930 年代最好的雙翼戰鬥機，一直服役到 1941 年。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_F4F"
 msgstr ""
-"是美國捲入戰爭時海軍裝備的最好的艦載戰鬥機，一直從戰爭"
-"開始使用到戰爭結束。"
+"是美國捲入戰爭時海軍裝備的最好的艦載戰鬥機，一直從戰爭開始使用到戰爭結束。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_F4U"
 msgstr ""
-"該國使用最廣泛的海軍戰鬥機之一，除作為艦載戰鬥機外，還"
-"被當做陸基戰鬥機使用。"
+"該國使用最廣泛的海軍戰鬥機之一，除作為艦載戰鬥機外，還被當做陸基戰鬥機使用。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_F4U-4"
 msgstr ""
-"F4U 戰鬥機的改進型號，在太平洋戰爭和朝鮮戰爭中大量使"
-"用，一共生產了 2557 架。"
+"F4U 戰鬥機的改進型號，在太平洋戰爭和朝鮮戰爭中大量使用，一共生產了 2557 架。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_F5U"
-msgstr ""
-"美國海軍所製造的一種配置非常獨特的驗證機，沒有戰鬥記"
-"錄。"
+msgstr "美國海軍所製造的一種配置非常獨特的驗證機，沒有戰鬥記錄。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_F6U"
 msgstr ""
-"美國海軍第一架噴氣式戰鬥機，使用了帶加力燃燒室的發動機"
-"和複合材料。進行了量產但沒有進行過實戰。"
+"美國海軍第一架噴氣式戰鬥機，使用了帶加力燃燒室的發動機和複合材料。進行了量產"
+"但沒有進行過實戰。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_F7F"
 msgstr ""
-"專為美國太平洋艦隊所使用的重型艦載戰鬥機，1943 年 11 月"
-"首飛，共製造了 364 架該型戰機。"
+"專為美國太平洋艦隊所使用的重型艦載戰鬥機，1943 年 11 月首飛，共製造了 364 架"
+"該型戰機。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_F7U"
 msgstr ""
-"戰後美國設計的噴氣式艦載戰鬥機，最大的特點是雙發，雙垂"
-"尾，沒有水平尾翼。"
+"戰後美國設計的噴氣式艦載戰鬥機，最大的特點是雙發，雙垂尾，沒有水平尾翼。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_F86A"
 msgstr "戰後最著名的噴氣式戰鬥機之一，曾參加過朝鮮戰爭。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_F90"
 msgstr ""
-"以重視空中突防能力而設計的一款戰鬥機，1949 年 6 月首"
-"飛，但沒有裝備部隊服役。"
+"以重視空中突防能力而設計的一款戰鬥機，1949 年 6 月首飛，但沒有裝備部隊服役。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_F94"
 msgstr ""
-"在 F-94B 的基礎上作為換裝各種不同武器配置以進行測試的測"
-"試平臺而開發，該戰機沒有進行量產"
+"在 F-94B 的基礎上作為換裝各種不同武器配置以進行測試的測試平臺而開發，該戰機沒"
+"有進行量產"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_FANTOME"
 msgstr ""
-"為出口比利時空軍而研製的戰機，共生產了 4 架原型機並在英"
-"國、比利時和蘇聯進行了測試。"
+"為出口比利時空軍而研製的戰機，共生產了 4 架原型機並在英國、比利時和蘇聯進行了"
+"測試。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_FI-98"
 msgstr ""
-"以為地面部隊提供近距離支援為目的而設計的一款戰機，1935"
-"年時進行了飛行測試，只生產了 1 架原型機未投入量產"
+"以為地面部隊提供近距離支援為目的而設計的一款戰機，1935年時進行了飛行測試，只"
+"生產了 1 架原型機未投入量產"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_FJ1"
 msgstr ""
-"美國海軍第一種艦載噴氣式戰鬥機，後來在其基礎之上還發展"
-"出了著名的 F-86 戰鬥機。"
+"美國海軍第一種艦載噴氣式戰鬥機，後來在其基礎之上還發展出了著名的 F-86 戰鬥"
+"機。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_FL-1"
 msgstr ""
-"P-39 空中眼鏡蛇的艦載型變體機，1940 年 5 月首飛，準備用"
-"來作為美國海軍的新型艦載機，但被認為效能上不及 F4U 海"
-"盜。"
+"P-39 空中眼鏡蛇的艦載型變體機，1940 年 5 月首飛，準備用來作為美國海軍的新型艦"
+"載機，但被認為效能上不及 F4U 海盜。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_FW-159"
 msgstr ""
-"在 1935 年作為德國空軍的新型戰鬥機而設計製造並進行了測"
-"試，但結果顯示其效能遜於 He.112 和 Bf.109 兩款戰機，只"
-"製造了兩架原型機。"
+"在 1935 年作為德國空軍的新型戰鬥機而設計製造並進行了測試，但結果顯示其效能遜"
+"於 He.112 和 Bf.109 兩款戰機，只製造了兩架原型機。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_FW-189C"
 msgstr ""
-"在著名的 Fw.189 偵察機的基礎上改裝而成的裝甲攻擊機，在"
-"1939 年至 1940 年間對原型機進行了測試。"
+"在著名的 Fw.189 偵察機的基礎上改裝而成的裝甲攻擊機，在1939 年至 1940 年間對原"
+"型機進行了測試。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_FW-190A1"
 msgstr ""
-"1939 年開始研製的用於替代德國空軍所裝備的 Bf.109 的新型"
-"戰鬥機，1941 年，Fw.190 開始大量生產"
+"1939 年開始研製的用於替代德國空軍所裝備的 Bf.109 的新型戰鬥機，1941 年，"
+"Fw.190 開始大量生產"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_FW-190A5"
 msgstr ""
-"Fw.190 的改進型號，增強了火力並使用了更大功率的發動機，"
-"1943 年春開始服役並作為多用途戰鬥機而被廣泛使用"
+"Fw.190 的改進型號，增強了火力並使用了更大功率的發動機，1943 年春開始服役並作"
+"為多用途戰鬥機而被廣泛使用"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_FW-190A8"
 msgstr ""
-"Fw.190 戰鬥機的一個大規模量產的改進版本，該型戰機在原有"
-"基礎上對機翼位置的火力進行了進一步的提升。"
+"Fw.190 戰鬥機的一個大規模量產的改進版本，該型戰機在原有基礎上對機翼位置的火力"
+"進行了進一步的提升。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_FW-190D"
 msgstr ""
-"Fw.190D 型在 1944 年秋開始服役，它被證明是德國在戰爭末"
-"期最好的戰鬥機之一"
+"Fw.190D 型在 1944 年秋開始服役，它被證明是德國在戰爭末期最好的戰鬥機之一"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_FW-252"
 msgstr ""
-"作為一款比 Ta.183 擁有更好的飛行效能為目標而設計的新型"
-"戰鬥機，但其研發工作由於戰爭的結束而被中斷"
+"作為一款比 Ta.183 擁有更好的飛行效能為目標而設計的新型戰鬥機，但其研發工作由"
+"於戰爭的結束而被中斷"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_FW56"
-msgstr ""
-"為空軍重整計劃所設計的一款戰鬥機，採用古老的傘翼設計。"
+msgstr "為空軍重整計劃所設計的一款戰鬥機，採用古老的傘翼設計。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_FW57"
 msgstr "雙發重型戰鬥機，德國空軍發展的第一種驅逐機。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_GLOSTER-JAVELIN"
-msgstr ""
-"全天候截擊機，1951 年首飛。連同其所有改進型號一共生產"
-"了 436 架。"
+msgstr "全天候截擊機，1951 年首飛。連同其所有改進型號一共生產了 436 架。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_GLOSTER-P-228"
 msgstr "計劃中的雙座夜間截擊機，該項目在設計階段被取消。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_GOLDFINCH"
-msgstr ""
-"1926 年研製的一種全金屬硬殼戰鬥機，但最後沒能服役。"
+msgstr "1926 年研製的一種全金屬硬殼戰鬥機，但最後沒能服役。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_HA-137"
 msgstr ""
-"1935 年至 1936 年期間以為地面部隊提供近距離空中支援為目"
-"的而研發的一款戰機，沒有能夠裝備部隊，只生產了 6 架原型"
-"機。"
+"1935 年至 1936 年期間以為地面部隊提供近距離空中支援為目的而研發的一款戰機，沒"
+"有能夠裝備部隊，只生產了 6 架原型機。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_HA-137V1"
 msgstr ""
-"布洛姆-福斯 Ha.137 的原型機，於 1935 年 4 月首飛，與之"
-"後的改進型相較，最為主要的區別在於其使用的動力裝置為 "
-"BMW-132 發動機。"
+"布洛姆-福斯 Ha.137 的原型機，於 1935 年 4 月首飛，與之後的改進型相較，最為主"
+"要的區別在於其使用的動力裝置為 BMW-132 發動機。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_HAWK-2"
 msgstr ""
-"F11C 戰鬥機的外銷版本，在抗戰期間被廣泛使用，其中一些飛"
-"機直接在中國生產。"
+"F11C 戰鬥機的外銷版本，在抗戰期間被廣泛使用，其中一些飛機直接在中國生產。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_HAWK-3"
 msgstr ""
-"出口版的寇蒂斯 BF2C-1，中國、阿根廷、土耳其、泰國都曾使"
-"用過這款戰機，共有 137 架被製造並且中國還獲得了授權生產"
-"許可。"
+"出口版的寇蒂斯 BF2C-1，中國、阿根廷、土耳其、泰國都曾使用過這款戰機，共有 "
+"137 架被製造並且中國還獲得了授權生產許可。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_HAWK75"
-msgstr ""
-"在寇蒂斯 75 號基礎上改進的出口型戰鬥機，曾廣泛服役於多"
-"國空軍。"
+msgstr "在寇蒂斯 75 號基礎上改進的出口型戰鬥機，曾廣泛服役於多國空軍。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_HE-100"
 msgstr ""
-"二戰前研製的一種另類的梅塞施密特戰鬥機，用於爭奪世界最"
-"快飛機的頭銜，沒有進入部隊服役。"
+"二戰前研製的一種另類的梅塞施密特戰鬥機，用於爭奪世界最快飛機的頭銜，沒有進入"
+"部隊服役。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_HE-112"
 msgstr ""
-"在 1935 年作為德國空軍的新型戰鬥機而設計製造並進行了測"
-"試，曾出口至日本、匈牙利和羅馬尼亞，共生產了 100 架該型"
-"戰機。"
+"在 1935 年作為德國空軍的新型戰鬥機而設計製造並進行了測試，曾出口至日本、匈牙"
+"利和羅馬尼亞，共生產了 100 架該型戰機。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_HE-51"
 msgstr ""
-"作為 Ar.65 的替代機型於 1933 年開始研製，曾在西班牙內戰"
-"期間投入實戰使用，共生產了 700 架該型戰機。"
+"作為 Ar.65 的替代機型於 1933 年開始研製，曾在西班牙內戰期間投入實戰使用，共生"
+"產了 700 架該型戰機。"
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_HS-123"
+msgstr ""
+"1935 年 5 月首飛，在西班牙內戰和二戰期間成功地提供近距離空中支援。共有約 260 "
+"架戰機被製造出來。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_HS-129"
 msgstr ""
-"重型裝甲攻擊機，在 1939 年 5 月進行了首飛測試，共生產或"
-"改裝了 865 架該型戰機。"
+"重型裝甲攻擊機，在 1939 年 5 月進行了首飛測試，共生產或改裝了 865 架該型戰"
+"機。"
+
+#, fuzzy
+#| msgid "MARKET_AIRPLANE_DESCRIPTION_HS-129"
+msgid "MARKET_AIRPLANE_DESCRIPTION_HS-129A"
+msgstr ""
+"Early version of the armored Hs 129 attack aircraft fitted with Argus "
+"engines. A small series of aircraft was used mainly for pilot training."
+
+#, fuzzy
+#| msgid "MARKET_AIRPLANE_DESCRIPTION_HURRICANE-IID"
+msgid "MARKET_AIRPLANE_DESCRIPTION_HURRICANE-I"
+msgstr ""
+"The main British fighter type of early World War II. The prototype first "
+"flew in November 1935. Widely used in the French campaign in 1940 and "
+"massively used in the Battle of Britain."
+
+#, fuzzy
+#| msgid "MARKET_AIRPLANE_DESCRIPTION_HURRICANE-IID"
+msgid "MARKET_AIRPLANE_DESCRIPTION_HURRICANE-II"
+msgstr ""
+"The Hurricane Mk II entered service in 1940. Compared to the early fighter "
+"variants, it was equipped with a more powerful engine, and its armament was "
+"gradually enhanced. This modification remained in production until 1944 and "
+"was also built in Canada."
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_HURRICANE-IID"
-msgstr ""
-"1941 年時在霍克颶風戰鬥機的基礎上發展而來的反坦克飛機。"
+msgstr "1941 年時在霍克颶風戰鬥機的基礎上發展而來的反坦克飛機。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_I-15BIS-DM2"
 msgstr ""
-"在伊-15 戰機的基礎上使用衝壓發動機，以提高其爬升效能。"
-"於 1939-1940 年進行了測試。"
+"在伊-15 戰機的基礎上使用衝壓發動機，以提高其爬升效能。於 1939-1940 年進行了測"
+"試。"
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_I-16-29"
+msgstr ""
+"波利卡爾波夫 伊-16 最後量產的改良型號。於 1940 年首飛。與早期型號的主要區別在"
+"於機翼上沒有機槍，而是搭載了大口徑的同步機槍。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_I-17"
 msgstr ""
-"在 1934–1937 年研製，但由於與大規模量產的伊-16 相比缺乏"
-"優勢而未能服役，只有原型機。"
+"在 1934–1937 年研製，但由於與大規模量產的伊-16 相比缺乏優勢而未能服役，只有原"
+"型機。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_I-180"
 msgstr ""
-"I-180 的第三原型機，與它的前輩不同的是，i-180-3 配備武"
-"器和發動機為設計的目的。飛機被視為量產機型，但該項目由"
-"於該 i-180 被取消所以放棄了。"
+"I-180 的第三原型機，與它的前輩不同的是，i-180-3 配備武器和發動機為設計的目"
+"的。飛機被視為量產機型，但該項目由於該 i-180 被取消所以放棄了。"
+
+#, fuzzy
+#| msgid "MARKET_AIRPLANE_DESCRIPTION_I-210"
+msgid "MARKET_AIRPLANE_DESCRIPTION_I-207-4"
+msgstr ""
+"The last developed version of the I-207 fighter. The aircraft was supposed "
+"to have the properties of both high-speed monoplanes and maneuverable "
+"biplanes. The prototype was built by the spring of 1941, but the project was "
+"discontinued."
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_I-21"
-msgstr ""
-"裝備 M-34 發動機並配備蒸發冷卻系統的高速戰鬥機，未完成"
-"飛行測試"
+msgstr "裝備 M-34 發動機並配備蒸發冷卻系統的高速戰鬥機，未完成飛行測試"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_I-210"
 msgstr ""
-"在米格-3 的基礎上使用星形空冷發動機的改進型戰機，共製造"
-"了 5 架該型戰機並一直使用至 1944 年。"
+"在米格-3 的基礎上使用星形空冷發動機的改進型戰機，共製造了 5 架該型戰機並一直"
+"使用至 1944 年。"
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_I-211"
+msgstr ""
+"於 1946 年開始研製。原型機於 1947 年 9 月 5 日首飛。飛機的概念不斷改良。該計"
+"劃的後續發展衍生出了 I-215。"
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_I-215"
+msgstr ""
+"在 I-211 的基礎上設計，改變了發動機和武器組合。由於決定集中發展米高揚和雅克列"
+"夫設計局的戰鬥機，從未進入部隊服役。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_I-220"
 msgstr ""
-"一款注重格鬥效能的高空戰鬥機，伊-220 在開發過程中使用了"
-"多種不同類型的發動機進行測試。"
+"一款注重格鬥效能的高空戰鬥機，伊-220 在開發過程中使用了多種不同類型的發動機進"
+"行測試。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_I-250"
 msgstr ""
-"為實驗混合動力可行性而設計製造的戰鬥機，同時裝備有活塞"
-"式和噴氣式兩臺發動機，在 1945 年至 1946 年間製造了數架"
-"原型機但沒有進入軍隊服役。"
+"為實驗混合動力可行性而設計製造的戰鬥機，同時裝備有活塞式和噴氣式兩臺發動機，"
+"在 1945 年至 1946 年間製造了數架原型機但沒有進入軍隊服役。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_I-260"
 msgstr ""
-"一款僅停留於藍圖階段的戰機，設計上計劃使用德國的寶馬 "
-"003 引擎，這款戰機的一些設計理念後被應用於米格-9 戰機的"
-"設計上。"
+"一款僅停留於藍圖階段的戰機，設計上計劃使用德國的寶馬 003 引擎，這款戰機的一些"
+"設計理念後被應用於米格-9 戰機的設計上。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_I-302P"
 msgstr ""
-"戰鬥機搭載一枚液體燃料火箭衝壓發動機和發動機設計，其在"
-"1940 年首次提出這架飛機，在 1942-1944 實施。根據滑翔機"
-"的原型而建。該項目被中斷了 1944 年，因為引擎是還不能實"
-"際投入。"
+"戰鬥機搭載一枚液體燃料火箭衝壓發動機和發動機設計，其在1940 年首次提出這架飛"
+"機，在 1942-1944 實施。根據滑翔機的原型而建。該項目被中斷了 1944 年，因為引擎"
+"是還不能實際投入。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_I-5SHKAS"
 msgstr ""
-"為了增強伊-5 戰鬥機的火力，設計師是用了射速更高的 "
-"ShKAS 代替原先的 PV-1 型機槍。"
+"為了增強伊-5 戰鬥機的火力，設計師是用了射速更高的 ShKAS 代替原先的 PV-1 型機"
+"槍。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_I-7"
 msgstr ""
-"伊-7 戰機是根據德國亨克爾公司所研製的 HD-37 飛機而授權"
-"制造的蘇聯量產版本。"
+"伊-7 戰機是根據德國亨克爾公司所研製的 HD-37 飛機而授權制造的蘇聯量產版本。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_I15"
-msgstr ""
-"1930 年代比較先進的雙翼戰鬥機，曾在蘇聯的邊界衝突中被廣"
-"泛使用。"
+msgstr "1930 年代比較先進的雙翼戰鬥機，曾在蘇聯的邊界衝突中被廣泛使用。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_I16-24"
 msgstr "伊-16 的改進型，在火力和飛行效能方面得到了提高。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_I16-5"
 msgstr ""
-"1930 年代蘇聯空軍研製的高速戰鬥機，首次投入使用的時間是"
-"在 1936 年的西班牙，並且參加了哈拉哈河戰役和二戰。"
+"1930 年代蘇聯空軍研製的高速戰鬥機，首次投入使用的時間是在 1936 年的西班牙，並"
+"且參加了哈拉哈河戰役和二戰。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_I5"
+msgstr "1930 年代蘇聯空軍戰前的主力戰鬥機，直到大戰爆發，仍有部分部隊在使用。"
+
+#, fuzzy
+#| msgid "MARKET_AIRPLANE_DESCRIPTION_IL-10M"
+msgid "MARKET_AIRPLANE_DESCRIPTION_IL-1"
 msgstr ""
-"1930 年代蘇聯空軍戰前的主力戰鬥機，直到大戰爆發，仍有部"
-"分部隊在使用。"
+"Designed as an armored low- and mid-altitude fighter capable of engaging "
+"enemy aircraft in a maneuvering combat. The project was discontinued due to "
+"the achievement of air superiority by the Soviet Air Force in 1944."
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_IL-10M"
 msgstr ""
-"在伊爾-10 的基礎上提升火力並改善操控效能後，以伊爾-10M "
-"的名稱投入量產。"
+"在伊爾-10 的基礎上提升火力並改善操控效能後，以伊爾-10M 的名稱投入量產。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_IL-2MOD"
-msgstr ""
-"在前線進行測試的時候，曾多次嘗試對伊爾-2 進行修改，為其"
-"增加尾炮射手。"
+msgstr "在前線進行測試的時候，曾多次嘗試對伊爾-2 進行修改，為其增加尾炮射手。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_IL-40P"
 msgstr ""
-"在修復伊爾-40 的一些嚴重故障的基礎上發展而來的攻擊機，"
-"共生產了 7 架該型攻擊機。"
+"在修復伊爾-40 的一些嚴重故障的基礎上發展而來的攻擊機，共生產了 7 架該型攻擊"
+"機。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_IL10"
 msgstr ""
-"1944 年時，在伊爾-2 基礎上研製的一個大改型號，參加過二"
-"戰最後階段的戰役和抗美援朝。"
+"1944 年時，在伊爾-2 基礎上研製的一個大改型號，參加過二戰最後階段的戰役和抗美"
+"援朝。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_IL2"
-msgstr ""
-"蘇聯空軍中具有傳奇色彩的優秀攻擊機，早期型號只有駕駛"
-"員，而不設尾砲手。"
+msgstr "蘇聯空軍中具有傳奇色彩的優秀攻擊機，早期型號只有駕駛員，而不設尾砲手。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_IL20"
-msgstr ""
-"試驗型號，該機座艙的視野寬闊，可以迅速的發現目標。但最"
-"終並未投產。"
+msgstr "試驗型號，該機座艙的視野寬闊，可以迅速的發現目標。但最終並未投產。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_IL2X2"
 msgstr ""
-"伊爾-2 的雙座改進型，增加了一位尾砲手。該型號是戰爭中使"
-"用最廣泛的攻擊機。"
+"伊爾-2 的雙座改進型，增加了一位尾砲手。該型號是戰爭中使用最廣泛的攻擊機。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_IL40"
-msgstr ""
-"1953 年至 1956 年開發的重灌甲串聯雙座高速攻擊機。"
+msgstr "1953 年至 1956 年開發的重灌甲串聯雙座高速攻擊機。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_IL8"
 msgstr ""
-"伊爾-2 的大改型之一，擁有更厚的裝甲，抗毀傷能力提高，並"
-"且掛載能力也得到了提高。"
+"伊爾-2 的大改型之一，擁有更厚的裝甲，抗毀傷能力提高，並且掛載能力也得到了提"
+"高。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_J4M1"
-msgstr ""
-"高速截擊機，後來由於海軍全力支援震電的開發，而被終止。"
+msgstr "高速截擊機，後來由於海軍全力支援震電的開發，而被終止。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_J7W1"
-msgstr ""
-"為應對盟軍的轟炸而研製的戰鬥機，最終完成兩架原型機。"
+msgstr "為應對盟軍的轟炸而研製的戰鬥機，最終完成兩架原型機。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_J7W2"
-msgstr ""
-"震電的噴氣動力型，直至戰爭結束時，仍停留在藍圖階段。"
+msgstr "震電的噴氣動力型，直至戰爭結束時，仍停留在藍圖階段。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_J7W3"
-msgstr ""
-"震電的進一步發展型號，由於戰爭結束該設計方案被廢棄。"
+msgstr "震電的進一步發展型號，由於戰爭結束該設計方案被廢棄。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_J8M"
 msgstr ""
-"根據德國提供的技術資料和設計圖所研製的火箭動力截擊機，"
-"於 1945 年 7 月首飛，共製造了 7 架原型機。"
+"根據德國提供的技術資料和設計圖所研製的火箭動力截擊機，於 1945 年 7 月首飛，共"
+"製造了 7 架原型機。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_JL-1"
-msgstr ""
-"由殲教-1 型教練機所發展出的衍生型號，但其只停留於設計草"
-"圖階段。"
+msgstr "由殲教-1 型教練機所發展出的衍生型號，但其只停留於設計草圖階段。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_JU-52"
 msgstr ""
-"由恩斯特-辛多設計，服役至戰爭最後的全金屬運輸機，由容克"
-"公司於 1919 年量產。"
+"由恩斯特-辛多設計，服役至戰爭最後的全金屬運輸機，由容克公司於 1919 年量產。"
+
+#, fuzzy
+#| msgid "MARKET_AIRPLANE_DESCRIPTION_JU-87G"
+msgid "MARKET_AIRPLANE_DESCRIPTION_JU-86E"
+msgstr ""
+"Due to problems with the diesel engines on the early Ju 86, it was decided "
+"to replace them with the radial BMW 132. The new modification—the Ju 86 E—"
+"served with the Luftwaffe until it was replaced by more advanced He 111 "
+"bombers."
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_JU-87G"
 msgstr ""
-"在 Ju 87 斯圖卡的俯衝轟炸機版本基礎上改良而成攻擊機型"
-"號，在原有基礎上對武器和防護裝甲進行了強化。"
+"在 Ju 87 斯圖卡的俯衝轟炸機版本基礎上改良而成攻擊機型號，在原有基礎上對武器和"
+"防護裝甲進行了強化。"
+
+#, fuzzy
+#| msgid "MARKET_AIRPLANE_DESCRIPTION_JU-88P"
+msgid "MARKET_AIRPLANE_DESCRIPTION_JU-88A"
+msgstr ""
+"The most mass-produced modification of the Ju 88. Mass production started in "
+"March 1939, and by 1940–1941, the Ju 88 A became the main bomber type in the "
+"Luftwaffe. The aircraft was widely used on all fronts and was also supplied "
+"to the allies of Germany."
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_JU-88P"
 msgstr ""
-"在 Ju.88 轟炸機基礎上強化了反坦克能力的修改版本，製造或"
-"改裝了數十架配置不同武器的該型戰機。"
+"在 Ju.88 轟炸機基礎上強化了反坦克能力的修改版本，製造或改裝了數十架配置不同武"
+"器的該型戰機。"
+
+#, fuzzy
+#| msgid "MARKET_AIRPLANE_DESCRIPTION_KI-18"
+msgid "MARKET_AIRPLANE_DESCRIPTION_KI-10"
+msgstr ""
+"Last mass-produced biplane fighter used by the Japanese Army. First flew in "
+"March 1935. Saw combat in China and in the Soviet-Japanese conflict of "
+"Khalkhyn Gol. A total of about 600 aircraft were built."
+
+#, fuzzy
+#| msgid "MARKET_AIRPLANE_DESCRIPTION_KI-18"
+msgid "MARKET_AIRPLANE_DESCRIPTION_KI-162-I"
+msgstr ""
+"In the spring of 1945 Germany provided the information about the Heinkel "
+"He 162 jet fighter to the Japanese. According to some sources, the "
+"development of a fighter with similar characteristics was started in Japan, "
+"but not even a model was completed by the end of World War II."
+
+#, fuzzy
+#| msgid "MARKET_AIRPLANE_DESCRIPTION_KI-18"
+msgid "MARKET_AIRPLANE_DESCRIPTION_KI-162-III"
+msgstr ""
+"Due to the end of World War II, the Ki-162 project was not completed in "
+"combat-ready condition. Further development is only hypothetical based on "
+"the level of technology in Japan at that time."
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_KI-18"
 msgstr ""
-"在九六艦戰的基礎上改裝而成的陸基版本，在 1935 年至 "
-"1936 年間進行了測試，但由於陸軍更青睞九五式戰所以未能進"
-"入部隊服務。"
+"在九六艦戰的基礎上改裝而成的陸基版本，在 1935 年至 1936 年間進行了測試，但由"
+"於陸軍更青睞九五式戰所以未能進入部隊服務。"
+
+#, fuzzy
+#| msgid "MARKET_AIRPLANE_DESCRIPTION_I-7"
+msgid "MARKET_AIRPLANE_DESCRIPTION_KI-27"
+msgstr ""
+"Developed to replace the Ki-10. The prototype first flew in October 1936. "
+"Saw combat in China, during the Battle of Khalkhyn Gol, and in the initial "
+"period of the Pacific War. A total of about 3,400 aircraft were built."
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_KI-33"
+msgstr "1936 年開始研製的一種新型戰鬥機，僅完成兩架原型機。"
+
+#, fuzzy
+#| msgid "MARKET_AIRPLANE_DESCRIPTION_KI-43-IC"
+msgid "MARKET_AIRPLANE_DESCRIPTION_KI-43-I"
 msgstr ""
-"1936 年開始研製的一種新型戰鬥機，僅完成兩架原型機。"
+"Developed by the Nakajima Aircraft Company to replace the Ki-27 in the "
+"Japanese Air Force. First aircraft entered service in the fall of 1941. A "
+"total of about 6,000 Ki-43s of various versions were built and used on all "
+"fronts until the end of World War II."
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_KI-43-IC"
 msgstr ""
-"二戰結束後，中國空軍接收了部分遺留下的一式戰鬥機，並在"
-"其後的戰爭中進行了使用。"
+"二戰結束後，中國空軍接收了部分遺留下的一式戰鬥機，並在其後的戰爭中進行了使"
+"用。"
+
+#, fuzzy
+#| msgid "MARKET_AIRPLANE_DESCRIPTION_KI-43-IC"
+msgid "MARKET_AIRPLANE_DESCRIPTION_KI-43-II"
+msgstr ""
+"Military use of the first Ki-43 models revealed that the fighter lacked "
+"firepower, survivability, and top speed. To correct these faults, the "
+"Nakajima Aircraft Company developed a new modification that remained in "
+"production until the end of World War II."
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_KI-5"
 msgstr ""
-"該國在德國專家的指導下所設計的飛機，共製造了 4 架原型機"
-"並於 1934 年進行了試飛。"
+"該國在德國專家的指導下所設計的飛機，共製造了 4 架原型機並於 1934 年進行了試"
+"飛。"
+
+#, fuzzy
+#| msgid "MARKET_AIRPLANE_DESCRIPTION_KI-18"
+msgid "MARKET_AIRPLANE_DESCRIPTION_KI-61"
+msgstr ""
+"First flew in December 1941. Different modifications of the Ki-61 were "
+"extensively used during the Pacific War from the early 1943 and through the "
+"final days of World War II. Over 3,000 aircraft were built."
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_KI-8"
 msgstr ""
-"在 1933 年–1935 年間為該國陸軍飛行隊所設計的戰鬥機，製"
-"造了 5 架原型機但沒有能投入部隊服役"
+"在 1933 年–1935 年間為該國陸軍飛行隊所設計的戰鬥機，製造了 5 架原型機但沒有能"
+"投入部隊服役"
+
+#, fuzzy
+#| msgid "MARKET_AIRPLANE_DESCRIPTION_KI-8"
+msgid "MARKET_AIRPLANE_DESCRIPTION_KI-84"
+msgstr ""
+"Developed for the Japanese Air Force as a promising fighter based on the "
+"results of military use of the Ki-43 and Ki-61. The Ki-84 was considered the "
+"best mass-produced Japanese fighter during World War II. Over 3,500 aircraft "
+"were built."
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_KI-88"
+msgstr "為陸軍航空隊所研製的重火力截擊機，但在原型階段就停止了開發。"
+
+#, fuzzy
+#| msgid "MARKET_AIRPLANE_DESCRIPTION_KI-43-IC"
+msgid "MARKET_AIRPLANE_DESCRIPTION_KI-94-I"
 msgstr ""
-"為陸軍航空隊所研製的重火力截擊機，但在原型階段就停止了"
-"開發。"
+"Project for a high-speed fighter with heavy armament. A wooden mock-up was "
+"built by October 1943. However, the concept of the Ki-94-I was judged by the "
+"Japanese Army Air Force as too unconventional. The Tachikawa company was "
+"tasked to build an aircraft with a more conventional design. As a result, "
+"the Ki-94-II was created."
+
+#, fuzzy
+#| msgid "MARKET_AIRPLANE_DESCRIPTION_KI-43-IC"
+msgid "MARKET_AIRPLANE_DESCRIPTION_KI-94-II"
+msgstr ""
+"Project for a high-speed well-armed fighter developed by the Tachikawa "
+"Aircraft Company in 1943–1945. By the end of World War II only prototypes "
+"were built that never took to the air."
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_LA-11"
 msgstr ""
-"在拉-9 基礎上開發的改進型號，主要使用於解放戰爭和抗美援"
-"朝戰爭，共生產了 1182 架該型戰機。"
+"在拉-9 基礎上開發的改進型號，主要使用於解放戰爭和抗美援朝戰爭，共生產了 1182 "
+"架該型戰機。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_LA-7"
 msgstr ""
-"拉-5 的進一步發展型，優化了空氣動力學設計。二戰中蘇聯最"
-"好的戰鬥機之一，從 1944 年到 1945 年共生產了 5753 架。"
+"拉-5 的進一步發展型，優化了空氣動力學設計。二戰中蘇聯最好的戰鬥機之一，從 "
+"1944 年到 1945 年共生產了 5753 架。"
+
+#, fuzzy
+#| msgid "MARKET_AIRPLANE_DESCRIPTION_LA9"
+msgid "MARKET_AIRPLANE_DESCRIPTION_LA-9RD"
+msgstr ""
+"Developed on the basis of the mass-produced La-9 to explore the capabilities "
+"of ramjet engines. Several prototypes were produced and tested."
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_LA15"
-msgstr ""
-"戰後蘇聯第一代噴氣式戰鬥機，僅進行了小規模的量產。"
+msgstr "戰後蘇聯第一代噴氣式戰鬥機，僅進行了小規模的量產。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_LA150"
 msgstr ""
-"拉沃奇金設計局在戰爭結束前設計的一種噴氣式戰鬥機，雖然"
-"原型機進行了公開的飛行表演，但最終未能進入量產。"
+"拉沃奇金設計局在戰爭結束前設計的一種噴氣式戰鬥機，雖然原型機進行了公開的飛行"
+"表演，但最終未能進入量產。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_LA160"
 msgstr ""
-"該國第一種採用後掠翼佈局的噴氣式戰鬥機，1947 年夏天原型"
-"機進行了公開的飛行測試，但最終沒能進入量產。"
+"該國第一種採用後掠翼佈局的噴氣式戰鬥機，1947 年夏天原型機進行了公開的飛行測"
+"試，但最終沒能進入量產。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_LA5FN"
-msgstr ""
-"在拉格-3 的基礎上進行氣動外形修改並換裝空冷發動機的發展"
-"型號。"
+msgstr "在拉格-3 的基礎上進行氣動外形修改並換裝空冷發動機的發展型號。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_LA9"
 msgstr ""
-"在拉-7 基礎上研製的全金屬戰鬥機，擁有更強的武器和更大的"
-"作戰半徑，曾參加過抗美援朝。"
+"在拉-7 基礎上研製的全金屬戰鬥機，擁有更強的武器和更大的作戰半徑，曾參加過抗美"
+"援朝。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_LAGG"
-msgstr ""
-"全木結構的戰鬥機，廣泛使用於各個戰場，直到戰爭結束。"
+msgstr "全木結構的戰鬥機，廣泛使用於各個戰場，直到戰爭結束。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_LAGG-3-34"
 msgstr ""
-"在拉格-3 的基礎上進行改裝，廣泛用於摧毀各種空中和地面目"
-"標，以及地面裝甲目標。"
+"在拉格-3 的基礎上進行改裝，廣泛用於摧毀各種空中和地面目標，以及地面裝甲目標。"
+
+#, fuzzy
+#| msgid "MARKET_AIRPLANE_DESCRIPTION_LAGG-3-34"
+msgid "MARKET_AIRPLANE_DESCRIPTION_LAGG-3-4"
+msgstr ""
+"The LaGG-3 series 4 was fitted with a modified engine and carried more "
+"powerful armament compared to the early LaGG-3s. Extensively used in the "
+"initial period of World War II."
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_LBSH"
 msgstr "高速雙座攻擊機，最終只完成兩架原型機。"
@@ -686,887 +831,841 @@ msgid "MARKET_AIRPLANE_DESCRIPTION_LBSH_PR"
 msgstr "高速雙座攻擊機，最終只完成兩架原型機。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_LONG_A5M"
-msgstr ""
-"該國海軍所裝備的第一種單翼艦載戰鬥機，在戰爭中被廣泛使"
-"用。"
+msgstr "該國海軍所裝備的第一種單翼艦載戰鬥機，在戰爭中被廣泛使用。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_LONG_AR-67"
 msgstr ""
-"Ar.67 作為 Ar.65 的替代戰機進行研製，在 1933 年秋天進行"
-"了首飛測試，但效能表現上不及 Ar.68 所以最終未能進入軍隊"
-"服役"
+"Ar.67 作為 Ar.65 的替代戰機進行研製，在 1933 年秋天進行了首飛測試，但效能表現"
+"上不及 Ar.68 所以最終未能進入軍隊服役"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_LONG_ATTACKER"
 msgstr ""
-"英國第一種艦載噴氣式戰鬥機，1946 年 7 月首飛。一共生產"
-"了 185 架。一直服役到 1960 年代末。"
+"英國第一種艦載噴氣式戰鬥機，1946 年 7 月首飛。一共生產了 185 架。一直服役到 "
+"1960 年代末。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_LONG_BEAUFIGHTER-F"
 msgstr ""
-"1939 年 7 月首飛，被用於遠端護航和夜間截擊。一共生產了 "
-"5928 架。其中一些服役到了 1960 年代。"
+"1939 年 7 月首飛，被用於遠端護航和夜間截擊。一共生產了 5928 架。其中一些服役"
+"到了 1960 年代。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_LONG_BF-109F"
 msgstr ""
-"Bf109F 在 1940 年開始研製，重新修改了空氣動力設計和更換"
-"了強大的發動機，比 Bf109E 更快輕。一共生產了 2000 多"
-"架。"
+"Bf109F 在 1940 年開始研製，重新修改了空氣動力設計和更換了強大的發動機，比 "
+"Bf109E 更快輕。一共生產了 2000 多架。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_LONG_BF-110C-6"
 msgstr ""
-"Bf-110 安裝 30 毫米 MK-101 反坦克炮的改進型號 "
-"Bf-110C6，1940 年 5 月到 7 月間一共生產了 12 架。"
+"Bf-110 安裝 30 毫米 MK-101 反坦克炮的改進型號 Bf-110C6，1940 年 5 月到 7 月間"
+"一共生產了 12 架。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_LONG_BF109TL"
 msgstr ""
-"戰爭中期，在 Bf.109 的基礎上研製的噴氣式戰鬥機方案，被"
-"作為 Me.262 的備份，但在 Me.262 進入德國空軍服役後，該"
-"方案被廢止。"
+"戰爭中期，在 Bf.109 的基礎上研製的噴氣式戰鬥機方案，被作為 Me.262 的備份，但"
+"在 Me.262 進入德國空軍服役後，該方案被廢止。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_LONG_BF110E"
 msgstr "戰爭期間非常流行的重型戰鬥機，在戰鬥中表現突出。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_LONG_BLENHEIM-F"
-msgstr ""
-"利用布倫海姆轟炸機改裝的護航 / 夜間戰鬥機，一共改裝了 "
-"60 架。"
+msgstr "利用布倫海姆轟炸機改裝的護航 / 夜間戰鬥機，一共改裝了 60 架。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_LONG_BOOMERANG"
 msgstr ""
-"澳大利亞自主設計和製造的第一款作戰飛機，在聯邦航空器公"
-"司的勇士戰機的基礎上開發而成，1942 年至 1945 年間共生產"
-"了數個改進版本的 250 架迴力鏢戰鬥機。"
+"澳大利亞自主設計和製造的第一款作戰飛機，在聯邦航空器公司的勇士戰機的基礎上開"
+"發而成，1942 年至 1945 年間共生產了數個改進版本的 250 架迴力鏢戰鬥機。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_LONG_BRISTOL-TYPE-105"
 msgstr ""
-"1929-1937年服役於英國皇家空軍，一共生產了443架。其中一"
-"些被出口到了其他國家，曾參加過西班牙內戰和蘇芬戰爭。"
+"1929-1937年服役於英國皇家空軍，一共生產了443架。其中一些被出口到了其他國家，"
+"曾參加過西班牙內戰和蘇芬戰爭。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_LONG_BRISTOL-TYPE-133"
 msgstr ""
-"英國皇家空軍的第一架可收放起落架的戰鬥機，1934年夏天進"
-"行了測試，但唯一的一架原型機在事故中墜毀。"
+"英國皇家空軍的第一架可收放起落架的戰鬥機，1934年夏天進行了測試，但唯一的一架"
+"原型機在事故中墜毀。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_LONG_BRISTOL-TYPE-146"
 msgstr ""
-"在1938年2月完成首飛，計劃用來裝備英國皇家空軍的新型戰"
-"機，但因為效能不及颶風和噴火，在完成了一架原型機後，被"
-"放棄。"
+"在1938年2月完成首飛，計劃用來裝備英國皇家空軍的新型戰機，但因為效能不及颶風和"
+"噴火，在完成了一架原型機後，被放棄。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_LONG_BSH-2"
 msgstr ""
-"單座重型對地攻擊機，伊爾-2的原型機之一，於1940年10月12"
-"日首飛。在經過若干改進後，便成為了IL-2攻擊機。"
+"單座重型對地攻擊機，伊爾-2的原型機之一，於1940年10月12日首飛。在經過若干改進"
+"後，便成為了IL-2攻擊機。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_LONG_D-H-103"
 msgstr ""
-"在久經考驗的哈維蘭德蚊式基礎上所研製的戰機，首飛於1944"
-"年7月，連同所有改型一共生產了383架。"
+"在久經考驗的哈維蘭德蚊式基礎上所研製的戰機，首飛於1944年7月，連同所有改型一共"
+"生產了383架。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_LONG_D-H-98"
 msgstr ""
-"二戰英國最著名的多用途戰鬥機，可以執行遠端護航、夜間截"
-"擊和戰鬥轟炸任務。其所有改型，一共生產了7781架。"
+"二戰英國最著名的多用途戰鬥機，可以執行遠端護航、夜間截擊和戰鬥轟炸任務。其所"
+"有改型，一共生產了7781架。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_LONG_DEMON"
 msgstr ""
-"霍克·哈特輕型轟炸機的戰鬥機版本，1933 年首飛，一共生產"
-"了 305 架，但從沒有參戰。"
+"霍克·哈特輕型轟炸機的戰鬥機版本，1933 年首飛，一共生產了 305 架，但從沒有參"
+"戰。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_LONG_DO-17Z"
 msgstr ""
-"在 Do.17Z 轟炸機的基礎上開發的重型夜間戰鬥機版本，與轟"
-"炸機版本的主要區別在於其增強了前射火力並減少了炸彈裝載"
-"量"
+"在 Do.17Z 轟炸機的基礎上開發的重型夜間戰鬥機版本，與轟炸機版本的主要區別在於"
+"其增強了前射火力並減少了炸彈裝載量"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_LONG_F-15C"
 msgstr ""
-"同時配備活塞式和噴氣式兩種發動機的混合動力戰鬥機，製造"
-"了 3 架原型機，由於美軍選擇裝備純噴氣動力戰機而的沒能進"
-"入部隊服役。"
+"同時配備活塞式和噴氣式兩種發動機的混合動力戰鬥機，製造了 3 架原型機，由於美軍"
+"選擇裝備純噴氣動力戰機而的沒能進入部隊服役。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_LONG_F2A"
 msgstr ""
-"曾服役於英國空軍及其他多國的空軍，一直使用到戰爭中期，"
-"後來逐漸被更現代化的飛機替代。"
+"曾服役於英國空軍及其他多國的空軍，一直使用到戰爭中期，後來逐漸被更現代化的飛"
+"機替代。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_LONG_F4U-4"
 msgstr ""
-"F4U 戰鬥機，1944 年夏天首飛，在太平洋戰場和發生在東北亞"
-"的戰爭中大量使用，一共生產了 2557 架。"
+"F4U 戰鬥機，1944 年夏天首飛，在太平洋戰場和發生在東北亞的戰爭中大量使用，一共"
+"生產了 2557 架。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_LONG_F94"
 msgstr ""
-"F-94 戰鬥機的改進版本，有兩架原型機在 F-94B 的基礎上改"
-"裝而成，作為測試平臺對多種武器配置進行了測試，該型戰機"
-"沒有進行量產"
+"F-94 戰鬥機的改進版本，有兩架原型機在 F-94B 的基礎上改裝而成，作為測試平臺對"
+"多種武器配置進行了測試，該型戰機沒有進行量產"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_LONG_FI-98"
 msgstr ""
-"以為地面部隊提供近距離支援為目的而設計的一款戰機，1935 "
-"年時原型機進行了飛行測試，只生產了 1 架原型機而未投入量"
-"產"
+"以為地面部隊提供近距離支援為目的而設計的一款戰機，1935 年時原型機進行了飛行測"
+"試，只生產了 1 架原型機而未投入量產"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_LONG_FW-189C"
 msgstr ""
-"在著名的 Fw.189 偵察機的基礎上開發的裝甲攻擊機，在 "
-"1939 年至 1940 年間生產了數架原型機並進行了測試。"
+"在著名的 Fw.189 偵察機的基礎上開發的裝甲攻擊機，在 1939 年至 1940 年間生產了"
+"數架原型機並進行了測試。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_LONG_GLOSTER-JAVELIN"
-msgstr ""
-"標槍全天候截擊機，1951 年首飛。連同其所有改進型號一共生"
-"產了 436 架。"
+msgstr "標槍全天候截擊機，1951 年首飛。連同其所有改進型號一共生產了 436 架。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_LONG_GLOSTER-P-228"
 msgstr ""
-"格羅斯特公司利用早期噴氣式飛機設計經驗，而計劃研製的雙"
-"座夜間截擊機，該項目在設計階段被取消。"
+"格羅斯特公司利用早期噴氣式飛機設計經驗，而計劃研製的雙座夜間截擊機，該項目在"
+"設計階段被取消。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_LONG_GOLDFINCH"
-msgstr ""
-"1926 年研製的一種全金屬硬殼戰鬥機，1927 年首飛，但最後"
-"沒能服役。"
+msgstr "1926 年研製的一種全金屬硬殼戰鬥機，1927 年首飛，但最後沒能服役。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_LONG_HS-129"
 msgstr ""
-"專為摧毀坦克和防禦工事而設計的裝甲攻擊機，1939 年 5 月"
-"首飛，共生產或改裝了 865 架該型戰機。"
+"專為摧毀坦克和防禦工事而設計的裝甲攻擊機，1939 年 5 月首飛，共生產或改裝了 "
+"865 架該型戰機。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_LONG_HURRICANE-IID"
 msgstr ""
-"1941 年時在霍克颶風戰鬥機的基礎上發展而來的反坦克飛機。"
-"該戰機於 1942 年夏季在北非戰場第一次投入戰鬥。"
+"1941 年時在霍克颶風戰鬥機的基礎上發展而來的反坦克飛機。該戰機於 1942 年夏季在"
+"北非戰場第一次投入戰鬥。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_LONG_I-21"
 msgstr ""
-"一款裝備 M-34 發動機並配備蒸發冷卻系統的高速戰鬥機，由"
-"於諸多的技術問題，在飛行測試階段終止了研發"
+"一款裝備 M-34 發動機並配備蒸發冷卻系統的高速戰鬥機，由於諸多的技術問題，在飛"
+"行測試階段終止了研發"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_LONG_I-5SHKAS"
 msgstr ""
-"為了增強伊-5 戰鬥機的火力，設計師是用了射速更高的 "
-"ShKAS 代替原先的 PV-1 型機槍。"
+"為了增強伊-5 戰鬥機的火力，設計師是用了射速更高的 ShKAS 代替原先的 PV-1 型機"
+"槍。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_LONG_I-7"
 msgstr ""
-"伊-7 戰機是根據德國亨克爾公司所研製的 HD-37 飛機而授權"
-"製造的蘇聯量產版本。在 1929 年至 1934 年之間共生產了 "
-"131 架該型戰機。"
+"伊-7 戰機是根據德國亨克爾公司所研製的 HD-37 飛機而授權製造的蘇聯量產版本。在 "
+"1929 年至 1934 年之間共生產了 131 架該型戰機。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_LONG_I16-5"
 msgstr ""
-"戰前研製的高速戰鬥機，首次投入使用是在 1936 年的西班"
-"牙，之後也參與了哈拉哈河戰役和二戰。"
+"戰前研製的高速戰鬥機，首次投入使用是在 1936 年的西班牙，之後也參與了哈拉哈河"
+"戰役和二戰。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_LONG_IL-10M"
 msgstr ""
-"在伊爾-10 的基礎上提升火力並改善操控效能後，以伊爾-10M "
-"的名稱投入量產，其中部分該型號戰機曾在中國空軍中服役。"
+"在伊爾-10 的基礎上提升火力並改善操控效能後，以伊爾-10M 的名稱投入量產，其中部"
+"分該型號戰機曾在中國空軍中服役。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_LONG_IL-2MOD"
-msgstr ""
-"在前線進行測試的時候，曾多次嘗試對伊爾-2 進行修改，為其"
-"增加尾炮射手。"
+msgstr "在前線進行測試的時候，曾多次嘗試對伊爾-2 進行修改，為其增加尾炮射手。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_LONG_IL-40P"
 msgstr ""
-"在修復伊爾-40 的一些嚴重故障的基礎上發展而來的攻擊機，"
-"共生產了 7 架，由於解散了空軍專門的對地攻擊部隊而未能正"
-"式服役。"
+"在修復伊爾-40 的一些嚴重故障的基礎上發展而來的攻擊機，共生產了 7 架，由於解散"
+"了空軍專門的對地攻擊部隊而未能正式服役。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_LONG_J7W1"
-msgstr ""
-"為應對盟軍轟炸而研製的戰鬥機，最終完成兩架原型機，戰爭"
-"結束時，被繳獲。"
+msgstr "為應對盟軍轟炸而研製的戰鬥機，最終完成兩架原型機，戰爭結束時，被繳獲。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_LONG_J8M"
 msgstr ""
-"根據德國提供的技術資料和設計圖所研製的火箭動力截擊機，"
-"於 1945 年 7 月首飛，截止 1945 年 9 月戰爭結束，共製造"
-"了 7 架原型機。"
+"根據德國提供的技術資料和設計圖所研製的火箭動力截擊機，於 1945 年 7 月首飛，截"
+"止 1945 年 9 月戰爭結束，共製造了 7 架原型機。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_LONG_JU-87G"
 msgstr ""
-"在 Ju 87 斯圖卡的俯衝轟炸機版本基礎上改良而成攻擊機型"
-"號，在原有基礎上對武器和防護裝甲進行了強化，是一款被廣"
-"泛使用的反坦克攻擊機。"
+"在 Ju 87 斯圖卡的俯衝轟炸機版本基礎上改良而成攻擊機型號，在原有基礎上對武器和"
+"防護裝甲進行了強化，是一款被廣泛使用的反坦克攻擊機。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_LONG_KI-18"
 msgstr ""
-"應陸軍要求在九六艦戰的基礎上改裝而成的陸基戰鬥機版本，"
-"在 1935 年至 1936 年間進行了測試，但由於在測試中敗給了"
-"雙翼的九五式戰鬥機所以未能進入部隊服務。"
+"應陸軍要求在九六艦戰的基礎上改裝而成的陸基戰鬥機版本，在 1935 年至 1936 年間"
+"進行了測試，但由於在測試中敗給了雙翼的九五式戰鬥機所以未能進入部隊服務。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_LONG_KI-33"
-msgstr ""
-"1936 年開始研製的一種新型戰鬥機，僅完成兩架原型機。"
+msgstr "1936 年開始研製的一種新型戰鬥機，僅完成兩架原型機。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_LONG_KI-5"
 msgstr ""
-"該國在德國專家的指導下所設計的飛機，共製造了 4 架原型機"
-"並於 1934 年進行了試飛。但未能進入部隊服役。"
+"該國在德國專家的指導下所設計的飛機，共製造了 4 架原型機並於 1934 年進行了試"
+"飛。但未能進入部隊服役。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_LONG_LA-11"
 msgstr ""
-"在拉-9 基礎上開發的一款遠端戰鬥機，參與瞭解放戰爭和抗美"
-"援朝戰爭，共製造了 1182 架該型戰機。"
+"在拉-9 基礎上開發的一款遠端戰鬥機，參與瞭解放戰爭和抗美援朝戰爭，共製造了 "
+"1182 架該型戰機。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_LONG_LA-7"
 msgstr ""
-"拉-5 的進一步發展型，優化了空氣動力學設計。二戰中最好的"
-"戰鬥機之一，從 1944 年到 1945 年共生產了 5753 架。"
+"拉-5 的進一步發展型，優化了空氣動力學設計。二戰中最好的戰鬥機之一，從 1944 年"
+"到 1945 年共生產了 5753 架。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_LONG_LAGG-3-34"
 msgstr ""
-"在拉格-3 戰機的基礎上裝備大口徑機炮的改裝版本，廣泛用於"
-"摧毀各種空中和地面目標，以及地面裝甲目標。"
+"在拉格-3 戰機的基礎上裝備大口徑機炮的改裝版本，廣泛用於摧毀各種空中和地面目"
+"標，以及地面裝甲目標。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_LONG_ME-262-HG2"
 msgstr ""
-"Me.262A 戰鬥機的改進型，原型機於 1945 年 1 月完成首飛，"
-"但直到戰爭結束仍未能完成修改工作。樣機被盟軍繳獲，並進"
-"行了一些測試。"
+"Me.262A 戰鬥機的改進型，原型機於 1945 年 1 月完成首飛，但直到戰爭結束仍未能完"
+"成修改工作。樣機被盟軍繳獲，並進行了一些測試。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_LONG_ME-265"
 msgstr ""
-"一款採用無尾設計的多用途攻擊機，於 1942 年開始研製，但"
-"由於設計上更為傳統的 Me.410 的開發更為迅速而停止研製。"
+"一款採用無尾設計的多用途攻擊機，於 1942 年開始研製，但由於設計上更為傳統的 "
+"Me.410 的開發更為迅速而停止研製。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_LONG_ME-329"
 msgstr ""
-"與 Me.265 同時進行設計的一款多用途攻擊機，由於採用常規"
-"設計的 Me.410 被批准量產，該設計方案最終遭到了否決。"
+"與 Me.265 同時進行設計的一款多用途攻擊機，由於採用常規設計的 Me.410 被批准量"
+"產，該設計方案最終遭到了否決。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_LONG_ME-P1092"
 msgstr ""
-"於 1943 年基於 Me262 的相關技術而開始研製的戰機。有數個"
-"版本但都只停留在設計圖階段。"
+"於 1943 年基於 Me262 的相關技術而開始研製的戰機。有數個版本但都只停留在設計圖"
+"階段。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_LONG_ME-P1099B"
 msgstr ""
-"在 Me.262 基礎上嘗試使用多種不同武器的多用途戰機設計方"
-"案，但由於戰爭的結束而停止研製。"
+"在 Me.262 基礎上嘗試使用多種不同武器的多用途戰機設計方案，但由於戰爭的結束而"
+"停止研製。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_LONG_ME-P1101"
 msgstr ""
-"1944 年 8 月開始研製，在 1945 年初戰機完成 80% 時被繳"
-"獲，並被改稱為貝爾 X-5 原型機。"
+"1944 年 8 月開始研製，在 1945 年初戰機完成 80% 時被繳獲，並被改稱為貝爾 X-5 "
+"原型機。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_LONG_MIG-15BIS"
 msgstr ""
-"在米格-15 的基礎上換裝新型發動機的改進型號，北約代號為 "
-"“柴捆”，在 1950 年至 1953 年的抗美援朝戰爭期間被應用於"
-"實戰並且表現出色，共生產了 8354 架該型戰機並曾在 40 多"
-"個國家的空軍服役。"
+"在米格-15 的基礎上換裝新型發動機的改進型號，北約代號為 “柴捆”，在 1950 年至 "
+"1953 年的抗美援朝戰爭期間被應用於實戰並且表現出色，共生產了 8354 架該型戰機並"
+"曾在 40 多個國家的空軍服役。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_LONG_MIG-9"
 msgstr ""
-"蘇聯第一款量產型噴氣式戰鬥機，在 1946 年至 1948 年間共"
-"生產了 602 架該型戰鬥機，在 1950 年至 1951 年間，大量米"
-"格-9 戰機被提供給中國空軍。"
+"蘇聯第一款量產型噴氣式戰鬥機，在 1946 年至 1948 年間共生產了 602 架該型戰鬥"
+"機，在 1950 年至 1951 年間，大量米格-9 戰機被提供給中國空軍。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_LONG_MOSQUITO-MK26"
 msgstr ""
-"蚊式 FB.VI 型戰鬥轟炸機的加拿大版本，有大量的蚊式 FB "
-"Mk.26 戰機在戰爭結束後交付給了中國。"
+"蚊式 FB.VI 型戰鬥轟炸機的加拿大版本，有大量的蚊式 FB Mk.26 戰機在戰爭結束後交"
+"付給了中國。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_LONG_NC1070"
 msgstr ""
-"NC 1070 是由法國空軍委託設計的一款多工攻擊機，製造完成"
-"的唯一一架原型機於 1947 年至 1948 年間進行了測試。"
+"NC 1070 是由法國空軍委託設計的一款多工攻擊機，製造完成的唯一一架原型機於 "
+"1947 年至 1948 年間進行了測試。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_LONG_P-40-M-105"
 msgstr ""
-"由於缺乏艾裡遜發動機，而將自己研製的 M-105 發動機安裝"
-"在 P40 戰鬥機上，該戰機主要用於列寧格勒的防衛作戰上。"
+"由於缺乏艾裡遜發動機，而將自己研製的 M-105 發動機安裝在 P40 戰鬥機上，該戰機"
+"主要用於列寧格勒的防衛作戰上。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_LONG_P-51H"
 msgstr ""
-"“野馬” 系列戰鬥機中速度最快的型號，而且該型戰機也是速度"
-"最快的活塞式戰鬥機之一。在 1945 年夏季開始服役但沒能趕"
-"上戰鬥。共生產了 555 架該型戰機。"
+"“野馬” 系列戰鬥機中速度最快的型號，而且該型戰機也是速度最快的活塞式戰鬥機之"
+"一。在 1945 年夏季開始服役但沒能趕上戰鬥。共生產了 555 架該型戰機。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_LONG_P-82B"
 msgstr ""
-"在 P-51 野馬戰鬥機的基礎上所設計的雙機身戰機，其設計目"
-"的旨在減少飛行員在執行遠端任務時的疲勞問題，通過改裝總"
-"共製造了約 20 架該型戰機。"
+"在 P-51 野馬戰鬥機的基礎上所設計的雙機身戰機，其設計目的旨在減少飛行員在執行"
+"遠端任務時的疲勞問題，通過改裝總共製造了約 20 架該型戰機。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_LONG_P36"
 msgstr ""
-"寇蒂斯公司生產的霍克 75 是 1930 年代最成功的戰鬥機之"
-"一，曾在英、美、法、荷、挪威和中國空軍中服役。"
+"寇蒂斯公司生產的霍克 75 是 1930 年代最成功的戰鬥機之一，曾在英、美、法、荷、"
+"挪威和中國空軍中服役。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_LONG_SEAFANG"
 msgstr ""
-"超級馬林公司在怨恨式戰鬥機的基礎上所研製的改進型戰機，"
-"由於 1940 年代後期噴氣式飛機技術的逐漸成熟而沒有能夠進"
-"入部隊服役，少量該型戰機在 1945 年至 1949 年間進行了測"
-"試。"
+"超級馬林公司在怨恨式戰鬥機的基礎上所研製的改進型戰機，由於 1940 年代後期噴氣"
+"式飛機技術的逐漸成熟而沒有能夠進入部隊服役，少量該型戰機在 1945 年至 1949 年"
+"間進行了測試。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_LONG_SPITFIRE-I"
-msgstr ""
-"最著名的英國戰鬥機之一，1938 年 3 月首飛，在不列顛空戰"
-"中大獲成功。"
+msgstr "最著名的英國戰鬥機之一，1938 年 3 月首飛，在不列顛空戰中大獲成功。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_LONG_SPITFIRE-IX"
 msgstr ""
-"作為一個過渡型號，噴火 IX 型被證明是最成功的戰鬥機型號"
-"之一，一共生產了 5656 架。"
+"作為一個過渡型號，噴火 IX 型被證明是最成功的戰鬥機型號之一，一共生產了 5656 "
+"架。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_LONG_SPITFIRE-V"
 msgstr ""
-"1941 年開始研製的噴火 V 型戰鬥機，用於取代噴火 I 和噴"
-"火 II，廣泛的用於歐洲和北非戰場，並曾出口到澳大利亞和蘇"
-"聯。"
+"1941 年開始研製的噴火 V 型戰鬥機，用於取代噴火 I 和噴火 II，廣泛的用於歐洲和"
+"北非戰場，並曾出口到澳大利亞和蘇聯。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_LONG_SPITFIRE-XIV"
 msgstr ""
-"1944 年冬投入現役，成功的用於攔截二戰後期德國的 V-1 火"
-"箭。一共完成了 957 架。"
+"1944 年冬投入現役，成功的用於攔截二戰後期德國的 V-1 火箭。一共完成了 957 架。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_LONG_SWIFT"
 msgstr ""
-"1948 年 12 月完成首飛，1954 年進入部隊服役。一共生產 "
-"197 架，但未曾參加過戰鬥。"
+"1948 年 12 月完成首飛，1954 年進入部隊服役。一共生產 197 架，但未曾參加過戰"
+"鬥。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_LONG_TSKB-12"
 msgstr ""
-"搭載懷特 “旋風” 發動機和三葉片螺旋槳的伊-16 戰鬥機的原"
-"型機，在該機進行過測試後決定改為使用 M-22 發動機。"
+"搭載懷特 “旋風” 發動機和三葉片螺旋槳的伊-16 戰鬥機的原型機，在該機進行過測試"
+"後決定改為使用 M-22 發動機。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_LONG_VENOM"
 msgstr ""
-"在 1935 年至 1936 年間，按照英國空軍要求所設計的一款單"
-"座戰鬥機，由於發動機的問題未能投入量產，只製造了一架原"
-"型機。"
+"在 1935 年至 1936 年間，按照英國空軍要求所設計的一款單座戰鬥機，由於發動機的"
+"問題未能投入量產，只製造了一架原型機。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_LONG_WESTLAND-P-1056"
 msgstr ""
-"可以掛載重型武器的噴氣式戰鬥轟炸機項目，韋斯特蘭公司於"
-"1945 年提出的方案，但在設計初期，項目被終止。"
+"可以掛載重型武器的噴氣式戰鬥轟炸機項目，韋斯特蘭公司於1945 年提出的方案，但在"
+"設計初期，項目被終止。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_LONG_WIRRAWAY"
 msgstr ""
-"以支援地面部隊為主要目的所設計的一款多用途戰鬥機，在太"
-"平洋戰爭期間為澳大利亞空軍所使用，1939 年至 1946 年間共"
-"生產了 755 架該型戰機。"
+"以支援地面部隊為主要目的所設計的一款多用途戰鬥機，在太平洋戰爭期間為澳大利亞"
+"空軍所使用，1939 年至 1946 年間共生產了 755 架該型戰機。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_LONG_XF4F-3"
-msgstr ""
-"1939 年完成試驗，針對問題改進之後的進入美國海軍服役的 "
-"F4F 野貓戰鬥機。"
+msgstr "1939 年完成試驗，針對問題改進之後的進入美國海軍服役的 F4F 野貓戰鬥機。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_LONG_XP-50"
 msgstr ""
-"格魯曼 XF5F 空中火箭艦載戰鬥機的變體型號，是為美國陸軍"
-"航空隊所設計的一款雙引擎截擊機，只製造了 1 架原型機並"
-"於 1941 年 2 月進行了首飛，該戰機從未正式進入部隊服役。"
+"格魯曼 XF5F 空中火箭艦載戰鬥機的變體型號，是為美國陸軍航空隊所設計的一款雙引"
+"擎截擊機，只製造了 1 架原型機並於 1941 年 2 月進行了首飛，該戰機從未正式進入"
+"部隊服役。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_LONG_XP-58"
 msgstr ""
-"以 P-38 閃電雙引擎戰鬥機為基礎設計的改進型戰機，由於一"
-"些技術問題和美國陸航所要求的變化，該戰機的研發被推遲，"
-"最終原型機於 1944 年進行了測試。"
+"以 P-38 閃電雙引擎戰鬥機為基礎設計的改進型戰機，由於一些技術問題和美國陸航所"
+"要求的變化，該戰機的研發被推遲，最終原型機於 1944 年進行了測試。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_LONG_YAK-15"
 msgstr ""
-"首款進入蘇聯空軍服役的噴氣式戰機，在雅克-3 的基礎上於"
-"1946 年開始研製，主要作為過渡訓練使用。共生產了 280 "
-"架。"
+"首款進入蘇聯空軍服役的噴氣式戰機，在雅克-3 的基礎上於1946 年開始研製，主要作"
+"為過渡訓練使用。共生產了 280 架。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_LONG_YAK-19"
 msgstr ""
-"1946 年開始研製的一款噴氣式戰鬥機，只製造了 2 架原型"
-"機，但所掌握的主要技術要點被用於研製雅克-25 和雅克-30。"
+"1946 年開始研製的一款噴氣式戰鬥機，只製造了 2 架原型機，但所掌握的主要技術要"
+"點被用於研製雅克-25 和雅克-30。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_LONG_YAK-3"
 msgstr ""
-"在 1943 年以雅克-1 為基礎改進而成的戰鬥機。其主要改進設"
-"計使戰機獲得了非常好的飛行效能，是 1944-1945 年期間蘇聯"
-"最好的戰鬥機之一。共生產了 4848 架。"
+"在 1943 年以雅克-1 為基礎改進而成的戰鬥機。其主要改進設計使戰機獲得了非常好的"
+"飛行效能，是 1944-1945 年期間蘇聯最好的戰鬥機之一。共生產了 4848 架。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_LONG_YAK-30"
 msgstr ""
-"在雅克-25 的基礎上於 1948 年研製，是雅克列夫的第一款後"
-"掠翼佈局噴氣式戰機，由於與大規模生產的米格-15 和拉-15 "
-"相比缺乏優勢而從未正式服役。只生產了 2 架原型機。"
+"在雅克-25 的基礎上於 1948 年研製，是雅克列夫的第一款後掠翼佈局噴氣式戰機，由"
+"於與大規模生產的米格-15 和拉-15 相比缺乏優勢而從未正式服役。只生產了 2 架原型"
+"機。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_LONG_YAK-9"
 msgstr ""
-"1942 年時在雅克-7 的基礎上開始研製，是蘇聯產量最高的戰"
-"機，在 1944 年其產量高於其它所有蘇聯戰機。總計有 16769 "
-"架被生產出來。"
+"1942 年時在雅克-7 的基礎上開始研製，是蘇聯產量最高的戰機，在 1944 年其產量高"
+"於其它所有蘇聯戰機。總計有 16769 架被生產出來。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_LONG_YP-29"
 msgstr ""
-"波音公司在非常成功的 P-26“玩具槍” 戰鬥機的基礎上所做的"
-"升級改進嘗試，共有製造了 4 架 P-29 原型機。"
+"波音公司在非常成功的 P-26“玩具槍” 戰鬥機的基礎上所做的升級改進嘗試，共有製造"
+"了 4 架 P-29 原型機。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_M-20"
 msgstr ""
-"一種為便於生產而進行簡化後的戰鬥機方案，在 1940 到 "
-"1941 年進行了試驗，但未能投入部隊服役。"
+"一種為便於生產而進行簡化後的戰鬥機方案，在 1940 到 1941 年進行了試驗，但未能"
+"投入部隊服役。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_M81A-1"
-msgstr ""
-"P-40 的早期型號，被稱為寇蒂斯 81A1，一共生產了 199 架。"
+msgstr "P-40 的早期型號，被稱為寇蒂斯 81A1，一共生產了 199 架。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_ME-210"
 msgstr ""
-"用於取代 Bf110 的重型戰鬥機，僅有少量進入德國空軍服役。"
-"另外匈牙利也獲得生產許可。"
+"用於取代 Bf110 的重型戰鬥機，僅有少量進入德國空軍服役。另外匈牙利也獲得生產許"
+"可。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_ME-262-HG2"
 msgstr ""
-"Me262A 戰鬥機的改進型，原型機於 1945 年 1 月完成首飛，"
-"但直到戰爭結束仍未能完成修改工作。"
+"Me262A 戰鬥機的改進型，原型機於 1945 年 1 月完成首飛，但直到戰爭結束仍未能完"
+"成修改工作。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_ME-265"
-msgstr ""
-"採用無尾設計的多用途攻擊機，1942 年開始研製，但最終沒有"
-"完成開發。"
+msgstr "採用無尾設計的多用途攻擊機，1942 年開始研製，但最終沒有完成開發。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_ME-329"
-msgstr ""
-"與 Me.265 同時進行設計的一款多用途攻擊機，沒有進行過量"
-"產。"
+msgstr "與 Me.265 同時進行設計的一款多用途攻擊機，沒有進行過量產。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_ME-P1092"
-msgstr ""
-"於 1943 年基於 Me262 的相關技術而開始研製的戰機。有數個"
-"設計方案。"
+msgstr "於 1943 年基於 Me262 的相關技術而開始研製的戰機。有數個設計方案。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_ME-P1099B"
 msgstr ""
-"在 Me.262 基礎上嘗試使用多種不同武器的多用途戰機設計方"
-"案，由於戰爭的結束而停止研製。"
+"在 Me.262 基礎上嘗試使用多種不同武器的多用途戰機設計方案，由於戰爭的結束而停"
+"止研製。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_ME-P1101"
-msgstr ""
-"1944 年 8 月開始研製，在 1945 年初戰機完成 80% 時被繳"
-"獲。"
+msgstr "1944 年 8 月開始研製，在 1945 年初戰機完成 80% 時被繳獲。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_ME-P1102B"
-msgstr ""
-"初步設計的重型多用途噴氣式戰機，只停留於草圖階段。"
+msgstr "初步設計的重型多用途噴氣式戰機，只停留於草圖階段。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_ME1099"
 msgstr ""
-"戰爭後期在 Me.262A 基礎上推出的試驗型重型戰鬥轟炸機，最"
-"終僅停留在藍圖階段，沒有生產原型機。"
+"戰爭後期在 Me.262A 基礎上推出的試驗型重型戰鬥轟炸機，最終僅停留在藍圖階段，沒"
+"有生產原型機。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_ME1102"
-msgstr ""
-"梅塞施密特公司在 1944 至 1945 年設計的一款重型戰鬥機方"
-"案。"
+msgstr "梅塞施密特公司在 1944 至 1945 年設計的一款重型戰鬥機方案。"
 
 #, fuzzy
 msgid "MARKET_AIRPLANE_DESCRIPTION_ME262"
 msgstr ""
-"The world's first jet-powered fighter to enter mass "
-"production. The start of development was delayed bythe "
-"interference of German top leadership who demandeda "
-"bomber variant to be developed first."
+"The world's first jet-powered fighter to enter mass production. The start of "
+"development was delayed by the interference of German top leadership who "
+"demanded a bomber variant to be developed first."
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_ME262HG3"
 msgstr "在 Me.262 基礎上進一步發展的高空高速型戰鬥機。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_ME410"
-msgstr ""
-"在 “驅逐機” 概念影響下發展的重型戰鬥轟炸機，戰爭中主要"
-"用於西線戰場。"
+msgstr "在 “驅逐機” 概念影響下發展的重型戰鬥轟炸機，戰爭中主要用於西線戰場。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_ME609"
 msgstr ""
-"在 Me.309 基礎上發展的雙機身重型戰鬥機方案，停留在藍圖"
-"階段，沒有生產原型機。"
+"在 Me.309 基礎上發展的雙機身重型戰鬥機方案，停留在藍圖階段，沒有生產原型機。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_METEOR"
 msgstr ""
-"盟軍第一款進行量產的噴氣式戰鬥機，共製造了 20 架該型戰"
-"機，多數被用於訓練使用。"
+"盟軍第一款進行量產的噴氣式戰鬥機，共製造了 20 架該型戰機，多數被用於訓練使"
+"用。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_MIG-15BIS"
 msgstr ""
-"在米格-15 的基礎上換裝新型發動機的改進型號，北約代號為 "
-"“柴捆”，抗美援朝戰爭期間被應用於實戰，共生產了 8354 架"
-"該型戰機。"
+"在米格-15 的基礎上換裝新型發動機的改進型號，北約代號為 “柴捆”，抗美援朝戰爭期"
+"間被應用於實戰，共生產了 8354 架該型戰機。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_MIG-3"
 msgstr ""
-"在 1940 年時所研製的一款高空高速截擊戰鬥機，有超過 "
-"3000 架的該型戰機被製造出來並在 1941 年至 1942 年間廣泛"
-"使用。"
+"在 1940 年時所研製的一款高空高速截擊戰鬥機，有超過 3000 架的該型戰機被製造出"
+"來並在 1941 年至 1942 年間廣泛使用。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_MIG-9"
 msgstr ""
-"蘇聯第一款量產型噴氣式戰鬥機，在 1946 年至 1948 年間共"
-"生產了 602 架該型戰鬥機。"
+"蘇聯第一款量產型噴氣式戰鬥機，在 1946 年至 1948 年間共生產了 602 架該型戰鬥"
+"機。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_MOSQUITO-MK26"
 msgstr ""
-"蚊式 FB.VI 型戰鬥轟炸機的加拿大版本，有大量的蚊式 FB "
-"Mk.26 戰機在戰爭結束後交付給了中國。"
+"蚊式 FB.VI 型戰鬥轟炸機的加拿大版本，有大量的蚊式 FB Mk.26 戰機在戰爭結束後交"
+"付給了中國。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_MUSTANG-I"
 msgstr ""
-"北美航空應英國皇家空軍要求所研發的一款戰鬥機，其後續的"
-"一些修改衍生出了 P-51 野馬戰鬥機和 A-36 阿帕奇攻擊機。"
+"北美航空應英國皇家空軍要求所研發的一款戰鬥機，其後續的一些修改衍生出了 P-51 "
+"野馬戰鬥機和 A-36 阿帕奇攻擊機。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_MUSTANG-IA"
 msgstr ""
-"這是由北美航空公司提供的英國野馬修改的，該機的特色是更"
-"換了前面的修改機槍，變成了強大的自動炮。一共有 93 架這"
-"種修改項被提供給皇家空軍。"
+"這是由北美航空公司提供的英國野馬修改的，該機的特色是更換了前面的修改機槍，變"
+"成了強大的自動炮。一共有 93 架這種修改項被提供給皇家空軍。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_NC1070"
 msgstr ""
-"以多工攻擊機為目的所設計的一款戰機，其原型機在 1947 至 "
-"1948 年間進行了測試。"
+"以多工攻擊機為目的所設計的一款戰機，其原型機在 1947 至 1948 年間進行了測試。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_P-23"
-msgstr ""
-"在 P-6E 的基礎上研製的一種全金屬戰鬥機，僅生產了幾架原"
-"型機。"
+msgstr "在 P-6E 的基礎上研製的一種全金屬戰鬥機，僅生產了幾架原型機。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_P-26"
 msgstr ""
-"由美國陸軍航空隊要求研發，用來代替播音 P-12 戰鬥機。共"
-"生產 151 架。在中日戰爭和太平洋戰爭初期使用。"
+"由美國陸軍航空隊要求研發，用來代替播音 P-12 戰鬥機。共生產 151 架。在中日戰爭"
+"和太平洋戰爭初期使用。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_P-35"
 msgstr ""
-"首飛於 1935 年 8 月。一共生產 200 架，包括實驗機和出產"
-"版本。在太平洋戰爭初期使用。"
+"首飛於 1935 年 8 月。一共生產 200 架，包括實驗機和出產版本。在太平洋戰爭初期"
+"使用。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_P-36C"
 msgstr "P-36 鷹早期的一個型號，一共生產了 30 架。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_P-38F"
 msgstr ""
-"首先對武器配置進行修改的 P-38 閃電戰鬥機，在歐洲、北非"
-"和太平洋戰場上廣泛使用，共生產 527 架該型戰機。"
+"首先對武器配置進行修改的 P-38 閃電戰鬥機，在歐洲、北非和太平洋戰場上廣泛使"
+"用，共生產 527 架該型戰機。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_P-38J"
+msgstr "在原有基礎上對操控性和速度效能上加以改進的 P-38，總共生產了 2970 架。"
+
+#, fuzzy
+#| msgid "MARKET_AIRPLANE_DESCRIPTION_P-39Q"
+msgid "MARKET_AIRPLANE_DESCRIPTION_P-39N-1"
 msgstr ""
-"在原有基礎上對操控性和速度效能上加以改進的 P-38，總共生"
-"產了 2970 架。"
+"The Bell Aircraft Corporation always searched for the ways of improving "
+"aircraft characteristics based on feedback from the pilots who flew various "
+"modifications of the P-39 Airacobra. The P-39N series was an attempt to "
+"lighten the airframe by reducing fuel capacity or partially demounting armor."
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_P-39Q"
 msgstr ""
-"根據租借法案，大量的 P-39 空中眼鏡蛇戰鬥機被提供給蘇"
-"聯，P-39Q-15 型是一個重量較輕的版本，沒有在機翼位置裝設"
-"武器。"
+"根據租借法案，大量的 P-39 空中眼鏡蛇戰鬥機被提供給蘇聯，P-39Q-15 型是一個重量"
+"較輕的版本，沒有在機翼位置裝設武器。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_P-40-M-105"
-msgstr ""
-"由於缺乏艾裡遜發動機，而將自己研製的 M-105 發動機安裝在"
-"P40 戰鬥機上。"
+msgstr "由於缺乏艾裡遜發動機，而將自己研製的 M-105 發動機安裝在P40 戰鬥機上。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_P-43"
-msgstr ""
-"首飛於 1940 年 3 月。這架飛機在中國參加戰鬥。總共有 "
-"272 架飛機被生產。"
+msgstr "首飛於 1940 年 3 月。這架飛機在中國參加戰鬥。總共有 272 架飛機被生產。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_P-44"
 msgstr ""
-"在 P-43 槍騎兵的基礎上加上馬力更大的普拉特 & 惠特尼 "
-"R-2180 引擎。但由於共和國決定把重點放在更有前途的 P-47 "
-"戰鬥機上，所以決定停產。"
+"在 P-43 槍騎兵的基礎上加上馬力更大的普拉特 & 惠特尼 R-2180 引擎。但由於共和國"
+"決定把重點放在更有前途的 P-47 戰鬥機上，所以決定停產。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_P-47B"
 msgstr ""
-"由於美國陸戰航空隊生產的 P-43 槍騎兵和 P-44 火箭，所以"
-"被停止研發和生產。首飛與 1941 年 5 月，共生產 171 架 "
-"P-47B，用於進行飛行測試和飛行員培訓。"
+"由於美國陸戰航空隊生產的 P-43 槍騎兵和 P-44 火箭，所以被停止研發和生產。首飛"
+"與 1941 年 5 月，共生產 171 架 P-47B，用於進行飛行測試和飛行員培訓。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_P-47N"
 msgstr ""
-"由共和國航空公司與 1944 年研製，用於和 P-47 和 P51 野馬"
-"的競爭，引入美國陸軍航空隊服務。共生產 1816 架 P-47N。"
+"由共和國航空公司與 1944 年研製，用於和 P-47 和 P51 野馬的競爭，引入美國陸軍航"
+"空隊服務。共生產 1816 架 P-47N。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_P-51H"
 msgstr ""
-"“野馬” 系列戰鬥機中速度最快的型號，而且該型戰機也是速度"
-"最快的活塞式戰鬥機之一。共生產了 555 架該型戰機。"
+"“野馬” 系列戰鬥機中速度最快的型號，而且該型戰機也是速度最快的活塞式戰鬥機之"
+"一。共生產了 555 架該型戰機。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_P-51K"
 msgstr ""
-"該型戰機是由達拉斯製造廠所生產的 P-51D 戰鬥機，二戰後被"
-"出口至多個國家，國民政府也曾裝備這款戰機，總共生產了 "
-"1500 架該型戰機。"
+"該型戰機是由達拉斯製造廠所生產的 P-51D 戰鬥機，二戰後被出口至多個國家，國民政"
+"府也曾裝備這款戰機，總共生產了 1500 架該型戰機。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_P-72"
 msgstr ""
-"在 P-47 戰鬥機的基礎上進一步研製，採用全新的普拉特 & 惠"
-"特尼引擎。生產了兩個原型機，在 1944-1945 測試。沒有服役"
-"記錄。"
+"在 P-47 戰鬥機的基礎上進一步研製，採用全新的普拉特 & 惠特尼引擎。生產了兩個原"
+"型機，在 1944-1945 測試。沒有服役記錄。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_P-77"
 msgstr ""
-"貝爾公司研製的一種低成本的戰鬥機，減少了輕合金用量，但"
-"最終沒能進入部隊。"
+"貝爾公司研製的一種低成本的戰鬥機，減少了輕合金用量，但最終沒能進入部隊。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_P-80A"
 msgstr ""
-"由美國陸軍空軍使用的第一個並大規模生產的噴氣式戰鬥機。"
-"在 P-80A 在二戰期間裝備給幾個中隊，由於戰爭的結束，他們"
-"並沒有參加戰鬥。後來名稱改為 F-80A。共生產了 344 架。"
+"由美國陸軍空軍使用的第一個並大規模生產的噴氣式戰鬥機。在 P-80A 在二戰期間裝備"
+"給幾個中隊，由於戰爭的結束，他們並沒有參加戰鬥。後來名稱改為 F-80A。共生產了 "
+"344 架。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_P-82B"
 msgstr ""
-"旨在減少飛行員在執行遠端任務時的疲勞問題而在 P-51 野馬"
-"戰鬥機的基礎上所設計的雙機身戰機。"
+"旨在減少飛行員在執行遠端任務時的疲勞問題而在 P-51 野馬戰鬥機的基礎上所設計的"
+"雙機身戰機。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_P12"
-msgstr ""
-"在兩次戰爭之間，美國陸軍航空隊和美國海軍使用的一種雙翼"
-"戰鬥機。"
+msgstr "在兩次戰爭之間，美國陸軍航空隊和美國海軍使用的一種雙翼戰鬥機。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_P36"
-msgstr ""
-"戰前最成功的戰鬥機之一，曾在美國、英國、法國、荷蘭、挪"
-"威和中國服役。"
+msgstr "戰前最成功的戰鬥機之一，曾在美國、英國、法國、荷蘭、挪威和中國服役。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_P39Q21"
 msgstr ""
-"美國陸軍航空隊所裝備的一種發動機中置的戰鬥機，曾廣泛用"
-"於南太平洋、地中海地區，並通過租借法案提供給英國和蘇聯"
-"使用。"
+"美國陸軍航空隊所裝備的一種發動機中置的戰鬥機，曾廣泛用於南太平洋、地中海地"
+"區，並通過租借法案提供給英國和蘇聯使用。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_P40"
 msgstr ""
-"在 P36 基礎上研製，戰爭中被廣泛用於太平洋和中國戰場，並"
-"且在蘇德戰場上也有使用。"
+"在 P36 基礎上研製，戰爭中被廣泛用於太平洋和中國戰場，並且在蘇德戰場上也有使"
+"用。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_P51"
-msgstr ""
-"戰爭中最著名的戰鬥機之一，廣泛用於戰爭後期階段的歐洲與"
-"亞洲戰場。"
+msgstr "戰爭中最著名的戰鬥機之一，廣泛用於戰爭後期階段的歐洲與亞洲戰場。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_P51A"
-msgstr ""
-"P51 野馬的早期型，主要被英軍用於北非和緬甸的作戰。"
+msgstr "P51 野馬的早期型，主要被英軍用於北非和緬甸的作戰。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_P51JP"
 msgstr ""
-"在 P51 野馬的基礎上設計的，噴氣式/螺旋槳複合動力戰鬥"
-"機，最終由於噴氣式飛機的進步，該項目被放棄。"
+"在 P51 野馬的基礎上設計的，噴氣式/螺旋槳複合動力戰鬥機，最終由於噴氣式飛機的"
+"進步，該項目被放棄。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_PEGAS"
+msgstr "一種設計簡單，低成本，適宜大量生產的攻擊機，但最終只完成了幾架原型機。"
+
+#, fuzzy
+#| msgid "MARKET_AIRPLANE_DESCRIPTION_AR-197"
+msgid "MARKET_AIRPLANE_DESCRIPTION_RB-17"
 msgstr ""
-"一種設計簡單，低成本，適宜大量生產的攻擊機，但最終只完"
-"成了幾架原型機。"
+"Project for a high-speed reconnaissance bomber. Developed in 1945–1946 with "
+"the use of the German Jumo 004 engine. Development was discontinued in early "
+"1946 as the Myasishchev design bureau was closed."
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_SAUCER"
 msgstr "斯雷普尼爾服役於神話部隊"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_SE100"
 msgstr ""
-"一種用於重型戰鬥機攜帶強大的進攻性和防禦性軍械項目。首"
-"飛於 1939 年 3 月。因法國在 1940 年被佔領而停產，"
+"一種用於重型戰鬥機攜帶強大的進攻性和防禦性軍械項目。首飛於 1939 年 3 月。因法"
+"國在 1940 年被佔領而停產，"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_SEAFANG"
 msgstr ""
-"超級馬林公司在怨恨式戰鬥機的基礎上所研製的戰機，在 "
-"1945 至 1949 年間進行了測試，但沒有進入軍隊服役。"
+"超級馬林公司在怨恨式戰鬥機的基礎上所研製的戰機，在 1945 至 1949 年間進行了測"
+"試，但沒有進入軍隊服役。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_SKUA"
 msgstr ""
-"英國皇家空軍的多用途戰鬥機，1937 年 2 月原型機首飛，一"
-"共生產了 192 架。"
+"英國皇家空軍的多用途戰鬥機，1937 年 2 月原型機首飛，一共生產了 192 架。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_SLEIPNIR"
 msgstr "2015 新年禮物——打雪仗時的專用飛行器！"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_SPAD510"
-msgstr ""
-"首飛於 1933 年 1 月。一直到 1940 年，從未參加戰鬥。總共"
-"生產 60 架。"
+msgstr "首飛於 1933 年 1 月。一直到 1940 年，從未參加戰鬥。總共生產 60 架。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_SPITFIRE-I"
 msgstr "1938 年 3 月首次試飛，不列顛空戰中被廣泛使用。"
+
+#, fuzzy
+#| msgid "MARKET_AIRPLANE_DESCRIPTION_SPITFIRE-I"
+msgid "MARKET_AIRPLANE_DESCRIPTION_SPITFIRE-IA"
+msgstr ""
+"The most advanced fighter of the Royal Air Force at the start of World War "
+"II. Widely used in the Dunkirk operation and the Battle of Britain."
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_SPITFIRE-IX"
 msgstr "最著名的戰鬥機型號之一，共生產了 5656 架"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_SPITFIRE-V"
-msgstr ""
-"1941 年開始研製，用於取代噴火 I 和噴火 II。曾在北非廣泛"
-"的使用。"
+msgstr "1941 年開始研製，用於取代噴火 I 和噴火 II。曾在北非廣泛的使用。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_SPITFIRE-V-DB-605"
 msgstr ""
-"對繳獲的噴火式戰鬥機進行測試實驗，其中一架戰機換裝了 "
-"DB605 發動機，但該機最終毀於空襲。"
+"對繳獲的噴火式戰鬥機進行測試實驗，其中一架戰機換裝了 DB605 發動機，但該機最終"
+"毀於空襲。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_SPITFIRE-XIV"
 msgstr "1944 年冬投入現役，共生產了 957 架。"
 
+#, fuzzy
+#| msgid "MARKET_AIRPLANE_DESCRIPTION_HS-129"
+msgid "MARKET_AIRPLANE_DESCRIPTION_SU-9"
+msgstr ""
+"Designed in 1946 under the influence of the German experience. The only "
+"prototype of the Su-9 was produced and tested in 1946–1947. The aircraft "
+"never entered service, since the project was abandoned in favor of the "
+"MiG-15."
+
 msgid "MARKET_AIRPLANE_DESCRIPTION_SUPERMARINE-T-224"
 msgstr ""
-"224 型戰鬥機於 1934 年 2 月首飛，其設計中的許多經驗為以"
-"後著名的噴火式戰鬥機的設計提供了幫助。"
+"224 型戰鬥機於 1934 年 2 月首飛，其設計中的許多經驗為以後著名的噴火式戰鬥機的"
+"設計提供了幫助。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_SWIFT"
-msgstr ""
-"1948 年 12 月完成首飛，一共生產 197 架，但未曾參加過戰"
-"鬥。"
+msgstr "1948 年 12 月完成首飛，一共生產 197 架，但未曾參加過戰鬥。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_TA-152"
 msgstr ""
-"以 Fw.190 為基礎研製的戰鬥機，於 1944 年底進入德國空軍"
-"服役，但只有少量 Ta.152 參加了戰鬥。"
+"以 Fw.190 為基礎研製的戰鬥機，於 1944 年底進入德國空軍服役，但只有少量 "
+"Ta.152 參加了戰鬥。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_TA-183"
 msgstr ""
-"Ta.183 被認為是為德國空軍所設計的最優秀的戰鬥機，但最終"
-"直到戰爭結束都沒有製造出原型機。"
+"Ta.183 被認為是為德國空軍所設計的最優秀的戰鬥機，但最終直到戰爭結束都沒有製造"
+"出原型機。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_TANDEM"
 msgstr ""
-"蘇聯研製的一種非常獨特的試驗型攻擊機，1939 年秋天進行了"
-"試飛，但最終沒有正式裝備部隊。"
+"蘇聯研製的一種非常獨特的試驗型攻擊機，1939 年秋天進行了試飛，但最終沒有正式裝"
+"備部隊。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_TOMAHAWK-IIB"
 msgstr ""
-"寇蒂斯 P-40 戰鬥機的一款改進型號，抗戰期間作為飛虎隊的"
-"主力戰機參與作戰。"
+"寇蒂斯 P-40 戰鬥機的一款改進型號，抗戰期間作為飛虎隊的主力戰機參與作戰。"
+
+#, fuzzy
+#| msgid "MARKET_AIRPLANE_DESCRIPTION_TANDEM"
+msgid "MARKET_AIRPLANE_DESCRIPTION_TORNADO"
+msgstr ""
+"Created by the Hawker company based on the experience gained from the "
+"development of the Hurricane. A total of 6 prototypes were built and tested "
+"in 1939–1941. However, due to engine problems, the project was abandoned in "
+"favor of the Hawker Typhoon."
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_TSH1"
-msgstr ""
-"蘇聯研製的一種用於支援裝甲部隊作戰的重型攻擊機，最終沒"
-"有進入量產。"
+msgstr "蘇聯研製的一種用於支援裝甲部隊作戰的重型攻擊機，最終沒有進入量產。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_TSH3"
 msgstr "1930 年代開始研製的重型攻擊機。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_TSKB-12"
 msgstr ""
-"搭載懷特 “旋風” 發動機和三葉片螺旋槳的伊-16 戰鬥機的原"
-"型機，對該機進行測試後決定量產型伊-16 戰鬥機搭載 M-22 "
-"引擎。"
+"搭載懷特 “旋風” 發動機和三葉片螺旋槳的伊-16 戰鬥機的原型機，對該機進行測試後"
+"決定量產型伊-16 戰鬥機搭載 M-22 引擎。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_TYPE-91"
 msgstr "中島公司在法國設計師協助下設計生產的戰鬥機。"
 
+#, fuzzy
+#| msgid "MARKET_AIRPLANE_DESCRIPTION_AR-197"
+msgid "MARKET_AIRPLANE_DESCRIPTION_VAMPIRE-F1"
+msgstr ""
+"The first mass-produced modification of the DH.100 Vampire featuring the "
+"Goblin I engine. Entered service in April 1945. A total of 40 aircraft of "
+"the early F.1 series were built, but they did not see combat due to the end "
+"of World War II."
+
 msgid "MARKET_AIRPLANE_DESCRIPTION_VB10"
 msgstr ""
-"在被法國佔領前開始發展。原型首飛是在 1945 年的夏天。總"
-"共有 200 架飛機被訂購。然而，由於噴氣式飛機的發展和減少"
-"對該項目的興趣，只有 2 個原型和一系列的 4 架飛機被建"
-"造。"
+"在被法國佔領前開始發展。原型首飛是在 1945 年的夏天。總共有 200 架飛機被訂購。"
+"然而，由於噴氣式飛機的發展和減少對該項目的興趣，只有 2 個原型和一系列的 4 架"
+"飛機被建造。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_VENOM"
-msgstr ""
-"在 1935 年至 1936 年間，按照英國空軍要求所設計的一款單"
-"座戰鬥機。"
+msgstr "在 1935 年至 1936 年間，按照英國空軍要求所設計的一款單座戰鬥機。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_WESTLAND-P-1056"
-msgstr ""
-"韋斯蘭德公司於 1945 年開始的一個戰鬥轟炸機項目，在設計"
-"階段被終止。"
+msgstr "韋斯蘭德公司於 1945 年開始的一個戰鬥轟炸機項目，在設計階段被終止。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_WIRRAWAY"
 msgstr ""
-"太平洋戰爭期間澳大利亞空軍所使用的一款多用途戰鬥機，"
-"1939 年至 1946 年間共生產了 755 架該型戰機。"
+"太平洋戰爭期間澳大利亞空軍所使用的一款多用途戰鬥機，1939 年至 1946 年間共生產"
+"了 755 架該型戰機。"
+
+#, fuzzy
+#| msgid "MARKET_AIRPLANE_DESCRIPTION_XP-50"
+msgid "MARKET_AIRPLANE_DESCRIPTION_XF-85"
+msgstr ""
+"Developed as a parasite fighter designed to be carried by a heavy bomber and "
+"defend the latter against enemy attacks. It underwent trials in 1948–1949, "
+"but never entered service. Two prototypes were handed over to museums."
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_XF4F-3"
 msgstr ""
-"F4F 野貓戰鬥機，1939 年完成測試後，針對問題進行了一些改"
-"進，然後進入海軍服役。"
+"F4F 野貓戰鬥機，1939 年完成測試後，針對問題進行了一些改進，然後進入海軍服役。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_XF4U-1"
 msgstr ""
-"F4U 海盜的原型機，在 1940 年 5 月 29 日的首飛過程中，展"
-"示了良好的飛行效能。"
+"F4U 海盜的原型機，在 1940 年 5 月 29 日的首飛過程中，展示了良好的飛行效能。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_XP-31"
 msgstr ""
-"1932 至 1933 年期間為美國陸軍所開發的戰機，只製造了 1 "
-"架原型機，也沒有能夠裝備部隊。"
+"1932 至 1933 年期間為美國陸軍所開發的戰機，只製造了 1 架原型機，也沒有能夠裝"
+"備部隊。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_XP-50"
 msgstr ""
-"為美國陸軍航空隊所研製的雙發截擊戰鬥機，只製造了 1 架原"
-"型機，沒有裝備部隊。"
+"為美國陸軍航空隊所研製的雙發截擊戰鬥機，只製造了 1 架原型機，沒有裝備部隊。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_XP-58"
 msgstr ""
-"在 P-38 閃電雙引擎戰鬥機的基礎上所研製的戰機，原型機於 "
-"1944 年進行了測試。"
+"在 P-38 閃電雙引擎戰鬥機的基礎上所研製的戰機，原型機於 1944 年進行了測試。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_XP-75"
 msgstr ""
-"一款以護航為主要任務而設計的重型戰鬥機，在 1943 年至 "
-"1944 年間進行了測試，總共只生產了 13 架該型戰機。"
+"一款以護航為主要任務而設計的重型戰鬥機，在 1943 年至 1944 年間進行了測試，總"
+"共只生產了 13 架該型戰機。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_YAK-1"
 msgstr ""
-"在伊-26 的基礎上於 1940 年開發的高速戰鬥機。是二戰初期"
-"蘇聯最好的戰鬥機之一，共有 8734 被生產或改裝。"
+"在伊-26 的基礎上於 1940 年開發的高速戰鬥機。是二戰初期蘇聯最好的戰鬥機之一，"
+"共有 8734 被生產或改裝。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_YAK-15"
 msgstr ""
-"首款進入蘇聯空軍服役的噴氣式戰機，在雅克-3 的基礎上於"
-"1946 年開始研製，共生產了 280 架。"
+"首款進入蘇聯空軍服役的噴氣式戰機，在雅克-3 的基礎上於1946 年開始研製，共生產"
+"了 280 架。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_YAK-19"
-msgstr ""
-"1946 年開始研製的一款噴氣式戰鬥機，只製造了 2 架原型"
-"機。"
+msgstr "1946 年開始研製的一款噴氣式戰鬥機，只製造了 2 架原型機。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_YAK-1M"
 msgstr ""
-"在 1943 年以雅克-1 為基礎改進而成的戰鬥機，在其基礎上發"
-"展出了雅克-3 戰鬥機。"
+"在 1943 年以雅克-1 為基礎改進而成的戰鬥機，在其基礎上發展出了雅克-3 戰鬥機。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_YAK-3"
 msgstr ""
-"在 1943 年以雅克-1 為基礎改進而成的戰鬥機。其主要改進設"
-"計使戰機獲得了非常好的飛行效能，是 1944-1945 年期間蘇聯"
-"最好的戰鬥機之一。共生產了 4848 架。"
+"在 1943 年以雅克-1 為基礎改進而成的戰鬥機。其主要改進設計使戰機獲得了非常好的"
+"飛行效能，是 1944-1945 年期間蘇聯最好的戰鬥機之一。共生產了 4848 架。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_YAK-30"
 msgstr ""
-"在雅克-25 的基礎上於 1948 年研製，是雅克列夫的第一款後"
-"掠翼佈局噴氣式戰機，由於與大規模生產的 MiG-15 和 La-15 "
-"相比缺乏優勢而從未正式服役。只生產了 2 架原型機。"
+"在雅克-25 的基礎上於 1948 年研製，是雅克列夫的第一款後掠翼佈局噴氣式戰機，由"
+"於與大規模生產的 MiG-15 和 La-15 相比缺乏優勢而從未正式服役。只生產了 2 架原"
+"型機。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_YAK-3RD"
 msgstr ""
-"在大規模量產的雅克-3 戰鬥機的基礎上進行改裝，裝備液體燃"
-"料火箭輔助發動機和大口徑航炮，該戰機在 1944 年至 1945 "
-"年間進行了測試。"
+"在大規模量產的雅克-3 戰鬥機的基礎上進行改裝，裝備液體燃料火箭輔助發動機和大口"
+"徑航炮，該戰機在 1944 年至 1945 年間進行了測試。"
+
+#, fuzzy
+#| msgid "MARKET_AIRPLANE_DESCRIPTION_YAK-3"
+msgid "MARKET_AIRPLANE_DESCRIPTION_YAK-3T"
+msgstr ""
+"A version of the Yak-3 equipped with heavy armament and a slightly modified "
+"airframe, compared to the base model. Never entered mass production. Only "
+"one prototype was built and tested in 1945."
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_YAK-7"
 msgstr ""
-"1941 年時以雅克-7UTI 教練機為基礎改裝而來的戰鬥機，共生"
-"產或改裝了 6399 架。"
+"1941 年時以雅克-7UTI 教練機為基礎改裝而來的戰鬥機，共生產或改裝了 6399 架。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_YAK-9"
 msgstr ""
-"1942 年時在雅克-7 的基礎上開始研製，是蘇聯產量最高的戰"
-"機，在 1944 年其產量高於其它所有蘇聯戰機。總計有 16769 "
-"架被生產出來。"
+"1942 年時在雅克-7 的基礎上開始研製，是蘇聯產量最高的戰機，在 1944 年其產量高"
+"於其它所有蘇聯戰機。總計有 16769 架被生產出來。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_YAK-9U"
 msgstr ""
-"雅克-9 的進一步改進型，1943 年研製。1944-1945 年在蘇德"
-"戰場上威名遠揚，生產一直持續到 1948 年。"
+"雅克-9 的進一步改進型，1943 年研製。1944-1945 年在蘇德戰場上威名遠揚，生產一"
+"直持續到 1948 年。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_YP-29"
 msgstr ""
-"波音公司在非常成功的 P-26“玩具槍” 戰鬥機的基礎上所做的"
-"升級改進嘗試，共有製造了 4 架 P-29 原型機。"
+"波音公司在非常成功的 P-26“玩具槍” 戰鬥機的基礎上所做的升級改進嘗試，共有製造"
+"了 4 架 P-29 原型機。"
 
 msgid "PLANE_LONGNAME_2PA"
 msgstr "塞維爾斯基 2PA"
 
 msgid "PLANE_LONGNAME_2PA-L"
 msgstr "塞維爾斯基 2PA-L"
+
+msgid "PLANE_LONGNAME_A-26B"
+msgstr "道格拉斯 A-26B 侵略者"
 
 msgid "PLANE_LONGNAME_A4N"
 msgstr "中島 A4N 九五式艦上戦闘機"
@@ -1628,6 +1727,9 @@ msgstr "梅塞施密特 Bf 109 C 凱撒"
 msgid "PLANE_LONGNAME_BF-109E"
 msgstr "梅塞施密特 Bf 109 E 埃米爾"
 
+msgid "PLANE_LONGNAME_BF-109E-3"
+msgstr "梅塞施密特 Bf 109 E-3"
+
 msgid "PLANE_LONGNAME_BF-109F"
 msgstr "梅塞施密特 Bf 109 F 弗雷德里希"
 
@@ -1658,6 +1760,9 @@ msgstr "梅塞施密特 Me 209 V4"
 msgid "PLANE_LONGNAME_BLENHEIM-F"
 msgstr "布裡斯托爾 布倫海姆F"
 
+msgid "PLANE_LONGNAME_BLENHEIM-IV"
+msgstr "布裡斯托爾 布倫海姆 Mk.IV (早期型)"
+
 msgid "PLANE_LONGNAME_BOOMERANG"
 msgstr "聯邦航空器 CA-12 迴力鏢"
 
@@ -1676,6 +1781,15 @@ msgstr "柯切裡津 BSh-1"
 msgid "PLANE_LONGNAME_BSH-2"
 msgstr "伊留申 BSh-2"
 
+msgid "PLANE_LONGNAME_BV-P210"
+msgstr "布洛姆－福斯 P.210"
+
+msgid "PLANE_LONGNAME_BV-P212-03"
+msgstr "布洛姆－福斯 P.212.03"
+
+msgid "PLANE_LONGNAME_BV-P215-02"
+msgstr "布洛姆－福斯 P.215.02"
+
 msgid "PLANE_LONGNAME_CR714"
 msgstr "高德隆-雷諾 C.714"
 
@@ -1688,8 +1802,20 @@ msgstr "德哈維蘭98「蚊式」"
 msgid "PLANE_LONGNAME_DEMON"
 msgstr "霍克 惡魔"
 
+msgid "PLANE_LONGNAME_DI-6"
+msgstr "科奇耶裡金-亞岑科 DI-6i"
+
 msgid "PLANE_LONGNAME_DO-17Z"
 msgstr "多尼爾 Do 17Z-7 貓頭鷹"
+
+msgid "PLANE_LONGNAME_DO-17Z-2"
+msgstr "多尼爾 Do 17 Z"
+
+msgid "PLANE_LONGNAME_DO-217M"
+msgstr "多尼爾 Do 217 M"
+
+msgid "PLANE_LONGNAME_DO-335A1"
+msgstr "多尼爾 Do 335 A-1 箭式"
 
 msgid "PLANE_LONGNAME_F-15C"
 msgstr "寇蒂斯 XF15C"
@@ -1823,8 +1949,20 @@ msgstr "亨克爾 He 112"
 msgid "PLANE_LONGNAME_HE-51"
 msgstr "亨克爾 He 51"
 
+msgid "PLANE_LONGNAME_HS-123"
+msgstr "亨舍爾 Hs 123"
+
 msgid "PLANE_LONGNAME_HS-129"
 msgstr "亨舍爾 Hs 129 B"
+
+msgid "PLANE_LONGNAME_HS-129A"
+msgstr "亨舍爾 Hs 129 А"
+
+msgid "PLANE_LONGNAME_HURRICANE-I"
+msgstr "霍克 颶風 Mk I"
+
+msgid "PLANE_LONGNAME_HURRICANE-II"
+msgstr "霍克 颶風 Mk II"
 
 msgid "PLANE_LONGNAME_HURRICANE-IID"
 msgstr "霍克 颶風 IID"
@@ -1838,6 +1976,9 @@ msgstr "波利卡爾波夫 伊-15比斯 DM-2"
 msgid "PLANE_LONGNAME_I-16-24"
 msgstr "波利卡爾波夫 伊-16 改進型"
 
+msgid "PLANE_LONGNAME_I-16-29"
+msgstr "波利卡爾波夫 伊-16 29型"
+
 msgid "PLANE_LONGNAME_I-16-5"
 msgstr "波利卡爾波夫 伊-16 早期型"
 
@@ -1847,11 +1988,20 @@ msgstr "波利卡爾波夫 伊-17"
 msgid "PLANE_LONGNAME_I-180"
 msgstr "波利卡爾波夫 伊-180-3"
 
+msgid "PLANE_LONGNAME_I-207-4"
+msgstr "博羅夫科夫-弗洛羅夫 伊-207/4"
+
 msgid "PLANE_LONGNAME_I-21"
 msgstr "伊留申 伊-21 (TsKB-32)"
 
 msgid "PLANE_LONGNAME_I-210"
 msgstr "米高揚-格列維奇 伊-210"
+
+msgid "PLANE_LONGNAME_I-211"
+msgstr "阿列克謝耶夫 伊-211"
+
+msgid "PLANE_LONGNAME_I-215"
+msgstr "阿列克謝耶夫 伊-215"
 
 msgid "PLANE_LONGNAME_I-220"
 msgstr "米高揚-格列維奇 伊-220"
@@ -1873,6 +2023,9 @@ msgstr "波利卡爾波夫 伊-5 施卡斯"
 
 msgid "PLANE_LONGNAME_I-7"
 msgstr "TsKB 伊-7"
+
+msgid "PLANE_LONGNAME_IL-1"
+msgstr "伊留申 伊爾-1"
 
 msgid "PLANE_LONGNAME_IL-10"
 msgstr "伊留申 伊爾-10"
@@ -1922,29 +2075,65 @@ msgstr "瀋陽 教練-1A-37"
 msgid "PLANE_LONGNAME_JU-52"
 msgstr "容克 Ju 52"
 
+msgid "PLANE_LONGNAME_JU-86E"
+msgstr "容克 Ju 86 E"
+
 msgid "PLANE_LONGNAME_JU-87G"
 msgstr "容克 Ju 87 G 斯圖卡"
+
+msgid "PLANE_LONGNAME_JU-88A"
+msgstr "容克 Ju 88 A"
 
 msgid "PLANE_LONGNAME_JU-88P"
 msgstr "容克 Ju 88 P"
 
+msgid "PLANE_LONGNAME_KI-10"
+msgstr "川崎 キ10 九五式戦闘機"
+
+msgid "PLANE_LONGNAME_KI-162"
+msgstr "立川 キ162-I"
+
+msgid "PLANE_LONGNAME_KI-162-3"
+msgstr "立川 キ162-III"
+
 msgid "PLANE_LONGNAME_KI-18"
 msgstr "三菱 キ18"
+
+msgid "PLANE_LONGNAME_KI-27"
+msgstr "中島 キ27 九七式戦闘機"
 
 msgid "PLANE_LONGNAME_KI-33"
 msgstr "三菱 キ33"
 
+msgid "PLANE_LONGNAME_KI-43-I"
+msgstr "中島 キ43-I 一式戦闘機一型「隼」"
+
 msgid "PLANE_LONGNAME_KI-43-IC"
 msgstr "中島 キ43-I丙 一式戦闘機一型丙"
+
+msgid "PLANE_LONGNAME_KI-43-II"
+msgstr "中島 キ43-II 一式戦闘機二型「隼」"
 
 msgid "PLANE_LONGNAME_KI-5"
 msgstr "川崎 キ5"
 
+msgid "PLANE_LONGNAME_KI-61"
+msgstr "川崎 キ61 三式戦闘機「飛燕」"
+
 msgid "PLANE_LONGNAME_KI-8"
 msgstr "中島 キ8"
 
+msgid "PLANE_LONGNAME_KI-84"
+msgstr "中島 キ84 四式戦闘機「疾風」"
+
 msgid "PLANE_LONGNAME_KI-88"
 msgstr "川崎 キ88"
+
+msgid "PLANE_LONGNAME_KI-94-I"
+msgstr "立川 キ94I"
+
+msgid "PLANE_LONGNAME_KI-94-II"
+msgstr "立川 キ94II"
 
 msgid "PLANE_LONGNAME_LA-11"
 msgstr "拉沃奇金 拉-11"
@@ -1967,11 +2156,17 @@ msgstr "拉沃奇金 拉-7"
 msgid "PLANE_LONGNAME_LA-9"
 msgstr "拉沃奇金 拉-9"
 
+msgid "PLANE_LONGNAME_LA-9RD"
+msgstr "拉沃奇金 拉-9RD"
+
 msgid "PLANE_LONGNAME_LAGG-3"
 msgstr "拉沃奇金 拉格-3"
 
 msgid "PLANE_LONGNAME_LAGG-3-34"
 msgstr "拉沃奇金 拉格-3-34"
+
+msgid "PLANE_LONGNAME_LAGG-3-4"
+msgstr "拉沃奇金 拉格-3 4 系列"
 
 msgid "PLANE_LONGNAME_LBSH"
 msgstr "柯切裡津 Sh (LBSh)"
@@ -2075,6 +2270,9 @@ msgstr "洛克希德 P-38F 閃電"
 msgid "PLANE_LONGNAME_P-38J"
 msgstr "洛克希德 P-38J 閃電"
 
+msgid "PLANE_LONGNAME_P-39N-1"
+msgstr "貝爾 P-39N-1 空中眼鏡蛇"
+
 msgid "PLANE_LONGNAME_P-39Q"
 msgstr "貝爾 P-39Q-15 空中眼鏡蛇"
 
@@ -2126,6 +2324,9 @@ msgstr "北美 P-82B 雙身野馬"
 msgid "PLANE_LONGNAME_PEGAS"
 msgstr "托馬舍維奇 飛馬"
 
+msgid "PLANE_LONGNAME_RB-17"
+msgstr "米亞西舍夫 RB-17"
+
 msgid "PLANE_LONGNAME_SAUCER"
 msgstr "斯雷普尼爾 I"
 
@@ -2147,6 +2348,9 @@ msgstr "布萊里奧-斯帕德 S.510"
 msgid "PLANE_LONGNAME_SPITFIRE-I"
 msgstr "超級馬林 噴火 I"
 
+msgid "PLANE_LONGNAME_SPITFIRE-IA"
+msgstr "超級馬林 噴火 Mk Ia"
+
 msgid "PLANE_LONGNAME_SPITFIRE-IX"
 msgstr "超級馬林 噴火 IX"
 
@@ -2158,6 +2362,9 @@ msgstr "超級馬林 噴火 V DB605"
 
 msgid "PLANE_LONGNAME_SPITFIRE-XIV"
 msgstr "超級馬林 噴火 XIV"
+
+msgid "PLANE_LONGNAME_SU-9"
+msgstr "蘇霍伊 Su-9"
 
 msgid "PLANE_LONGNAME_SUPERMARINE-T-224"
 msgstr "超級馬林 224型"
@@ -2177,6 +2384,9 @@ msgstr "格魯申 Sh雙座型"
 msgid "PLANE_LONGNAME_TOMAHAWK-IIB"
 msgstr "寇蒂斯 P-40C 戰斧"
 
+msgid "PLANE_LONGNAME_TORNADO"
+msgstr "霍克 龍捲風"
+
 msgid "PLANE_LONGNAME_TSH-1"
 msgstr "柯切裡津 TSh-2"
 
@@ -2189,6 +2399,11 @@ msgstr "波利卡爾波夫 TsKB-12比斯"
 msgid "PLANE_LONGNAME_TYPE-91"
 msgstr "中島 九一式戦闘機"
 
+#, fuzzy
+#| msgid "PLANE_LONGNAME_AR-197"
+msgid "PLANE_LONGNAME_VAMPIRE-F1"
+msgstr "De Havilland DH.100 Vampire F.1"
+
 msgid "PLANE_LONGNAME_VB10"
 msgstr "Arsenal VB 10"
 
@@ -2200,6 +2415,9 @@ msgstr "韋斯特蘭 P.1056"
 
 msgid "PLANE_LONGNAME_WIRRAWAY"
 msgstr "聯邦航空器 CA-1 勇士"
+
+msgid "PLANE_LONGNAME_XF-85"
+msgstr "麥克唐納 XF-85 小鬼式"
 
 msgid "PLANE_LONGNAME_XF4F-3"
 msgstr "格魯曼 XF4F-3"
@@ -2240,6 +2458,11 @@ msgstr "雅克列夫 雅克-30"
 msgid "PLANE_LONGNAME_YAK-3RD"
 msgstr "雅克列夫 雅克-3RD"
 
+#, fuzzy
+#| msgid "PLANE_LONGNAME_YAK-3"
+msgid "PLANE_LONGNAME_YAK-3T"
+msgstr "Yakovlev Yak-3T"
+
 msgid "PLANE_LONGNAME_YAK-7"
 msgstr "雅克列夫 雅克-7"
 
@@ -2257,6 +2480,9 @@ msgstr "2PA"
 
 msgid "PLANE_MIDNAME_2PA-L"
 msgstr "2PA-L"
+
+msgid "PLANE_MIDNAME_A-26B"
+msgstr "A-26B 侵入者"
 
 msgid "PLANE_MIDNAME_A4N"
 msgstr "九五式艦上戦闘機"
@@ -2318,6 +2544,9 @@ msgstr "Bf 109 C 凱撒"
 msgid "PLANE_MIDNAME_BF-109E"
 msgstr "Bf 109 E 埃米爾"
 
+msgid "PLANE_MIDNAME_BF-109E-3"
+msgstr "Bf 109 E-3"
+
 msgid "PLANE_MIDNAME_BF-109F"
 msgstr "Bf 109 F 弗雷德里希"
 
@@ -2348,6 +2577,9 @@ msgstr "Me 209 V4"
 msgid "PLANE_MIDNAME_BLENHEIM-F"
 msgstr "布倫海姆F"
 
+msgid "PLANE_MIDNAME_BLENHEIM-IV"
+msgstr "布倫海姆 Mk.IV (早期型)"
+
 msgid "PLANE_MIDNAME_BOOMERANG"
 msgstr "CA-12 迴力鏢"
 
@@ -2366,6 +2598,15 @@ msgstr "BSh-1"
 msgid "PLANE_MIDNAME_BSH-2"
 msgstr "BSh-2"
 
+msgid "PLANE_MIDNAME_BV-P210"
+msgstr "BV P.210"
+
+msgid "PLANE_MIDNAME_BV-P212-03"
+msgstr "BV P.212.03"
+
+msgid "PLANE_MIDNAME_BV-P215-02"
+msgstr "BV P.215.02"
+
 msgid "PLANE_MIDNAME_CR714"
 msgstr "高隆德 C.714"
 
@@ -2378,8 +2619,20 @@ msgstr "DH.98 蚊式"
 msgid "PLANE_MIDNAME_DEMON"
 msgstr "惡魔"
 
+msgid "PLANE_MIDNAME_DI-6"
+msgstr "Di-6i"
+
 msgid "PLANE_MIDNAME_DO-17Z"
 msgstr "Do 17Z-7 貓頭鷹"
+
+msgid "PLANE_MIDNAME_DO-17Z-2"
+msgstr "Do 17 Z"
+
+msgid "PLANE_MIDNAME_DO-217M"
+msgstr "Do 217 M"
+
+msgid "PLANE_MIDNAME_DO-335A1"
+msgstr "道尼爾 Do 335 A-1"
 
 msgid "PLANE_MIDNAME_F-15C"
 msgstr "XF15C"
@@ -2513,8 +2766,20 @@ msgstr "He 112"
 msgid "PLANE_MIDNAME_HE-51"
 msgstr "He 51"
 
+msgid "PLANE_MIDNAME_HS-123"
+msgstr "Hs 123"
+
 msgid "PLANE_MIDNAME_HS-129"
 msgstr "Hs 129 B"
+
+msgid "PLANE_MIDNAME_HS-129A"
+msgstr "Hs 129 А"
+
+msgid "PLANE_MIDNAME_HURRICANE-I"
+msgstr "颶風 Mk I"
+
+msgid "PLANE_MIDNAME_HURRICANE-II"
+msgstr "颶風 Mk II"
 
 msgid "PLANE_MIDNAME_HURRICANE-IID"
 msgstr "颶風 IID"
@@ -2528,6 +2793,9 @@ msgstr "伊-15比斯 DM-2"
 msgid "PLANE_MIDNAME_I-16-24"
 msgstr "伊-16 改進型"
 
+msgid "PLANE_MIDNAME_I-16-29"
+msgstr "伊-16 29型"
+
 msgid "PLANE_MIDNAME_I-16-5"
 msgstr "伊-16 早期型"
 
@@ -2537,11 +2805,20 @@ msgstr "伊-17"
 msgid "PLANE_MIDNAME_I-180"
 msgstr "伊-180-3"
 
+msgid "PLANE_MIDNAME_I-207-4"
+msgstr "伊-207/4"
+
 msgid "PLANE_MIDNAME_I-21"
 msgstr "伊-21 (TsKB-32)"
 
 msgid "PLANE_MIDNAME_I-210"
 msgstr "伊-210"
+
+msgid "PLANE_MIDNAME_I-211"
+msgstr "伊-211"
+
+msgid "PLANE_MIDNAME_I-215"
+msgstr "伊-215"
 
 msgid "PLANE_MIDNAME_I-220"
 msgstr "伊-220"
@@ -2563,6 +2840,9 @@ msgstr "伊-5 施卡斯"
 
 msgid "PLANE_MIDNAME_I-7"
 msgstr "伊-7"
+
+msgid "PLANE_MIDNAME_IL-1"
+msgstr "伊爾-1"
 
 msgid "PLANE_MIDNAME_IL-10"
 msgstr "伊爾-10"
@@ -2612,29 +2892,65 @@ msgstr "教練-1A-37"
 msgid "PLANE_MIDNAME_JU-52"
 msgstr "Ju 52"
 
+msgid "PLANE_MIDNAME_JU-86E"
+msgstr "Ju 86 E"
+
 msgid "PLANE_MIDNAME_JU-87G"
 msgstr "Ju 87 G 斯圖卡"
+
+msgid "PLANE_MIDNAME_JU-88A"
+msgstr "Ju 88 A"
 
 msgid "PLANE_MIDNAME_JU-88P"
 msgstr "Ju 88 P"
 
+msgid "PLANE_MIDNAME_KI-10"
+msgstr "キ10 九五式戦闘機"
+
+msgid "PLANE_MIDNAME_KI-162"
+msgstr "キ162-I"
+
+msgid "PLANE_MIDNAME_KI-162-3"
+msgstr "キ162-III"
+
 msgid "PLANE_MIDNAME_KI-18"
 msgstr "キ18"
+
+msgid "PLANE_MIDNAME_KI-27"
+msgstr "キ27 九七式戦闘機"
 
 msgid "PLANE_MIDNAME_KI-33"
 msgstr "キ33"
 
+msgid "PLANE_MIDNAME_KI-43-I"
+msgstr "一式戦闘機一型「隼」"
+
 msgid "PLANE_MIDNAME_KI-43-IC"
 msgstr "一式戦闘機一型丙"
+
+msgid "PLANE_MIDNAME_KI-43-II"
+msgstr "一式戦闘機二型「隼」"
 
 msgid "PLANE_MIDNAME_KI-5"
 msgstr "キ5"
 
+msgid "PLANE_MIDNAME_KI-61"
+msgstr "キ61 三式戦闘機「飛燕」"
+
 msgid "PLANE_MIDNAME_KI-8"
 msgstr "キ8"
 
+msgid "PLANE_MIDNAME_KI-84"
+msgstr "キ84 四式戦闘機「疾風」"
+
 msgid "PLANE_MIDNAME_KI-88"
 msgstr "キ88"
+
+msgid "PLANE_MIDNAME_KI-94-I"
+msgstr "キ94I"
+
+msgid "PLANE_MIDNAME_KI-94-II"
+msgstr "キ94II"
 
 msgid "PLANE_MIDNAME_LA-11"
 msgstr "拉-11"
@@ -2657,11 +2973,17 @@ msgstr "拉-7"
 msgid "PLANE_MIDNAME_LA-9"
 msgstr "拉-9"
 
+msgid "PLANE_MIDNAME_LA-9RD"
+msgstr "拉-9RD"
+
 msgid "PLANE_MIDNAME_LAGG-3"
 msgstr "拉格-3"
 
 msgid "PLANE_MIDNAME_LAGG-3-34"
 msgstr "拉格-3-34"
+
+msgid "PLANE_MIDNAME_LAGG-3-4"
+msgstr "拉格-3 4 系列"
 
 msgid "PLANE_MIDNAME_LBSH"
 msgstr "LBSh"
@@ -2765,6 +3087,9 @@ msgstr "P-38F 閃電"
 msgid "PLANE_MIDNAME_P-38J"
 msgstr "P-38J 閃電"
 
+msgid "PLANE_MIDNAME_P-39N-1"
+msgstr "P-39N-1 空中眼鏡蛇"
+
 msgid "PLANE_MIDNAME_P-39Q"
 msgstr "P-39Q-15 空中空中眼鏡蛇"
 
@@ -2816,6 +3141,9 @@ msgstr "P-82B 雙身野馬"
 msgid "PLANE_MIDNAME_PEGAS"
 msgstr "飛馬"
 
+msgid "PLANE_MIDNAME_RB-17"
+msgstr "RB-17"
+
 msgid "PLANE_MIDNAME_SAUCER"
 msgstr "斯雷普尼爾 I"
 
@@ -2837,6 +3165,9 @@ msgstr "斯帕德 S.510"
 msgid "PLANE_MIDNAME_SPITFIRE-I"
 msgstr "噴火I"
 
+msgid "PLANE_MIDNAME_SPITFIRE-IA"
+msgstr "噴火 Mk Ia"
+
 msgid "PLANE_MIDNAME_SPITFIRE-IX"
 msgstr "噴火IX"
 
@@ -2848,6 +3179,9 @@ msgstr "噴火V DB605"
 
 msgid "PLANE_MIDNAME_SPITFIRE-XIV"
 msgstr "噴火XIV"
+
+msgid "PLANE_MIDNAME_SU-9"
+msgstr "Su-9"
 
 msgid "PLANE_MIDNAME_SUPERMARINE-T-224"
 msgstr "超級馬林 224型"
@@ -2867,6 +3201,9 @@ msgstr "Sh雙座型"
 msgid "PLANE_MIDNAME_TOMAHAWK-IIB"
 msgstr "P-40C 戰斧"
 
+msgid "PLANE_MIDNAME_TORNADO"
+msgstr "龍捲風"
+
 msgid "PLANE_MIDNAME_TSH-1"
 msgstr "TSh-2"
 
@@ -2879,6 +3216,11 @@ msgstr "TsKB-12bis"
 msgid "PLANE_MIDNAME_TYPE-91"
 msgstr "九一式"
 
+#, fuzzy
+#| msgid "PLANE_MIDNAME_AR-197"
+msgid "PLANE_MIDNAME_VAMPIRE-F1"
+msgstr "DH.100 Vampire F.1"
+
 msgid "PLANE_MIDNAME_VB10"
 msgstr "VB 10"
 
@@ -2890,6 +3232,9 @@ msgstr "韋斯特蘭P.1056"
 
 msgid "PLANE_MIDNAME_WIRRAWAY"
 msgstr "CA-1 勇士"
+
+msgid "PLANE_MIDNAME_XF-85"
+msgstr "XF-85 小鬼式"
 
 msgid "PLANE_MIDNAME_XF4F-3"
 msgstr "XF4F-3"
@@ -2930,6 +3275,11 @@ msgstr "雅克-30"
 msgid "PLANE_MIDNAME_YAK-3RD"
 msgstr "雅克-3RD"
 
+#, fuzzy
+#| msgid "PLANE_MIDNAME_YAK-3"
+msgid "PLANE_MIDNAME_YAK-3T"
+msgstr "Yak-3T"
+
 msgid "PLANE_MIDNAME_YAK-7"
 msgstr "雅克-7"
 
@@ -2947,6 +3297,9 @@ msgstr "2PA"
 
 msgid "PLANE_NAME_2PA-L"
 msgstr "2PA-L"
+
+msgid "PLANE_NAME_A-26B"
+msgstr "A-26B"
 
 msgid "PLANE_NAME_A4N"
 msgstr "九五艦戦"
@@ -3008,6 +3361,9 @@ msgstr "Bf 109 C"
 msgid "PLANE_NAME_BF-109E"
 msgstr "Bf 109 E"
 
+msgid "PLANE_NAME_BF-109E-3"
+msgstr "Bf 109 E-3"
+
 msgid "PLANE_NAME_BF-109F"
 msgstr "Bf 109 F"
 
@@ -3038,6 +3394,33 @@ msgstr "Me 209 V4"
 msgid "PLANE_NAME_BLENHEIM-F"
 msgstr "布倫海姆 F"
 
+msgid "PLANE_NAME_BLENHEIM-IV"
+msgstr "布倫海姆 IV (e.)"
+
+msgid "PLANE_NAME_BOMBER_B-17D"
+msgstr "B-17D"
+
+msgid "PLANE_NAME_BOMBER_B-17G"
+msgstr "B-17G"
+
+msgid "PLANE_NAME_BOMBER_FW-200"
+msgstr "Fw 200"
+
+msgid "PLANE_NAME_BOMBER_FW-200-2"
+msgstr "Fw 200"
+
+msgid "PLANE_NAME_BOMBER_HP-52"
+msgstr "HP 52"
+
+msgid "PLANE_NAME_BOMBER_HP-52-2"
+msgstr "HP 52"
+
+msgid "PLANE_NAME_BOMBER_JU-52"
+msgstr "Ju 52"
+
+msgid "PLANE_NAME_BOMBER_JU-52-2"
+msgstr "Ju 52"
+
 msgid "PLANE_NAME_BOOMERANG"
 msgstr "迴力鏢"
 
@@ -3056,6 +3439,15 @@ msgstr "BSh-1"
 msgid "PLANE_NAME_BSH-2"
 msgstr "BSh-2"
 
+msgid "PLANE_NAME_BV-P210"
+msgstr "BV P.210"
+
+msgid "PLANE_NAME_BV-P212-03"
+msgstr "BV P.212.03"
+
+msgid "PLANE_NAME_BV-P215-02"
+msgstr "BV P.215.02"
+
 msgid "PLANE_NAME_CR714"
 msgstr "C.714"
 
@@ -3065,11 +3457,83 @@ msgstr "黃蜂"
 msgid "PLANE_NAME_D-H-98"
 msgstr "蚊式"
 
+msgid "PLANE_NAME_DEFENDER_A6M2"
+msgstr "A6M2"
+
+msgid "PLANE_NAME_DEFENDER_AO-192"
+msgstr "Ao 192"
+
+msgid "PLANE_NAME_DEFENDER_AO-192-2"
+msgstr "Ao 192"
+
+msgid "PLANE_NAME_DEFENDER_BEAUFIGHTER"
+msgstr "英俊戰士"
+
+msgid "PLANE_NAME_DEFENDER_BEAUFIGHTER-2"
+msgstr "英俊戰士"
+
+msgid "PLANE_NAME_DEFENDER_BF109G"
+msgstr "Bf 109 G"
+
+msgid "PLANE_NAME_DEFENDER_BOOMERANG"
+msgstr "迴力鏢"
+
+msgid "PLANE_NAME_DEFENDER_BOOMERANG-2"
+msgstr "迴力鏢"
+
+msgid "PLANE_NAME_DEFENDER_D-H-103"
+msgstr "黃蜂"
+
+msgid "PLANE_NAME_DEFENDER_DI-6"
+msgstr "Di-6i"
+
+msgid "PLANE_NAME_DEFENDER_DI-6-2"
+msgstr "Di-6i"
+
+msgid "PLANE_NAME_DEFENDER_HE-51"
+msgstr "He 51"
+
+msgid "PLANE_NAME_DEFENDER_HE-51-2"
+msgstr "He 51"
+
+msgid "PLANE_NAME_DEFENDER_I-5"
+msgstr "伊-5"
+
+msgid "PLANE_NAME_DEFENDER_I-5-2"
+msgstr "伊-5"
+
+msgid "PLANE_NAME_DEFENDER_J4M"
+msgstr "J4M"
+
+msgid "PLANE_NAME_DEFENDER_ME-410"
+msgstr "Me 410"
+
+msgid "PLANE_NAME_DEFENDER_P-38F"
+msgstr "P-38F"
+
+msgid "PLANE_NAME_DEFENDER_P-40"
+msgstr "P-40"
+
+msgid "PLANE_NAME_DEFENDER_SPITFIRE-IX"
+msgstr "噴火 IX"
+
 msgid "PLANE_NAME_DEMON"
 msgstr "惡魔"
 
+msgid "PLANE_NAME_DI-6"
+msgstr "Di-6i"
+
 msgid "PLANE_NAME_DO-17Z"
 msgstr "Do 17 Z-7"
+
+msgid "PLANE_NAME_DO-17Z-2"
+msgstr "Do 17 Z"
+
+msgid "PLANE_NAME_DO-217M"
+msgstr "Do 217 M"
+
+msgid "PLANE_NAME_DO-335A1"
+msgstr "Do 335 A-1"
 
 msgid "PLANE_NAME_F-15C"
 msgstr "XF15C"
@@ -3203,8 +3667,20 @@ msgstr "He 112"
 msgid "PLANE_NAME_HE-51"
 msgstr "He 51"
 
+msgid "PLANE_NAME_HS-123"
+msgstr "Hs 123"
+
 msgid "PLANE_NAME_HS-129"
 msgstr "Hs 129 B"
+
+msgid "PLANE_NAME_HS-129A"
+msgstr "Hs 129 А"
+
+msgid "PLANE_NAME_HURRICANE-I"
+msgstr "颶風 I"
+
+msgid "PLANE_NAME_HURRICANE-II"
+msgstr "颶風 II"
 
 msgid "PLANE_NAME_HURRICANE-IID"
 msgstr "颶風 IID"
@@ -3218,6 +3694,9 @@ msgstr "伊-15比斯DM"
 msgid "PLANE_NAME_I-16-24"
 msgstr "伊-16 改進型"
 
+msgid "PLANE_NAME_I-16-29"
+msgstr "伊-16-29"
+
 msgid "PLANE_NAME_I-16-5"
 msgstr "伊-16 早期型"
 
@@ -3227,11 +3706,20 @@ msgstr "伊-17"
 msgid "PLANE_NAME_I-180"
 msgstr "伊-180-3"
 
+msgid "PLANE_NAME_I-207-4"
+msgstr "伊-207/4"
+
 msgid "PLANE_NAME_I-21"
 msgstr "伊-21"
 
 msgid "PLANE_NAME_I-210"
 msgstr "伊-210"
+
+msgid "PLANE_NAME_I-211"
+msgstr "伊-211"
+
+msgid "PLANE_NAME_I-215"
+msgstr "伊-215"
 
 msgid "PLANE_NAME_I-220"
 msgstr "伊-220"
@@ -3253,6 +3741,9 @@ msgstr "伊-5 施卡斯"
 
 msgid "PLANE_NAME_I-7"
 msgstr "伊-7"
+
+msgid "PLANE_NAME_IL-1"
+msgstr "伊爾-1"
 
 msgid "PLANE_NAME_IL-10"
 msgstr "伊爾-10"
@@ -3302,29 +3793,65 @@ msgstr "教練-1A-37"
 msgid "PLANE_NAME_JU-52"
 msgstr "Ju 52"
 
+msgid "PLANE_NAME_JU-86E"
+msgstr "Ju 86 E"
+
 msgid "PLANE_NAME_JU-87G"
 msgstr "Ju 87 G"
+
+msgid "PLANE_NAME_JU-88A"
+msgstr "Ju 88 A"
 
 msgid "PLANE_NAME_JU-88P"
 msgstr "Ju 88 P"
 
+msgid "PLANE_NAME_KI-10"
+msgstr "九五式戦闘機"
+
+msgid "PLANE_NAME_KI-162"
+msgstr "キ162-I"
+
+msgid "PLANE_NAME_KI-162-3"
+msgstr "キ162-III"
+
 msgid "PLANE_NAME_KI-18"
 msgstr "キ18"
+
+msgid "PLANE_NAME_KI-27"
+msgstr "九七式戦闘機"
 
 msgid "PLANE_NAME_KI-33"
 msgstr "キ33"
 
+msgid "PLANE_NAME_KI-43-I"
+msgstr "一式戦一型"
+
 msgid "PLANE_NAME_KI-43-IC"
 msgstr "一式戦一型丙"
+
+msgid "PLANE_NAME_KI-43-II"
+msgstr "一式戦二型"
 
 msgid "PLANE_NAME_KI-5"
 msgstr "キ5"
 
+msgid "PLANE_NAME_KI-61"
+msgstr "三式戦闘機"
+
 msgid "PLANE_NAME_KI-8"
 msgstr "キ8"
 
+msgid "PLANE_NAME_KI-84"
+msgstr "四式戦闘機"
+
 msgid "PLANE_NAME_KI-88"
 msgstr "キ88"
+
+msgid "PLANE_NAME_KI-94-I"
+msgstr "キ94I"
+
+msgid "PLANE_NAME_KI-94-II"
+msgstr "キ94II"
 
 msgid "PLANE_NAME_LA-11"
 msgstr "拉-11"
@@ -3347,11 +3874,17 @@ msgstr "拉-7"
 msgid "PLANE_NAME_LA-9"
 msgstr "拉-9"
 
+msgid "PLANE_NAME_LA-9RD"
+msgstr "拉-9RD"
+
 msgid "PLANE_NAME_LAGG-3"
 msgstr "拉格-3"
 
 msgid "PLANE_NAME_LAGG-3-34"
 msgstr "拉格-3 (34)"
+
+msgid "PLANE_NAME_LAGG-3-4"
+msgstr "拉格-3 (4)"
 
 msgid "PLANE_NAME_LBSH"
 msgstr "LBSh"
@@ -3455,6 +3988,9 @@ msgstr "P-38F"
 msgid "PLANE_NAME_P-38J"
 msgstr "P-38J"
 
+msgid "PLANE_NAME_P-39N-1"
+msgstr "P-39N-1"
+
 msgid "PLANE_NAME_P-39Q"
 msgstr "P-39Q-15"
 
@@ -3506,6 +4042,9 @@ msgstr "P-82B"
 msgid "PLANE_NAME_PEGAS"
 msgstr "飛馬"
 
+msgid "PLANE_NAME_RB-17"
+msgstr "RB-17"
+
 msgid "PLANE_NAME_SAUCER"
 msgstr "斯雷普尼爾"
 
@@ -3527,6 +4066,9 @@ msgstr "S.510"
 msgid "PLANE_NAME_SPITFIRE-I"
 msgstr "噴火I"
 
+msgid "PLANE_NAME_SPITFIRE-IA"
+msgstr "噴火 Ia"
+
 msgid "PLANE_NAME_SPITFIRE-IX"
 msgstr "噴火IX"
 
@@ -3538,6 +4080,9 @@ msgstr "噴火V DB605"
 
 msgid "PLANE_NAME_SPITFIRE-XIV"
 msgstr "噴火XIV"
+
+msgid "PLANE_NAME_SU-9"
+msgstr "Su-9"
 
 msgid "PLANE_NAME_SUPERMARINE-T-224"
 msgstr "224型"
@@ -3557,6 +4102,9 @@ msgstr "Sh雙座型"
 msgid "PLANE_NAME_TOMAHAWK-IIB"
 msgstr "P-40C"
 
+msgid "PLANE_NAME_TORNADO"
+msgstr "龍捲風"
+
 msgid "PLANE_NAME_TSH-1"
 msgstr "TSh-2"
 
@@ -3569,6 +4117,11 @@ msgstr "TsKB-12比斯"
 msgid "PLANE_NAME_TYPE-91"
 msgstr "九一式"
 
+#, fuzzy
+#| msgid "PLANE_NAME_AR-197"
+msgid "PLANE_NAME_VAMPIRE-F1"
+msgstr "Vampire F.1"
+
 msgid "PLANE_NAME_VB10"
 msgstr "VB 10"
 
@@ -3580,6 +4133,9 @@ msgstr "P.1056"
 
 msgid "PLANE_NAME_WIRRAWAY"
 msgstr "勇士"
+
+msgid "PLANE_NAME_XF-85"
+msgstr "XF-85"
 
 msgid "PLANE_NAME_XF4F-3"
 msgstr "XF4F-3"
@@ -3620,6 +4176,11 @@ msgstr "雅克-30"
 msgid "PLANE_NAME_YAK-3RD"
 msgstr "雅克-3RD"
 
+#, fuzzy
+#| msgid "PLANE_NAME_YAK-3"
+msgid "PLANE_NAME_YAK-3T"
+msgstr "Yak-3T"
+
 msgid "PLANE_NAME_YAK-7"
 msgstr "雅克-7"
 
@@ -3631,774 +4192,3 @@ msgstr "雅克-9U"
 
 msgid "PLANE_NAME_YP-29"
 msgstr "YP-29"
-
-msgid "MARKET_AIRPLANE_DESCRIPTION_A-26B"
-msgstr ""
-"為了替代美國空軍道格拉斯 A-20 浩劫攻擊機而研製的轟炸"
-"機，A-26B 是該系列中第一批投入量產的飛機。有大量的衍生"
-"版本是基於 A-26B 所製造。"
-
-msgid "MARKET_AIRPLANE_DESCRIPTION_BF-109E-3"
-msgstr ""
-"生產最為廣泛的 Bf 109 E 型號，在 1940 年的法國戰役和不"
-"列顛戰役期間使用，一共生產了 1,868 架。"
-
-msgid "MARKET_AIRPLANE_DESCRIPTION_BLENHEIM-IV"
-msgstr ""
-"由 Bristol 公司開發的 Type 149。特色為加長的機頭，為領"
-"航員提供更舒適的環境。最早的幾架布倫海姆 Mk.IV 繼承了布"
-"倫海姆 Mk.I 的防禦武器。"
-
-#, fuzzy
-#| msgid "MARKET_AIRPLANE_DESCRIPTION_I-210"
-msgid "MARKET_AIRPLANE_DESCRIPTION_BV-P210"
-msgstr ""
-"Designed as part of the project for a mass-produced "
-"and low-cost jet-powered \"people's fighter\". The "
-"concept and appearance of the aircraft were defined in "
-"September 1944, but the prototype was never built."
-
-#, fuzzy
-#| msgid "MARKET_AIRPLANE_DESCRIPTION_I-210"
-msgid "MARKET_AIRPLANE_DESCRIPTION_BV-P212-03"
-msgstr ""
-"The BV P.212 was designed as part of the Luftwaffe's "
-"Emergency Fighter Program. Several concepts were "
-"developed. The BV P.212.03 version was selected as "
-"final. The first prototype was to make its first "
-"flight in the summer of 1945."
-
-#, fuzzy
-#| msgid "MARKET_AIRPLANE_DESCRIPTION_I-210"
-msgid "MARKET_AIRPLANE_DESCRIPTION_BV-P215-02"
-msgstr ""
-"Designed based on the BV P.212 concept. In March 1945, "
-"the Luftwaffe approved the project and recommended the "
-"construction of a prototype. However, by the end of "
-"World War II, only theoretical calculations for the "
-"new aircraft specifications were made."
-
-#, fuzzy
-#| msgid "MARKET_AIRPLANE_DESCRIPTION_I-260"
-msgid "MARKET_AIRPLANE_DESCRIPTION_DI-6"
-msgstr ""
-"Developed as a two-seat multirole fighter capable of "
-"engaging single-seat fighters in maneuvering combat. "
-"Its first flight took place in September 1934. The "
-"aircraft did not see active combat service. A total of "
-"223 modifications of the DI-6 were built."
-
-msgid "MARKET_AIRPLANE_DESCRIPTION_DO-17Z-2"
-msgstr ""
-"Do 17 轟炸機最後和最先進的版本。原型機於 1938 年 3 月首"
-"飛。它的特點在於全新設計的駕駛艙、引擎及防禦武器。連同"
-"其所有改進型號一共生產了約 500 架 Do 17 Z。"
-
-msgid "MARKET_AIRPLANE_DESCRIPTION_DO-217M"
-msgstr ""
-"Do 217 M 是大量生產的 Do 217 K 的一種衍生型號，配備 DB "
-"603 發動機，而不是戰鬥機的 BMW 801。 這兩架轟炸機版本主"
-"要用於西方戰線。"
-
-msgid "MARKET_AIRPLANE_DESCRIPTION_DO-335A1"
-msgstr ""
-"以重型戰鬥轟炸機為目標開發。原型機於 1943 年 10 月 26 "
-"日首飛。一系列約 12 架 Do 335A-1 在二戰結束時建成。"
-
-msgid "MARKET_AIRPLANE_DESCRIPTION_HS-123"
-msgstr ""
-"1935 年 5 月首飛，在西班牙內戰和二戰期間成功地提供近距"
-"離空中支援。共有約 260 架戰機被製造出來。"
-
-#, fuzzy
-#| msgid "MARKET_AIRPLANE_DESCRIPTION_HS-129"
-msgid "MARKET_AIRPLANE_DESCRIPTION_HS-129A"
-msgstr ""
-"Early version of the armored Hs 129 attack aircraft "
-"fitted with Argus engines. A small series of aircraft "
-"was used mainly for pilot training."
-
-#, fuzzy
-#| msgid "MARKET_AIRPLANE_DESCRIPTION_HURRICANE-IID"
-msgid "MARKET_AIRPLANE_DESCRIPTION_HURRICANE-I"
-msgstr ""
-"The main British fighter type of early World War II. "
-"The prototype first flew in November 1935. Widely used "
-"in the French campaign in 1940 and massively used in "
-"the Battle of Britain."
-
-#, fuzzy
-#| msgid "MARKET_AIRPLANE_DESCRIPTION_HURRICANE-IID"
-msgid "MARKET_AIRPLANE_DESCRIPTION_HURRICANE-II"
-msgstr ""
-"The Hurricane Mk II entered service in 1940. Compared "
-"to the early fighter variants, it was equipped with a "
-"more powerful engine, and its armament was gradually "
-"enhanced. This modification remained in production "
-"until 1944 and was also built in Canada."
-
-msgid "MARKET_AIRPLANE_DESCRIPTION_I-16-29"
-msgstr ""
-"波利卡爾波夫 伊-16 最後量產的改良型號。於 1940 年首飛。"
-"與早期型號的主要區別在於機翼上沒有機槍，而是搭載了大口"
-"徑的同步機槍。"
-
-#, fuzzy
-#| msgid "MARKET_AIRPLANE_DESCRIPTION_I-210"
-msgid "MARKET_AIRPLANE_DESCRIPTION_I-207-4"
-msgstr ""
-"The last developed version of the I-207 fighter. The "
-"aircraft was supposed to have the properties of both "
-"high-speed monoplanes and maneuverable biplanes. The "
-"prototype was built by the spring of 1941, but the "
-"project was discontinued."
-
-msgid "MARKET_AIRPLANE_DESCRIPTION_I-211"
-msgstr ""
-"於 1946 年開始研製。原型機於 1947 年 9 月 5 日首飛。飛"
-"機的概念不斷改良。該計劃的後續發展衍生出了 I-215。"
-
-msgid "MARKET_AIRPLANE_DESCRIPTION_I-215"
-msgstr ""
-"在 I-211 的基礎上設計，改變了發動機和武器組合。由於決定"
-"集中發展米高揚和雅克列夫設計局的戰鬥機，從未進入部隊服"
-"役。"
-
-#, fuzzy
-#| msgid "MARKET_AIRPLANE_DESCRIPTION_IL-10M"
-msgid "MARKET_AIRPLANE_DESCRIPTION_IL-1"
-msgstr ""
-"Designed as an armored low- and mid-altitude fighter "
-"capable of engaging enemy aircraft in a maneuvering "
-"combat. The project was discontinued due to the "
-"achievement of air superiority by the Soviet Air Force "
-"in 1944."
-
-#, fuzzy
-#| msgid "MARKET_AIRPLANE_DESCRIPTION_JU-87G"
-msgid "MARKET_AIRPLANE_DESCRIPTION_JU-86E"
-msgstr ""
-"Due to problems with the diesel engines on the early "
-"Ju 86, it was decided to replace them with the radial "
-"BMW 132. The new modification—the Ju 86 E—served with "
-"the Luftwaffe until it was replaced by more advanced "
-"He 111 bombers."
-
-#, fuzzy
-#| msgid "MARKET_AIRPLANE_DESCRIPTION_JU-88P"
-msgid "MARKET_AIRPLANE_DESCRIPTION_JU-88A"
-msgstr ""
-"The most mass-produced modification of the Ju 88. Mass "
-"production started in March 1939, and by 1940–1941, "
-"the Ju 88 A became the main bomber type in the "
-"Luftwaffe. The aircraft was widely used on all fronts "
-"and was also supplied to the allies of Germany."
-
-#, fuzzy
-#| msgid "MARKET_AIRPLANE_DESCRIPTION_KI-18"
-msgid "MARKET_AIRPLANE_DESCRIPTION_KI-10"
-msgstr ""
-"Last mass-produced biplane fighter used by the "
-"Japanese Army. First flew in March 1935. Saw combat in "
-"China and in the Soviet-Japanese conflict of Khalkhyn "
-"Gol. A total of about 600 aircraft were built."
-
-#, fuzzy
-#| msgid "MARKET_AIRPLANE_DESCRIPTION_KI-18"
-msgid "MARKET_AIRPLANE_DESCRIPTION_KI-162-I"
-msgstr ""
-"In the spring of 1945 Germany provided the information "
-"about the Heinkel He 162 jet fighter to the Japanese. "
-"According to some sources, the development of a "
-"fighter with similar characteristics was started in "
-"Japan, but not even a model was completed by the end "
-"of World War II."
-
-#, fuzzy
-#| msgid "MARKET_AIRPLANE_DESCRIPTION_KI-18"
-msgid "MARKET_AIRPLANE_DESCRIPTION_KI-162-III"
-msgstr ""
-"Due to the end of World War II, the Ki-162 project was "
-"not completed in combat-ready condition. Further "
-"development is only hypothetical based on the level of "
-"technology in Japan at that time."
-
-#, fuzzy
-#| msgid "MARKET_AIRPLANE_DESCRIPTION_I-7"
-msgid "MARKET_AIRPLANE_DESCRIPTION_KI-27"
-msgstr ""
-"Developed to replace the Ki-10. The prototype first "
-"flew in October 1936. Saw combat in China, during the "
-"Battle of Khalkhyn Gol, and in the initial period of "
-"the Pacific War. A total of about 3,400 aircraft were "
-"built."
-
-#, fuzzy
-#| msgid "MARKET_AIRPLANE_DESCRIPTION_KI-43-IC"
-msgid "MARKET_AIRPLANE_DESCRIPTION_KI-43-I"
-msgstr ""
-"Developed by the 中島 Aircraft Company to replace the "
-"Ki-27 in the Japanese Air Force. First aircraft "
-"entered service in the fall of 1941. A total of about "
-"6,000 Ki-43s of various versions were built and used "
-"on all fronts until the end of World War II."
-
-#, fuzzy
-#| msgid "MARKET_AIRPLANE_DESCRIPTION_KI-43-IC"
-msgid "MARKET_AIRPLANE_DESCRIPTION_KI-43-II"
-msgstr ""
-"Military use of the first Ki-43 models revealed that "
-"the fighter lacked firepower, survivability, and top "
-"speed. To correct these faults, the 中島 Aircraft "
-"Company developed a new modification that remained in "
-"production until the end of World War II."
-
-#, fuzzy
-#| msgid "MARKET_AIRPLANE_DESCRIPTION_KI-18"
-msgid "MARKET_AIRPLANE_DESCRIPTION_KI-61"
-msgstr ""
-"First flew in December 1941. Different modifications "
-"of the Ki-61 were extensively used during the Pacific "
-"War from the early 1943 and through the final days of "
-"World War II. Over 3,000 aircraft were built."
-
-#, fuzzy
-#| msgid "MARKET_AIRPLANE_DESCRIPTION_KI-8"
-msgid "MARKET_AIRPLANE_DESCRIPTION_KI-84"
-msgstr ""
-"Developed for the Japanese Air Force as a promising "
-"fighter based on the results of military use of the "
-"Ki-43 and Ki-61. The Ki-84 was considered the best "
-"mass-produced Japanese fighter during World War II. "
-"Over 3,500 aircraft were built."
-
-#, fuzzy
-#| msgid "MARKET_AIRPLANE_DESCRIPTION_KI-43-IC"
-msgid "MARKET_AIRPLANE_DESCRIPTION_KI-94-I"
-msgstr ""
-"Project for a high-speed fighter with heavy armament. "
-"A wooden mock-up was built by October 1943. However, "
-"the concept of the Ki-94-I was judged by the Japanese "
-"Army Air Force as too unconventional. The 立川 company "
-"was tasked to build an aircraft with a more "
-"conventional design. As a result, the Ki-94-II was "
-"created."
-
-#, fuzzy
-#| msgid "MARKET_AIRPLANE_DESCRIPTION_KI-43-IC"
-msgid "MARKET_AIRPLANE_DESCRIPTION_KI-94-II"
-msgstr ""
-"Project for a high-speed well-armed fighter developed "
-"by the 立川 Aircraft Company in 1943–1945. By the end "
-"of World War II only prototypes were built that never "
-"took to the air."
-
-#, fuzzy
-#| msgid "MARKET_AIRPLANE_DESCRIPTION_LA9"
-msgid "MARKET_AIRPLANE_DESCRIPTION_LA-9RD"
-msgstr ""
-"Developed on the basis of the mass-produced La-9 to "
-"explore the capabilities of ramjet engines. Several "
-"prototypes were produced and tested."
-
-#, fuzzy
-#| msgid "MARKET_AIRPLANE_DESCRIPTION_LAGG-3-34"
-msgid "MARKET_AIRPLANE_DESCRIPTION_LAGG-3-4"
-msgstr ""
-"The 拉格-3 4 系列 was fitted with a modified engine "
-"and carried more powerful armament compared to the "
-"early LaGG-3s. Extensively used in the initial period "
-"of World War II."
-
-#, fuzzy
-#| msgid "MARKET_AIRPLANE_DESCRIPTION_P-39Q"
-msgid "MARKET_AIRPLANE_DESCRIPTION_P-39N-1"
-msgstr ""
-"The Bell Aircraft Corporation always searched for the "
-"ways of improving aircraft characteristics based on "
-"feedback from the pilots who flew various "
-"modifications of the P-39 空中眼鏡蛇. The P-39N series "
-"was an attempt to lighten the airframe by reducing "
-"fuel capacity or partially demounting armor."
-
-#, fuzzy
-#| msgid "MARKET_AIRPLANE_DESCRIPTION_AR-197"
-msgid "MARKET_AIRPLANE_DESCRIPTION_RB-17"
-msgstr ""
-"Project for a high-speed reconnaissance bomber. "
-"Developed in 1945–1946 with the use of the German Jumo "
-"004 engine. Development was discontinued in early 1946 "
-"as the 米亞西舍夫 design bureau was closed."
-
-#, fuzzy
-#| msgid "MARKET_AIRPLANE_DESCRIPTION_SPITFIRE-I"
-msgid "MARKET_AIRPLANE_DESCRIPTION_SPITFIRE-IA"
-msgstr ""
-"The most advanced fighter of the Royal Air Force at "
-"the start of World War II. Widely used in the Dunkirk "
-"operation and the Battle of Britain."
-
-#, fuzzy
-#| msgid "MARKET_AIRPLANE_DESCRIPTION_HS-129"
-msgid "MARKET_AIRPLANE_DESCRIPTION_SU-9"
-msgstr ""
-"Designed in 1946 under the influence of the German "
-"experience. The only prototype of the Su-9 was "
-"produced and tested in 1946–1947. The aircraft never "
-"entered service, since the project was abandoned in "
-"favor of the MiG-15."
-
-#, fuzzy
-#| msgid "MARKET_AIRPLANE_DESCRIPTION_TANDEM"
-msgid "MARKET_AIRPLANE_DESCRIPTION_TORNADO"
-msgstr ""
-"Created by the Hawker company based on the experience "
-"gained from the development of the Hurricane. A total "
-"of 6 prototypes were built and tested in 1939–1941. "
-"However, due to engine problems, the project was "
-"abandoned in favor of the Hawker Typhoon."
-
-#, fuzzy
-#| msgid "MARKET_AIRPLANE_DESCRIPTION_XP-50"
-msgid "MARKET_AIRPLANE_DESCRIPTION_XF-85"
-msgstr ""
-"Developed as a parasite fighter designed to be carried "
-"by a heavy bomber and defend the latter against enemy "
-"attacks. It underwent trials in 1948–1949, but never "
-"entered service. Two prototypes were handed over to "
-"museums."
-
-msgid "PLANE_LONGNAME_A-26B"
-msgstr "道格拉斯 A-26B 侵略者"
-
-msgid "PLANE_LONGNAME_BF-109E-3"
-msgstr "梅塞施密特 Bf 109 E-3"
-
-msgid "PLANE_LONGNAME_BLENHEIM-IV"
-msgstr "布裡斯托爾 布倫海姆 Mk.IV (早期型)"
-
-msgid "PLANE_LONGNAME_BV-P210"
-msgstr "布洛姆－福斯 P.210"
-
-msgid "PLANE_LONGNAME_BV-P212-03"
-msgstr "布洛姆－福斯 P.212.03"
-
-msgid "PLANE_LONGNAME_BV-P215-02"
-msgstr "布洛姆－福斯 P.215.02"
-
-msgid "PLANE_LONGNAME_DI-6"
-msgstr "科奇耶裡金-亞岑科 DI-6i"
-
-msgid "PLANE_LONGNAME_DO-17Z-2"
-msgstr "多尼爾 Do 17 Z"
-
-msgid "PLANE_LONGNAME_DO-217M"
-msgstr "多尼爾 Do 217 M"
-
-msgid "PLANE_LONGNAME_DO-335A1"
-msgstr "多尼爾 Do 335 A-1 箭式"
-
-msgid "PLANE_LONGNAME_HS-123"
-msgstr "亨舍爾 Hs 123"
-
-msgid "PLANE_LONGNAME_HS-129A"
-msgstr "亨舍爾 Hs 129 А"
-
-msgid "PLANE_LONGNAME_HURRICANE-I"
-msgstr "霍克 颶風 Mk I"
-
-msgid "PLANE_LONGNAME_HURRICANE-II"
-msgstr "霍克 颶風 Mk II"
-
-msgid "PLANE_LONGNAME_I-16-29"
-msgstr "波利卡爾波夫 伊-16 29型"
-
-msgid "PLANE_LONGNAME_I-207-4"
-msgstr "博羅夫科夫-弗洛羅夫 伊-207/4"
-
-msgid "PLANE_LONGNAME_I-211"
-msgstr "阿列克謝耶夫 伊-211"
-
-msgid "PLANE_LONGNAME_I-215"
-msgstr "阿列克謝耶夫 伊-215"
-
-msgid "PLANE_LONGNAME_IL-1"
-msgstr "伊留申 伊爾-1"
-
-msgid "PLANE_LONGNAME_JU-86E"
-msgstr "容克 Ju 86 E"
-
-msgid "PLANE_LONGNAME_JU-88A"
-msgstr "容克 Ju 88 A"
-
-msgid "PLANE_LONGNAME_KI-10"
-msgstr "川崎 キ10 九五式戦闘機"
-
-msgid "PLANE_LONGNAME_KI-162"
-msgstr "立川 キ162-I"
-
-msgid "PLANE_LONGNAME_KI-162-3"
-msgstr "立川 キ162-III"
-
-msgid "PLANE_LONGNAME_KI-27"
-msgstr "中島 キ27 九七式戦闘機"
-
-msgid "PLANE_LONGNAME_KI-43-I"
-msgstr "中島 キ43-I 一式戦闘機一型「隼」"
-
-msgid "PLANE_LONGNAME_KI-43-II"
-msgstr "中島 キ43-II 一式戦闘機二型「隼」"
-
-msgid "PLANE_LONGNAME_KI-61"
-msgstr "川崎 キ61 三式戦闘機「飛燕」"
-
-msgid "PLANE_LONGNAME_KI-84"
-msgstr "中島 キ84 四式戦闘機「疾風」"
-
-msgid "PLANE_LONGNAME_KI-94-I"
-msgstr "立川 キ94I"
-
-msgid "PLANE_LONGNAME_KI-94-II"
-msgstr "立川 キ94II"
-
-msgid "PLANE_LONGNAME_LA-9RD"
-msgstr "拉沃奇金 拉-9RD"
-
-msgid "PLANE_LONGNAME_LAGG-3-4"
-msgstr "拉沃奇金 拉格-3 4 系列"
-
-msgid "PLANE_LONGNAME_P-39N-1"
-msgstr "貝爾 P-39N-1 空中眼鏡蛇"
-
-msgid "PLANE_LONGNAME_RB-17"
-msgstr "米亞西舍夫 RB-17"
-
-msgid "PLANE_LONGNAME_SPITFIRE-IA"
-msgstr "超級馬林 噴火 Mk Ia"
-
-msgid "PLANE_LONGNAME_SU-9"
-msgstr "蘇霍伊 Su-9"
-
-msgid "PLANE_LONGNAME_TORNADO"
-msgstr "霍克 龍捲風"
-
-msgid "PLANE_LONGNAME_XF-85"
-msgstr "麥克唐納 XF-85 小鬼式"
-
-msgid "PLANE_MIDNAME_A-26B"
-msgstr "A-26B 侵入者"
-
-msgid "PLANE_MIDNAME_BF-109E-3"
-msgstr "Bf 109 E-3"
-
-msgid "PLANE_MIDNAME_BLENHEIM-IV"
-msgstr "布倫海姆 Mk.IV (早期型)"
-
-msgid "PLANE_MIDNAME_BV-P210"
-msgstr "BV P.210"
-
-msgid "PLANE_MIDNAME_BV-P212-03"
-msgstr "BV P.212.03"
-
-msgid "PLANE_MIDNAME_BV-P215-02"
-msgstr "BV P.215.02"
-
-msgid "PLANE_MIDNAME_DI-6"
-msgstr "Di-6i"
-
-msgid "PLANE_MIDNAME_DO-17Z-2"
-msgstr "Do 17 Z"
-
-msgid "PLANE_MIDNAME_DO-217M"
-msgstr "Do 217 M"
-
-msgid "PLANE_MIDNAME_DO-335A1"
-msgstr "道尼爾 Do 335 A-1"
-
-msgid "PLANE_MIDNAME_HS-123"
-msgstr "Hs 123"
-
-msgid "PLANE_MIDNAME_HS-129A"
-msgstr "Hs 129 А"
-
-msgid "PLANE_MIDNAME_HURRICANE-I"
-msgstr "颶風 Mk I"
-
-msgid "PLANE_MIDNAME_HURRICANE-II"
-msgstr "颶風 Mk II"
-
-msgid "PLANE_MIDNAME_I-16-29"
-msgstr "伊-16 29型"
-
-msgid "PLANE_MIDNAME_I-207-4"
-msgstr "伊-207/4"
-
-msgid "PLANE_MIDNAME_I-211"
-msgstr "伊-211"
-
-msgid "PLANE_MIDNAME_I-215"
-msgstr "伊-215"
-
-msgid "PLANE_MIDNAME_IL-1"
-msgstr "伊爾-1"
-
-msgid "PLANE_MIDNAME_JU-86E"
-msgstr "Ju 86 E"
-
-msgid "PLANE_MIDNAME_JU-88A"
-msgstr "Ju 88 A"
-
-msgid "PLANE_MIDNAME_KI-10"
-msgstr "キ10 九五式戦闘機"
-
-msgid "PLANE_MIDNAME_KI-162"
-msgstr "キ162-I"
-
-msgid "PLANE_MIDNAME_KI-162-3"
-msgstr "キ162-III"
-
-msgid "PLANE_MIDNAME_KI-27"
-msgstr "キ27 九七式戦闘機"
-
-msgid "PLANE_MIDNAME_KI-43-I"
-msgstr "一式戦闘機一型「隼」"
-
-msgid "PLANE_MIDNAME_KI-43-II"
-msgstr "一式戦闘機二型「隼」"
-
-msgid "PLANE_MIDNAME_KI-61"
-msgstr "キ61 三式戦闘機「飛燕」"
-
-msgid "PLANE_MIDNAME_KI-84"
-msgstr "キ84 四式戦闘機「疾風」"
-
-msgid "PLANE_MIDNAME_KI-94-I"
-msgstr "キ94I"
-
-msgid "PLANE_MIDNAME_KI-94-II"
-msgstr "キ94II"
-
-msgid "PLANE_MIDNAME_LA-9RD"
-msgstr "拉-9RD"
-
-msgid "PLANE_MIDNAME_LAGG-3-4"
-msgstr "拉格-3 4 系列"
-
-msgid "PLANE_MIDNAME_P-39N-1"
-msgstr "P-39N-1 空中眼鏡蛇"
-
-msgid "PLANE_MIDNAME_RB-17"
-msgstr "RB-17"
-
-msgid "PLANE_MIDNAME_SPITFIRE-IA"
-msgstr "噴火 Mk Ia"
-
-msgid "PLANE_MIDNAME_SU-9"
-msgstr "Su-9"
-
-msgid "PLANE_MIDNAME_TORNADO"
-msgstr "龍捲風"
-
-msgid "PLANE_MIDNAME_XF-85"
-msgstr "XF-85 小鬼式"
-
-msgid "PLANE_NAME_A-26B"
-msgstr "A-26B"
-
-msgid "PLANE_NAME_BF-109E-3"
-msgstr "Bf 109 E-3"
-
-msgid "PLANE_NAME_BLENHEIM-IV"
-msgstr "布倫海姆 IV (e.)"
-
-msgid "PLANE_NAME_BOMBER_B-17D"
-msgstr "B-17D"
-
-msgid "PLANE_NAME_BOMBER_B-17G"
-msgstr "B-17G"
-
-msgid "PLANE_NAME_BOMBER_FW-200"
-msgstr "Fw 200"
-
-msgid "PLANE_NAME_BOMBER_FW-200-2"
-msgstr "Fw 200"
-
-msgid "PLANE_NAME_BOMBER_HP-52"
-msgstr "HP 52"
-
-msgid "PLANE_NAME_BOMBER_HP-52-2"
-msgstr "HP 52"
-
-msgid "PLANE_NAME_BOMBER_JU-52"
-msgstr "Ju 52"
-
-msgid "PLANE_NAME_BOMBER_JU-52-2"
-msgstr "Ju 52"
-
-msgid "PLANE_NAME_BV-P210"
-msgstr "BV P.210"
-
-msgid "PLANE_NAME_BV-P212-03"
-msgstr "BV P.212.03"
-
-msgid "PLANE_NAME_BV-P215-02"
-msgstr "BV P.215.02"
-
-msgid "PLANE_NAME_DEFENDER_A6M2"
-msgstr "A6M2"
-
-msgid "PLANE_NAME_DEFENDER_AO-192"
-msgstr "Ao 192"
-
-msgid "PLANE_NAME_DEFENDER_AO-192-2"
-msgstr "Ao 192"
-
-msgid "PLANE_NAME_DEFENDER_BEAUFIGHTER"
-msgstr "英俊戰士"
-
-msgid "PLANE_NAME_DEFENDER_BEAUFIGHTER-2"
-msgstr "英俊戰士"
-
-msgid "PLANE_NAME_DEFENDER_BF109G"
-msgstr "Bf 109 G"
-
-msgid "PLANE_NAME_DEFENDER_BOOMERANG"
-msgstr "迴力鏢"
-
-msgid "PLANE_NAME_DEFENDER_BOOMERANG-2"
-msgstr "迴力鏢"
-
-msgid "PLANE_NAME_DEFENDER_D-H-103"
-msgstr "黃蜂"
-
-msgid "PLANE_NAME_DEFENDER_DI-6"
-msgstr "Di-6i"
-
-msgid "PLANE_NAME_DEFENDER_DI-6-2"
-msgstr "Di-6i"
-
-msgid "PLANE_NAME_DEFENDER_HE-51"
-msgstr "He 51"
-
-msgid "PLANE_NAME_DEFENDER_HE-51-2"
-msgstr "He 51"
-
-msgid "PLANE_NAME_DEFENDER_I-5"
-msgstr "伊-5"
-
-msgid "PLANE_NAME_DEFENDER_I-5-2"
-msgstr "伊-5"
-
-msgid "PLANE_NAME_DEFENDER_J4M"
-msgstr "J4M"
-
-msgid "PLANE_NAME_DEFENDER_ME-410"
-msgstr "Me 410"
-
-msgid "PLANE_NAME_DEFENDER_P-38F"
-msgstr "P-38F"
-
-msgid "PLANE_NAME_DEFENDER_P-40"
-msgstr "P-40"
-
-msgid "PLANE_NAME_DEFENDER_SPITFIRE-IX"
-msgstr "噴火 IX"
-
-msgid "PLANE_NAME_DI-6"
-msgstr "Di-6i"
-
-msgid "PLANE_NAME_DO-17Z-2"
-msgstr "Do 17 Z"
-
-msgid "PLANE_NAME_DO-217M"
-msgstr "Do 217 M"
-
-msgid "PLANE_NAME_DO-335A1"
-msgstr "Do 335 A-1"
-
-msgid "PLANE_NAME_HS-123"
-msgstr "Hs 123"
-
-msgid "PLANE_NAME_HS-129A"
-msgstr "Hs 129 А"
-
-msgid "PLANE_NAME_HURRICANE-I"
-msgstr "颶風 I"
-
-msgid "PLANE_NAME_HURRICANE-II"
-msgstr "颶風 II"
-
-msgid "PLANE_NAME_I-16-29"
-msgstr "伊-16-29"
-
-msgid "PLANE_NAME_I-207-4"
-msgstr "伊-207/4"
-
-msgid "PLANE_NAME_I-211"
-msgstr "伊-211"
-
-msgid "PLANE_NAME_I-215"
-msgstr "伊-215"
-
-msgid "PLANE_NAME_IL-1"
-msgstr "伊爾-1"
-
-msgid "PLANE_NAME_JU-86E"
-msgstr "Ju 86 E"
-
-msgid "PLANE_NAME_JU-88A"
-msgstr "Ju 88 A"
-
-msgid "PLANE_NAME_KI-10"
-msgstr "九五式戦闘機"
-
-msgid "PLANE_NAME_KI-162"
-msgstr "キ162-I"
-
-msgid "PLANE_NAME_KI-162-3"
-msgstr "キ162-III"
-
-msgid "PLANE_NAME_KI-27"
-msgstr "九七式戦闘機"
-
-msgid "PLANE_NAME_KI-43-I"
-msgstr "一式戦一型"
-
-msgid "PLANE_NAME_KI-43-II"
-msgstr "一式戦二型"
-
-msgid "PLANE_NAME_KI-61"
-msgstr "三式戦闘機"
-
-msgid "PLANE_NAME_KI-84"
-msgstr "四式戦闘機"
-
-msgid "PLANE_NAME_KI-94-I"
-msgstr "キ94I"
-
-msgid "PLANE_NAME_KI-94-II"
-msgstr "キ94II"
-
-msgid "PLANE_NAME_LA-9RD"
-msgstr "拉-9RD"
-
-msgid "PLANE_NAME_LAGG-3-4"
-msgstr "拉格-3 (4)"
-
-msgid "PLANE_NAME_P-39N-1"
-msgstr "P-39N-1"
-
-msgid "PLANE_NAME_RB-17"
-msgstr "RB-17"
-
-msgid "PLANE_NAME_SPITFIRE-IA"
-msgstr "噴火 Ia"
-
-msgid "PLANE_NAME_SU-9"
-msgstr "Su-9"
-
-msgid "PLANE_NAME_TORNADO"
-msgstr "龍捲風"
-
-msgid "PLANE_NAME_XF-85"
-msgstr "XF-85"

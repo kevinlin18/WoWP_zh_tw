@@ -3,11 +3,37 @@ msgstr ""
 "Project-Id-Version: World Of Warplanes\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2012-06-01 10:00+0300\n"
+"PO-Revision-Date: \n"
 "Last-Translator: kevinlin18 <https://github.com/kevinlin18/WoWP_zh_tw>\n"
 "Language-Team: WoT Team <noreply@wargaming.net>\n"
+"Language: zh\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.5\n"
+
+#, fuzzy
+#| msgid "SKILL_DESCRIPTION_PILOT_EQUIP_ARMOR"
+msgid "SKILL_DESCRIPTION_EQUIPMENT_DURABILITY_AND_ANTICRIT_MODS"
+msgstr ""
+"Increases the positive effect of the mounted equipment on <font "
+"color='#f2f2f2'>aircraft durability and resistance to critical damage</font> "
+"by <font color='#8dbb44'>40%</font>."
+
+#, fuzzy
+#| msgid "SKILL_DESCRIPTION_PILOT_FIREDURATION"
+msgid "SKILL_DESCRIPTION_EQUIPMENT_FIRERANGE_TURRET_MODS"
+msgstr ""
+"Increases the <font color='#f2f2f2'>range of fire</font> of a turret by "
+"<font color='#8dbb44'>20%</font>."
+
+#, fuzzy
+#| msgid "SKILL_DESCRIPTION_PILOT_EQUIP_ARMOR"
+msgid "SKILL_DESCRIPTION_EQUIPMENT_MANEUVER_AND_SPEED_MODS"
+msgstr ""
+"Increases the positive effect of the mounted equipment on <font "
+"color='#f2f2f2'>aircraft maneuverability and speed</font> by <font "
+"color='#8dbb44'>40%</font>."
 
 msgid "SKILL_DESCRIPTION_GUNNER_KILLER"
 msgstr "尾砲手集中火力<font color='#f2f2f2'>攻擊生命值最少的飛機。"
@@ -44,6 +70,16 @@ msgid "SKILL_DESCRIPTION_GUNNER_VOLLEY"
 msgstr ""
 "提高<font color='#8dbb44'>20％</font>尾砲<font color='#f2f2f2'>脈衝時間</"
 "font>。"
+
+#, fuzzy
+msgid "SKILL_DESCRIPTION_LAST_DASH"
+msgstr ""
+"<font color='#f2f2f2'>Repairs all critical damage</font>, heals all crew "
+"injuries, provides the pilot with resistance to injury, and increases <font "
+"color='#f2f2f2'>maneuverability</font> and <font color='#f2f2f2'>engine "
+"thrust</font> by <font color='#8dbb44'>10%</font> when the aircraft loses "
+"50% of its hit points. The skill is activated automatically once per battle "
+"and remains effective until the end of the battle."
 
 msgid "SKILL_DESCRIPTION_LONG_AGILITY"
 msgstr "提高乘員的生存能力使乘員不易受傷，效果隨技能等級而變化。"
@@ -100,6 +136,20 @@ msgstr ""
 "使後射機槍手能夠以較大的角度開火，技能對飛機的主武器沒有影響，效果隨技能等級"
 "而變化。"
 
+#, fuzzy
+msgid "SKILL_DESCRIPTION_MASTER_PLANE_BF_109E_3"
+msgstr ""
+"Increases <font color='#f2f2f2'>airspeed and damage</font> by <font "
+"color='#8dbb44'>10%</font>. Takes effect only on the <font "
+"color='#f2f2f2'>Bf 109 E-3</font>."
+
+#, fuzzy
+msgid "SKILL_DESCRIPTION_MASTER_PLANE_SPITFIRE_MK_IA"
+msgstr ""
+"Increases <font color='#f2f2f2'>maneuverability and damage</font> by <font "
+"color='#8dbb44'>10%</font>. Takes effect only on the <font "
+"color='#f2f2f2'>Spitfire Mk Ia</font>."
+
 msgid "SKILL_DESCRIPTION_MIDDLE_AGILITY"
 msgstr "提高乘員的生存能力使乘員不易受傷。"
 
@@ -145,6 +195,14 @@ msgstr ""
 "font>。提高當飛機機翼，尾翼，和機身的損壞嚴重<font color='#f2f2f2'>飛機可控性"
 "</font><font color='#8dbb44'>25％</font>。"
 
+#, fuzzy
+msgid "SKILL_DESCRIPTION_PILOT_BRIGHT_STAR"
+msgstr ""
+"Increases the <font color='#f2f2f2'>range at which enemy aircraft are "
+"detected</font> by <font color='#8dbb44'>40%</font> and the <font "
+"color='#f2f2f2'>range at which the aircraft is detected by enemy aircraft</"
+"font> by <font color='#d93d00'>10%</font>."
+
 msgid "SKILL_DESCRIPTION_PILOT_EQUIP_ARMOR"
 msgstr ""
 "增加<font color='#f2f2f2'>改進型蒙皮，強化型機體，附加裝甲板，隱蔽偽裝</font>"
@@ -155,10 +213,35 @@ msgstr ""
 "增加<font color='#f2f2f2'>機體拋光，光面蒙皮，輕量化機身，飛行操縱裝置，改進"
 "型襟翼</font>效果<font color='#8dbb44'>20%</font>。"
 
+#, fuzzy
+msgid "SKILL_DESCRIPTION_PILOT_EXPLOSIVE_CHARACTER"
+msgstr ""
+"Increases the <font color='#f2f2f2'>damage caused by bombs and rockets</"
+"font> and their <font color='#f2f2f2'>blast radius</font> by <font "
+"color='#8dbb44'>15%</font>. If the aircraft is destroyed by a collision with "
+"terrain or a ground target, the aircraft explodes and deals damage in the "
+"affected area equal to double the maximum number of hit points of this "
+"aircraft."
+
+#, fuzzy
+msgid "SKILL_DESCRIPTION_PILOT_FASTER_THAN_WIND"
+msgstr ""
+"Increases <font color='#f2f2f2'>engine thrust</font> by <font "
+"color='#8dbb44'>2%</font> and <font color='#f2f2f2'>boost duration</font> by "
+"<font color='#8dbb44'>10%</font>. Significantly improves aircraft "
+"acceleration and climb performance."
+
 msgid "SKILL_DESCRIPTION_PILOT_FIREDURATION"
 msgstr ""
 "減少<font color='#f2f2f2'>著火持續時間和傷害</font> <font "
 "color='#8dbb44'>10%</font>。"
+
+#, fuzzy
+msgid "SKILL_DESCRIPTION_PILOT_FTW_KNOWENGINE_II"
+msgstr ""
+"Increases <font color='#f2f2f2'>engine thrust and top speed</font> by <font "
+"color='#8dbb44'>2%</font>. The effect is cumulative with the effect of the "
+"skill <font color='#f2f2f2'>\"Eagle's Wings\"</font>."
 
 msgid "SKILL_DESCRIPTION_PILOT_KNOWENGINE_I"
 msgstr ""
@@ -202,6 +285,22 @@ msgstr ""
 "增加<font color='#f2f2f2'>敵機靠近</font>時，飛行員偵查範圍的<font "
 "color='#8dbb44'>20%</font>。"
 
+#, fuzzy
+msgid "SKILL_DESCRIPTION_PILOT_SKY_FURY"
+msgstr ""
+"In a head-on attack, the pilot fires at the most vulnerable sections of an "
+"enemy aircraft. Improves the <font color='#f2f2f2'>chance of causing "
+"critical damage to an enemy aircraft and setting it on fire</font>, and "
+"increases the <font color='#f2f2f2'>damage caused in a head-on attack</font> "
+"by <font color='#8dbb44'>20%</font>."
+
+#, fuzzy
+msgid "SKILL_DESCRIPTION_PILOT_SOME_LIKE_IT_HOT"
+msgstr ""
+"<font color='#f2f2f2'>Sets a ground target on fire</font> as a result of "
+"continuous shooting with forward-firing weapons and hitting unarmored "
+"sections of the ground target."
+
 msgid "SKILL_DESCRIPTION_PILOT_S_BLOODLUST"
 msgstr ""
 "減少<font color='#f2f2f2'>武器過熱</font><font color='#8dbb44'>25%</font>和擊"
@@ -236,6 +335,13 @@ msgid "SKILL_DESCRIPTION_PILOT_S_FIREMANUVER"
 msgstr ""
 "通過主動操控<font color='#f2f2f2'>自動滅火</font>，在任意軸保持一個較高的角度"
 "來進行滅火。"
+
+#, fuzzy
+msgid "SKILL_DESCRIPTION_PILOT_VALKYRIE"
+msgstr ""
+"Rockets and bombs released in a dive cause <font color='#f2f2f2'>double "
+"damage to ground targets</font>. Takes effect when the aircraft speed "
+"approaches maximum dive speed and pitch angle exceeds 45°."
 
 msgid "SKILL_DESCRIPTION_SHORT_AGILITY"
 msgstr "改善乘員生存能力 {skill_modifier}"
@@ -276,6 +382,16 @@ msgstr "後射機槍連發 {skill_modifier}"
 msgid "SKILL_DESCRIPTION_SHORT_WIDE_SHOOTER"
 msgstr "後射機槍射角 {skill_modifier}"
 
+#, fuzzy
+msgid "SKILL_DESCRIPTION_STEEP_PEAK"
+msgstr ""
+"Increases <font color='#f2f2f2'>damage</font> by <font color='#8dbb44'>10%</"
+"font> and the <font color='#f2f2f2'>chance of setting an enemy aircraft on "
+"fire and causing critical damage</font> by <font color='#8dbb44'>50%</font> "
+"when firing with forward-firing weapons in a diving attack. Takes effect "
+"when the aircraft speed approaches maximum dive speed and pitch angle "
+"exceeds 45°."
+
 msgid "SKILL_NAME_AGILITY"
 msgstr "堅韌"
 
@@ -315,8 +431,20 @@ msgstr "耐力驚人"
 msgid "SKILL_NAME_GUNNER_VOLLEY"
 msgstr "兵器製造者"
 
+#, fuzzy
+msgid "SKILL_NAME_LAST_DASH"
+msgstr "Final Dash"
+
 msgid "SKILL_NAME_LONG_SIGHT"
 msgstr "千里眼"
+
+#, fuzzy
+msgid "SKILL_NAME_MASTER_PLANE_BF_109E_3"
+msgstr "Bf 109 E-3 Master"
+
+#, fuzzy
+msgid "SKILL_NAME_MASTER_PLANE_SPITFIRE_MK_IA"
+msgstr "Spitfire Mk Ia Master"
 
 msgid "SKILL_NAME_MEMORY"
 msgstr "跟蹤"
@@ -324,14 +452,30 @@ msgstr "跟蹤"
 msgid "SKILL_NAME_PILOT_BATTLETRIED"
 msgstr "戰鬥測試"
 
+#, fuzzy
+msgid "SKILL_NAME_PILOT_BRIGHT_STAR"
+msgstr "Dazzling Star"
+
 msgid "SKILL_NAME_PILOT_EQUIP_ARMOR"
 msgstr "防護專家"
 
 msgid "SKILL_NAME_PILOT_EQUIP_FLIGHT"
 msgstr "動力學家"
 
+#, fuzzy
+msgid "SKILL_NAME_PILOT_EXPLOSIVE_CHARACTER"
+msgstr "Supernova"
+
+#, fuzzy
+msgid "SKILL_NAME_PILOT_FASTER_THAN_WIND"
+msgstr "Eagle's Wings"
+
 msgid "SKILL_NAME_PILOT_FIREDURATION"
 msgstr "抗火英雄"
+
+#, fuzzy
+msgid "SKILL_NAME_PILOT_FTW_KNOWENGINE_II"
+msgstr "Engine Guru II"
 
 msgid "SKILL_NAME_PILOT_KNOWENGINE_I"
 msgstr "引擎保養 I"
@@ -357,6 +501,14 @@ msgstr "爆破專家"
 msgid "SKILL_NAME_PILOT_SIGHTRANGE"
 msgstr "鷹眼"
 
+#, fuzzy
+msgid "SKILL_NAME_PILOT_SKY_FURY"
+msgstr "Celestial Fury"
+
+#, fuzzy
+msgid "SKILL_NAME_PILOT_SOME_LIKE_IT_HOT"
+msgstr "Femme Fatale"
+
 msgid "SKILL_NAME_PILOT_S_BLOODLUST"
 msgstr "腎上腺素"
 
@@ -375,11 +527,19 @@ msgstr "規避目標"
 msgid "SKILL_NAME_PILOT_S_FIREMANUVER"
 msgstr "救火隊員"
 
+#, fuzzy
+msgid "SKILL_NAME_PILOT_VALKYRIE"
+msgstr "Valkyrie's Wrath"
+
 msgid "SKILL_NAME_SHARP_SHOOTER"
 msgstr "神射手"
 
 msgid "SKILL_NAME_SNIPER"
 msgstr "百發百中"
+
+#, fuzzy
+msgid "SKILL_NAME_STEEP_PEAK"
+msgstr "Nosedive"
 
 msgid "SKILL_NAME_TUTOR"
 msgstr "導師"
@@ -392,137 +552,3 @@ msgstr "機械師"
 
 msgid "SKILL_NAME_WIDE_SHOOTER"
 msgstr "掃射力"
-
-#, fuzzy
-msgid "SKILL_DESCRIPTION_LAST_DASH"
-msgstr ""
-"<font color='#f2f2f2'>Repairs all critical damage</font>, heals all crew "
-"injuries, and increases <font color='#f2f2f2'>maneuverability</font> and "
-"<font color='#f2f2f2'>engine thrust</font> by <font color='#8dbb44'>10%</"
-"font> when the aircraft loses 50% of its hit points. The skill is activated "
-"automatically once per battle and remains effective until the end of the "
-"battle."
-
-#, fuzzy
-msgid "SKILL_DESCRIPTION_MASTER_PLANE_BF_109E_3"
-msgstr ""
-"Increases <font color='#f2f2f2'>airspeed and damage</font> by <font "
-"color='#8dbb44'>10%</font>. Takes effect only on the <font "
-"color='#f2f2f2'>Bf 109 E-3</font>."
-
-#, fuzzy
-msgid "SKILL_DESCRIPTION_MASTER_PLANE_SPITFIRE_MK_IA"
-msgstr ""
-"Increases <font color='#f2f2f2'>maneuverability and damage</font> by <font "
-"color='#8dbb44'>10%</font>. Takes effect only on the <font "
-"color='#f2f2f2'>Spitfire Mk Ia</font>."
-
-#, fuzzy
-msgid "SKILL_DESCRIPTION_PILOT_BRIGHT_STAR"
-msgstr ""
-"Increases the <font color='#f2f2f2'>range at which enemy aircraft are "
-"detected</font> by <font color='#8dbb44'>40%</font> and the <font "
-"color='#f2f2f2'>range at which the aircraft is detected by enemy aircraft</"
-"font> by <font color='#d93d00'>10%</font>."
-
-#, fuzzy
-msgid "SKILL_DESCRIPTION_PILOT_EXPLOSIVE_CHARACTER"
-msgstr ""
-"Increases the <font color='#f2f2f2'>damage caused by bombs and rockets</"
-"font> and their <font color='#f2f2f2'>blast radius</font> by <font "
-"color='#8dbb44'>15%</font>. If the aircraft is destroyed by a collision with "
-"terrain or a ground target, the aircraft explodes and deals damage in the "
-"affected area equal to double the maximum number of hit points of this "
-"aircraft."
-
-#, fuzzy
-msgid "SKILL_DESCRIPTION_PILOT_FASTER_THAN_WIND"
-msgstr ""
-"Increases <font color='#f2f2f2'>engine thrust</font> by <font "
-"color='#8dbb44'>2%</font> and <font color='#f2f2f2'>boost duration</font> by "
-"<font color='#8dbb44'>10%</font>. Significantly improves aircraft "
-"acceleration and climb performance."
-
-#, fuzzy
-msgid "SKILL_DESCRIPTION_PILOT_FTW_KNOWENGINE_II"
-msgstr ""
-"Increases <font color='#f2f2f2'>engine thrust and top speed</font> by <font "
-"color='#8dbb44'>2%</font>. The effect is cumulative with the effect of the "
-"skill <font color='#f2f2f2'>\"Eagle's Wings\"</font>."
-
-#, fuzzy
-msgid "SKILL_DESCRIPTION_PILOT_SKY_FURY"
-msgstr ""
-"In a head-on attack, the pilot fires at the most vulnerable sections of an "
-"enemy aircraft. Improves the <font color='#f2f2f2'>chance of causing "
-"critical damage to an enemy aircraft and setting it on fire</font>, and "
-"increases the <font color='#f2f2f2'>damage caused in a head-on attack</font> "
-"by <font color='#8dbb44'>20%</font>."
-
-#, fuzzy
-msgid "SKILL_DESCRIPTION_PILOT_SOME_LIKE_IT_HOT"
-msgstr ""
-"<font color='#f2f2f2'>Sets a ground target on fire</font> as a result of "
-"continuous shooting with forward-firing weapons and hitting unarmored "
-"sections of the ground target."
-
-#, fuzzy
-msgid "SKILL_DESCRIPTION_PILOT_VALKYRIE"
-msgstr ""
-"Rockets and bombs released in a dive cause <font color='#f2f2f2'>double "
-"damage to ground targets</font>. Takes effect when the aircraft speed "
-"approaches maximum dive speed and pitch angle exceeds 45°."
-
-#, fuzzy
-msgid "SKILL_DESCRIPTION_STEEP_PEAK"
-msgstr ""
-"Increases <font color='#f2f2f2'>damage</font> by <font color='#8dbb44'>10%</"
-"font> and the <font color='#f2f2f2'>chance of setting an enemy aircraft on "
-"fire and causing critical damage</font> by <font color='#8dbb44'>50%</font> "
-"when firing with forward-firing weapons in a diving attack. Takes effect "
-"when the aircraft speed approaches maximum dive speed and pitch angle "
-"exceeds 45°."
-
-#, fuzzy
-msgid "SKILL_NAME_LAST_DASH"
-msgstr "Final Dash"
-
-#, fuzzy
-msgid "SKILL_NAME_MASTER_PLANE_BF_109E_3"
-msgstr "Bf 109 E-3 Master"
-
-#, fuzzy
-msgid "SKILL_NAME_MASTER_PLANE_SPITFIRE_MK_IA"
-msgstr "Spitfire Mk Ia Master"
-
-#, fuzzy
-msgid "SKILL_NAME_PILOT_BRIGHT_STAR"
-msgstr "Dazzling Star"
-
-#, fuzzy
-msgid "SKILL_NAME_PILOT_EXPLOSIVE_CHARACTER"
-msgstr "Supernova"
-
-#, fuzzy
-msgid "SKILL_NAME_PILOT_FASTER_THAN_WIND"
-msgstr "Eagle's Wings"
-
-#, fuzzy
-msgid "SKILL_NAME_PILOT_FTW_KNOWENGINE_II"
-msgstr "Engine Guru II"
-
-#, fuzzy
-msgid "SKILL_NAME_PILOT_SKY_FURY"
-msgstr "Celestial Fury"
-
-#, fuzzy
-msgid "SKILL_NAME_PILOT_SOME_LIKE_IT_HOT"
-msgstr "Femme Fatale"
-
-#, fuzzy
-msgid "SKILL_NAME_PILOT_VALKYRIE"
-msgstr "Valkyrie's Wrath"
-
-#, fuzzy
-msgid "SKILL_NAME_STEEP_PEAK"
-msgstr "Nosedive"

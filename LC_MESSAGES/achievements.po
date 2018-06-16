@@ -810,6 +810,13 @@ msgstr ""
 "in a single battle."
 
 #, fuzzy
+msgid "MEDAL_DESCRIPTION_ELITE_PLANE"
+msgstr ""
+"Awarded for acquiring <font color='#f2f2f2'>Elite status</font> for any "
+"aircraft.<br><font size='6'><br></font>Available once for each aircraft that "
+"acquires <font color='#f2f2f2'>Elite status</font>."
+
+#, fuzzy
 msgid "MEDAL_DESCRIPTION_END_OF_SPEAR"
 msgstr ""
 "Awarded to members of a Flight that earned at least <font "
@@ -1519,6 +1526,13 @@ msgid "MEDAL_DESCRIPTION_NIMBLE"
 msgstr "授予利用機動動作造成敵機墜毀的玩家<br><br>只可在標準戰鬥中獲得"
 
 #, fuzzy
+msgid "MEDAL_DESCRIPTION_NOOB_PLANE"
+msgstr ""
+"Awarded for receiving an aircraft in Stock configuration.<br><font "
+"size='6'><br></font>Available once for each aircraft that reaches Stock "
+"configuration."
+
+#, fuzzy
 msgid "MEDAL_DESCRIPTION_NORMALWEIGHT"
 msgstr ""
 "Awarded once for <font color='#f2f2f2'>destroying {0} multirole fighters</"
@@ -1831,6 +1845,14 @@ msgstr ""
 
 msgid "MEDAL_DESCRIPTION_SMOKING_BARRELS"
 msgstr "授予使用完全冷卻狀態的武器進行射擊直至過熱的玩家<br><br>只可獲得一次"
+
+#, fuzzy
+msgid "MEDAL_DESCRIPTION_SPECIALIST_PLANE"
+msgstr ""
+"Awarded for receiving an aircraft in the <font color='#f2f2f2'>\"Specialist"
+"\" configuration</font>.<br><font size='6'><br></font>Available once for "
+"each aircraft that reaches the <font color='#f2f2f2'>\"Specialist\" "
+"configuration</font>."
 
 msgid "MEDAL_DESCRIPTION_SPECIAL_AWARD"
 msgstr "授予在官方所舉行的《戰機世界》比賽中表現出色的玩家"
@@ -3029,6 +3051,10 @@ msgid "MEDAL_NAME_EFFECTIVE"
 msgstr "Effective Fire"
 
 #, fuzzy
+msgid "MEDAL_NAME_ELITE_PLANE"
+msgstr "Elite Pilot"
+
+#, fuzzy
 msgid "MEDAL_NAME_END_OF_SPEAR"
 msgstr "Tip of the Spear"
 
@@ -3521,6 +3547,10 @@ msgid "MEDAL_NAME_NIMBLE"
 msgstr "技巧大師"
 
 #, fuzzy
+msgid "MEDAL_NAME_NOOB_PLANE"
+msgstr "Test Pilot"
+
+#, fuzzy
 msgid "MEDAL_NAME_NORMALWEIGHT"
 msgstr "Middleweight"
 
@@ -3747,6 +3777,10 @@ msgstr "Air Wolves"
 
 msgid "MEDAL_NAME_SMOKING_BARRELS"
 msgstr "彈雨"
+
+#, fuzzy
+msgid "MEDAL_NAME_SPECIALIST_PLANE"
+msgstr "Specialist"
 
 msgid "MEDAL_NAME_SPECIAL_AWARD"
 msgstr "傑出隊員"

@@ -710,6 +710,16 @@ msgstr "消耗品2"
 msgid "KEYMAPPING/CMD_USE_EQUIPMENT_3"
 msgstr "消耗品3"
 
+#, fuzzy
+#| msgid "KEYMAPPING/CMD_USE_EQUIPMENT_1"
+msgid "KEYMAPPING/CMD_USE_EQUIPMENT_4"
+msgstr "Consumable 4"
+
+#, fuzzy
+#| msgid "KEYMAPPING/CMD_USE_EQUIPMENT_1"
+msgid "KEYMAPPING/CMD_USE_EQUIPMENT_5"
+msgstr "Consumable 5"
+
 msgid "KEYMAPPING/CMD_WEAPON_GROUP_1"
 msgstr "機槍射擊"
 
@@ -976,6 +986,11 @@ msgstr "節日背景"
 
 msgid "SETTINGS_BACKGROUND_OPTION_HANGAR"
 msgstr "機庫"
+
+#, fuzzy
+#| msgid "SETTINGS_BACKGROUND_OPTION_HANGAR"
+msgid "SETTINGS_BACKGROUND_OPTION_HANGAR_FACTORY"
+msgstr "Factory"
 
 msgid "SETTINGS_BASIC"
 msgstr "基本控制"

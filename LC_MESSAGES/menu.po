@@ -3,13 +3,13 @@ msgstr ""
 "Project-Id-Version: World Of Tanks\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2010-06-01 10:00+0300\n"
+"PO-Revision-Date: \n"
 "Last-Translator: kevinlin18 <https://github.com/kevinlin18/WoWP_zh_tw>\n"
 "Language-Team: WoT Team <noreply@wargaming.net>\n"
+"Language: zh_TW\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"PO-Revision-Date: \n"
-"Language: zh_TW\n"
 "X-Generator: Poedit 2.0.5\n"
 
 msgid "DIALOG_QUEUE_AVG_TIME"
@@ -120,6 +120,19 @@ msgstr "伺服器不可用.原因： ％s"
 msgid "LOGIN/STATUS/LOGIN_MALFORMED_REQUEST"
 msgstr "登入資料包傳送到伺服器的格式不正確。客戶端可能會過時或損壞。"
 
+#, fuzzy
+#| msgid "LOGIN/STATUS/LOGIN_REJECTED_AUTHORIZING_ERROR"
+msgid "LOGIN/STATUS/LOGIN_REJECTED_ACCOUNT_IN_DEL_PROCESS"
+msgstr "account deletion was requested."
+
+#, fuzzy
+#| msgid "LOGIN/STATUS/LOGIN_REJECTED_AUTHORIZING_ERROR"
+msgid "LOGIN/STATUS/LOGIN_REJECTED_ACCOUNT_IN_DEL_PROCESS_DESCRIPTION"
+msgstr ""
+"When deleting the account, it is suspended for 45 days. After that, all of "
+"the player's data in all Wargaming.net games will be completely deleted from "
+"the server."
+
 msgid "LOGIN/STATUS/LOGIN_REJECTED_ACTIVATING"
 msgstr "登入中……"
 
@@ -167,6 +180,15 @@ msgstr "帳號或密碼不正確"
 
 msgid "LOGIN/STATUS/LOGIN_REJECTED_INVALID_PASSWORD"
 msgstr "帳號或密碼不正確"
+
+#, fuzzy
+#| msgid "LOGIN/STATUS/LOGIN_REJECTED_NO_BASEAPP_RESPONSE"
+msgid ""
+"LOGIN/STATUS/"
+"LOGIN_REJECTED_IN_ORDER_TO_CANCEL_ACC_DEL_SEND_TICKET_TO_CONTACT_SUPPORT"
+msgstr ""
+"If you want to cancel the account deletion, send a request to {link_start}"
+"Player Support.{link_end}"
 
 msgid "LOGIN/STATUS/LOGIN_REJECTED_LOGINS_NOT_ALLOWED"
 msgstr "由於例行維護伺服器暫時無法使用"
@@ -256,6 +278,15 @@ msgstr "法律資訊"
 msgid "LOGIN_LOGIN"
 msgstr "電子信箱："
 
+msgid "LOGIN_MESSAGES_DOWNLOAD_AND_UPDATE"
+msgstr "如果未開始更新，請從 {link_start}link{link_end} 下載更新檔並執行。"
+
+msgid "LOGIN_MESSAGES_NEW_UPDATE"
+msgstr "遊戲客戶端已有新版本。"
+
+msgid "LOGIN_MESSAGES_START_UPDATE"
+msgstr "開始更新"
+
 msgid "LOGIN_NICK"
 msgstr "帳號："
 
@@ -286,11 +317,202 @@ msgstr "排隊進入遊戲:"
 msgid "LOGIN_REJECTED_RATE_LIMITED"
 msgstr "伺服器忙碌中，等待伺服器連線"
 
+#, fuzzy
+#| msgid "LOGIN/STATUS/LOGIN_REJECTED_SERVER_NOT_READY"
+msgid "LOGIN_REJECTED_SERVER_NOT_READY"
+msgstr ""
+"Failed to connect to the server.\n"
+"The server may be unavailable, or your network connection settings may be "
+"incorrect."
+
 msgid "LOGIN_SERVER"
 msgstr "伺服器："
 
 msgid "LOGIN_SIGN_UP_TEXT"
 msgstr "註冊"
+
+#, fuzzy
+msgid "MENU_CANT_CREATE_ACCOUNT_NAME_TAKEN"
+msgstr ""
+"A player with this name is already registered in the game. Try a different "
+"name."
+
+msgid "MENU_CHANGE_BUTTON"
+msgstr "更改"
+
+msgid "MENU_CHANGE_LANGUAGE"
+msgstr "更改語言"
+
+#, fuzzy
+msgid "MENU_CHANGE_LANGUAGE_DESCRIPTION"
+msgstr "Changes will be applied after you restart the game."
+
+msgid "MENU_CHANGE_REALM"
+msgstr "更改伺服器"
+
+#, fuzzy
+msgid "MENU_CHANGE_REALM_DESCRIPTION"
+msgstr ""
+"Attention! After you change the server, you will switch to another account. "
+"Your in-game assets, including Free Experience, do not synchronize between "
+"different servers: you have different in-game assets and progress on "
+"different servers."
+
+msgid "MENU_LANGUAGE"
+msgstr "語言:"
+
+#, fuzzy
+msgid "MENU_LANGUAGE_BG"
+msgstr "Български"
+
+#, fuzzy
+msgid "MENU_LANGUAGE_CS"
+msgstr "Čeština"
+
+#, fuzzy
+msgid "MENU_LANGUAGE_DA"
+msgstr "Dansk"
+
+#, fuzzy
+msgid "MENU_LANGUAGE_DE"
+msgstr "Deutsch"
+
+#, fuzzy
+msgid "MENU_LANGUAGE_EL"
+msgstr "Ελληνικά"
+
+#, fuzzy
+msgid "MENU_LANGUAGE_EN"
+msgstr "English"
+
+#, fuzzy
+msgid "MENU_LANGUAGE_ES"
+msgstr "Español"
+
+#, fuzzy
+msgid "MENU_LANGUAGE_ES_AR"
+msgstr "Español (Argentina)"
+
+#, fuzzy
+msgid "MENU_LANGUAGE_ET"
+msgstr "Eesti"
+
+#, fuzzy
+msgid "MENU_LANGUAGE_FI"
+msgstr "Suomi"
+
+#, fuzzy
+msgid "MENU_LANGUAGE_FR"
+msgstr "Français"
+
+#, fuzzy
+msgid "MENU_LANGUAGE_HR"
+msgstr "Hrvatski"
+
+#, fuzzy
+msgid "MENU_LANGUAGE_HU"
+msgstr "Magyar"
+
+#, fuzzy
+msgid "MENU_LANGUAGE_IT"
+msgstr "Italiano"
+
+#, fuzzy
+msgid "MENU_LANGUAGE_LT"
+msgstr "Lietuvių"
+
+#, fuzzy
+msgid "MENU_LANGUAGE_LV"
+msgstr "Latviešu"
+
+#, fuzzy
+msgid "MENU_LANGUAGE_NL"
+msgstr "Nederlands"
+
+#, fuzzy
+msgid "MENU_LANGUAGE_NO"
+msgstr "Norsk"
+
+#, fuzzy
+msgid "MENU_LANGUAGE_PL"
+msgstr "Polski"
+
+#, fuzzy
+msgid "MENU_LANGUAGE_PT"
+msgstr "Português (EU)"
+
+#, fuzzy
+msgid "MENU_LANGUAGE_PT_BR"
+msgstr "Português (BR)"
+
+#, fuzzy
+msgid "MENU_LANGUAGE_RO"
+msgstr "Română"
+
+#, fuzzy
+msgid "MENU_LANGUAGE_RU"
+msgstr "Русский"
+
+#, fuzzy
+msgid "MENU_LANGUAGE_SR"
+msgstr "Srpski"
+
+#, fuzzy
+msgid "MENU_LANGUAGE_SV"
+msgstr "Svenska"
+
+#, fuzzy
+msgid "MENU_LANGUAGE_TR"
+msgstr "Türkçe"
+
+#, fuzzy
+msgid "MENU_LANGUAGE_ZH_CN"
+msgstr "简体中文（中华人民共和国）"
+
+#, fuzzy
+msgid "MENU_NICKNAME_IN_GAME"
+msgstr "In-game name:"
+
+#, fuzzy
+msgid "MENU_NICKNAME_MAY_CONTAIN"
+msgstr "Only letters, numerals, and the underscore (_) character are valid."
+
+msgid "MENU_REALM_CN"
+msgstr "亞洲"
+
+msgid "MENU_REALM_EU"
+msgstr "歐洲"
+
+msgid "MENU_REALM_NA"
+msgstr "北美"
+
+msgid "MENU_REALM_RU"
+msgstr "獨立國協"
+
+msgid "MENU_REPLAY_PLAY"
+msgstr "播放"
+
+#, fuzzy
+msgid "MENU_REPLAY_VER_DIFF_ATTENTION"
+msgstr ""
+"The current version of World of Warplanes is not compatible with the battle "
+"recording. This may cause problems in the replay.<br><font size='6'><br></"
+"font>Ignore the difference and replay anyway?"
+
+#, fuzzy
+msgid "MENU_UNLINKED"
+msgstr "Account unlinked"
+
+#, fuzzy
+msgid "MENU_UNLINK_YOUR_CURRENT_ACCOUNT_TO_BE_ABLE_TO_CREATE_A_NEW_ONE"
+msgstr ""
+"To start playing, unlink your Steam account from your Wargaming.net account."
+"<br>This will not affect the in-game statistics or assets of your Wargaming."
+"net account."
+
+#, fuzzy
+msgid "MENU_UNLINK_YOUR_WG_ACCOUNT"
+msgstr "UNLINK"
 
 msgid "NICK_FIELD"
 msgstr "帳號："
@@ -316,6 +538,12 @@ msgstr "伺服器不可用"
 msgid "SERVER_UNAVAILABLE_MESSAGE"
 msgstr "暫時無法切換伺服器，你可選擇繼續使用目前伺服器或等待切換功能可用"
 
+#, fuzzy
+msgid "SUSPENDED"
+msgstr ""
+"The account is going to be deleted. You can cancel the delete request on "
+"your Account Management page."
+
 msgid "TOOLTIP_LOGIN_EXIT_ACCOUNT"
 msgstr "清除登入資訊"
 
@@ -336,12 +564,3 @@ msgstr "等待"
 
 msgid "WARGAMING_COPYRIGHT"
 msgstr "© 2011-2018 Wargaming.net. 保留所有權利。"
-
-msgid "LOGIN_MESSAGES_DOWNLOAD_AND_UPDATE"
-msgstr "如果未開始更新，請從 {link_start}link{link_end} 下載更新檔並執行。"
-
-msgid "LOGIN_MESSAGES_NEW_UPDATE"
-msgstr "遊戲客戶端已有新版本。"
-
-msgid "LOGIN_MESSAGES_START_UPDATE"
-msgstr "開始更新"

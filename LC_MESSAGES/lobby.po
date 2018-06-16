@@ -27,6 +27,44 @@ msgstr "服役紀錄"
 msgid "ALL_LEVELS"
 msgstr "所有等級"
 
+#, fuzzy
+#| msgid "HANGAR_PREMIUM_AIRCRAFT"
+msgid "AMMOPACK_PREMIUM_CRIT"
+msgstr "Fragmentation Ammunition"
+
+#, fuzzy
+msgid "AMMOPACK_PREMIUM_DAMAGE"
+msgstr "Heavy Warhead"
+
+#, fuzzy
+msgid "AMMOPACK_PREMIUM_FIRE"
+msgstr "Incendiary Ammunition"
+
+#, fuzzy
+msgid "AMMOPACK_PREMIUM_GROUND"
+msgstr "High-Explosive Armor-Piercing Ammunition"
+
+#, fuzzy
+msgid "AMMOPACK_PREMIUM_GUNNER"
+msgstr "Special Ammunition for Turret Gun"
+
+#, fuzzy
+msgid "AMMOPACK_PREMIUM_RADIUS"
+msgstr "Improved Explosives"
+
+#, fuzzy
+#| msgid "MARKET_BOMB_AND_ROCKETS"
+msgid "AMMOPACK_REGULAR_BOMB-ROCKETS"
+msgstr "Improved Fragmentation"
+
+#, fuzzy
+msgid "AMMOPACK_REGULAR_GUNNER"
+msgstr "Universal Ammunition for Turret Gun"
+
+#, fuzzy
+msgid "AMMOPACK_REGULAR_GUNS"
+msgstr "Universal Ammunition"
+
 msgid "AMMO_HEADER_TEXT"
 msgstr "補給彈藥"
 
@@ -551,6 +589,112 @@ msgstr "已安裝"
 
 msgid "CONFIGURATION_UNAVAILABLE"
 msgstr "需研發"
+
+#, fuzzy
+#| msgid "LOBBY_CONSUMABLES_NAME_ADRENALIN"
+msgid "CONSUMABLE_ADRENALIN_PREMIUM"
+msgstr "Backup Pneumatic Control Assist"
+
+#, fuzzy
+#| msgid "LOBBY_CONSUMABLES_NAME_ADRENALIN"
+msgid "CONSUMABLE_ADRENALIN_REGULAR"
+msgstr "Pneumatic Control Assist"
+
+#, fuzzy
+#| msgid "LOBBY_CONSUMABLES_NAME_AIR-RESTARTER"
+msgid "CONSUMABLE_AIRRESTARTER_PREMIUM"
+msgstr "Emergency Engine Restart System"
+
+#, fuzzy
+#| msgid "LOBBY_CONSUMABLES_NAME_AIR-RESTARTER"
+msgid "CONSUMABLE_AIRRESTARTER_REGULAR"
+msgstr "Bottle for Manual Engine Restart"
+
+#, fuzzy
+#| msgid "LOBBY_CONSUMABLES_NAME_FIRE_WORK"
+msgid "CONSUMABLE_ANTIFIRE_PREMIUM"
+msgstr "CO2 Inerting System"
+
+#, fuzzy
+#| msgid "LOBBY_CONSUMABLES_NAME_FIRE_WORK"
+msgid "CONSUMABLE_ANTIFIRE_REGULAR"
+msgstr "Exhaust Bleed Inerting System"
+
+#, fuzzy
+#| msgid "LOBBY_CONSUMABLES_NAME_BOND_PACK"
+msgid "CONSUMABLE_BONDPACK_PREMIUM"
+msgstr "Emergency Medical Kit"
+
+#, fuzzy
+#| msgid "LOBBY_CONSUMABLES_NAME_BOND_PACK"
+msgid "CONSUMABLE_BONDPACK_REGULAR"
+msgstr "First Aid Dressing Package"
+
+#, fuzzy
+#| msgid "LOBBY_CONSUMABLES_NAME_COLOR_PLUMES"
+msgid "CONSUMABLE_COLOR_PLUMES"
+msgstr "Smoke Flare"
+
+#, fuzzy
+msgid "CONSUMABLE_CREDITSBOOST_TOKEN"
+msgstr "Gun Camera Film"
+
+#, fuzzy
+#| msgid "LOBBY_CONSUMABLES_NAME_ENGINE_HEATSINK"
+msgid "CONSUMABLE_ENGINEHEATSINK_PREMIUM"
+msgstr "Emergency Engine Cooling"
+
+#, fuzzy
+#| msgid "LOBBY_CONSUMABLES_NAME_ENGINE_HEATSINK"
+msgid "CONSUMABLE_ENGINEHEATSINK_REGULAR"
+msgstr "Engine Cooling"
+
+#, fuzzy
+#| msgid "LOBBY_CONSUMABLES_NAME_EXTINGUISHER"
+msgid "CONSUMABLE_EXTINGUISHER_PREMIUM"
+msgstr "Fire Extinguishing System"
+
+#, fuzzy
+#| msgid "LOBBY_CONSUMABLES_NAME_EXTINGUISHER"
+msgid "CONSUMABLE_EXTINGUISHER_REGULAR"
+msgstr "Fire Extinguisher"
+
+#, fuzzy
+#| msgid "LOBBY_CONSUMABLES_NAME_FIRE_WORK"
+msgid "CONSUMABLE_FIRE_WORK"
+msgstr "Fireworks"
+
+#, fuzzy
+#| msgid "LOBBY_CONSUMABLES_NAME_FIX_TAIL_AND_WINGS"
+msgid "CONSUMABLE_FIX_TAIL_AND_WINGS_PREMIUM"
+msgstr "Secondary Control System"
+
+#, fuzzy
+#| msgid "LOBBY_CONSUMABLES_NAME_FIX_TAIL_AND_WINGS"
+msgid "CONSUMABLE_FIX_TAIL_AND_WINGS_REGULAR"
+msgstr "Emergency Control System"
+
+#, fuzzy
+msgid "CONSUMABLE_HIOCTANEERA3_PREMIUM"
+msgstr "Anti-Oxidizing Additive"
+
+#, fuzzy
+msgid "CONSUMABLE_HIOCTANE_PREMIUM"
+msgstr "High-Octane Additive"
+
+#, fuzzy
+msgid "CONSUMABLE_HIOCTANE_REGULAR"
+msgstr "Improved Mixture Control"
+
+#, fuzzy
+#| msgid "LOBBY_CONSUMABLES_NAME_SPARKLERS"
+msgid "CONSUMABLE_SPARKLERS"
+msgstr "Sparklers"
+
+#, fuzzy
+#| msgid "LOBBY_CONSUMABLES_NAME_WEP_BOOSTER"
+msgid "CONSUMABLE_XPBOOST_TOKEN"
+msgstr "Cine Gun Camera Film"
 
 msgid "CONTEXT_HEADER_PRICE"
 msgstr "價格"
@@ -1420,8 +1564,36 @@ msgstr "New aircraft type,<br>stunning striking power"
 
 #, fuzzy
 #| msgid "LOBBY_CAMO_CONDITION_AWARDS"
+msgid "LOBBY_ADDITIONAL_BONUS_STATS"
+msgstr "Additional bonus characteristics:"
+
+#, fuzzy
+#| msgid "LOBBY_CAMO_CONDITION_AWARDS"
+msgid "LOBBY_ADDITIONAL_REWARD"
+msgstr "Additional award:"
+
+#, fuzzy
+#| msgid "LOBBY_CAMO_CONDITION_AWARDS"
 msgid "LOBBY_ADDITIONAL_REWARDS"
 msgstr "Additional Prizes"
+
+#, fuzzy
+msgid "LOBBY_AFTER"
+msgstr "After:"
+
+#, fuzzy
+msgid "LOBBY_AFTER_BATTLE_ONLY_WINNERS_COLLECTS_CRAFT_MATERIALS"
+msgstr ""
+"After winning a battle, a salvage party of winners collects all the valuable "
+"Materials from the battlefield<br>that were received for destroying aerial "
+"and ground targets.<br><font size='6'><br></font>The number of Materials "
+"depends on the battle Tier and a player's personal performance."
+
+#, fuzzy
+msgid "LOBBY_AFTER_BATTLE_YOU_CAN_GET_SOME_CRAFT_MATERIALS"
+msgstr ""
+"All players will receive a certain number of Materials depending on their "
+"performance in battle and the battle Tier."
 
 #, fuzzy
 msgid "LOBBY_AFTER_EVENT_PLANE_WILL_BE_AVAILABLE_IN_TREE"
@@ -1839,6 +2011,18 @@ msgstr "Event in honor of the third anniversary of World of Warplanes"
 #, fuzzy
 msgid "LOBBY_AUTUMN_2016_HEADER_3"
 msgstr "Three Years Airborne!"
+
+#, fuzzy
+msgid "LOBBY_AVAILABLE_IN_ANOTHER_STATE"
+msgstr "In another configuration:"
+
+#, fuzzy
+msgid "LOBBY_AVAILABLE_IN_WAREHOUSE"
+msgstr "In Depot:"
+
+#, fuzzy
+msgid "LOBBY_AVAILABLE_ON_ANOTHER_PLANE"
+msgstr "On another aircraft:"
 
 msgid "LOBBY_BACKGROUND_CHOICE_MESSAGE"
 msgstr ""
@@ -2288,6 +2472,11 @@ msgstr "\"{quest_name}\" 任務進度"
 msgid "LOBBY_BATTLE_SINGLE_FLIGHT_DESCRIPTION_ALBION_EVENT"
 msgstr "A combat flight with random players within the Skies of Albion event"
 
+#, fuzzy
+#| msgid "LOBBY_BONUSES"
+msgid "LOBBY_BEFORE"
+msgstr "Before:"
+
 msgid "LOBBY_BELT_COMPENSATION_MESSAGE"
 msgstr "對於高階彈藥回收的補償:"
 
@@ -2503,6 +2692,10 @@ msgstr "Become a bomber pilot today!"
 msgid "LOBBY_BOMBER_TEXT_2"
 msgstr "The first bombers in the game are now available in exchange for gold."
 
+#, fuzzy
+msgid "LOBBY_BOMB_PURE_DPS"
+msgstr "Cumulative Damage"
+
 msgid "LOBBY_BONUSES"
 msgstr "獎勵"
 
@@ -2557,6 +2750,21 @@ msgstr "無效的獎勵代碼<br>請檢查您所輸入的內容是否正確後�
 #, fuzzy
 msgid "LOBBY_BONUS_GOLD"
 msgstr "Gold bonus:"
+
+#, fuzzy
+#| msgid "LOBBY_BONUSES_FREE_EXP"
+msgid "LOBBY_BONUS_STATS_AFTER_REROLL"
+msgstr "Bonus characteristics after reassembling:"
+
+#, fuzzy
+#| msgid "LOBBY_BONUSES_FREE_EXP"
+msgid "LOBBY_BONUS_STATS_BEFORE_REROLL"
+msgstr "Bonus characteristics before reassembling:"
+
+#, fuzzy
+#| msgid "LOBBY_RADIOSTATION"
+msgid "LOBBY_BOOST_DURATION"
+msgstr "Boost Duration"
 
 #, fuzzy
 msgid "LOBBY_BRAKING_SYSTEM"
@@ -2623,6 +2831,11 @@ msgstr "詳情"
 #, fuzzy
 msgid "LOBBY_BUTTON_DISCONNECTING"
 msgstr "Disconnect"
+
+#, fuzzy
+#| msgid "LOBBY_CREW_BUTTON_DISMOUNT"
+msgid "LOBBY_BUTTON_DISMANTLE"
+msgstr "Disassemble"
 
 msgid "LOBBY_BUTTON_EVENTS"
 msgstr "活動"
@@ -2691,6 +2904,16 @@ msgstr "顯示"
 msgid "LOBBY_BUY_ALL_PARTS"
 msgstr "Get All Parts"
 
+#, fuzzy
+#| msgid "LOBBY_EQUIPMENT_COMPENSATION_MESSAGE"
+msgid "LOBBY_BUY_EQUIPMENT_CONFIRMATION_TEXT"
+msgstr "Purchase equipment \"{name}\" using {total_cost}?"
+
+#, fuzzy
+#| msgid "LOBBY_TUTORIAL_QUEST_HEADER"
+msgid "LOBBY_BUY_EQUIPMENT_HEADER"
+msgstr "Purchase Equipment"
+
 msgid "LOBBY_BUY_MISSION"
 msgstr "購買"
 
@@ -2699,6 +2922,35 @@ msgstr "在訓練房中無法使用"
 
 msgid "LOBBY_BUY_PLANE_WING_NOT_AVAILABLE"
 msgstr "在組隊時無法播放"
+
+#, fuzzy
+#| msgid "LOBBY_OK_BUTTON"
+msgid "LOBBY_CALIBRATE_BUTTON"
+msgstr "Calibrate"
+
+#, fuzzy
+#| msgid "LOBBY_MAINTENANCE_PAGE_HEADER"
+msgid "LOBBY_CALIBRATE_CANCEL_HEADER"
+msgstr "Cancel Calibration"
+
+#, fuzzy
+#| msgid "LOBBY_PLANE_COMPENSATION_MESSAGE"
+msgid "LOBBY_CALIBRATE_CANCEL_WARNING_MESSAGE"
+msgstr ""
+"Warning!<br><font size='6'><br></font>If you cancel calibration, the "
+"equipment characteristics will be restored to their previous values, but the "
+"resources you spent will not be compensated.<br><font size='6'><br></"
+"font>Cancel calibration?"
+
+#, fuzzy
+#| msgid "LOBBY_CREW_COST_FREE"
+msgid "LOBBY_CALIBRATE_COST"
+msgstr "Calibration Price:"
+
+#, fuzzy
+#| msgid "LOBBY_FILTER_HEADER"
+msgid "LOBBY_CALIBRATE_HEADER"
+msgstr "Calibrate Equipment"
 
 msgid "LOBBY_CAMOUFLAGE_LABEL_UNDER_CONSTRUCTION"
 msgstr "正在開發中"
@@ -3085,6 +3337,11 @@ msgstr "TO MISSIONS"
 msgid "LOBBY_CAPS_BUTTON_RECEIVE"
 msgstr "RECEIVE"
 
+#, fuzzy
+#| msgid "LOBBY_CANNOT_SELL_PLANE"
+msgid "LOBBY_CAROUSEL_FILTER_SPECIAL_PLANE"
+msgstr "In \"Specialist\" configuration"
+
 msgid "LOBBY_CAROUSEL_INCOMPLETE_CREW"
 msgstr "缺少乘員!"
 
@@ -3116,8 +3373,32 @@ msgstr ""
 msgid "LOBBY_CATCH_NORTHERN_STAR_HEADER"
 msgstr "Wish Upon a Shooting Star!"
 
+#, fuzzy
+#| msgid "LOBBY_CREW_LABEL_AFTER_AIRCRAFT_CHANGE"
+msgid "LOBBY_CHANGES_AFTER_CALIBRATE"
+msgstr "Effect after calibration:"
+
+#, fuzzy
+msgid "LOBBY_CHANGES_AFTER_UPGRADE"
+msgstr "Effect after enhancement:"
+
+#, fuzzy
+#| msgid "LOBBY_CHARACTERISTICS_ROLL_SPD"
+msgid "LOBBY_CHARACTERISTICS_AND_FIRE_RANGE"
+msgstr "Modules and firing range"
+
 msgid "LOBBY_CHARACTERISTICS_CONTROLLABILITY"
 msgstr "操控性"
+
+#, fuzzy
+#| msgid "LOBBY_CHARACTERISTICS_ROLL_SPD"
+msgid "LOBBY_CHARACTERISTICS_EFFECTS"
+msgstr "Effects:"
+
+#, fuzzy
+#| msgid "LOBBY_CHARACTERISTICS_CONTROLLABILITY"
+msgid "LOBBY_CHARACTERISTICS_EFFECTS_WITHOUT_COLON"
+msgstr "Effects"
 
 msgid "LOBBY_CHARACTERISTICS_ROLL_SPD"
 msgstr "滾轉率"
@@ -3154,9 +3435,33 @@ msgid "LOBBY_CHOOSE_BUTTON_ON_ACTION_MESSAGES"
 msgstr "Assign a key for the action \"{action}\""
 
 #, fuzzy
+#| msgid "LOBBY_CONTEXT_EQUIPMENT"
+msgid "LOBBY_CHOOSE_EQUIPMENT_ERA-1"
+msgstr "Select equipment category (period I)"
+
+#, fuzzy
+#| msgid "LOBBY_CONTEXT_EQUIPMENT"
+msgid "LOBBY_CHOOSE_EQUIPMENT_ERA-2"
+msgstr "Select equipment category (period II)"
+
+#, fuzzy
+#| msgid "LOBBY_CONTEXT_EQUIPMENT"
+msgid "LOBBY_CHOOSE_EQUIPMENT_ERA-3"
+msgstr "Select equipment category (period III)"
+
+#, fuzzy
 #| msgid "LOBBY_TOKENS_SHOP_BUTTON"
 msgid "LOBBY_CHOOSE_MARATHON_BUTTON"
 msgstr "SELECT MARATHON"
+
+#, fuzzy
+#| msgid "LOBBY_PURCHASE_TOKENS"
+msgid "LOBBY_CHOOSE_QUEST"
+msgstr "Select Mission"
+
+#, fuzzy
+msgid "LOBBY_CHOOSE_STATS_TO_SAVE_THEM"
+msgstr "Select characteristics to save when reassembling:"
 
 msgid "LOBBY_CLASS_HINT_ASSAULT"
 msgstr ""
@@ -3223,6 +3528,11 @@ msgstr "Complete additional tasks to get the {plane8}!"
 #, fuzzy
 msgid "LOBBY_COMPLETE_QUEST_MESSAGE_HEADER"
 msgstr "Complete Mission"
+
+#, fuzzy
+#| msgid "LOBBY_COMPONENT_NAME_SUFFIX_DAYS"
+msgid "LOBBY_COMPONENST_RARITY"
+msgstr "Rarity"
 
 msgid "LOBBY_COMPONENT_NAME_SUFFIX_DAYS"
 msgstr "{days}天"
@@ -3320,6 +3630,11 @@ msgstr ""
 "享受令人驚歎的全新的5級蘇聯戰鬥機卡爾波夫伊-180-3的機動性吧！它就在你的機庫"
 "中！"
 
+#, fuzzy
+#| msgid "LOBBY_CONGRATULATION_MESSAGES_2"
+msgid "LOBBY_CONGRATULATION_EQUIPMENT_GRADE_UP"
+msgstr "Congratulations! Equipment quality increased."
+
 msgid "LOBBY_CONGRATULATION_MESSAGES"
 msgstr "祝賀你<br>優秀勳章!"
 
@@ -3328,6 +3643,120 @@ msgstr "祝賀你的功績勳章！"
 
 msgid "LOBBY_CONSTANT_OFFERS_BUTTON"
 msgstr "長期提供"
+
+#, fuzzy
+#| msgid "LOBBY_CONSUMABLES_DESCRIPTION_SHORT_FIRE_WORK"
+msgid "LOBBY_CONSUMABLES_DESCRIPTION_AMMOPACK_PREMIUM_CRIT"
+msgstr ""
+"Increased chance of causing fire. Maximum chance of inflicting critical "
+"damage."
+
+#, fuzzy
+#| msgid "LOBBY_CONSUMABLES_DESCRIPTION_SHORT_COLOR_PLUMES"
+msgid "LOBBY_CONSUMABLES_DESCRIPTION_AMMOPACK_PREMIUM_DAMAGE"
+msgstr ""
+"Maximum damage caused by bombs and rockets. Increased radius of blast damage."
+
+#, fuzzy
+#| msgid "LOBBY_CONSUMABLES_DESCRIPTION_SHORT_FIRE_WORK"
+msgid "LOBBY_CONSUMABLES_DESCRIPTION_AMMOPACK_PREMIUM_FIRE"
+msgstr ""
+"Maximum chance of causing fire. Increased chance of inflicting critical "
+"damage."
+
+#, fuzzy
+#| msgid "LOBBY_CONSUMABLES_DESCRIPTION_SHORT_ECON_RECON"
+msgid "LOBBY_CONSUMABLES_DESCRIPTION_AMMOPACK_PREMIUM_GROUND"
+msgstr ""
+"Increased chance of causing fire. Increased damage when firing at ground "
+"targets."
+
+#, fuzzy
+#| msgid "LOBBY_CONSUMABLES_DESCRIPTION_SHORT_EXTINGUISHER"
+msgid "LOBBY_CONSUMABLES_DESCRIPTION_AMMOPACK_PREMIUM_GUNNER"
+msgstr "Maximum chance of the gunner inflicting critical damage."
+
+#, fuzzy
+#| msgid "LOBBY_CONSUMABLES_DESCRIPTION_SHORT_SPARKLERS"
+msgid "LOBBY_CONSUMABLES_DESCRIPTION_AMMOPACK_PREMIUM_RADIUS"
+msgstr ""
+"Maximum radius of blast damage. Increased damage caused by bombs and rockets."
+
+#, fuzzy
+#| msgid "LOBBY_CONSUMABLES_DESCRIPTION_SHORT_FIRE_WORK"
+msgid "LOBBY_CONSUMABLES_DESCRIPTION_AMMOPACK_REGULAR_BOMB-ROCKETS"
+msgstr "Increased damage caused by bombs and rockets."
+
+#, fuzzy
+#| msgid "LOBBY_CONSUMABLES_DESCRIPTION_SHORT_AUTO_RESTARTER"
+msgid "LOBBY_CONSUMABLES_DESCRIPTION_AMMOPACK_REGULAR_GUNNER"
+msgstr "Increased chance of the gunner inflicting critical damage."
+
+#, fuzzy
+#| msgid "LOBBY_CONSUMABLES_DESCRIPTION_SHORT_SPARKLERS"
+msgid "LOBBY_CONSUMABLES_DESCRIPTION_AMMOPACK_REGULAR_GUNS"
+msgstr "Increased chance of causing fire and inflicting critical damage."
+
+#, fuzzy
+#| msgid "LOBBY_CONSUMABLES_DESCRIPTION_SHORT_FIRE_WORK"
+msgid "LOBBY_CONSUMABLES_DESCRIPTION_ANTIFIRE_PREMIUM"
+msgstr ""
+"Reduces the chance of the aircraft being set on fire by 30%. Effective for "
+"the course of the battle."
+
+#, fuzzy
+#| msgid "LOBBY_CONSUMABLES_DESCRIPTION_SHORT_FIRE_WORK"
+msgid "LOBBY_CONSUMABLES_DESCRIPTION_ANTIFIRE_REGULAR"
+msgstr ""
+"Reduces the chance of the aircraft being set on fire by 20%. Effective for "
+"the course of the battle."
+
+#, fuzzy
+#| msgid "LOBBY_CONSUMABLES_DESCRIPTION_SHORT_BOND_PACK"
+msgid "LOBBY_CONSUMABLES_DESCRIPTION_BONDPACK_PREMIUM"
+msgstr ""
+"Heals injured crew members and provides resistance to injury for 10 seconds."
+
+#, fuzzy
+#| msgid "LOBBY_CONSUMABLES_DESCRIPTION_SHORT_COLOR_PLUMES"
+msgid "LOBBY_CONSUMABLES_DESCRIPTION_COLOR_PLUMES"
+msgstr ""
+"Leaves smoke trails when boosting. Effective for the course of the battle."
+
+#, fuzzy
+#| msgid "LOBBY_CONSUMABLES_DESCRIPTION_SHORT_WEP_BOOSTER"
+msgid "LOBBY_CONSUMABLES_DESCRIPTION_CREDITSBOOST_TOKEN"
+msgstr "Increases amount of credits earned in the aircraft by 50%."
+
+#, fuzzy
+#| msgid "LOBBY_CONSUMABLES_DESCRIPTION_SHORT_ENGINE_HEATSINK"
+msgid "LOBBY_CONSUMABLES_DESCRIPTION_ENGINEHEATSINK"
+msgstr "Improves the engine cooldown rate by 5 times for 10 seconds."
+
+#, fuzzy
+#| msgid "LOBBY_CONSUMABLES_DESCRIPTION_SHORT_ENGINE_HEATSINK"
+msgid "LOBBY_CONSUMABLES_DESCRIPTION_ENGINEHEATSINK_REGULAR"
+msgstr "Improves the engine cooldown rate by 5 times for 10 seconds."
+
+#, fuzzy
+#| msgid "LOBBY_CONSUMABLES_DESCRIPTION_SHORT_EXTINGUISHER"
+msgid "LOBBY_CONSUMABLES_DESCRIPTION_EXTINGUISHER_PREMIUM"
+msgstr "Extinguishes fire and provides resistance to fire for 10 seconds."
+
+#, fuzzy
+#| msgid "LOBBY_CONSUMABLES_DESCRIPTION_SHORT_FIRE_WORK"
+msgid "LOBBY_CONSUMABLES_DESCRIPTION_FIRE_WORK"
+msgstr "Sets off holiday fireworks."
+
+#, fuzzy
+#| msgid "LOBBY_CONSUMABLES_DESCRIPTION_SHORT_ADRENALIN"
+msgid "LOBBY_CONSUMABLES_DESCRIPTION_HIOCTANE_PREMIUM"
+msgstr "Increases engine thrust by 5%. Effective for the course of the battle."
+
+#, fuzzy
+#| msgid "LOBBY_CONSUMABLES_DESCRIPTION_SHORT_JET_FUEL"
+msgid "LOBBY_CONSUMABLES_DESCRIPTION_HIOCTANE_REGULAR"
+msgstr "Increases engine thrust by 3%. Effective for the course of the battle."
 
 msgid "LOBBY_CONSUMABLES_DESCRIPTION_SHORT_ADRENALIN"
 msgstr "10秒內提高各軸向上的操控性"
@@ -3418,6 +3847,18 @@ msgstr "拉昇時釋放煙帶"
 
 msgid "LOBBY_CONSUMABLES_DESCRIPTION_SHORT_WEP_BOOSTER"
 msgstr "提高引擎功率"
+
+#, fuzzy
+#| msgid "LOBBY_CONSUMABLES_DESCRIPTION_SHORT_SPARKLERS"
+msgid "LOBBY_CONSUMABLES_DESCRIPTION_SPARKLERS"
+msgstr ""
+"Lights sparklers at the tips of the wings. Effective for the course of the "
+"battle."
+
+#, fuzzy
+#| msgid "LOBBY_CONSUMABLES_DESCRIPTION_SHORT_WEP_BOOSTER"
+msgid "LOBBY_CONSUMABLES_DESCRIPTION_XPBOOST_TOKEN"
+msgstr "Increases amount of experience earned in the aircraft by 25%."
 
 msgid "LOBBY_CONSUMABLES_EFFECT_CONTINUOUS_COLOR_PLUMES"
 msgstr "戰鬥過程中使用，戰機進行機動飛行將會留下一條絢麗多彩的煙帶"
@@ -3519,6 +3960,11 @@ msgstr "短時間內顯著增加引擎功率"
 
 msgid "LOBBY_CONSUMABLES_INCOMPATIBLE"
 msgstr "不相容"
+
+#, fuzzy
+#| msgid "LOBBY_CONSUMABLES_NAME_BOND_PACK"
+msgid "LOBBY_CONSUMABLES_MOUNTED_ON_PLANE_NAME"
+msgstr "Mounted on the {aircraft}"
 
 msgid "LOBBY_CONSUMABLES_NAME_ADRENALIN"
 msgstr "強化型飛行操縱裝置"
@@ -3647,6 +4093,15 @@ msgstr "拆卸"
 msgid "LOBBY_CONTEXT_HEADER_REPOSITION"
 msgstr "轉移"
 
+#, fuzzy
+#| msgid "LOBBY_CONTEXT_EQUIPMENT"
+msgid "LOBBY_CONTEXT_MENU_EQUIPMENT_COST_AFTER_UNMOUNT"
+msgstr "Sale price after demounting:"
+
+#, fuzzy
+msgid "LOBBY_CONTEXT_MENU_UNMOUNT_COST"
+msgstr "Demounting price:"
+
 msgid "LOBBY_CONTEXT_MESSAGE_CAMO"
 msgstr "塗裝方案"
 
@@ -3681,8 +4136,94 @@ msgid "LOBBY_CONTEXT_WARNING"
 msgstr "警告"
 
 #, fuzzy
+#| msgid "LOBBY_CAMO_CONTINUE"
+msgid "LOBBY_COOLDOWN_TIME"
+msgstr "Resupply Time"
+
+#, fuzzy
 msgid "LOBBY_COUNTER_DAYS"
 msgstr "{days} d"
+
+#, fuzzy
+#| msgid "LOBBY_CAMO_CONTEXT_SELECTED"
+msgid "LOBBY_CRAFT_COMPONENTS_COLLECTED"
+msgstr "Collected Materials:"
+
+#, fuzzy
+#| msgid "LOBBY_AIRCRAFT_COMPARISON_TITLE_TEAM_LIST"
+msgid "LOBBY_CRAFT_COMPONENTS_TEAM"
+msgstr "Salvage Party"
+
+#, fuzzy
+#| msgid "LOBBY_AIRCRAFT_COMPARISON_HEADER_HITTS"
+msgid "LOBBY_CRAFT_COMPONENT_DEVICES"
+msgstr "Flight Instruments"
+
+#, fuzzy
+msgid "LOBBY_CRAFT_COMPONENT_DEVICES_DESCRIPTION"
+msgstr ""
+"<font color='#{1}'>Flight Instruments</font> can be received in Tier V–X "
+"battles."
+
+#, fuzzy
+#| msgid "LOBBY_AIRCRAFT_COMPARISON_HEADER_HITTS"
+msgid "LOBBY_CRAFT_COMPONENT_ELECTRONICS"
+msgstr "Radio Electronics"
+
+#, fuzzy
+msgid "LOBBY_CRAFT_COMPONENT_ELECTRONICS_DESCRIPTION"
+msgstr ""
+"<font color='#{1}'>Radio Electronics</font> can be received in Tier VIII–X "
+"battles."
+
+#, fuzzy
+#| msgid "LOBBY_AIRCRAFT_COMPARISON_HEADER_HITTS"
+msgid "LOBBY_CRAFT_COMPONENT_GEARS"
+msgstr "Mechanical Parts"
+
+#, fuzzy
+#| msgid "LOBBY_QUESTS_CONTEXT_QUEST_DESCRIPTION"
+msgid "LOBBY_CRAFT_COMPONENT_GEARS_DESCRIPTION"
+msgstr ""
+"<font color='#{1}'>Mechanical Parts</font> can be received in Tier I–X "
+"battles."
+
+#, fuzzy
+msgid "LOBBY_CRAFT_COMPONENT_GUNS"
+msgstr "Weapon Parts"
+
+#, fuzzy
+#| msgid "LOBBY_QUESTS_CONTEXT_QUEST_DESCRIPTION"
+msgid "LOBBY_CRAFT_COMPONENT_GUNS_DESCRIPTION"
+msgstr ""
+"<font color='#{1}'>Weapon Parts</font> can be received in Tier V–X battles."
+
+#, fuzzy
+#| msgid "LOBBY_AIRCRAFT_COMPARISON_ALLY"
+msgid "LOBBY_CRAFT_COMPONENT_HULL"
+msgstr "Airframe Elements"
+
+#, fuzzy
+msgid "LOBBY_CRAFT_COMPONENT_HULL_DESCRIPTION"
+msgstr ""
+"<font color='#{1}'>Airframe Elements</font> can be received in Tier I–X "
+"battles."
+
+#, fuzzy
+#| msgid "LOBBY_AIRCRAFT_COMPARISON_TITLE_TEAM_LIST"
+msgid "LOBBY_CRAFT_COMPONENT_LIST"
+msgstr "List of Parts:"
+
+#, fuzzy
+msgid "LOBBY_CRAFT_COMPONENT_STURDY"
+msgstr "Heat-Resistant Parts"
+
+#, fuzzy
+#| msgid "LOBBY_QUESTS_CONTEXT_QUEST_DESCRIPTION"
+msgid "LOBBY_CRAFT_COMPONENT_STURDY_DESCRIPTION"
+msgstr ""
+"<font color='#{1}'>Heat-Resistant Parts</font> can be received in Tier V–X "
+"battles."
 
 #, fuzzy
 msgid "LOBBY_CREDITS"
@@ -4348,6 +4889,16 @@ msgstr "模擬訓練"
 msgid "LOBBY_CREW_UNIVERSAL_SKILLS"
 msgstr "通用技能"
 
+#, fuzzy
+#| msgid "LOBBY_CREW_COST_FREE"
+msgid "LOBBY_CRIT_DEFENCE"
+msgstr "Resistance to Damage"
+
+#, fuzzy
+#| msgid "LOBBY_CREW_COST_FREE"
+msgid "LOBBY_CRUISE_SPEED"
+msgstr "Cruise Speed"
+
 msgid "LOBBY_CURRENT_EVENTS_CHECKBOX"
 msgstr "顯示正在進行的優惠"
 
@@ -4360,6 +4911,18 @@ msgstr "連線至伺服器…"
 
 msgid "LOBBY_DISCOUNT"
 msgstr "折扣"
+
+#, fuzzy
+#| msgid "LOBBY_CONTEXT_CONFIRMATION"
+msgid "LOBBY_DISMANTLE_EQUIPMENT_CONFIRMATION_TEXT"
+msgstr ""
+"Disassemble equipment \"{name}\" into Materials?<br><font size='6'><br></"
+"font>You will receive:"
+
+#, fuzzy
+#| msgid "LOBBY_TUTORIAL_QUEST_HEADER"
+msgid "LOBBY_DISMANTLE_EQUIPMENT_HEADER"
+msgstr "Disassemble Equipment"
 
 #, fuzzy
 msgid "LOBBY_DO335A1_QUESTLINE_EASY_1"
@@ -4527,8 +5090,8 @@ msgstr ""
 #| msgid "LOBBY_TUTORIAL_QUEST_HEADER"
 msgid "LOBBY_DO335A1_QUESTLINE_HARD_15"
 msgstr ""
-"Win a battle. All preceding <font color='#{colorUnits}'>additional tasks</"
-"font> must be completed."
+"Win a battle. All preceding <font color='#{colorUnits}'>primary and "
+"additional tasks</font> must be completed."
 
 #, fuzzy
 #| msgid "LOBBY_TUTORIAL_QUEST_HEADER"
@@ -4710,14 +5273,736 @@ msgstr ""
 "Congratulations! \"{name}\" mission complete!<br><font size='6'><br></"
 "font>Award received."
 
+#, fuzzy
+#| msgid "LOBBY_CONSUMABLES_NAME_FUEL100"
+msgid "LOBBY_EFFECT_FROM_CONSUMABLE_NAME"
+msgstr "{effect} from consumable \"{name}\""
+
+#, fuzzy
+#| msgid "LOBBY_EVENT_EQUIPMENT_MESSAGE1"
+msgid "LOBBY_EFFECT_FROM_EQUIPMENT_NAME"
+msgstr "{effect} from equipment \"{name}\""
+
+#, fuzzy
+#| msgid "LOBBY_EVENT_SPECIAL_NAME"
+msgid "LOBBY_EFFECT_FROM_SKILL_NAME"
+msgstr "{effect} from skill \"{name}\""
+
 msgid "LOBBY_EMBLEM_LABEL_NY"
 msgstr "節日徽章"
 
 msgid "LOBBY_EMBLEM_TEXT_EXCLUSIVE"
 msgstr "{ico-warning} 專屬徽章"
 
+#, fuzzy
+#| msgid "LOBBY_EQUIPMENT_NAME_RADIO_SIGHT"
+msgid "LOBBY_EQUIPMENT20_GROUP_NAME_AGILITY"
+msgstr "Increased Maneuverability"
+
+#, fuzzy
+#| msgid "LOBBY_EQUIPMENT_NAME_ARMORED_CABIN"
+msgid "LOBBY_EQUIPMENT20_GROUP_NAME_ARMOREDCABIN"
+msgstr "Cockpit Armor"
+
+#, fuzzy
+#| msgid "LOBBY_EQUIPMENT_NAME_ARMORED_CABIN"
+msgid "LOBBY_EQUIPMENT20_GROUP_NAME_ARMOREDENGINE"
+msgstr "Engine Armor Protection"
+
+#, fuzzy
+#| msgid "LOBBY_EQUIPMENT_NAME_ARMORED_CABIN"
+msgid "LOBBY_EQUIPMENT20_GROUP_NAME_ARMOREDTURRET"
+msgstr "Turret Armor Protection"
+
+#, fuzzy
+#| msgid "LOBBY_EQUIPMENT_NAME_BOMB_SIGHT_I"
+msgid "LOBBY_EQUIPMENT20_GROUP_NAME_BOMBSIGHT"
+msgstr "Bombsight"
+
+#, fuzzy
+#| msgid "LOBBY_EQUIPMENT_NAME_NEUTRAL_GAS"
+msgid "LOBBY_EQUIPMENT20_GROUP_NAME_BURSTGUNS"
+msgstr "Reinforced Bolt Carriers"
+
+#, fuzzy
+#| msgid "LOBBY_EQUIPMENT_NAME_OPTICAL_SIGHT"
+msgid "LOBBY_EQUIPMENT20_GROUP_NAME_COSMETICS"
+msgstr "Embellishment"
+
+#, fuzzy
+#| msgid "LOBBY_EQUIPMENT_NAME_NEUTRAL_GAS"
+msgid "LOBBY_EQUIPMENT20_GROUP_NAME_CREWHEAL"
+msgstr "Crew Healing"
+
+#, fuzzy
+#| msgid "LOBBY_EQUIPMENT_NAME_COATING_MK1"
+msgid "LOBBY_EQUIPMENT20_GROUP_NAME_ECONOMY"
+msgstr "Increased Income"
+
+#, fuzzy
+#| msgid "LOBBY_EQUIPMENT_NAME_ENGINE_TWEAK_I"
+msgid "LOBBY_EQUIPMENT20_GROUP_NAME_ENGINECOOL"
+msgstr "Engine Cooling"
+
+#, fuzzy
+#| msgid "LOBBY_EQUIPMENT_NAME_ENGINE_TWEAK_I"
+msgid "LOBBY_EQUIPMENT20_GROUP_NAME_ENGINEHEAL"
+msgstr "Engine Restarter"
+
+#, fuzzy
+#| msgid "LOBBY_EQUIPMENT_NAME_FOF_I"
+msgid "LOBBY_EQUIPMENT20_GROUP_NAME_FIREHEAL"
+msgstr "Fire Extinguishing"
+
+#, fuzzy
+#| msgid "LOBBY_EQUIPMENT_NAME_FIRE-FIGHTING_SYSTEM"
+msgid "LOBBY_EQUIPMENT20_GROUP_NAME_FIRERESISTANCE"
+msgstr "Increased Fire Resistance"
+
+#, fuzzy
+#| msgid "LOBBY_EQUIPMENT_NAME_REFLECTOR_SIGHT"
+msgid "LOBBY_EQUIPMENT20_GROUP_NAME_FUELINJECTOR"
+msgstr "Combined Injection/Boost System"
+
+#, fuzzy
+#| msgid "LOBBY_EQUIPMENT_NAME_GYRO_SIGHT"
+msgid "LOBBY_EQUIPMENT20_GROUP_NAME_GSUIT"
+msgstr "G-Suit"
+
+#, fuzzy
+#| msgid "LOBBY_EQUIPMENT_NAME_GUN_CAM_I"
+msgid "LOBBY_EQUIPMENT20_GROUP_NAME_GUNCAM"
+msgstr "Gun Camera"
+
+#, fuzzy
+#| msgid "LOBBY_EQUIPMENT_NAME_GUN_CAM_I"
+msgid "LOBBY_EQUIPMENT20_GROUP_NAME_GUNSAMMO"
+msgstr "Ammunition"
+
+#, fuzzy
+#| msgid "LOBBY_EQUIPMENT_NAME_DOPE_COATING"
+msgid "LOBBY_EQUIPMENT20_GROUP_NAME_HEAVYCOATING"
+msgstr "Reinforced Skin"
+
+#, fuzzy
+#| msgid "LOBBY_EQUIPMENT_NAME_NEUTRAL_GAS"
+msgid "LOBBY_EQUIPMENT20_GROUP_NAME_HEAVYGUNS"
+msgstr "Long Gun Barrels"
+
+#, fuzzy
+#| msgid "LOBBY_EQUIPMENT_NAME_LIGHT_HULL_I"
+msgid "LOBBY_EQUIPMENT20_GROUP_NAME_HEAVYHULL"
+msgstr "Reinforced Airframe"
+
+#, fuzzy
+#| msgid "LOBBY_EQUIPMENT_NAME_NEUTRAL_GAS"
+msgid "LOBBY_EQUIPMENT20_GROUP_NAME_HEAVYPAYLOAD"
+msgstr "Strengthened Hardpoints"
+
+#, fuzzy
+#| msgid "LOBBY_EQUIPMENT_NAME_DOPE_COATING"
+msgid "LOBBY_EQUIPMENT20_GROUP_NAME_HIOCTANE"
+msgstr "Improved Fuel"
+
+#, fuzzy
+#| msgid "LOBBY_EQUIPMENT_NAME_LIGHT_HULL_I"
+msgid "LOBBY_EQUIPMENT20_GROUP_NAME_LIGHTENGINE"
+msgstr "Lightweight Power Unit"
+
+#, fuzzy
+#| msgid "LOBBY_EQUIPMENT_NAME_LIGHT_HULL_I"
+msgid "LOBBY_EQUIPMENT20_GROUP_NAME_LIGHTWINGS"
+msgstr "Lightweight Wing Frame"
+
+#, fuzzy
+#| msgid "LOBBY_EQUIPMENT_NAME_REFLECTOR_SIGHT"
+msgid "LOBBY_EQUIPMENT20_GROUP_NAME_NITROINJECTOR"
+msgstr "High-Altitude Boost System"
+
+#, fuzzy
+#| msgid "LOBBY_EQUIPMENT_NAME_OPTICAL_SIGHT"
+msgid "LOBBY_EQUIPMENT20_GROUP_NAME_OPTICALSIGHT"
+msgstr "Sight"
+
+#, fuzzy
+#| msgid "LOBBY_EQUIPMENT_NAME_GLASS_ARMOR"
+msgid "LOBBY_EQUIPMENT20_GROUP_NAME_PAYLOADAMMO"
+msgstr "Ammunition"
+
+#, fuzzy
+#| msgid "LOBBY_EQUIPMENT_NAME_DOPE_COATING"
+msgid "LOBBY_EQUIPMENT20_GROUP_NAME_POLSIHEDCOATING"
+msgstr "Polished Skin"
+
+#, fuzzy
+#| msgid "LOBBY_EQUIPMENT_NAME_GYRO_SIGHT"
+msgid "LOBBY_EQUIPMENT20_GROUP_NAME_ROCKETSIGHT"
+msgstr "Rocket Sight"
+
+#, fuzzy
+#| msgid "LOBBY_EQUIPMENT_NAME_NEUTRAL_GAS"
+msgid "LOBBY_EQUIPMENT20_GROUP_NAME_RUDDERHEAL"
+msgstr "Control Surfaces Repair"
+
+#, fuzzy
+#| msgid "LOBBY_EQUIPMENT_NAME_GLASS_ARMOR"
+msgid "LOBBY_EQUIPMENT20_GROUP_NAME_TURRETSAMMO"
+msgstr "Ammunition"
+
+#, fuzzy
+#| msgid "LOBBY_EQUIPMENT_NAME_NEUTRAL_GAS"
+msgid "LOBBY_EQUIPMENT20_GROUP_NAME_TURRETSERVOS"
+msgstr "Turret Gun Laying Drive"
+
+#, fuzzy
+#| msgid "LOBBY_EQUIPMENT_NAME_REFLECTOR_SIGHT"
+msgid "LOBBY_EQUIPMENT20_GROUP_NAME_TURRETSIGHT"
+msgstr "Turret Gunsight"
+
+#, fuzzy
+#| msgid "LOBBY_EQUIPMENT_NAME_ENGINE_TWEAK_I"
+msgid "LOBBY_EQUIPMENT20_GROUP_NAME_UPRATEDENGINE"
+msgstr "Uprated Engine"
+
+#, fuzzy
+#| msgid "LOBBY_EQUIPMENT_NAME_NEUTRAL_GAS"
+msgid "LOBBY_EQUIPMENT20_GROUP_NAME_UPRATEDGUNS"
+msgstr "Gas-Operated Action"
+
+#, fuzzy
+#| msgid "LOBBY_EQUIPMENT_NAME_IMPROVED_RAD_I"
+msgid "LOBBY_EQUIPMENT20_NAME_AIRCOMPRESSOR_G0"
+msgstr "Stock High-Pressure Compressor"
+
+#, fuzzy
+#| msgid "LOBBY_EQUIPMENT_NAME_IMPROVED_RAD_I"
+msgid "LOBBY_EQUIPMENT20_NAME_AIRCOMPRESSOR_G1"
+msgstr "Improved High-Pressure Compressor"
+
+#, fuzzy
+#| msgid "LOBBY_EQUIPMENT_NAME_IMPROVED_RAD_I"
+msgid "LOBBY_EQUIPMENT20_NAME_AIRCOMPRESSOR_G2"
+msgstr "Advanced High-Pressure Compressor"
+
+#, fuzzy
+#| msgid "LOBBY_EQUIPMENT_NAME_IMPROVED_RAD_I"
+msgid "LOBBY_EQUIPMENT20_NAME_AIRCOMPRESSOR_G3"
+msgstr "Ultimate High-Pressure Compressor"
+
+#, fuzzy
+#| msgid "LOBBY_EQUIPMENT_NAME_ARMORED_CABIN"
+msgid "LOBBY_EQUIPMENT20_NAME_ARMOREDCABIN_G0"
+msgstr "Stock Cockpit Armor"
+
+#, fuzzy
+#| msgid "LOBBY_EQUIPMENT_NAME_ARMORED_CABIN"
+msgid "LOBBY_EQUIPMENT20_NAME_ARMOREDCABIN_G1"
+msgstr "Improved Cockpit Armor"
+
+#, fuzzy
+#| msgid "LOBBY_EQUIPMENT_NAME_ARMORED_CABIN"
+msgid "LOBBY_EQUIPMENT20_NAME_ARMOREDCABIN_G2"
+msgstr "Advanced Cockpit Armor"
+
+#, fuzzy
+#| msgid "LOBBY_EQUIPMENT_NAME_ARMORED_CABIN"
+msgid "LOBBY_EQUIPMENT20_NAME_ARMOREDCABIN_G3"
+msgstr "Ultimate Cockpit Armor"
+
+#, fuzzy
+#| msgid "LOBBY_EQUIPMENT_NAME_ARMORED_CABIN"
+msgid "LOBBY_EQUIPMENT20_NAME_ARMOREDENGINE_G0"
+msgstr "Stock Engine Armor Protection"
+
+#, fuzzy
+#| msgid "LOBBY_EQUIPMENT_NAME_ARMORED_CABIN"
+msgid "LOBBY_EQUIPMENT20_NAME_ARMOREDENGINE_G1"
+msgstr "Improved Engine Armor Protection"
+
+#, fuzzy
+#| msgid "LOBBY_EQUIPMENT_NAME_ARMORED_CABIN"
+msgid "LOBBY_EQUIPMENT20_NAME_ARMOREDENGINE_G2"
+msgstr "Advanced Engine Armor Protection"
+
+#, fuzzy
+#| msgid "LOBBY_EQUIPMENT_NAME_ARMORED_CABIN"
+msgid "LOBBY_EQUIPMENT20_NAME_ARMOREDENGINE_G3"
+msgstr "Ultimate Engine Armor Protection"
+
+#, fuzzy
+#| msgid "LOBBY_EQUIPMENT_NAME_ARMORED_CABIN"
+msgid "LOBBY_EQUIPMENT20_NAME_ARMOREDTURRET_G0"
+msgstr "Stock Turret Armor Protection"
+
+#, fuzzy
+#| msgid "LOBBY_EQUIPMENT_NAME_ARMORED_CABIN"
+msgid "LOBBY_EQUIPMENT20_NAME_ARMOREDTURRET_G1"
+msgstr "Improved Turret Armor Protection"
+
+#, fuzzy
+#| msgid "LOBBY_EQUIPMENT_NAME_ARMORED_CABIN"
+msgid "LOBBY_EQUIPMENT20_NAME_ARMOREDTURRET_G2"
+msgstr "Advanced Turret Armor Protection"
+
+#, fuzzy
+#| msgid "LOBBY_EQUIPMENT_NAME_ARMORED_CABIN"
+msgid "LOBBY_EQUIPMENT20_NAME_ARMOREDTURRET_G3"
+msgstr "Ultimate Turret Armor Protection"
+
+#, fuzzy
+#| msgid "LOBBY_EQUIPMENT_NAME_BOMB_SIGHT_I"
+msgid "LOBBY_EQUIPMENT20_NAME_BOMBSIGHT_G0"
+msgstr "Stock Bombsight"
+
+#, fuzzy
+#| msgid "LOBBY_EQUIPMENT_NAME_BOMB_SIGHT_I"
+msgid "LOBBY_EQUIPMENT20_NAME_BOMBSIGHT_G1"
+msgstr "Improved Bombsight"
+
+#, fuzzy
+#| msgid "LOBBY_EQUIPMENT_NAME_BOMB_SIGHT_I"
+msgid "LOBBY_EQUIPMENT20_NAME_BOMBSIGHT_G2"
+msgstr "Advanced Bombsight"
+
+#, fuzzy
+#| msgid "LOBBY_EQUIPMENT_NAME_BOMB_SIGHT_I"
+msgid "LOBBY_EQUIPMENT20_NAME_BOMBSIGHT_G3"
+msgstr "Ultimate Bombsight"
+
+#, fuzzy
+#| msgid "LOBBY_EQUIPMENT_NAME_GUN_CAM_I"
+msgid "LOBBY_EQUIPMENT20_NAME_BURSTGUNS_G0"
+msgstr "Stock Reinforced Bolt Carriers"
+
+#, fuzzy
+#| msgid "LOBBY_EQUIPMENT_NAME_GUN_CAM_I"
+msgid "LOBBY_EQUIPMENT20_NAME_BURSTGUNS_G1"
+msgstr "Improved Reinforced Bolt Carriers"
+
+#, fuzzy
+#| msgid "LOBBY_EQUIPMENT_NAME_GUN_CAM_I"
+msgid "LOBBY_EQUIPMENT20_NAME_BURSTGUNS_G2"
+msgstr "Advanced Reinforced Bolt Carriers"
+
+#, fuzzy
+#| msgid "LOBBY_EQUIPMENT_NAME_GUN_CAM_I"
+msgid "LOBBY_EQUIPMENT20_NAME_BURSTGUNS_G3"
+msgstr "Ultimate Reinforced Bolt Carriers"
+
+#, fuzzy
+#| msgid "LOBBY_EQUIPMENT_NAME_REFLECTOR_SIGHT"
+msgid "LOBBY_EQUIPMENT20_NAME_FUELINJECTOR_G0"
+msgstr "Stock Engine Boost Mixture Injection System"
+
+#, fuzzy
+#| msgid "LOBBY_EQUIPMENT_NAME_REFLECTOR_SIGHT"
+msgid "LOBBY_EQUIPMENT20_NAME_FUELINJECTOR_G1"
+msgstr "Improved Engine Boost Mixture Injection System"
+
+#, fuzzy
+#| msgid "LOBBY_EQUIPMENT_NAME_REFLECTOR_SIGHT"
+msgid "LOBBY_EQUIPMENT20_NAME_FUELINJECTOR_G2"
+msgstr "Advanced Engine Boost Mixture Injection System"
+
+#, fuzzy
+#| msgid "LOBBY_EQUIPMENT_NAME_REFLECTOR_SIGHT"
+msgid "LOBBY_EQUIPMENT20_NAME_FUELINJECTOR_G3"
+msgstr "Ultimate Engine Boost Mixture Injection System"
+
+#, fuzzy
+#| msgid "LOBBY_EQUIPMENT_NAME_COATING_MK1"
+msgid "LOBBY_EQUIPMENT20_NAME_GASTURBINE_G0"
+msgstr "Stock High-Speed Gas Turbine"
+
+#, fuzzy
+#| msgid "LOBBY_EQUIPMENT_NAME_COATING_MK1"
+msgid "LOBBY_EQUIPMENT20_NAME_GASTURBINE_G1"
+msgstr "Improved High-Speed Gas Turbine"
+
+#, fuzzy
+#| msgid "LOBBY_EQUIPMENT_NAME_COATING_MK2"
+msgid "LOBBY_EQUIPMENT20_NAME_GASTURBINE_G2"
+msgstr "Advanced High-Speed Gas Turbine"
+
+#, fuzzy
+#| msgid "LOBBY_EQUIPMENT_NAME_COATING_MK3"
+msgid "LOBBY_EQUIPMENT20_NAME_GASTURBINE_G3"
+msgstr "Ultimate High-Speed Gas Turbine"
+
+#, fuzzy
+#| msgid "LOBBY_EQUIPMENT_NAME_GYRO_SIGHT"
+msgid "LOBBY_EQUIPMENT20_NAME_GSUIT_G0"
+msgstr "Stock G-Suit"
+
+#, fuzzy
+#| msgid "LOBBY_EQUIPMENT_NAME_GYRO_SIGHT"
+msgid "LOBBY_EQUIPMENT20_NAME_GSUIT_G1"
+msgstr "Improved G-Suit"
+
+#, fuzzy
+#| msgid "LOBBY_EQUIPMENT_NAME_GYRO_SIGHT"
+msgid "LOBBY_EQUIPMENT20_NAME_GSUIT_G2"
+msgstr "Advanced G-Suit"
+
+#, fuzzy
+#| msgid "LOBBY_EQUIPMENT_NAME_GYRO_SIGHT"
+msgid "LOBBY_EQUIPMENT20_NAME_GSUIT_G3"
+msgstr "Ultimate G-Suit"
+
+#, fuzzy
+#| msgid "LOBBY_EQUIPMENT_NAME_GYRO_SIGHT"
+msgid "LOBBY_EQUIPMENT20_NAME_GYROSIGHT_G0"
+msgstr "Stock Gyroscopic Sight"
+
+#, fuzzy
+#| msgid "LOBBY_EQUIPMENT_NAME_GYRO_SIGHT"
+msgid "LOBBY_EQUIPMENT20_NAME_GYROSIGHT_G1"
+msgstr "Improved Gyroscopic Sight"
+
+#, fuzzy
+#| msgid "LOBBY_EQUIPMENT_NAME_GYRO_SIGHT"
+msgid "LOBBY_EQUIPMENT20_NAME_GYROSIGHT_G2"
+msgstr "Advanced Gyroscopic Sight"
+
+#, fuzzy
+#| msgid "LOBBY_EQUIPMENT_NAME_GYRO_SIGHT"
+msgid "LOBBY_EQUIPMENT20_NAME_GYROSIGHT_G3"
+msgstr "Ultimate Gyroscopic Sight"
+
+#, fuzzy
+#| msgid "LOBBY_EQUIPMENT_NAME_COATING_MK1"
+msgid "LOBBY_EQUIPMENT20_NAME_HEAVYCOATING_G0"
+msgstr "Stock Reinforced Skin"
+
+#, fuzzy
+#| msgid "LOBBY_EQUIPMENT_NAME_COATING_MK1"
+msgid "LOBBY_EQUIPMENT20_NAME_HEAVYCOATING_G1"
+msgstr "Improved Reinforced Skin"
+
+#, fuzzy
+#| msgid "LOBBY_EQUIPMENT_NAME_COATING_MK2"
+msgid "LOBBY_EQUIPMENT20_NAME_HEAVYCOATING_G2"
+msgstr "Advanced Reinforced Skin"
+
+#, fuzzy
+#| msgid "LOBBY_EQUIPMENT_NAME_COATING_MK3"
+msgid "LOBBY_EQUIPMENT20_NAME_HEAVYCOATING_G3"
+msgstr "Ultimate Reinforced Skin"
+
+#, fuzzy
+#| msgid "LOBBY_EQUIPMENT_NAME_GUN_CAM_I"
+msgid "LOBBY_EQUIPMENT20_NAME_HEAVYGUNS_G0"
+msgstr "Stock Long Gun Barrels"
+
+#, fuzzy
+#| msgid "LOBBY_EQUIPMENT_NAME_GUN_CAM_I"
+msgid "LOBBY_EQUIPMENT20_NAME_HEAVYGUNS_G1"
+msgstr "Improved Long Gun Barrels"
+
+#, fuzzy
+#| msgid "LOBBY_EQUIPMENT_NAME_GUN_CAM_I"
+msgid "LOBBY_EQUIPMENT20_NAME_HEAVYGUNS_G2"
+msgstr "Advanced Long Gun Barrels"
+
+#, fuzzy
+#| msgid "LOBBY_EQUIPMENT_NAME_GUN_CAM_I"
+msgid "LOBBY_EQUIPMENT20_NAME_HEAVYGUNS_G3"
+msgstr "Ultimate Long Gun Barrels"
+
+#, fuzzy
+#| msgid "LOBBY_EQUIPMENT_NAME_LIGHT_HULL_I"
+msgid "LOBBY_EQUIPMENT20_NAME_HEAVYHULL_G0"
+msgstr "Stock Reinforced Airframe"
+
+#, fuzzy
+#| msgid "LOBBY_EQUIPMENT_NAME_LIGHT_HULL_I"
+msgid "LOBBY_EQUIPMENT20_NAME_HEAVYHULL_G1"
+msgstr "Improved Reinforced Airframe"
+
+#, fuzzy
+#| msgid "LOBBY_EQUIPMENT_NAME_LIGHT_HULL_I"
+msgid "LOBBY_EQUIPMENT20_NAME_HEAVYHULL_G2"
+msgstr "Advanced Reinforced Airframe"
+
+#, fuzzy
+#| msgid "LOBBY_EQUIPMENT_NAME_LIGHT_HULL_I"
+msgid "LOBBY_EQUIPMENT20_NAME_HEAVYHULL_G3"
+msgstr "Ultimate Reinforced Airframe"
+
+#, fuzzy
+#| msgid "LOBBY_EQUIPMENT_NAME_NEUTRAL_GAS"
+msgid "LOBBY_EQUIPMENT20_NAME_HEAVYPAYLOAD_G0"
+msgstr "Stock Strengthened Hardpoints"
+
+#, fuzzy
+#| msgid "LOBBY_EQUIPMENT_NAME_NEUTRAL_GAS"
+msgid "LOBBY_EQUIPMENT20_NAME_HEAVYPAYLOAD_G1"
+msgstr "Improved Strengthened Hardpoints"
+
+#, fuzzy
+#| msgid "LOBBY_EQUIPMENT_NAME_NEUTRAL_GAS"
+msgid "LOBBY_EQUIPMENT20_NAME_HEAVYPAYLOAD_G2"
+msgstr "Advanced Strengthened Hardpoints"
+
+#, fuzzy
+#| msgid "LOBBY_EQUIPMENT_NAME_NEUTRAL_GAS"
+msgid "LOBBY_EQUIPMENT20_NAME_HEAVYPAYLOAD_G3"
+msgstr "Ultimate Strengthened Hardpoints"
+
+#, fuzzy
+#| msgid "LOBBY_EQUIPMENT_NAME_ENGINE_TWEAK_I"
+msgid "LOBBY_EQUIPMENT20_NAME_LIGHTENGINE_G0"
+msgstr "Stock Lightweight Power Unit"
+
+#, fuzzy
+#| msgid "LOBBY_EQUIPMENT_NAME_ENGINE_TWEAK_I"
+msgid "LOBBY_EQUIPMENT20_NAME_LIGHTENGINE_G1"
+msgstr "Improved Lightweight Power Unit"
+
+#, fuzzy
+#| msgid "LOBBY_EQUIPMENT_NAME_ENGINE_TWEAK_I"
+msgid "LOBBY_EQUIPMENT20_NAME_LIGHTENGINE_G2"
+msgstr "Advanced Lightweight Power Unit"
+
+#, fuzzy
+#| msgid "LOBBY_EQUIPMENT_NAME_ENGINE_TWEAK_I"
+msgid "LOBBY_EQUIPMENT20_NAME_LIGHTENGINE_G3"
+msgstr "Ultimate Lightweight Power Unit"
+
+#, fuzzy
+#| msgid "LOBBY_EQUIPMENT_NAME_LIGHT_HULL_I"
+msgid "LOBBY_EQUIPMENT20_NAME_LIGHTWINGS_G0"
+msgstr "Stock Lightweight Wing Frame"
+
+#, fuzzy
+#| msgid "LOBBY_EQUIPMENT_NAME_COATING_MK1"
+msgid "LOBBY_EQUIPMENT20_NAME_LIGHTWINGS_G1"
+msgstr "Improved Lightweight Wing Frame"
+
+#, fuzzy
+#| msgid "LOBBY_EQUIPMENT_NAME_COATING_MK2"
+msgid "LOBBY_EQUIPMENT20_NAME_LIGHTWINGS_G2"
+msgstr "Advanced Lightweight Wing Frame"
+
+#, fuzzy
+#| msgid "LOBBY_EQUIPMENT_NAME_COATING_MK3"
+msgid "LOBBY_EQUIPMENT20_NAME_LIGHTWINGS_G3"
+msgstr "Ultimate Lightweight Wing Frame"
+
+#, fuzzy
+#| msgid "LOBBY_EQUIPMENT_NAME_REFLECTOR_SIGHT"
+msgid "LOBBY_EQUIPMENT20_NAME_NITROINJECTOR_G0"
+msgstr "Stock Nitrous Oxide Injection System"
+
+#, fuzzy
+#| msgid "LOBBY_EQUIPMENT_NAME_REFLECTOR_SIGHT"
+msgid "LOBBY_EQUIPMENT20_NAME_NITROINJECTOR_G1"
+msgstr "Improved Nitrous Oxide Injection System"
+
+#, fuzzy
+#| msgid "LOBBY_EQUIPMENT_NAME_REFLECTOR_SIGHT"
+msgid "LOBBY_EQUIPMENT20_NAME_NITROINJECTOR_G2"
+msgstr "Advanced Nitrous Oxide Injection System"
+
+#, fuzzy
+#| msgid "LOBBY_EQUIPMENT_NAME_REFLECTOR_SIGHT"
+msgid "LOBBY_EQUIPMENT20_NAME_NITROINJECTOR_G3"
+msgstr "Ultimate Nitrous Oxide Injection System"
+
+#, fuzzy
+#| msgid "LOBBY_EQUIPMENT_NAME_OPTICAL_SIGHT"
+msgid "LOBBY_EQUIPMENT20_NAME_OPTICALSIGHT_G0"
+msgstr "Stock Optical Sight"
+
+#, fuzzy
+#| msgid "LOBBY_EQUIPMENT_NAME_OPTICAL_SIGHT"
+msgid "LOBBY_EQUIPMENT20_NAME_OPTICALSIGHT_G1"
+msgstr "Improved Optical Sight"
+
+#, fuzzy
+#| msgid "LOBBY_EQUIPMENT_NAME_OPTICAL_SIGHT"
+msgid "LOBBY_EQUIPMENT20_NAME_OPTICALSIGHT_G2"
+msgstr "Advanced Optical Sight"
+
+#, fuzzy
+#| msgid "LOBBY_EQUIPMENT_NAME_OPTICAL_SIGHT"
+msgid "LOBBY_EQUIPMENT20_NAME_OPTICALSIGHT_G3"
+msgstr "Ultimate Optical Sight"
+
+#, fuzzy
+#| msgid "LOBBY_EQUIPMENT_NAME_IMPROVED_COATING_I"
+msgid "LOBBY_EQUIPMENT20_NAME_POLSIHEDCOATING_G0"
+msgstr "Stock Polished Skin"
+
+#, fuzzy
+#| msgid "LOBBY_EQUIPMENT_NAME_IMPROVED_COATING_I"
+msgid "LOBBY_EQUIPMENT20_NAME_POLSIHEDCOATING_G1"
+msgstr "Improved Polished Skin"
+
+#, fuzzy
+#| msgid "LOBBY_EQUIPMENT_NAME_IMPROVED_COATING_I"
+msgid "LOBBY_EQUIPMENT20_NAME_POLSIHEDCOATING_G2"
+msgstr "Advanced Polished Skin"
+
+#, fuzzy
+#| msgid "LOBBY_EQUIPMENT_NAME_IMPROVED_COATING_I"
+msgid "LOBBY_EQUIPMENT20_NAME_POLSIHEDCOATING_G3"
+msgstr "Ultimate Polished Skin"
+
+#, fuzzy
+#| msgid "LOBBY_EQUIPMENT_NAME_REFLECTOR_SIGHT"
+msgid "LOBBY_EQUIPMENT20_NAME_REFLECTORSIGHT_G0"
+msgstr "Stock Collimator Sight"
+
+#, fuzzy
+#| msgid "LOBBY_EQUIPMENT_NAME_REFLECTOR_SIGHT"
+msgid "LOBBY_EQUIPMENT20_NAME_REFLECTORSIGHT_G1"
+msgstr "Improved Collimator Sight"
+
+#, fuzzy
+#| msgid "LOBBY_EQUIPMENT_NAME_REFLECTOR_SIGHT"
+msgid "LOBBY_EQUIPMENT20_NAME_REFLECTORSIGHT_G2"
+msgstr "Advanced Collimator Sight"
+
+#, fuzzy
+#| msgid "LOBBY_EQUIPMENT_NAME_REFLECTOR_SIGHT"
+msgid "LOBBY_EQUIPMENT20_NAME_REFLECTORSIGHT_G3"
+msgstr "Ultimate Collimator Sight"
+
+#, fuzzy
+#| msgid "LOBBY_EQUIPMENT_NAME_GYRO_SIGHT"
+msgid "LOBBY_EQUIPMENT20_NAME_ROCKETSIGHT_G0"
+msgstr "Stock Rocket Sight"
+
+#, fuzzy
+#| msgid "LOBBY_EQUIPMENT_NAME_GYRO_SIGHT"
+msgid "LOBBY_EQUIPMENT20_NAME_ROCKETSIGHT_G1"
+msgstr "Improved Rocket Sight"
+
+#, fuzzy
+#| msgid "LOBBY_EQUIPMENT_NAME_GYRO_SIGHT"
+msgid "LOBBY_EQUIPMENT20_NAME_ROCKETSIGHT_G2"
+msgstr "Advanced Rocket Sight"
+
+#, fuzzy
+#| msgid "LOBBY_EQUIPMENT_NAME_GYRO_SIGHT"
+msgid "LOBBY_EQUIPMENT20_NAME_ROCKETSIGHT_G3"
+msgstr "Ultimate Rocket Sight"
+
+#, fuzzy
+#| msgid "LOBBY_EQUIPMENT_NAME_NEUTRAL_GAS"
+msgid "LOBBY_EQUIPMENT20_NAME_TURRETSERVOS_G0"
+msgstr "Stock Turret Gun Laying Drive"
+
+#, fuzzy
+#| msgid "LOBBY_EQUIPMENT_NAME_NEUTRAL_GAS"
+msgid "LOBBY_EQUIPMENT20_NAME_TURRETSERVOS_G1"
+msgstr "Improved Turret Gun Laying Drive"
+
+#, fuzzy
+#| msgid "LOBBY_EQUIPMENT_NAME_NEUTRAL_GAS"
+msgid "LOBBY_EQUIPMENT20_NAME_TURRETSERVOS_G2"
+msgstr "Advanced Turret Gun Laying Drive"
+
+#, fuzzy
+#| msgid "LOBBY_EQUIPMENT_NAME_NEUTRAL_GAS"
+msgid "LOBBY_EQUIPMENT20_NAME_TURRETSERVOS_G3"
+msgstr "Ultimate Turret Gun Laying Drive"
+
+#, fuzzy
+#| msgid "LOBBY_EQUIPMENT_NAME_REFLECTOR_SIGHT"
+msgid "LOBBY_EQUIPMENT20_NAME_TURRETSIGHT_G0"
+msgstr "Stock Turret Gunsight"
+
+#, fuzzy
+#| msgid "LOBBY_EQUIPMENT_NAME_REFLECTOR_SIGHT"
+msgid "LOBBY_EQUIPMENT20_NAME_TURRETSIGHT_G1"
+msgstr "Improved Turret Gunsight"
+
+#, fuzzy
+#| msgid "LOBBY_EQUIPMENT_NAME_REFLECTOR_SIGHT"
+msgid "LOBBY_EQUIPMENT20_NAME_TURRETSIGHT_G2"
+msgstr "Advanced Turret Gunsight"
+
+#, fuzzy
+#| msgid "LOBBY_EQUIPMENT_NAME_REFLECTOR_SIGHT"
+msgid "LOBBY_EQUIPMENT20_NAME_TURRETSIGHT_G3"
+msgstr "Ultimate Turret Gunsight"
+
+#, fuzzy
+#| msgid "LOBBY_EQUIPMENT_NAME_RADIO_SIGHT"
+msgid "LOBBY_EQUIPMENT20_NAME_UPRATEDENGINE_G0"
+msgstr "Stock Uprated Engine"
+
+#, fuzzy
+#| msgid "LOBBY_EQUIPMENT_NAME_COATING_MK1"
+msgid "LOBBY_EQUIPMENT20_NAME_UPRATEDENGINE_G1"
+msgstr "Improved Uprated Engine"
+
+#, fuzzy
+#| msgid "LOBBY_EQUIPMENT_NAME_COATING_MK2"
+msgid "LOBBY_EQUIPMENT20_NAME_UPRATEDENGINE_G2"
+msgstr "Advanced Uprated Engine"
+
+#, fuzzy
+#| msgid "LOBBY_EQUIPMENT_NAME_COATING_MK3"
+msgid "LOBBY_EQUIPMENT20_NAME_UPRATEDENGINE_G3"
+msgstr "Ultimate Uprated Engine"
+
+#, fuzzy
+#| msgid "LOBBY_EQUIPMENT_NAME_NEUTRAL_GAS"
+msgid "LOBBY_EQUIPMENT20_NAME_UPRATEDGUNS_G0"
+msgstr "Stock Gas-Operated Action"
+
+#, fuzzy
+#| msgid "LOBBY_EQUIPMENT_NAME_COATING_MK1"
+msgid "LOBBY_EQUIPMENT20_NAME_UPRATEDGUNS_G1"
+msgstr "Improved Gas-Operated Action"
+
+#, fuzzy
+#| msgid "LOBBY_EQUIPMENT_NAME_COATING_MK2"
+msgid "LOBBY_EQUIPMENT20_NAME_UPRATEDGUNS_G2"
+msgstr "Advanced Gas-Operated Action"
+
+#, fuzzy
+#| msgid "LOBBY_EQUIPMENT_NAME_COATING_MK3"
+msgid "LOBBY_EQUIPMENT20_NAME_UPRATEDGUNS_G3"
+msgstr "Ultimate Gas-Operated Action"
+
+#, fuzzy
+#| msgid "LOBBY_EQUIPMENT_NAME_OPTICAL_SIGHT"
+msgid "LOBBY_EQUIPMENT_CALIBRATED"
+msgstr "Equipment calibrated!"
+
 msgid "LOBBY_EQUIPMENT_COMPENSATION_MESSAGE"
 msgstr "回收配件“防彈玻璃”的補償:"
+
+#, fuzzy
+#| msgid "LOBBY_EQUIPMENT_EFFECT_SUPER_METAL_COATING"
+msgid "LOBBY_EQUIPMENT_DEBUFF_MODIFIERS_FOR_NOT_SPECIAL_STATE_CONFIRMATION_TEXT_1"
+msgstr ""
+"You are mounting the equipment \"{name}\" on the aircraft that has not been "
+"upgraded to the \"<font color='#{1}'>Specialist</font>\" configuration."
+"<br><font size='6'><br></font>This will affect the equipment performance:"
+
+#, fuzzy
+msgid "LOBBY_EQUIPMENT_DEBUFF_MODIFIERS_FOR_NOT_SPECIAL_STATE_TEXT_NEG-1"
+msgstr "Technological level and basic characteristics will be reduced"
+
+#, fuzzy
+msgid "LOBBY_EQUIPMENT_DEBUFF_MODIFIERS_FOR_NOT_SPECIAL_STATE_TEXT_NEG-2"
+msgstr "Technological level growth and calibration degree will be limited"
+
+#, fuzzy
+msgid "LOBBY_EQUIPMENT_DEBUFF_MODIFIERS_FOR_NOT_SPECIAL_STATE_TEXT_NEG-3"
+msgstr "Bonus characteristics will lose effect."
+
+#, fuzzy
+#| msgid "LOBBY_EQUIPMENT_NAME_IMPROVED_RAD_I"
+msgid "LOBBY_EQUIPMENT_DELIVERED_IN_WAREHOUSE"
+msgstr ""
+"The equipment has been delivered to the depot. Mount it on your aircraft and "
+"proceed to the next trials."
 
 msgid "LOBBY_EQUIPMENT_EFFECT_ADAPT_CAMO_I"
 msgstr "降低30%敵方防空火力和敵機尾砲對自身戰機的傷害效果"
@@ -4941,6 +6226,26 @@ msgstr ""
 
 msgid "LOBBY_EQUIPMENT_EFFECT_SUPER_METAL_COATING"
 msgstr "機體防禦+10%"
+
+#, fuzzy
+#| msgid "LOBBY_EQUIPMENT_NAME_BETTER_CLOTH_COATING"
+msgid "LOBBY_EQUIPMENT_INFO_BONUS_STATS_NOT_WORKING"
+msgstr "Bonus characteristics (inactive):"
+
+#, fuzzy
+#| msgid "LOBBY_EQUIPMENT_NAME_BOMB_SIGHT_I"
+msgid "LOBBY_EQUIPMENT_INFO_BONUS_STATS_WORKING"
+msgstr "Bonus characteristics:"
+
+#, fuzzy
+#| msgid "LOBBY_EQUIPMENT_NAME_ADDITIONAL_ARMOR"
+msgid "LOBBY_EQUIPMENT_INFO_CALIBRATION_CAPS"
+msgstr "CALIBRATION"
+
+#, fuzzy
+#| msgid "LOBBY_EQUIPMENT_NAME_FOF_I"
+msgid "LOBBY_EQUIPMENT_INSTALLED"
+msgstr "Equipment mounted!"
 
 msgid "LOBBY_EQUIPMENT_NAME_ADAPT_CAMO_I"
 msgstr "一級隱蔽偽裝"
@@ -5186,11 +6491,31 @@ msgstr "三級強化型機體"
 msgid "LOBBY_EQUIPMENT_NAME_SUPER_METAL_COATING"
 msgstr "五級增強蒙皮"
 
+#, fuzzy
+#| msgid "LOBBY_EQUIPMENT_NAME_NEUTRAL_GAS"
+msgid "LOBBY_EQUIPMENT_NOW_MAX_STATS"
+msgstr "Equipment was calibrated and enhanced to its maximum."
+
+#, fuzzy
+#| msgid "LOBBY_EQUIPMENT_NAME_RADIO_SIGHT"
+msgid "LOBBY_EQUIPMENT_POS_CREDITS_I-180"
+msgstr "Credits per battle"
+
+#, fuzzy
+#| msgid "LOBBY_EQUIPMENT_NAME_FOF_I"
+msgid "LOBBY_EQUIPMENT_POS_EXP_I-180"
+msgstr "Aircraft XP per battle"
+
 msgid "LOBBY_ERROR_NEED_REFILL"
 msgstr "補充彈藥"
 
 msgid "LOBBY_ERROR_SELL_LIMIT"
 msgstr "出售{plane}失敗，你在今天不能再出售戰機了。"
+
+#, fuzzy
+#| msgid "LOBBY_MENU"
+msgid "LOBBY_EVENT"
+msgstr "Special!"
 
 msgid "LOBBY_EVENTS_CONTEXT_BONUSES"
 msgstr "特別獎勵:"
@@ -5834,6 +7159,10 @@ msgstr "搜尋戰機"
 msgid "LOBBY_FILTER_HEADER"
 msgstr "過濾"
 
+#, fuzzy
+msgid "LOBBY_FILTER_INVENTORY"
+msgstr "INVENTORY"
+
 msgid "LOBBY_FILTER_RECENTLY_EXPLORED"
 msgstr "最近研發"
 
@@ -5855,6 +7184,11 @@ msgstr "按階級"
 msgid "LOBBY_FILTER_SORT_BY_WIN_COUNT"
 msgstr "按勝率"
 
+#, fuzzy
+#| msgid "LOBBY_FILTER_SORT"
+msgid "LOBBY_FILTER_STORE"
+msgstr "SHOP"
+
 msgid "LOBBY_FILTER_TOTAL_LIST"
 msgstr "全部"
 
@@ -5864,6 +7198,313 @@ msgstr "未研發"
 #, fuzzy
 msgid "LOBBY_FIND_EXCLUSIVE_TROPHY"
 msgstr "Search for exclusive loot!"
+
+#, fuzzy
+msgid "LOBBY_FIRE_DEFENCE"
+msgstr "Resistance to Fire"
+
+#, fuzzy
+#| msgid "LOBBY_QUESTS_STATUS_COMPLETED"
+msgid "LOBBY_FIRST_STAGE_COMPLETED"
+msgstr "First stage of trials complete!"
+
+#, fuzzy
+msgid "LOBBY_FITTING_PLANE_BATTLES_LEFT_FOR_UNLOCK_ALL_MODULES_WITHOUT_PREM"
+msgstr "Approx. battles left to research all modules: {0}"
+
+#, fuzzy
+msgid "LOBBY_FITTING_PLANE_BATTLES_LEFT_FOR_UNLOCK_ALL_MODULES_WITH_PREM"
+msgstr "Approx. with Premium: {0}"
+
+#, fuzzy
+#| msgid "LOBBY_WING_PLAYER_NOT_READY"
+msgid "LOBBY_FITTING_PLANE_BEFORE_ELITE_RULE-1"
+msgstr ""
+"Research all available <a>modules</a> of the aircraft to acquire <font "
+"color='#{1}'>Elite status</font>"
+
+#, fuzzy
+#| msgid "LOBBY_WING_PLAYER_NOT_READY"
+msgid "LOBBY_FITTING_PLANE_BEFORE_ELITE_RULE-2"
+msgstr ""
+"By acquiring <font color='#{1}'>Elite status</font>, you will be rewarded "
+"with an achievement"
+
+#, fuzzy
+#| msgid "LOBBY_WING_PLAYER_NOT_READY"
+msgid "LOBBY_FITTING_PLANE_BEFORE_ELITE_RULE-3"
+msgstr ""
+"An aircraft with <font color='#{1}'>Elite status</font> allows you to "
+"<a>convert experience</a> earned on it into Free Experience and accelerate "
+"its crew training"
+
+#, fuzzy
+msgid "LOBBY_FITTING_PLANE_BEFORE_FACTORY_NEW_RULE-1"
+msgstr ""
+"To receive an aircraft in the <font color='#{1}'>Stock configuration</font>, "
+"complete the mission"
+
+#, fuzzy
+msgid "LOBBY_FITTING_PLANE_BEFORE_FACTORY_NEW_RULE-2"
+msgstr ""
+"Along with reaching the <font color='#{1}'>Stock configuration</font>, you "
+"will be rewarded with an achievement"
+
+#, fuzzy
+msgid "LOBBY_FITTING_PLANE_BEFORE_FACTORY_NEW_RULE-3"
+msgstr ""
+"An aircraft in the <font color='#{1}'>Stock configuration</font> will allow "
+"you to earn <a>experience</a> in battles, research new <a>modules</a>, and "
+"mount <a>equipment and consumables</a>"
+
+#, fuzzy
+#| msgid "LOBBY_JA_TR_SPECIAL_QUEST_1"
+msgid "LOBBY_FITTING_PLANE_BEFORE_SPECIAL_RULE-1"
+msgstr ""
+"Complete the mission to unlock the opportunity to purchase the <a>"
+"\"Specialist\"</a> configuration"
+
+#, fuzzy
+#| msgid "LOBBY_JA_TR_SPECIAL_QUEST_2"
+msgid "LOBBY_FITTING_PLANE_BEFORE_SPECIAL_RULE-2"
+msgstr ""
+"Along with reaching the \"<font color='#{1}'>Specialist</font>\" "
+"configuration, you will be rewarded with an achievement"
+
+#, fuzzy
+#| msgid "LOBBY_JA_TR_SPECIAL_QUEST_3"
+msgid "LOBBY_FITTING_PLANE_BEFORE_SPECIAL_RULE-3"
+msgstr ""
+"You will be able to mount more equipment and <a>modify</a> it to ensure its "
+"maximum performance"
+
+#, fuzzy
+#| msgid "HANGAR_BUTTON_LOOK_IN_HANGAR"
+msgid "LOBBY_FITTING_PLANE_BUTTON_LOOK_IN_HANGAR"
+msgstr "View in Hangar"
+
+#, fuzzy
+msgid "LOBBY_FITTING_PLANE_CONGRATS_WITH_ELITE_PLANE_STATE"
+msgstr "Your aircraft acquired <font color='#{1}'>Elite Status</font>!"
+
+#, fuzzy
+msgid "LOBBY_FITTING_PLANE_CONGRATS_WITH_FACTORY_NEW_PERFECTION_PLANE_STATE"
+msgstr "Stock configuration achieved perfection!"
+
+#, fuzzy
+msgid "LOBBY_FITTING_PLANE_CONGRATS_WITH_FACTORY_NEW_PLANE_STATE"
+msgstr ""
+"Your aircraft was upgraded to the <font color='#{1}'>Stock configuration</"
+"font>"
+
+#, fuzzy
+msgid "LOBBY_FITTING_PLANE_CONGRATS_WITH_SPECIAL_PLANE_STATE"
+msgstr ""
+"Your aircraft was upgraded to the \"<font color='#{1}'>Specialist</font>\" "
+"configuration"
+
+#, fuzzy
+msgid "LOBBY_FITTING_PLANE_CONGRATS_WITH_SPECIAL_PLANE_STATE_ALREADY_IN_HANGAR"
+msgstr "A special modification of the aircraft was delivered to your Hangar!"
+
+#, fuzzy
+#| msgid "LOBBY_LABEL_ELITE_PLANE_QUALITIES"
+msgid "LOBBY_FITTING_PLANE_ELITE_FEATURES"
+msgstr "Features of aircraft with the Elite status"
+
+#, fuzzy
+#| msgid "LOBBY_WING_PLAYER_NOT_READY"
+msgid "LOBBY_FITTING_PLANE_ELITE_RULE-1"
+msgstr ""
+"An aircraft with <a>Elite status</a> allows you to earn more <a>crew "
+"experience</a> and master skills faster"
+
+#, fuzzy
+#| msgid "LOBBY_WING_PLAYER_NOT_READY"
+msgid "LOBBY_FITTING_PLANE_ELITE_RULE-2"
+msgstr ""
+"You can <a>convert experience</a> earned on an <font color='#{1}'>aircraft "
+"with Elite Status</font> to Free Experience"
+
+#, fuzzy
+#| msgid "LOBBY_WING_PLAYER_NOT_READY"
+msgid "LOBBY_FITTING_PLANE_ELITE_RULE-3"
+msgstr ""
+"To unlock the opportunity to purchase the \"<font color='#{1}'>Specialist</"
+"font>\" configuration, complete the mission assigned to you"
+
+#, fuzzy
+msgid "LOBBY_FITTING_PLANE_FACTORY_NEW_PLANE_FEATURES"
+msgstr "Features of aircraft in the Stock configuration"
+
+#, fuzzy
+#| msgid "LOBBY_WING_PLAYER_NOT_READY"
+msgid "LOBBY_FITTING_PLANE_FACTORY_NEW_RULE_1"
+msgstr ""
+"Now you can earn <a>experience</a> in battles and upgrade your aircraft by "
+"researching new <a>modules</a>"
+
+#, fuzzy
+#| msgid "LOBBY_WING_PLAYER_NOT_READY"
+msgid "LOBBY_FITTING_PLANE_FACTORY_NEW_RULE_2"
+msgstr "You can mount <a>equipment and consumables</a>"
+
+#, fuzzy
+#| msgid "LOBBY_WING_PLAYER_NOT_READY"
+msgid "LOBBY_FITTING_PLANE_FACTORY_NEW_RULE_3"
+msgstr ""
+"Once all <a>modules from the Tech Tree</a> are researched, your aircraft "
+"will acquire <font color='#{1}'>Elite status</font>"
+
+#, fuzzy
+#| msgid "LOBBY_FILTER_HEADER"
+msgid "LOBBY_FITTING_PLANE_HEADER"
+msgstr "Aircraft Progression"
+
+#, fuzzy
+msgid "LOBBY_FITTING_PLANE_IN_ORDER_TO_BUY_ALL_MODULES_COMPLETE_THIS_QUEST_BEFORE"
+msgstr ""
+"Complete this mission to unlock the opportunity to purchase the "
+"configuration using {total_cost}"
+
+#, fuzzy
+msgid "LOBBY_FITTING_PLANE_IN_ORDER_TO_UNLOCK_ELINE_PLANE_STATE_YOU_NEED_TO_GET_FACTORY_NEW_STATE"
+msgstr "Upgrade the aircraft to the Stock configuration"
+
+#, fuzzy
+msgid "LOBBY_FITTING_PLANE_IN_ORDER_TO_UNLOCK_SPECIAL_PLANE_STATE_YOU_NEED_TO_GET_ELITE_STATE"
+msgstr "Acquire Elite status for the aircraft"
+
+#, fuzzy
+#| msgid "LOBBY_MAINTENANCE_MODULE_PARAMETER_FIRE_CHANSE"
+msgid "LOBBY_FITTING_PLANE_MODULES_LEFT_FOR_ELITE_STATE"
+msgstr "Aircraft modules required to acquire Elite status"
+
+#, fuzzy
+msgid "LOBBY_FITTING_PLANE_PLANE_STATE_RECEIVED"
+msgstr "Acquired!"
+
+#, fuzzy
+#| msgid "LOBBY_LABEL_PREM_PLANE_QUALITIES"
+msgid "LOBBY_FITTING_PLANE_PROTOTYPE_PLANE_FEATURES"
+msgstr "Features of aircraft in the \"Prototype\" configuration"
+
+#, fuzzy
+#| msgid "LOBBY_LABEL_PREM_PLANE_QUALITIES"
+msgid "LOBBY_FITTING_PLANE_PROTOTYPE_PLANE_NAME"
+msgstr "You have received the Prototype of the {PLANE_LONGNAME}"
+
+#, fuzzy
+#| msgid "LOBBY_WING_PLAYER_NOT_READY"
+msgid "LOBBY_FITTING_PLANE_PROTOTYPE_RULE-1"
+msgstr "Now you can join battles and test your aircraft in battle"
+
+#, fuzzy
+#| msgid "LOBBY_WING_PLAYER_NOT_READY"
+msgid "LOBBY_FITTING_PLANE_PROTOTYPE_RULE-2"
+msgstr ""
+"An aircraft in the \"<font color='#{1}'>Prototype</font>\" configuration "
+"does not earn <a>experience</a> in battles and its modules cannot be changed"
+
+#, fuzzy
+#| msgid "LOBBY_WING_PLAYER_NOT_READY"
+msgid "LOBBY_FITTING_PLANE_PROTOTYPE_RULE-3"
+msgstr ""
+"Complete missions assigned to you and receive the aircraft in the <font "
+"color='#{1}'>Stock configuration</font>"
+
+#, fuzzy
+msgid "LOBBY_FITTING_PLANE_QUEST_DONE_NOW_YOU_CAN_INSTALL_NEW_SPECIAL_STATE"
+msgstr ""
+"Mission complete. Now you can purchase and mount the \"Specialist\" "
+"configuration."
+
+#, fuzzy
+#| msgid "LOBBY_QUESTS_NO_QUESTS_FOR_CURRENT_PLANE"
+msgid "LOBBY_FITTING_PLANE_QUEST_FOR_FACTORY_NEW_PLANE_STATE"
+msgstr "Mission to reach the Stock configuration"
+
+#, fuzzy
+msgid "LOBBY_FITTING_PLANE_QUEST_FOR_SPECIAL_PLANE_STATE"
+msgstr "Mission to reach the \"Specialist\" configuration"
+
+#, fuzzy
+#| msgid "LOBBY_QUESTS_STATUS_IN_PROGRESS"
+msgid "LOBBY_FITTING_PLANE_QUEST_IN_PROGRESS"
+msgstr "Mission in progress"
+
+#, fuzzy
+#| msgid "WING_BUTTON_READY_FOR_BATTLE"
+msgid "LOBBY_FITTING_PLANE_READY_FOR_BATTLE_1"
+msgstr "Ready for battle!"
+
+#, fuzzy
+#| msgid "WING_BUTTON_READY_FOR_BATTLE"
+msgid "LOBBY_FITTING_PLANE_READY_FOR_BATTLE_2"
+msgstr "The aircraft is already in your Hangar and ready for battle!"
+
+#, fuzzy
+#| msgid "WING_BUTTON_READY_FOR_BATTLE"
+msgid "LOBBY_FITTING_PLANE_READY_FOR_BATTLE_3"
+msgstr ""
+"The configuration is available in your Hangar. The aircraft is ready for "
+"battle!"
+
+#, fuzzy
+msgid "LOBBY_FITTING_PLANE_SOON_DESCRIPTION"
+msgstr ""
+"Soon, you will be able to purchase <font color='#{1}'>aircraft Prototypes</"
+"font> using tokens and without researching them in the Tech Tree. A <font "
+"color='#{1}'>Prototype</font> will arrive at your Hangar ready to be "
+"immediately tested in battle."
+
+#, fuzzy
+#| msgid "LOBBY_LABEL_PREM_PLANE_QUALITIES"
+msgid "LOBBY_FITTING_PLANE_SPECIAL_PLANE_FEATURES"
+msgstr "Features of aircraft in the \"Specialist\" configuration"
+
+#, fuzzy
+#| msgid "LOBBY_NO_CAMP_SPECIAL_QUEST_1"
+msgid "LOBBY_FITTING_PLANE_SPECIAL_RULE-1"
+msgstr ""
+"Now you can mount more <a>equipment pieces</a> to improve your performance "
+"in battle"
+
+#, fuzzy
+#| msgid "LOBBY_NO_CAMP_SPECIAL_QUEST_2"
+msgid "LOBBY_FITTING_PLANE_SPECIAL_RULE-2"
+msgstr ""
+"Specialists deserve only the best! You can take advantage of <a>Advanced and "
+"Ultimate</a> quality equipment"
+
+#, fuzzy
+#| msgid "LOBBY_NO_CAMP_SPECIAL_QUEST_3"
+msgid "LOBBY_FITTING_PLANE_SPECIAL_RULE-3"
+msgstr ""
+"Soon, you will get access to an alternative configuration of the aircraft"
+
+#, fuzzy
+#| msgid "LOBBY_MAINTENANCE_PAGE_HEADER_CAPS"
+msgid "LOBBY_FITTING_PLANE_STATE_ELITE_CAPS"
+msgstr "ELITE STATUS"
+
+#, fuzzy
+msgid "LOBBY_FITTING_PLANE_STATE_FACTORY_NEW"
+msgstr "STOCK CONFIGURATION"
+
+#, fuzzy
+#| msgid "LOBBY_WING_PLAYER_NOT_READY"
+msgid "LOBBY_FITTING_PLANE_STATE_PROTOTYPE"
+msgstr "PROTOTYPE"
+
+#, fuzzy
+#| msgid "LOBBY_CREW_HEADER_SPECIALITY_CAPS"
+msgid "LOBBY_FITTING_PLANE_STATE_SPECIAL_CAPS"
+msgstr "SPECIALIST"
+
+#, fuzzy
+msgid "LOBBY_FITTING_PLANE_TO_NEXT_STAGE_BUTTON"
+msgstr "To Next Stage"
 
 #, fuzzy
 msgid "LOBBY_FLAPS"
@@ -5897,6 +7538,18 @@ msgstr "Recruit one of the female pilots for free!"
 #, fuzzy
 msgid "LOBBY_FLIGHT_OF_VALKYRIES_TEXT_2"
 msgstr "Receive the other two in exchange for tokens."
+
+#, fuzzy
+msgid "LOBBY_FORWARD-FIRING_WEAPON_HEADER"
+msgstr "Forward-Firing Offensive Armament"
+
+#, fuzzy
+msgid "LOBBY_FORWARD-GUNS_DISTANCE"
+msgstr "Optimal Distance"
+
+#, fuzzy
+msgid "LOBBY_FORWARD-GUNS_PURE_DPS"
+msgstr "Cumulative Damage"
 
 msgid "LOBBY_FOR_EVERY_SKILLS_RESET_YOU_PAY"
 msgstr "重置一個技能花費："
@@ -5998,6 +7651,11 @@ msgstr "獲得專屬獎勵!"
 msgid "LOBBY_GIFTS_EVERY_DAY_TEXT_1"
 msgstr "完成任務<br>你將獲得新的消耗品作為獎勵。"
 
+#, fuzzy
+#| msgid "LOBBY_MESSAGE_CERTIFICATE_RECEIVED"
+msgid "LOBBY_GIFT_RECEIVED"
+msgstr "Congratulations! Award received."
+
 msgid "LOBBY_GIFT_WINDOW_CONTEXT_ART"
 msgstr "圖案:"
 
@@ -6026,6 +7684,119 @@ msgid "LOBBY_GOLD_REFILL_UNAVAILABLE"
 msgstr ""
 "自動補充金幣彈藥和消耗品的功能暫不可用<br>更換彈藥種類或不攜帶消耗品進入戰鬥"
 "<br>進入後勤介面補充彈藥和消耗品"
+
+#, fuzzy
+msgid "LOBBY_GROUP_POSNEG_BOMBCOOLDOWN"
+msgstr "Bomb reload speed"
+
+#, fuzzy
+#| msgid "LOBBY_SHOP_CATEGORY_BOMBS"
+msgid "LOBBY_GROUP_POSNEG_BOMBFOCUS"
+msgstr "Bombing accuracy"
+
+#, fuzzy
+#| msgid "LOBBY_PERSONAL_RATING_COLON"
+msgid "LOBBY_GROUP_POSNEG_BRCOOLDOWN"
+msgstr "Outboard weapon reload speed"
+
+#, fuzzy
+#| msgid "LOBBY_BUTTON_CUSTOMIZATION"
+msgid "LOBBY_GROUP_POSNEG_BURSTDURATION"
+msgstr "Burst length"
+
+#, fuzzy
+#| msgid "LOBBY_BONUSES_CREDITS"
+msgid "LOBBY_GROUP_POSNEG_CREWCRITRESIST"
+msgstr "Crew's resistance to injuries"
+
+#, fuzzy
+msgid "LOBBY_GROUP_POSNEG_ECON"
+msgstr "Income per battle"
+
+#, fuzzy
+#| msgid "LOBBY_SHOP_HEADER_ENGINES_LIST"
+msgid "LOBBY_GROUP_POSNEG_ENGINECRITRESIST"
+msgstr "Engine's resistance to damage"
+
+#, fuzzy
+#| msgid "LOBBY_EQUIPMENT_NAME_ENGINE_TWEAK_I"
+msgid "LOBBY_GROUP_POSNEG_ENGINEPOWER"
+msgstr "Engine thrust"
+
+#, fuzzy
+#| msgid "LOBBY_CREW_COST_FREE"
+msgid "LOBBY_GROUP_POSNEG_FIRERANGE"
+msgstr "Range of fire"
+
+#, fuzzy
+#| msgid "LOBBY_CREW_COST_FREE"
+msgid "LOBBY_GROUP_POSNEG_FIRERATE"
+msgstr "Rate of fire"
+
+#, fuzzy
+msgid "LOBBY_GROUP_POSNEG_FIRERESIST"
+msgstr "Resistance to fire"
+
+#, fuzzy
+msgid "LOBBY_GROUP_POSNEG_GUNNERCRITRESIST"
+msgstr "Gunner's resistance to injuries"
+
+#, fuzzy
+#| msgid "LOBBY_BONUSES_EXP"
+msgid "LOBBY_GROUP_POSNEG_HP"
+msgstr "Aircraft HP"
+
+#, fuzzy
+msgid "LOBBY_GROUP_POSNEG_HULLCRITRESIST"
+msgstr "Wings and tail's resistance to damage"
+
+#, fuzzy
+#| msgid "LOBBY_AIRCRAFT_COMPARISON_LABEL_MANEUVERABILITY"
+msgid "LOBBY_GROUP_POSNEG_MANEUERABILITY"
+msgstr "Aircraft maneuverability"
+
+#, fuzzy
+msgid "LOBBY_GROUP_POSNEG_PILOTCRITRESIST"
+msgstr "Pilot's resistance to injuries"
+
+#, fuzzy
+msgid "LOBBY_GROUP_POSNEG_ROCKETCOOLDOWN"
+msgstr "Rocket reload speed"
+
+#, fuzzy
+#| msgid "LOBBY_MODULE_ROCKET_RACK"
+msgid "LOBBY_GROUP_POSNEG_ROCKETRANGE"
+msgstr "Range of rockets"
+
+#, fuzzy
+#| msgid "LOBBY_SHOP_CONTEXT_SELL"
+msgid "LOBBY_GROUP_POSNEG_SPEED"
+msgstr "Aircraft speed"
+
+#, fuzzy
+#| msgid "LOBBY_PVE_CONTEXT_FEATURE_UNLOCK"
+msgid "LOBBY_GROUP_POSNEG_TURRETLOCKTIME"
+msgstr "Aiming speed in automatic mode"
+
+#, fuzzy
+#| msgid "LOBBY_GUNNER_CURRENT_PLANE"
+msgid "LOBBY_GROUP_POSNEG_TURRETMANUALRANGE"
+msgstr "Range of fire in manual mode"
+
+#, fuzzy
+#| msgid "LOBBY_SHOP_HEADER_WEAPONS_LIST"
+msgid "LOBBY_GROUP_POSNEG_WEAPONFOCUS"
+msgstr "Firing accuracy"
+
+#, fuzzy
+#| msgid "LOBBY_CREW_CONTEXT_WE_OFFER"
+msgid "LOBBY_GROUP_POSNEG_WEPPOWER"
+msgstr "Boost efficiency"
+
+#, fuzzy
+#| msgid "LOBBY_ON_NEXT_WEEK"
+msgid "LOBBY_GROUP_POSNEG_WEPTIME"
+msgstr "Boost availability"
 
 #, fuzzy
 msgid "LOBBY_GUNNER_CABIN"
@@ -6125,6 +7896,11 @@ msgstr "節日活動還會有的！"
 
 msgid "LOBBY_HIDEN_PLANES_ANGAR"
 msgstr "隱藏在機庫中的戰機"
+
+#, fuzzy
+#| msgid "LOBBY_HINT_HEADER_WING"
+msgid "LOBBY_HIGHT_CEILING"
+msgstr "Service Ceiling"
 
 msgid "LOBBY_HINT_COMPARISON_MUCH_BETTER"
 msgstr "優越，會使你在戰場上獲得優勢。"
@@ -6244,6 +8020,10 @@ msgstr "ft"
 
 msgid "LOBBY_INFO_M"
 msgstr "m"
+
+#, fuzzy
+msgid "LOBBY_INSTALL_EQUIPMENT_Q_MARK"
+msgstr "Mount equipment?"
 
 msgid "LOBBY_IN_BATTLE"
 msgstr "戰鬥中"
@@ -6894,6 +8674,43 @@ msgstr "經驗"
 msgid "LOBBY_LAST_QUESTS_STATUS_COMPLETED"
 msgstr "Last mission completed!"
 
+#, fuzzy
+#| msgid "LOBBY_GIFT_WINDOW_CONTEXT_BOMBS_ROCKETS"
+msgid "LOBBY_LIMIT_LIST_BOMB_ROCKETS"
+msgstr "Outboard weapon"
+
+#, fuzzy
+msgid "LOBBY_LIMIT_LIST_CABIN"
+msgstr "Cockpit"
+
+#, fuzzy
+#| msgid "LOBBY_QUESTS_WINS_GAINED"
+msgid "LOBBY_LIMIT_LIST_ENGINE"
+msgstr "Engine"
+
+#, fuzzy
+#| msgid "LOBBY_PILOT_DOES_NOT_GAIN_EXP"
+msgid "LOBBY_LIMIT_LIST_MAIN_WEAPONS"
+msgstr "Forward-firing weapon"
+
+#, fuzzy
+msgid "LOBBY_LIMIT_LIST_PLANER"
+msgstr "Airframe"
+
+#, fuzzy
+msgid "LOBBY_LIMIT_LIST_TURRETS"
+msgstr "Turrets"
+
+#, fuzzy
+#| msgid "LOBBY_IGR_ONLY_FOR_IGR_CHINA"
+msgid "LOBBY_LIMIT_ONLY_FOR_PLANE_LIST"
+msgstr "Aircraft:"
+
+#, fuzzy
+#| msgid "LOBBY_MODULE_INFO_OPT_DIST"
+msgid "LOBBY_LIMIT_ONLY_FOR_SLOT_LIST"
+msgstr "Slot type:"
+
 msgid "LOBBY_LOAD_ACCOUNT_INFO"
 msgstr "同步帳號資訊…"
 
@@ -7008,6 +8825,29 @@ msgstr "單價"
 msgid "LOBBY_MAINTENANSE_LABEL_REFILL_NEEDED"
 msgstr "去往後勤介面！"
 
+#, fuzzy
+#| msgid "LOBBY_VIDEOMATERIALS"
+msgid "LOBBY_MATERIALS_LIST"
+msgstr "Materials"
+
+#, fuzzy
+#| msgid "LOBBY_PFT_RECEIVE_CONGRATULATION"
+msgid "LOBBY_MATERIALS_RECEIVED_FOR_CALIBRATION"
+msgstr "Materials for calibrating equipment received!"
+
+#, fuzzy
+msgid "LOBBY_MATERIALS_RECIEVED_FOR_UPGRADE"
+msgstr "Materials for enhancing equipment received!"
+
+#, fuzzy
+msgid "LOBBY_MATERIALS_TIER_LIST"
+msgstr "Battle Tier"
+
+#, fuzzy
+#| msgid "LOBBY_LOAD_ROOM_SPACE"
+msgid "LOBBY_MAX_BOOST_SPEED"
+msgstr "Boost Speed"
+
 msgid "LOBBY_MAY_2015_WINDOW_HEADER"
 msgstr "С 9 МАЯ!"
 
@@ -7074,6 +8914,13 @@ msgstr "你可使用令牌直接完成任務的方式推進連鎖閃電系列活
 
 msgid "LOBBY_MESSAGES_QUANTITY"
 msgstr "數量:"
+
+#, fuzzy
+#| msgid "LOBBY_MESSAGE_AIRCRAFT_IN_BATTLE"
+msgid "LOBBY_MESSAGE_AFTER_CALIBRATE"
+msgstr ""
+"The equipment characteristics were calibrated in the best possible way."
+"<br><font size='6'><br></font>For further calibration, enhance the equipment."
 
 msgid "LOBBY_MESSAGE_AIRCRAFT_IN_BATTLE"
 msgstr "目前戰機將在戰鬥結束時返回機庫<br>若要開始新的戰鬥，請選擇其他戰機"
@@ -7151,6 +8998,323 @@ msgstr "Смена адреса"
 msgid "LOBBY_MESSAGE_WINDOW_RANK_GAINED"
 msgstr "提升機組乘員"
 
+#, fuzzy
+#| msgid "LOBBY_QUESTS_PLANES_DAMAGED"
+msgid "LOBBY_MODIFIERS_AA_PLANE_DAMAGE_K"
+msgstr "Resistance to damage from gunners and AA guns"
+
+#, fuzzy
+#| msgid "LOBBY_MODULE_ROCKET_RACK"
+msgid "LOBBY_MODIFIERS_ACCEL_BRAKE_CFG"
+msgstr "Deceleration performance"
+
+#, fuzzy
+#| msgid "LOBBY_CAMO_AUTO_APPLY"
+msgid "LOBBY_MODIFIERS_AUTOAIM_ANGLE"
+msgstr "Accuracy at moving targets"
+
+#, fuzzy
+#| msgid "LOBBY_MODULE_INFO_MAX_DAMAGE"
+msgid "LOBBY_MODIFIERS_BOMB_DAMAGE"
+msgstr "Damage"
+
+#, fuzzy
+#| msgid "LOBBY_MODULE_BOMB_RACK"
+msgid "LOBBY_MODIFIERS_BOMB_MISSILE_FOCUS"
+msgstr "Accuracy"
+
+#, fuzzy
+msgid "LOBBY_MODIFIERS_BOMB_RECHARGE_TIME"
+msgstr "Bomb reload speed"
+
+#, fuzzy
+#| msgid "LOBBY_MODULE_BOMB_RACK"
+msgid "LOBBY_MODIFIERS_BOMB_SPLASH"
+msgstr "Blast radius"
+
+#, fuzzy
+msgid "LOBBY_MODIFIERS_BOOST_COOLING_RATE"
+msgstr "Engine boost cooldown rate"
+
+#, fuzzy
+#| msgid "LOBBY_MODULE_INFO_NOT_RESEARCHED"
+msgid "LOBBY_MODIFIERS_BOOST_SPEED"
+msgstr "Boost Speed"
+
+#, fuzzy
+#| msgid "LOBBY_CHARACTERISTICS_CONTROLLABILITY"
+msgid "LOBBY_MODIFIERS_CONTROLLABILITY_ON_HIGH_SPEED"
+msgstr "Controllability at high speeds"
+
+#, fuzzy
+#| msgid "LOBBY_CHARACTERISTICS_CONTROLLABILITY"
+msgid "LOBBY_MODIFIERS_CONTROLLABILITY_ON_LOW_SPEED"
+msgstr "Controllability at low speeds"
+
+#, fuzzy
+#| msgid "LOBBY_QUESTS_WINS_GAINED"
+msgid "LOBBY_MODIFIERS_CRIT_WEAKNESS_ENGINE"
+msgstr "Engine's resistance to damage"
+
+#, fuzzy
+#| msgid "LOBBY_CREW_HEADER_GUNNER"
+msgid "LOBBY_MODIFIERS_CRIT_WEAKNESS_GUNNER"
+msgstr "Gunner's resistance to injuries"
+
+#, fuzzy
+#| msgid "LOBBY_CREW_HEADER_PILOT"
+msgid "LOBBY_MODIFIERS_CRIT_WEAKNESS_PILOT"
+msgstr "Pilot's resistance to injuries"
+
+#, fuzzy
+#| msgid "LOBBY_CAMO_HEADER_INSTALL"
+msgid "LOBBY_MODIFIERS_CRIT_WEAKNESS_TAIL"
+msgstr "Tail's resistance to damage"
+
+#, fuzzy
+#| msgid "LOBBY_DESCRIPTION_BATTLE_POINTS"
+msgid "LOBBY_MODIFIERS_CRIT_WEAKNESS_WINGS"
+msgstr "Wings' resistance to damage"
+
+#, fuzzy
+#| msgid "LOBBY_MODULE_INFO_USES_PER_BATTLE"
+msgid "LOBBY_MODIFIERS_CRUISE_SPEED"
+msgstr "Cruise Speed"
+
+#, fuzzy
+#| msgid "LOBBY_MODULES_PAGE_TOTAL_COST"
+msgid "LOBBY_MODIFIERS_DAMAGE_AGILITY"
+msgstr "Damaged aircraft controllability"
+
+#, fuzzy
+#| msgid "LOBBY_WINTER_CELEBRATIONS_HEADER"
+msgid "LOBBY_MODIFIERS_DIVE_ACCELERATION"
+msgstr "Acceleration while diving"
+
+#, fuzzy
+#| msgid "LOBBY_BONUSES_CREDITS"
+msgid "LOBBY_MODIFIERS_ECONOMIC_BONUS_CREDITS"
+msgstr "Credits per battle"
+
+#, fuzzy
+#| msgid "LOBBY_CREW_BONUS_EXP"
+msgid "LOBBY_MODIFIERS_ECONOMIC_BONUS_XP"
+msgstr "XP per battle"
+
+#, fuzzy
+#| msgid "LOBBY_FILTER_RECENTLY_EXPLORED"
+msgid "LOBBY_MODIFIERS_EMERGENCY_POWER"
+msgstr "Acceleration with boost"
+
+#, fuzzy
+msgid "LOBBY_MODIFIERS_ENGINE_POWER"
+msgstr "Acceleration"
+
+#, fuzzy
+#| msgid "LOBBY_MODULE_INFO_USES_PER_BATTLE"
+msgid "LOBBY_MODIFIERS_ENGINE_POWER_ALT"
+msgstr "Acceleration"
+
+#, fuzzy
+#| msgid "LOBBY_HEADER_FAST_TRAINING"
+msgid "LOBBY_MODIFIERS_FAST_ENGINE_COOLING"
+msgstr "Engine cooldown rate"
+
+#, fuzzy
+msgid "LOBBY_MODIFIERS_FIRE_CHANCE"
+msgstr "Resistance to fire"
+
+#, fuzzy
+#| msgid "LOBBY_MODULE_INFO_MAX_DAMAGE"
+msgid "LOBBY_MODIFIERS_FIRE_DAMAGE_K"
+msgstr "Resistance to damage from fire"
+
+#, fuzzy
+#| msgid "LOBBY_CAMO_CONFIRMATION"
+msgid "LOBBY_MODIFIERS_FIRE_DURATION"
+msgstr "Fire extinguishing speed"
+
+#, fuzzy
+msgid "LOBBY_MODIFIERS_FIRE_RANGE"
+msgstr "Range of fire"
+
+#, fuzzy
+#| msgid "LOBBY_FILTER_FIND_AIRCRAFT"
+msgid "LOBBY_MODIFIERS_FIRE_RATE"
+msgstr "Rate of fire"
+
+#, fuzzy
+#| msgid "LOBBY_MODULES_PAGE_BUTTON_DESTROY"
+msgid "LOBBY_MODIFIERS_GUNNER_BURST_TIME_MODIFIER"
+msgstr "Burst length"
+
+#, fuzzy
+#| msgid "LOBBY_MODULES_PAGE_BUTTON_INSTALL_EQIPMENT"
+msgid "LOBBY_MODIFIERS_GUNNER_REDUCTION_TIME"
+msgstr "Aiming speed"
+
+#, fuzzy
+#| msgid "LOBBY_MODULES_PAGE_BUTTON_INSTALL"
+msgid "LOBBY_MODIFIERS_GUNNER_REDUCTION_TIME_MANUALLY"
+msgstr "Aiming speed in manual mode"
+
+#, fuzzy
+#| msgid "LOBBY_MODULE_INFO_MAX_DAMAGE"
+msgid "LOBBY_MODIFIERS_GUNS_INCFLICT_DAMAGE"
+msgstr "Damage"
+
+#, fuzzy
+#| msgid "LOBBY_MODULE_INFO_DIST_FT"
+msgid "LOBBY_MODIFIERS_GUNS_INFLICT_CRIT"
+msgstr "Chance of damage"
+
+#, fuzzy
+#| msgid "LOBBY_ORDER_SERTIFICATE"
+msgid "LOBBY_MODIFIERS_GUNS_INFLICT_FIRE"
+msgstr "Chance of fire"
+
+#, fuzzy
+#| msgid "LOBBY_MODULE_INFO_MAX_DAMAGE_PER_SEC"
+msgid "LOBBY_MODIFIERS_INCOMING_DAMAGE_FROM_AA_TURRET"
+msgstr "Resistance to damage from AA guns"
+
+#, fuzzy
+#| msgid "LOBBY_MODULE_INFO_MAX_DAMAGE_PER_SEC"
+msgid "LOBBY_MODIFIERS_INCOMING_DAMAGE_FROM_GUNNER"
+msgstr "Resistance to damage from gunners"
+
+#, fuzzy
+#| msgid "LOBBY_TRAINING_EXCHANGE_RATE"
+msgid "LOBBY_MODIFIERS_MAIN_GUNS_COOLING_RATE"
+msgstr "Cooldown rate"
+
+#, fuzzy
+#| msgid "LOBBY_MODULE_INFO_MAX_DAMAGE"
+msgid "LOBBY_MODIFIERS_MAIN_GUNS_DAMAGE"
+msgstr "Damage"
+
+#, fuzzy
+#| msgid "LOBBY_MODULE_INFO_MAX_DAMAGE"
+msgid "LOBBY_MODIFIERS_MAIN_GUNS_DAMAGE_GROUND"
+msgstr "Damage to ground targets"
+
+#, fuzzy
+msgid "LOBBY_MODIFIERS_MAIN_GUNS_DURATION_BEFORE_OVERHEAT"
+msgstr "Burst length"
+
+#, fuzzy
+#| msgid "LOBBY_CAMOUFLAGE_MAIN_CAMO"
+msgid "LOBBY_MODIFIERS_MAIN_HP"
+msgstr "Hit points"
+
+#, fuzzy
+#| msgid "LOBBY_CAMO_MAP_NIGHT"
+msgid "LOBBY_MODIFIERS_MAX_HEIGHT"
+msgstr "Service Ceiling"
+
+#, fuzzy
+#| msgid "LOBBY_CAMO_HEADER_MAP_TYPES"
+msgid "LOBBY_MODIFIERS_MAX_SPEED"
+msgstr "Airspeed"
+
+#, fuzzy
+#| msgid "LABEL_OPTIMAL_HEIGHT"
+msgid "LOBBY_MODIFIERS_OPTIMAL_HEIGHT"
+msgstr "Optimum altitude"
+
+#, fuzzy
+#| msgid "LOBBY_MODULE_INFO_MAX_DAMAGE"
+msgid "LOBBY_MODIFIERS_PITCH_MAX_SPEED_CFG"
+msgstr "Turn rate"
+
+#, fuzzy
+#| msgid "LOBBY_MODULE_ROCKET_RACK"
+msgid "LOBBY_MODIFIERS_ROCKET_DAMAGE"
+msgstr "Damage"
+
+#, fuzzy
+#| msgid "LOBBY_MODULE_ROCKET_RACK"
+msgid "LOBBY_MODIFIERS_ROCKET_MISSILE_FOCUS"
+msgstr "Accuracy"
+
+#, fuzzy
+#| msgid "LOBBY_MODULE_ROCKET_RACK"
+msgid "LOBBY_MODIFIERS_ROCKET_RANGE"
+msgstr "Range of fire"
+
+#, fuzzy
+#| msgid "LOBBY_MODULE_ROCKET_RACK"
+msgid "LOBBY_MODIFIERS_ROCKET_RECHARGE_TIME"
+msgstr "Rocket reload speed"
+
+#, fuzzy
+#| msgid "LOBBY_MODULE_ROCKET_RACK"
+msgid "LOBBY_MODIFIERS_ROCKET_SPLASH"
+msgstr "Blast radius"
+
+#, fuzzy
+#| msgid "LOBBY_MODULE_INFO_MAX_DAMAGE"
+msgid "LOBBY_MODIFIERS_ROLL_MAX_SPEED_CFG"
+msgstr "Rate of roll"
+
+#, fuzzy
+msgid "LOBBY_MODIFIERS_ROLL_ON_HIGH_SPEED"
+msgstr "Roll at high speeds"
+
+#, fuzzy
+#| msgid "LOBBY_I-15BIS-DM2_SELL_MESSAGE_TEXT"
+msgid "LOBBY_MODIFIERS_SHELL_RECHARGE_TIME"
+msgstr "Bomb and rocket reload speed"
+
+#, fuzzy
+msgid "LOBBY_MODIFIERS_SYSTEM_HP"
+msgstr "Wings and tail's resistance to damage"
+
+#, fuzzy
+#| msgid "LOBBY_CAMO_TEXT_NEDERLAND"
+msgid "LOBBY_MODIFIERS_TURRET_DELAY"
+msgstr "Rate of fire in bursts"
+
+#, fuzzy
+#| msgid "LOBBY_MODULE_ROCKET_RACK"
+msgid "LOBBY_MODIFIERS_TURRET_FOCUS"
+msgstr "Damage"
+
+#, fuzzy
+#| msgid "LOBBY_MODULE_INFO_DIST_FT"
+msgid "LOBBY_MODIFIERS_TURRET_INFLICT_CRIT"
+msgstr "Chance of damage"
+
+#, fuzzy
+#| msgid "LOBBY_CAMO_TEXT_FRANCE"
+msgid "LOBBY_MODIFIERS_TURRET_RANGE"
+msgstr "Range of fire"
+
+#, fuzzy
+#| msgid "LOBBY_CAMO_TEXT_FRANCE_NATIONAL"
+msgid "LOBBY_MODIFIERS_TURRET_RANGE_MANUALLY"
+msgstr "Range of fire in manual mode"
+
+#, fuzzy
+#| msgid "LOBBY_CAMO_HEADER_APPLY_CAMO"
+msgid "LOBBY_MODIFIERS_VITALS_ARMOR"
+msgstr "Engine and crew's resistance to damage"
+
+#, fuzzy
+#| msgid "LOBBY_SHOP_HEADER_WEAPONS_LIST"
+msgid "LOBBY_MODIFIERS_WEAPONS_FOCUS"
+msgstr "Accuracy"
+
+#, fuzzy
+#| msgid "LOBBY_MODULE_INFO_WEAPON_LOW_EF"
+msgid "LOBBY_MODIFIERS_WEP_WORK_TIME"
+msgstr "Boost Duration"
+
+#, fuzzy
+#| msgid "LOBBY_MODULE_INFO_MAX_DAMAGE_PER_SEC"
+msgid "LOBBY_MODIFIERS_YAW_MAX_SPEED_CFG"
+msgstr "Yaw rate"
+
 msgid "LOBBY_MODULES_PAGE_BOMBS_TO_WAREHOUSE"
 msgstr "{number} 個炸彈將被卸至倉庫"
 
@@ -7189,6 +9353,11 @@ msgstr "配件"
 
 msgid "LOBBY_MODULES_PAGE_HEADER_ADDITIONAL_EQUIPMENT_CAPS"
 msgstr "配件"
+
+#, fuzzy
+#| msgid "LOBBY_MODULES_PAGE_HEADER_ADDITIONAL_MODULES_CAPS"
+msgid "LOBBY_MODULES_PAGE_HEADER_ADDITIONAL_MATERIALS_CAPS"
+msgstr "MATERIALS"
 
 msgid "LOBBY_MODULES_PAGE_HEADER_ADDITIONAL_MODULES"
 msgstr "附加配件"
@@ -7392,6 +9561,262 @@ msgstr "你的令牌："
 msgid "LOBBY_NEW_ACHIEVEMENT_HEADER"
 msgstr "新成就"
 
+#, fuzzy
+msgid "LOBBY_NEW_BETTER_EQUIPMENT_FOR_ATTACK_PLANE-V-VII"
+msgstr "Improved equipment for a Tier V–VII attack aircraft"
+
+#, fuzzy
+msgid "LOBBY_NEW_BETTER_EQUIPMENT_FOR_BOMBERS-V-VII"
+msgstr "Improved equipment for a Tier V–VII bomber"
+
+#, fuzzy
+msgid "LOBBY_NEW_BETTER_EQUIPMENT_FOR_FIGHTERS-V-VII"
+msgstr "Improved equipment for a Tier V–VII fighter"
+
+#, fuzzy
+msgid "LOBBY_NEW_BETTER_EQUIPMENT_FOR_HEAVY_FIGHTERS-V-VII"
+msgstr "Improved equipment for a Tier V–VII heavy fighter"
+
+#, fuzzy
+msgid "LOBBY_NEW_BETTER_EQUIPMENT_FOR_NAVI-V-VII"
+msgstr "Improved equipment for a Tier V–VII multirole fighter"
+
+#, fuzzy
+#| msgid "LOBBY_EQUIPMENT_EFFECT_ADAPT_CAMO_II"
+msgid "LOBBY_NEW_EQUIPMENT_FOR_ATTACK_PLANE-V-VII"
+msgstr "For Tier V–VII attack aircraft"
+
+#, fuzzy
+msgid "LOBBY_NEW_EQUIPMENT_FOR_BOMBERS-V-VII"
+msgstr "For Tier V–VII bombers"
+
+#, fuzzy
+msgid "LOBBY_NEW_EQUIPMENT_FOR_FIGHTERS-V-VII"
+msgstr "For Tier V–VII fighters"
+
+#, fuzzy
+msgid "LOBBY_NEW_EQUIPMENT_FOR_HEAVY_FIGHTERS-V-VII"
+msgstr "For Tier V–VII heavy fighters"
+
+#, fuzzy
+#| msgid "LOBBY_EQUIPMENT_NAME_FOF_I"
+msgid "LOBBY_NEW_EQUIPMENT_FOR_NAVI-V-VII"
+msgstr "For Tier V–VII multirole fighters"
+
+#, fuzzy
+#| msgid "LOBBY_NEW_ACHIEVEMENT_HEADER"
+msgid "LOBBY_NEW_EQUIPMENT_HEADER"
+msgstr "Upgraded Equipment"
+
+#, fuzzy
+#| msgid "LOBBY_QUESTS_CONTEXT_QUEST_DESCRIPTION"
+msgid "LOBBY_NEW_EQUIPMENT_QUEST_DESCRIPTION-1"
+msgstr "Join a standard battle in a Tier V–VII aircraft."
+
+#, fuzzy
+#| msgid "LOBBY_QUESTS_CONTEXT_QUEST_DESCRIPTION"
+msgid "LOBBY_NEW_EQUIPMENT_QUEST_DESCRIPTION-2"
+msgstr ""
+"Complete the mission to receive the equipment and unlock the next stage."
+
+#, fuzzy
+#| msgid "LOBBY_QUESTS_CONTEXT_QUEST_DESCRIPTION"
+msgid "LOBBY_NEW_EQUIPMENT_QUEST_DESCRIPTION-3"
+msgstr ""
+"Mount the equipment of Improved quality on your aircraft to unlock the next "
+"stage."
+
+#, fuzzy
+#| msgid "LOBBY_QUESTS_CONTEXT_QUEST_DESCRIPTION"
+msgid "LOBBY_NEW_EQUIPMENT_QUEST_DESCRIPTION-4"
+msgstr ""
+"Complete the mission to receive Materials for calibrating equipment and "
+"unlock the next stage."
+
+#, fuzzy
+#| msgid "LOBBY_QUESTS_CONTEXT_QUEST_DESCRIPTION"
+msgid "LOBBY_NEW_EQUIPMENT_QUEST_DESCRIPTION-5"
+msgstr "Calibrate the equipment to unlock the next stage."
+
+#, fuzzy
+#| msgid "LOBBY_QUESTS_CONTEXT_QUEST_DESCRIPTION"
+msgid "LOBBY_NEW_EQUIPMENT_QUEST_DESCRIPTION-6"
+msgstr ""
+"Complete the mission to receive Materials for enhancing equipment and unlock "
+"the next stage."
+
+#, fuzzy
+#| msgid "LOBBY_QUESTS_CONTEXT_QUEST_DESCRIPTION"
+msgid "LOBBY_NEW_EQUIPMENT_QUEST_DESCRIPTION-7"
+msgstr "Enhance the equipment to the \"Advanced\" quality level."
+
+#, fuzzy
+msgid "LOBBY_NEW_EQUIPMENT_QUEST_DESCRIPTION_FOR_ATTACK_PLANE-2"
+msgstr ""
+"Earn 2,000 personal points for causing damage to ground targets in standard "
+"battles."
+
+#, fuzzy
+msgid "LOBBY_NEW_EQUIPMENT_QUEST_DESCRIPTION_FOR_ATTACK_PLANE-4"
+msgstr ""
+"Destroy 10 ground targets or air defense aircraft in any number of "
+"victorious battles."
+
+#, fuzzy
+msgid "LOBBY_NEW_EQUIPMENT_QUEST_DESCRIPTION_FOR_ATTACK_PLANE-6"
+msgstr ""
+"Earn 400 personal points for damaging ground targets in each of 2 victorious "
+"battles played in a row."
+
+#, fuzzy
+#| msgid "LOBBY_QUESTS_CONTEXT_QUEST_DESCRIPTION"
+msgid "LOBBY_NEW_EQUIPMENT_QUEST_DESCRIPTION_FOR_BOMBER-4"
+msgstr "Destroy 15 ground targets in any number of victorious battles."
+
+#, fuzzy
+#| msgid "LOBBY_QUESTS_CONTEXT_QUEST_DESCRIPTION"
+msgid "LOBBY_NEW_EQUIPMENT_QUEST_DESCRIPTION_FOR_BOMBER-6"
+msgstr ""
+"Destroy 5 ground targets in each of 2 victorious battles played in a row."
+
+#, fuzzy
+#| msgid "LOBBY_CONSUMABLES_DESCRIPTION_SHORT_BOND_PACK"
+msgid "LOBBY_NEW_EQUIPMENT_QUEST_DESCRIPTION_FOR_BOMBER_AND_HEAVY-2"
+msgstr "Participate in capturing 10 sectors in standard battles."
+
+#, fuzzy
+#| msgid "LOBBY_QUESTS_CONTEXT_QUEST_DESCRIPTION"
+msgid "LOBBY_NEW_EQUIPMENT_QUEST_DESCRIPTION_FOR_FIGHTER-2"
+msgstr ""
+"Earn 2,000 personal points for destroying aerial targets in standard battles."
+
+#, fuzzy
+#| msgid "LOBBY_QUESTS_CONTEXT_QUEST_DESCRIPTION"
+msgid "LOBBY_NEW_EQUIPMENT_QUEST_DESCRIPTION_FOR_FIGHTER-4"
+msgstr ""
+"Destroy 15 enemy fighters or multirole fighters in any number of victorious "
+"battles."
+
+#, fuzzy
+#| msgid "LOBBY_QUESTS_CONTEXT_QUEST_DESCRIPTION"
+msgid "LOBBY_NEW_EQUIPMENT_QUEST_DESCRIPTION_FOR_FIGHTER-6"
+msgstr ""
+"Earn 500 personal points for destroying aerial targets in each of 2 "
+"victorious battles played in a row."
+
+#, fuzzy
+#| msgid "LOBBY_QUESTS_CONTEXT_QUEST_DESCRIPTION"
+msgid "LOBBY_NEW_EQUIPMENT_QUEST_DESCRIPTION_FOR_HEAVY-4"
+msgstr ""
+"Destroy 15 enemy bombers or Attack Flight aircraft in any number of "
+"victorious battles."
+
+#, fuzzy
+#| msgid "LOBBY_QUESTS_CONTEXT_QUEST_DESCRIPTION"
+msgid "LOBBY_NEW_EQUIPMENT_QUEST_DESCRIPTION_FOR_HEAVY-6"
+msgstr ""
+"Earn 200 capture points in each of 2 victorious battles played in a row."
+
+#, fuzzy
+#| msgid "LOBBY_QUESTS_CONTEXT_QUEST_DESCRIPTION"
+msgid "LOBBY_NEW_EQUIPMENT_QUEST_DESCRIPTION_FOR_NAVI-2"
+msgstr "Earn 400 capture points in standard battles."
+
+#, fuzzy
+#| msgid "LOBBY_QUESTS_CONTEXT_QUEST_DESCRIPTION"
+msgid "LOBBY_NEW_EQUIPMENT_QUEST_DESCRIPTION_FOR_NAVI-4"
+msgstr ""
+"Destroy 15 enemy attack aircraft or bombers in any number of victorious "
+"battles."
+
+#, fuzzy
+#| msgid "LOBBY_QUESTS_CONTEXT_QUEST_DESCRIPTION"
+msgid "LOBBY_NEW_EQUIPMENT_QUEST_DESCRIPTION_FOR_NAVI-6"
+msgstr ""
+"Participate in capturing 3 sectors in each of 2 victorious battles played in "
+"a row."
+
+#, fuzzy
+#| msgid "LOBBY_QUESTS_NO_QUESTS_FOR_CURRENT_PLANE"
+msgid "LOBBY_NEW_EQUIPMENT_QUEST_FOR_ATTACK_PLANE-V-VII"
+msgstr ""
+"Complete the mission in a Tier V–VII attack aircraft to receive the "
+"equipment for free."
+
+#, fuzzy
+msgid "LOBBY_NEW_EQUIPMENT_QUEST_FOR_BOMBERS-V-VII"
+msgstr ""
+"Complete the mission in a Tier V–VII bomber to receive the equipment for "
+"free."
+
+#, fuzzy
+msgid "LOBBY_NEW_EQUIPMENT_QUEST_FOR_FIGHTERS-V-VII"
+msgstr ""
+"Complete the mission in a Tier V–VII fighter to receive the equipment for "
+"free."
+
+#, fuzzy
+#| msgid "LOBBY_EQUIPMENT_EFFECT_GRAVITY_CENTER_II"
+msgid "LOBBY_NEW_EQUIPMENT_QUEST_FOR_HEAVY_FIGHTERS-V-VII"
+msgstr ""
+"Complete the mission in a Tier V–VII heavy fighter to receive the equipment "
+"for free."
+
+#, fuzzy
+#| msgid "LOBBY_EQUIPMENT_EFFECT_FOF_I"
+msgid "LOBBY_NEW_EQUIPMENT_QUEST_FOR_NAVI-V-VII"
+msgstr ""
+"Complete the mission in a Tier V–VII multirole fighter to receive the "
+"equipment for free."
+
+#, fuzzy
+#| msgid "LOBBY_EVENT_EQUIPMENT_MESSAGE1"
+msgid "LOBBY_NEW_EQUIPMENT_QUEST_NAME-1"
+msgstr "New Equipment"
+
+#, fuzzy
+#| msgid "LOBBY_EVENT_EQUIPMENT_MESSAGE2"
+msgid "LOBBY_NEW_EQUIPMENT_QUEST_NAME-2"
+msgstr "A Start"
+
+#, fuzzy
+#| msgid "LOBBY_EVENT_EQUIPMENT_MESSAGE1"
+msgid "LOBBY_NEW_EQUIPMENT_QUEST_NAME-3"
+msgstr "Mount Equipment"
+
+#, fuzzy
+#| msgid "LOBBY_EVENT_EQUIPMENT_MESSAGE1"
+msgid "LOBBY_NEW_EQUIPMENT_QUEST_NAME-4"
+msgstr "Materials for Calibrating Equipment"
+
+#, fuzzy
+#| msgid "LOBBY_EVENT_EQUIPMENT_MESSAGE1"
+msgid "LOBBY_NEW_EQUIPMENT_QUEST_NAME-5"
+msgstr "Calibrate Equipment"
+
+#, fuzzy
+#| msgid "LOBBY_EVENT_EQUIPMENT_MESSAGE1"
+msgid "LOBBY_NEW_EQUIPMENT_QUEST_NAME-6"
+msgstr "Materials for Enhancing Equipment"
+
+#, fuzzy
+#| msgid "LOBBY_EVENT_EQUIPMENT_MESSAGE1"
+msgid "LOBBY_NEW_EQUIPMENT_QUEST_NAME-7"
+msgstr "Final Strokes"
+
+#, fuzzy
+#| msgid "LOBBY_EQUIPMENT_EFFECT_FOF_I"
+msgid "LOBBY_NEW_EQUIPMENT_TEST_IT_NOW"
+msgstr "TEST NEW EQUIPMENT"
+
+#, fuzzy
+#| msgid "LOBBY_EQUIPMENT_EFFECT_FOF_I"
+msgid "LOBBY_NEW_EQUIPMENT_TEXT_INTRO"
+msgstr ""
+"New equipment pieces have been developed and are ready for trial. Each of "
+"them boosts the potential of a certain aircraft type.<br><font "
+"size='6'><br></font>Select an equipment piece to start its trials."
+
 msgid "LOBBY_NEW_GAMEMOD_HEADER"
 msgstr "新遊戲模式「征服」！"
 
@@ -7403,6 +9828,11 @@ msgstr "TIME TO CONQUER!"
 msgid "LOBBY_NEW_GAMEMOD_TEXT_2"
 msgstr ""
 "Join intense battles for control over territories<br>in the new game mode!"
+
+#, fuzzy
+#| msgid "LOBBY_BUY_PLANE_TROOM_NOT_AVAILABLE"
+msgid "LOBBY_NEW_PLANE_STATE_NOW_AVAILABLE"
+msgstr "Available for purchase"
 
 msgid "LOBBY_NEW_QUEST"
 msgstr "新任務"
@@ -7428,6 +9858,16 @@ msgstr "Happy Holidays!"
 #, fuzzy
 msgid "LOBBY_NEW_YEAR_2018_TEXT"
 msgstr "Presents delivered!"
+
+#, fuzzy
+#| msgid "LOBBY_QUESTS_STATUS_AVAILABLE"
+msgid "LOBBY_NEXT_TEST_STAGE_AVAILABLE"
+msgstr "The next stage of trials is available."
+
+#, fuzzy
+#| msgid "LOBBY_HINT_TEAM_LIST"
+msgid "LOBBY_NEXT_TIER_PLANE_LIST"
+msgstr "Next Tier {tier} aircraft:"
 
 #, fuzzy
 msgid "LOBBY_NORTHERN_STAR_COMPLETE_ALL_QUESTS"
@@ -7621,6 +10061,21 @@ msgstr "一場戰鬥"
 msgid "LOBBY_ONE_USE_IN_BATTLE_BE_CONSUMED"
 msgstr "在戰鬥中至少使用過一次消耗品消耗品在戰鬥結束時被消耗"
 
+#, fuzzy
+#| msgid "LOBBY_IGR_ONLY_FOR_IGR_CHINA"
+msgid "LOBBY_ONLY_FOR_I-IV"
+msgstr "I–IV (Period I)"
+
+#, fuzzy
+#| msgid "LOBBY_IGR_ONLY_FOR_IGR_CHINA"
+msgid "LOBBY_ONLY_FOR_V-VII"
+msgstr "V–VII (Period II)"
+
+#, fuzzy
+#| msgid "LOBBY_IGR_ONLY_FOR_IGR_CHINA"
+msgid "LOBBY_ONLY_FOR_VIII-X"
+msgstr "VIII–X (Period III)"
+
 msgid "LOBBY_ON_LAST_WEEK"
 msgstr "上週"
 
@@ -7629,6 +10084,30 @@ msgstr "下週"
 
 msgid "LOBBY_ON_THIS_WEEK"
 msgstr "本週"
+
+#, fuzzy
+#| msgid "LOBBY_TROPHY"
+msgid "LOBBY_OPEN_TROPHY"
+msgstr "Open Loot Crate"
+
+#, fuzzy
+#| msgid "LABEL_OPTIMAL_HEIGHT"
+msgid "LOBBY_OPTIMAL_HEIGHT_MAX"
+msgstr "Maximum Optimal Altitude"
+
+#, fuzzy
+#| msgid "LABEL_OPTIMAL_HEIGHT"
+msgid "LOBBY_OPTIMAL_HEIGHT_MIN"
+msgstr "Minimum Optimal Altitude"
+
+#, fuzzy
+msgid "LOBBY_OPTIMAL_SPEED_MAX"
+msgstr "Maximum Optimal Speed"
+
+#, fuzzy
+#| msgid "LOBBY_CONTEXT_DAMAGE_PER_MINUTE"
+msgid "LOBBY_OPTIMAL_SPEED_MIN"
+msgstr "Minimum Optimal Speed"
 
 #, fuzzy
 #| msgid "LOBBY_OK_BUTTON"
@@ -7655,6 +10134,10 @@ msgstr "All parts collected! The aircraft is available in your Hangar."
 #, fuzzy
 msgid "LOBBY_PARTS_COLLECTED_PLANE_IN_HANGAR"
 msgstr "Aircraft assembled and available in Hangar"
+
+#, fuzzy
+msgid "LOBBY_PERCENTAGE"
+msgstr "%"
 
 #, fuzzy
 msgid "LOBBY_PERCENT_NUMBER"
@@ -8447,6 +10930,11 @@ msgstr "Aircraft in Exchange for Tokens"
 msgid "LOBBY_PLANE_ALREADY_IN_HANGAR"
 msgstr "Aircraft available in Hangar"
 
+#, fuzzy
+#| msgid "LOBBY_PLANE_DISCOUNT_LEFT"
+msgid "LOBBY_PLANE_CAROUSEL"
+msgstr "AIRCRAFT PANEL"
+
 msgid "LOBBY_PLANE_COMPENSATION_MESSAGE"
 msgstr ""
 "變更配件{plane}補償: {gold}{icon_gold}, {credits}{icon_silver}, {exp}"
@@ -8481,6 +10969,19 @@ msgstr "Aircraft received and available in Hangar"
 
 msgid "LOBBY_PLANE_RESEARCHED_NOT_PURCHASED"
 msgstr "戰機已研發，但尚未購買"
+
+#, fuzzy
+#| msgid "LOBBY_ONE_BATTLE"
+msgid "LOBBY_PLANE_STATE"
+msgstr "Configuration:"
+
+#, fuzzy
+msgid "LOBBY_PLANE_STATE_FACTORY_NEW"
+msgstr "STOCK"
+
+#, fuzzy
+msgid "LOBBY_PLANE_STATE_SPECIAL"
+msgstr "SPECIALIST"
 
 #, fuzzy
 msgid "LOBBY_PLANE_TREE_BUTTON_ACTIVATE"
@@ -8558,9 +11059,31 @@ msgid "LOBBY_PREM_PLANE_FOR_MISSIONS_TEXT"
 msgstr "完成任務並獲得新的8級加值戰機!"
 
 #, fuzzy
+msgid "LOBBY_PURCHASE_COMPLECTATION_HEADER"
+msgstr "Purchase Configuration"
+
+#, fuzzy
+#| msgid "LOBBY_CAMO_CONFIRMATION"
+msgid "LOBBY_PURCHASE_MODULES_CONFIRMATION_MESSAGE"
+msgstr ""
+"To reach the \"<font color='#{1}'>Specialist</font>\" configuration, "
+"purchase and mount modules constituting this configuration.<br><font "
+"size='6'><br></font>Purchase configuration using {total_cost}?"
+
+#, fuzzy
+#| msgid "LOBBY_PLANE_PURCHASE_HEADER"
+msgid "LOBBY_PURCHASE_MODULES_HEADER"
+msgstr "Purchase Modules"
+
+#, fuzzy
 #| msgid "LOBBY_PURCHASE_TOKENS"
 msgid "LOBBY_PURCHASE_QUEST"
 msgstr "Skip"
+
+#, fuzzy
+#| msgid "LOBBY_PURCHASE_TOKENS"
+msgid "LOBBY_PURCHASE_THROUHG_STEAM"
+msgstr "Pay via Steam"
 
 msgid "LOBBY_PURCHASE_TOKENS"
 msgstr "購買令牌"
@@ -12697,6 +15220,11 @@ msgid "LOBBY_QUEST_BUTTON_EVENT_WINDOW"
 msgstr "View Missions"
 
 #, fuzzy
+#| msgid "LOBBY_QUESTS_COMPLEX_01_EXTRA"
+msgid "LOBBY_QUEST_COMPLETED_GO_NEXT"
+msgstr "Mission completed successfully! Proceed to the next one."
+
+#, fuzzy
 msgid "LOBBY_QUEST_DESCRIPTION_SECRET_DIRECTIVE"
 msgstr ""
 "Complete the chain of missions within the allocated time to receive an "
@@ -12731,6 +15259,11 @@ msgstr "無線電"
 msgid "LOBBY_RAITING_GAME_MODE"
 msgstr "戰鬥模式："
 
+#, fuzzy
+#| msgid "LOBBY_RADIOSTATION"
+msgid "LOBBY_RANDOM_BONUS_STAT"
+msgstr "Random bonus characteristic"
+
 msgid "LOBBY_RATING_AT_LEVEL_HEADER"
 msgstr "等級{LVL}:"
 
@@ -12746,6 +15279,42 @@ msgstr "Myasishchev RB-17 bomber"
 #, fuzzy
 msgid "LOBBY_RB-17_BANNER_2"
 msgstr "New aircraft type,<br>rapid jet-powered heavyweight"
+
+#, fuzzy
+msgid "LOBBY_RECRUIT_GUNNER"
+msgstr "Recruit gunner"
+
+#, fuzzy
+#| msgid "LOBBY_BANNER_TEXT_PILOT"
+msgid "LOBBY_RECRUIT_PILOT"
+msgstr "Recruit pilot"
+
+#, fuzzy
+#| msgid "LOBBY_OK_BUTTON"
+msgid "LOBBY_REROLL_BUTTON"
+msgstr "Reassemble"
+
+#, fuzzy
+msgid "LOBBY_REROLL_CANCEL_HEADER"
+msgstr "Cancel Reassembly"
+
+#, fuzzy
+#| msgid "LOBBY_QUESTS_CANCEL_QUEST_MESSAGE"
+msgid "LOBBY_REROLL_CANCEL_WARNING_MESSAGE"
+msgstr ""
+"Warning!<br><font size='6'><br></font>If you cancel reassembly, the "
+"equipment bonus characteristics will be restored to the latest applied ones, "
+"but the resources you have spent will not be compensated.<br><font "
+"size='6'><br></font>Cancel reassembly?"
+
+#, fuzzy
+#| msgid "LOBBY_CREW_COST_FREE"
+msgid "LOBBY_REROLL_COST"
+msgstr "Cost to reassemble:"
+
+#, fuzzy
+msgid "LOBBY_REROLL_HEADER"
+msgstr "Reassemble Equipment"
 
 msgid "LOBBY_RESEARCH_FROM_ANCESTOR_PLANE_CONTEXT"
 msgstr "經驗來自於 {plane_name}"
@@ -12979,6 +15548,19 @@ msgid "LOBBY_REWARD_SPECIAL_QUEST_TORNADO"
 msgstr "特別任務 \"<font color='#'>霍克 龍捲風</font>\""
 
 #, fuzzy
+msgid "LOBBY_ROCKETS_DISTANCE"
+msgstr "Optimal Distance"
+
+#, fuzzy
+#| msgid "LOBBY_TOKEN_NEWS_HEADER"
+msgid "LOBBY_ROCKETS_HEADER"
+msgstr "Rockets"
+
+#, fuzzy
+msgid "LOBBY_ROCKETS_PURE_DPS"
+msgstr "Cumulative Damage"
+
+#, fuzzy
 msgid "LOBBY_RULE_BOMBER_EVENT_1"
 msgstr "Earn loot crates by completing daily missions!"
 
@@ -13042,8 +15624,32 @@ msgstr "選擇快速訓練選項"
 msgid "LOBBY_SELECT_MODE_RELEARN"
 msgstr "為{plane_name}重新訓練選擇選項"
 
+#, fuzzy
+msgid "LOBBY_SELF-DEFENCE_WEAPON_HEADER"
+msgstr "Defensive Armament"
+
 msgid "LOBBY_SELL"
 msgstr "出售"
+
+#, fuzzy
+#| msgid "LOBBY_CONSUMABLES_INCOMPATIBLE"
+msgid "LOBBY_SELL_CONSUMABLES_CONFIRMATION_TEXT"
+msgstr "Sell consumable \"{name}\" using {total_cost}?"
+
+#, fuzzy
+#| msgid "LOBBY_LABEL_SELL_CONSUMABLES"
+msgid "LOBBY_SELL_CONSUMABLES_HEADER"
+msgstr "Sell Consumable"
+
+#, fuzzy
+#| msgid "LOBBY_EQUIPMENT_COMPENSATION_MESSAGE"
+msgid "LOBBY_SELL_EQUIPMENT_CONFIRMATION_TEXT"
+msgstr "Sell equipment \"{name}\" using {total_cost}?"
+
+#, fuzzy
+#| msgid "LOBBY_LABEL_SELL_EQUIPMENT"
+msgid "LOBBY_SELL_EQUIPMENT_HEADER"
+msgstr "Sell Equipment"
 
 msgid "LOBBY_SELL_FOR_CREDS_AND_GOLD_DIALOG_MESSAGE"
 msgstr "將售得{creds}, {gold}，確定售賣嗎？"
@@ -13067,6 +15673,31 @@ msgstr ""
 #| msgid "LOBBY_CAMO_AVAILABLE"
 msgid "LOBBY_SERTIFICATES_AVAILABLE"
 msgstr "Available certificates"
+
+#, fuzzy
+#| msgid "LOBBY_QUESTS_ADDITIONAL_TIME_HOURS"
+msgid "LOBBY_SETTINGS_SHOW_ADDITIONAL_INFO"
+msgstr "Show details"
+
+#, fuzzy
+#| msgid "LOBBY_HINT_HEADER_CHARACTERISTICS"
+msgid "LOBBY_SETTINGS_SHOW_CHARACTERISTICS"
+msgstr "Specifications"
+
+#, fuzzy
+#| msgid "LOBBY_QUESTS_OPTION_SHOW_NY"
+msgid "LOBBY_SETTINGS_SHOW_POS_NEG"
+msgstr "Overview"
+
+#, fuzzy
+#| msgid "LOBBY_BUTTON_IN_SHOP"
+msgid "LOBBY_SETTINGS_SHOW_PPI"
+msgstr "Infographic"
+
+#, fuzzy
+#| msgid "LOBBY_QUESTS_OPTION_SHOW_NY"
+msgid "LOBBY_SETTINGS_SHOW_SUMMARY"
+msgstr "Summary"
 
 msgid "LOBBY_SET_PRIMARY"
 msgstr "設為最愛"
@@ -13537,6 +16168,64 @@ msgstr "Bunk in Barracks"
 msgid "LOBBY_SOON"
 msgstr "即將推出"
 
+#, fuzzy
+#| msgid "LOBBY_REWARD_SPECIAL_QUEST_RB-17"
+msgid "LOBBY_SPECIALIST_QUEST_FOR_ATTACK-1"
+msgstr ""
+"<font color='#{1}'>Sections of ground targets</font> destroyed in victorious "
+"battles:"
+
+#, fuzzy
+#| msgid "LOBBY_JA_TR_SPECIAL_QUEST_2"
+msgid "LOBBY_SPECIALIST_QUEST_FOR_ATTACK-2"
+msgstr "<font color='#{1}'>Participations in capturing sectors</font>:"
+
+#, fuzzy
+#| msgid "LOBBY_REWARD_SPECIAL_QUEST_RB-17"
+msgid "LOBBY_SPECIALIST_QUEST_FOR_BOMBER-1"
+msgstr "<font color='#{1}'>Capture points</font> earned in victorious battles:"
+
+#, fuzzy
+#| msgid "LOBBY_REWARD_SPECIAL_QUEST_RB-17"
+msgid "LOBBY_SPECIALIST_QUEST_FOR_BOMBER-2"
+msgstr "<font color='#{1}'>Aerial targets</font> destroyed by a gunner:"
+
+#, fuzzy
+#| msgid "LOBBY_REWARD_SPECIAL_QUEST_RB-17"
+msgid "LOBBY_SPECIALIST_QUEST_FOR_FIGHTER-1"
+msgstr ""
+"<font color='#{1}'>Enemy aircraft</font> destroyed in victorious battles:"
+
+#, fuzzy
+#| msgid "LOBBY_JA_TR_SPECIAL_QUEST_2"
+msgid "LOBBY_SPECIALIST_QUEST_FOR_FIGHTER-2"
+msgstr "<font color='#{1}'>Air defense aircraft</font> destroyed:"
+
+#, fuzzy
+#| msgid "LOBBY_REWARD_SPECIAL_QUEST_RB-17"
+msgid "LOBBY_SPECIALIST_QUEST_FOR_HEAVY-1"
+msgstr ""
+"<font color='#{1}'>Aerial targets</font> destroyed in victorious battles:"
+
+#, fuzzy
+#| msgid "LOBBY_JA_TR_SPECIAL_QUEST_2"
+msgid "LOBBY_SPECIALIST_QUEST_FOR_HEAVY-2"
+msgstr "<font color='#{1}'>Participations in capturing sectors</font>:"
+
+#, fuzzy
+#| msgid "LOBBY_REWARD_SPECIAL_QUEST_TORNADO"
+msgid "LOBBY_SPECIALIST_QUEST_FOR_NAVI-1"
+msgstr ""
+"<font color='#{1}'>Personal points</font> earned for destroying sections of "
+"ground targets:"
+
+#, fuzzy
+#| msgid "LOBBY_REWARD_SPECIAL_QUEST_TORNADO"
+msgid "LOBBY_SPECIALIST_QUEST_FOR_NAVI-2"
+msgstr ""
+"<font color='#{1}'>Personal points</font> earned for destroying enemy "
+"aircraft in victorious battles:"
+
 msgid "LOBBY_SPECIALITY_AFTER_RETRAINING"
 msgstr "再訓練之後的熟練度："
 
@@ -13551,6 +16240,13 @@ msgstr ""
 #, fuzzy
 msgid "LOBBY_SPECIAL_CAMO_XF15C_VIII-LVL"
 msgstr "Exclusive paint scheme for the <font color='#{colorID}'>XF15C</font>"
+
+#, fuzzy
+#| msgid "LOBBY_QUESTS_DAILY_2_WINS_GERMANY_JAPAN_NAME"
+msgid "LOBBY_SPECIAL_EQUIPMENT_WORK_EFF_ONLY_ON_SPECIAL_GRADE_PLANES"
+msgstr ""
+"Equipment of the \"Advanced\" quality level shows maximum performance only "
+"when mounted on an aircraft in the \"Specialist\" configuration."
 
 #, fuzzy
 msgid "LOBBY_SPECIAL_OFFER_NOT_AVAILABLE_RN"
@@ -13589,11 +16285,80 @@ msgstr "A Spear Thrust"
 msgid "LOBBY_SPECIAL_QUESTLINE_USA_NAME_RELIABLE_SHIELD"
 msgstr "A Secure Shield"
 
+#, fuzzy
+#| msgid "LOBBY_SPECIALITY_AFTER_TRAINING"
+msgid "LOBBY_SPECIAL_STATE_ADVANTAGES"
+msgstr "Benefits of the \"Specialist\" configuration:"
+
+#, fuzzy
+#| msgid "LOBBY_ONE_BATTLE"
+msgid "LOBBY_SPOILS_OF_THE_BATTLE"
+msgstr "Salvage Party"
+
 msgid "LOBBY_SPRING_MISSIONS"
 msgstr "春季活動"
 
 msgid "LOBBY_START_ARENA"
 msgstr "戰鬥載入中…"
+
+#, fuzzy
+#| msgid "LOBBY_OK_BUTTON"
+msgid "LOBBY_STORE_BUTTON"
+msgstr "Go to Shop"
+
+#, fuzzy
+msgid "LOBBY_STORE_CHECKBOX_GRADE-1"
+msgstr "Stock"
+
+#, fuzzy
+msgid "LOBBY_STORE_CHECKBOX_GRADE-2"
+msgstr "Improved"
+
+#, fuzzy
+msgid "LOBBY_STORE_CHECKBOX_GRADE-3"
+msgstr "Advanced"
+
+#, fuzzy
+msgid "LOBBY_STORE_CHECKBOX_GRADE-4"
+msgstr "Ultimate"
+
+#, fuzzy
+#| msgid "LOBBY_CONTEXT_CONSUMABLES"
+msgid "LOBBY_STORE_CONSUMABLES_TYPE_AMMO"
+msgstr "Ammunition"
+
+#, fuzzy
+#| msgid "LOBBY_CONSUMABLES_THIS_TYPE_EQUIPMENT"
+msgid "LOBBY_STORE_CONSUMABLES_TYPE_COSMETIC"
+msgstr "Cosmetic"
+
+#, fuzzy
+#| msgid "LOBBY_CONSUMABLES_NAME_ECON_RECON"
+msgid "LOBBY_STORE_CONSUMABLES_TYPE_ECONOMIC"
+msgstr "Economic"
+
+#, fuzzy
+#| msgid "LOBBY_CONSUMABLES_THIS_TYPE_EQUIPMENT"
+msgid "LOBBY_STORE_CONSUMABLES_TYPE_HEADER"
+msgstr "Consumable type:"
+
+#, fuzzy
+#| msgid "LOBBY_CONSUMABLES_NAME_ECON_RECON"
+msgid "LOBBY_STORE_CONSUMABLES_TYPE_SECONDARY"
+msgstr "Secondary"
+
+#, fuzzy
+#| msgid "LOBBY_QUESTS_MESSAGE_PLANES_CAN_BE_PURCHASED"
+msgid "LOBBY_STORE_MESSAGE_MATERIALS_CANT_BE_SOLD"
+msgstr ""
+"Materials cannot be sold due to their outstanding value.<br><font "
+"size='6'><br></font>Use Materials to enhance your equipment."
+
+#, fuzzy
+msgid "LOBBY_STORE_MESSAGE_NO_RESULT_SEARCH"
+msgstr ""
+"No results found.<br><font size='6'><br></font>Check the applied search "
+"filters."
 
 msgid "LOBBY_SUMMER_EVENT_NAME_HEADER"
 msgstr "連鎖閃電"
@@ -13607,6 +16372,83 @@ msgstr "敵方"
 
 msgid "LOBBY_TEAM_MEMBERS"
 msgstr "戰鬥隊伍"
+
+#, fuzzy
+#| msgid "LOBBY_LVL"
+msgid "LOBBY_TECH_LVL"
+msgstr "Technological level:"
+
+#, fuzzy
+#| msgid "LOBBY_CREW_LABEL_AFTER_AIRCRAFT_CHANGE"
+msgid "LOBBY_TECH_LVL_AFTER_CALIBRATE"
+msgstr "Technological level after calibration:"
+
+#, fuzzy
+#| msgid "LOBBY_CREW_LABEL_AFTER_RESET"
+msgid "LOBBY_TECH_LVL_AFTER_UPGRADE"
+msgstr "Technological level and calibration range after enhancement:"
+
+#, fuzzy
+#| msgid "LOBBY_CREW_LABEL_BEFORE_RESET"
+msgid "LOBBY_TECH_LVL_BEFORE_CALIBRATE"
+msgstr "Technological level before calibration:"
+
+#, fuzzy
+#| msgid "LOBBY_CREW_LABEL_BEFORE_RESET"
+msgid "LOBBY_TECH_LVL_BEFORE_UPGRADE"
+msgstr "Technological level and calibration range before enhancement:"
+
+#, fuzzy
+#| msgid "LOBBY_QUESTS_BUTTON"
+msgid "LOBBY_TEST_BUTTON"
+msgstr "Test"
+
+#, fuzzy
+#| msgid "LOBBY_QUEST_IN_COMPLETED"
+msgid "LOBBY_TEST_COMPLETED"
+msgstr "You have completed the trials!"
+
+#, fuzzy
+#| msgid "LOBBY_QUESTS_GIFT"
+msgid "LOBBY_TEST_FLIGHT"
+msgstr "Test flight"
+
+#, fuzzy
+#| msgid "LOBBY_AS_ALLY_CAPS"
+msgid "LOBBY_TEST_FLIGHT_CAPS"
+msgstr "TEST FLIGHT"
+
+#, fuzzy
+msgid "LOBBY_TEST_FLIGHT_DESCRIPTION"
+msgstr ""
+"A flight for testing the mounted equipment and consumable configuration. "
+"Experience and credit income per battle is significantly reduced."
+
+#, fuzzy
+msgid "LOBBY_TEST_FLIGHT_REFILL_CONSUMABLES_HEADER"
+msgstr "Consumables resupply"
+
+#, fuzzy
+#| msgid "LOBBY_LABEL_SELL_CONSUMABLES"
+msgid "LOBBY_TEST_FLIGHT_REFILL_CONSUMABLES_SHORT_TEXT"
+msgstr ""
+"To perform a <font color='#{1}'>test flight</font>, apply the changes."
+"<br><font size='6'><br></font>Resupply consumables using {total_cost}?"
+
+#, fuzzy
+#| msgid "LOBBY_LABEL_SELL_CONSUMABLES"
+msgid "LOBBY_TEST_FLIGHT_REFILL_CONSUMABLES_TEXT"
+msgstr ""
+"To perform a <font color='#{1}'>test flight</font>, resupply consumables. "
+"The mounted equipment can be purchased after the battle is over, but it will "
+"take effect in the battle that you are about to join.<br><font "
+"size='6'><br></font>Resupply consumables using {total_cost}?"
+
+#, fuzzy
+msgid "LOBBY_TEST_NEW_EQUIPMENT_AND_COLLECT_MATERIALS_FOR_MAX_EFF"
+msgstr ""
+"Test it in battle and collect Materials to calibrate it for maximum "
+"performance."
 
 #, fuzzy
 msgid "LOBBY_TEXT_COMPENSATION_JA_TR_OFF"
@@ -13686,6 +16528,11 @@ msgstr "對於未來即將到來的活動做準備"
 msgid "LOBBY_TOP10_PILOTS"
 msgstr "Top 10 Pilots of the Event:"
 
+#, fuzzy
+#| msgid "LOBBY_OK_BUTTON"
+msgid "LOBBY_TO_UPGRADE_BUTTON"
+msgstr "To Enhancements"
+
 msgid "LOBBY_TRAINED_TO_THE_LEVEL"
 msgstr "訓練等級："
 
@@ -13723,6 +16570,19 @@ msgstr "Accelerate training to {number}%"
 
 msgid "LOBBY_TROPHY"
 msgstr "獎勵箱"
+
+#, fuzzy
+msgid "LOBBY_TURRETS"
+msgstr "Turrets"
+
+#, fuzzy
+msgid "LOBBY_TURRETS_DISTANCE"
+msgstr "Optimal Distance"
+
+#, fuzzy
+#| msgid "LOBBY_QUESTS_REWARD_XP"
+msgid "LOBBY_TURRETS_PURE_DPS"
+msgstr "Cumulative Damage"
 
 msgid "LOBBY_TUTORIAL_BANNER_TEXT_1"
 msgstr "摧毀地面目標和上空的戰機以佔領分區"
@@ -13915,8 +16775,32 @@ msgstr "Get Aviatrixes and Their Aircraft in Exchange for Tokens!"
 msgid "LOBBY_UNIQUE_SKILLS"
 msgstr "Unique skills"
 
+#, fuzzy
+#| msgid "LOBBY_CONTEXT_CONFIRMATION"
+msgid "LOBBY_UNMOUNT_EQUIPMENT_CONFIRMATION_TEXT"
+msgstr "Demount equipment \"{name}\" using {total_cost}?"
+
 msgid "LOBBY_UNSET_PRIMARY"
 msgstr "取消最愛標籤"
+
+#, fuzzy
+#| msgid "LOBBY_OK_BUTTON"
+msgid "LOBBY_UPGRADE_BUTTON"
+msgstr "Enhance"
+
+#, fuzzy
+#| msgid "LOBBY_CREW_COST_FREE"
+msgid "LOBBY_UPGRADE_COST"
+msgstr "Enhancement Price:"
+
+#, fuzzy
+msgid "LOBBY_UPGRADE_HEADER"
+msgstr "Enhance Equipment"
+
+#, fuzzy
+#| msgid "LOBBY_MAINTENANCE_PAGE_HEADER_EQUIPMENT"
+msgid "LOBBY_USE_MATERIALS_FOR_UPGRADE_EQUIPMENT_EFF"
+msgstr "Use them to improve the performance of your equipment."
 
 msgid "LOBBY_USE_SERTIFICATE"
 msgstr "使用"
@@ -13947,6 +16831,11 @@ msgstr "加值帳號：<br>{number}"
 
 msgid "LOBBY_WARCASH_STRATEGIC_RESERVE"
 msgstr "建立戰略儲備！"
+
+#, fuzzy
+#| msgid "LOBBY_MESSAGE_NO_AMMO"
+msgid "LOBBY_WARNING_MESSAGE_NO_BOMB_ROKETS"
+msgstr "No bombs and rockets"
 
 msgid "LOBBY_WAR_CASH_ADV_01_TEXT_1"
 msgstr "下午茶"
@@ -14004,6 +16893,10 @@ msgstr "與好友組隊"
 
 msgid "LOBBY_WING_PLAYER_NOT_READY"
 msgstr "(尚未就緒)"
+
+#, fuzzy
+msgid "LOBBY_WINS_NUMBER"
+msgstr "Victories:"
 
 msgid "LOBBY_WINTER_CELEBRATIONS_HEADER"
 msgstr "假期已經來臨了！"
@@ -14190,8 +17083,8 @@ msgstr ""
 #| msgid "LOBBY_QUESTS_REWARD_XP_1"
 msgid "LOBBY_XF15C_QUESTLINE_HARD_15"
 msgstr ""
-"Win a battle. All preceding <font color='#{colorUnits}'>additional tasks</"
-"font> must be completed."
+"Win a battle. All preceding <font color='#{colorUnits}'>primary and "
+"additional tasks</font> must be completed."
 
 #, fuzzy
 #| msgid "LOBBY_QUESTS_REWARD_XP"
@@ -14345,6 +17238,13 @@ msgstr "Stage 2: Hunt"
 #, fuzzy
 msgid "LOBBY_YOUR_REWARD"
 msgstr "Your prize:"
+
+#, fuzzy
+#| msgid "LOBBY_MODULES_PAGE_MESSAGE_UNMOUNT_EQUIPMENT_FOR_MONEY"
+msgid "LOBBY_YOU_CAN_UPGRADE_EQUIPMENT_FOR_MATERIALS"
+msgstr ""
+"You can improve its quality and performance. To do so, collect all necessary "
+"Materials."
 
 msgid "LOCALIZATION_LANGUAGE"
 msgstr "ZH-CN"

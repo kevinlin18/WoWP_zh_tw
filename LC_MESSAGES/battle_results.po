@@ -735,6 +735,10 @@ msgstr "贏得了獎勵箱!"
 msgid "BATTLE_RESULT_JA_TR_STAT_TEXT_2"
 msgstr "距離下一個獎勵箱:"
 
+#, fuzzy
+msgid "BATTLE_RESULT_MAP_CLEANED"
+msgstr "The salvage party has cleared the battlefield."
+
 msgid "BATTLE_RESULT_MASTERY_POINTS"
 msgstr "征服據點"
 
@@ -779,6 +783,10 @@ msgstr "任務獎勵:"
 
 msgid "BATTLE_RESULT_SECTORS_CAPTURED"
 msgstr "佔領區域"
+
+#, fuzzy
+msgid "BATTLE_RESULT_TEST_FLIGHT"
+msgstr "(test flight)"
 
 msgid "BATTLE_RESULT_TEXT"
 msgstr "戰績："

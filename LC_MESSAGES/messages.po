@@ -480,6 +480,26 @@ msgid "MEDAL_GAIN_BONUS"
 msgstr "收到 {name}:"
 
 #, fuzzy
+msgid "MESSAGES_AIRCRAFT_AND_HANGARSLOT_BOUGHT"
+msgstr "Aircraft {name} and a slot in Hangar purchased."
+
+#, fuzzy
+msgid "MESSAGES_ALL_EQUIPMENTS_AND_CONSUMABLES_UNINSTALLED_COMPENSATION_TEXT_1"
+msgstr ""
+"All equipment and consumables were demounted from the aircraft and sent to "
+"Depot. Equipment characteristics changed."
+
+#, fuzzy
+msgid "MESSAGES_ALL_EQUIPMENTS_AND_CONSUMABLES_UNINSTALLED_COMPENSATION_TEXT_2"
+msgstr ""
+"<br><font size='6'><br></font>Equipment and consumables that have no "
+"equivalents in the new aircraft progression system were removed. Their cost "
+"was compensated in credits.<br><font size='6'><br></font>Ammunition belts "
+"were transformed into the corresponding \"<font color='#{1}'>Ammunition</"
+"font>\" consumables.<br><font size='6'><br></font>Bombs and rockets were "
+"removed. Their cost was also compensated in credits."
+
+#, fuzzy
 msgid "MESSAGES_ATTACK_ENDED"
 msgstr "Attack has ended!"
 
@@ -487,8 +507,26 @@ msgid "MESSAGES_BONUS_GOLD_NY"
 msgstr "金幣加成:"
 
 #, fuzzy
+msgid "MESSAGES_COMPENSATION"
+msgstr "Compensation:"
+
+#, fuzzy
 msgid "MESSAGES_CONGRATULATION_YOU_CAN_GET_PLANE"
 msgstr "Congratulations! You can claim your aircraft."
+
+#, fuzzy
+#| msgid "MESSAGES_BONUS_GOLD_NY"
+msgid "MESSAGES_CONSUMABLES_NAMES_SOLD"
+msgstr "Consumable \"{module_name}\" sold."
+
+#, fuzzy
+msgid "MESSAGES_CONSUMABLE_PURCHASED"
+msgstr "Consumable \"{module_name}\" purchased."
+
+#, fuzzy
+#| msgid "MESSAGE_MODULE_PURCHASED_SUCCESSFULLY"
+msgid "MESSAGES_CONSUMABLE_PURCHASED_FOR_AMOUNT"
+msgstr "Consumable \"{module_name}\" ({amount}) purchased."
 
 #, fuzzy
 msgid "MESSAGES_DIRECTIVE_ACTIVATED"
@@ -519,6 +557,61 @@ msgid "MESSAGES_DIRECTIVE_SOLD"
 msgstr "Operation order sold."
 
 #, fuzzy
+msgid "MESSAGES_EQUIPMENTS_NAME_SOLD"
+msgstr "Equipment \"{module_name}\" sold."
+
+#, fuzzy
+msgid "MESSAGES_EQUIPMENT_CALIBRATION"
+msgstr "Equipment \"{module_name}\" calibration attempt"
+
+#, fuzzy
+msgid "MESSAGES_EQUIPMENT_CALIBRATION_CANCELED"
+msgstr "Equipment \"{module_name}\" calibration canceled."
+
+#, fuzzy
+msgid "MESSAGES_EQUIPMENT_CALIBRATION_DONE"
+msgstr "Equipment \"{module_name}\" calibrated."
+
+#, fuzzy
+#| msgid "SYSTEM_MESSAGE_WING_INVITATION_HEADER"
+msgid "MESSAGES_EQUIPMENT_CALIBRATION_HEADER"
+msgstr "Calibrate Equipment"
+
+#, fuzzy
+msgid "MESSAGES_EQUIPMENT_DISMANTLE_DONE"
+msgstr "Equipment \"{module_name}\" disassembled into Materials."
+
+#, fuzzy
+#| msgid "MESSAGE_AMMO_REFILLED_HEADER"
+msgid "MESSAGES_EQUIPMENT_DISMANTLE_HEADER"
+msgstr "Disassemble Equipment"
+
+#, fuzzy
+msgid "MESSAGES_EQUIPMENT_PURCHASED_FOR_AMOUNT"
+msgstr "Equipment \"{module_name}\" ({amount}) purchased."
+
+#, fuzzy
+msgid "MESSAGES_EQUIPMENT_REBUILD"
+msgstr "Equipment \"{module_name}\" reassembly attempt"
+
+#, fuzzy
+msgid "MESSAGES_EQUIPMENT_REBUILD_CANCELED"
+msgstr "Equipment \"{module_name}\" reassembly canceled."
+
+#, fuzzy
+msgid "MESSAGES_EQUIPMENT_REBUILD_DONE"
+msgstr "Equipment \"{module_name}\" reassembled."
+
+#, fuzzy
+#| msgid "MESSAGE_AMMO_REFILLED_HEADER"
+msgid "MESSAGES_EQUIPMENT_REBUILD_HEADER"
+msgstr "Reassemble Equipment"
+
+#, fuzzy
+msgid "MESSAGES_EQUIPMENT_UPGRADED"
+msgstr "Equipment \"{module_name}\" enhanced."
+
+#, fuzzy
 msgid "MESSAGES_EXCLUSIVE_CAMO"
 msgstr "Unique paint scheme"
 
@@ -526,12 +619,49 @@ msgstr "Unique paint scheme"
 msgid "MESSAGES_EXCLUSIVE_EMBLEM"
 msgstr "Unique emblem"
 
+#, fuzzy
+msgid "MESSAGES_FACTORY_NEW_PLANE_STATE_COMPLECTATION_INSTALLED"
+msgstr "<font color='#{1}'>Stock configuration</font> mounted."
+
 msgid "MESSAGES_FAST_TRAINING_PILOT"
 msgstr "乘員快速訓練"
 
 #, fuzzy
+msgid "MESSAGES_MAINTENANCE_DONE"
+msgstr "Aircraft serviced."
+
+#, fuzzy
+#| msgid "ELITE_AIRCRAFT_DESCRIPTION"
+msgid "MESSAGES_MAP_CLEANED_DESCRIPTION"
+msgstr ""
+"The salvage party has collected all valuable Materials from the battlefield."
+
+#, fuzzy
+#| msgid "MESSAGE_AMMO_REFILLED_HEADER"
+msgid "MESSAGES_MAP_CLEANED_HEADER"
+msgstr "Battlefield cleared!"
+
+#, fuzzy
+msgid "MESSAGES_MODULE_NAMES_SOLD"
+msgstr "Modules {module_name} sold."
+
+#, fuzzy
+msgid "MESSAGES_MODULE_NAME_SOLD"
+msgstr "Module {module_name} sold."
+
+#, fuzzy
 msgid "MESSAGES_NEW_QUESTS_AVAILABLE"
 msgstr "New missions are available."
+
+#, fuzzy
+#| msgid "MESSAGE_MODULE_PURCHASED_SUCCESSFULLY"
+msgid "MESSAGES_PLANE_MODULE_PURCHASED_AND_INSTALLED"
+msgstr "Module {module_name} purchased and mounted."
+
+#, fuzzy
+#| msgid "SYSTEM_MESSAGE_CONTEXT_RESEARCHED"
+msgid "MESSAGES_PLANE_RESEARCHED"
+msgstr "Aircraft researched."
 
 #, fuzzy
 msgid "MESSAGES_PROGRESS_QUESTS_RESET"
@@ -568,6 +698,22 @@ msgstr ""
 #, fuzzy
 msgid "MESSAGES_SETUP_MODULES"
 msgstr "Mount Modules"
+
+#, fuzzy
+msgid "MESSAGES_SPECIAL_PLANE_STATE_COMPLECTATION_INSTALLED"
+msgstr "The \"<font color='#{1}'>Specialist</font>\" configuration mounted."
+
+#, fuzzy
+msgid "MESSAGES_SPECIAL_PLANE_STATE_COMPLECTATION_PURCHASED_AND_INSTALLED"
+msgstr ""
+"The \"<font color='#{1}'>Specialist</font>\" configuration purchased and "
+"mounted."
+
+#, fuzzy
+msgid "MESSAGES_TROPHY_COMPENSATION"
+msgstr ""
+"Pilot! The loot crate was opened. All items found have been added to your "
+"account."
 
 #, fuzzy
 msgid "MESSAGES_UNIQUE_EMBLEM"
@@ -934,7 +1080,7 @@ msgstr "額外加成"
 msgid "SYSTEM_MESSAGE_FR_PACK_SUCCESSFUL_PURCHASE"
 msgstr ""
 "Bundle of the <font color='#{color}'>{plane_name1}</font> and <font "
-"color='#{color}'>{plane_name2}</font> aircraft successfully purchased."
+"color='#{color}'>{plane_name2}</font> aircraft purchased."
 
 #, fuzzy
 msgid "SYSTEM_MESSAGE_FR_PACK_UNIQUE_CAMO_EMBLEM"
@@ -1033,7 +1179,7 @@ msgstr "Now experience will be allocated to the aircraft."
 
 #, fuzzy
 msgid "SYSTEM_MESSAGE_PACK_SLOT_SUCCESSFUL_PURCHASE"
-msgstr "Slots ({number}) in the Hangar successfully purchased."
+msgstr "Slots ({number}) in the Hangar purchased."
 
 #, fuzzy
 msgid "SYSTEM_MESSAGE_PILOT_DISMISS"

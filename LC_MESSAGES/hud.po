@@ -715,7 +715,7 @@ msgstr "Command post"
 
 #, fuzzy
 msgid "HUD_CONSUMABLES_AND_EQUIPMENT"
-msgstr "Consumables and equipment"
+msgstr "Equipment and consumables"
 
 msgid "HUD_CONTEXT_MENU_ACCEPT_INVITATION"
 msgstr "接受邀請"
@@ -1390,7 +1390,7 @@ msgstr "敵方取得制空權！"
 
 #, fuzzy
 msgid "HUD_LOOSE_TIME_OVER_STR"
-msgstr "The momentum has been lost. The attack time has expired."
+msgstr "The momentum was lost. The attack time expired."
 
 msgid "HUD_MANEUVER_REDUCED"
 msgstr "機動性下降！"
@@ -1594,7 +1594,7 @@ msgstr "Support the attack!"
 
 #, fuzzy
 msgid "HUD_MESSAGE_ATTACK_PLUS_TIME"
-msgstr "+{time}s"
+msgstr "+{time} s"
 
 msgid "HUD_MESSAGE_ATTACK_THIS_ENEMY"
 msgstr "<集中攻擊 {player}!>"
@@ -1764,12 +1764,12 @@ msgstr "{module} 已經恢復運作！"
 #, fuzzy
 #| msgid "HUD_MESSAGE_PLAYER_DEAD_FROM_GUNS"
 msgid "HUD_MESSAGE_MULTIPLIER_ALLY_RESOURCES"
-msgstr "to combat group's effectiveness"
+msgstr "when enemy aircraft are destroyed by your combat group"
 
 #, fuzzy
 #| msgid "HUD_MESSAGE_LAST_ENEMY"
 msgid "HUD_MESSAGE_MULTIPLIER_ENEMY_RESOURCES"
-msgstr "to enemy combat group's effectiveness"
+msgstr "when friendly aircraft are destroyed by the enemy"
 
 msgid "HUD_MESSAGE_NO_FLAPS"
 msgstr "禁用襟翼"
@@ -2146,6 +2146,11 @@ msgstr "個人機種任務"
 #, fuzzy
 msgid "HUD_PERSONALS_QUESTS_PROGRESS_LVL"
 msgstr "Grade progress"
+
+#, fuzzy
+#| msgid "HUD_PERSONAL_SCORE"
+msgid "HUD_PERSONAL_POINTS"
+msgstr "Personal points:"
 
 msgid "HUD_PERSONAL_SCORE"
 msgstr "個人得分"
@@ -2592,6 +2597,234 @@ msgid "HUD_REINFORCEMENTS_NOT_AVAILABLE"
 msgstr "無法出擊"
 
 #, fuzzy
+#| msgid "REPLAY_MENU_HEADER"
+msgid "HUD_REPLAY_ATTENTION_HEADER"
+msgstr "Attention!"
+
+#, fuzzy
+msgid "HUD_REPLAY_BACK_TO_PLAY_BUTTON"
+msgstr "Back to Replay"
+
+#, fuzzy
+#| msgid "REPLAY_FREE_CAMERA_ON"
+msgid "HUD_REPLAY_CAMERA"
+msgstr "Camera"
+
+#, fuzzy
+#| msgid "REPLAY_HEADER_PLAYER_PANEL"
+msgid "HUD_REPLAY_CHECKBOX_PLAYER_NAME"
+msgstr "Show player name"
+
+#, fuzzy
+msgid "HUD_REPLAY_CHECKBOX_WITHOUT_UI"
+msgstr "Hide battle interface"
+
+#, fuzzy
+msgid "HUD_REPLAY_CUSTOM_MOVIE_CAMERA"
+msgstr "Custom camera preset"
+
+#, fuzzy
+#| msgid "HUD_PLAYERS_LIST_BUTTON"
+msgid "HUD_REPLAY_EXIT_BUTTON"
+msgstr "Exit Replay"
+
+#, fuzzy
+#| msgid "HUD_CHAT_ALL_MODE"
+msgid "HUD_REPLAY_FILM_MODE"
+msgstr "\"Movie\" mode"
+
+#, fuzzy
+msgid "HUD_REPLAY_GENERAL"
+msgstr "General"
+
+#, fuzzy
+msgid "HUD_REPLAY_HIDE-SHOW_UI"
+msgstr "Hide/Show interface"
+
+#, fuzzy
+#| msgid "REPLAY_FREE_CAMERA_ON"
+msgid "HUD_REPLAY_MOVIE_CAMERA-1"
+msgstr "Camera 1"
+
+#, fuzzy
+#| msgid "REPLAY_FREE_CAMERA_ON"
+msgid "HUD_REPLAY_MOVIE_CAMERA-10"
+msgstr "Camera 10"
+
+#, fuzzy
+#| msgid "REPLAY_FREE_CAMERA_ON"
+msgid "HUD_REPLAY_MOVIE_CAMERA-2"
+msgstr "Camera 2"
+
+#, fuzzy
+#| msgid "REPLAY_FREE_CAMERA_ON"
+msgid "HUD_REPLAY_MOVIE_CAMERA-3"
+msgstr "Camera 3"
+
+#, fuzzy
+#| msgid "REPLAY_FREE_CAMERA_ON"
+msgid "HUD_REPLAY_MOVIE_CAMERA-4"
+msgstr "Camera 4"
+
+#, fuzzy
+#| msgid "REPLAY_FREE_CAMERA_ON"
+msgid "HUD_REPLAY_MOVIE_CAMERA-5"
+msgstr "Camera 5"
+
+#, fuzzy
+#| msgid "REPLAY_FREE_CAMERA_ON"
+msgid "HUD_REPLAY_MOVIE_CAMERA-6"
+msgstr "Camera 6"
+
+#, fuzzy
+#| msgid "REPLAY_FREE_CAMERA_ON"
+msgid "HUD_REPLAY_MOVIE_CAMERA-7"
+msgstr "Camera 7"
+
+#, fuzzy
+#| msgid "REPLAY_FREE_CAMERA_ON"
+msgid "HUD_REPLAY_MOVIE_CAMERA-8"
+msgstr "Camera 8"
+
+#, fuzzy
+#| msgid "REPLAY_FREE_CAMERA_ON"
+msgid "HUD_REPLAY_MOVIE_CAMERA-9"
+msgstr "Camera 9"
+
+#, fuzzy
+#| msgid "HUD_CHOICE_SPECTATOR_CAMERA"
+msgid "HUD_REPLAY_MOVIE_DEFAULT_CAMERA"
+msgstr "Default camera"
+
+#, fuzzy
+#| msgid "HUD_PLAYERS_LIST_BUTTON"
+msgid "HUD_REPLAY_NO_BUTTON"
+msgstr "No"
+
+#, fuzzy
+#| msgid "HUD_DRAW_PLAYERS"
+msgid "HUD_REPLAY_PLAYBACK"
+msgstr "Playback"
+
+#, fuzzy
+#| msgid "REPLAY_HOTKEY_PLAY_PAUSE"
+msgid "HUD_REPLAY_PLAYBACK-PAUSE"
+msgstr "Play / Pause"
+
+#, fuzzy
+#| msgid "REPLAY_MENU_HEADER"
+msgid "HUD_REPLAY_PLAYBACK_MENU_HEADER"
+msgstr "Replay menu"
+
+#, fuzzy
+msgid "HUD_REPLAY_PLAYBACK_SPEED-X025"
+msgstr "0.25x"
+
+#, fuzzy
+msgid "HUD_REPLAY_PLAYBACK_SPEED-X05"
+msgstr "0.5x"
+
+#, fuzzy
+msgid "HUD_REPLAY_PLAYBACK_SPEED-X075"
+msgstr "0.75x"
+
+#, fuzzy
+msgid "HUD_REPLAY_PLAYBACK_SPEED-X1"
+msgstr "1.0x"
+
+#, fuzzy
+msgid "HUD_REPLAY_PLAYBACK_SPEED-X2"
+msgstr "2.0x"
+
+#, fuzzy
+msgid "HUD_REPLAY_PLAYBACK_SPEED-X4"
+msgstr "4.0x"
+
+#, fuzzy
+msgid "HUD_REPLAY_PLAYBACK_SPEED-X8"
+msgstr "8.0x"
+
+#, fuzzy
+#| msgid "REPLAY_MESSAGE_PRESS_TO_SEE_PLAYER"
+msgid "HUD_REPLAY_PRESS_KEY_PLAYER"
+msgstr "Press {key} to show the player"
+
+#, fuzzy
+#| msgid "HUD_PLAYER_LOADING_STR"
+msgid "HUD_REPLAY_PRINT_SCREEN"
+msgstr "Take screenshot"
+
+#, fuzzy
+#| msgid "REPLAY_HOTKEY_SHOW_PLAYER"
+msgid "HUD_REPLAY_SHOW-HIDE_PLAYER"
+msgstr "Show/Hide player"
+
+#, fuzzy
+#| msgid "REPLAY_HEADER_HOTKEYS"
+msgid "HUD_REPLAY_SHOW_HOTKEYS"
+msgstr "Show hotkeys"
+
+#, fuzzy
+#| msgid "HUD_ENEMY_TEAM_SCORE"
+msgid "HUD_REPLAY_SHOW_TEAM_SCORE"
+msgstr "Show team panels"
+
+#, fuzzy
+msgid "HUD_REPLAY_SLOWDOWN_PLAYBACK"
+msgstr "Slow down"
+
+#, fuzzy
+msgid "HUD_REPLAY_SPEEDUP_PLAYBACK"
+msgstr "Speed up"
+
+#, fuzzy
+#| msgid "HUD_MESSAGE_SPECTATOR_MODE"
+msgid "HUD_REPLAY_STANDART_MODE"
+msgstr "Default mode"
+
+#, fuzzy
+#| msgid "HUD_START_FIRE"
+msgid "HUD_REPLAY_START_REWIND"
+msgstr ""
+"Rewinding can take several minutes.<br><font size='6'><br></font>Start "
+"rewinding?"
+
+#, fuzzy
+msgid "HUD_REPLAY_TOOLTIPS_CAMERA"
+msgstr "Camera"
+
+#, fuzzy
+#| msgid "HUD_TOOLTIPS_WITHOUT_BONUSES"
+msgid "HUD_REPLAY_TOOLTIPS_CONTINUE"
+msgstr "Resume"
+
+#, fuzzy
+msgid "HUD_REPLAY_TOOLTIPS_PLAYBACK_SPEED"
+msgstr "Play speed"
+
+#, fuzzy
+msgid "HUD_REPLAY_TOOLTIPS_REPEAT"
+msgstr "Repeat"
+
+#, fuzzy
+#| msgid "HUD_TOOLTIPS_MY_PLANE"
+msgid "HUD_REPLAY_TOOLTIPS_SET_PAUSE"
+msgstr "Pause"
+
+#, fuzzy
+msgid "HUD_REPLAY_TOOLTIPS_UI"
+msgstr "Interface"
+
+#, fuzzy
+msgid "HUD_REPLAY_TURN_ON-OFF_POSTEFFECTS"
+msgstr "Enable/Disable post-effects"
+
+#, fuzzy
+#| msgid "HUD_PLAYERS_LIST_BUTTON"
+msgid "HUD_REPLAY_YES_BUTTON"
+msgstr "Yes"
+
+#, fuzzy
 #| msgid "HUD_PREPARE"
 msgid "HUD_RESOURCES"
 msgstr "Resources"
@@ -2599,7 +2832,7 @@ msgstr "Resources"
 #, fuzzy
 #| msgid "HUD_MESSAGE_POINTS_LEAD_TEAM"
 msgid "HUD_RESOURCE_POINTS_MULTIPLIER"
-msgstr "x{value}"
+msgstr "{value}x effectiveness"
 
 #, fuzzy
 msgid "HUD_RULES_DESCRIPTION_ATTRITION"
@@ -2809,6 +3042,34 @@ msgid "HUD_TEAM_MEMBERS"
 msgstr "戰鬥隊伍"
 
 #, fuzzy
+#| msgid "HUD_FLIGHT"
+msgid "HUD_TEST_FLIGHT"
+msgstr "Test flight"
+
+#, fuzzy
+msgid "HUD_TEST_FLIGHT_CAPS"
+msgstr "TEST FLIGHT"
+
+#, fuzzy
+#| msgid "HUD_TIPS_FACTORY_DESCRIPTION"
+msgid "HUD_TEST_FLIGHT_DESCRIPTION"
+msgstr ""
+"A flight for testing the mounted equipment and consumable configuration. "
+"Experience and credit income per battle is significantly reduced."
+
+#, fuzzy
+msgid "HUD_TEST_FLIGHT_TIP-1"
+msgstr "A free test version of the equipment is used"
+
+#, fuzzy
+msgid "HUD_TEST_FLIGHT_TIP-2"
+msgstr "Experience and credit income per battle is significantly reduced"
+
+#, fuzzy
+msgid "HUD_TEST_FLIGHT_TIP-3"
+msgstr "Aircraft cannot be changed in a test battle"
+
+#, fuzzy
 msgid "HUD_TIME_LEFT_TO_REPAIR_TURRET"
 msgstr "Turret will become operational in {SS}"
 
@@ -2864,6 +3125,11 @@ msgstr "FIGHTERS"
 
 msgid "HUD_TIPS_GAMEMOD"
 msgstr "遊戲模式"
+
+#, fuzzy
+#| msgid "HUD_TIPS_GAMEMOD"
+msgid "HUD_TIPS_GAMEMOD_CONQUEST"
+msgstr "Game Mode \"Conquest\""
 
 #, fuzzy
 msgid "HUD_TIPS_GAMEMOD_INVASION"
@@ -3086,44 +3352,44 @@ msgstr "可修理戰機"
 #, fuzzy
 msgid "HUD_TIPS_SECTOR_DEFENCE_DESCRIPTION_1"
 msgstr ""
-"Equipped with weak AA guns {teamObject:12}, but protected by a large number "
-"of fighters {class:1}."
+"Equipped with weak {teamObject:12} AA guns, but protected by a large number "
+"of {class:1} fighters."
 
 #, fuzzy
 msgid "HUD_TIPS_SECTOR_DEFENCE_DESCRIPTION_2"
 msgstr ""
-"Moderately protected by fighters {class:1} and AA guns {teamObject:12} "
-"{teamObject:13} of different types."
+"Moderately protected by {class:1} fighters and {teamObject:12}"
+"{teamObject:13} AA guns of different types."
 
 #, fuzzy
 msgid "HUD_TIPS_SECTOR_DEFENCE_DESCRIPTION_3"
 msgstr ""
-"Well protected by a large number of light AA guns {teamObject:12} and "
-"fighters {class:1} {class:2} of different types."
+"Well protected by a large number of {teamObject:12} light AA guns and "
+"{class:1}{class:2} fighters of different types."
 
 #, fuzzy
 msgid "HUD_TIPS_SECTOR_DEFENCE_DESCRIPTION_4"
 msgstr ""
-"Equipped with a large number of high-altitude AA guns {teamObject:13}, but "
+"Equipped with a large number of {teamObject:13} high-altitude AA guns, but "
 "not protected by air defense aircraft."
 
 #, fuzzy
 msgid "HUD_TIPS_SECTOR_DEFENCE_DESCRIPTION_5"
 msgstr ""
-"Equipped with a powerful universal anti-aircraft defense system "
-"{teamObject:12} {teamObject:13} and protected by light fighters {class:1}."
+"Equipped with a powerful universal {teamObject:12}{teamObject:13} anti-"
+"aircraft defense system and protected by {class:1} light fighters."
 
 #, fuzzy
 msgid "HUD_TIPS_SECTOR_DEFENCE_DESCRIPTION_6"
 msgstr ""
-"Equipped with a powerful universal anti-aircraft defense system "
-"{teamObject:12} {teamObject:13} and protected by heavy fighters {class:2}."
+"Equipped with a powerful universal {teamObject:12}{teamObject:13} anti-"
+"aircraft defense system and protected by {class:2} heavy fighters."
 
 #, fuzzy
 msgid "HUD_TIPS_SECTOR_DEFENCE_DESCRIPTION_7"
 msgstr ""
-"Equipped with a powerful universal anti-aircraft defense system "
-"{teamObject:12} {teamObject:13}. Not protected by air defense aircraft."
+"Equipped with a powerful universal {teamObject:12}{teamObject:13} anti-"
+"aircraft defense system. Not protected by air defense aircraft."
 
 msgid "HUD_TIPS_SPAWN_POINT_DESCRIPTION"
 msgstr "可被設定為增援戰機的出生點"
@@ -3262,6 +3528,11 @@ msgstr "Standard belt"
 
 msgid "HUD_TOOLTIPS_WITHOUT_BONUSES"
 msgstr "無加成"
+
+#, fuzzy
+#| msgid "HUD_TOOLTIPS_BOOST_REMAINING"
+msgid "HUD_TOOLTIP_CHOOSE_MIN_ONE_CAMERA"
+msgstr "At least one camera<br>should be selected."
 
 msgid "HUD_TOOLTIP_CONSUMABLE_BUTTON"
 msgstr "按 {button} 鍵進行使用"
@@ -3699,7 +3970,7 @@ msgstr "贏了!"
 #, fuzzy
 #| msgid "HUD_WIN_DOMINATION_STR"
 msgid "HUD_WIN_ATTRITION_STR"
-msgstr "Enemy resources exhausted. Operation successfully completed."
+msgstr "Enemy resources were exhausted. Operation was successfully completed."
 
 msgid "HUD_WIN_DOMINATION_STR"
 msgstr "我方取得空中優勢！"
@@ -3712,7 +3983,7 @@ msgstr "我方取得制空權！"
 
 #, fuzzy
 msgid "HUD_WIN_TIME_OVER_STR"
-msgstr "The enemy has lost momentum. The attack has been stopped."
+msgstr "The enemy lost momentum. The attack was stopped."
 
 #, fuzzy
 msgid "HUD_WORKSHOP_OBJECT"
@@ -3771,7 +4042,7 @@ msgstr "只有飛行員可以傳送訊息。"
 
 #, fuzzy
 msgid "QUICK_MESSAGE_ERROR_TIMER"
-msgstr "Radio contact will be available in: {time_sec}s"
+msgstr "Radio contact will be available in: {time_sec} s"
 
 msgid "QUICK_MESSAGE_F2_1"
 msgstr "正在前往攻擊「{sector}」分區!"

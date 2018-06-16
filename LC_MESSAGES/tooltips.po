@@ -113,6 +113,12 @@ msgstr "按飛行時數排序"
 msgid "TOOLTIPS_ACTIVE_SKILL"
 msgstr "啓動技能"
 
+#, fuzzy
+msgid "TOOLTIPS_ADDITIONAL_SETTINGS_AVAILABLE_ONLY_FOR_900PX_AND_MORE"
+msgstr ""
+"Settings for the display of additional information are available only for a "
+"screen height of at least <font color='{1}'>900 px</font>."
+
 msgid "TOOLTIPS_AFTERBATTLE_BONUS_CONSUMABLES_AND_EQUIPMENT"
 msgstr "消耗和裝備的獎勵:"
 
@@ -163,9 +169,34 @@ msgstr ""
 "aircraft control surfaces"
 
 #, fuzzy
+#| msgid "TOOLTIP_AIRCRAFT_TURN_TIME"
+msgid "TOOLTIPS_AIRPLANE_FULL_TURN_TIME"
+msgstr ""
+"Average time required for the aircraft to turn 360° in the horizontal plane"
+
+#, fuzzy
+#| msgid "TOOLTIP_AIRCRAFT_RATE_OF_CLIMB"
+msgid "TOOLTIPS_AIRPLANE_RATE_OF_CLIMB"
+msgstr "Speed of gaining altitude with boost activated"
+
+#, fuzzy
 msgid "TOOLTIPS_ALBION_PARTICIPATING_EVENT_AND_GET_PLANE"
 msgstr ""
 "You can receive this aircraft by participating in the Skies of Albion event."
+
+#, fuzzy
+msgid "TOOLTIPS_ALL_CONDITIONS_DONE_FOR_ELITE_STATE"
+msgstr ""
+"All conditions for acquiring <font color='{1}'>Elite status</font> were "
+"fulfilled."
+
+#, fuzzy
+msgid "TOOLTIPS_ALL_CONDITIONS_DONE_FOR_NEW_STATE"
+msgstr "All conditions for reaching the configuration were fulfilled."
+
+#, fuzzy
+msgid "TOOLTIPS_ALL_CONDITIONS_DONE_FOR_PERMISSION"
+msgstr "All conditions for unlocking were fulfilled."
 
 msgid "TOOLTIPS_ALL_LIST_IN_GAME_EVENTS"
 msgstr "在活動頁面中可檢視完整的優惠折扣資訊列表<br>可在任務和優惠活動中檢視"
@@ -179,6 +210,29 @@ msgstr "地面裝甲目標"
 
 msgid "TOOLTIPS_AVAILABLE_FOR_ACQUISITION_SKILLS"
 msgstr "技能可掌握"
+
+#, fuzzy
+#| msgid "TOOLTIP_UNAVAILABLE_ENTER_OR_CREATE_ROOM"
+msgid "TOOLTIPS_AVAILABLE_IN_FACTORY_NEW_STATE"
+msgstr ""
+"This slot is available in the <font color='#{1}'>Stock configuration</font>"
+
+#, fuzzy
+#| msgid "TOOLTIP_UNAVAILABLE_REPAIR_AIRPLANE"
+msgid "TOOLTIPS_AVAILABLE_IN_SPECIAL_STATE"
+msgstr ""
+"This slot is available in the <font color='#{1}'>\"Specialist\" "
+"configuration</font>"
+
+#, fuzzy
+#| msgid "TOOLTIP_UNAVAILABLE_REPAIR_AIRPLANE"
+msgid "TOOLTIPS_AVAILABLE_IN_WAREHOUSE_PLURAL"
+msgstr "In Depot:"
+
+#, fuzzy
+#| msgid "TOOLTIPS_AVAILABLE_FOR_ACQUISITION_SKILLS"
+msgid "TOOLTIPS_AVAILABLE_IN_WAREHOUSE_SINGULAR"
+msgstr "In Depot"
 
 msgid "TOOLTIPS_AWARD_HERO_BATTLE_TEXT"
 msgstr "首次任務獎勵獎牌"
@@ -571,18 +625,113 @@ msgid "TOOLTIPS_BOMBER_LIMITED_EDITION_TEXT"
 msgstr "Take your chance! The offer is available until {date}"
 
 #, fuzzy
+#| msgid "TOOLTIP_CONSUMABLES_INFO_COOLDOWN_TIME"
+msgid "TOOLTIPS_BOMBS_COOLDOWN_TIME"
+msgstr "Bomb load resupply time"
+
+#, fuzzy
 msgid "TOOLTIPS_BOMB_MODE"
 msgstr "High-altitude bombing mode (Left Shift)"
 
 #, fuzzy
+msgid "TOOLTIPS_BOMB_PURE_DPS"
+msgstr "Cumulative damage caused by bombs"
+
+#, fuzzy
+#| msgid "TOOLTIPS_STATUS"
+msgid "TOOLTIPS_BONUS_STATS"
+msgstr "Bonus Characteristics"
+
+#, fuzzy
+msgid "TOOLTIPS_BONUS_STATS_AFTER_REROLL_DESCRIPTION"
+msgstr ""
+"After reassembling the equipment, a new bonus characteristic will be "
+"randomly selected from the list of available characteristics."
+
+#, fuzzy
+msgid "TOOLTIPS_BONUS_STATS_AFTER_UPGRADE_DESCRIPTION"
+msgstr ""
+"After enhancing the equipment, a new bonus characteristic will be randomly "
+"selected from the list of available characteristics."
+
+#, fuzzy
+msgid "TOOLTIPS_BONUS_STATS_DISABLED_DESCRIPTION_1"
+msgstr ""
+"To get a bonus characteristic, enhance the equipment to the <font "
+"color='#{1}'>Advanced</font> quality level."
+
+#, fuzzy
+msgid "TOOLTIPS_BONUS_STATS_DISABLED_DESCRIPTION_2"
+msgstr ""
+"To get a bonus characteristic, enhance the equipment to the <font "
+"color='#{1}'>Ultimate</font> quality level."
+
+#, fuzzy
+#| msgid "TOOLTIPS_NATION"
+msgid "TOOLTIPS_BOOST_DURATION"
+msgstr "Duration of boost availability"
+
+#, fuzzy
 msgid "TOOLTIPS_BRAKING_SYSTEM_DESCRIPTION"
 msgstr "Main system for aircraft ground slowing"
+
+#, fuzzy
+msgid "TOOLTIPS_BUTTON_GOTO_BARRACKS"
+msgstr "Open Barracks"
+
+#, fuzzy
+#| msgid "TOOLTIP_BATTLE_RESULTS_SESSION_HISTORY"
+msgid "TOOLTIPS_BUTTON_GOTO_PERSONAL_FILE"
+msgstr "Open Personal File"
+
+#, fuzzy
+#| msgid "TOOLTIPS_LOW_MENEUVERABILITY"
+msgid "TOOLTIPS_BUTTON_MENU_CALIBRATE"
+msgstr "Calibrate"
+
+#, fuzzy
+#| msgid "TOOLTIP_TIME_DATE"
+msgid "TOOLTIPS_BUTTON_MENU_DISMANTLE"
+msgstr "Disassemble"
+
+#, fuzzy
+#| msgid "TOOLTIPS_LOW_MENEUVERABILITY"
+msgid "TOOLTIPS_BUTTON_MENU_REBUILD"
+msgstr "Reassemble"
+
+#, fuzzy
+msgid "TOOLTIPS_BUTTON_MENU_SELL"
+msgstr "Sell"
+
+#, fuzzy
+#| msgid "TOOLTIP_SETTINGS_SHOW_IGNORED"
+msgid "TOOLTIPS_BUTTON_MENU_SHOW_INFO"
+msgstr "View details"
+
+#, fuzzy
+#| msgid "TOOLTIP_CUSTOM_MOUSE"
+msgid "TOOLTIPS_BUTTON_MENU_UNMOUNT"
+msgstr "Demount"
+
+#, fuzzy
+msgid "TOOLTIPS_BUTTON_MENU_UPGRADE"
+msgstr "Enhance"
 
 msgid "TOOLTIPS_BUY_PLANE_TROOM_NOT_AVAILABLE"
 msgstr "當你進入訓練房時不可購買戰機"
 
 msgid "TOOLTIPS_BUY_PLANE_WING_NOT_AVAILABLE"
 msgstr "當你加入編隊並點選“準備！”按鈕後不可購買戰機"
+
+#, fuzzy
+#| msgid "TOOLTIPS_CURRENT_AIRCRAFT"
+msgid "TOOLTIPS_CALIBRATE_CURRENT_STAT"
+msgstr "Current value (calibration range):"
+
+#, fuzzy
+#| msgid "TOOLTIP_CREATE_WING_HEADER"
+msgid "TOOLTIPS_CALIBRATE_HEADER"
+msgstr "Calibrate Equipment"
 
 #, fuzzy
 msgid "TOOLTIPS_CANHAVE_BIGBOMBS"
@@ -614,6 +763,13 @@ msgid "TOOLTIPS_CANT_BE_RESET_SKILL"
 msgstr "Unique skill cannot be reset"
 
 #, fuzzy
+msgid "TOOLTIPS_CHANGES_AFTER_CALIBRATE_DESCRIPTION"
+msgstr ""
+"Equipment calibration changes its basic characteristics within certain "
+"ranges.<br><font size='6'><br></font>Calibration can significantly increase "
+"a basic positive characteristic."
+
+#, fuzzy
 msgid "TOOLTIPS_CHANGE_EXP_DESCRIPTION"
 msgstr "Use Free Experience to accelerate earning of skill points."
 
@@ -628,6 +784,20 @@ msgstr "切換排列順序"
 
 msgid "TOOLTIPS_CHANGE_TEAM_PLACE"
 msgstr "切換隊伍"
+
+#, fuzzy
+#| msgid "TOOLTIP_CHARACTERISTICS_ALTITUDE"
+msgid "TOOLTIPS_CHARACTERISTICS_COLON"
+msgstr "Specifications:"
+
+#, fuzzy
+#| msgid "TOOLTIP_MODULES_CHARACTERISTICS_DURABILITY"
+msgid "TOOLTIPS_CHARACTERISTICS_DURABILITY"
+msgstr "Aircraft durability"
+
+#, fuzzy
+msgid "TOOLTIPS_CHOOSE_EQUIPMENT_AND_QUEST"
+msgstr "Hover over the equipment to select a mission."
 
 msgid "TOOLTIPS_CLASS"
 msgstr "種類："
@@ -700,15 +870,101 @@ msgid "TOOLTIPS_COMING_SOON"
 msgstr "即將到來！"
 
 #, fuzzy
+#| msgid "TOOLTIP_CHARACTERISTICS_ALTITUDE"
+msgid "TOOLTIPS_COMPARE_CHARACTERISTICS_I-X_TIER"
+msgstr ""
+"Compare the characteristics of <font color='{1}'>Tier I–X</font> aircraft"
+
+#, fuzzy
+#| msgid "TOOLTIP_MODULES_CHARACTERISTICS_MOUNTED"
+msgid "TOOLTIPS_COMPARE_CHARACTERISTICS_NUMBER_TIER"
+msgstr ""
+"Compare the characteristics of <font color='{1}'>Tier {number}</font> "
+"aircraft"
+
+#, fuzzy
 msgid "TOOLTIPS_COMPLETE_ALL_HARD_QUESTS_TO_SKIP_THIS_ONE"
 msgstr ""
 "To skip this mission, complete additional tasks in all preceding missions."
 
+#, fuzzy
+msgid "TOOLTIPS_COMPLETE_PREVIOUS_QUEST_FOR_NEW_STATE"
+msgstr "To reach this configuration, complete the mission assigned to you."
+
+#, fuzzy
+msgid "TOOLTIPS_COMPLETE_PREVIOUS_STAGE_FOR_ELITE_STATE"
+msgstr ""
+"To acquire <font color='{1}'>Elite status</font>, complete the preceding "
+"stage."
+
+#, fuzzy
+msgid "TOOLTIPS_COMPLETE_PREVIOUS_STAGE_FOR_PERMISSION"
+msgstr "To unlock, complete the preceding stage."
+
+#, fuzzy
+msgid "TOOLTIPS_COMPLETE_QUEST_FOR_THIS_EQUIPMENT"
+msgstr "Select a mission to receive equipment."
+
+#, fuzzy
+msgid "TOOLTIPS_COMPLEX_EQUIPMENT_DESCRIPTION"
+msgstr ""
+"<font color='#{1}'>Complex equipment</font> can be demounted and used again "
+"in exchange for {price}{icon} or disassembled for free and thus empty the "
+"slot."
+
+#, fuzzy
+#| msgid "TOOLTIP_SHOP_CONSUMABLES_TO_SELL"
+msgid "TOOLTIPS_CONSUMABLES_MOUNTED"
+msgstr "Mounted"
+
 msgid "TOOLTIPS_COST_OF_ACQUISITION_SKILL"
 msgstr "掌握技能的條件"
 
+#, fuzzy
+#| msgid "TOOLTIPS_SELECT_TYPE_DEVICE"
+msgid "TOOLTIPS_CRAFT_COMPONENT_DEVICES"
+msgstr "Flight Instruments"
+
+#, fuzzy
+msgid "TOOLTIPS_CRAFT_COMPONENT_ELECTRONICS"
+msgstr "Radio Electronics"
+
+#, fuzzy
+#| msgid "TOOLTIP_AIRCRAFT_MASS"
+msgid "TOOLTIPS_CRAFT_COMPONENT_GEARS"
+msgstr "Mechanical Parts"
+
+#, fuzzy
+#| msgid "TOOLTIPS_GA_MASHINEGUNS"
+msgid "TOOLTIPS_CRAFT_COMPONENT_GUNS"
+msgstr "Weapon Parts"
+
+#, fuzzy
+#| msgid "TOOLTIP_AIRCRAFT_VOLUME"
+msgid "TOOLTIPS_CRAFT_COMPONENT_HULL"
+msgstr "Airframe Elements"
+
+#, fuzzy
+msgid "TOOLTIPS_CRAFT_COMPONENT_STURDY"
+msgstr "Heat-Resistant Parts"
+
+#, fuzzy
+#| msgid "TOOLTIP_WILL_BE_AVAILABLE"
+msgid "TOOLTIPS_CREDITS_TOKENS_AVAILABLE"
+msgstr "Available resources"
+
 msgid "TOOLTIPS_CREW"
 msgstr "乘員: "
+
+#, fuzzy
+#| msgid "TOOLTIP_CREW_GUNNER"
+msgid "TOOLTIPS_CREW_LABEL_PLACE_FOR_GUNNER"
+msgstr "Recruit Gunner"
+
+#, fuzzy
+#| msgid "TOOLTIP_CREW_SECOND_PILOT"
+msgid "TOOLTIPS_CREW_LABEL_PLACE_FOR_PILOT"
+msgstr "Recruit Pilot"
 
 #, fuzzy
 msgid "TOOLTIPS_CREW_RESET_FOR_GOLD_BETTER"
@@ -721,6 +977,18 @@ msgstr ""
 
 msgid "TOOLTIPS_CREW_WITHOUT_PEN"
 msgstr "乘員轉移至同國家的其它戰機上時將不會受到懲罰"
+
+#, fuzzy
+#| msgid "TOOLTIPS_HIGH_DEFENCE"
+msgid "TOOLTIPS_CRIT_DEFENCE"
+msgstr ""
+"Evaluation of different aircraft elements' resistance to critical damage: "
+"airframe, engine, crew, and turret"
+
+#, fuzzy
+#| msgid "TOOLTIP_DECREASE_SPEED"
+msgid "TOOLTIPS_CRUISE_SPEED"
+msgstr "Horizontal flight speed without boost"
 
 msgid "TOOLTIPS_CURRENT_AIRCRAFT"
 msgstr "已選擇的戰機"
@@ -756,8 +1024,18 @@ msgstr "重新訓練乘員，新的熟練度可選擇50%，90%，100%。"
 msgid "TOOLTIPS_DESCRIPTION_TO_ONLY_ONE_DIRECTIVE_CAN_BE_ACTIVE"
 msgstr "First finish executing the activated operation order or deactivate it."
 
+#, fuzzy
+#| msgid "TOOLTIP_WILL_BE_AVAILABLE"
+msgid "TOOLTIPS_DETAILS_AVAILABLE"
+msgstr "Available Materials"
+
 msgid "TOOLTIPS_DETAIL_BUTTON_DESCRIPTION"
 msgstr "打開您的預設瀏覽器來查看詳情。"
+
+#, fuzzy
+#| msgid "TOOLTIPS_HIGH_SPEED"
+msgid "TOOLTIPS_DIVING_SPEED"
+msgstr "Maximum speed attained in a dive"
 
 msgid "TOOLTIPS_EF_DIST"
 msgstr "有效範圍"
@@ -778,17 +1056,145 @@ msgid "TOOLTIPS_EF_MEDIUM_HEIGHT"
 msgstr "中等高度作戰時有效"
 
 #, fuzzy
+#| msgid "TOOLTIP_PLANE_ST"
+msgid "TOOLTIPS_ELITE_PLANE_STATE"
+msgstr "Elite status"
+
+#, fuzzy
+msgid "TOOLTIPS_ELITE_PLANE_STATE_DESCRIPTION"
+msgstr ""
+"An aircraft acquires <font color='#{1}'>Elite status</font> after "
+"researching all modules in the Tech Tree.<br><font size='6'><br></font><font "
+"color='#{1}'>Elite status</font> allows you to accelerate crew training and "
+"convert experience earned on the aircraft to Free Experience."
+
+#, fuzzy
+#| msgid "TOOLTIP_QUESTS_QUEST_PROGRESS"
+msgid "TOOLTIPS_ELITE_PLANE_STATE_PROGRESS"
+msgstr ""
+"To acquire <font color='#{1}'>Elite status</font>, join battles, earn "
+"experience, and research all available modules of the <font "
+"color='#{1}'>Stock configuration</font>."
+
+#, fuzzy
 msgid "TOOLTIPS_ENGINE_DESCRIPTION"
 msgstr "Main component of the propulsion system"
 
 msgid "TOOLTIPS_ENOUGH_SKILL_POINTS"
 msgstr "- 沒有足夠的技能點"
 
+#, fuzzy
+#| msgid "TOOLTIPS_EQUIPMENT_NOT_PURCHASED"
+msgid "TOOLTIPS_EQUIPMENT_HIDE_INFO_BONUS_STATS_WORKING"
+msgstr "Hide possible equipment bonus characteristics"
+
+#, fuzzy
+#| msgid "TOOLTIPS_EQUIPMENT_PURCHASED"
+msgid "TOOLTIPS_EQUIPMENT_I-TECH_GRADE_TIER_I-IV"
+msgstr ""
+"Compatible with aircraft of<br><font color='#{1}'>period I</font> (Tier I–IV)"
+
+#, fuzzy
+#| msgid "TOOLTIPS_EQUIPMENT_PURCHASED"
+msgid "TOOLTIPS_EQUIPMENT_II-TECH_GRADE_TIER_V-VII"
+msgstr ""
+"Compatible with aircraft of<br><font color='#{1}'>period II</font> (Tier V–"
+"VII)"
+
+#, fuzzy
+#| msgid "TOOLTIPS_EQUIPMENT_PURCHASED"
+msgid "TOOLTIPS_EQUIPMENT_III-TECH_GRADE_TIER_VIII-X"
+msgstr ""
+"Compatible with aircraft of<br><font color='#{1}'>period III</font> (Tier "
+"VIII–X)"
+
+#, fuzzy
+#| msgid "TOOLTIPS_EQUIPMENT_NOT_PURCHASED"
+msgid "TOOLTIPS_EQUIPMENT_INFO_CANT_BE_UPG_CAL_REB"
+msgstr "Cannot be enhanced, calibrated, or reassembled"
+
+#, fuzzy
+#| msgid "TOOLTIPS_EQUIPMENT_NOT_PURCHASED"
+msgid "TOOLTIPS_EQUIPMENT_INFO_CAN_BE_UPGRADED"
+msgstr "Equipment can be enhanced"
+
+#, fuzzy
+#| msgid "TOOLTIPS_EQUIPMENT_NOT_PURCHASED"
+msgid "TOOLTIPS_EQUIPMENT_INFO_CURRENT-MAX_STATS_AFTER_ALL_UPG"
+msgstr "Current value (calibration range / max. value after all enhancements):"
+
+#, fuzzy
+msgid "TOOLTIPS_EQUIPMENT_INFO_CURRENT-OPTIMAL_STATS_AFTER_ALL_UPG"
+msgstr "Current value (optimum value after all enhancements):"
+
+#, fuzzy
+#| msgid "TOOLTIPS_EQUIPMENT_NOT_PURCHASED"
+msgid "TOOLTIPS_EQUIPMENT_INFO_INCOME_INCREASED"
+msgstr "Increased income:"
+
+#, fuzzy
+#| msgid "TOOLTIPS_EQUIPMENT_NOT_PURCHASED"
+msgid "TOOLTIPS_EQUIPMENT_INFO_INCOME_INCREASED-2"
+msgstr "Increased income per battle"
+
+#, fuzzy
+msgid "TOOLTIPS_EQUIPMENT_INFO_NEG_EFFECT_LOWERED_CAUSE_PLANE_NOT_SPECIAL_STATE"
+msgstr ""
+"The equipment is mounted on an aircraft that has not been upgraded to the "
+"\"Specialist\" configuration. Its performance is reduced."
+
+#, fuzzy
+#| msgid "TOOLTIPS_EQUIPMENT_NOT_PURCHASED"
+msgid "TOOLTIPS_EQUIPMENT_INFO_POSSIBLE_BONUS_STATS"
+msgstr "Possible bonus characteristics ({number1} / {number2}):"
+
+#, fuzzy
+#| msgid "TOOLTIPS_EQUIPMENT_NOT_PURCHASED"
+msgid "TOOLTIPS_EQUIPMENT_INFO_UNIQUE_EQUPMENT"
+msgstr "Unique equipment:"
+
+#, fuzzy
+#| msgid "TOOLTIPS_EQUIPMENT_NOT_PURCHASED"
+msgid "TOOLTIPS_EQUIPMENT_INFO_WITH_MAX_STATS"
+msgstr "If fully enhanced"
+
 msgid "TOOLTIPS_EQUIPMENT_NOT_PURCHASED"
 msgstr "購買"
 
+#, fuzzy
+#| msgid "TOOLTIPS_EQUIPMENT_PURCHASED"
+msgid "TOOLTIPS_EQUIPMENT_POS_CREDITS_I-180"
+msgstr "Increases credit income per battle"
+
+#, fuzzy
+#| msgid "TOOLTIPS_EQUIPMENT_PURCHASED"
+msgid "TOOLTIPS_EQUIPMENT_POS_EXP_I-180"
+msgstr "Increases experience income per battle"
+
 msgid "TOOLTIPS_EQUIPMENT_PURCHASED"
 msgstr "已購買"
+
+#, fuzzy
+#| msgid "TOOLTIPS_EQUIPMENT_NOT_PURCHASED"
+msgid "TOOLTIPS_EQUIPMENT_SHOW_INFO_BONUS_STATS_WORKING"
+msgstr "Show possible equipment bonus characteristics"
+
+#, fuzzy
+#| msgid "TOOLTIPS_EQUIPMENT_NOT_PURCHASED"
+msgid "TOOLTIPS_EQUIPMENT_SHOW_INFO_WITH_MAX_STATS"
+msgstr "Show equipment if it is fully enhanced"
+
+#, fuzzy
+msgid "TOOLTIPS_FACTORY_NEW_PLANE_STATE"
+msgstr "Stock configuration"
+
+#, fuzzy
+msgid "TOOLTIPS_FACTORY_NEW_PLANE_STATE_DESCRIPTION"
+msgstr ""
+"<font color='#{1}'>Stock configuration</font> is a basic modification of an "
+"aircraft that allows you to earn experience and credits, and research and "
+"mount upgraded modules.<br><font size='6'><br></font>You can mount "
+"additional consumables and equipment of Stock and Improved quality on it."
 
 msgid "TOOLTIPS_FILTER_AIRPLANE_TYPE_ASSAULT"
 msgstr "攻擊機"
@@ -805,12 +1211,187 @@ msgstr "重型戰鬥機"
 msgid "TOOLTIPS_FILTER_AIRPLANE_TYPE_NAVY"
 msgstr "多用途戰鬥機"
 
+#, fuzzy
+#| msgid "TOOLTIPS_HIGH_DEFENCE"
+msgid "TOOLTIPS_FIRE_DEFENCE"
+msgstr "Evaluation of the aircraft's resistance to fire"
+
 msgid "TOOLTIPS_FIRST_WIN_BONUS"
 msgstr "每日首勝加成:"
 
 #, fuzzy
+msgid "TOOLTIPS_FITTING_PLANE_EVENT_DESCRIPTION_1"
+msgstr ""
+"Complete missions faster to reach a new configuration! Available only while "
+"the special lasts!"
+
+#, fuzzy
+msgid "TOOLTIPS_FITTING_PLANE_EVENT_DESCRIPTION_2"
+msgstr ""
+"Find Materials for modifying equipment among your awards! Available only "
+"while the special lasts!"
+
+#, fuzzy
+#| msgid "TOOLTIP_TRAINING_CHANGE_MODE"
+msgid "TOOLTIPS_FITTING_PLANE_ICON_NEG_CHANGE_MODULES"
+msgstr "Does not allow you to change aircraft modules"
+
+#, fuzzy
+#| msgid "TOOLTIP_SETTINGS_MARKERS_CONTEXT_PLANE_DISTANCE"
+msgid "TOOLTIPS_FITTING_PLANE_ICON_NEG_INSTALL_EQP_AND_CONS"
+msgstr "Does not allow you to mount equipment and consumables"
+
+#, fuzzy
+msgid "TOOLTIPS_FITTING_PLANE_ICON_NEG_USE_SPECIAL_AND_EXCELLENT_EQP"
+msgstr ""
+"Does not allow you to take advantage of Advanced and Ultimate equipment"
+
+#, fuzzy
+#| msgid "TOOLTIP_AIRPLANE_COST"
+msgid "TOOLTIPS_FITTING_PLANE_ICON_POS_"
+msgstr "Allows you to train crew"
+
+#, fuzzy
+#| msgid "TOOLTIP_SETTINGS_MARKERS_CONTEXT_PLANE_MODEL"
+msgid "TOOLTIPS_FITTING_PLANE_ICON_POS_BUY_PLANE_MODULES"
+msgstr "Allows you to purchase aircraft modules"
+
+#, fuzzy
+msgid "TOOLTIPS_FITTING_PLANE_ICON_POS_CAN_USE_FACTORY_NEW_AND_UPGRADED_EQP"
+msgstr "Allows you to take advantage of Stock and Improved equipment"
+
+#, fuzzy
+msgid "TOOLTIPS_FITTING_PLANE_ICON_POS_ELITE_PLANE_STATE_FOR_RESEARCH_ALL_MODULES"
+msgstr ""
+"Allows you to acquire Elite status for an aircraft by researching all modules"
+
+#, fuzzy
+msgid "TOOLTIPS_FITTING_PLANE_ICON_POS_EXCHANGE_EXP_IN_FREE_EXP"
+msgstr "Allows you to convert aircraft experience to Free XP"
+
+#, fuzzy
+#| msgid "TOOLTIP_SETTINGS_GAMEPAD_CHOOSE_PATTERN"
+msgid "TOOLTIPS_FITTING_PLANE_ICON_POS_EXP_IN_BATTLES"
+msgstr "Allows you to earn experience in battles"
+
+#, fuzzy
+#| msgid "TOOLTIP_AIRPLANE_COST"
+msgid "TOOLTIPS_FITTING_PLANE_ICON_POS_FAST_"
+msgstr "Allows you to accelerate crew training"
+
+#, fuzzy
+#| msgid "TOOLTIP_CHAT_PLAYER_STATUS_IN_BATTLE"
+msgid "TOOLTIPS_FITTING_PLANE_ICON_POS_GAIN_CREDITS_IN_BATTLE"
+msgstr "Allows you to earn credits in battles"
+
+#, fuzzy
+msgid "TOOLTIPS_FITTING_PLANE_ICON_POS_GAIN_FACTORY_NEW_PLANE_STATE_FOR_QUEST"
+msgstr ""
+"Allows you to receive an aircraft in the Stock configuration by completing a "
+"mission"
+
+#, fuzzy
+msgid "TOOLTIPS_FITTING_PLANE_ICON_POS_GAIN_MATERIALS_FOR_EQP"
+msgstr "Allows you to earn Materials for upgrading equipment"
+
+#, fuzzy
+msgid "TOOLTIPS_FITTING_PLANE_ICON_POS_INSTALL_EQP_AND_CONS"
+msgstr "Allows you to mount equipment and consumables"
+
+#, fuzzy
+msgid "TOOLTIPS_FITTING_PLANE_ICON_POS_MORE_SLOTS_FOR_CONS"
+msgstr "Allows you to mount more consumables"
+
+#, fuzzy
+msgid "TOOLTIPS_FITTING_PLANE_ICON_POS_MORE_SLOTS_FOR_EQP"
+msgstr "Features more slots for equipment"
+
+#, fuzzy
+#| msgid "TOOLTIP_RESEARCH_PLANE_MODULES"
+msgid "TOOLTIPS_FITTING_PLANE_ICON_POS_RESEARCH_AND_BUY_PLANE_MODULES"
+msgstr "Allows you to research and purchase aircraft modules"
+
+#, fuzzy
+msgid "TOOLTIPS_FITTING_PLANE_ICON_POS_SPECIAL_PLANE_STATE_FOR_ALL_MODULES_AND_QUEST"
+msgstr ""
+"Allows you to complete the mission and unlock the opportunity to purchase "
+"the \"Specialist\" configuration"
+
+#, fuzzy
+#| msgid "TOOLTIPS_FILTER_AIRPLANE_TYPE_NAVY"
+msgid "TOOLTIPS_FITTING_PLANE_ICON_POS_STYLE_OF_PLAY"
+msgstr ""
+"Allows you to emphasize the playstyle specific to your aircraft type as well "
+"as the strengths of your machine"
+
+#, fuzzy
+#| msgid "TOOLTIP_CHAT_PLAYER_STATUS_IN_BATTLE"
+msgid "TOOLTIPS_FITTING_PLANE_ICON_POS_TEST_IN_BATTLE"
+msgstr "Allows you to test aircraft in battle"
+
+#, fuzzy
+msgid "TOOLTIPS_FITTING_PLANE_ICON_POS_USE_SPECIAL_AND_EXCELLENT_EQP"
+msgstr "Allows you to take advantage of Advanced and Ultimate equipment"
+
+#, fuzzy
+#| msgid "TOOLTIP_SETTINGS_MARKERS_CONTEXT_ALTITUDE_TYPE"
+msgid "TOOLTIPS_FITTING_PLANE_NEXT_STAGE_ELITE_PLANE"
+msgstr "View the next stage: <font color='#{1}'>Elite</font> status"
+
+#, fuzzy
+#| msgid "TOOLTIP_SETTINGS_MARKERS_CONTEXT_PLANE_HEALTH_TYPE"
+msgid "TOOLTIPS_FITTING_PLANE_NEXT_STAGE_SPECIAL_PLANE"
+msgstr ""
+"View the next stage: \"<font color='#{1}'>Specialist</font>\" configuration"
+
+#, fuzzy
+msgid "TOOLTIPS_FITTING_PLANE_QUEST_FOR_FACTORY_NEW_PLANE_STATE_DESCRIPTION"
+msgstr ""
+"To receive the aircraft in the Stock configuration, complete the assigned "
+"missions"
+
+#, fuzzy
+#| msgid "TOOLTIP_QUEST_IN_PROGRESS"
+msgid "TOOLTIPS_FITTING_PLANE_QUEST_IN_PROGRESS_TIME_LEFT"
+msgstr "Mission in progress:"
+
+#, fuzzy
+#| msgid "TOOLTIP_SETTINGS_MARKERS_CONTEXT_PLANE_DISTANCE"
+msgid "TOOLTIPS_FITTING_PLANE_SKIP_QUESTS_FOR_FACTORY_NEW_PLANE_STATE"
+msgstr "Skip the missions and get the aircraft in the Stock configuration"
+
+#, fuzzy
+#| msgid "TOOLTIP_QUEST_IN_PROGRESS"
+msgid "TOOLTIPS_FITTING_PLANE_STATUS_IN_PROGRESS"
+msgstr "Acquisition in progress"
+
+#, fuzzy
+#| msgid "TOOLTIPS_DETAIL_BUTTON_DESCRIPTION"
+msgid "TOOLTIPS_FITTING_PLANE_TO_NEXT_STAGE_BUTTON_DESCRIPTION"
+msgstr "View the next configuration: <font color='#{1}'>Stock</font>"
+
+#, fuzzy
 msgid "TOOLTIPS_FLAPS_DESCRIPTION"
 msgstr "Used for augmenting wing lift"
+
+#, fuzzy
+#| msgid "TOOLTIP_INSTALLATION_UNAVAILABLE_AIRCRAFT_IN_BATTLE"
+msgid "TOOLTIPS_FLIGHT_UNAVAILABLE_AIRCRAFT_IN_BATTLE"
+msgstr ""
+"Unable to join a battle.<br>Wait until the aircraft leaves the current "
+"battle."
+
+#, fuzzy
+#| msgid "TOOLTIPS_REWARD_TEXT_1"
+msgid "TOOLTIPS_FORWARD-GUNS_DISTANCE"
+msgstr ""
+"Optimal distance for firing with forward-firing offensive autocannons and "
+"machine guns"
+
+#, fuzzy
+#| msgid "TOOLTIPS_REWARD_TEXT_1"
+msgid "TOOLTIPS_FORWARD-GUNS_PURE_DPS"
+msgstr "Cumulative damage of forward-firing offensive autocannons"
 
 #, fuzzy
 msgid "TOOLTIPS_FR_BANNER_TIME_LEFT"
@@ -907,6 +1488,11 @@ msgstr "Very effective in intercepting aircraft at a high altitude"
 msgid "TOOLTIPS_HERO_DAY"
 msgstr "第一塊獎牌"
 
+#, fuzzy
+#| msgid "TOOLTIPS_EF_HIGH_HEIGHT"
+msgid "TOOLTIPS_HIGHT_CEILING"
+msgstr "Maximum altitude for a steady horizontal flight"
+
 msgid "TOOLTIPS_HIGH_DEFENCE"
 msgstr "高生命值"
 
@@ -933,6 +1519,28 @@ msgstr "增加戰鬥後的銀幣收益"
 
 msgid "TOOLTIPS_INCREASE_CREDIT_AND_EXP"
 msgstr "每場戰鬥增加銀幣和經驗值"
+
+#, fuzzy
+#| msgid "TOOLTIP_FAR_PLANE"
+msgid "TOOLTIPS_INSTALED_ON_PLANE"
+msgstr "Mounted on the aircraft:"
+
+#, fuzzy
+msgid "TOOLTIPS_INSTALLED_IN_FACTORY_NEW_STATE"
+msgstr "Mounted in the <font color='#{1}'>Stock configuration</font>"
+
+#, fuzzy
+#| msgid "TOOLTIPS_FR_INCLUDED_IN_PRICE"
+msgid "TOOLTIPS_INSTALLED_IN_SPECIAL_STATE"
+msgstr "Mounted in the <font color='#{1}'>\"Specialist\" configuration</font>"
+
+#, fuzzy
+msgid "TOOLTIPS_INSTALL_FACTORY_NEW_PLANE_STATE"
+msgstr "Mount <font color='#{1}'>Stock configuration</font>"
+
+#, fuzzy
+msgid "TOOLTIPS_INSTALL_SPECIAL_PLANE_STATE"
+msgstr "Mount <font color='#{1}'>\"Specialist\" configuration</font>"
 
 #, fuzzy
 msgid "TOOLTIPS_JA_TR_10_POINTS_PER_EPIC_ACHIEVEMENT"
@@ -1107,8 +1715,25 @@ msgstr "飛行速度低、但增壓能力良好"
 msgid "TOOLTIPS_LVL"
 msgstr "階級："
 
+#, fuzzy
+#| msgid "TOOLTIP_CHECKBOX_AUTOMATICAL_SETTINGS"
+msgid "TOOLTIPS_MAINTENANCE_PAGE_CHECKBOX_AUTOMATIC_REFILL_DESCRIPTION"
+msgstr ""
+"Automatically resupply consumables after using them in battle and returning "
+"to the Hangar"
+
 msgid "TOOLTIPS_MANY_BOMBS"
 msgstr "炸彈載彈量高"
+
+#, fuzzy
+#| msgid "TOOLTIP_WILL_BE_AVAILABLE"
+msgid "TOOLTIPS_MATERIALS_AVAILABLE"
+msgstr "Available Materials"
+
+#, fuzzy
+#| msgid "TOOLTIPS_MED_SPEED"
+msgid "TOOLTIPS_MAX_BOOST_SPEED"
+msgstr "Horizontal flight speed with boost activated"
 
 #, fuzzy
 msgid "TOOLTIPS_MEDHEIGHT"
@@ -1160,8 +1785,342 @@ msgid "TOOLTIPS_MIDRANGE_MIXEDGUNS"
 msgstr "機槍和機砲在中距離表現良好"
 
 #, fuzzy
+#| msgid "TOOLTIPS_FILTER_AIRPLANE_TYPE_NAVY"
+msgid "TOOLTIPS_MODIFIERS_AA_PLANE_DAMAGE_K"
+msgstr "Resistance to damage from gunners and AA guns"
+
+#, fuzzy
+msgid "TOOLTIPS_MODIFIERS_ACCEL_BRAKE_CFG"
+msgstr "Deceleration performance"
+
+#, fuzzy
+#| msgid "TOOLTIP_PROFILE_ANGLE"
+msgid "TOOLTIPS_MODIFIERS_AUTOAIM_ANGLE"
+msgstr "Accuracy when firing at moving targets"
+
+#, fuzzy
+#| msgid "TOOLTIP_MODULES_PAGE"
+msgid "TOOLTIPS_MODIFIERS_BOMB_DAMAGE"
+msgstr "Damage inflicted by bombs"
+
+#, fuzzy
+#| msgid "TOOLTIPS_FIRST_WIN_BONUS"
+msgid "TOOLTIPS_MODIFIERS_BOMB_MISSILE_FOCUS"
+msgstr "Bombing accuracy"
+
+#, fuzzy
+#| msgid "TOOLTIP_MODULES_PURCHASE"
+msgid "TOOLTIPS_MODIFIERS_BOMB_RECHARGE_TIME"
+msgstr "Bomb reload speed"
+
+#, fuzzy
+#| msgid "TOOLTIP_SHOP_MODULES_TO_SELL"
+msgid "TOOLTIPS_MODIFIERS_BOMB_SPLASH"
+msgstr "Bomb blast radius"
+
+#, fuzzy
+#| msgid "TOOLTIPS_GOOD_BOOSTING"
+msgid "TOOLTIPS_MODIFIERS_BOOST_COOLING_RATE"
+msgstr "Engine boost cooldown rate"
+
+#, fuzzy
+#| msgid "TOOLTIPS_MED_SPEED"
+msgid "TOOLTIPS_MODIFIERS_BOOST_SPEED"
+msgstr "Maximum speed with boost activated"
+
+#, fuzzy
+msgid "TOOLTIPS_MODIFIERS_CONTROLLABILITY_ON_HIGH_SPEED"
+msgstr "Aircraft controllability at high speeds"
+
+#, fuzzy
+#| msgid "TOOLTIPS_VERYLOW_SPEED"
+msgid "TOOLTIPS_MODIFIERS_CONTROLLABILITY_ON_LOW_SPEED"
+msgstr "Aircraft controllability at low speeds"
+
+#, fuzzy
+msgid "TOOLTIPS_MODIFIERS_CRIT_WEAKNESS_ENGINE"
+msgstr "Engine's resistance to damage"
+
+#, fuzzy
+#| msgid "TOOLTIP_BATTLE_RESULTS_CRIT_ENGINE"
+msgid "TOOLTIPS_MODIFIERS_CRIT_WEAKNESS_GUNNER"
+msgstr "Gunner's resistance to injuries"
+
+#, fuzzy
+#| msgid "TOOLTIP_BATTLE_RESULTS_CRIT_TAIL"
+msgid "TOOLTIPS_MODIFIERS_CRIT_WEAKNESS_PILOT"
+msgstr "Pilot's resistance to injuries"
+
+#, fuzzy
+#| msgid "TOOLTIPS_DESCRIPTION_FAST_TRAINING"
+msgid "TOOLTIPS_MODIFIERS_CRIT_WEAKNESS_TAIL"
+msgstr "Tail's resistance to damage"
+
+#, fuzzy
+#| msgid "TOOLTIPS_DESCRIPTION_RETRAINING"
+msgid "TOOLTIPS_MODIFIERS_CRIT_WEAKNESS_WINGS"
+msgstr "Wings' resistance to damage"
+
+#, fuzzy
+#| msgid "TOOLTIP_DECREASE_SPEED"
+msgid "TOOLTIPS_MODIFIERS_CRUISE_SPEED"
+msgstr "Cruise speed"
+
+#, fuzzy
+#| msgid "TOOLTIPS_GOOD_GOR_MANEUVERABILITY"
+msgid "TOOLTIPS_MODIFIERS_DAMAGE_AGILITY"
+msgstr "Damaged aircraft controllability"
+
+#, fuzzy
+msgid "TOOLTIPS_MODIFIERS_DIVE_ACCELERATION"
+msgstr "Acceleration while diving"
+
+#, fuzzy
+#| msgid "TOOLTIPS_LOW_FIREPOWER"
+msgid "TOOLTIPS_MODIFIERS_EMERGENCY_POWER"
+msgstr "Acceleration with boost activated"
+
+#, fuzzy
+#| msgid "TOOLTIP_JOY_ENGINE_POWER"
+msgid "TOOLTIPS_MODIFIERS_ENGINE_POWER"
+msgstr "Airspeed gain dynamics"
+
+#, fuzzy
+#| msgid "TOOLTIP_JOY_ENGINE_POWER"
+msgid "TOOLTIPS_MODIFIERS_ENGINE_POWER_ALT"
+msgstr "Acceleration without boost"
+
+#, fuzzy
+#| msgid "TOOLTIP_MODULES_PURCHASE"
+msgid "TOOLTIPS_MODIFIERS_FIRE_CHANCE"
+msgstr "Resistance to fire"
+
+#, fuzzy
+msgid "TOOLTIPS_MODIFIERS_FIRE_DAMAGE_K"
+msgstr "Resistance to damage from fire"
+
+#, fuzzy
+msgid "TOOLTIPS_MODIFIERS_FIRE_DURATION"
+msgstr "Fire extinguishing speed"
+
+#, fuzzy
+#| msgid "TOOLTIP_MODULES_PAGE"
+msgid "TOOLTIPS_MODIFIERS_FIRE_RANGE"
+msgstr "Firing range of forward-firing offensive armament"
+
+#, fuzzy
+msgid "TOOLTIPS_MODIFIERS_FIRE_RATE"
+msgstr "Rate of fire of forward-firing offensive armament"
+
+#, fuzzy
+msgid "TOOLTIPS_MODIFIERS_GUNNER_BURST_TIME_MODIFIER"
+msgstr "Burst length of a defensive turret"
+
+#, fuzzy
+msgid "TOOLTIPS_MODIFIERS_GUNNER_REDUCTION_TIME"
+msgstr "Aiming speed of a defensive turret"
+
+#, fuzzy
+msgid "TOOLTIPS_MODIFIERS_GUNNER_REDUCTION_TIME_MANUALLY"
+msgstr "Aiming speed of a defensive turret when controlled manually"
+
+#, fuzzy
+#| msgid "TOOLTIPS_ORDER_SERTIFICATE"
+msgid "TOOLTIPS_MODIFIERS_GUNS_INCFLICT_DAMAGE"
+msgstr "Damage inflicted by forward-firing offensive armament"
+
+#, fuzzy
+#| msgid "TOOLTIPS_ORDER_SERTIFICATE"
+msgid "TOOLTIPS_MODIFIERS_GUNS_INFLICT_CRIT"
+msgstr "Chance of inflicting critical damage"
+
+#, fuzzy
+#| msgid "TOOLTIPS_ORDER_SERTIFICATE"
+msgid "TOOLTIPS_MODIFIERS_GUNS_INFLICT_FIRE"
+msgstr "Chance of causing a fire"
+
+#, fuzzy
+#| msgid "TOOLTIPS_DEFENCE_TURRET"
+msgid "TOOLTIPS_MODIFIERS_INCOMING_DAMAGE_FROM_AA_TURRET"
+msgstr "Resistance to damage from AA guns"
+
+#, fuzzy
+msgid "TOOLTIPS_MODIFIERS_INCOMING_DAMAGE_FROM_GUNNER"
+msgstr "Resistance to damage from gunners"
+
+#, fuzzy
+#| msgid "TOOLTIP_MODULES_MANUAL_CONFIG"
+msgid "TOOLTIPS_MODIFIERS_MAIN_GUNS_COOLING_RATE"
+msgstr "Cooldown rate of forward-firing offensive armament"
+
+#, fuzzy
+#| msgid "TOOLTIPS_POWERFUL_MASHINEGUNS"
+msgid "TOOLTIPS_MODIFIERS_MAIN_GUNS_DAMAGE"
+msgstr "Damage inflicted by forward-firing offensive armament"
+
+#, fuzzy
+msgid "TOOLTIPS_MODIFIERS_MAIN_GUNS_DURATION_BEFORE_OVERHEAT"
+msgstr "Burst length of forward-firing offensive armament"
+
+#, fuzzy
+#| msgid "TOOLTIPS_FIRST_WIN_BONUS"
+msgid "TOOLTIPS_MODIFIERS_MAIN_HP"
+msgstr "Aircraft HP"
+
+#, fuzzy
+#| msgid "TOOLTIPS_EF_MEDIUM_HEIGHT"
+msgid "TOOLTIPS_MODIFIERS_MAX_HEIGHT"
+msgstr "Maximum flight altitude"
+
+#, fuzzy
+#| msgid "TOOLTIP_AIRCRAFT_MAX_SPEED"
+msgid "TOOLTIPS_MODIFIERS_MAX_SPEED"
+msgstr "Maximum speed"
+
+#, fuzzy
+#| msgid "TOOLTIP_CHARACTERISTICS_OPTIMAL_HEIGHT"
+msgid "TOOLTIPS_MODIFIERS_OPTIMAL_HEIGHT"
+msgstr "Optimal flight altitude"
+
+#, fuzzy
+#| msgid "TOOLTIP_JOY_PITCH_SPEED"
+msgid "TOOLTIPS_MODIFIERS_PITCH_MAX_SPEED_CFG"
+msgstr "Maneuverability in turns"
+
+#, fuzzy
+msgid "TOOLTIPS_MODIFIERS_ROCKET_DAMAGE"
+msgstr "Damage inflicted by rockets"
+
+#, fuzzy
+msgid "TOOLTIPS_MODIFIERS_ROCKET_MISSILE_FOCUS"
+msgstr "Rocket accuracy"
+
+#, fuzzy
+msgid "TOOLTIPS_MODIFIERS_ROCKET_RECHARGE_TIME"
+msgstr "Rocket reload speed"
+
+#, fuzzy
+msgid "TOOLTIPS_MODIFIERS_ROCKET_SPLASH"
+msgstr "Rocket blast radius"
+
+#, fuzzy
+#| msgid "TOOLTIP_JOY_ROLL_SPEED"
+msgid "TOOLTIPS_MODIFIERS_ROLL_MAX_SPEED_CFG"
+msgstr "Roll maneuverability"
+
+#, fuzzy
+#| msgid "TOOLTIPS_HIGH_SPEED"
+msgid "TOOLTIPS_MODIFIERS_ROLL_ON_HIGH_SPEED"
+msgstr "Controllability while rolling at high speeds"
+
+#, fuzzy
+#| msgid "TOOLTIPS_ORDER_SERTIFICATE"
+msgid "TOOLTIPS_MODIFIERS_SYSTEM_HP"
+msgstr "Wings and tail's resistance to damage"
+
+#, fuzzy
+msgid "TOOLTIPS_MODIFIERS_TURRET_DELAY"
+msgstr "Defensive turret's rate of fire in bursts"
+
+#, fuzzy
+#| msgid "TOOLTIPS_MULTIPLE_TURRETS"
+msgid "TOOLTIPS_MODIFIERS_TURRET_FOCUS"
+msgstr "Damage inflicted by defensive turret"
+
+#, fuzzy
+#| msgid "TOOLTIPS_ORDER_SERTIFICATE"
+msgid "TOOLTIPS_MODIFIERS_TURRET_INFLICT_CRIT"
+msgstr "Chance of inflicting critical damage with a defensive turret"
+
+#, fuzzy
+#| msgid "TOOLTIPS_POWERFUL_TURRET_ANGLES"
+msgid "TOOLTIPS_MODIFIERS_TURRET_RANGE"
+msgstr "Firing range of defensive turret"
+
+#, fuzzy
+#| msgid "TOOLTIPS_POWERFUL_TURRET_ANGLES"
+msgid "TOOLTIPS_MODIFIERS_TURRET_RANGE_MANUALLY"
+msgstr "Firing range of a defensive turret when controlled manually"
+
+#, fuzzy
+msgid "TOOLTIPS_MODIFIERS_VITALS_ARMOR"
+msgstr "Engine and crew's resistance to damage"
+
+#, fuzzy
+#| msgid "TOOLTIPS_FIRST_WIN_BONUS"
+msgid "TOOLTIPS_MODIFIERS_WEAPONS_FOCUS"
+msgstr "Accuracy of forward-firing offensive armament"
+
+#, fuzzy
+#| msgid "TOOLTIP_MODULES_EXPLORE"
+msgid "TOOLTIPS_MODIFIERS_WEP_WORK_TIME"
+msgstr "Boost availability"
+
+#, fuzzy
+#| msgid "TOOLTIP_AIRCRAFT_MAX_SPEED"
+msgid "TOOLTIPS_MODIFIERS_YAW_MAX_SPEED_CFG"
+msgstr "Yaw maneuverability"
+
+#, fuzzy
 msgid "TOOLTIPS_MODS_FOR_NEXT_BATTLE"
 msgstr "Modifiers for the next battle:"
+
+#, fuzzy
+msgid "TOOLTIPS_MODULES_MESSAGE_PREMIUM_AIRCRAFT_ADVANTAGES_S1"
+msgstr "No research required"
+
+#, fuzzy
+msgid "TOOLTIPS_MODULES_MESSAGE_PREMIUM_AIRCRAFT_ADVANTAGES_S2"
+msgstr "Accelerated crew training is available from the first battle"
+
+#, fuzzy
+msgid "TOOLTIPS_MODULES_MESSAGE_PREMIUM_AIRCRAFT_ADVANTAGES_S3"
+msgstr "More credits per battle"
+
+#, fuzzy
+msgid "TOOLTIPS_MODULES_MESSAGE_PREMIUM_AIRCRAFT_ADVANTAGES_S4"
+msgstr "+20% aircraft experience and crew experience per battle"
+
+#, fuzzy
+msgid "TOOLTIPS_MODULES_MESSAGE_PREMIUM_AIRCRAFT_ADVANTAGES_S5"
+msgstr "+20% crew experience per battle"
+
+#, fuzzy
+msgid "TOOLTIPS_MODULES_MESSAGE_PREMIUM_AIRCRAFT_ADVANTAGES_S6"
+msgstr ""
+"Elite status allows you to convert aircraft experience to Free Experience"
+
+#, fuzzy
+msgid "TOOLTIPS_MODULES_MESSAGE_PREMIUM_AIRCRAFT_ADVANTAGES_S7"
+msgstr ""
+"Transferring crew from aircraft of any type without penalty or retraining"
+
+#, fuzzy
+msgid "TOOLTIPS_MODULES_MESSAGE_PREMIUM_AIRCRAFT_ADVANTAGES_S8"
+msgstr "100% crew proficiency and 1 skill point for each crew member"
+
+#, fuzzy
+msgid "TOOLTIPS_MODULES_MESSAGE_PREMIUM_AIRCRAFT_ADVANTAGES_S9"
+msgstr ""
+"Ability to control a turret (T) and conduct precision bombing (Left Shift)"
+
+#, fuzzy
+msgid "TOOLTIPS_MODULES_MESSAGE_SPECIAL_STATE_ADVANTAGES_S1"
+msgstr "Accelerated crew training"
+
+#, fuzzy
+msgid "TOOLTIPS_MODULES_MESSAGE_SPECIAL_STATE_ADVANTAGES_S2"
+msgstr "Allows you to take advantage of Advanced and Ultimate equipment"
+
+#, fuzzy
+msgid "TOOLTIPS_MODULES_MESSAGE_SPECIAL_STATE_ADVANTAGES_S3"
+msgstr "Features more slots for equipment and consumables"
+
+#, fuzzy
+msgid "TOOLTIPS_MODULES_MESSAGE_SPECIAL_STATE_ADVANTAGES_S4"
+msgstr ""
+"Allows you to emphasize the playstyle specific to your aircraft type as well "
+"as the strengths of your machine"
 
 #, fuzzy
 msgid "TOOLTIPS_MODULE_INFO_NOT_READY_ON_RESPAWN"
@@ -1178,6 +2137,11 @@ msgstr "Used automatically after the battle is finished"
 #, fuzzy
 msgid "TOOLTIPS_MODULE_INFO_USED_CONTINOUSLY"
 msgstr "Effective for the course of the battle"
+
+#, fuzzy
+#| msgid "TOOLTIP_PLANE_ST"
+msgid "TOOLTIPS_MOUNTED_ON_PLANE_LIST"
+msgstr "Mounted on:"
 
 msgid "TOOLTIPS_MULTIPLE_POWERFUL_TURRETS"
 msgstr "備有數個強力的防禦砲塔"
@@ -1218,8 +2182,39 @@ msgstr "No forward-firing offensive armament"
 msgid "TOOLTIPS_OIL_TANKS_DESCRIPTION"
 msgstr "Containers with oil for engines"
 
+#, fuzzy
+#| msgid "TOOLTIPS_OPEN_SORT_MENU"
+msgid "TOOLTIPS_OPEN_CONTEXT_MENU"
+msgstr "Open context menu"
+
+#, fuzzy
+#| msgid "TOOLTIP_BATTLE_RESULTS_SPECIAL_REWARD"
+msgid "TOOLTIPS_OPEN_EVENTS-QUESTS_OR_SPECIAL_OFFERS"
+msgstr ""
+"View <font color='#{1}'>Specials and Missions</font><br>or <font "
+"color='#{1}'>Exclusive Offers</font>"
+
+#, fuzzy
+#| msgid "TOOLTIPS_OPEN_VIDEOMATERIALS"
+msgid "TOOLTIPS_OPEN_EVENTS_OR_SPECIAL_OFFERS"
+msgstr ""
+"View <font color='#{1}'>Specials</font><br>or <font color='#{1}'>Exclusive "
+"Offers</font>"
+
 msgid "TOOLTIPS_OPEN_GUIDE_OR_VIDEOMATERIALS"
 msgstr "檢視<font color='#{1}'>指南</font>或<font color='#{1}'>影片</font>"
+
+#, fuzzy
+#| msgid "TOOLTIPS_PREMIUM_SHOP"
+msgid "TOOLTIPS_OPEN_INGAME_PREMIUM_STORE"
+msgstr "Open the in-game shop to purchase Premium items."
+
+#, fuzzy
+#| msgid "TOOLTIP_BATTLE_RESULTS_SPECIAL_REWARD"
+msgid "TOOLTIPS_OPEN_QUESTS_SPECIAL_OFFERS"
+msgstr ""
+"View <font color='#{1}'>Missions</font><br>or <font color='#{1}'>Exclusive "
+"Offers</font>"
 
 msgid "TOOLTIPS_OPEN_SORT_MENU"
 msgstr "開啟戰機排序選單"
@@ -1229,6 +2224,19 @@ msgstr "檢視影片列表"
 
 msgid "TOOLTIPS_OPEN_VIDEOMATERIALS"
 msgstr "檢視<font color='#{color}'>影片</font>區塊"
+
+#, fuzzy
+msgid "TOOLTIPS_OPTIMAL_HEIGHT_MIN-MAX"
+msgstr ""
+"Limit of the range of altitudes at which the aircraft reaches its maximum "
+"speed and maneuverability"
+
+#, fuzzy
+#| msgid "TOOLTIPS_LOW_SPEED"
+msgid "TOOLTIPS_OPTIMAL_SPEED_MIN-MAX"
+msgstr ""
+"Limit of the range of speeds at which the aircraft reaches its maximum "
+"maneuverability"
 
 msgid "TOOLTIPS_ORDER_SERTIFICATE"
 msgstr "使用令牌可以讓你提早完成任務，在商店中購買令牌。"
@@ -1286,6 +2294,11 @@ msgstr ""
 "armor plate."
 
 #, fuzzy
+#| msgid "TOOLTIP_LOBBY_QUESTS_CURRENT_PLANE"
+msgid "TOOLTIPS_PILOT_CURRENT_PLANE"
+msgstr "Currently controls the aircraft:"
+
+#, fuzzy
 msgid "TOOLTIPS_PILOT_EQUIPMENT_DESCRIPTION"
 msgstr "Instrumentation for direct aircraft control"
 
@@ -1306,6 +2319,70 @@ msgstr "The aircraft can participate in the Battle for Thor's Hammer event."
 #, fuzzy
 msgid "TOOLTIPS_PLANE_COST_WITH_DISCOUNT"
 msgstr "Aircraft price with discount:"
+
+#, fuzzy
+#| msgid "TOOLTIP_APPEARANCE_WINGS"
+msgid "TOOLTIPS_PLANE_STATE_GO_TO_APPEARANCE_SETTINGS"
+msgstr "Customize exterior"
+
+#, fuzzy
+msgid "TOOLTIPS_PLANE_STATE_GO_TO_CONSUMABLES_INSTALL"
+msgstr "Mount consumables"
+
+#, fuzzy
+msgid "TOOLTIPS_PLANE_STATE_GO_TO_EQUIPMENT_INSTALL"
+msgstr "Mount equipment"
+
+#, fuzzy
+#| msgid "TOOLTIP_GOTO_MODULES"
+msgid "TOOLTIPS_PLANE_STATE_GO_TO_MODULES"
+msgstr "Go to aircraft modules"
+
+#, fuzzy
+#| msgid "TOOLTIP_BATTLE_RESULTS_BATTLE_POINTS"
+msgid "TOOLTIPS_PLANE_STATE_PROGRESS_BATTLE_EXP_GAINED"
+msgstr "XP earned:"
+
+#, fuzzy
+#| msgid "TOOLTIP_AIRPLANE_BUY_IMPOSSIBLE_EXPLORE"
+msgid "TOOLTIPS_PLANE_STATE_PROGRESS_BATTLE_EXP_LEFT"
+msgstr "Required:"
+
+#, fuzzy
+#| msgid "TOOLTIP_BATTLE_RESULTS_AWARDS_EARNED"
+msgid "TOOLTIPS_PLANE_STATE_PROGRESS_MODULES_RESEARCHED"
+msgstr "Modules researched:"
+
+#, fuzzy
+msgid "TOOLTIPS_PLANE_STATE_UNAVAILABLE_DESCRIPTION"
+msgstr ""
+"Unable to mount. First unlock the configuration by completing a special "
+"mission."
+
+#, fuzzy
+#| msgid "TOOLTIP_MODULES_CHARACTERISTICS_MOUNTED"
+msgid "TOOLTIPS_PLANE_STATS_CHARACTERISTICS"
+msgstr "Specifications"
+
+#, fuzzy
+#| msgid "TOOLTIP_PLANE_TESTING"
+msgid "TOOLTIPS_PLANE_STATS_POS_NEG"
+msgstr "Overview"
+
+#, fuzzy
+#| msgid "TOOLTIP_PLANE_ST"
+msgid "TOOLTIPS_PLANE_STATS_PPI"
+msgstr "Infographic"
+
+#, fuzzy
+#| msgid "TOOLTIP_PLANE_TESTING"
+msgid "TOOLTIPS_PLANE_STATS_SETTINGS"
+msgstr "Settings"
+
+#, fuzzy
+#| msgid "TOOLTIP_PLANE_ST"
+msgid "TOOLTIPS_PLANE_STATS_SUMMARY"
+msgstr "Summary"
 
 msgid "TOOLTIPS_POWEFUL_GA_CANONS"
 msgstr "強勁的機砲在對付地面目標表現良好"
@@ -1350,12 +2427,35 @@ msgid "TOOLTIPS_PREMIUM_SHOP_DESCRIPTION"
 msgstr "打開您的預設瀏覽器來前往加值商店。"
 
 #, fuzzy
+msgid "TOOLTIPS_PRESS_TO_INST_EQUIPMENT"
+msgstr "Click to mount equipment"
+
+#, fuzzy
 msgid "TOOLTIPS_PRIZE_BONUSES_EXP_AND_CREDITS"
 msgstr "Bonus to experience and credits"
 
 #, fuzzy
 msgid "TOOLTIPS_PRIZE_BUNKS_IN_THE_BARRACKS"
 msgstr "Bunks in Barracks"
+
+#, fuzzy
+msgid "TOOLTIPS_PROTOTYPE"
+msgstr "Prototype"
+
+#, fuzzy
+#| msgid "TOOLTIP_PLANE_ST"
+msgid "TOOLTIPS_PROTOTYPE_PLANE_STATE"
+msgstr "\"Prototype\" configuration"
+
+#, fuzzy
+#| msgid "TOOLTIPS_RESET_DESCRIPTION"
+msgid "TOOLTIPS_PROTOTYPE_PLANE_STATE_DESCRIPTION"
+msgstr ""
+"<font color='#{1}'>Prototypes</font> are aircraft that can be purchased "
+"without researching them in the Tech Tree.<br><font size='6'><br></font>An "
+"aircraft in the <font color='#{1}'>\"Prototype\" configuration</font> can "
+"join battles but does not earn experience and its components cannot be "
+"upgraded."
 
 msgid "TOOLTIPS_PURCHASE_SLOT"
 msgstr "{price}購買機位"
@@ -2620,6 +3720,19 @@ msgid "TOOLTIPS_RADIOSTATION_DESCRIPTION"
 msgstr "Provides short-range and long-range radio communication"
 
 #, fuzzy
+#| msgid "TOOLTIP_RANDOM_BATTLE"
+msgid "TOOLTIPS_RANDOM_REROLL_BONUS_STATS"
+msgstr "Reassembly of equipment bonus characteristics"
+
+#, fuzzy
+#| msgid "TOOLTIP_ATTACKING_MESSAGE"
+msgid "TOOLTIPS_RANDOM_REROLL_BONUS_STATS_WARNING_MESSAGE"
+msgstr ""
+"Equipment reassembly randomly changes all its bonus characteristics."
+"<br><font size='6'><br></font>You can retain characteristics that you want "
+"to keep after reassembly for an extra charge."
+
+#, fuzzy
 msgid "TOOLTIPS_READ_PERSONAL_PILOT_INFO_AND_RECRUIT"
 msgstr "View female pilot's personal file and recruit her"
 
@@ -2633,6 +3746,16 @@ msgstr "招募乘員"
 #, fuzzy
 msgid "TOOLTIPS_RECRUIT_UNIQUE_PILOT_FOR_PLANE"
 msgstr "Recruit a unique pilot for this aircraft"
+
+#, fuzzy
+#| msgid "TOOLTIPS_DETAIL_BUTTON_DESCRIPTION"
+msgid "TOOLTIPS_REROLL_BUTTON_DISABLED_DESCRIPTION"
+msgstr "Reassembly requires at least one bonus characteristic."
+
+#, fuzzy
+msgid "TOOLTIPS_RESEARCH_UNAVAILABLE_DESCRIPTION"
+msgstr ""
+"Unable to research. First reach the Stock configuration for the {plane_name}."
 
 msgid "TOOLTIPS_RESET_ALL_FILTERS"
 msgstr "重設過濾"
@@ -2679,6 +3802,25 @@ msgstr "徽章"
 msgid "TOOLTIPS_REWARD_TEXT_9"
 msgstr "一級反射式瞄準具"
 
+#, fuzzy
+#| msgid "TOOLTIP_CONSUMABLES_INFO_COOLDOWN_TIME"
+msgid "TOOLTIPS_ROCKETS_COOLDOWN_TIME"
+msgstr "Rocket load resupply time"
+
+#, fuzzy
+#| msgid "TOOLTIPS_EF_DIST"
+msgid "TOOLTIPS_ROCKETS_DISTANCE"
+msgstr "Optimal distance for launching rockets"
+
+#, fuzzy
+msgid "TOOLTIPS_ROCKETS_PURE_DPS"
+msgstr "Cumulative damage caused by rockets"
+
+#, fuzzy
+#| msgid "TOOLTIP_ROLL_SPEED"
+msgid "TOOLTIPS_ROLL_SPD"
+msgstr "Rate at which an aircraft rolls along its longitudinal axis"
+
 msgid "TOOLTIPS_SELECT_CONFIGURATION_SOUND"
 msgstr "選擇聲音配置"
 
@@ -2715,8 +3857,76 @@ msgstr "技能點："
 msgid "TOOLTIPS_SKILL_PURCHASED"
 msgstr "掌握技能"
 
+#, fuzzy
+#| msgid "TOOLTIP_QUESTS_QUEST_PROGRESS"
+msgid "TOOLTIPS_SKIP_QUEST_FOR_SPECIAL_PLANE_STATE"
+msgstr ""
+"Skip the mission and get the aircraft in the \"Specialist\" configuration"
+
+#, fuzzy
+#| msgid "TOOLTIPS_PILOT"
+msgid "TOOLTIPS_SPECIALITY"
+msgstr "Proficiency:"
+
+#, fuzzy
+#| msgid "TOOLTIP_CHARACTERISTICS_ALTITUDE"
+msgid "TOOLTIPS_SPECIAL_CHARACTERISTICS"
+msgstr "Special characteristics:"
+
+#, fuzzy
+#| msgid "TOOLTIP_PLANE_ST"
+msgid "TOOLTIPS_SPECIAL_PLANE_STATE"
+msgstr "\"Specialist\" configuration"
+
+#, fuzzy
+msgid "TOOLTIPS_SPECIAL_PLANE_STATE_DESCRIPTION"
+msgstr ""
+"The \"<font color='#{1}'>Specialist</font>\" configuration is an improved "
+"configuration that offers new opportunities for your aircraft.<br><font "
+"size='6'><br></font>An aircraft in this configuration features more slots "
+"for mounting equipment and can carry Advanced and Ultimate quality "
+"equipment, which makes the aircraft even more effective in battle."
+
+#, fuzzy
+msgid "TOOLTIPS_SPECIAL_PLANE_STATE_NEW_POSSIBILITIES_FOR_YOUR_PLANE"
+msgstr ""
+"The \"Specialist\" configuration is an improved configuration that offers "
+"new opportunities for your aircraft."
+
+#, fuzzy
+#| msgid "TOOLTIPS_LOW_SPEED"
+msgid "TOOLTIPS_STALL_SPEED"
+msgstr ""
+"Minimum speed required for the aircraft to maintain a steady horizontal "
+"flight"
+
 msgid "TOOLTIPS_STATUS"
 msgstr "狀態："
+
+#, fuzzy
+#| msgid "TOOLTIP_QUEST_IN_PROGRESS"
+msgid "TOOLTIPS_STATUS_IN_PROGRESS"
+msgstr "In progress"
+
+#, fuzzy
+#| msgid "TOOLTIP_QUEST_IN_PROGRESS"
+msgid "TOOLTIPS_STATUS_QUEST_IN_PROGRESS"
+msgstr "Mission in progress"
+
+#, fuzzy
+#| msgid "TOOLTIPS_STATUS"
+msgid "TOOLTIPS_STATUS_RECEIVED"
+msgstr "Acquired"
+
+#, fuzzy
+#| msgid "TOOLTIP_BATTLE_RESULTS_RECEIVED_AFTER_BATTLE"
+msgid "TOOLTIPS_STATUS_RECEIVED_AND_INSTALLED"
+msgstr "Acquired and mounted"
+
+#, fuzzy
+#| msgid "TOOLTIP_AIRPLANE_UNAVAILABLE"
+msgid "TOOLTIPS_STATUS_UNAVAILABLE"
+msgstr "Unavailable"
 
 #, fuzzy
 msgid "TOOLTIPS_TAIL_PART_DESCRIPTION"
@@ -2727,6 +3937,35 @@ msgstr "移動至隊伍1"
 
 msgid "TOOLTIPS_TEAM_INQUEUE_2"
 msgstr "移動至隊伍2"
+
+#, fuzzy
+msgid "TOOLTIPS_TECH_GRADE_DESCRIPTION"
+msgstr ""
+"Technological level indicating equipment enhancement and calibration degree"
+
+#, fuzzy
+#| msgid "TOOLTIPS_TIER_LVL"
+msgid "TOOLTIPS_TECH_LVL"
+msgstr "Technological level"
+
+#, fuzzy
+#| msgid "TOOLTIPS_DETAIL_BUTTON_DESCRIPTION"
+msgid "TOOLTIPS_TEST_BUTTON_DESCRIPTION"
+msgstr ""
+"Perform a flight for testing the mounted equipment and consumable "
+"configuration. Experience and credit income is significantly reduced."
+
+#, fuzzy
+msgid "TOOLTIPS_TEST_FLIGHT_EXP_CREDITS_DRAMATICALLY_DECREASED"
+msgstr ""
+"Experience and credit income earned in a test flight is significantly "
+"reduced."
+
+#, fuzzy
+msgid "TOOLTIPS_TEST_FLIGHT_EXP_CREDITS_DRAMATICALLY_DECREASED_BR"
+msgstr ""
+"Experience and credit income<br>earned in a test flight is significantly "
+"reduced."
 
 #, fuzzy
 msgid "TOOLTIPS_TFC_PLANE_READ_PERSONAL_PILOT_INFO_AND_RECRUIT"
@@ -2744,6 +3983,16 @@ msgstr "可購買令牌的剩餘時間: {dd_hh_mm}"
 
 msgid "TOOLTIPS_TURRET"
 msgstr "備有一個防禦砲塔"
+
+#, fuzzy
+#| msgid "TOOLTIPS_TURRET_ANGLES"
+msgid "TOOLTIPS_TURRETS_DISTANCE"
+msgstr "Optimal distance for firing with defensive turrets"
+
+#, fuzzy
+#| msgid "TOOLTIPS_TURRET_ANGLES"
+msgid "TOOLTIPS_TURRETS_PURE_DPS"
+msgstr "Cumulative damage of defensive turrets"
 
 msgid "TOOLTIPS_TURRET_ANGLES"
 msgstr "備有一個廣射界的防禦砲塔"
@@ -2839,12 +4088,30 @@ msgstr ""
 "the mission: heavy fighters."
 
 #, fuzzy
+#| msgid "TOOLTIP_UNAVAILABLE_REPAIR_AIRPLANE"
+msgid "TOOLTIPS_UNAVAILABLE_ON_THIS_PLANE"
+msgstr "This slot is not available on this aircraft"
+
+#, fuzzy
 msgid "TOOLTIPS_UNDERCARRIAGE_DESCRIPTION"
 msgstr "Gear struts with steerable gear linkage"
 
 #, fuzzy
 msgid "TOOLTIPS_UNIQUE_SKILL_DOESNT_WORK"
 msgstr "A unique universal skill is inactive."
+
+#, fuzzy
+#| msgid "TOOLTIPS_RESET_DESCRIPTION"
+msgid "TOOLTIPS_UPGRADE_DESCRIPTION"
+msgstr ""
+"Equipment enhancement increases its technological level, extends the "
+"calibration range for basic characteristics, and adds a random bonus "
+"characteristic."
+
+#, fuzzy
+#| msgid "TOOLTIP_GOLD_HEADER"
+msgid "TOOLTIPS_UPGRADE_HEADER"
+msgstr "Enhance Equipment"
 
 msgid "TOOLTIPS_USE_SERTIFICATE"
 msgstr "使用令牌可以讓你提早完成任務，使用令牌完成任務。"
@@ -2904,6 +4171,10 @@ msgstr "Aircraft guns including autocannon and machine guns"
 #, fuzzy
 msgid "TOOLTIPS_WINGS_DESCRIPTION"
 msgstr "Main source of lift of an aircraft"
+
+#, fuzzy
+msgid "TOOLTIPS_WORK_DURING_ALL_BATTLE"
+msgstr "Effective throughout the battle"
 
 msgid "TOOLTIP_ACHIEVEMENTS_PAGE"
 msgstr "顯示戰鬥的勝利、失敗等資料統計，以及通過戰鬥所獲得的勳章等內容"
@@ -3410,7 +4681,7 @@ msgstr "For capturing sectors"
 #, fuzzy
 #| msgid "TOOLTIP_BATTLE_RESULTS_CRITS_DESCRIPTION"
 msgid "TOOLTIP_BATTLE_RESULTS_POINTS_DESCRIPTION_FOR_DMG_DEALT_TO_BOMBER_WING"
-msgstr "For damaging Attack Flight bombers"
+msgstr "For damaging aircraft from Attack Flight"
 
 #, fuzzy
 #| msgid "TOOLTIP_BATTLE_RESULTS_CRITS_DESCRIPTION"
@@ -3435,7 +4706,7 @@ msgstr "For destroying ground targets"
 #, fuzzy
 #| msgid "TOOLTIP_BATTLE_RESULTS_CRITS_DESCRIPTION"
 msgid "TOOLTIP_BATTLE_RESULTS_POINTS_DESCRIPTION_FOR_KILL_BOMBER_WING"
-msgstr "For destroying Attack Flight bombers"
+msgstr "For destroying aircraft from Attack Flight"
 
 #, fuzzy
 #| msgid "TOOLTIP_BATTLE_RESULTS_CRITS_DESCRIPTION"
@@ -3639,6 +4910,11 @@ msgstr "調整在高速飛行的運動模糊效果"
 msgid "TOOLTIP_BOMB_VIEW"
 msgstr "<b>投彈模式</b><br/>切到投彈模式從而能精確投彈"
 
+#, fuzzy
+#| msgid "TOOLTIP_BATTLE_RESULTS_TOTAL_WITH_BONUSES"
+msgid "TOOLTIP_BUTTON_MENU_REMOVE_TO_WAREHOUSE"
+msgstr "Send to Depot"
+
 msgid "TOOLTIP_BUY_PREMIUM"
 msgstr ""
 "<b>加值帳號</b><br/>使用金幣可購買加值帳號時限，在加值帳號期間，戰鬥所獲得的"
@@ -3684,7 +4960,7 @@ msgstr "個人化"
 
 #, fuzzy
 msgid "TOOLTIP_CANCEL_INSTALL"
-msgstr "Cancel loading"
+msgstr "Cancel Mounting"
 
 #, fuzzy
 msgid "TOOLTIP_CANCEL_SELECT_TO_INST_STANDARD"
@@ -4104,11 +5380,46 @@ msgstr ""
 msgid "TOOLTIP_FOLLOW_ME_MESSAGE"
 msgstr "<b>跟我來！</b><br/>傳送一個隊聊資訊“跟我來！”"
 
+#, fuzzy
+#| msgid "TOOLTIP_SHOP_BOMBS_ROCKETS_TO_SELL"
+msgid "TOOLTIP_FOR_BOMB_ROCKETS_SLOT"
+msgstr "Compatible with an outboard weaponry slot"
+
+#, fuzzy
+#| msgid "TOOLTIPS_PURCHASE_SLOT"
+msgid "TOOLTIP_FOR_CABINE_SLOT"
+msgstr "Compatible with a pilot's cockpit slot"
+
+#, fuzzy
+#| msgid "TOOLTIP_JOY_ENGINE_POWER"
+msgid "TOOLTIP_FOR_ENGINE_SLOT"
+msgstr "Compatible with an engine slot"
+
+#, fuzzy
+msgid "TOOLTIP_FOR_MAIN_WEAPONS_SLOT"
+msgstr "Compatible with a forward-firing armament slot"
+
+#, fuzzy
+#| msgid "TOOLTIP_PLANE_ST"
+msgid "TOOLTIP_FOR_PLANER_SLOT"
+msgstr "Compatible with an airframe slot"
+
+#, fuzzy
+msgid "TOOLTIP_FOR_TURRET_SLOT"
+msgstr "Compatible with a turret slot"
+
 msgid "TOOLTIP_FRAGBELT_EFF_BIG_WEP"
 msgstr "高爆彈是最為有效的大口徑彈藥"
 
 msgid "TOOLTIP_FREE_CAMERA"
 msgstr "<b>切換到自由視角</b><br/>檢視飛機的周圍"
+
+#, fuzzy
+#| msgid "TOOLTIPS_RESET_DESCRIPTION"
+msgid "TOOLTIP_FREE_EXP_DESCRIPTION"
+msgstr ""
+"Free Experience is earned in battles and can be used to research any "
+"aircraft or module."
 
 msgid "TOOLTIP_FREE_LOOK_MODE"
 msgstr "<b>自由視野</b><br/>檢視四周環境"
@@ -4307,6 +5618,11 @@ msgstr ""
 
 msgid "TOOLTIP_INCREASE_POWER"
 msgstr "<b>增加油門</b><br/>增加油門以增加速度"
+
+#, fuzzy
+#| msgid "TOOLTIP_INSTALLATION_UNAVAILABLE_AIRCRAFT_IN_BATTLE"
+msgid "TOOLTIP_INFO_UNAVAILABLE_AIRCRAFT_IN_BATTLE"
+msgstr "Information unavailable.<br>Wait until the aircraft leaves the battle."
 
 msgid "TOOLTIP_INSTALLATION_UNAVAILABLE_AIRCRAFT_DAMAGED"
 msgstr "不能安裝，需要先修理飛機。"
@@ -4555,6 +5871,35 @@ msgstr "在檢測到的裝置下拉列表中選擇麥克風"
 msgid "TOOLTIP_MICROPHONE_SENSITIVITY"
 msgstr "調整您使用麥克風時的最低音量<br/>該設定應高於您的環境噪音水平"
 
+#, fuzzy
+#| msgid "TOOLTIPS_AFTERBATTLE_BONUS_CREDIT"
+msgid "TOOLTIP_MODIFIERS_ECONOMIC_BONUS_CREDITS"
+msgstr "Credits earned per battle"
+
+#, fuzzy
+#| msgid "TOOLTIPS_FIRST_WIN_BONUS"
+msgid "TOOLTIP_MODIFIERS_ECONOMIC_BONUS_XP"
+msgstr "XP earned per battle"
+
+#, fuzzy
+#| msgid "TOOLTIP_AIRCRAFT_ENGINE_CAPACITY"
+msgid "TOOLTIP_MODIFIERS_FAST_ENGINE_COOLING"
+msgstr "Engine cooldown rate"
+
+#, fuzzy
+#| msgid "TOOLTIP_MODULES_MANUAL_CONFIG"
+msgid "TOOLTIP_MODIFIERS_MAIN_GUNS_DAMAGE_GROUND"
+msgstr "Damage to ground targets"
+
+#, fuzzy
+msgid "TOOLTIP_MODIFIERS_ROCKET_RANGE"
+msgstr "Range of rockets"
+
+#, fuzzy
+#| msgid "TOOLTIP_MODULES_SHOW_PREVIEW"
+msgid "TOOLTIP_MODIFIERS_SHELL_RECHARGE_TIME"
+msgstr "Bomb and rocket reload speed"
+
 msgid "TOOLTIP_MODULES_CHARACTERISTICS_DURABILITY"
 msgstr "按生命值排序"
 
@@ -4651,8 +5996,7 @@ msgstr ""
 
 #, fuzzy
 msgid "TOOLTIP_PLACE_NUMBER_IN_TEAM_DESCRIPTION"
-msgstr ""
-"Reach rank {number} in the combat group by number of personal points earned."
+msgstr "Rank {number} in the combat group by number of personal points earned"
 
 msgid "TOOLTIP_PLANES_QUALITY"
 msgstr "調整飛機紋理品質"
@@ -4726,7 +6070,7 @@ msgstr "調整遊戲的畫面品質"
 
 #, fuzzy
 msgid "TOOLTIP_PRESS_TO_INST_CONSUMABLES"
-msgstr "Click to load consumable"
+msgstr "Click to mount consumable"
 
 #, fuzzy
 msgid "TOOLTIP_PRIZE_IN_TROPHY"
@@ -5136,6 +6480,11 @@ msgstr "<b>垂直向上視角</b><br/>開啟垂直向上視角"
 msgid "TOOLTIP_SHOW_CURSOR"
 msgstr "<b>顯示游標</b><br/>使用游標在地圖上做記號"
 
+#, fuzzy
+#| msgid "TOOLTIP_QUESTS_SHOW_DETAILED"
+msgid "TOOLTIP_SHOW_DETAILED"
+msgstr "View details"
+
 msgid "TOOLTIP_SHOW_DOWN_LEFT"
 msgstr "<b>左斜前上方視角</b><br/>開啟左斜前上方視角"
 
@@ -5194,8 +6543,18 @@ msgstr ""
 msgid "TOOLTIP_SORT_BY_AMOUNT"
 msgstr "按倉庫存量排序"
 
+#, fuzzy
+#| msgid "TOOLTIP_SORT_BY_LEVEL"
+msgid "TOOLTIP_SORT_BY_BATTLE_LVL_MATERIALS"
+msgstr "Sort by Tier of battle where Materials can be received"
+
 msgid "TOOLTIP_SORT_BY_CLASS"
 msgstr "按戰機類型排序"
+
+#, fuzzy
+#| msgid "TOOLTIP_SORT_BY_NAME"
+msgid "TOOLTIP_SORT_BY_ERA"
+msgstr "Sort by historic period"
 
 msgid "TOOLTIP_SORT_BY_LEVEL"
 msgstr "按戰機等級排序"
@@ -5208,6 +6567,21 @@ msgstr "按國家排序"
 
 msgid "TOOLTIP_SORT_BY_PERCENTAGE"
 msgstr "按勝率排序"
+
+#, fuzzy
+#| msgid "TOOLTIP_SORT_BY_AMOUNT"
+msgid "TOOLTIP_SORT_BY_RARITY"
+msgstr "Sort by rarity"
+
+#, fuzzy
+#| msgid "TOOLTIP_SORT_BY_LEVEL"
+msgid "TOOLTIP_SORT_BY_SLOT_TYPE"
+msgstr "Sort by slot type"
+
+#, fuzzy
+#| msgid "TOOLTIP_SORT_BY_LEVEL"
+msgid "TOOLTIP_SORT_BY_TECH_LVL"
+msgstr "Sort by technological level"
 
 msgid "TOOLTIP_SORT_BY_VICTORIES"
 msgstr "按照戰鬥數量排序"

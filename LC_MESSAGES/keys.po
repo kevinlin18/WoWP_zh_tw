@@ -546,6 +546,9 @@ msgstr "Page Down"
 msgid "KEY_PGUP"
 msgstr "Page Up"
 
+msgid "KEY_PRINT_SCREEN"
+msgstr "PrntScr"
+
 msgid "KEY_Q"
 msgstr "Q"
 
