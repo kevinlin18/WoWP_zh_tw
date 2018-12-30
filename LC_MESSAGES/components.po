@@ -141,6 +141,9 @@ msgstr "Dropped in groups of 6 at a time"
 msgid "MODULES_INFOTIP_BOMB_CASSETE_8"
 msgstr "Dropped in groups of 8 at a time"
 
+msgid "MODULES_INFOTIP_ROCKET_CASSETE_2"
+msgstr "Launched in groups of 2 at a time"
+
 msgid "MODULES_INFOTIP_ROCKET_CASSETE_4"
 msgstr "Launched in groups of 4 at a time"
 
@@ -237,6 +240,9 @@ msgstr "АМ-42"
 msgid "NAME_MODULE_AM-43"
 msgstr "AM-43"
 
+msgid "NAME_MODULE_AM-43B-TU-1-PR"
+msgstr "AM-43B"
+
 msgid "NAME_MODULE_AM-5F"
 msgstr "AM-5F"
 
@@ -320,6 +326,9 @@ msgstr "攻擊者FB Mk.1"
 
 msgid "NAME_MODULE_AVON"
 msgstr "羅·羅 埃汶"
+
+msgid "NAME_MODULE_AVON-203-HUNTER"
+msgstr "Rolls-Royce Avon 203"
 
 msgid "NAME_MODULE_B-17D_PLANER"
 msgstr "B-17D (1940)"
@@ -819,6 +828,9 @@ msgstr "諾恩-羅納 14R-24/25"
 msgid "NAME_MODULE_GOLDFINCH_PLANER"
 msgstr "金翅雀"
 
+msgid "NAME_MODULE_GOSHAWK-B43-PV-3-PR"
+msgstr "Goshawk B.43"
+
 msgid "NAME_MODULE_GOSHAWK-PR"
 msgstr "蒼鷹"
 
@@ -926,6 +938,9 @@ msgstr "Hispano-Suiza 12Y"
 
 msgid "NAME_MODULE_HS-12Z-PR"
 msgstr "Hispano-Suiza 12Z"
+
+msgid "NAME_MODULE_HUNTER_F6_PLANER"
+msgstr "Hunter F. 6"
 
 msgid "NAME_MODULE_HURRICANE-IID_PLANER-PR"
 msgstr "颶風IID"
@@ -1983,6 +1998,24 @@ msgstr "光 2型"
 msgid "NAME_MODULE_NAKALIMA-HIKARI-3"
 msgstr "光 3型"
 
+msgid "NAME_MODULE_NAPIER-SABRE-IIB_TYPHOON"
+msgstr "Napier Sabre IIB"
+
+msgid "NAME_MODULE_NAPIER-SABRE-IV_TEMPEST"
+msgstr "Napier Sabre IV"
+
+msgid "NAME_MODULE_NAPIER-SABRE-IV_TYPHOON"
+msgstr "Napier Sabre IV"
+
+msgid "NAME_MODULE_NAPIER-SABRE-I_TYPHOON"
+msgstr "Napier Sabre I"
+
+msgid "NAME_MODULE_NAPIER-SABRE-VII_TEMPEST"
+msgstr "Napier Sabre VII"
+
+msgid "NAME_MODULE_NAPIER-SABRE-V_TEMPEST"
+msgstr "Napier Sabre V"
+
 msgid "NAME_MODULE_NC1070_PLANER_PR"
 msgstr "NC 1070"
 
@@ -2001,11 +2034,20 @@ msgstr "Ne-330"
 msgid "NAME_MODULE_NE-440"
 msgstr "Ne-440"
 
+msgid "NAME_MODULE_NENE-101_SEAHAWK"
+msgstr "Rolls-Royce Nene 101"
+
+msgid "NAME_MODULE_NENE-103_SEAHAWK"
+msgstr "Rolls-Royce Nene 103"
+
 msgid "NAME_MODULE_NENE-13"
 msgstr "羅·羅 尼恩 No.13"
 
 msgid "NAME_MODULE_NENE-28"
 msgstr "羅·羅 尼恩 No.28"
+
+msgid "NAME_MODULE_NENE-RN-1_SEAHAWK"
+msgstr "Rolls-Royce Nene RN. 1"
 
 msgid "NAME_MODULE_NK9K"
 msgstr "NK9K"
@@ -2138,6 +2180,9 @@ msgstr "英仙座"
 
 msgid "NAME_MODULE_PERSEUS-XII"
 msgstr "英仙座 XII"
+
+msgid "NAME_MODULE_PV-3_PLANER-PR"
+msgstr "P.V. 3"
 
 msgid "NAME_MODULE_P_210_HULL"
 msgstr "P.210"
@@ -2430,6 +2475,12 @@ msgstr "SE. 100"
 msgid "NAME_MODULE_SEAFANG_PLANER-PR"
 msgstr "海毒牙F.32"
 
+msgid "NAME_MODULE_SEAHAWK_FB-1_PLANER"
+msgstr "Sea Hawk FB. 1"
+
+msgid "NAME_MODULE_SEAHAWK_FB-3_PLANER"
+msgstr "Sea Hawk FB. 3"
+
 msgid "NAME_MODULE_SH"
 msgstr "Sh"
 
@@ -2511,6 +2562,12 @@ msgstr "金牛座 II"
 msgid "NAME_MODULE_TAY"
 msgstr "羅·羅 泰伊"
 
+msgid "NAME_MODULE_TEMPEST-MK-1_PLANER"
+msgstr "Tempest Mk. I"
+
+msgid "NAME_MODULE_TEMPEST-MK-5_PLANER"
+msgstr "Tempest Mk. V"
+
 msgid "NAME_MODULE_TOMAHAWK-IIB_PLANER"
 msgstr "P-40C"
 
@@ -2538,6 +2595,9 @@ msgstr "TSh-3"
 msgid "NAME_MODULE_TSKB-12-HULL-PR"
 msgstr "TsKB-12比斯"
 
+msgid "NAME_MODULE_TU-1_PLANER-PR"
+msgstr "63P"
+
 msgid "NAME_MODULE_TYPE-133_PLANER"
 msgstr "布裡斯托爾 133"
 
@@ -2549,6 +2609,12 @@ msgstr "布裡斯托爾 146 K8088"
 
 msgid "NAME_MODULE_TYPE-224-PR"
 msgstr "224型"
+
+msgid "NAME_MODULE_TYPHOON-MK-1A_PLANER"
+msgstr "Typhoon Mk. IA"
+
+msgid "NAME_MODULE_TYPHOON-MK-1B_PLANER"
+msgstr "Typhoon Mk. IB (late)"
 
 msgid "NAME_MODULE_V-1570-1"
 msgstr "V-1570-1"
@@ -2973,11 +3039,23 @@ msgstr "470磅"
 msgid "WEAPON_NAME_500FN"
 msgstr "500 磅"
 
+msgid "WEAPON_NAME_500FN-MC-HUNTER"
+msgstr "500 lb"
+
+msgid "WEAPON_NAME_500FN-MC-SEAHAWK"
+msgstr "500 lb"
+
 msgid "WEAPON_NAME_500FN-PR"
 msgstr "500 磅"
 
 msgid "WEAPON_NAME_500FN-SKUA"
 msgstr "500 磅"
+
+msgid "WEAPON_NAME_500FN-TEMPEST"
+msgstr "500 lb"
+
+msgid "WEAPON_NAME_500FN-TYPHOON"
+msgstr "500 lb"
 
 msgid "WEAPON_NAME_500LB"
 msgstr "500磅"
@@ -3612,11 +3690,17 @@ msgstr "20 mm 西斯帕諾 Mk.II (W)"
 msgid "WEAPON_NAME_G20MM-HISPANO-MK-2-PR-K"
 msgstr "20 mm 西斯帕諾 Mk.II (W)"
 
+msgid "WEAPON_NAME_G20MM-HISPANO-MK-2-TYPHOON-K"
+msgstr "Hispano Mk. II (W)"
+
 msgid "WEAPON_NAME_G20MM-HISPANO-MK-2ASTERISK"
 msgstr "20 mm 西斯帕諾 Mk.II*"
 
 msgid "WEAPON_NAME_G20MM-HISPANO-MK-2ASTERISK-K"
 msgstr "20 mm 西斯帕諾 Mk.II* (W)"
+
+msgid "WEAPON_NAME_G20MM-HISPANO-MK-2ASTERISK-TEMPEST-K"
+msgstr "Hispano Mk. II* (W)"
 
 msgid "WEAPON_NAME_G20MM-HISPANO-MK-2_SPITFIRE-VB-IM-PR-K"
 msgstr "20 mm Hispano Mk.II (W)"
@@ -3639,6 +3723,12 @@ msgstr "20 mm 西斯帕諾 Mk.V (C)"
 msgid "WEAPON_NAME_G20MM-HISPANO-MK-5-PR-K"
 msgstr "20 mm 西斯帕諾 Mk.V (W)"
 
+msgid "WEAPON_NAME_G20MM-HISPANO-MK-5-TEMPEST-K"
+msgstr "Hispano Mk. V (W)"
+
+msgid "WEAPON_NAME_G20MM-HISPANO-MK-5-TYPHOON-K"
+msgstr "Hispano Mk. V (W)"
+
 msgid "WEAPON_NAME_G20MM-HISPANO-MK-5ASTERISK"
 msgstr "20 mm 西斯帕諾 Mk.V*"
 
@@ -3647,6 +3737,9 @@ msgstr "20 mm 西斯帕諾 Mk.V* (C)"
 
 msgid "WEAPON_NAME_G20MM-HISPANO-MK-5ASTERISK-K"
 msgstr "20 mm 西斯帕諾 Mk.V* (W)"
+
+msgid "WEAPON_NAME_G20MM-HISPANO-MK-5ASTERISK-SEAHAWK-F"
+msgstr "Hispano Mk. V* (C)"
 
 msgid "WEAPON_NAME_G20MM-HISPANO-PR-M"
 msgstr "20 mm 西斯帕諾-蘇莎 HS.404"
@@ -4065,6 +4158,9 @@ msgstr "23 mm NS-23 (S)"
 msgid "WEAPON_NAME_G23MM-NS-23-T"
 msgstr "23 mm NS-23"
 
+msgid "WEAPON_NAME_G23MM-NS-23-TU-1-PR-F"
+msgstr "23 mm NS-23 (C)"
+
 msgid "WEAPON_NAME_G23MM-NS-23KM"
 msgstr "23 mm NS-23KM"
 
@@ -4120,6 +4216,9 @@ msgid "WEAPON_NAME_G30MM-ADEN"
 msgstr "30 mm ADEN"
 
 msgid "WEAPON_NAME_G30MM-ADEN-F"
+msgstr "30 mm ADEN (C)"
+
+msgid "WEAPON_NAME_G30MM-ADEN-HUNTER-F"
 msgstr "30 mm ADEN (C)"
 
 msgid "WEAPON_NAME_G30MM-ADEN-K"
@@ -4410,6 +4509,9 @@ msgstr "45 mm NS-45 (H)"
 msgid "WEAPON_NAME_G45MM-NS-45-P"
 msgstr "45 mm NS-45 (O)"
 
+msgid "WEAPON_NAME_G45MM-NS-45-TU-1-F"
+msgstr "45 mm HC-45 (C)"
+
 msgid "WEAPON_NAME_G45MM-NS-45M"
 msgstr "45 mm NS-45M"
 
@@ -4517,6 +4619,9 @@ msgstr ".303 Browning Mk.II (W)"
 
 msgid "WEAPON_NAME_G7MM-BROWNING-MK-2-T"
 msgstr ".303 勃朗寧 Mk.II"
+
+msgid "WEAPON_NAME_G7MM-BROWNING-MK-2-TYPHOON-K"
+msgstr "Browning Mk.II (W)"
 
 msgid "WEAPON_NAME_G7MM-BROWNING-MK-2ASTERISK"
 msgstr ".303 勃朗寧 Mk.II*"
@@ -4887,6 +4992,9 @@ msgstr ".303 維克斯 Mk.II"
 msgid "WEAPON_NAME_G7MM-VICKERS-MK-2-K"
 msgstr ".303 維克斯 Mk.II (W)"
 
+msgid "WEAPON_NAME_G7MM-VICKERS-MK-2-PV-3-S"
+msgstr ".303 Vickers Mk. II (S)"
+
 msgid "WEAPON_NAME_G7MM-VICKERS-MK-2-S"
 msgstr ".303 維克斯 Mk.II (S)"
 
@@ -4983,17 +5091,26 @@ msgstr "ROFS-82"
 msgid "WEAPON_NAME_RP-3"
 msgstr "RP-3"
 
+msgid "WEAPON_NAME_RP-3-25LB-SEAHAWK"
+msgstr "RP-3"
+
 msgid "WEAPON_NAME_RP-3-GP"
 msgstr "RP-3 GP"
 
 msgid "WEAPON_NAME_RP-3-GP-PR"
 msgstr "RP-3 GP"
 
+msgid "WEAPON_NAME_RP-3-GP-TEMPEST"
+msgstr "RP-3 HE/GP"
+
 msgid "WEAPON_NAME_RP-3-SAP"
 msgstr "RP-3 SAP"
 
 msgid "WEAPON_NAME_RP-3-SAP-CH-PR"
 msgstr "RP-3 SAP"
+
+msgid "WEAPON_NAME_RP-3-SAP-TYPHOON"
+msgstr "RP-3 HE/SAP"
 
 msgid "WEAPON_NAME_RS-132"
 msgstr "RS-132"
@@ -5075,6 +5192,9 @@ msgstr "雪球"
 
 msgid "WEAPON_NAME_STANDARTBELT"
 msgstr "標準彈藥"
+
+msgid "WEAPON_NAME_SURA-FL-HUNTER"
+msgstr "SURA-FL"
 
 msgid "WEAPON_NAME_SYNC_CANNON"
 msgstr "同步機槍/機砲"

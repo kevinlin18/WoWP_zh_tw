@@ -1024,6 +1024,9 @@ msgstr "塗裝到期"
 msgid "SYSTEM_MESSAGE_CAMO_PLANE"
 msgstr "{plane_name} 個人化塗裝方案"
 
+msgid "SYSTEM_MESSAGE_CANDYS_COLLECTED"
+msgstr "Collected:"
+
 msgid "SYSTEM_MESSAGE_CHOOSE_HANGAR_HOLIDAY"
 msgstr "更改"
 
@@ -1094,6 +1097,11 @@ msgstr "有新技能可學習!"
 
 msgid "SYSTEM_MESSAGE_DEDUCTED"
 msgstr "Deducted:"
+
+msgid "SYSTEM_MESSAGE_DEERPILOT_ON_HAWKER"
+msgstr ""
+"Pilot <font color='#{ffd57e}'>Rudolph Hawker</font> for the Premium <font "
+"color='#{ffd57e}'>Hawker P.V.3</font>"
 
 msgid "SYSTEM_MESSAGE_DETAILED_INFO_UNAVAILABLE"
 msgstr "無法檢視詳細資訊"
@@ -1280,17 +1288,26 @@ msgstr ""
 "The following items were deducted from your account due to the deactivation "
 "of the \"Igrovoy\" (\"Gamer’s\") plan:"
 
+msgid "SYSTEM_MESSAGE_SHOW_ALL"
+msgstr "Display All"
+
 msgid "SYSTEM_MESSAGE_TOTAL_ACCOUNT_BALANCE"
 msgstr "帳號一共獲得:"
 
 msgid "SYSTEM_MESSAGE_TROPHYS_COLON"
 msgstr "Supplies:"
 
+msgid "SYSTEM_MESSAGE_TROPHY_OPENED"
+msgstr "Supply crate opened!"
+
 msgid "SYSTEM_MESSAGE_UNIVERSAL_EVENT_BEGAN"
 msgstr "The {event_name} event started!"
 
 msgid "SYSTEM_MESSAGE_UNIVERSAL_EVENT_END"
 msgstr "The {event_name} event ended!"
+
+msgid "SYSTEM_MESSAGE_VERY_GOOD"
+msgstr "You have proved yourself an excellent pilot. Keep it up!"
 
 msgid "SYSTEM_MESSAGE_WING_BATTLE_ERROR_TEXT"
 msgstr "進入戰鬥失敗。請選擇另外一架戰機或者是重新建立編隊。"
@@ -1336,6 +1353,12 @@ msgstr "無法進行操作，您的自由經驗在帳號同步後才可使用"
 
 msgid "SYSTEM_MESSAGE_XP_RECOVERING_ACCOUNT"
 msgstr "您的自由經驗將在帳號同步後恢復可用"
+
+msgid "SYSTEM_MESSAGE_YOU_COLLECTED_ENOUGH_GET_THIS_GIFT"
+msgstr "You have collected enough candy to get this gift!"
+
+msgid "SYSTEM_MESSAGE_YOU_COLLECTED_ENOUGH_GET_THIS_SUPERGIFT"
+msgstr "You have collected enough candy to get the top gift!"
 
 msgid "SYSTEM_SERVER_ERROR_TRY_AGAIN"
 msgstr "Error receiving details. Please try again."

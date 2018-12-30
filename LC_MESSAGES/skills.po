@@ -135,6 +135,14 @@ msgstr ""
 "color='#8dbb44'>10%</font>. Takes effect only on the <font "
 "color='#f2f2f2'>Bf 109 E-3</font>."
 
+msgid "SKILL_DESCRIPTION_MASTER_PLANE_HAWKER_PV-3"
+msgstr ""
+"Increases <font color='#f2f2f2'>maneuverability</font> by <font "
+"color='#8dbb44'>5%</font> and <font color='#f2f2f2'>damage</font> by <font "
+"color='#8dbb44'>10%</font>. Takes effect only on the <font "
+"color='#f2f2f2'>Hawker P.V.3</font>. The pilot on board this aircraft is "
+"wearing a <font color='#f2f2f2'>festive reindeer mask</font>."
+
 msgid "SKILL_DESCRIPTION_MASTER_PLANE_SPITFIRE_MK_IA"
 msgstr ""
 "Increases <font color='#f2f2f2'>maneuverability and damage</font> by <font "
@@ -321,6 +329,15 @@ msgstr ""
 "通過主動操控<font color='#f2f2f2'>自動滅火</font>，在任意軸保持一個較高的角度"
 "來進行滅火。"
 
+msgid "SKILL_DESCRIPTION_PILOT_S_HAWKERFLIGHT"
+msgstr ""
+"Increases the <font color='#f2f2f2'>view range</font> by <font "
+"color='#8dbb44'>20%</font> and <font color='#f2f2f2'>engine thrust and top "
+"speed</font> by <font color='#8dbb44'>5%</font> when the aircraft does not "
+"receive damage for 20 seconds. The effect is lost once the aircraft hits an "
+"enemy target or receives damage. The aircraft leaves a festive trail while "
+"the skill is in effect."
+
 msgid "SKILL_DESCRIPTION_PILOT_VALKYRIE"
 msgstr ""
 "Rockets and bombs released in a dive cause <font color='#f2f2f2'>double "
@@ -423,6 +440,9 @@ msgstr "千里眼"
 msgid "SKILL_NAME_MASTER_PLANE_BF_109E_3"
 msgstr "Bf 109 E-3 Master"
 
+msgid "SKILL_NAME_MASTER_PLANE_HAWKER_PV-3"
+msgstr "Hawker P.V.3 Master"
+
 msgid "SKILL_NAME_MASTER_PLANE_SPITFIRE_MK_IA"
 msgstr "Spitfire Mk Ia Master"
 
@@ -500,6 +520,9 @@ msgstr "規避目標"
 
 msgid "SKILL_NAME_PILOT_S_FIREMANUVER"
 msgstr "救火隊員"
+
+msgid "SKILL_NAME_PILOT_S_HAWKERFLIGHT"
+msgstr "Holiday Delivery Courier"
 
 msgid "SKILL_NAME_PILOT_VALKYRIE"
 msgstr "Valkyrie's Wrath"

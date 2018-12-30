@@ -2410,6 +2410,9 @@ msgstr "\"{quest_name}\" 任務進度"
 msgid "LOBBY_BATTLE_SINGLE_FLIGHT_DESCRIPTION_ALBION_EVENT"
 msgstr "A combat flight with random players within the Skies of Albion event"
 
+msgid "LOBBY_BEAR"
+msgstr "Bear"
+
 msgid "LOBBY_BEFORE"
 msgstr "Before:"
 
@@ -2717,6 +2720,9 @@ msgstr "獎勵自由經驗："
 msgid "LOBBY_BONUSES_TOKENS"
 msgstr "獎勵令牌："
 
+msgid "LOBBY_BONUSES_WORK_DURRING_EVENT"
+msgstr "Bonuses last until the event ends:"
+
 msgid "LOBBY_BONUS_CODE_OPTION_ENTER_CODE"
 msgstr "輸入獎勵代碼"
 
@@ -2939,6 +2945,9 @@ msgstr "活動"
 msgid "LOBBY_BUTTON_FASTER"
 msgstr "Accelerate"
 
+msgid "LOBBY_BUTTON_FILTER_DISABLE"
+msgstr "Disable"
+
 msgid "LOBBY_BUTTON_FORWARD"
 msgstr "上一步"
 
@@ -3007,6 +3016,12 @@ msgstr "顯示"
 
 msgid "LOBBY_BUY_ALL_PARTS"
 msgstr "Get All Parts"
+
+msgid "LOBBY_BUY_CANDYS_CONFIRMATION_TEXT"
+msgstr "Receive the required {amount} using {currency}?"
+
+msgid "LOBBY_BUY_CANDYS_HEADER"
+msgstr "Collect Candy"
 
 msgid "LOBBY_BUY_EQUIPMENT_CONFIRMATION_TEXT"
 msgstr "Purchase equipment \"{name}\" using {total_cost}?"
@@ -3417,6 +3432,17 @@ msgstr "No bonuses for this map type"
 msgid "LOBBY_CAMO_WITH_BONUSES"
 msgstr "With bonuses"
 
+msgid "LOBBY_CANDYS_DESCRIPTION"
+msgstr ""
+"Used to receive gifts during the <font color='#{c5c9d9}'>Operation Holiday "
+"Maneuvers</font> event"
+
+msgid "LOBBY_CANDYS_FOR_NEXT_ONE"
+msgstr "Required to receive the next gift:"
+
+msgid "LOBBY_CANDYS_LEFT_TO_COLLECT"
+msgstr "Required:"
+
 msgid "LOBBY_CANNOT_SELL_PLANE"
 msgstr "無法出售"
 
@@ -3570,8 +3596,28 @@ msgstr ""
 "Assemble bombers from parts found in loot crates to get the aircraft without "
 "research and purchase!"
 
+msgid "LOBBY_COLLECT_CANDYS"
+msgstr "Collect candy:"
+
+msgid "LOBBY_COLLECT_CANDYS_AND_RECEIVE_GIFTS_FOR_THEM"
+msgstr ""
+"Collect pieces of candy to exchange them for holiday gifts! Decorate your "
+"Hangar with ice sculptures that offer special bonuses."
+
+msgid "LOBBY_COLLECT_CANDYS_BY_DAILY_QUESTS"
+msgstr "For completing daily missions"
+
+msgid "LOBBY_COLLECT_CANDYS_BY_EXCHANGING_FOR_CERTIFICATES"
+msgstr "Redeeming certificates"
+
+msgid "LOBBY_COLLECT_CANDYS_BY_PP_IN_BATTLES"
+msgstr "For earning personal points in battles:"
+
 msgid "LOBBY_COMMON_TEST_CONGRATULATIONS_MESSAGE"
 msgstr "飛行員,你已由於參與測試而獲得相關榮譽成就"
+
+msgid "LOBBY_COMMON_TROPHY"
+msgstr "Standard Supply Crate"
 
 msgid "LOBBY_COMPENSATION_MESSAGE"
 msgstr "配件和彈藥回收後所補償的銀幣將直接新增至您的帳號中"
@@ -3590,6 +3636,9 @@ msgstr ""
 "Complete all missions to collect all parts of a unique aircraft that is "
 "unavailable for purchase or research. Missions can be completed on Tier IV–X "
 "aircraft in the Conquest mode."
+
+msgid "LOBBY_COMPLETE_DAILY_QUESTS_AND_GET_CANDYS"
+msgstr "Complete daily missions to get candy!"
 
 msgid "LOBBY_COMPLETE_DIR_GET_PLANE_FOR_FREE"
 msgstr "Execute the operation order to receive the aircraft for free."
@@ -3633,6 +3682,32 @@ msgstr "{minutes} 分鐘"
 
 msgid "LOBBY_CONFIRM_BUTTON_RECEIVE"
 msgstr "Receive"
+
+msgid "LOBBY_CONFIRM_WINDOW_ABOUT_DIR_AFTER_REFUSE"
+msgstr "If declined:"
+
+msgid "LOBBY_CONFIRM_WINDOW_ABOUT_DIR_ARE_YOU_SURE_QM"
+msgstr ""
+"Decline the operation order for the {aircraft_name1} and activate the "
+"operation order for the {aircraft_name2}?"
+
+msgid "LOBBY_CONFIRM_WINDOW_ABOUT_DIR_IF_ACTIVATED"
+msgstr "If you activate the operation order for the {aircraft_name}:"
+
+msgid "LOBBY_CONFIRM_WINDOW_ABOUT_DIR_ON_CURRENT_AIRCRAFT_WILL_BE_DEDUCTED"
+msgstr ""
+"The operation order for the {aircraft_name} <font color='#e5a82e'>will be "
+"removed</font>."
+
+msgid "LOBBY_CONFIRM_WINDOW_ABOUT_DIR_PROGRESS_WILL_BE_RESETED"
+msgstr ""
+"The progress in the missions of this operation order <font "
+"color='#e5a82e'>will be reset</font>."
+
+msgid "LOBBY_CONFIRM_WINDOW_ABOUT_DIR_TOKENS_WILL_BE_LOST"
+msgstr ""
+"Tokens that were spent on this operation order <font color='#e5a82e'>will be "
+"lost</font>."
 
 msgid "LOBBY_CONFIRM_WINDOW_ACTIVATE_QUEST_HEADER"
 msgstr "Activate Mission"
@@ -3701,6 +3776,12 @@ msgstr "Congratulations! Personal mission \"{variable_name}\" completed!"
 
 msgid "LOBBY_CONGRATULATIONS_PLAYER_NAME_CAPS"
 msgstr "恭喜, {name}!"
+
+msgid "LOBBY_CONGRATULATIONS_WITH_FREE_PLANE"
+msgstr "You have received this aircraft as a gift!"
+
+msgid "LOBBY_CONGRATULATIONS_WITH_GIFT_FOR_COLLECTING_CANDYS"
+msgstr "Congratulations! You have collected enough candy to get this gift!"
 
 msgid "LOBBY_CONGRATULATION_ALL_UNIQUE_PILOTS_RECIEVED"
 msgstr "You have received all unique pilots."
@@ -4215,6 +4296,20 @@ msgstr "Collected Materials:"
 
 msgid "LOBBY_CRAFT_COMPONENTS_TEAM"
 msgstr "Salvage Party"
+
+msgid "LOBBY_CRAFT_COMPONENT_CANDY"
+msgstr "Candy"
+
+msgid "LOBBY_CRAFT_COMPONENT_CANDYS_COLON"
+msgstr "Candy:"
+
+msgid "LOBBY_CRAFT_COMPONENT_CANDY_DESCRIPTION"
+msgstr ""
+"You can earn <font color='#{1}'>candy</font> for participating in Tier I–X "
+"battles and completing daily missions."
+
+msgid "LOBBY_CRAFT_COMPONENT_CANDY_ONE"
+msgstr "Candy"
 
 msgid "LOBBY_CRAFT_COMPONENT_DEVICES"
 msgstr "Flight Instruments"
@@ -4931,8 +5026,14 @@ msgstr "Resistance to Damage"
 msgid "LOBBY_CRUISE_SPEED"
 msgstr "Cruise Speed"
 
+msgid "LOBBY_CURRENT_BONUSES"
+msgstr "Active bonuses:"
+
 msgid "LOBBY_CURRENT_EVENTS_CHECKBOX"
 msgstr "顯示正在進行的優惠"
+
+msgid "LOBBY_DEER"
+msgstr "Reindeer"
 
 msgid "LOBBY_DESCRIPTION_BATTLE_POINTS"
 msgstr ""
@@ -4989,6 +5090,11 @@ msgstr ""
 
 msgid "LOBBY_DIR_PROLONG_HEADER"
 msgstr "Extend Operation Order Time"
+
+msgid "LOBBY_DIR_QUESTS_FOR_PLANE_ONLY_IV-X_TIER"
+msgstr ""
+"Operation orders can be executed on Tier <font color='#c5c9d9'>IV–X</font> "
+"aircraft only."
 
 msgid "LOBBY_DIR_QUEST_DESCRIPTION_SHORES_DO-335_STAGE-1"
 msgstr ""
@@ -5696,6 +5802,9 @@ msgstr "During the event, Supplies can be purchased in the Shop."
 msgid "LOBBY_EACH_TROPHY_MAY_CONTAIN_GOOD_PRIZES"
 msgstr "Each Supply crate contains valuable prizes."
 
+msgid "LOBBY_EAGLE"
+msgstr "Eagle"
+
 msgid "LOBBY_EARN_TOKENS_OR_BUY_TOKENS"
 msgstr "你可以通過完成每日任務或<a>購買金幣</a>獲得令牌。"
 
@@ -5708,6 +5817,12 @@ msgid "LOBBY_EASY_QUEST_COMPLETED_REWARD"
 msgstr ""
 "Congratulations! \"{name}\" mission complete!<br><font size='6'><br></"
 "font>Award received."
+
+msgid "LOBBY_ECONOMIC_CONSUMABLE"
+msgstr "Booster"
+
+msgid "LOBBY_ECONOMIC_CONSUMABLES"
+msgstr "Boosters"
 
 msgid "LOBBY_EFFECT_FROM_CONSUMABLE_NAME"
 msgstr "{effect} from consumable \"{name}\""
@@ -5813,6 +5928,9 @@ msgstr "Rocket Sight"
 
 msgid "LOBBY_EQUIPMENT20_GROUP_NAME_RUDDERHEAL"
 msgstr "Control Surfaces Repair"
+
+msgid "LOBBY_EQUIPMENT20_GROUP_NAME_SMOOTHPAYLOAD"
+msgstr "Aerodynamic Pylons"
 
 msgid "LOBBY_EQUIPMENT20_GROUP_NAME_TURRETSAMMO"
 msgstr "Ammunition"
@@ -6080,6 +6198,18 @@ msgstr "Advanced Rocket Sight"
 
 msgid "LOBBY_EQUIPMENT20_NAME_ROCKETSIGHT_G3"
 msgstr "Ultimate Rocket Sight"
+
+msgid "LOBBY_EQUIPMENT20_NAME_SMOOTHPAYLOAD_G0"
+msgstr "Stock Aerodynamic Pylons"
+
+msgid "LOBBY_EQUIPMENT20_NAME_SMOOTHPAYLOAD_G1"
+msgstr "Improved Aerodynamic Pylons"
+
+msgid "LOBBY_EQUIPMENT20_NAME_SMOOTHPAYLOAD_G2"
+msgstr "Advanced Aerodynamic Pylons"
+
+msgid "LOBBY_EQUIPMENT20_NAME_SMOOTHPAYLOAD_G3"
+msgstr "Ultimate Aerodynamic Pylons"
 
 msgid "LOBBY_EQUIPMENT20_NAME_TURRETSERVOS_G0"
 msgstr "Stock Turret Gun Laying Drive"
@@ -7694,6 +7824,12 @@ msgstr "獲得專屬獎勵!"
 msgid "LOBBY_GIFTS_EVERY_DAY_TEXT_1"
 msgstr "完成任務<br>你將獲得新的消耗品作為獎勵。"
 
+msgid "LOBBY_GIFTS_RECEIVED"
+msgstr "Gifts received:"
+
+msgid "LOBBY_GIFT_NUMBER"
+msgstr "(gift #{number})"
+
 msgid "LOBBY_GIFT_RECEIVED"
 msgstr "Congratulations! Award received."
 
@@ -7807,6 +7943,9 @@ msgstr "Rocket reload speed"
 
 msgid "LOBBY_GROUP_POSNEG_ROCKETRANGE"
 msgstr "Range of rockets"
+
+msgid "LOBBY_GROUP_POSNEG_SMOOTHPAYLOAD"
+msgstr "Reduce the impact of outboard rockets and bombs on airspeed"
 
 msgid "LOBBY_GROUP_POSNEG_SPEED"
 msgstr "Aircraft speed"
@@ -8019,6 +8158,11 @@ msgstr "上一頁"
 
 msgid "LOBBY_HINT_TEAM_LIST"
 msgstr "隊伍列表"
+
+msgid "LOBBY_HURRY_UP_WITH_TROPHYS"
+msgstr ""
+"Hurry to open your Supplies.<br>After the event ends, your Supplies will be "
+"converted to standard ones."
 
 msgid "LOBBY_I-15BIS-DM2_GIFT_MESSAGE_HEADER"
 msgstr "恭喜！"
@@ -9573,6 +9717,9 @@ msgstr "Happy Holidays!"
 msgid "LOBBY_NEW_YEAR_2018_TEXT"
 msgstr "Presents delivered!"
 
+msgid "LOBBY_NEW_YEAR_2019_HEADER"
+msgstr "New Year 2019"
+
 msgid "LOBBY_NEXT_TEST_STAGE_AVAILABLE"
 msgstr "The next stage of trials is available."
 
@@ -9644,6 +9791,9 @@ msgid "LOBBY_NOT_ENOUGH_SLOT_DESCRIPTION"
 msgstr ""
 "No vacant slots for the new aircraft in the Hangar. Purchase new slots or "
 "sell aircraft to create space for the new aircraft."
+
+msgid "LOBBY_NOT_RECEIVED"
+msgstr "(not received)"
 
 msgid "LOBBY_NO_CAMP_AFTER_PLANE_WILL_BE_AVAILABLE_IN_TREE"
 msgstr ""
@@ -9737,6 +9887,9 @@ msgstr "和特別的禮物—一架特別的戰機!"
 msgid "LOBBY_NY_2015_GIFT_THANKS_BUTTON"
 msgstr "謝謝!"
 
+msgid "LOBBY_NY_TROPHY"
+msgstr "Holiday Supply Crate"
+
 msgid "LOBBY_OBJECT_NAME_BATTLESHIP"
 msgstr "戰艦"
 
@@ -9790,6 +9943,9 @@ msgstr "Open Loot Crate"
 msgid "LOBBY_OPEN_YOUR_TROPHYS"
 msgstr "Open your other available Supply crates!"
 
+msgid "LOBBY_OPERATION_WINTER_MANEUVERS"
+msgstr "Operation Holiday Maneuvers"
+
 msgid "LOBBY_OPTIMAL_HEIGHT_MAX"
 msgstr "Maximum Optimal Altitude"
 
@@ -9807,6 +9963,12 @@ msgstr "Order"
 
 msgid "LOBBY_ORDER_SERTIFICATE"
 msgstr "使用令牌"
+
+msgid "LOBBY_ORDER_SERTIFICATES"
+msgstr "Order Certificates"
+
+msgid "LOBBY_ORDER_SERTIFICATES_CAPS"
+msgstr "ORDER CERTIFICATES"
 
 msgid "LOBBY_OXYGEN_EQUIPMENT"
 msgstr "Oxygen equipment"
@@ -10268,6 +10430,148 @@ msgstr "Any U.S.S.R. Tier VII–VIII aircraft"
 
 msgid "LOBBY_PFT_N_USSR_L_8_9"
 msgstr "Any U.S.S.R. Tier VIII–IX aircraft"
+
+msgid "LOBBY_PFT_QUESTS_DESCRIPTION_1"
+msgstr ""
+"Earn at least <font color='#8cc8ff'>{0}</font> <font color='#547899'>capture "
+"points</font> for destroying ground targets in any number of battles."
+
+msgid "LOBBY_PFT_QUESTS_DESCRIPTION_10"
+msgstr "Win at least <font color='#8cc8ff'>{0}</font> battle."
+
+msgid "LOBBY_PFT_QUESTS_DESCRIPTION_11"
+msgstr ""
+"Participate in capturing at least <font color='#8cc8ff'>{0}</font> <font "
+"color='#547899'>sectors</font> in any number of battles."
+
+msgid "LOBBY_PFT_QUESTS_DESCRIPTION_12"
+msgstr ""
+"Earn the <font color='#547899'>Avalanche</font> achievement <font "
+"color='#8cc8ff'>{0}</font> times."
+
+msgid "LOBBY_PFT_QUESTS_DESCRIPTION_13"
+msgstr ""
+"Earn at least <font color='#8cc8ff'>{0}</font> <font "
+"color='#547899'>personal points</font> for destroying aerial targets in any "
+"number of battles."
+
+msgid "LOBBY_PFT_QUESTS_DESCRIPTION_14"
+msgstr ""
+"Earn the <font color='#547899'>Lambert medal</font> <font color='#8cc8ff'>{0}"
+"</font> times."
+
+msgid "LOBBY_PFT_QUESTS_DESCRIPTION_15"
+msgstr ""
+"Earn the <font color='#547899'>Efimov medal</font> at least <font "
+"color='#8cc8ff'>{0}</font> times."
+
+msgid "LOBBY_PFT_QUESTS_DESCRIPTION_16"
+msgstr ""
+"Earn the <font color='#547899'>Kozhedub medal</font> <font "
+"color='#8cc8ff'>{0}</font> times."
+
+msgid "LOBBY_PFT_QUESTS_DESCRIPTION_17"
+msgstr ""
+"Earn the <font color='#547899'>Flying Raider</font> badge <font "
+"color='#8cc8ff'>{0}</font> times."
+
+msgid "LOBBY_PFT_QUESTS_DESCRIPTION_18"
+msgstr "Win at least <font color='#8cc8ff'>{0}</font> battles."
+
+msgid "LOBBY_PFT_QUESTS_DESCRIPTION_19"
+msgstr ""
+"Destroy at least <font color='#8cc8ff'>{0}</font> enemy <font "
+"color='#547899'>bombers</font> in any number of battles."
+
+msgid "LOBBY_PFT_QUESTS_DESCRIPTION_20"
+msgstr ""
+"Earn the <font color='#547899'>Conqueror</font> achievement <font "
+"color='#8cc8ff'>{0}</font> times."
+
+msgid "LOBBY_PFT_QUESTS_DESCRIPTION_21"
+msgstr ""
+"Earn the <font color='#547899'>Guardian</font> achievement <font "
+"color='#8cc8ff'>{0}</font> times."
+
+msgid "LOBBY_PFT_QUESTS_DESCRIPTION_22"
+msgstr "Earn the <font color='#547899'>Golubev medal</font>."
+
+msgid "LOBBY_PFT_QUESTS_DESCRIPTION_23"
+msgstr ""
+"Earn the <font color='#547899'>Rocketeer</font> achievement <font "
+"color='#8cc8ff'>{0}</font> times."
+
+msgid "LOBBY_PFT_QUESTS_DESCRIPTION_24"
+msgstr ""
+"Earn the <font color='#547899'>Doolittle medal</font> <font "
+"color='#8cc8ff'>{0}</font> times."
+
+msgid "LOBBY_PFT_QUESTS_DESCRIPTION_25"
+msgstr "Earn the <font color='#547899'>Gabreski medal</font>."
+
+msgid "LOBBY_PFT_QUESTS_DESCRIPTION_26"
+msgstr ""
+"Earn the <font color='#547899'>Hero of the Sky</font> badge <font "
+"color='#8cc8ff'>{0}</font> times."
+
+msgid "LOBBY_PFT_QUESTS_DESCRIPTION_3"
+msgstr "Earn the <font color='#547899'>Efimov medal</font>."
+
+msgid "LOBBY_PFT_QUESTS_DESCRIPTION_6"
+msgstr ""
+"Destroy at least <font color='#8cc8ff'>{0}</font> enemy <font "
+"color='#547899'>aircraft</font> in a single battle when attacking sectors."
+
+msgid "LOBBY_PFT_QUESTS_DESCRIPTION_7"
+msgstr ""
+"Destroy at least <font color='#8cc8ff'>{0}</font> enemy <font "
+"color='#547899'>fighters</font> in any number of victorious battles."
+
+msgid "LOBBY_PFT_QUESTS_DESCRIPTION_8"
+msgstr ""
+"Destroy at least <font color='#8cc8ff'>{0}</font> enemy <font "
+"color='#547899'>aircraft</font> in a single battle when defending sectors."
+
+msgid "LOBBY_PFT_QUESTS_DESCRIPTION_9"
+msgstr ""
+"Become the <font color='#547899'>top player in the combat group</font> in "
+"<font color='#8cc8ff'>{0}</font> battles by the number of personal points "
+"earned."
+
+msgid "LOBBY_PFT_QUESTS_EARN_MEDAL_ACE"
+msgstr "Earn the <font color='#547899'>Ace</font> achievement."
+
+msgid "LOBBY_PFT_QUESTS_EARN_MEDAL_ACE_AMOUNT"
+msgstr ""
+"Earn the <font color='#547899'>Ace</font> achievement <font "
+"color='#8cc8ff'>{0}</font> times."
+
+msgid "LOBBY_PFT_QUESTS_EARN_MEDAL_AVALANCHE"
+msgstr "Earn the <font color='#547899'>Avalanche</font> achievement."
+
+msgid "LOBBY_PFT_QUESTS_EARN_MEDAL_CATCHER"
+msgstr "Earn the <font color='#547899'>Guardian</font> achievement."
+
+msgid "LOBBY_PFT_QUESTS_EARN_MEDAL_CONQUEROR"
+msgstr "Earn the <font color='#547899'>Conqueror</font> achievement."
+
+msgid "LOBBY_PFT_QUESTS_EARN_MEDAL_EXPERIENCED"
+msgstr "Earn the <font color='#547899'>Expert Pilot</font> achievement."
+
+msgid "LOBBY_PFT_QUESTS_EARN_MEDAL_HUNTER"
+msgstr "Earn the <font color='#547899'>Hunter</font> achievement."
+
+msgid "LOBBY_PFT_QUESTS_EARN_MEDAL_INVADER"
+msgstr "Earn the <font color='#547899'>Subjugator</font> achievement."
+
+msgid "LOBBY_PFT_QUESTS_EARN_MEDAL_PREDATOR"
+msgstr "Earn the <font color='#547899'>Predator</font> achievement."
+
+msgid "LOBBY_PFT_QUESTS_EARN_MEDAL_ROCKETEER"
+msgstr "Earn the <font color='#547899'>Rocketeer</font> achievement."
+
+msgid "LOBBY_PFT_QUESTS_EARN_MEDAL_THUNDER"
+msgstr "Earn the <font color='#547899'>Thunder</font> achievement."
 
 msgid "LOBBY_PFT_RECEIVE_CONGRATULATION"
 msgstr "恭喜！"
@@ -14200,6 +14504,9 @@ msgstr "檢視活動"
 msgid "LOBBY_QUESTS_MESSAGE_WILL_BE_AVAILABLE_IN"
 msgstr "在 {time} 後釋出此任務"
 
+msgid "LOBBY_QUESTS_NAME_PART_ORDER_ROMAN"
+msgstr "{mission_name}, Part {order_roman}"
+
 msgid "LOBBY_QUESTS_NO_QUESTS_FOR_CURRENT_PLANE"
 msgstr "沒有目前戰機可執行的任務，選擇 {show_all} 檢視其它任務"
 
@@ -14390,6 +14697,9 @@ msgstr "一次性"
 
 msgid "LOBBY_QUESTS_PARTLY"
 msgstr "部分完成"
+
+msgid "LOBBY_QUESTS_PART_ORDER_ROMAN"
+msgstr "Part {order_roman}"
 
 msgid "LOBBY_QUESTS_PLANES_DAMAGED"
 msgstr "擊傷敵機"
@@ -14670,6 +14980,9 @@ msgstr "Available"
 
 msgid "LOBBY_QUEST_BUTTON_EVENT_WINDOW"
 msgstr "View Missions"
+
+msgid "LOBBY_QUEST_BUTTON_EVENT_WINDOW_CAPS"
+msgstr "VIEW MISSIONS"
 
 msgid "LOBBY_QUEST_COMPLETED_GO_NEXT"
 msgstr "Mission completed successfully! Proceed to the next one."
@@ -15260,6 +15573,51 @@ msgstr "Vampire F.1's Armament, Part 4"
 msgid "LOBBY_QUEST_NAME_PPFT_VAMPIRE-F1_6_5"
 msgstr "Vampire F.1's Armament, Part 5"
 
+msgid "LOBBY_QUEST_NAME_PPFT_VAMPIRE-F1_7_1"
+msgstr "Vampire F.1's Fuel System, Part 1"
+
+msgid "LOBBY_QUEST_NAME_PPFT_VAMPIRE-F1_7_2"
+msgstr "Vampire F.1's Fuel System, Part 2"
+
+msgid "LOBBY_QUEST_NAME_PPFT_VAMPIRE-F1_7_3"
+msgstr "Vampire F.1's Fuel System, Part 3"
+
+msgid "LOBBY_QUEST_NAME_PPFT_VAMPIRE-F1_7_4"
+msgstr "Vampire F.1's Fuel System, Part 4"
+
+msgid "LOBBY_QUEST_NAME_PPFT_VAMPIRE-F1_7_5"
+msgstr "Vampire F.1's Fuel System, Part 5"
+
+msgid "LOBBY_QUEST_NAME_PPFT_VAMPIRE-F1_8_1"
+msgstr "Vampire F.1's Tail, Part 1"
+
+msgid "LOBBY_QUEST_NAME_PPFT_VAMPIRE-F1_8_2"
+msgstr "Vampire F.1's Tail, Part 2"
+
+msgid "LOBBY_QUEST_NAME_PPFT_VAMPIRE-F1_8_3"
+msgstr "Vampire F.1's Tail, Part 3"
+
+msgid "LOBBY_QUEST_NAME_PPFT_VAMPIRE-F1_8_4"
+msgstr "Vampire F.1's Tail, Part 4"
+
+msgid "LOBBY_QUEST_NAME_PPFT_VAMPIRE-F1_8_5"
+msgstr "Vampire F.1's Tail, Part 5"
+
+msgid "LOBBY_QUEST_NAME_PPFT_VAMPIRE-F1_9_1"
+msgstr "Vampire F.1's Flight Panel, Part 1"
+
+msgid "LOBBY_QUEST_NAME_PPFT_VAMPIRE-F1_9_2"
+msgstr "Vampire F.1's Flight Panel, Part 2"
+
+msgid "LOBBY_QUEST_NAME_PPFT_VAMPIRE-F1_9_3"
+msgstr "Vampire F.1's Flight Panel, Part 3"
+
+msgid "LOBBY_QUEST_NAME_PPFT_VAMPIRE-F1_9_4"
+msgstr "Vampire F.1's Flight Panel, Part 4"
+
+msgid "LOBBY_QUEST_NAME_PPFT_VAMPIRE-F1_9_5"
+msgstr "Vampire F.1's Flight Panel, Part 5"
+
 msgid "LOBBY_QUEST_NAME_PPFT_XP-55_1_1"
 msgstr "XP-55's Fuselage, Part 1"
 
@@ -15516,6 +15874,23 @@ msgstr "Myasishchev RB-17 bomber"
 
 msgid "LOBBY_RB-17_BANNER_2"
 msgstr "New aircraft type,<br>rapid jet-powered heavyweight"
+
+msgid "LOBBY_RECEIVE_ALL_GIFTS_BUTTON"
+msgstr "Get Everything!"
+
+msgid "LOBBY_RECEIVE_FOR"
+msgstr "Get Using {number}"
+
+msgid "LOBBY_RECEIVE_GIFTS_BUTTON"
+msgstr "Get Gifts"
+
+msgid "LOBBY_RECEIVE_GIFTS_HEADER"
+msgstr "Get Gifts"
+
+msgid "LOBBY_RECEIVE_GIFTS_TEXT"
+msgstr ""
+"Don't have time to collect candy? Exchange certificates for candy to get "
+"<font color='#{f2f2f2}'>all gifts</font> at once!"
 
 msgid "LOBBY_RECRUIT_GUNNER"
 msgstr "Recruit gunner"
@@ -16473,6 +16848,9 @@ msgstr "Salvage Party"
 msgid "LOBBY_SPRING_MISSIONS"
 msgstr "春季活動"
 
+msgid "LOBBY_SQUIRREL"
+msgstr "Squirrel"
+
 msgid "LOBBY_STAGE_PPFT_PLANE_1"
 msgstr "Stage 1: Fuselage"
 
@@ -16491,8 +16869,26 @@ msgstr "Stage 5: Engine"
 msgid "LOBBY_STAGE_PPFT_PLANE_6"
 msgstr "Stage 6: Armament"
 
+msgid "LOBBY_STAGE_PPFT_PLANE_7"
+msgstr "Stage 7: Fuel System"
+
+msgid "LOBBY_STAGE_PPFT_PLANE_8"
+msgstr "Stage 8: Tail"
+
+msgid "LOBBY_STAGE_PPFT_PLANE_9"
+msgstr "Stage 9: Flight Panel"
+
 msgid "LOBBY_START_ARENA"
 msgstr "戰鬥載入中…"
+
+msgid "LOBBY_START_POINT"
+msgstr "START"
+
+msgid "LOBBY_STATUE_FINISHED"
+msgstr "Sculpture built!"
+
+msgid "LOBBY_STATUE_NOT_FINISHED"
+msgstr "Sculpture not built"
 
 msgid "LOBBY_STORE_BUTTON"
 msgstr "Go to Shop"
@@ -17147,6 +17543,9 @@ msgstr "Special Supplies"
 msgid "LOBBY_TOKEN_STORE_NAME_SUPPLY_SERVICE"
 msgstr "Supply Service"
 
+msgid "LOBBY_TOKEN_STORE_NAME_SUPPLY_SERVICE_COLON"
+msgstr "Supply Service:"
+
 msgid "LOBBY_TOKEN_STORE_UNIQUE_TROPHY"
 msgstr "Unique Supplies"
 
@@ -17221,6 +17620,9 @@ msgstr "Supplies"
 
 msgid "LOBBY_TROPHYS_DOUBLED"
 msgstr "Supplies doubled!"
+
+msgid "LOBBY_TROPHY_AVAILABLE"
+msgstr "Supply crate is available:"
 
 msgid "LOBBY_TROPHY_AVAILABLE_FOR_OPEN_AMOUNT"
 msgstr "Crates to be opened:"
@@ -17600,10 +18002,21 @@ msgstr "佳節愉快！"
 msgid "LOBBY_WINTER_CELEBRATIONS_TEXT_2"
 msgstr "We send you our warmest wishes for a joyful holiday season!"
 
+msgid "LOBBY_WINTER_MANEUVERS_2018_2019"
+msgstr "Holiday Maneuvers"
+
+msgid "LOBBY_WINTER_MANEUVERS_CANDYS_COLLECTED"
+msgstr "Pieces of candy collected:"
+
 msgid "LOBBY_WITH_CERTIFICATES_YOU_CAN_SKIP_QUEST"
 msgstr ""
 "A certificate of mission completion allows you to accomplish a mission early."
 "<br>Purchase a certificate in the Premium Shop."
+
+msgid "LOBBY_WITH_THAT_YOULL_RECEIVE_ALL_GIFTS_FROM_NUMBER_TO_NUBMER"
+msgstr ""
+"Along with this, you will also get all previous gifts, from #{number1} to "
+"#{number2}."
 
 msgid "LOBBY_XF15C_QUESTLINE_EASY_1"
 msgstr ""
@@ -17867,6 +18280,9 @@ msgstr "No Supplies received."
 
 msgid "LOBBY_YOU_DONT_HAVE_ANY_TROPHY_BUT_YOU_CAN_BUY_THEM"
 msgstr "No Supplies received. You can purchase Supplies in the <a>Shop</a>."
+
+msgid "LOBBY_YOU_RECEIVED_ALL_GIFTS"
+msgstr "You have received all gifts!"
 
 msgid "LOCALIZATION_LANGUAGE"
 msgstr "ZH-CN"

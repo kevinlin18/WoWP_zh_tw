@@ -451,6 +451,9 @@ msgstr "Switch to Bombing Mode"
 msgid "KEYMAPPING/CMD_BOMBING_SIGHT"
 msgstr "投彈模式"
 
+msgid "KEYMAPPING/CMD_BOMB_AND_ROCKETS_RELOAD"
+msgstr "Reload bombs and rockets"
+
 msgid "KEYMAPPING/CMD_CHAT_OFF"
 msgstr "禁用聊天"
 

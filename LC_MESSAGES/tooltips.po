@@ -123,6 +123,9 @@ msgstr "Not activated"
 msgid "TOOLTIPS_ACCOUNT_ECONOMIC_CONSUMABLES_PRESS_AND_ACTIVATE"
 msgstr "Click to select and activate boosters."
 
+msgid "TOOLTIPS_ACCOUNT_ECONOMIC_CONSUMABLE_EXPIRED"
+msgstr "Booster's effect expired."
+
 msgid "TOOLTIPS_ACHIEVEMENTS_ARCHIVE_DESCRIPTION"
 msgstr ""
 "Open the default browser to go to the archive of achievements awarded in the "
@@ -186,6 +189,11 @@ msgstr ""
 "After the {event_name} event is finished, the operation order will be "
 "removed.<br><font size='6'><br></font>Seize your chance to get the aircraft "
 "for free!"
+
+msgid "TOOLTIPS_AFTER_YOU_FINISHED_STATUE_IT_GIVES_YOU_BONUSES_DURRING_EVENT"
+msgstr ""
+"Once built, ice sculptures provide bonuses that take effect on all aircraft "
+"in all battles until the event ends."
 
 msgid "TOOLTIPS_AILERONS_DESCRIPTION"
 msgstr "Flight control surfaces used for roll guidance"
@@ -491,6 +499,9 @@ msgid "TOOLTIPS_BATTLE_TRAINING_FLIGHT_DESCRIPTION"
 msgstr ""
 "A training flight with specially selected teammates and opponents. Battle "
 "results do not affect main statistics."
+
+msgid "TOOLTIPS_BEAR_STATUE"
+msgstr "Bear sculpture"
 
 msgid "TOOLTIPS_BIG_RANGED_WEAPON"
 msgstr "大口徑遠端武器"
@@ -806,6 +817,11 @@ msgstr "可掛載小型火箭彈"
 msgid "TOOLTIPS_CANT_BE_RESET_SKILL"
 msgstr "Unique skill cannot be reset"
 
+msgid "TOOLTIPS_CHANCE_TO_OBTAIN_ACHIEVEMENT_RUDOLPH_PILOTDEER"
+msgstr ""
+"Provides a chance to earn the <font color='#c5ced9'>Rudolph Hawker</font> "
+"achievement"
+
 msgid "TOOLTIPS_CHANCE_TO_OBTAIN_FROM_TROPHY"
 msgstr "A chance to get prizes in Supplies:"
 
@@ -820,6 +836,9 @@ msgstr "Medium"
 
 msgid "TOOLTIPS_CHANCE_TO_OBTAIN_FROM_TROPHY_VERY_HIGH"
 msgstr "Very high"
+
+msgid "TOOLTIPS_CHANCE_TO_OBTAIN_FROM_TROPHY_VERY_HIGH_ALT"
+msgstr "Guaranteed"
 
 msgid "TOOLTIPS_CHANCE_TO_OBTAIN_FROM_TROPHY_VERY_LOW"
 msgstr "Very small"
@@ -899,6 +918,12 @@ msgstr "V 級"
 
 msgid "TOOLTIPS_CLASS_QUEST_NAME"
 msgstr "機種任務<br>「{name}」"
+
+msgid "TOOLTIPS_CLICK_TO_HIDE_PANEL"
+msgstr "Click to hide the panel."
+
+msgid "TOOLTIPS_CLICK_TO_SHOW_PANEL"
+msgstr "Click to show the panel."
 
 msgid "TOOLTIPS_CLOSECOMBAT_BIGGUNS"
 msgstr "大口徑武器在近距離戰鬥有優勢"
@@ -1022,6 +1047,9 @@ msgstr ""
 msgid "TOOLTIPS_DAMAGE_ALLIED_AIRCRAFT"
 msgstr "傷害到友軍的戰機"
 
+msgid "TOOLTIPS_DEER_STATUE"
+msgstr "Reindeer sculpture"
+
 msgid "TOOLTIPS_DEFENCE_TURRET"
 msgstr "後射機槍"
 
@@ -1067,6 +1095,9 @@ msgstr "Available Operation Orders:"
 
 msgid "TOOLTIPS_DIVING_SPEED"
 msgstr "Maximum speed attained in a dive"
+
+msgid "TOOLTIPS_EAGLE_STATUE"
+msgstr "Eagle sculpture"
 
 msgid "TOOLTIPS_EF_DIST"
 msgstr "有效範圍"
@@ -1362,6 +1393,9 @@ msgstr "機槍在對付無裝甲地面目標表現良好"
 msgid "TOOLTIPS_GA_MIXEDGUNS"
 msgstr "機槍和機砲在對付地面目標表現良好"
 
+msgid "TOOLTIPS_GIFT_COLLECT_LIST"
+msgstr "Required to get the gift:"
+
 msgid "TOOLTIPS_GOOD_ATTACK_WEAPON"
 msgstr "良好的攻擊武器"
 
@@ -1385,6 +1419,9 @@ msgstr "良好的滾轉能力"
 
 msgid "TOOLTIPS_GOOD_ROCKET_WEAPON"
 msgstr "Good rocket armament"
+
+msgid "TOOLTIPS_GO_TO_ORDER_SERTIFICATES"
+msgstr "Go to certificate purchase"
 
 msgid "TOOLTIPS_GO_TO_QUESTS_FOR_CLASS_TYPE"
 msgstr "View missions for the selected aircraft type"
@@ -1665,6 +1702,15 @@ msgstr "Maximum possible values for the current quality level"
 
 msgid "TOOLTIPS_MAY_CONTAIN"
 msgstr "Can contain:"
+
+msgid "TOOLTIPS_MAY_CONTAIN_LIST"
+msgstr "Can contain:"
+
+msgid "TOOLTIPS_MAY_CONTAIN_LIST_CAMO_FOR_ANY_PLANE"
+msgstr "Paint scheme for any aircraft"
+
+msgid "TOOLTIPS_MAY_CONTAIN_LIST_NOSE_ART_FOR_ANY_PLANE"
+msgstr "Nose art for any aircraft"
 
 msgid "TOOLTIPS_MEDHEIGHT"
 msgstr "Effective in mid-altitude combat"
@@ -1984,6 +2030,9 @@ msgstr "No forward-firing offensive armament"
 msgid "TOOLTIPS_NO_WEAPONS"
 msgstr "No forward-firing offensive armament"
 
+msgid "TOOLTIPS_NY_TROPHY"
+msgstr "Holiday Supply Crate"
+
 msgid "TOOLTIPS_OIL_TANKS_DESCRIPTION"
 msgstr "Containers with oil for engines"
 
@@ -2044,6 +2093,16 @@ msgstr ""
 
 msgid "TOOLTIPS_ORDER_SERTIFICATE"
 msgstr "使用令牌可以讓你提早完成任務，在商店中購買令牌。"
+
+msgid "TOOLTIPS_ORDER_SERTIFICATES_DESCRIPTION"
+msgstr ""
+"Additional in-game currency used during events and purchased using real "
+"money.<br><font size='6'><br></font>After an event is finished, all unused "
+"certificates are converted to gold."
+
+msgid "TOOLTIPS_OTHER_GIFTS_LIST"
+msgstr ""
+"And other gifts. The full list is available in the notification history."
 
 msgid "TOOLTIPS_OXYGEN_EQUIPMENT_DESCRIPTION"
 msgstr "Provides crew with oxygen during high-altitude flights"
@@ -3501,6 +3560,9 @@ msgstr ""
 msgid "TOOLTIPS_READ_PERSONAL_PILOT_INFO_AND_RECRUIT"
 msgstr "View female pilot's personal file and recruit her"
 
+msgid "TOOLTIPS_RECEIVE_ALL_GIFTS_BUTTON_DESCRIPTION"
+msgstr "Click to get gifts."
+
 msgid "TOOLTIPS_RECRUIT_CREW"
 msgstr "Recruit crew member"
 
@@ -3647,6 +3709,9 @@ msgstr ""
 "The \"Specialist\" configuration is an improved configuration that offers "
 "new opportunities for your aircraft."
 
+msgid "TOOLTIPS_SQUIRREL_STATUE"
+msgstr "Squirrel sculpture"
+
 msgid "TOOLTIPS_STALL_SPEED"
 msgstr ""
 "Minimum speed required for the aircraft to maintain a steady horizontal "
@@ -3672,6 +3737,9 @@ msgstr "Unavailable"
 
 msgid "TOOLTIPS_SUMMER_STORM_PARTICIPATING_EVENT_AND_GET_PLANE"
 msgstr "You can get this aircraft by participating in the Summer Storm event."
+
+msgid "TOOLTIPS_SUPERGIFT"
+msgstr "Top gift:"
 
 msgid "TOOLTIPS_TAIL_PART_DESCRIPTION"
 msgstr "Rear body and stabilizers"
@@ -3761,6 +3829,12 @@ msgstr "備有一個廣射界的防禦砲塔"
 
 msgid "TOOLTIPS_TURRET_MODE"
 msgstr "Turret control mode (T)"
+
+msgid "TOOLTIPS_TUTORIAL_BANNER_INFOTIP_MILITARYBASE"
+msgstr ""
+"A <font color='#{colorID}'>military base</font> under your control launches "
+"rocket strikes on the sector being attacked by the largest number of "
+"aircraft from the combat group"
 
 msgid "TOOLTIPS_TUTORIAL_QUEST_10_HELP_DESCRIPTION"
 msgstr "Personal points are earned for being actively involved in the action."
@@ -3937,6 +4011,17 @@ msgstr "Aircraft guns including autocannon and machine guns"
 
 msgid "TOOLTIPS_WINGS_DESCRIPTION"
 msgstr "Main source of lift of an aircraft"
+
+msgid "TOOLTIPS_WINTER_IS_COMMING_WITH_GIFTS"
+msgstr ""
+"Winter has brought us not just snow and a festive mood, but also an "
+"opportunity to practise breakneck maneuvers with a heap of gifts as a reward!"
+
+msgid "TOOLTIPS_WITH_PILOTDEER_PLANE_HAWKER_WORK_BETTER"
+msgstr ""
+"Creates a festive atmosphere with a special reindeer mask in the cockpit of "
+"the <font color='#ffd57e'>Hawker P.V.3</font>. The pilot fires, maneuvers, "
+"and uses engine power more effectively on this aircraft."
 
 msgid "TOOLTIPS_WORK_DURING_ALL_BATTLE"
 msgstr "Effective throughout the battle"
@@ -4868,6 +4953,9 @@ msgstr "Required for grade promotion"
 msgid "TOOLTIP_CLEAR_FILTERS"
 msgstr "顯示所有飛機"
 
+msgid "TOOLTIP_CLICK_TO_SEE_EVENT"
+msgstr "Click to view event details"
+
 msgid "TOOLTIP_COMMON_FREE_XP"
 msgstr ""
 "自由經驗可用來研發任何的戰機或裝備<br>你在戰鬥中所獲得的全局經驗可在《戰車世"
@@ -5324,6 +5412,9 @@ msgstr "<b>增加油門</b><br/>增加油門以增加速度"
 msgid "TOOLTIP_INFO_UNAVAILABLE_AIRCRAFT_IN_BATTLE"
 msgstr "Information unavailable.<br>Wait until the aircraft leaves the battle."
 
+msgid "TOOLTIP_INFO_UNAVAILABLE_AIRCRAFT_IN_BATTLE_SHORT"
+msgstr "Wait until the aircraft leaves the battle."
+
 msgid "TOOLTIP_INSTALLATION_UNAVAILABLE_AIRCRAFT_DAMAGED"
 msgstr "不能安裝，需要先修理飛機。"
 
@@ -5570,6 +5661,12 @@ msgstr "調整您使用麥克風時的最低音量<br/>該設定應高於您的�
 
 msgid "TOOLTIP_MODIFIERS_CAMO"
 msgstr "Paint scheme"
+
+msgid "TOOLTIP_MODIFIERS_DECR_MAX_SPEED_BOMBS"
+msgstr "Outboard bomb aerodynamics"
+
+msgid "TOOLTIP_MODIFIERS_DECR_MAX_SPEED_ROCKETS"
+msgstr "Outboard rocket aerodynamics"
 
 msgid "TOOLTIP_MODIFIERS_ECONOMIC_BONUS_CREDITS"
 msgstr "Credits earned per battle"
@@ -6162,6 +6259,9 @@ msgstr "出售炸彈和火箭彈數量"
 
 msgid "TOOLTIP_SHOP_CONSUMABLES_TO_SELL"
 msgstr "出售消耗品數量"
+
+msgid "TOOLTIP_SHOP_ECONOMIC_CONSUMABLES_TO_SELL"
+msgstr "Number of boosters to sell"
 
 msgid "TOOLTIP_SHOP_EQUIPMENT_TO_SELL"
 msgstr "出售配件數量"

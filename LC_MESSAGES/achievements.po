@@ -339,6 +339,9 @@ msgstr "團隊成就勳章"
 msgid "ACHIEVEMENTS_TAB_AWARDS_HERO"
 msgstr "英勇戰鬥勳章"
 
+msgid "ACHIEVEMENTS_TAB_AWARDS_HOLIDAY"
+msgstr "Holiday Achievements"
+
 msgid "ACHIEVEMENTS_TAB_AWARDS_HONOR"
 msgstr "榮譽勳章"
 
@@ -350,6 +353,9 @@ msgstr "季度獎勵"
 
 msgid "ACHIEVEMENTS_TAB_AWARDS_OLD"
 msgstr "Past Achievements"
+
+msgid "ACHIEVEMENTS_TAB_AWARDS_PERSONAL_QUESTS"
+msgstr "Personal Missions"
 
 msgid "ACHIEVEMENTS_TAB_AWARDS_RATING"
 msgstr "Rating Achievements"
@@ -452,6 +458,11 @@ msgstr ""
 "Awarded for destroying at least <font color='#f2f2f2'>{0} bombers</font> "
 "from the enemy combat group in a single battle and winning the battle."
 "<br><font size='6'><br></font>Available once for each aircraft in the Hangar."
+
+msgid "MEDAL_DESCRIPTION_ANIMAL_KING"
+msgstr ""
+"Awarded for getting 4 animal sculptures for the Hangar during the <font "
+"color='#f2f2f2'>Operation Holiday Maneuvers</font> event."
 
 msgid "MEDAL_DESCRIPTION_AROUND_THE_WORLD"
 msgstr "授予至少在2幅不同地圖中進行戰鬥的玩家"
@@ -618,6 +629,11 @@ msgstr "以熟練表現完成“飛行訓練”系列任務"
 msgid "MEDAL_DESCRIPTION_CADET_5"
 msgstr "以正常表現完成“飛行訓練”系列任務"
 
+msgid "MEDAL_DESCRIPTION_CANDY_RAID"
+msgstr ""
+"Awarded for receiving the first piece of candy during the <font "
+"color='#f2f2f2'>Operation Holiday Maneuvers</font> event."
+
 msgid "MEDAL_DESCRIPTION_CAREFUL"
 msgstr ""
 "授予一場戰鬥中在發動機和機槍/航砲不出現過熱的情況下擊落3架敵機的玩家<br><br>"
@@ -664,6 +680,13 @@ msgstr ""
 
 msgid "MEDAL_DESCRIPTION_COLLECTOR"
 msgstr "授予使用至少2架不同等級的戰機進行戰鬥的玩家"
+
+msgid "MEDAL_DESCRIPTION_COMMAND_DES"
+msgstr ""
+"Awarded for earning at least <font color='#f2f2f2'>{200} capture points</"
+"font> for destroying enemy ground targets and causing at least <font "
+"color='#f2f2f2'>{2000} HP of damage to aerial targets</font> with turret "
+"fire in a single sortie."
 
 msgid "MEDAL_DESCRIPTION_COMPETITIVE_PLAYERS"
 msgstr "Awarded for getting on the rating list."
@@ -1710,6 +1733,12 @@ msgstr "在一場戰鬥中使用火箭彈擊落敵機<br><br>只可在標準戰�
 msgid "MEDAL_DESCRIPTION_ROCKET_STRIKE"
 msgstr "授予使用火箭彈摧毀敵方地面目標的玩家<br><br>只可獲得一次"
 
+msgid "MEDAL_DESCRIPTION_RUDOLPH_PILOTDEER"
+msgstr ""
+"Awarded for earning <font color='#f2f2f2'>10,000</font> personal points "
+"while flying the <font color='#ffd57e'>Hawker P.V.3.</font> with Rudolph "
+"Hawker as a pilot."
+
 msgid "MEDAL_DESCRIPTION_RUDORFFER"
 msgstr "授予在一場戰鬥中至少摧毀13架敵方戰機的玩家<br><br>只可在標準戰鬥中獲得"
 
@@ -1747,6 +1776,9 @@ msgid "MEDAL_DESCRIPTION_SECRET_SANTA_2018"
 msgstr ""
 "Awarded for participating in the special event during the 2017–2018 holiday "
 "season."
+
+msgid "MEDAL_DESCRIPTION_SECRET_SANTA_2019"
+msgstr "Awarded for participating in the 2018–2019 event \"Santa's Bag\"."
 
 msgid "MEDAL_DESCRIPTION_SEVERSKY1"
 msgstr "頒發給伺服器中第一個研發併購買10級戰機的玩家"
@@ -1802,6 +1834,12 @@ msgstr ""
 
 msgid "MEDAL_DESCRIPTION_SMOKING_BARRELS"
 msgstr "授予使用完全冷卻狀態的武器進行射擊直至過熱的玩家<br><br>只可獲得一次"
+
+msgid "MEDAL_DESCRIPTION_SNAKE_HIPS"
+msgstr ""
+"Awarded for participating in capturing at least <font color='#f2f2f2'>{3} "
+"sectors </font> and earning at least <font color='#f2f2f2'>{200} capture "
+"points</font> in a single sortie."
 
 msgid "MEDAL_DESCRIPTION_SPECIALIST_PLANE"
 msgstr ""
@@ -1992,6 +2030,11 @@ msgstr ""
 "授予在一場通過獲取制空權獲勝的戰鬥中創造至少1/3的優勢點數的玩家<br><br>只可在"
 "標準戰鬥中獲得"
 
+msgid "MEDAL_DESCRIPTION_VAMPIREF1"
+msgstr ""
+"Awarded for completing the chain of personal missions and receiving the "
+"<font color='#ffd57e'>Vampire F.1</font> as a reward."
+
 msgid "MEDAL_DESCRIPTION_VETERAN"
 msgstr ""
 "Awarded for winning a battle and <font color='#f2f2f2'>achieving the top "
@@ -2036,6 +2079,9 @@ msgstr ""
 msgid "MEDAL_DESCRIPTION_WG_FEST_2017_2"
 msgstr "Выдавалась только одна награда за любое количество пригласительных."
 
+msgid "MEDAL_DESCRIPTION_WG_FEST_2018"
+msgstr "Awarded for visiting <font color='#f2f2f2'>WG Fest 2018</font> event."
+
 msgid "MEDAL_DESCRIPTION_WINGED_FLAME"
 msgstr ""
 "授予在一場戰鬥中使3架敵機起火的玩家<br><br>只可在標準戰鬥中獲得，且每架戰機只"
@@ -2053,6 +2099,11 @@ msgstr ""
 
 msgid "MEDAL_DESCRIPTION_WINTER_VETERAN"
 msgstr "授予積極參與2015-2016冬季活動的玩家。"
+
+msgid "MEDAL_DESCRIPTION_XP-55"
+msgstr ""
+"Awarded for completing the chain of personal missions and receiving the "
+"<font color='#ffd57e'>XP-55</font> as a reward."
 
 msgid "MEDAL_DESCRIPTION_YEFIMOV"
 msgstr ""
@@ -2759,6 +2810,9 @@ msgstr "All-Season Hunter"
 msgid "MEDAL_NAME_ALTITUDE_HUNTER"
 msgstr "Hunt for Vulture"
 
+msgid "MEDAL_NAME_ANIMAL_KING"
+msgstr "King of the Animals"
+
 msgid "MEDAL_NAME_AROUND_THE_WORLD"
 msgstr "遊騎兵"
 
@@ -2882,6 +2936,9 @@ msgstr "軍校生4級"
 msgid "MEDAL_NAME_CADET_5"
 msgstr "軍校生5級"
 
+msgid "MEDAL_NAME_CANDY_RAID"
+msgstr "Candy Raid"
+
 msgid "MEDAL_NAME_CAREFUL"
 msgstr "彈無虛發"
 
@@ -2911,6 +2968,9 @@ msgstr "克斯曼勳章"
 
 msgid "MEDAL_NAME_COLLECTOR"
 msgstr "收藏家"
+
+msgid "MEDAL_NAME_COMMAND_DES"
+msgstr "Hansell Medal"
 
 msgid "MEDAL_NAME_COMPETITIVE_PLAYERS"
 msgstr "Competitor Badge"
@@ -3581,6 +3641,9 @@ msgstr "火箭手"
 msgid "MEDAL_NAME_ROCKET_STRIKE"
 msgstr "火箭襲地"
 
+msgid "MEDAL_NAME_RUDOLPH_PILOTDEER"
+msgstr "Rudolph Hawker"
+
 msgid "MEDAL_NAME_RUDORFFER"
 msgstr "魯道夫勒勳章"
 
@@ -3604,6 +3667,9 @@ msgstr "Santa's Bag"
 
 msgid "MEDAL_NAME_SECRET_SANTA_2018"
 msgstr "Holiday Season Event"
+
+msgid "MEDAL_NAME_SECRET_SANTA_2019"
+msgstr "Santa's Bag 2019"
 
 msgid "MEDAL_NAME_SEVERSKY1"
 msgstr "謝韋爾斯基勳章 一級"
@@ -3646,6 +3712,9 @@ msgstr "Air Wolves"
 
 msgid "MEDAL_NAME_SMOKING_BARRELS"
 msgstr "彈雨"
+
+msgid "MEDAL_NAME_SNAKE_HIPS"
+msgstr "Bätcher Medal"
 
 msgid "MEDAL_NAME_SPECIALIST_PLANE"
 msgstr "Specialist"
@@ -3794,6 +3863,9 @@ msgstr "鐵布衫"
 msgid "MEDAL_NAME_VALUABLE_CONTRIBUTION"
 msgstr "貢獻者"
 
+msgid "MEDAL_NAME_VAMPIREF1"
+msgstr "Fangs of Steel"
+
 msgid "MEDAL_NAME_VETERAN"
 msgstr "Top Pilot"
 
@@ -3812,6 +3884,9 @@ msgstr "«Участник WG Fest 2016»"
 msgid "MEDAL_NAME_WG_FEST_2017"
 msgstr "«Участник WG Fest 2017»"
 
+msgid "MEDAL_NAME_WG_FEST_2018"
+msgstr "WG Fest 2018 Participant"
+
 msgid "MEDAL_NAME_WINGED_FLAME"
 msgstr "凌空之火"
 
@@ -3823,6 +3898,9 @@ msgstr "Winged Legend"
 
 msgid "MEDAL_NAME_WINTER_VETERAN"
 msgstr "冬季活動老兵"
+
+msgid "MEDAL_NAME_XP-55"
+msgstr "Ascent"
 
 msgid "MEDAL_NAME_YEFIMOV"
 msgstr "葉菲莫勳章"

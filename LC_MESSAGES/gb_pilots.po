@@ -6749,8 +6749,14 @@ msgstr "約翰"
 msgid "NAMES/GBU1"
 msgstr "Donovan"
 
+msgid "NAMES/GBU2"
+msgstr "Hawker"
+
 msgid "NAMES/GBUN1"
 msgstr "Charles"
+
+msgid "NAMES/GBUN2"
+msgstr "Rudolph"
 
 msgid "RANKSGB/1"
 msgstr "上校"

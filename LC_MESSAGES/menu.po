@@ -57,6 +57,11 @@ msgstr ""
 "抵制不良遊戲，拒絕盜版遊戲。注意自我保護，謹防受騙上當。\r\n"
 "適度遊戲益腦，沉迷遊戲傷身。合理安排時間，享受健康生活。"
 
+msgid "DISCONNECT/#SYSTEM_MESSAGES:STEAM_ACCOUNT_MISMATCH"
+msgstr ""
+"Unable to log in. Please unlink your Wargaming.net account from your Steam "
+"account on the Account Management webpage: https://wargaming.net/personal"
+
 msgid "DISCONNECTED"
 msgstr "連線伺服器發生丟包。"
 
@@ -116,11 +121,6 @@ msgstr "請更新客戶端應用程式"
 
 msgid "LOGIN/STATUS/LOGIN_CUSTOM_DEFINED_ERROR"
 msgstr "伺服器不可用.原因： ％s"
-
-msgid "LOGIN/STATUS/LOGIN_DISCONNECT/#SYSTEM_MESSAGES:STEAM_ACCOUNT_MISMATCH"
-msgstr ""
-"Unable to log in. Please unlink your Wargaming.net account from your Steam "
-"account on the Account Management webpage: https://wargaming.net/personal"
 
 msgid "LOGIN/STATUS/LOGIN_MALFORMED_REQUEST"
 msgstr "登入資料包傳送到伺服器的格式不正確。客戶端可能會過時或損壞。"
@@ -527,3 +527,10 @@ msgstr "等待"
 
 msgid "WARGAMING_COPYRIGHT"
 msgstr "© 2011-2018 Wargaming.net. 保留所有權利。"
+
+#~ msgid ""
+#~ "LOGIN/STATUS/LOGIN_DISCONNECT/#SYSTEM_MESSAGES:STEAM_ACCOUNT_MISMATCH"
+#~ msgstr ""
+#~ "Unable to log in. Please unlink your Wargaming.net account from your "
+#~ "Steam account on the Account Management webpage: https://wargaming.net/"
+#~ "personal"

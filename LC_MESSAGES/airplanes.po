@@ -480,6 +480,14 @@ msgstr ""
 "Early version of the armored Hs 129 attack aircraft fitted with Argus "
 "engines. A small series of aircraft was used mainly for pilot training."
 
+msgid "MARKET_AIRPLANE_DESCRIPTION_HUNTER"
+msgstr ""
+"Developed by the Hawker Aircraft company based on the experience gained when "
+"designing the Sea Hawk. The prototype first took to the air in July 1951. In "
+"1953, the Hawker Hunter entered mass production. It was exported to various "
+"countries and saw combat service in a range of conflicts in the latter half "
+"of the 20th century."
+
 msgid "MARKET_AIRPLANE_DESCRIPTION_HURRICANE-I"
 msgstr ""
 "The main British fighter type of early World War II. The prototype first "
@@ -1455,6 +1463,13 @@ msgstr ""
 msgid "MARKET_AIRPLANE_DESCRIPTION_PEGAS"
 msgstr "一種設計簡單，低成本，適宜大量生產的攻擊機，但最終只完成了幾架原型機。"
 
+msgid "MARKET_AIRPLANE_DESCRIPTION_PV-3"
+msgstr ""
+"The Hawker P.V.3 was developed as an enlarged version of the Hawker Fury "
+"fighter powered by a new engine with an enhanced armament of four machine "
+"guns. The single completed prototype was tested with several variants of the "
+"Goshawk engines in 1934–1935."
+
 msgid "MARKET_AIRPLANE_DESCRIPTION_RB-17"
 msgstr ""
 "Project for a high-speed reconnaissance bomber. Developed in 1945–1946 with "
@@ -1479,6 +1494,13 @@ msgid "MARKET_AIRPLANE_DESCRIPTION_SEAFANG"
 msgstr ""
 "超級馬林公司在怨恨式戰鬥機的基礎上所研製的戰機，在 1945 至 1949 年間進行了測"
 "試，但沒有進入軍隊服役。"
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_SEAHAWK"
+msgstr ""
+"The first jet fighter built by the Hawker Aircraft company. Its prototype "
+"conducted its maiden flight on September 2, 1947. Initially, it was "
+"developed for the Royal Air Force, but was later redesigned for the Fleet "
+"Air Arm. Served in the German, Royal Netherlands, and Indian Navy."
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_SKUA"
 msgstr ""
@@ -1545,6 +1567,13 @@ msgstr ""
 "蘇聯研製的一種非常獨特的試驗型攻擊機，1939 年秋天進行了試飛，但最終沒有正式裝"
 "備部隊。"
 
+msgid "MARKET_AIRPLANE_DESCRIPTION_TEMPEST"
+msgstr ""
+"Designed as a modification of the Hawker Typhoon. However, due to multiple "
+"significant changes to the design, was redesignated into the Hawker Tempest. "
+"As a multirole fighter, it proved to be one of the best British World War II "
+"aircraft."
+
 msgid "MARKET_AIRPLANE_DESCRIPTION_TOMAHAWK-IIB"
 msgstr ""
 "寇蒂斯 P-40 戰鬥機的一款改進型號，抗戰期間作為飛虎隊的主力戰機參與作戰。"
@@ -1567,8 +1596,21 @@ msgstr ""
 "搭載懷特 “旋風” 發動機和三葉片螺旋槳的伊-16 戰鬥機的原型機，對該機進行測試後"
 "決定量產型伊-16 戰鬥機搭載 M-22 引擎。"
 
+msgid "MARKET_AIRPLANE_DESCRIPTION_TU-1"
+msgstr ""
+"A heavy fighter based on modification 63 of the Tupolev Tu-2 bomber. "
+"Underwent trials during 1947. However, due to problems with the engines and "
+"the advent of the jet era, the project was discontinued."
+
 msgid "MARKET_AIRPLANE_DESCRIPTION_TYPE-91"
 msgstr "中島公司在法國設計師協助下設計生產的戰鬥機。"
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_TYPHOON"
+msgstr ""
+"Developed simultaneously with the Hawker Tornado as a high-speed "
+"interceptor. However, it proved most effective as a multirole fighter. "
+"Remained the main support aircraft in the Royal Air Force until the end of "
+"combat in Europe."
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_VAMPIRE-F1"
 msgstr ""
@@ -2014,6 +2056,9 @@ msgstr "亨舍爾 Hs 129 B"
 msgid "PLANE_LONGNAME_HS-129A"
 msgstr "亨舍爾 Hs 129 А"
 
+msgid "PLANE_LONGNAME_HUNTER"
+msgstr "Hawker Hunter"
+
 msgid "PLANE_LONGNAME_HURRICANE-I"
 msgstr "霍克 颶風 Mk I"
 
@@ -2401,6 +2446,9 @@ msgstr "Petlyakov Pe-2 M-82"
 msgid "PLANE_LONGNAME_PEGAS"
 msgstr "托馬舍維奇 飛馬"
 
+msgid "PLANE_LONGNAME_PV-3"
+msgstr "Hawker P.V.3"
+
 msgid "PLANE_LONGNAME_RB-17"
 msgstr "米亞西舍夫 RB-17"
 
@@ -2415,6 +2463,9 @@ msgstr "SNCASE SE 100"
 
 msgid "PLANE_LONGNAME_SEAFANG"
 msgstr "超級馬林 海毒牙F.32"
+
+msgid "PLANE_LONGNAME_SEAHAWK"
+msgstr "Hawker Sea Hawk"
 
 msgid "PLANE_LONGNAME_SKUA"
 msgstr "布萊克本 賊鷗"
@@ -2464,6 +2515,9 @@ msgstr "福克-沃爾夫 Ta 183 哈克本"
 msgid "PLANE_LONGNAME_TANDEM"
 msgstr "格魯申 Sh雙座型"
 
+msgid "PLANE_LONGNAME_TEMPEST"
+msgstr "Hawker Tempest"
+
 msgid "PLANE_LONGNAME_TOMAHAWK-IIB"
 msgstr "寇蒂斯 P-40C 戰斧"
 
@@ -2479,8 +2533,14 @@ msgstr "柯切裡津 TSh-3"
 msgid "PLANE_LONGNAME_TSKB-12"
 msgstr "波利卡爾波夫 TsKB-12比斯"
 
+msgid "PLANE_LONGNAME_TU-1"
+msgstr "Tupolev Tu-1"
+
 msgid "PLANE_LONGNAME_TYPE-91"
 msgstr "中島 九一式戦闘機"
+
+msgid "PLANE_LONGNAME_TYPHOON"
+msgstr "Hawker Typhoon"
 
 msgid "PLANE_LONGNAME_VAMPIRE-F1"
 msgstr "De Havilland DH.100 Vampire F.1"
@@ -2878,6 +2938,9 @@ msgstr "Hs 129 B"
 msgid "PLANE_MIDNAME_HS-129A"
 msgstr "Hs 129 А"
 
+msgid "PLANE_MIDNAME_HUNTER"
+msgstr "Hunter"
+
 msgid "PLANE_MIDNAME_HURRICANE-I"
 msgstr "颶風 Mk I"
 
@@ -3265,6 +3328,9 @@ msgstr "Pe-2 M-82"
 msgid "PLANE_MIDNAME_PEGAS"
 msgstr "飛馬"
 
+msgid "PLANE_MIDNAME_PV-3"
+msgstr "P.V.3"
+
 msgid "PLANE_MIDNAME_RB-17"
 msgstr "RB-17"
 
@@ -3279,6 +3345,9 @@ msgstr "SE 100"
 
 msgid "PLANE_MIDNAME_SEAFANG"
 msgstr "海毒牙F.32"
+
+msgid "PLANE_MIDNAME_SEAHAWK"
+msgstr "Sea Hawk"
 
 msgid "PLANE_MIDNAME_SKUA"
 msgstr "賊鷗"
@@ -3328,6 +3397,9 @@ msgstr "Ta 183 哈克本"
 msgid "PLANE_MIDNAME_TANDEM"
 msgstr "Sh雙座型"
 
+msgid "PLANE_MIDNAME_TEMPEST"
+msgstr "Tempest"
+
 msgid "PLANE_MIDNAME_TOMAHAWK-IIB"
 msgstr "P-40C 戰斧"
 
@@ -3343,8 +3415,14 @@ msgstr "TSh-3"
 msgid "PLANE_MIDNAME_TSKB-12"
 msgstr "TsKB-12bis"
 
+msgid "PLANE_MIDNAME_TU-1"
+msgstr "Tu-1"
+
 msgid "PLANE_MIDNAME_TYPE-91"
 msgstr "九一式"
+
+msgid "PLANE_MIDNAME_TYPHOON"
+msgstr "Typhoon"
 
 msgid "PLANE_MIDNAME_VAMPIRE-F1"
 msgstr "DH.100 Vampire F.1"
@@ -3826,6 +3904,9 @@ msgstr "Hs 129 B"
 msgid "PLANE_NAME_HS-129A"
 msgstr "Hs 129 А"
 
+msgid "PLANE_NAME_HUNTER"
+msgstr "Hunter"
+
 msgid "PLANE_NAME_HURRICANE-I"
 msgstr "颶風 I"
 
@@ -4213,6 +4294,9 @@ msgstr "Pe-2 M-82"
 msgid "PLANE_NAME_PEGAS"
 msgstr "飛馬"
 
+msgid "PLANE_NAME_PV-3"
+msgstr "P.V.3"
+
 msgid "PLANE_NAME_RB-17"
 msgstr "RB-17"
 
@@ -4227,6 +4311,9 @@ msgstr "SE 100"
 
 msgid "PLANE_NAME_SEAFANG"
 msgstr "海毒牙"
+
+msgid "PLANE_NAME_SEAHAWK"
+msgstr "Sea Hawk"
 
 msgid "PLANE_NAME_SKUA"
 msgstr "賊鷗"
@@ -4276,6 +4363,9 @@ msgstr "Ta 183"
 msgid "PLANE_NAME_TANDEM"
 msgstr "Sh雙座型"
 
+msgid "PLANE_NAME_TEMPEST"
+msgstr "Tempest"
+
 msgid "PLANE_NAME_TOMAHAWK-IIB"
 msgstr "P-40C"
 
@@ -4291,8 +4381,14 @@ msgstr "TSh-3"
 msgid "PLANE_NAME_TSKB-12"
 msgstr "TsKB-12比斯"
 
+msgid "PLANE_NAME_TU-1"
+msgstr "Tu-1"
+
 msgid "PLANE_NAME_TYPE-91"
 msgstr "九一式"
+
+msgid "PLANE_NAME_TYPHOON"
+msgstr "Typhoon"
 
 msgid "PLANE_NAME_VAMPIRE-F1"
 msgstr "Vampire F.1"

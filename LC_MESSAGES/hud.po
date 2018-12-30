@@ -641,6 +641,9 @@ msgstr "destroyed by AA guns"
 msgid "HUD_BATTLE_LOG_MESSAGE_WING"
 msgstr "Flight mate"
 
+msgid "HUD_CANDYS_RECEIVED"
+msgstr "Candy pieces collected:"
+
 msgid "HUD_CAPTURE_ENEMY_SECTORS"
 msgstr "Capture enemy sectors"
 
@@ -1515,6 +1518,21 @@ msgstr "{ico} [{v}] 被摧毀"
 msgid "HUD_KILOMETERS"
 msgstr "km"
 
+msgid "HUD_LEAVE_FROM_BATTLE_EVENT_TEXT"
+msgstr ""
+"Pilot! The battle is not over yet. Leaving the battle early will impose a "
+"disciplinary penalty on you: <font color='#e5a82e'>you won't get candy and "
+"you will receive 1,000 personal points less</font>!"
+
+msgid "HUD_LEAVE_FROM_BATTLE_HEADER"
+msgstr "Leaving Battle Early"
+
+msgid "HUD_LEAVE_FROM_BATTLE_TEXT"
+msgstr ""
+"Pilot! The battle is not over yet. Leaving the battle early will impose a "
+"disciplinary penalty on you: <font color='#e5a82e'>you will receive 1,000 "
+"personal points less</font>!"
+
 msgid "HUD_LOCKED"
 msgstr "鎖定"
 
@@ -2355,6 +2373,9 @@ msgstr "準備中:"
 
 msgid "HUD_PREPARE_1"
 msgstr "準備中:"
+
+msgid "HUD_PRESS_BUTTON_FOR_BOMB_AND_ROCKETS_RELOAD"
+msgstr "Click {button} to reload"
 
 msgid "HUD_PREVIOUS_TARGET"
 msgstr "Switch to Previous Ally"
@@ -3287,6 +3308,20 @@ msgstr "每 5 秒可獲得 3 點優勢點數"
 
 msgid "HUD_TIPS_MILITARYBASE_DESCRIPTION"
 msgstr "Launches rocket strikes on ground targets in nearby sectors"
+
+msgid "HUD_TIPS_MILITARYBASE_DESCRIPTION_2"
+msgstr ""
+"Chooses the sector that is being attacked by the largest number of aircraft "
+"as a target for rocket strikes"
+
+msgid "HUD_TIPS_MILITARYBASE_DESCRIPTION_F1"
+msgstr "Supports the combat group's attack with rocket strikes"
+
+msgid "HUD_TIPS_MILITARYBASE_STATUS_ATTACK_SUPP"
+msgstr "Provides attack support"
+
+msgid "HUD_TIPS_MILITARYBASE_STATUS_WAITING"
+msgstr "Searching for target…"
 
 msgid "HUD_TIPS_NAVY_FIGHTERS"
 msgstr "MULTIROLE FIGHTERS"
