@@ -10,7 +10,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 2.0.5\n"
+"X-Generator: Poedit 2.2\n"
 
 msgid "CAPTUREBASE_BASE"
 msgstr "槍管"
@@ -52,16 +52,16 @@ msgid "CHAT_COMMAND_F8_AIRBASE"
 msgstr "攻擊空軍基地！"
 
 msgid "CHAT_COMMAND_F8_AIRFIELD"
-msgstr "Attack Staging Airfield!"
+msgstr "攻擊中途機場！"
 
 msgid "CHAT_COMMAND_F8_CITADEL"
-msgstr "Attack Fort!"
+msgstr "攻擊堡壘！"
 
 msgid "CHAT_COMMAND_F8_COMMANDCENTER"
 msgstr "攻擊指揮中心！"
 
 msgid "CHAT_COMMAND_F8_COMMUNICATIONCENTER"
-msgstr "Attack Communications Center!"
+msgstr "攻擊通訊中心！"
 
 msgid "CHAT_COMMAND_F8_FACTORY"
 msgstr "攻擊煉油廠！"
@@ -76,7 +76,7 @@ msgid "CHAT_COMMAND_F8_MILITARYBASE"
 msgstr "攻擊軍事基地！"
 
 msgid "CHAT_COMMAND_F8_RADIOPOINT"
-msgstr "Attack Field Headquarters!"
+msgstr "攻擊現場總部！"
 
 msgid "CHAT_COMMAND_F8_RUNWAY"
 msgstr "攻擊前線簡易機場！"
@@ -91,7 +91,7 @@ msgid "CHAT_COMMAND_F9_AIRBASE"
 msgstr "防守空軍基地！"
 
 msgid "CHAT_COMMAND_F9_AIRFIELD"
-msgstr "Defend Staging Airfield!"
+msgstr "保衛機場！"
 
 msgid "CHAT_COMMAND_F9_CITADEL"
 msgstr "Defend Fort!"
@@ -853,7 +853,7 @@ msgid "HUD_DESCRIPTION_SECTOR_MILITARYBASE_1"
 msgstr "向鄰近分區地面目標發射<font color='#e5a82e'>火箭</font>"
 
 msgid "HUD_DESCRIPTION_SECTOR_RUNWAY"
-msgstr "為增援戰機進入任務區域的地點"
+msgstr "增援戰機進入任務區域的地點"
 
 msgid "HUD_DESCRIPTION_SECTOR_RUNWAY_1"
 msgstr "可被選為新戰機的<font color='#e5a82e'>出生點</font>"
@@ -1100,7 +1100,7 @@ msgid "HUD_EVENT_OUR_SPAWN_POINT_MOVED"
 msgstr "Our reinforcements have advanced towards the front line"
 
 msgid "HUD_EVENT_PROTECT"
-msgstr "Need cover!"
+msgstr "Group needs cover!"
 
 msgid "HUD_EVENT_PROTECT_DESCRIPTION"
 msgstr "The bomber group is approaching the front line"
@@ -1286,7 +1286,7 @@ msgid "HUD_GAME_TYPE_NAME_ATTRITION"
 msgstr "Attrition"
 
 msgid "HUD_GAME_TYPE_NAME_ESCORT"
-msgstr "Escort"
+msgstr "Bomber Escort"
 
 msgid "HUD_GAME_TYPE_NAME_INVASION"
 msgstr "Invasion"
@@ -1367,7 +1367,7 @@ msgstr ""
 "Destroying enemy aircraft also contributes to speedy capture."
 
 msgid "HUD_GENERAL_TIP_GAMEMOD_8"
-msgstr "Personal points are earned for being actively involved in the action."
+msgstr "積極參與行動可獲得個人積分。"
 
 msgid "HUD_GENERAL_TIP_GAMEMOD_9"
 msgstr ""
@@ -2279,7 +2279,7 @@ msgid "HUD_PERSONAL_SCORE"
 msgstr "個人得分"
 
 msgid "HUD_PERSONAL_SCORE_RECEIVED"
-msgstr "Personal points received"
+msgstr "收到個人積分"
 
 msgid "HUD_PING"
 msgstr "ping:"
@@ -2373,9 +2373,6 @@ msgstr "準備中:"
 
 msgid "HUD_PREPARE_1"
 msgstr "準備中:"
-
-msgid "HUD_PRESS_BUTTON_FOR_BOMB_AND_ROCKETS_RELOAD"
-msgstr "Click {button} to reload"
 
 msgid "HUD_PREVIOUS_TARGET"
 msgstr "Switch to Previous Ally"
@@ -2880,7 +2877,7 @@ msgid "HUD_SCALE_REINFORCEMENTS_UNAVAILABLE"
 msgstr "Reinforcements are unavailable"
 
 msgid "HUD_SECTORS_CAPTURED"
-msgstr "Sectors captured"
+msgstr "部門被捕獲"
 
 msgid "HUD_SECTOR_ARMORED"
 msgstr "Fortified sector"
@@ -2929,8 +2926,8 @@ msgstr "備有少量高射砲，但被大量的戰鬥機防守著。"
 
 msgid "HUD_SECTOR_DESCRIPTION_DEF_COMMANDCENTER_MAIN"
 msgstr ""
-"Equipped with an extensive anti-aircraft defense system and protected by "
-"light fighters."
+"Equipped with a powerful anti-aircraft defense system and protected by light "
+"fighters."
 
 msgid "HUD_SECTOR_DESCRIPTION_DEF_FIELDCAMP_ALT"
 msgstr "被不同的高射砲和戰鬥機良好的防守著。"
@@ -3093,7 +3090,7 @@ msgid "HUD_TEST_FLIGHT_TIP-3"
 msgstr "Aircraft cannot be changed in a test battle"
 
 msgid "HUD_TIME_LEFT_TO_REACH_POINT"
-msgstr "Group's target:"
+msgstr "Reaches target in:"
 
 msgid "HUD_TIME_LEFT_TO_REPAIR_TURRET"
 msgstr "Turret will become operational in {SS}"
@@ -3147,10 +3144,10 @@ msgid "HUD_TIPS_GAMEMOD_CONQUEST"
 msgstr "Game Mode \"Conquest\""
 
 msgid "HUD_TIPS_GAMEMOD_ESCORT"
-msgstr "Game mode \"Escort\""
+msgstr "Game Mode \"Bomber Escort\""
 
 msgid "HUD_TIPS_GAMEMOD_INVASION"
-msgstr "Game mode \"Invasion\""
+msgstr "Game Mode \"Invasion\""
 
 msgid "HUD_TIPS_HEAVY_FIGHTERS"
 msgstr "HEAVY FIGHTERS"
@@ -3166,7 +3163,7 @@ msgstr ""
 "To win a battle, capture all enemy sectors during a limited period of time"
 
 msgid "HUD_TIPS_HOW_TO_PLAY_ATTACK_2"
-msgstr "The enemy cannot recapture sectors captured by your combat group"
+msgstr "敵人無法重新獲得戰鬥群捕獲的部隊"
 
 msgid "HUD_TIPS_HOW_TO_PLAY_ATTACK_3"
 msgstr "Capturing a sector gives extra time to attack"
@@ -3261,7 +3258,7 @@ msgstr ""
 "is over"
 
 msgid "HUD_TIPS_HOW_TO_PLAY_DEFENCE_2"
-msgstr "You cannot recapture sectors captured by the enemy"
+msgstr "你無法奪回敵人所捕獲的部分"
 
 msgid "HUD_TIPS_HOW_TO_PLAY_DEFENCE_3"
 msgstr "Capturing a sector gives the enemy extra time to attack"
@@ -3307,7 +3304,9 @@ msgid "HUD_TIPS_INFLUENCE_DESCRIPTION"
 msgstr "每 5 秒可獲得 3 點優勢點數"
 
 msgid "HUD_TIPS_MILITARYBASE_DESCRIPTION"
-msgstr "Launches rocket strikes on ground targets in nearby sectors"
+msgstr ""
+"Launches rocket strikes on the sector being attacked by the largest number "
+"of aircraft from the combat group"
 
 msgid "HUD_TIPS_MILITARYBASE_DESCRIPTION_2"
 msgstr ""
@@ -3407,7 +3406,7 @@ msgid "HUD_TOOLTIPS_AIRCRAFT_MODULE_TURRET"
 msgstr "砲塔"
 
 msgid "HUD_TOOLTIPS_AIRCRAFT_WITHOUT_CRIT_DMG"
-msgstr "No critical damage"
+msgstr "沒有嚴重的傷害"
 
 msgid "HUD_TOOLTIPS_AP-INCINERATINGBELT"
 msgstr "High-explosive incendiary belt"
@@ -4395,13 +4394,13 @@ msgid "UI_SPECTATOR_MODE_SWITCH_LMB_RMB"
 msgstr "單擊滑鼠右鍵或左鍵切換至觀察視角"
 
 msgid "UI_SPEEDO_KMH"
-msgstr "km/h"
+msgstr "km/h(公里/時)"
 
 msgid "UI_SPEEDO_KNT"
 msgstr "knots"
 
 msgid "UI_SPEEDO_MPH"
-msgstr "mph"
+msgstr "mph(英里)"
 
 msgid "UI_SUICIDE_ALLY_AIRCRAFT"
 msgstr "戰機墜毀"
@@ -4419,10 +4418,10 @@ msgid "UI_VARIO_FT"
 msgstr "ft"
 
 msgid "UI_VARIO_M"
-msgstr "m"
+msgstr "m(米)"
 
 msgid "UI_VARIO_METERS"
-msgstr "m"
+msgstr "m(米)"
 
 msgid "UI_WEAPONS_CHARGE"
 msgstr "不能攻擊: 機槍過熱"

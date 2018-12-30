@@ -260,7 +260,9 @@ msgstr ""
 "使用影像配置需移動滑鼠使飛機翻滾並按照要求持續進行翻滾。<br>• 使用縱軸調整翻"
 "轉姿勢。如果控制點在網格的頂部，飛機將進行翻滾或停止翻滾。如果處於底部，飛機"
 "將繼續沿指定方向翻轉。<br>• 橫軸表示游標與飛機飛行方向之間的角度。網格左側對"
-"應於較小的滑鼠操作，右側對應較大的操作。"
+"應於較小的滑鼠操作，右側對應較大的操作。<br>• The horizontal axis represents "
+"the angle between the cursor and ai\"If at the bottom, the aircraft "
+"continues rolling in the specified direction."
 
 msgid "CUSTOM"
 msgstr "自訂"
@@ -446,13 +448,13 @@ msgid "KEYMAPPING/CMD_BATTLE_MODE"
 msgstr "掃射模式"
 
 msgid "KEYMAPPING/CMD_BOMBER_MODE"
-msgstr "Switch to Bombing Mode"
+msgstr "切換到轟炸模式"
 
 msgid "KEYMAPPING/CMD_BOMBING_SIGHT"
-msgstr "投彈模式"
+msgstr "切換到Bombsight模式"
 
 msgid "KEYMAPPING/CMD_BOMB_AND_ROCKETS_RELOAD"
-msgstr "Reload bombs and rockets"
+msgstr "重新加載炸彈和火箭"
 
 msgid "KEYMAPPING/CMD_CHAT_OFF"
 msgstr "禁用聊天"
@@ -461,7 +463,7 @@ msgid "KEYMAPPING/CMD_CURSOR_CAMERA"
 msgstr "自由視角"
 
 msgid "KEYMAPPING/CMD_DANGEROUS_TARGET"
-msgstr "Lock Dangerous Enemy"
+msgstr "鎖定危險的敵人"
 
 msgid "KEYMAPPING/CMD_DECREASE_FORCE"
 msgstr "關閉引擎和開啟襟翼"
@@ -524,7 +526,7 @@ msgid "KEYMAPPING/CMD_FRONT_VIEW"
 msgstr "視角向前"
 
 msgid "KEYMAPPING/CMD_GUNNER_MODE"
-msgstr "Switch to Turret Control Mode"
+msgstr "切換到砲塔控制模式"
 
 msgid "KEYMAPPING/CMD_HELP"
 msgstr "幫助"
@@ -575,7 +577,7 @@ msgid "KEYMAPPING/CMD_MINIMAP_ZOOM_OUT"
 msgstr "放大雷達"
 
 msgid "KEYMAPPING/CMD_NEAREST_TARGET"
-msgstr "Lock Nearest Target"
+msgstr "鎖定最近的目標"
 
 msgid "KEYMAPPING/CMD_NEXT_MOUSE_PRESET"
 msgstr "切換控制模式"
@@ -710,10 +712,10 @@ msgid "KEYMAPPING/CMD_USE_EQUIPMENT_3"
 msgstr "消耗品3"
 
 msgid "KEYMAPPING/CMD_USE_EQUIPMENT_4"
-msgstr "Consumable 4"
+msgstr "消耗品4"
 
 msgid "KEYMAPPING/CMD_USE_EQUIPMENT_5"
-msgstr "Consumable 5"
+msgstr "消耗品5"
 
 msgid "KEYMAPPING/CMD_WEAPON_GROUP_1"
 msgstr "機槍射擊"
@@ -809,7 +811,7 @@ msgid "POINT"
 msgstr "單線性"
 
 msgid "POPULAR_GAMEPAD_LOGITECH_F310"
-msgstr "Logitech F310"
+msgstr "羅技 F310"
 
 msgid "POPULAR_GAMEPAD_PLAYSTATION_2"
 msgstr "Playstation"
@@ -821,7 +823,7 @@ msgid "POPULAR_GAMEPAD_XBOX_360"
 msgstr "Xbox 360"
 
 msgid "POPULAR_JOYSTICK_LOGITECH_ATTACK_3_JOYSTICK"
-msgstr "Logitech Attack 3 Joystick"
+msgstr "羅技 Attack 3 Joystick"
 
 msgid "POPULAR_JOYSTICK_LOGITECH_EXTREME_3D_PRO"
 msgstr "賽鈦客(Saitek) AV8R_01"
@@ -931,7 +933,7 @@ msgid "SETTINGS_AIR_HORIZON"
 msgstr "姿態指示器"
 
 msgid "SETTINGS_ALIGNMENT_SPEED"
-msgstr "Level-Off Rate"
+msgstr "平穩率"
 
 msgid "SETTINGS_ALTIMETER_DROPDOWN_MENU_VARIANT_BARO"
 msgstr "絕對高度"
@@ -943,7 +945,7 @@ msgid "SETTINGS_ALTIMETER_DROPDOWN_MENU_VARIANT_RADIO"
 msgstr "相對高度"
 
 msgid "SETTINGS_ALTMODE"
-msgstr "On pressing Alt"
+msgstr "按Alt鍵"
 
 msgid "SETTINGS_ANTIALIAS"
 msgstr "反鋸齒"
@@ -952,12 +954,10 @@ msgid "SETTINGS_APPLY_BUTTON"
 msgstr "套用"
 
 msgid "SETTINGS_ASSIGN_AXIS"
-msgstr "Assign an axis:"
+msgstr "分配軸："
 
 msgid "SETTINGS_ATTENTION_DO_NOT_RECOMMEND_FOR_BEGINNERS"
-msgstr ""
-"Warning! Changing default settings may result in difficulties in piloting "
-"your aircraft and may require greater control."
+msgstr "“警告！更改默認設置可能會導致駕駛飛機出現困難，並可能需要更好的控制。”"
 
 msgid "SETTINGS_AUTOMATIC_FLAPS"
 msgstr "自動襟翼"
@@ -966,7 +966,7 @@ msgid "SETTINGS_AUTO_DETECTION"
 msgstr "自動檢測"
 
 msgid "SETTINGS_AVIADEVICES"
-msgstr "Flight Instruments"
+msgstr "飛行儀器"
 
 msgid "SETTINGS_BACKGROUND_OPTION_AIRFIELD"
 msgstr "停機坪"
@@ -978,13 +978,13 @@ msgid "SETTINGS_BACKGROUND_OPTION_HANGAR"
 msgstr "機庫"
 
 msgid "SETTINGS_BACKGROUND_OPTION_HANGAR_BEACH"
-msgstr "Beach"
+msgstr "Beach 海灘"
 
 msgid "SETTINGS_BACKGROUND_OPTION_HANGAR_CASTLE"
-msgstr "Castle"
+msgstr "Castle 城堡"
 
 msgid "SETTINGS_BACKGROUND_OPTION_HANGAR_FACTORY"
-msgstr "Factory"
+msgstr "Factory 工廠"
 
 msgid "SETTINGS_BASIC"
 msgstr "基本控制"
@@ -1098,7 +1098,9 @@ msgid "SETTINGS_BATTLE_TARGET_WINDOW"
 msgstr "目標鎖定視窗"
 
 msgid "SETTINGS_BATTLE_TOOLTIP_ADDITIONAL_INSTRUMENTS"
-msgstr "<b>主要儀器</b><br/>顯示飛機油門位置, 提高可用性：速度的提升或者下降"
+msgstr ""
+"<b>主要儀器</b><br/>顯示飛機油門位置, 提高可用性：速度的提升或者下降"
+"availability, and rate of climb or descent."
 
 msgid "SETTINGS_BATTLE_TOOLTIP_ALTIMETR"
 msgstr "<b>高度表</b><br/>顯示飛機的高度"
@@ -1194,7 +1196,7 @@ msgid "SETTINGS_CAMERA_ALIGN_DELAY"
 msgstr "* 視角改平延遲："
 
 msgid "SETTINGS_CAMERA_EFFECTS"
-msgstr "Camera Effects"
+msgstr "相機效果"
 
 msgid "SETTINGS_CAMERA_EFFECTS_CHECKBOX"
 msgstr "啟用攝像效果"
@@ -1272,7 +1274,7 @@ msgid "SETTINGS_CHECKBOX_RESPONSE_INCREASE"
 msgstr "啟用遊戲客戶端控制處理"
 
 msgid "SETTINGS_CHECKBOX_ROTATE_PLAYER_MINIMAP_FIXED"
-msgstr "Rotate player marker (map pinned)"
+msgstr "旋轉玩家標記 (地圖標記固定)"
 
 msgid "SETTINGS_CHECKBOX_SAFE_ROLL_ON_LOW_ALTITUDE"
 msgstr "低空限制轉向角度"
@@ -1290,10 +1292,10 @@ msgid "SETTINGS_CHECKBOX_SHOW_HP_AND_BOOST"
 msgstr "生命值和增壓指示器"
 
 msgid "SETTINGS_CHECKBOX_SHOW_ROLL_HORIZON"
-msgstr "Show horizon bank"
+msgstr "地平線不與飛機同時進行 "
 
 msgid "SETTINGS_CHECKBOX_SHOW_ROLL_PLANE"
-msgstr "Show aircraft bank"
+msgstr "地平線與飛機平行"
 
 msgid "SETTINGS_CHECKBOX_SIGNAL_WHEN_IN_EFFECTIVE_RANGE"
 msgstr "顯示最佳射擊範圍"
@@ -1398,7 +1400,7 @@ msgid "SETTINGS_DROPDOWN_MENU_VARIANT_IRON_SIGHT"
 msgstr "游標"
 
 msgid "SETTINGS_DROP_BOMBS_BOMBER_MODE"
-msgstr "Drop bombs in bombing mode"
+msgstr "在轟炸模式下投下炸彈"
 
 msgid "SETTINGS_EDGE_DETECT_AA"
 msgstr "邊緣檢測AA"
@@ -1413,7 +1415,7 @@ msgid "SETTINGS_FIRE"
 msgstr "射擊"
 
 msgid "SETTINGS_FLAPS"
-msgstr "Extend Flaps"
+msgstr "延長襟翼"
 
 msgid "SETTINGS_FLIGHT"
 msgstr "飛行"
@@ -1898,10 +1900,10 @@ msgid "SETTINGS_HEADER_YAW_PITCH"
 msgstr "偏轉 / 程度"
 
 msgid "SETTINGS_HIDE_ALTERNATIVE_HUD"
-msgstr "To view the interface in the standard mode, release {key}"
+msgstr "要在標準模式下查看界面，請釋放 {key}"
 
 msgid "SETTINGS_HIGHT_SCALE"
-msgstr "Altimeter"
+msgstr "高度表"
 
 msgid "SETTINGS_HORIZONTAL"
 msgstr "水平靈敏度"
@@ -1919,13 +1921,13 @@ msgid "SETTINGS_HUD"
 msgstr "戰鬥"
 
 msgid "SETTINGS_INFO_ABOUT_ENEMY"
-msgstr "Details about enemies"
+msgstr "有關敵人的詳細信息"
 
 msgid "SETTINGS_INFO_ABOUT_PLANE_CONSUMABLES_TIPS-ECT"
-msgstr "Details about aircraft"
+msgstr "飛機詳情"
 
 msgid "SETTINGS_INFO_ABOUT_SECTORS-ECT"
-msgstr "Details about game mode markers"
+msgstr "遊戲模式標記的詳細信息"
 
 msgid "SETTINGS_INTERFACE_ADDITIONAL_SETTINGS"
 msgstr "更多"
@@ -2159,43 +2161,43 @@ msgid "SETTINGS_MARKERS_5-SCOPE"
 msgstr "Reticle 5"
 
 msgid "SETTINGS_MARKERS_AA_RADIUS"
-msgstr "AA gun range"
+msgstr "AA槍系列"
 
 msgid "SETTINGS_MARKERS_ALLY_PLACE_OF_DEATH"
-msgstr "Destroyed ally location"
+msgstr "被摧毀的盟友位置"
 
 msgid "SETTINGS_MARKERS_ALL_POINTS"
-msgstr "Total number of points earned"
+msgstr "獲得的總分數"
 
 msgid "SETTINGS_MARKERS_ALTIMETER_HIGHT_SCALE"
-msgstr "Altimeter"
+msgstr "高度表"
 
 msgid "SETTINGS_MARKERS_ALTIMETER_TYPE"
-msgstr "Altimeter type"
+msgstr "高度計類型"
 
 msgid "SETTINGS_MARKERS_ALTMODE"
-msgstr "On pressing Alt"
+msgstr "按Alt鍵"
 
 msgid "SETTINGS_MARKERS_ALWAYS"
-msgstr "Always"
+msgstr "總是"
 
 msgid "SETTINGS_MARKERS_AMOUNT_AND_CALIBER_WEAPONS"
-msgstr "Number and caliber of guns"
+msgstr "槍支的數量和口徑"
 
 msgid "SETTINGS_MARKERS_AMOUNT_BOOST_AT_THIS_MOMENT"
-msgstr "Boost points (current value)"
+msgstr "提升點數 (current value)"
 
 msgid "SETTINGS_MARKERS_AMOUNT_BOOST_IN_MAX"
-msgstr "Boost points (maximum value)"
+msgstr "提升點數 (maximum value)"
 
 msgid "SETTINGS_MARKERS_AMOUNT_HP_AT_THIS_MOMENT"
-msgstr "Hit points (current value)"
+msgstr "命中率 (current value)"
 
 msgid "SETTINGS_MARKERS_AMOUNT_HP_IN_MAX"
-msgstr "Hit points (maximum value)"
+msgstr "命中率 (maximum value)"
 
 msgid "SETTINGS_MARKERS_AMOUNT_POINTS"
-msgstr "Number of points earned"
+msgstr "獲得的積分數"
 
 msgid "SETTINGS_MARKERS_APPLY_ALL"
 msgstr "套用於所有戰機"
@@ -2204,142 +2206,142 @@ msgid "SETTINGS_MARKERS_APPLY_TO_CLASS"
 msgstr "套用於指定戰機:"
 
 msgid "SETTINGS_MARKERS_ARROWS_DEFENDERS"
-msgstr "Air defense aircraft arrow icons"
+msgstr "防空飛機箭頭圖標"
 
 msgid "SETTINGS_MARKERS_ARROWS_PLANE"
-msgstr "Aircraft arrow icons"
+msgstr "飛機箭頭圖標"
 
 msgid "SETTINGS_MARKERS_ARROW_IN_CENTER_AND_EDGES_SCREEN"
-msgstr "Arrows in the center and at the edge of the screen"
+msgstr "箭頭位於屏幕中央和邊緣"
 
 msgid "SETTINGS_MARKERS_BANNERS"
-msgstr "Achievement notifications"
+msgstr "成就通知"
 
 msgid "SETTINGS_MARKERS_BATTLELOG_NUMERAL"
-msgstr "Numbers in battle log"
+msgstr "戰鬥日誌中的數字"
 
 msgid "SETTINGS_MARKERS_BATTLELOG_TEXTS"
-msgstr "Text in battle log"
+msgstr "戰鬥日誌中的文字"
 
 msgid "SETTINGS_MARKERS_BATTLE_COMANDS"
-msgstr "Battle commands"
+msgstr "戰鬥命令"
 
 msgid "SETTINGS_MARKERS_BATTLE_EVENTS"
-msgstr "Battle events"
+msgstr "戰鬥事件"
 
 msgid "SETTINGS_MARKERS_BATTLE_RECOMENDATIONS"
-msgstr "Battle recommendations"
+msgstr "戰鬥建議"
 
 msgid "SETTINGS_MARKERS_BATTLE_RECOMENDATIONS_ICONS"
-msgstr "Icons for battle recommendations"
+msgstr "戰鬥建議的圖標"
 
 msgid "SETTINGS_MARKERS_BIG_CALIBER_GUN"
-msgstr "Large-caliber autocannon"
+msgstr "大口徑自動炮"
 
 msgid "SETTINGS_MARKERS_BIG_SIZE"
-msgstr "Large"
+msgstr "Large(量大)"
 
 msgid "SETTINGS_MARKERS_BLOCK_CURRENT_SECTOR_HEADER"
-msgstr "Current sector"
+msgstr "目前的分區"
 
 msgid "SETTINGS_MARKERS_BLOCK_INFO_ABOUT_PLANE_HEADER"
-msgstr "Aircraft Details"
+msgstr "飛機細節"
 
 msgid "SETTINGS_MARKERS_BLOCK_MARKERS_NEAR_CORNER_ON_MONITOR_HEADER"
-msgstr "Pointers at aircraft"
+msgstr "飛機上的指針"
 
 msgid "SETTINGS_MARKERS_BLOCK_MARKERS_RADAR_SETTINGS_HEADER"
-msgstr "Radar settings"
+msgstr "雷達設置"
 
 msgid "SETTINGS_MARKERS_BLOCK_MINIMAP_HEADER"
-msgstr "Minimap"
+msgstr "小地圖"
 
 msgid "SETTINGS_MARKERS_BLOCK_PERSONAL_BATTLE_ACTIONS_HEADER"
-msgstr "Personal combat actions"
+msgstr "個人戰鬥行動"
 
 msgid "SETTINGS_MARKERS_BLOCK_SCALE_INFLUENCE_HEADER"
-msgstr "Resource bar"
+msgstr "資源欄"
 
 msgid "SETTINGS_MARKERS_BLOCK_SENSORS_ABOUT_ALTITUDE_SPEED_BOOST_HP_HEADER"
-msgstr "Sensors: flight instruments and hit points"
+msgstr "傳感器：飛行儀器和生命值"
 
 msgid "SETTINGS_MARKERS_BLOCK_SPEED_CONNECTION_AND_TIPS_HEADER"
-msgstr "Connection speed and hints"
+msgstr "連接速度和提示"
 
 msgid "SETTINGS_MARKERS_BLOCK_SYSTEM_MESSAGES_HEADER"
-msgstr "Warning system"
+msgstr "警告系統"
 
 msgid "SETTINGS_MARKERS_BLOCK_TIMER_LESS_THAN"
-msgstr "Sector effect timer (less than 10 s)"
+msgstr "扇形效應計時器 (less than 10 s)"
 
 msgid "SETTINGS_MARKERS_BLOCK_TIMER_SECTOR"
-msgstr "Locked sector timer (less than 10 s)"
+msgstr "鎖定扇區計時器 (less than 10 s)"
 
 msgid "SETTINGS_MARKERS_BOMBS"
-msgstr "Bombs"
+msgstr "炸彈"
 
 msgid "SETTINGS_MARKERS_BOMBS_AMOUNT_IN_SALVO"
-msgstr "Number of bombs per drop"
+msgstr "每一次投彈數量"
 
 msgid "SETTINGS_MARKERS_BOMB_AND_ROCKETS"
-msgstr "Bombs and Rockets"
+msgstr "炸彈和火箭"
 
 msgid "SETTINGS_MARKERS_BOMB_AND_ROCKETS_AMOUNT"
-msgstr "Number of bombs per drop/rockets per launch"
+msgstr "每次發射的炸彈/火箭數量"
 
 msgid "SETTINGS_MARKERS_BOMB_AND_ROCKETS_KEYS"
-msgstr "Bomb drop / Rocket launch key"
+msgstr "投射炸彈/火箭發射鍵"
 
 msgid "SETTINGS_MARKERS_BOMB_AND_ROCKET_TYPE"
-msgstr "Bomb and rocket type"
+msgstr "炸彈和火箭類型"
 
 msgid "SETTINGS_MARKERS_BOMB_TYPE"
-msgstr "Bomb type"
+msgstr "炸彈類型"
 
 msgid "SETTINGS_MARKERS_BOOST"
-msgstr "Boost"
+msgstr "增壓"
 
 msgid "SETTINGS_MARKERS_BOOST_IN_WORK"
-msgstr "Boost activation"
+msgstr "已啟動增壓"
 
 msgid "SETTINGS_MARKERS_BY_ALLY"
-msgstr "By allies"
+msgstr "通過盟友"
 
 msgid "SETTINGS_MARKERS_BY_ENEMY"
-msgstr "By the enemy"
+msgstr "由敵人造成"
 
 msgid "SETTINGS_MARKERS_BY_ME"
-msgstr "By my aircraft"
+msgstr "靠我的飛機"
 
 msgid "SETTINGS_MARKERS_BY_MY_WING_PARTNER"
-msgstr "By my Flight mate"
+msgstr "由我的飛行伴侶"
 
 msgid "SETTINGS_MARKERS_CAMERA_POSITION"
-msgstr "Camera view"
+msgstr "相機視圖"
 
 msgid "SETTINGS_MARKERS_CAPTURE_POINTS"
-msgstr "Capture points"
+msgstr "佔領點數"
 
 msgid "SETTINGS_MARKERS_CD_TIMER_BOMBS"
-msgstr "Bomb replenishment timer"
+msgstr "炸彈補給計時器"
 
 msgid "SETTINGS_MARKERS_CD_TIMER_BOMBS_ROKETS"
-msgstr "Bomb and rocket replenishment timer"
+msgstr "炸彈和火箭補給計時器"
 
 msgid "SETTINGS_MARKERS_CHECKBOX_DISTANCE_CHOOSE_TARGET"
-msgstr "Target selection range"
+msgstr "目標選擇範圍"
 
 msgid "SETTINGS_MARKERS_CHECKBOX_DISTANCE_FAR_AWAY"
-msgstr "Ineffective range"
+msgstr "範圍無效"
 
 msgid "SETTINGS_MARKERS_CHECKBOX_DISTANCE_SHOOTING"
-msgstr "Firing range"
+msgstr "射擊範圍"
 
 msgid "SETTINGS_MARKERS_CHECKBOX_SHOW_DEFENDERS"
-msgstr "Show air defense aircraft detected by allies"
+msgstr "顯示盟友發現的防空飛機"
 
 msgid "SETTINGS_MARKERS_CIRCLE_MOVEMENT_ARROWS"
-msgstr "Arrow movement circle"
+msgstr "箭頭運動圈"
 
 msgid "SETTINGS_MARKERS_COMBOBOX_ALWAYS_OPAQUE"
 msgstr "始終不透明"
@@ -2393,25 +2395,25 @@ msgid "SETTINGS_MARKERS_COMBOBOX_TINY"
 msgstr "小"
 
 msgid "SETTINGS_MARKERS_COMPLEX_BORDER"
-msgstr "Sector borders"
+msgstr "分區邊界"
 
 msgid "SETTINGS_MARKERS_COMPLEX_INFLUENCE"
-msgstr "Sector influence gain"
+msgstr "因據點影響而獲得"
 
 msgid "SETTINGS_MARKERS_COMPLEX_PROPERTY_BLOCKING"
-msgstr "Locked sector property"
+msgstr "鎖定的分區財產"
 
 msgid "SETTINGS_MARKERS_COMPLEX_TACTICAL_MARCERS_IN_WORLD_HEADER"
-msgstr "Tactical markers on the arena"
+msgstr "競技場上的戰術標記"
 
 msgid "SETTINGS_MARKERS_CONSUMABLES_AMOUNT"
-msgstr "Number of consumables"
+msgstr "消耗品數量"
 
 msgid "SETTINGS_MARKERS_CONSUMABLES_INACTIVE"
-msgstr "Inactive consumables"
+msgstr "非活動消耗品"
 
 msgid "SETTINGS_MARKERS_CONSUMABLES_KEYS"
-msgstr "Keys for consumables"
+msgstr "消耗品鑰匙"
 
 msgid "SETTINGS_MARKERS_CONTEXT_ALTITUDE_TYPE"
 msgstr "海拔高度顯示類型"
@@ -2498,27 +2500,25 @@ msgid "SETTINGS_MARKERS_CONTEXT_TARGETS"
 msgstr "目標:"
 
 msgid "SETTINGS_MARKERS_DEFENDERS_IN_ZONE"
-msgstr "Air defense aircraft within target selection range"
+msgstr "防空飛機在目標選擇範圍內"
 
 msgid "SETTINGS_MARKERS_DEFENDERS_OUT_OF_ZONE"
-msgstr "Air defense aircraft out of target selection range"
+msgstr "防空飛機超出目標選擇範圍"
 
 msgid "SETTINGS_MARKERS_DEFINE_MARKERS_MODE"
 msgstr "標誌方式:"
 
 msgid "SETTINGS_MARKERS_DESCRIPTION_HUD"
-msgstr ""
-"Here you can adjust the appearance and display of elements of the battle "
-"interface."
+msgstr "在這裡您可以調整戰鬥界面元素的外觀和顯示。"
 
 msgid "SETTINGS_MARKERS_DESCRIPTION_PROPERTY"
-msgstr "Description of property"
+msgstr "性能說明"
 
 msgid "SETTINGS_MARKERS_DEV_VER"
-msgstr "Dev Settings Version"
+msgstr "開發設置版本"
 
 msgid "SETTINGS_MARKERS_DIAMETER_NUMBER_AREA"
-msgstr "Visible area radius numbers"
+msgstr "可見區域半徑數"
 
 msgid "SETTINGS_MARKERS_DISPLAY_RANGE"
 msgstr "預測距離, 米:"
@@ -2527,106 +2527,106 @@ msgid "SETTINGS_MARKERS_DISPLAY_RANGE_FT"
 msgstr "預測距離: 英尺:"
 
 msgid "SETTINGS_MARKERS_DISTANCE_TO_AIRCRAFT"
-msgstr "Range to aircraft"
+msgstr "飛機範圍"
 
 msgid "SETTINGS_MARKERS_DISTANCE_TO_COMPLEX"
-msgstr "Range to sector"
+msgstr "範圍到分區"
 
 msgid "SETTINGS_MARKERS_EFFECT_TIMER"
-msgstr "Point accumulation timer"
+msgstr "點累計定時器"
 
 msgid "SETTINGS_MARKERS_FAST_COMMAND"
-msgstr "Chat Shortcuts"
+msgstr "聊天快捷方式"
 
 msgid "SETTINGS_MARKERS_FIRE_DISTANCE"
-msgstr "Range of fire"
+msgstr "火的範圍"
 
 msgid "SETTINGS_MARKERS_FLIGHT_DIRECTION"
-msgstr "Flight direction"
+msgstr "飛行方向"
 
 msgid "SETTINGS_MARKERS_FPS_PING_PACKET_LOSS"
-msgstr "FPS, Ping, Packet loss"
+msgstr "每秒畫面數,輸入網路位址, 封包損失"
 
 msgid "SETTINGS_MARKERS_GAME_EVENT_AND_MESSAGES"
-msgstr "Game events and notifications"
+msgstr "遊戲事件和通知"
 
 msgid "SETTINGS_MARKERS_GROUND_OBJECTS"
-msgstr "Ground objects"
+msgstr "地面物體"
 
 msgid "SETTINGS_MARKERS_HEADER_APPLY_SETTINGS"
 msgstr "套用設定"
 
 msgid "SETTINGS_MARKERS_HEAVY_GUN"
-msgstr "Heavy autocannon"
+msgstr "重型自動炮"
 
 msgid "SETTINGS_MARKERS_HIGHT_CEILING"
-msgstr "Flight ceiling"
+msgstr "飛行最高度"
 
 msgid "SETTINGS_MARKERS_HIGHT_NUMBER"
-msgstr "Airspeed indicator readings"
+msgstr "空速指示讀數"
 
 msgid "SETTINGS_MARKERS_HP_DETAILED"
-msgstr "Detailed HP bar"
+msgstr "詳細的HP欄"
 
 msgid "SETTINGS_MARKERS_I"
-msgstr "By my aircraft"
+msgstr "靠我的飛機"
 
 msgid "SETTINGS_MARKERS_ICONS_CLASSES_DEFENDERS"
-msgstr "Air defense aircraft type icons"
+msgstr "防空飛機類型圖標"
 
 msgid "SETTINGS_MARKERS_ICONS_CLASSES_PLANE"
-msgstr "Aircraft type icons"
+msgstr "飛機類型圖標"
 
 msgid "SETTINGS_MARKERS_ICON_COMPLEX_BLOKED"
-msgstr "Locked sector icon"
+msgstr "鎖定扇形面圖標"
 
 msgid "SETTINGS_MARKERS_ICON_COMPLEX_UNDER_ATTACK"
-msgstr "\"Sector under attack\" icon"
+msgstr "“受到攻擊的分區”圖標"
 
 msgid "SETTINGS_MARKERS_ICON_DEFENDER_EDGES"
-msgstr "Air defense aircraft icons at the edge of the screen"
+msgstr "防空飛機圖標在屏幕的邊緣"
 
 msgid "SETTINGS_MARKERS_ICON_EVENT"
-msgstr "Event icon"
+msgstr "事件圖標"
 
 msgid "SETTINGS_MARKERS_ICON_MESSAGES_FOR_SCALES"
-msgstr "Icons and bar captions"
+msgstr "圖標和條形圖標"
 
 msgid "SETTINGS_MARKERS_ICON_PLAYERS_PLANE_EDGES"
-msgstr "Player aircraft icons at the edge of the screen"
+msgstr "播放器飛機圖標在屏幕的邊緣"
 
 msgid "SETTINGS_MARKERS_ICON_PLAYER_PLANE"
-msgstr "Player aircraft arrow icon"
+msgstr "飛行員飛機箭頭圖標"
 
 msgid "SETTINGS_MARKERS_ICON_PROPERTY"
-msgstr "Property icon"
+msgstr "屬性圖標"
 
 msgid "SETTINGS_MARKERS_ICON_SECTOR_EDGES"
-msgstr "Sector icons at the edge of the screen"
+msgstr "屏幕邊緣的扇區圖標"
 
 msgid "SETTINGS_MARKERS_ICON_WING_BOMBERS_EDGES"
-msgstr "Flight of bombers icon at the edge of the screen"
+msgstr "在屏幕邊緣飛行的轟炸機圖標"
 
 msgid "SETTINGS_MARKERS_INFLUENCE_POINTS"
-msgstr "Resources"
+msgstr "資源"
 
 msgid "SETTINGS_MARKERS_IN_CENTER"
-msgstr "In the center"
+msgstr "在中心"
 
 msgid "SETTINGS_MARKERS_IN_USE_IN_CD"
-msgstr "When activated and during cooldown"
+msgstr "激活時和冷卻時"
 
 msgid "SETTINGS_MARKERS_KEY_FOR_BOMB_DROP"
-msgstr "Bomb drop key"
+msgstr "投炸彈按鍵"
 
 msgid "SETTINGS_MARKERS_KILL_DEFENDER"
-msgstr "Destruction of Air Defense Aircraft"
+msgstr "破壞防空飛機"
 
 msgid "SETTINGS_MARKERS_MASHINEGUN"
 msgstr "機槍"
 
 msgid "SETTINGS_MARKERS_MEDIUM_SIZE"
-msgstr "Medium"
+msgstr "介質"
 
 msgid "SETTINGS_MARKERS_MESSAGES_DIAMETER_AREA"
 msgstr "「視野範圍」 說明"
@@ -2639,7 +2639,7 @@ msgstr ""
 "您目前的自訂設定將被預設模式: {template_name_list}所替換<br>確認套用新設定?"
 
 msgid "SETTINGS_MARKERS_MINIMUM"
-msgstr "Minimal"
+msgstr "最小"
 
 msgid "SETTINGS_MARKERS_MODE_ALT"
 msgstr "替換 (請按 {key} 鍵)"
@@ -2648,160 +2648,160 @@ msgid "SETTINGS_MARKERS_MODE_BASIC"
 msgstr "基礎"
 
 msgid "SETTINGS_MARKERS_MY_WING_PARTNER"
-msgstr "By my Flight mate"
+msgstr "-被我的僚機"
 
 msgid "SETTINGS_MARKERS_NAME_COMPLEX"
-msgstr "Sector name"
+msgstr "分區名稱"
 
 msgid "SETTINGS_MARKERS_NAME_PLANE"
-msgstr "Aircraft name"
+msgstr "飛機名稱"
 
 msgid "SETTINGS_MARKERS_NAME_PLAYER"
-msgstr "Player Name"
+msgstr "選手姓名"
 
 msgid "SETTINGS_MARKERS_NEVER"
-msgstr "Never"
+msgstr "決不"
 
 msgid "SETTINGS_MARKERS_ON_EDGES_SCREEN"
-msgstr "At the edge of the screen"
+msgstr "在屏幕的邊緣"
 
 msgid "SETTINGS_MARKERS_OVERHEATING_SCALE"
-msgstr "Weapon overheating bar"
+msgstr "武器過熱"
 
 msgid "SETTINGS_MARKERS_OVERHEATING_SCALE_ICON"
-msgstr "Weapon overheating icon"
+msgstr "武器過熱圖標"
 
 msgid "SETTINGS_MARKERS_PLANES_MODEL"
-msgstr "Aircraft models"
+msgstr "飛機模型"
 
 msgid "SETTINGS_MARKERS_PLANE_WEAPONS"
-msgstr "Aircraft weapons"
+msgstr "飛機武器"
 
 msgid "SETTINGS_MARKERS_PLAYERS_ARROW"
-msgstr "Players (arrow icons)"
+msgstr "玩家（箭頭圖標）"
 
 msgid "SETTINGS_MARKERS_PLAYERS_ICON_CLASS"
-msgstr "Players (aircraft type icons)"
+msgstr "玩家（飛機型圖標）"
 
 msgid "SETTINGS_MARKERS_POINTS_PER_TICK"
-msgstr "Points accumulated per tick"
+msgstr "每個刻度積累的積分"
 
 msgid "SETTINGS_MARKERS_POINT_HP_RESTORE"
-msgstr "Regeneration spot"
+msgstr "再生點"
 
 msgid "SETTINGS_MARKERS_QUICKFIRE_GUN"
-msgstr "Rapid-firing autocannon"
+msgstr "快速射擊自動炮"
 
 msgid "SETTINGS_MARKERS_RADAR_SIZE"
-msgstr "Size"
+msgstr "尺寸"
 
 msgid "SETTINGS_MARKERS_RADAR_ZOOM"
-msgstr "Radar zoom"
+msgstr "雷達變焦"
 
 msgid "SETTINGS_MARKERS_RADIUS_ENEMY_DETECTION"
-msgstr "Target selection range"
+msgstr "目標選擇範圍"
 
 msgid "SETTINGS_MARKERS_RADIUS_POINT_HP_RESTORE"
-msgstr "Regeneration spot range"
+msgstr "再生斑點範圍"
 
 msgid "SETTINGS_MARKERS_RANGE_OF_VIEW"
-msgstr "Radar range"
+msgstr "雷達範圍"
 
 msgid "SETTINGS_MARKERS_RESET_TO_DEFAULT"
 msgstr "重置為預設設定"
 
 msgid "SETTINGS_MARKERS_ROTATE_MAP_PIN_PLAYER"
-msgstr "Rotate map (player marker pinned)"
+msgstr "旋轉地圖 (飛行標記固定)"
 
 msgid "SETTINGS_MARKERS_ROTATE_PLAYER_PIN_MAP"
-msgstr "Rotate player marker (map pinned)"
+msgstr "旋轉玩家標記 (地圖標記固定)"
 
 msgid "SETTINGS_MARKERS_SCALE"
-msgstr "Scale"
+msgstr "規模"
 
 msgid "SETTINGS_MARKERS_SCALE_FOR_AVAILABLE_BOMB"
-msgstr "Available bombs bar"
+msgstr "可用炸彈數量"
 
 msgid "SETTINGS_MARKERS_SCALE_HP_BOOST"
-msgstr "HP and Boost bars"
+msgstr "加速表"
 
 msgid "SETTINGS_MARKERS_SCALE_PLANE_HEALTH"
-msgstr "Aircraft hit point bar"
+msgstr "飛機擊中點擊棒"
 
 msgid "SETTINGS_MARKERS_SCOPE"
-msgstr "Reticle"
+msgstr "光罩"
 
 msgid "SETTINGS_MARKERS_SECTOR_MESSAGES"
-msgstr "\"Current sector\" caption"
+msgstr "“當前分區”標題"
 
 msgid "SETTINGS_MARKERS_SELECTED_TARGET"
-msgstr "Selected target"
+msgstr "選定目標"
 
 msgid "SETTINGS_MARKERS_SENSORS_DIGITAL_GLASSES"
-msgstr "Digital sensor readings"
+msgstr "數字傳感器讀數"
 
 msgid "SETTINGS_MARKERS_SHOW"
-msgstr "Show"
+msgstr "顯示"
 
 msgid "SETTINGS_MARKERS_SHOW_ALTERNATIVE_HUD"
-msgstr "To view the interface in the alternative mode, press and hold {key}"
+msgstr "要在備用模式下查看界面，請按住 {key}"
 
 msgid "SETTINGS_MARKERS_SHOW_BOOST"
-msgstr "Show boost"
+msgstr "顯示提升"
 
 msgid "SETTINGS_MARKERS_SKILL_PILOT_INACTIVE"
-msgstr "Inactive pilot skills"
+msgstr "無效的飛行員技能"
 
 msgid "SETTINGS_MARKERS_SMALL_SIZE"
-msgstr "Small"
+msgstr "小"
 
 msgid "SETTINGS_MARKERS_SPEED_NUMBER"
-msgstr "Altimeter readings"
+msgstr "高度計讀數"
 
 msgid "SETTINGS_MARKERS_SPEED_SCALE"
-msgstr "Airspeed indicator"
+msgstr "空速指示器"
 
 msgid "SETTINGS_MARKERS_STALL_SPEED"
-msgstr "Stall speed"
+msgstr "失速速度"
 
 msgid "SETTINGS_MARKERS_START_POINT_RESPAWN"
 msgstr "出生/重生點"
 
 msgid "SETTINGS_MARKERS_TACTICAL_MARKER_COMPEX"
-msgstr "Tactical sector marker"
+msgstr "戰術分區標記"
 
 msgid "SETTINGS_MARKERS_TARGET_DISTANCE"
-msgstr "Range to target"
+msgstr "目標範圍"
 
 msgid "SETTINGS_MARKERS_TEMPLATE_NAME"
 msgstr "預設: {template_name}"
 
 msgid "SETTINGS_MARKERS_TEXT_BOOST"
-msgstr "\"Boost\" caption"
+msgstr "“提升”標題"
 
 msgid "SETTINGS_MARKERS_TEXT_HIGHT_CEILING"
-msgstr "\"Flight ceiling\" caption"
+msgstr "“飛行高度”標題"
 
 msgid "SETTINGS_MARKERS_TEXT_PLANE_HEALTH"
-msgstr "\"Aircraft HP\" caption"
+msgstr "“飛機HP”標題"
 
 msgid "SETTINGS_MARKERS_TEXT_STALL_SPEED"
-msgstr "\"Stall speed\" caption"
+msgstr "“失速速度”標題"
 
 msgid "SETTINGS_MARKERS_TIMER_COMPLEX_BLOKED"
-msgstr "Locked sector timer"
+msgstr "鎖定扇區計時器"
 
 msgid "SETTINGS_MARKERS_TIMER_PROPERTY"
-msgstr "Property timer"
+msgstr "屬性計時器"
 
 msgid "SETTINGS_MARKERS_TIPS_HOTKEYS"
-msgstr "Hotkey tips"
+msgstr "熱鍵提示"
 
 msgid "SETTINGS_MARKERS_TIPS_HOT_KEYS"
-msgstr "Hotkey tips"
+msgstr "熱鍵提示"
 
 msgid "SETTINGS_MARKERS_TIP_FOR_NEED_TO_DO"
-msgstr "Required action hint"
+msgstr "必需的操作提示"
 
 msgid "SETTINGS_MARKERS_TO_SEE_ALT_CONFIG"
 msgstr "檢視標識的替換樣式, 按住時"
@@ -2810,16 +2810,16 @@ msgid "SETTINGS_MARKERS_TO_SEE_BASE_CONFIG"
 msgstr "檢視標識的基本樣式, 鬆開時"
 
 msgid "SETTINGS_MARKERS_TYPE_ALTIMETER"
-msgstr "Altimeter type"
+msgstr "高度計類型"
 
 msgid "SETTINGS_MARKERS_VECTOR_INFLUENCE_COMPLEX"
-msgstr "Sector influence direction"
+msgstr "向量指標設定"
 
 msgid "SETTINGS_MARKERS_VIEW_MARKERS"
 msgstr "預覽標記"
 
 msgid "SETTINGS_MARKERS_WING_BOMBERS"
-msgstr "Flight of bombers"
+msgstr "轟炸機飛行"
 
 msgid "SETTINGS_MARKERS_ZOOM_CLOSE"
 msgstr "近"
@@ -2834,8 +2834,7 @@ msgid "SETTINGS_MAXIMAL"
 msgstr "最全"
 
 msgid "SETTINGS_MESSAGES_DESCRIPTION_CHANGE"
-msgstr ""
-"To configure the battle interface, hover over and select options on the left."
+msgstr "要配置戰鬥界面，請將鼠標懸停在左側並選擇選項。"
 
 msgid "SETTINGS_MESSAGE_BUTTON_ALREADY_ASSIGNED"
 msgstr "{button} 鍵已設定為 {function}，單擊 {apply_button} 重新進行設定"
@@ -3012,12 +3011,12 @@ msgid "SETTINGS_PRESS_A_KEY"
 msgstr "指派一個鍵"
 
 msgid "SETTINGS_RADAR"
-msgstr "Radar"
+msgstr "雷達"
 
 msgid "SETTINGS_RADAR_DESCRIPTION"
 msgstr ""
-"A radar has extended functional capabilities compared to the capabilities of "
-"a minimap and offers great help to aircraft engaging in aerial duels."
+"與小地圖的功能相比，雷達具有更強的功能，並為從事空中對決的飛機提供了極大的幫"
+"助。"
 
 msgid "SETTINGS_RECOMENDED"
 msgstr "基本設定"
@@ -3056,13 +3055,13 @@ msgid "SETTINGS_REPLAY_PATH_OPTION_CREATE"
 msgstr "建立"
 
 msgid "SETTINGS_ROLL_INDICATOR"
-msgstr "Bank indicator"
+msgstr "角度指示器"
 
 msgid "SETTINGS_ROTATE_RADAR-MINIMAP"
-msgstr "Rotate map (player marker pinned)"
+msgstr "旋轉地圖 (飛行員標記固定)"
 
 msgid "SETTINGS_SCREENSHOTS_SAVE_IN_FOLDER"
-msgstr "Path to the folder with screenshots"
+msgstr "帶有屏幕截圖的文件夾的路徑"
 
 msgid "SETTINGS_SCREEN_RESOLUTION"
 msgstr "螢幕解析度"
@@ -3074,28 +3073,28 @@ msgid "SETTINGS_SETTINGS_HEADER_SETTINGS_TO_DEFAULTS_CONFIRMATION"
 msgstr "恢復設定"
 
 msgid "SETTINGS_SHOOTING_REAR_GUNNER_MODE"
-msgstr "Fire in turret control mode"
+msgstr "在砲塔控制模式下開火"
 
 msgid "SETTINGS_SHOW"
-msgstr "Show"
+msgstr "顯示"
 
 msgid "SETTINGS_SHOW_ALL"
 msgstr "所有控制"
 
 msgid "SETTINGS_SHOW_AVIAHORIZON"
-msgstr "Show attitude indicator"
+msgstr "顯示姿態指示器"
 
 msgid "SETTINGS_SHOW_BATTLE_RECOMENDATIONS"
-msgstr "Battle recommendations"
+msgstr "戰鬥建議"
 
 msgid "SETTINGS_SHOW_FPS_PING"
-msgstr "FPS, ping, packet loss"
+msgstr "每秒畫面數,輸入網路位址, 封包損失"
 
 msgid "SETTINGS_SHOW_IGNORED"
 msgstr "顯示黑名單"
 
 msgid "SETTINGS_SHOW_TIPS_HOTKEYS"
-msgstr "Hotkey tips"
+msgstr "熱鍵提示"
 
 msgid "SETTINGS_SMALL"
 msgstr "簡化"
@@ -3164,16 +3163,16 @@ msgid "SETTINGS_SPEED_POINTER"
 msgstr "游標速度"
 
 msgid "SETTINGS_SPEED_SCALE"
-msgstr "Airspeed indicator"
+msgstr "空速指示器"
 
 msgid "SETTINGS_STANDART"
 msgstr "一般"
 
 msgid "SETTINGS_STANDART_MODE"
-msgstr "Standard mode"
+msgstr "標準模式"
 
 msgid "SETTINGS_STICK"
-msgstr "Stick Settings"
+msgstr "堅持設置"
 
 msgid "SETTINGS_STYLE_SWITCH_MOUSE"
 msgstr "選擇模式："
@@ -3224,7 +3223,7 @@ msgid "SETTINGS_TEAM_VOICE_CHAT_ENABLE"
 msgstr "自動加入隊聊"
 
 msgid "SETTINGS_TILT_SCALE"
-msgstr "Pitch indicator"
+msgstr "間距指示器"
 
 msgid "SETTINGS_TOGGLE_ALTERNATE_COLOR_MODE"
 msgstr "切換到另一種顏色"

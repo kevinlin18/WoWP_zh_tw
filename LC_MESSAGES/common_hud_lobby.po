@@ -5,52 +5,49 @@ msgstr ""
 "POT-Creation-Date: 2010-06-01 10:00+0300\n"
 "Last-Translator: i_maliavko <i_maliavko@wargaming.net>\n"
 "Language-Team: WoT Team <noreply@wargaming.net>\n"
-"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"PO-Revision-Date: \n"
+"Language: zh_TW\n"
+"X-Generator: Poedit 2.2\n"
 
 msgid "TOOLTIPS_HUD_LOBBY_BEST_SCORE_CLASS_NAME"
-msgstr "Best Result:"
+msgstr "最佳結果："
 
 msgid ""
 "TOOLTIPS_HUD_LOBBY_CLASS_QUEST_DESCRIPTION_ATTACK_GROUND_OBJECTS_FOR_ASSAULT-"
 "BOMBERS"
-msgstr "Earn capture points for destroying enemy ground targets"
+msgstr "獲得摧毀敵方地面目標的捕獲點"
 
 msgid ""
 "TOOLTIPS_HUD_LOBBY_CLASS_QUEST_DESCRIPTION_ATTACK_SECTORS_FOR_H-FIGHTERS-NAVY"
-msgstr ""
-"Earn capture points for destroying air defense aircraft, enemy aircraft, and "
-"ground targets when attacking sectors"
+msgstr "在攻擊部門時獲得摧毀防空飛機，敵機和地面目標的捕獲點"
 
 msgid ""
 "TOOLTIPS_HUD_LOBBY_CLASS_QUEST_DESCRIPTION_CAPTURE_SECTORS_FOR_H-FIGHTERS-"
 "NAVY-ASSAULT-BOMBERS"
-msgstr "Participate in capturing sectors"
+msgstr "參與捕捉部門"
 
 msgid ""
 "TOOLTIPS_HUD_LOBBY_CLASS_QUEST_DESCRIPTION_DEFENCE_SECTOR_FOR_FIGHTERS-H-"
 "FIGHTERS-NAVY"
-msgstr "Destroy enemy aircraft while defending sectors"
+msgstr "在捍衛部門的同時摧毀敵方飛機"
 
 msgid ""
 "TOOLTIPS_HUD_LOBBY_CLASS_QUEST_DESCRIPTION_DESTROY_OBJECT_PARTS_FOR_ASSAULT-"
 "BOMBERS"
-msgstr "Destroy sections of enemy ground targets"
+msgstr "摧毀敵方地面目標的部分"
 
 msgid "TOOLTIPS_HUD_LOBBY_CLASS_QUEST_DESCRIPTION_DOGFIGHT_FOR_SECTORS_FOR_FIGHTERS"
-msgstr ""
-"Earn capture points for destroying air defense aircraft and enemy aircraft "
-"when attacking sectors"
+msgstr "在攻擊部門時獲得摧毀防空飛機和敵機的捕獲點"
 
 msgid "TOOLTIPS_HUD_LOBBY_CLASS_QUEST_DESCRIPTION_ENEMY_PLANES_FOR_FIGHTERS"
-msgstr ""
-"Destroy aerial targets (enemy aircraft, air defense aircraft, and bombers "
-"from the Attack Flight)"
+msgstr "從攻擊飛行中摧毀空中目標（敵機，防空飛機和轟炸機）"
 
 msgid "TOOLTIPS_HUD_LOBBY_CLASS_QUEST_DESCRIPTION_HOW_THIS_WORK"
-msgstr "How Aircraft Type Grades Are Assigned"
+msgstr "如何分配飛機類型等級"
 
 msgid "TOOLTIPS_HUD_LOBBY_CLASS_QUEST_DESCRIPTION_HOW_THIS_WORK_DESCRIPTION_1"
 msgstr ""
@@ -67,73 +64,73 @@ msgstr ""
 "certain aircraft type grade."
 
 msgid "TOOLTIPS_HUD_LOBBY_CLASS_QUEST_EVENT_CONDITION_N1"
-msgstr "Enemy aircraft destroyed"
+msgstr "敵人的飛機被摧毀"
 
 msgid "TOOLTIPS_HUD_LOBBY_CLASS_QUEST_EVENT_CONDITION_N2"
-msgstr "Threats to the bomber group destroyed"
+msgstr "轟炸機組的威脅被摧毀"
 
 msgid "TOOLTIPS_HUD_LOBBY_CLASS_QUEST_EVENT_CONDITION_N3"
-msgstr "Threats to attack aircraft destroyed"
+msgstr "襲擊飛機的威脅被摧毀"
 
 msgid "TOOLTIPS_HUD_LOBBY_CLASS_QUEST_EVENT_CONDITION_N4"
-msgstr "AA guns destroyed"
+msgstr "AA武器被摧毀"
 
 msgid "TOOLTIPS_HUD_LOBBY_CLASS_QUEST_EVENT_CONDITION_N5"
-msgstr "Strategic bombers destroyed"
+msgstr "戰略轟炸機被摧毀"
 
 msgid "TOOLTIPS_HUD_LOBBY_CLASS_QUEST_EVENT_DESCRIPTION_N1"
-msgstr "Destroy aircraft from the enemy combat group"
+msgstr "從敵方戰鬥群中摧毀飛機"
 
 msgid "TOOLTIPS_HUD_LOBBY_CLASS_QUEST_EVENT_DESCRIPTION_N2"
-msgstr "Defend bomber groups by destroying aircraft attacking them"
+msgstr "通過摧毀襲擊他們的飛機來保衛轟炸機組"
 
 msgid "TOOLTIPS_HUD_LOBBY_CLASS_QUEST_EVENT_DESCRIPTION_N3"
-msgstr "Defend allied attack aircraft by destroying aircraft attacking them"
+msgstr "通過摧毀襲擊它們的飛機來保衛盟軍攻擊機"
 
 msgid "TOOLTIPS_HUD_LOBBY_CLASS_QUEST_EVENT_DESCRIPTION_N4"
-msgstr "Destroy enemy AA guns"
+msgstr "摧毀敵人的AA武器"
 
 msgid "TOOLTIPS_HUD_LOBBY_CLASS_QUEST_EVENT_DESCRIPTION_N5"
-msgstr "Destroy enemy strategic bombers"
+msgstr "摧毀敵人的戰略轟炸機"
 
 msgid "TOOLTIPS_HUD_LOBBY_CLASS_QUEST_EVENT_NAME_N1"
-msgstr "Enemy aircraft destroyed"
+msgstr "消滅敵機"
 
 msgid "TOOLTIPS_HUD_LOBBY_CLASS_QUEST_EVENT_NAME_N2"
-msgstr "Escort bombers"
+msgstr "護送轟炸機"
 
 msgid "TOOLTIPS_HUD_LOBBY_CLASS_QUEST_EVENT_NAME_N3"
-msgstr "Escort attack aircraft"
+msgstr "護送攻擊機"
 
 msgid "TOOLTIPS_HUD_LOBBY_CLASS_QUEST_EVENT_NAME_N4"
-msgstr "Suppress AA defenses"
+msgstr "抑制AA防禦"
 
 msgid "TOOLTIPS_HUD_LOBBY_CLASS_QUEST_EVENT_NAME_N5"
 msgstr "Intercept"
 
 msgid ""
 "TOOLTIPS_HUD_LOBBY_CLASS_QUEST_NAME_ATTACK_GROUND_OBJECTS_FOR_ASSAULT-BOMBERS"
-msgstr "Destruction of Ground Targets"
+msgstr "破壞地面目標"
 
 msgid "TOOLTIPS_HUD_LOBBY_CLASS_QUEST_NAME_ATTACK_SECTORS_FOR_H-FIGHTERS-NAVY"
-msgstr "Sector Attack"
+msgstr "攻擊部門"
 
 msgid ""
 "TOOLTIPS_HUD_LOBBY_CLASS_QUEST_NAME_CAPTURE_SECTORS_FOR_H-FIGHTERS-NAVY-"
 "ASSAULT-BOMBERS"
-msgstr "Sector Capture"
+msgstr "保衛部門"
 
 msgid ""
 "TOOLTIPS_HUD_LOBBY_CLASS_QUEST_NAME_DEFENCE_SECTOR_FOR_FIGHTERS-H-FIGHTERS-"
 "NAVY"
-msgstr "Sector Defense"
+msgstr "保衛部門"
 
 msgid ""
 "TOOLTIPS_HUD_LOBBY_CLASS_QUEST_NAME_DESTROY_OBJECT_PARTS_FOR_ASSAULT-BOMBERS"
-msgstr "Destruction of Infrastructure"
+msgstr "摧毀基礎設施"
 
 msgid "TOOLTIPS_HUD_LOBBY_CLASS_QUEST_NAME_DOGFIGHT_FOR_SECTORS_FOR_FIGHTERS"
-msgstr "Air Battle for Sectors"
+msgstr "部門空戰"
 
 msgid "TOOLTIPS_HUD_LOBBY_CLASS_QUEST_NAME_ENEMY_PLANES_FOR_FIGHTERS"
-msgstr "Destruction of Aerial Targets"
+msgstr "摧毀空中目標"
