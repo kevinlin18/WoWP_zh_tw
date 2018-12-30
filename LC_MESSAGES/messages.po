@@ -8,7 +8,7 @@ msgstr ""
 "Language-Team: WoT Team <noreply@wargaming.net>\n"
 "Language: zh_TW\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Poedit 2.0.5\n"
 
@@ -479,17 +479,14 @@ msgstr "好"
 msgid "MEDAL_GAIN_BONUS"
 msgstr "收到 {name}:"
 
-#, fuzzy
 msgid "MESSAGES_AIRCRAFT_AND_HANGARSLOT_BOUGHT"
 msgstr "Aircraft {name} and a slot in Hangar purchased."
 
-#, fuzzy
 msgid "MESSAGES_ALL_EQUIPMENTS_AND_CONSUMABLES_UNINSTALLED_COMPENSATION_TEXT_1"
 msgstr ""
 "All equipment and consumables were demounted from the aircraft and sent to "
 "Depot. Equipment characteristics changed."
 
-#, fuzzy
 msgid "MESSAGES_ALL_EQUIPMENTS_AND_CONSUMABLES_UNINSTALLED_COMPENSATION_TEXT_2"
 msgstr ""
 "<br><font size='6'><br></font>Equipment and consumables that have no "
@@ -499,181 +496,188 @@ msgstr ""
 "font>\" consumables.<br><font size='6'><br></font>Bombs and rockets were "
 "removed. Their cost was also compensated in credits."
 
-#, fuzzy
 msgid "MESSAGES_ATTACK_ENDED"
 msgstr "Attack has ended!"
 
 msgid "MESSAGES_BONUS_GOLD_NY"
 msgstr "金幣加成:"
 
-#, fuzzy
+msgid "MESSAGES_BUTTON_GET_PLANE"
+msgstr "Get Aircraft"
+
 msgid "MESSAGES_COMPENSATION"
 msgstr "Compensation:"
 
-#, fuzzy
 msgid "MESSAGES_CONGRATULATION_YOU_CAN_GET_PLANE"
 msgstr "Congratulations! You can claim your aircraft."
 
-#, fuzzy
-#| msgid "MESSAGES_BONUS_GOLD_NY"
 msgid "MESSAGES_CONSUMABLES_NAMES_SOLD"
 msgstr "Consumable \"{module_name}\" sold."
 
-#, fuzzy
+msgid "MESSAGES_CONSUMABLES_NAMES_UNLOADED"
+msgstr "Сonsumable {module_name} sent to the Depot."
+
 msgid "MESSAGES_CONSUMABLE_PURCHASED"
 msgstr "Consumable \"{module_name}\" purchased."
 
-#, fuzzy
-#| msgid "MESSAGE_MODULE_PURCHASED_SUCCESSFULLY"
 msgid "MESSAGES_CONSUMABLE_PURCHASED_FOR_AMOUNT"
 msgstr "Consumable \"{module_name}\" ({amount}) purchased."
 
-#, fuzzy
 msgid "MESSAGES_DIRECTIVE_ACTIVATED"
 msgstr "Operation Order Activated"
 
-#, fuzzy
 msgid "MESSAGES_DIRECTIVE_DEACTIVATED"
 msgstr "Operation Order Deactivated"
 
-#, fuzzy
 msgid "MESSAGES_DIRECTIVE_DEDUCT"
 msgstr "Operation order removed."
 
-#, fuzzy
 msgid "MESSAGES_DIRECTIVE_IN_INVENTORY"
 msgstr "Operation order is available in the Inventory."
 
-#, fuzzy
 msgid "MESSAGES_DIRECTIVE_PURCHASED"
 msgstr "Operation order purchased."
 
-#, fuzzy
 msgid "MESSAGES_DIRECTIVE_RECEIVED"
 msgstr "Operation Order Added to Your Account"
 
-#, fuzzy
 msgid "MESSAGES_DIRECTIVE_SOLD"
 msgstr "Operation order sold."
 
-#, fuzzy
+msgid "MESSAGES_DIR_ACTIVATION_HEADER"
+msgstr "Activate Operation Order"
+
+msgid "MESSAGES_DIR_ACTIVATION_TEXT"
+msgstr "Operation order for {aircraft_name} activated."
+
+msgid "MESSAGES_DIR_CANT_BE_PROLONGED_FOR_H"
+msgstr ""
+"The operation order time cannot be extended: the event is in its final stage."
+
+msgid "MESSAGES_DIR_DEDUCTED_HEADER"
+msgstr "Remove Operation Order"
+
+msgid "MESSAGES_DIR_DEDUCTED_TEXT"
+msgstr "Operation order for {aircraft_name} removed."
+
+msgid "MESSAGES_DIR_GAINED_TEXT"
+msgstr "Operation order for {aircraft_name} added to the account."
+
+msgid "MESSAGES_DIR_GAIN_HEADER"
+msgstr "Add Operation Order"
+
+msgid "MESSAGES_DIR_ON_PLANE_DONE"
+msgstr ""
+"Congratulations! The operation order for the {aircraft_name} was executed."
+
+msgid "MESSAGES_DIR_ON_PLANE_RECEIVED"
+msgstr "Operation order for {aircraft_name} received."
+
+msgid "MESSAGES_DIR_PROGRESSION_HEADER"
+msgstr "Execute Operation Order"
+
+msgid "MESSAGES_DIR_PROLONGED_FOR_H"
+msgstr "Operation order for {aircraft_name} extended by {time} h."
+
+msgid "MESSAGES_DIR_QUESTS_HEADER"
+msgstr "Operation Order Missions"
+
+msgid "MESSAGES_DIR_QUEST_TIME_OVER"
+msgstr "The time for executing the operation order has expired."
+
+msgid "MESSAGES_DIR_REFUSE_HEADER"
+msgstr "Decline Operation Order"
+
+msgid "MESSAGES_DIR_REFUSE_TEXT"
+msgstr "You declined the operation order."
+
 msgid "MESSAGES_EQUIPMENTS_NAME_SOLD"
 msgstr "Equipment \"{module_name}\" sold."
 
-#, fuzzy
 msgid "MESSAGES_EQUIPMENT_CALIBRATION"
 msgstr "Equipment \"{module_name}\" calibration attempt"
 
-#, fuzzy
 msgid "MESSAGES_EQUIPMENT_CALIBRATION_CANCELED"
 msgstr "Equipment \"{module_name}\" calibration canceled."
 
-#, fuzzy
 msgid "MESSAGES_EQUIPMENT_CALIBRATION_DONE"
 msgstr "Equipment \"{module_name}\" calibrated."
 
-#, fuzzy
-#| msgid "SYSTEM_MESSAGE_WING_INVITATION_HEADER"
 msgid "MESSAGES_EQUIPMENT_CALIBRATION_HEADER"
 msgstr "Calibrate Equipment"
 
-#, fuzzy
 msgid "MESSAGES_EQUIPMENT_DISMANTLE_DONE"
 msgstr "Equipment \"{module_name}\" disassembled into Materials."
 
-#, fuzzy
-#| msgid "MESSAGE_AMMO_REFILLED_HEADER"
 msgid "MESSAGES_EQUIPMENT_DISMANTLE_HEADER"
 msgstr "Disassemble Equipment"
 
-#, fuzzy
 msgid "MESSAGES_EQUIPMENT_PURCHASED_FOR_AMOUNT"
 msgstr "Equipment \"{module_name}\" ({amount}) purchased."
 
-#, fuzzy
 msgid "MESSAGES_EQUIPMENT_REBUILD"
 msgstr "Equipment \"{module_name}\" reassembly attempt"
 
-#, fuzzy
 msgid "MESSAGES_EQUIPMENT_REBUILD_CANCELED"
 msgstr "Equipment \"{module_name}\" reassembly canceled."
 
-#, fuzzy
 msgid "MESSAGES_EQUIPMENT_REBUILD_DONE"
 msgstr "Equipment \"{module_name}\" reassembled."
 
-#, fuzzy
-#| msgid "MESSAGE_AMMO_REFILLED_HEADER"
 msgid "MESSAGES_EQUIPMENT_REBUILD_HEADER"
 msgstr "Reassemble Equipment"
 
-#, fuzzy
 msgid "MESSAGES_EQUIPMENT_UPGRADED"
 msgstr "Equipment \"{module_name}\" enhanced."
 
-#, fuzzy
 msgid "MESSAGES_EXCLUSIVE_CAMO"
 msgstr "Unique paint scheme"
 
-#, fuzzy
 msgid "MESSAGES_EXCLUSIVE_EMBLEM"
 msgstr "Unique emblem"
 
-#, fuzzy
 msgid "MESSAGES_FACTORY_NEW_PLANE_STATE_COMPLECTATION_INSTALLED"
 msgstr "<font color='#{1}'>Stock configuration</font> mounted."
 
 msgid "MESSAGES_FAST_TRAINING_PILOT"
 msgstr "乘員快速訓練"
 
-#, fuzzy
+msgid "MESSAGES_GET_PLANE_FOR_FREE"
+msgstr "You can get the aircraft for free!"
+
 msgid "MESSAGES_MAINTENANCE_DONE"
 msgstr "Aircraft serviced."
 
-#, fuzzy
-#| msgid "ELITE_AIRCRAFT_DESCRIPTION"
 msgid "MESSAGES_MAP_CLEANED_DESCRIPTION"
 msgstr ""
 "The salvage party has collected all valuable Materials from the battlefield."
 
-#, fuzzy
-#| msgid "MESSAGE_AMMO_REFILLED_HEADER"
 msgid "MESSAGES_MAP_CLEANED_HEADER"
 msgstr "Battlefield cleared!"
 
-#, fuzzy
 msgid "MESSAGES_MODULE_NAMES_SOLD"
 msgstr "Modules {module_name} sold."
 
-#, fuzzy
 msgid "MESSAGES_MODULE_NAME_SOLD"
 msgstr "Module {module_name} sold."
 
-#, fuzzy
 msgid "MESSAGES_NEW_QUESTS_AVAILABLE"
 msgstr "New missions are available."
 
-#, fuzzy
-#| msgid "MESSAGE_MODULE_PURCHASED_SUCCESSFULLY"
 msgid "MESSAGES_PLANE_MODULE_PURCHASED_AND_INSTALLED"
 msgstr "Module {module_name} purchased and mounted."
 
-#, fuzzy
-#| msgid "SYSTEM_MESSAGE_CONTEXT_RESEARCHED"
 msgid "MESSAGES_PLANE_RESEARCHED"
 msgstr "Aircraft researched."
 
-#, fuzzy
 msgid "MESSAGES_PROGRESS_QUESTS_RESET"
 msgstr "Mission progress reset."
 
-#, fuzzy
 msgid "MESSAGES_RECIEVED_ACHIEVEMENT_WG_FEST"
 msgstr ""
 "На память о посещении фестиваля WG Fest вы получаете уникальный памятный "
 "знак."
 
-#, fuzzy
 msgid "MESSAGES_RECIEVED_GIFT_SECRET_SANTA"
 msgstr ""
 "{username}, happy holidays! You have received a <font color='#color'>gift</"
@@ -685,37 +689,33 @@ msgstr "重置乘員技能"
 msgid "MESSAGES_RETRAINING_PILOT"
 msgstr "訓練乘員"
 
-#, fuzzy
 msgid "MESSAGES_SECRET_SANTA_2017"
 msgstr "Santa's Bag"
 
-#, fuzzy
 msgid "MESSAGES_SECRET_SANTA_COMPENSATION"
 msgstr ""
 "Pilot! <font color='#'>Santa's bag</font> has been opened. All presents "
 "found have been added to your account."
 
-#, fuzzy
 msgid "MESSAGES_SETUP_MODULES"
 msgstr "Mount Modules"
 
-#, fuzzy
 msgid "MESSAGES_SPECIAL_PLANE_STATE_COMPLECTATION_INSTALLED"
 msgstr "The \"<font color='#{1}'>Specialist</font>\" configuration mounted."
 
-#, fuzzy
 msgid "MESSAGES_SPECIAL_PLANE_STATE_COMPLECTATION_PURCHASED_AND_INSTALLED"
 msgstr ""
 "The \"<font color='#{1}'>Specialist</font>\" configuration purchased and "
 "mounted."
 
-#, fuzzy
+msgid "MESSAGES_THIS_IS_ALL_YOURS"
+msgstr "The purchased item was added to your account."
+
 msgid "MESSAGES_TROPHY_COMPENSATION"
 msgstr ""
 "Pilot! The loot crate was opened. All items found have been added to your "
 "account."
 
-#, fuzzy
 msgid "MESSAGES_UNIQUE_EMBLEM"
 msgstr "Exclusive nose art"
 
@@ -739,6 +739,12 @@ msgstr "個人化"
 
 msgid "MESSAGE_ERROR_TEXT"
 msgstr "錯誤！"
+
+msgid "MESSAGE_EVENT_ENDED"
+msgstr "Event finished"
+
+msgid "MESSAGE_EVENT_STARTED"
+msgstr "Event started"
 
 msgid "MESSAGE_MODULES_EXPLORED_SUCCESSFULLY"
 msgstr "裝備 {name} 研發完成。"
@@ -890,11 +896,47 @@ msgstr "《戰機世界》正式釋出"
 msgid "POPUP_WINDOW_CLOSE"
 msgstr "關閉"
 
-#, fuzzy
+msgid "SYSTEM_MESSAGE_ACCOUNT_ECONOMIC_CONSUMABLES_AMOUNT_PURCHASED_SUCCESSFULLY"
+msgstr "\"{module_name}\" boosters ({amount}) purchased."
+
+msgid "SYSTEM_MESSAGE_ACCOUNT_ECONOMIC_CONSUMABLES_CATEGORY_CREDITS_PROFIT"
+msgstr "Bonus to credits:"
+
+msgid "SYSTEM_MESSAGE_ACCOUNT_ECONOMIC_CONSUMABLES_CATEGORY_EXP_PROFIT"
+msgstr "Bonus to aircraft XP:"
+
+msgid "SYSTEM_MESSAGE_ACCOUNT_ECONOMIC_CONSUMABLES_DURING_MAINT_BONUS_SUSPENDED"
+msgstr ""
+"The effect of boosters was suspended for the maintenance period and restored "
+"after the maintenance was completed."
+
+msgid "SYSTEM_MESSAGE_ACCOUNT_ECONOMIC_CONSUMABLES_PROFIT"
+msgstr "Received for the period the booster was active:"
+
+msgid "SYSTEM_MESSAGE_ACCOUNT_ECONOMIC_CONSUMABLES_SOLD_SUCCESSFULLY"
+msgstr "\"{module_name}\" boosters ({amount}) sold."
+
+msgid "SYSTEM_MESSAGE_ACCOUNT_ECONOMIC_CONSUMABLES_TIME_LEFT"
+msgstr "Time left:"
+
+msgid "SYSTEM_MESSAGE_ACCOUNT_ECONOMIC_CONSUMABLE_ACTIVATED"
+msgstr "The \"{variable_name}\" booster activated."
+
+msgid "SYSTEM_MESSAGE_ACCOUNT_ECONOMIC_CONSUMABLE_BONUS_ENDED"
+msgstr "The \"{variable_name}\" booster expired."
+
+msgid "SYSTEM_MESSAGE_ACCOUNT_ECONOMIC_CONSUMABLE_PURCHASED_AND_ACTIVATED"
+msgstr "\"{module_name}\" booster purchased and activated."
+
+msgid "SYSTEM_MESSAGE_ACCOUNT_ECONOMIC_CONSUMABLE_PURCHASED_SUCCESSFULLY"
+msgstr "\"{module_name}\" booster purchased."
+
+msgid "SYSTEM_MESSAGE_ACCOUNT_ECONOMIC_CONSUMABLE_SOLD_SUCCESSFULLY"
+msgstr "\"{module_name}\" booster sold."
+
 msgid "SYSTEM_MESSAGE_ALBION_EVENT_BEGAN"
 msgstr "The <font color='#{color}'>Skies of Albion</font> event is underway!"
 
-#, fuzzy
 msgid "SYSTEM_MESSAGE_ALBION_EVENT_END"
 msgstr "The <font color='#{color}'>Skies of Albion</font> event is over!"
 
@@ -985,26 +1027,46 @@ msgstr "{plane_name} 個人化塗裝方案"
 msgid "SYSTEM_MESSAGE_CHOOSE_HANGAR_HOLIDAY"
 msgstr "更改"
 
-#, fuzzy
 msgid "SYSTEM_MESSAGE_COMPENSATION_TROPHY_ALBION_OPERATION_OFF"
 msgstr ""
 "Loot crates that you did not open during the <font color='#'>Skies of "
 "Albion</font> event have been opened automatically. All prizes from the loot "
 "crates have been added to your account."
 
-#, fuzzy
+msgid "SYSTEM_MESSAGE_COMPENSATION_TROPHY_EVENT_OFF"
+msgstr ""
+"Supply crates that you did not open during the event have been converted to "
+"standard Supply crates."
+
 msgid "SYSTEM_MESSAGE_COMPENSATION_TROPHY_JA_TR_OFF"
 msgstr ""
 "Loot crates that you did not open during the <font color='#{color}'>"
 "\"Japanese Threat\"</font> event have been opened automatically. All prizes "
 "from the loot crates have been added to your account."
 
-#, fuzzy
 msgid "SYSTEM_MESSAGE_COMPENSATION_TROPHY_NO_CAMP_OFF"
 msgstr ""
 "Loot crates that you did not open during the <font color='#{color}'>Battle "
 "for Thor's Hammer</font> event have been opened automatically. All prizes "
 "from the loot crates have been added to your account."
+
+msgid "SYSTEM_MESSAGE_COMPONENT_DEVICES"
+msgstr "Flight Instruments:"
+
+msgid "SYSTEM_MESSAGE_COMPONENT_ELECTRONICS"
+msgstr "Radio Electronics:"
+
+msgid "SYSTEM_MESSAGE_COMPONENT_GEARS"
+msgstr "Mechanical Parts:"
+
+msgid "SYSTEM_MESSAGE_COMPONENT_GUNS"
+msgstr "Weapon Parts:"
+
+msgid "SYSTEM_MESSAGE_COMPONENT_HULL"
+msgstr "Airframe Elements:"
+
+msgid "SYSTEM_MESSAGE_COMPONENT_STURDY"
+msgstr "Heat-Resistant Parts:"
 
 msgid "SYSTEM_MESSAGE_CONTEXT_INCLUDING"
 msgstr "包含:"
@@ -1030,13 +1092,15 @@ msgstr "招募 {plane_name} 的 {crew_member}"
 msgid "SYSTEM_MESSAGE_CREW_NEW_SKILLS_AVAILABLE"
 msgstr "有新技能可學習!"
 
+msgid "SYSTEM_MESSAGE_DEDUCTED"
+msgstr "Deducted:"
+
 msgid "SYSTEM_MESSAGE_DETAILED_INFO_UNAVAILABLE"
 msgstr "無法檢視詳細資訊"
 
 msgid "SYSTEM_MESSAGE_DISCOUNT_PLANES"
 msgstr "{number}%的折扣套用於 {plane_name}"
 
-#, fuzzy
 msgid "SYSTEM_MESSAGE_DISMISS_CREW"
 msgstr "Dismiss"
 
@@ -1076,13 +1140,11 @@ msgstr "乘員訓練加速已啟動"
 msgid "SYSTEM_MESSAGE_FR_EXTRA_GIFT"
 msgstr "額外加成"
 
-#, fuzzy
 msgid "SYSTEM_MESSAGE_FR_PACK_SUCCESSFUL_PURCHASE"
 msgstr ""
 "Bundle of the <font color='#{color}'>{plane_name1}</font> and <font "
 "color='#{color}'>{plane_name2}</font> aircraft purchased."
 
-#, fuzzy
 msgid "SYSTEM_MESSAGE_FR_PACK_UNIQUE_CAMO_EMBLEM"
 msgstr ""
 "Unique paint scheme, nose art, and emblem for the <font "
@@ -1109,7 +1171,6 @@ msgstr "您的金幣將在帳號同步後恢復可用"
 msgid "SYSTEM_MESSAGE_GOLD_UNAVAILABLE_REFILL_FOR_CREDITS"
 msgstr "暫時無法補充金幣<br>補充銀幣"
 
-#, fuzzy
 msgid "SYSTEM_MESSAGE_GUNNER_DISMISS"
 msgstr "Gunner {crew_name} dismissed"
 
@@ -1125,7 +1186,6 @@ msgstr "詳細資訊"
 msgid "SYSTEM_MESSAGE_HEADER_HANGAR_HOLIDAY"
 msgstr "節日背景"
 
-#, fuzzy
 msgid "SYSTEM_MESSAGE_HEADER_PILOT"
 msgstr "Pilot!"
 
@@ -1165,28 +1225,32 @@ msgstr "購買配件{module_name} 。"
 msgid "SYSTEM_MESSAGE_MODULE_UNINSTALLED_MSGTEXT"
 msgstr "配件{module_name}被卸除。"
 
-#, fuzzy
 msgid "SYSTEM_MESSAGE_NEW_QUEST_AVAILABLE"
 msgstr "New mission available!"
 
-#, fuzzy
 msgid "SYSTEM_MESSAGE_NOW_CREW_TRAINING_FASTER"
 msgstr "Now the crew will be trained more quickly."
 
-#, fuzzy
 msgid "SYSTEM_MESSAGE_NOW_EXP_COLLECT_ON_PLANE"
 msgstr "Now experience will be allocated to the aircraft."
 
-#, fuzzy
 msgid "SYSTEM_MESSAGE_PACK_SLOT_SUCCESSFUL_PURCHASE"
 msgstr "Slots ({number}) in the Hangar purchased."
 
-#, fuzzy
 msgid "SYSTEM_MESSAGE_PILOT_DISMISS"
 msgstr "Pilot {crew_name} dismissed"
 
+msgid "SYSTEM_MESSAGE_PLACE_IN_RATING"
+msgstr "Rating position:"
+
 msgid "SYSTEM_MESSAGE_PREMIUM_EXPIRES_IN"
 msgstr "加值帳號將在 {time} 到期"
+
+msgid "SYSTEM_MESSAGE_QUESTS_FOR_PLANE_ACTIVATED"
+msgstr "Personal mission for the {aircraft_name} activated."
+
+msgid "SYSTEM_MESSAGE_QUESTS_FOR_PLANE_DEACTIVATED"
+msgstr "Personal mission for the {aircraft_name} deactivated."
 
 msgid "SYSTEM_MESSAGE_QUESTS_NEW_QUESTS_AVAILABLE"
 msgstr "可進行的新任務:"
@@ -1203,14 +1267,30 @@ msgstr "\"{quest}\" 任務進度"
 msgid "SYSTEM_MESSAGE_QUESTS_SEVERAL_COMPLETED"
 msgstr "任務完成:"
 
-#, fuzzy
 msgid "SYSTEM_MESSAGE_QUEST_COMPENSATION"
 msgstr ""
 "Pilot! You have already received the \"{name}\" mission and it cannot be "
 "completed again. The mission cost has been compensated."
 
+msgid "SYSTEM_MESSAGE_ROSTELECOM_BONUS"
+msgstr "В рамках тарифного плана «Игровой» вам стали доступны:"
+
+msgid "SYSTEM_MESSAGE_ROSTELECOM_BONUS_DEDUCTED"
+msgstr ""
+"The following items were deducted from your account due to the deactivation "
+"of the \"Igrovoy\" (\"Gamer’s\") plan:"
+
 msgid "SYSTEM_MESSAGE_TOTAL_ACCOUNT_BALANCE"
 msgstr "帳號一共獲得:"
+
+msgid "SYSTEM_MESSAGE_TROPHYS_COLON"
+msgstr "Supplies:"
+
+msgid "SYSTEM_MESSAGE_UNIVERSAL_EVENT_BEGAN"
+msgstr "The {event_name} event started!"
+
+msgid "SYSTEM_MESSAGE_UNIVERSAL_EVENT_END"
+msgstr "The {event_name} event ended!"
 
 msgid "SYSTEM_MESSAGE_WING_BATTLE_ERROR_TEXT"
 msgstr "進入戰鬥失敗。請選擇另外一架戰機或者是重新建立編隊。"
@@ -1236,14 +1316,29 @@ msgstr "您已被移出編隊。"
 msgid "SYSTEM_MESSAGE_WING_PLAYER_INVITES_YOU_TO_WING"
 msgstr "{name} 邀請您加入編隊"
 
+msgid "SYSTEM_MESSAGE_WING_PLAYER_INVITES_YOU_TO_WING_ALT"
+msgstr "Player {name} invites you to join a Flight."
+
+msgid "SYSTEM_MESSAGE_WING_PLAYER_JOINED_WING"
+msgstr "Player {name} has joined the Flight."
+
 msgid "SYSTEM_MESSAGE_WING_PLAYER_LEAVE"
 msgstr "您離開了編隊。"
+
+msgid "SYSTEM_MESSAGE_WING_PLAYER_LEFT_WING"
+msgstr "Player {name} has left the Flight."
+
+msgid "SYSTEM_MESSAGE_WING_YOU_JOINED_WING"
+msgstr "You have joined the Flight."
 
 msgid "SYSTEM_MESSAGE_XP_OPERATION_IMPOSSIBLE"
 msgstr "無法進行操作，您的自由經驗在帳號同步後才可使用"
 
 msgid "SYSTEM_MESSAGE_XP_RECOVERING_ACCOUNT"
 msgstr "您的自由經驗將在帳號同步後恢復可用"
+
+msgid "SYSTEM_SERVER_ERROR_TRY_AGAIN"
+msgstr "Error receiving details. Please try again."
 
 msgid "VOIP_MESSAGE_HEADER"
 msgstr "語音聊天"

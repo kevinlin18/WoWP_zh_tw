@@ -6,8 +6,9 @@ msgstr ""
 "PO-Revision-Date: 2010-06-07 12:37+0200\n"
 "Last-Translator: Developer <noreply@wargaming.net>\n"
 "Language-Team: WoT Team <noreply@wargaming.net>\n"
+"Language: \n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "NAMES/USA1"
@@ -6763,6 +6764,12 @@ msgstr "森尼亞德"
 msgid "NAMES/USAN99"
 msgstr "塞普蒂默斯"
 
+msgid "NAMES/USAU1"
+msgstr "Lovehart"
+
+msgid "NAMES/USAUN1"
+msgstr "Mary"
+
 msgid "RANKSUSA/1"
 msgstr "上校"
 
@@ -6822,9 +6829,3 @@ msgstr "二級准尉"
 
 msgid "RANKSUSA2/9"
 msgstr "士官長"
-
-msgid "NAMES/USAU1"
-msgstr "Lovehart"
-
-msgid "NAMES/USAUN1"
-msgstr "Mary"

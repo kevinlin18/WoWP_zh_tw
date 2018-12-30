@@ -5,8 +5,9 @@ msgstr ""
 "POT-Creation-Date: 2010-06-01 10:00+0300\n"
 "Last-Translator: i_maliavko <i_maliavko@wargaming.net>\n"
 "Language-Team: WoT Team <noreply@wargaming.net>\n"
+"Language: \n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "TOOLTIPS_HUD_LOBBY_BEST_SCORE_CLASS_NAME"
@@ -64,6 +65,51 @@ msgstr ""
 "completing a mission on a scale from <font color='#267c99'>1</font> to <font "
 "color='#267c99'>5</font>. The total number of all segments corresponds to a "
 "certain aircraft type grade."
+
+msgid "TOOLTIPS_HUD_LOBBY_CLASS_QUEST_EVENT_CONDITION_N1"
+msgstr "Enemy aircraft destroyed"
+
+msgid "TOOLTIPS_HUD_LOBBY_CLASS_QUEST_EVENT_CONDITION_N2"
+msgstr "Threats to the bomber group destroyed"
+
+msgid "TOOLTIPS_HUD_LOBBY_CLASS_QUEST_EVENT_CONDITION_N3"
+msgstr "Threats to attack aircraft destroyed"
+
+msgid "TOOLTIPS_HUD_LOBBY_CLASS_QUEST_EVENT_CONDITION_N4"
+msgstr "AA guns destroyed"
+
+msgid "TOOLTIPS_HUD_LOBBY_CLASS_QUEST_EVENT_CONDITION_N5"
+msgstr "Strategic bombers destroyed"
+
+msgid "TOOLTIPS_HUD_LOBBY_CLASS_QUEST_EVENT_DESCRIPTION_N1"
+msgstr "Destroy aircraft from the enemy combat group"
+
+msgid "TOOLTIPS_HUD_LOBBY_CLASS_QUEST_EVENT_DESCRIPTION_N2"
+msgstr "Defend bomber groups by destroying aircraft attacking them"
+
+msgid "TOOLTIPS_HUD_LOBBY_CLASS_QUEST_EVENT_DESCRIPTION_N3"
+msgstr "Defend allied attack aircraft by destroying aircraft attacking them"
+
+msgid "TOOLTIPS_HUD_LOBBY_CLASS_QUEST_EVENT_DESCRIPTION_N4"
+msgstr "Destroy enemy AA guns"
+
+msgid "TOOLTIPS_HUD_LOBBY_CLASS_QUEST_EVENT_DESCRIPTION_N5"
+msgstr "Destroy enemy strategic bombers"
+
+msgid "TOOLTIPS_HUD_LOBBY_CLASS_QUEST_EVENT_NAME_N1"
+msgstr "Enemy aircraft destroyed"
+
+msgid "TOOLTIPS_HUD_LOBBY_CLASS_QUEST_EVENT_NAME_N2"
+msgstr "Escort bombers"
+
+msgid "TOOLTIPS_HUD_LOBBY_CLASS_QUEST_EVENT_NAME_N3"
+msgstr "Escort attack aircraft"
+
+msgid "TOOLTIPS_HUD_LOBBY_CLASS_QUEST_EVENT_NAME_N4"
+msgstr "Suppress AA defenses"
+
+msgid "TOOLTIPS_HUD_LOBBY_CLASS_QUEST_EVENT_NAME_N5"
+msgstr "Intercept"
 
 msgid ""
 "TOOLTIPS_HUD_LOBBY_CLASS_QUEST_NAME_ATTACK_GROUND_OBJECTS_FOR_ASSAULT-BOMBERS"

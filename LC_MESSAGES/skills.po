@@ -12,23 +12,17 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Poedit 2.0.5\n"
 
-#, fuzzy
-#| msgid "SKILL_DESCRIPTION_PILOT_EQUIP_ARMOR"
 msgid "SKILL_DESCRIPTION_EQUIPMENT_DURABILITY_AND_ANTICRIT_MODS"
 msgstr ""
 "Increases the positive effect of the mounted equipment on <font "
 "color='#f2f2f2'>aircraft durability and resistance to critical damage</font> "
 "by <font color='#8dbb44'>40%</font>."
 
-#, fuzzy
-#| msgid "SKILL_DESCRIPTION_PILOT_FIREDURATION"
 msgid "SKILL_DESCRIPTION_EQUIPMENT_FIRERANGE_TURRET_MODS"
 msgstr ""
 "Increases the <font color='#f2f2f2'>range of fire</font> of a turret by "
 "<font color='#8dbb44'>20%</font>."
 
-#, fuzzy
-#| msgid "SKILL_DESCRIPTION_PILOT_EQUIP_ARMOR"
 msgid "SKILL_DESCRIPTION_EQUIPMENT_MANEUVER_AND_SPEED_MODS"
 msgstr ""
 "Increases the positive effect of the mounted equipment on <font "
@@ -71,7 +65,6 @@ msgstr ""
 "提高<font color='#8dbb44'>20％</font>尾砲<font color='#f2f2f2'>脈衝時間</"
 "font>。"
 
-#, fuzzy
 msgid "SKILL_DESCRIPTION_LAST_DASH"
 msgstr ""
 "<font color='#f2f2f2'>Repairs all critical damage</font>, heals all crew "
@@ -136,14 +129,12 @@ msgstr ""
 "使後射機槍手能夠以較大的角度開火，技能對飛機的主武器沒有影響，效果隨技能等級"
 "而變化。"
 
-#, fuzzy
 msgid "SKILL_DESCRIPTION_MASTER_PLANE_BF_109E_3"
 msgstr ""
 "Increases <font color='#f2f2f2'>airspeed and damage</font> by <font "
 "color='#8dbb44'>10%</font>. Takes effect only on the <font "
 "color='#f2f2f2'>Bf 109 E-3</font>."
 
-#, fuzzy
 msgid "SKILL_DESCRIPTION_MASTER_PLANE_SPITFIRE_MK_IA"
 msgstr ""
 "Increases <font color='#f2f2f2'>maneuverability and damage</font> by <font "
@@ -195,7 +186,6 @@ msgstr ""
 "font>。提高當飛機機翼，尾翼，和機身的損壞嚴重<font color='#f2f2f2'>飛機可控性"
 "</font><font color='#8dbb44'>25％</font>。"
 
-#, fuzzy
 msgid "SKILL_DESCRIPTION_PILOT_BRIGHT_STAR"
 msgstr ""
 "Increases the <font color='#f2f2f2'>range at which enemy aircraft are "
@@ -213,7 +203,6 @@ msgstr ""
 "增加<font color='#f2f2f2'>機體拋光，光面蒙皮，輕量化機身，飛行操縱裝置，改進"
 "型襟翼</font>效果<font color='#8dbb44'>20%</font>。"
 
-#, fuzzy
 msgid "SKILL_DESCRIPTION_PILOT_EXPLOSIVE_CHARACTER"
 msgstr ""
 "Increases the <font color='#f2f2f2'>damage caused by bombs and rockets</"
@@ -223,7 +212,6 @@ msgstr ""
 "affected area equal to double the maximum number of hit points of this "
 "aircraft."
 
-#, fuzzy
 msgid "SKILL_DESCRIPTION_PILOT_FASTER_THAN_WIND"
 msgstr ""
 "Increases <font color='#f2f2f2'>engine thrust</font> by <font "
@@ -236,7 +224,6 @@ msgstr ""
 "減少<font color='#f2f2f2'>著火持續時間和傷害</font> <font "
 "color='#8dbb44'>10%</font>。"
 
-#, fuzzy
 msgid "SKILL_DESCRIPTION_PILOT_FTW_KNOWENGINE_II"
 msgstr ""
 "Increases <font color='#f2f2f2'>engine thrust and top speed</font> by <font "
@@ -285,7 +272,6 @@ msgstr ""
 "增加<font color='#f2f2f2'>敵機靠近</font>時，飛行員偵查範圍的<font "
 "color='#8dbb44'>20%</font>。"
 
-#, fuzzy
 msgid "SKILL_DESCRIPTION_PILOT_SKY_FURY"
 msgstr ""
 "In a head-on attack, the pilot fires at the most vulnerable sections of an "
@@ -294,7 +280,6 @@ msgstr ""
 "increases the <font color='#f2f2f2'>damage caused in a head-on attack</font> "
 "by <font color='#8dbb44'>20%</font>."
 
-#, fuzzy
 msgid "SKILL_DESCRIPTION_PILOT_SOME_LIKE_IT_HOT"
 msgstr ""
 "<font color='#f2f2f2'>Sets a ground target on fire</font> as a result of "
@@ -336,7 +321,6 @@ msgstr ""
 "通過主動操控<font color='#f2f2f2'>自動滅火</font>，在任意軸保持一個較高的角度"
 "來進行滅火。"
 
-#, fuzzy
 msgid "SKILL_DESCRIPTION_PILOT_VALKYRIE"
 msgstr ""
 "Rockets and bombs released in a dive cause <font color='#f2f2f2'>double "
@@ -382,7 +366,6 @@ msgstr "後射機槍連發 {skill_modifier}"
 msgid "SKILL_DESCRIPTION_SHORT_WIDE_SHOOTER"
 msgstr "後射機槍射角 {skill_modifier}"
 
-#, fuzzy
 msgid "SKILL_DESCRIPTION_STEEP_PEAK"
 msgstr ""
 "Increases <font color='#f2f2f2'>damage</font> by <font color='#8dbb44'>10%</"
@@ -431,18 +414,15 @@ msgstr "耐力驚人"
 msgid "SKILL_NAME_GUNNER_VOLLEY"
 msgstr "兵器製造者"
 
-#, fuzzy
 msgid "SKILL_NAME_LAST_DASH"
 msgstr "Final Dash"
 
 msgid "SKILL_NAME_LONG_SIGHT"
 msgstr "千里眼"
 
-#, fuzzy
 msgid "SKILL_NAME_MASTER_PLANE_BF_109E_3"
 msgstr "Bf 109 E-3 Master"
 
-#, fuzzy
 msgid "SKILL_NAME_MASTER_PLANE_SPITFIRE_MK_IA"
 msgstr "Spitfire Mk Ia Master"
 
@@ -452,7 +432,6 @@ msgstr "跟蹤"
 msgid "SKILL_NAME_PILOT_BATTLETRIED"
 msgstr "戰鬥測試"
 
-#, fuzzy
 msgid "SKILL_NAME_PILOT_BRIGHT_STAR"
 msgstr "Dazzling Star"
 
@@ -462,18 +441,15 @@ msgstr "防護專家"
 msgid "SKILL_NAME_PILOT_EQUIP_FLIGHT"
 msgstr "動力學家"
 
-#, fuzzy
 msgid "SKILL_NAME_PILOT_EXPLOSIVE_CHARACTER"
 msgstr "Supernova"
 
-#, fuzzy
 msgid "SKILL_NAME_PILOT_FASTER_THAN_WIND"
 msgstr "Eagle's Wings"
 
 msgid "SKILL_NAME_PILOT_FIREDURATION"
 msgstr "抗火英雄"
 
-#, fuzzy
 msgid "SKILL_NAME_PILOT_FTW_KNOWENGINE_II"
 msgstr "Engine Guru II"
 
@@ -501,11 +477,9 @@ msgstr "爆破專家"
 msgid "SKILL_NAME_PILOT_SIGHTRANGE"
 msgstr "鷹眼"
 
-#, fuzzy
 msgid "SKILL_NAME_PILOT_SKY_FURY"
 msgstr "Celestial Fury"
 
-#, fuzzy
 msgid "SKILL_NAME_PILOT_SOME_LIKE_IT_HOT"
 msgstr "Femme Fatale"
 
@@ -527,7 +501,6 @@ msgstr "規避目標"
 msgid "SKILL_NAME_PILOT_S_FIREMANUVER"
 msgstr "救火隊員"
 
-#, fuzzy
 msgid "SKILL_NAME_PILOT_VALKYRIE"
 msgstr "Valkyrie's Wrath"
 
@@ -537,7 +510,6 @@ msgstr "神射手"
 msgid "SKILL_NAME_SNIPER"
 msgstr "百發百中"
 
-#, fuzzy
 msgid "SKILL_NAME_STEEP_PEAK"
 msgstr "Nosedive"
 

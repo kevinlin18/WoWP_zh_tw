@@ -5,8 +5,9 @@ msgstr ""
 "POT-Creation-Date: 2010-06-01 10:00+0300\n"
 "Last-Translator: kevinlin18 <https://github.com/kevinlin18/WoWP_zh_tw>\n"
 "Language-Team: WoT Team <noreply@wargaming.net>\n"
+"Language: \n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "EXIT_BUTTON"
@@ -797,6 +798,9 @@ msgstr "您將學習如何發射火箭彈，摧毀地面目標。"
 
 msgid "LESSON_PASSED"
 msgstr "訓練完成！"
+
+msgid "LOBBY_TUTORIAL_UNAVAILABLE_GO_TO_STANDART_BATTLE"
+msgstr "無法使用。在標準戰鬥中獲得勝利吧。"
 
 msgid "MASTERCLASS_COMPLETE"
 msgstr "大師級任務成功完成！"
@@ -1877,6 +1881,3 @@ msgstr "恭喜你！訓練成功！"
 
 msgid "TUTORIAL_TOKENS"
 msgstr "令牌"
-
-msgid "LOBBY_TUTORIAL_UNAVAILABLE_GO_TO_STANDART_BATTLE"
-msgstr "無法使用。在標準戰鬥中獲得勝利吧。"

@@ -6,8 +6,9 @@ msgstr ""
 "PO-Revision-Date: 2010-06-01 10:00+0300\n"
 "Last-Translator: WoT Translator <noreply@wargaming.net>\n"
 "Language-Team: WoT Team <noreply@wargaming.net>\n"
+"Language: \n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "NAMES/GER1"
@@ -3787,6 +3788,18 @@ msgstr "弗裡茨"
 msgid "NAMES/GERN99"
 msgstr "弗雷德裡克"
 
+msgid "NAMES/GERU1"
+msgstr "von Staufen"
+
+msgid "NAMES/GERU2"
+msgstr "Weber"
+
+msgid "NAMES/GERUN1"
+msgstr "Charlotte"
+
+msgid "NAMES/GERUN2"
+msgstr "Hans"
+
 msgid "RANKSGER/1"
 msgstr "上校"
 
@@ -3816,15 +3829,3 @@ msgstr "一級上士"
 
 msgid "RANKSGER/9"
 msgstr "技術軍士"
-
-msgid "NAMES/GERU1"
-msgstr "von Staufen"
-
-msgid "NAMES/GERU2"
-msgstr "Weber"
-
-msgid "NAMES/GERUN1"
-msgstr "Charlotte"
-
-msgid "NAMES/GERUN2"
-msgstr "Hans"

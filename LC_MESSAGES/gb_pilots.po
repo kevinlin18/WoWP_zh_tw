@@ -6,8 +6,9 @@ msgstr ""
 "PO-Revision-Date: 2010-06-07 12:37+0200\n"
 "Last-Translator: Developer <noreply@wargaming.net>\n"
 "Language-Team: WoT Team <noreply@wargaming.net>\n"
+"Language: \n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "NAMES/GB1"
@@ -6745,6 +6746,12 @@ msgstr "傑佛瑞"
 msgid "NAMES/GBN99"
 msgstr "約翰"
 
+msgid "NAMES/GBU1"
+msgstr "Donovan"
+
+msgid "NAMES/GBUN1"
+msgstr "Charles"
+
 msgid "RANKSGB/1"
 msgstr "上校"
 
@@ -6804,9 +6811,3 @@ msgstr "二級准尉"
 
 msgid "RANKSGB2/9"
 msgstr "軍士長"
-
-msgid "NAMES/GBU1"
-msgstr "Donovan"
-
-msgid "NAMES/GBUN1"
-msgstr "Charles"

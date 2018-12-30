@@ -5,8 +5,9 @@ msgstr ""
 "POT-Creation-Date: 2010-06-01 10:00+0300\n"
 "Last-Translator: kevinlin18 <https://github.com/kevinlin18/WoWP_zh_tw>\n"
 "Language-Team: WoT Team <noreply@wargaming.net>\n"
+"Language: \n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "AFTERBATTLE_MESSAGE_ALL_PLAYERS_LEFT"
@@ -563,8 +564,8 @@ msgstr "敵方擊落飛碟!"
 
 msgid "AFTERBATTLE_STATISTICS_NO_STATS_FOR_PVE_MODE"
 msgstr ""
-"人機對戰數據將不計入戰鬥統計<br>完成相關任務可解鎖其它遊戲模式<br>"
-"並顯示更為詳細的戰鬥統計"
+"人機對戰數據將不計入戰鬥統計<br>完成相關任務可解鎖其它遊戲模式<br>並顯示更為"
+"詳細的戰鬥統計"
 
 msgid "AFTERBATTLE_STATISTICS_PREMIUM_BONUS_VALUE"
 msgstr "+50%"
@@ -621,8 +622,7 @@ msgid "BATTLERESULT_KILLED_BY_TURRET"
 msgstr "被高射砲擊毀"
 
 msgid "BATTLERESULT_KILLER_DATA"
-msgstr ""
-"<font color='#B9E1FF'>擊毀你的玩家:</font> {player} ({vehicle})"
+msgstr "<font color='#B9E1FF'>擊毀你的玩家:</font> {player} ({vehicle})"
 
 msgid "BATTLERESULT_KILLER_DATA_ENDGAME"
 msgstr "<font color='#B9E1FF'>擊毀:</font> {killerName}"
@@ -714,6 +714,12 @@ msgstr "{member_name}正在積累經驗，獲得另一個技能點"
 msgid "BATTLE_RESULT_EXP"
 msgstr "經驗"
 
+msgid "BATTLE_RESULT_FACTORY_NEW_QUEST_DONE"
+msgstr "Mission to reach the Stock configuration completed!"
+
+msgid "BATTLE_RESULT_FACTORY_NEW_QUEST_PROGRESS"
+msgstr "Progress of the mission to reach the Stock configuration"
+
 msgid "BATTLE_RESULT_GENERAL_EFFICIENCY"
 msgstr "一般表現"
 
@@ -735,7 +741,6 @@ msgstr "贏得了獎勵箱!"
 msgid "BATTLE_RESULT_JA_TR_STAT_TEXT_2"
 msgstr "距離下一個獎勵箱:"
 
-#, fuzzy
 msgid "BATTLE_RESULT_MAP_CLEANED"
 msgstr "The salvage party has cleared the battlefield."
 
@@ -784,7 +789,12 @@ msgstr "任務獎勵:"
 msgid "BATTLE_RESULT_SECTORS_CAPTURED"
 msgstr "佔領區域"
 
-#, fuzzy
+msgid "BATTLE_RESULT_SPECIALIST_QUEST_DONE"
+msgstr "Mission to reach the \"Specialist\" configuration completed!"
+
+msgid "BATTLE_RESULT_SPECIALIST_QUEST_PROGRESS"
+msgstr "Progress of the mission to reach the \"Specialist\" configuration"
+
 msgid "BATTLE_RESULT_TEST_FLIGHT"
 msgstr "(test flight)"
 

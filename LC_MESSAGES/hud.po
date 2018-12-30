@@ -8,7 +8,7 @@ msgstr ""
 "Language-Team: WoT Team <noreply@wargaming.net>\n"
 "Language: zh_TW\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Poedit 2.0.5\n"
 
@@ -51,18 +51,15 @@ msgstr "攻擊 <{player}>!"
 msgid "CHAT_COMMAND_F8_AIRBASE"
 msgstr "攻擊空軍基地！"
 
-#, fuzzy
 msgid "CHAT_COMMAND_F8_AIRFIELD"
 msgstr "Attack Staging Airfield!"
 
-#, fuzzy
 msgid "CHAT_COMMAND_F8_CITADEL"
 msgstr "Attack Fort!"
 
 msgid "CHAT_COMMAND_F8_COMMANDCENTER"
 msgstr "攻擊指揮中心！"
 
-#, fuzzy
 msgid "CHAT_COMMAND_F8_COMMUNICATIONCENTER"
 msgstr "Attack Communications Center!"
 
@@ -78,14 +75,12 @@ msgstr "攻擊採礦場！"
 msgid "CHAT_COMMAND_F8_MILITARYBASE"
 msgstr "攻擊軍事基地！"
 
-#, fuzzy
 msgid "CHAT_COMMAND_F8_RADIOPOINT"
 msgstr "Attack Field Headquarters!"
 
 msgid "CHAT_COMMAND_F8_RUNWAY"
 msgstr "攻擊前線簡易機場！"
 
-#, fuzzy
 msgid "CHAT_COMMAND_F8_WORKSHOP"
 msgstr "Attack Industrial Depot!"
 
@@ -95,18 +90,15 @@ msgstr "把 <{player}>交給我！"
 msgid "CHAT_COMMAND_F9_AIRBASE"
 msgstr "防守空軍基地！"
 
-#, fuzzy
 msgid "CHAT_COMMAND_F9_AIRFIELD"
 msgstr "Defend Staging Airfield!"
 
-#, fuzzy
 msgid "CHAT_COMMAND_F9_CITADEL"
 msgstr "Defend Fort!"
 
 msgid "CHAT_COMMAND_F9_COMMANDCENTER"
 msgstr "防守指揮中心！"
 
-#, fuzzy
 msgid "CHAT_COMMAND_F9_COMMUNICATIONCENTER"
 msgstr "Defend Communications Center!"
 
@@ -122,14 +114,12 @@ msgstr "防守採礦場！"
 msgid "CHAT_COMMAND_F9_MILITARYBASE"
 msgstr "防守軍事基地！"
 
-#, fuzzy
 msgid "CHAT_COMMAND_F9_RADIOPOINT"
 msgstr "Defend Field Headquarters!"
 
 msgid "CHAT_COMMAND_F9_RUNWAY"
 msgstr "防守前線簡易機場！"
 
-#, fuzzy
 msgid "CHAT_COMMAND_F9_WORKSHOP"
 msgstr "Defend Industrial Depot!"
 
@@ -510,6 +500,9 @@ msgstr "機槍"
 msgid "HELP_WEAPONS_AND_CALIBER"
 msgstr "4 -武器口徑"
 
+msgid "HUD_AA_GUNS_PROTECTED_WITH_ARMOR"
+msgstr "AA guns are protected with armor"
+
 msgid "HUD_ABOUT_DAMAGE_STR"
 msgstr "被 [{player}]擊中，受到的傷害為： {damage}"
 
@@ -558,7 +551,6 @@ msgstr "右機翼"
 msgid "HUD_AIRCRAFT_MODULE_TAIL"
 msgstr "機尾"
 
-#, fuzzy
 msgid "HUD_ALLY_AIR_STRIKE_INCOMING"
 msgstr "The Attack Flight reached the area of operation."
 
@@ -568,42 +560,51 @@ msgstr "被我方佔領！"
 msgid "HUD_ALLY_DEATH_KILLER_STR"
 msgstr "盟友 {ico1} [{k}]已摧毀 {ico2} [{v}]"
 
-#, fuzzy
 msgid "HUD_ALLY_INFLUENCE_75"
 msgstr "We have received 75% of the required resources!"
 
-#, fuzzy
+msgid "HUD_ALLY_SUPERIORITY_CAPS"
+msgstr "AIR SUPREMACY ACHIEVED"
+
+msgid "HUD_ALLY_SUPERIORITY_DESCRIPTION"
+msgstr "Our combat group has taken control of the area of operation"
+
 msgid "HUD_ALL_ALLY_DEAD"
 msgstr "All aircraft of the combat group destroyed!"
 
 msgid "HUD_ALL_ENEMY_DEAD"
 msgstr "只剩下一架敵機！"
 
-#, fuzzy
 msgid "HUD_ALTIMETER_BAROMETRIC"
 msgstr "Barometric"
+
+msgid "HUD_AMMOPACK_REGULAR"
+msgstr "Standard Ammunition"
+
+msgid "HUD_ARMORED_OBJECT_AA_SECTORS"
+msgstr "Armored targets: unit / AA gun / high-altitude AA gun"
 
 msgid "HUD_ARMORED_PART_MESSAGE"
 msgstr "機槍和機砲難以有效摧毀裝甲目標!"
 
-#, fuzzy
 msgid "HUD_ARMORED_WORKSHOP_OBJECT"
 msgstr "Armored workshops"
 
-#, fuzzy
-#| msgid "HUD_MESSAGE_LEADER_KILL_PLANES"
+msgid "HUD_ATTACK_LOST_ALL_BOMBERS_DESTROYED"
+msgstr "Strategic bombers destroyed"
+
+msgid "HUD_ATTACK_WIN_ALL_BOMBERS_DESTROYED"
+msgstr "Strategic bombers destroyed the target"
+
 msgid "HUD_ATTRITION_KILL_PLANE"
 msgstr "{plane_type} destroyed"
 
-#, fuzzy
 msgid "HUD_ATTRITION_MULTIPLIER_TIP_ALLY"
 msgstr "Combat Group's Effectiveness"
 
-#, fuzzy
 msgid "HUD_ATTRITION_MULTIPLIER_TIP_ENEMY"
 msgstr "Enemy Effectiveness"
 
-#, fuzzy
 msgid "HUD_BAROMETRIC_ALTIMETER"
 msgstr "Barometric altimeter"
 
@@ -613,51 +614,33 @@ msgstr "出擊倒數:"
 msgid "HUD_BATTLE_END_IS_NEAR_TIME"
 msgstr "戰鬥將於 {value} 秒後結束"
 
-#, fuzzy
-#| msgid "HUD_WARNING_MESSAGE_ALIGH_PLANE"
 msgid "HUD_BATTLE_LOG_MESSAGE_AIR_STRIKE_PLANE"
 msgstr "Attack Flight aircraft"
 
-#, fuzzy
-#| msgid "HUD_MESSAGES_ASSIST_VALUE"
 msgid "HUD_BATTLE_LOG_MESSAGE_ASSIST"
 msgstr "Assisted in destroying"
 
-#, fuzzy
-#| msgid "HUD_WARNING_MESSAGE_LEAVE_BATTLEFIELD"
 msgid "HUD_BATTLE_LOG_MESSAGE_BATTLELOG"
 msgstr "to scroll battle events"
 
-#, fuzzy
-#| msgid "HUD_MESSAGE_BATTLE_END_IS_NEAR"
 msgid "HUD_BATTLE_LOG_MESSAGE_BATTLELOG_KEYS"
 msgstr "[Ctrl + Scroll]"
 
-#, fuzzy
-#| msgid "HUD_MESSAGE_CREW_HAS_HEALED"
 msgid "HUD_BATTLE_LOG_MESSAGE_CRASHED"
 msgstr "crashed"
 
-#, fuzzy
 msgid "HUD_BATTLE_LOG_MESSAGE_HUGE_IMPACT"
 msgstr "Decisive contribution to destroying"
 
-#, fuzzy
-#| msgid "HUD_MESSAGE_ENEMY_KILLED"
 msgid "HUD_BATTLE_LOG_MESSAGE_KILLED"
 msgstr "destroyed"
 
-#, fuzzy
-#| msgid "HUD_MESSAGE_ENEMY_KILLED"
 msgid "HUD_BATTLE_LOG_MESSAGE_KILLED_BY_AA"
 msgstr "destroyed by AA guns"
 
-#, fuzzy
-#| msgid "HUD_MESSAGE_WING_WORK"
 msgid "HUD_BATTLE_LOG_MESSAGE_WING"
 msgstr "Flight mate"
 
-#, fuzzy
 msgid "HUD_CAPTURE_ENEMY_SECTORS"
 msgstr "Capture enemy sectors"
 
@@ -670,8 +653,6 @@ msgstr "給所有人:"
 msgid "HUD_CHAT_HISTORY"
 msgstr "[Page Up/Down] 顯示對話記錄"
 
-#, fuzzy
-#| msgid "HUD_CHAT_HISTORY"
 msgid "HUD_CHAT_HISTORY_KEYS"
 msgstr "[Page Up/Down]"
 
@@ -702,18 +683,15 @@ msgstr "為增援戰機選取出生點"
 msgid "HUD_CHOICE_SPECTATOR_CAMERA"
 msgstr "自由視角"
 
-#, fuzzy
 msgid "HUD_CHOICE_SPECTATOR_MODE"
 msgstr "Switch between camera modes"
 
 msgid "HUD_CLOSE"
 msgstr "關閉"
 
-#, fuzzy
 msgid "HUD_COMMAND_OBJECT"
 msgstr "Command post"
 
-#, fuzzy
 msgid "HUD_CONSUMABLES_AND_EQUIPMENT"
 msgstr "Equipment and consumables"
 
@@ -753,7 +731,6 @@ msgstr "語言攻擊"
 msgid "HUD_CONTEXT_MENU_FLUD"
 msgstr "垃圾資訊"
 
-#, fuzzy
 msgid "HUD_CONTEXT_MENU_FORBIDDEN_CLAN-NICKNAME"
 msgstr "Offensive nickname or clanname"
 
@@ -772,22 +749,18 @@ msgstr "從黑名單中刪除"
 msgid "HUD_CONTEXT_MENU_UNMUTE_PLAYER"
 msgstr "啟用語音資訊"
 
-#, fuzzy
 msgid "HUD_CONTROL_TOWER_OBJECT"
 msgstr "Control tower"
 
 msgid "HUD_CRYTICAL_SPEED_STR"
 msgstr "減速！"
 
-#, fuzzy
 msgid "HUD_CURRENT_SECTOR"
 msgstr "Current sector"
 
 msgid "HUD_CURRENT_WEAPON"
 msgstr "前射武器"
 
-#, fuzzy
-#| msgid "HUD_RADAR_TOWER_OBJECT"
 msgid "HUD_DAMAGE_DEALT_TO_OBJECT"
 msgstr "Damage to ground targets"
 
@@ -803,9 +776,14 @@ msgstr "防空戰機 (輕型)"
 msgid "HUD_DEFENDER_HEAVY"
 msgstr "防空戰機 (重型)"
 
-#, fuzzy
 msgid "HUD_DEFEND_ALLY_SECTORS"
 msgstr "Defend allied sectors"
+
+msgid "HUD_DEF_LOST_MAIN_OBJECT_DESTROYED"
+msgstr "Enemy strategic bombers destroyed the target"
+
+msgid "HUD_DEF_WIN_ALL_BOMBERS_DESTROYED"
+msgstr "Enemy strategic bombers destroyed"
 
 msgid "HUD_DESCRIPTION_BOMBARDIER"
 msgstr "敵機被炸彈擊落"
@@ -822,14 +800,12 @@ msgstr "敵機被撞毀"
 msgid "HUD_DESCRIPTION_RELIABLE_REAR"
 msgstr "敵機被砲手擊落"
 
-#, fuzzy
 msgid "HUD_DESCRIPTION_REVENGE"
 msgstr "Destroyed enemy aircraft in revenge"
 
 msgid "HUD_DESCRIPTION_ROCKETEER"
 msgstr "敵機被火箭彈擊落"
 
-#, fuzzy
 msgid "HUD_DESCRIPTION_SECTOR_AIRBASE"
 msgstr "Allows you to choose between reinforcement aircraft"
 
@@ -848,7 +824,6 @@ msgstr "縮短增援戰機的抵達時間"
 msgid "HUD_DESCRIPTION_SECTOR_ALL_AIRFIELDS"
 msgstr "可修理戰機"
 
-#, fuzzy
 msgid "HUD_DESCRIPTION_SECTOR_COMMANDCENTER"
 msgstr ""
 "Provides communications with the front headquarters for calling in an Attack "
@@ -857,11 +832,9 @@ msgstr ""
 msgid "HUD_DESCRIPTION_SECTOR_COMMANDCENTER_1"
 msgstr "呼叫<font color='#e5a82e'>轟炸機隊</font>攻擊敵方地面目標"
 
-#, fuzzy
 msgid "HUD_DESCRIPTION_SECTOR_FACTORY"
 msgstr "Provides an increased influence in the area of operation"
 
-#, fuzzy
 msgid "HUD_DESCRIPTION_SECTOR_FOUNDRY"
 msgstr "Regularly produces a large number of resources"
 
@@ -912,11 +885,9 @@ msgstr "敵方基地被摧毀"
 msgid "HUD_ENEMIES_ELIMINATION_STR"
 msgstr "敵方戰機被全部摧毀"
 
-#, fuzzy
 msgid "HUD_ENEMY_ACHIEVEMENTS"
 msgstr "Enemy achievements"
 
-#, fuzzy
 msgid "HUD_ENEMY_AIR_STRIKE_INCOMING"
 msgstr "Enemy Attack Flight detected."
 
@@ -941,16 +912,18 @@ msgstr "敵方已在任務區域取得 75% 的優勢！"
 msgid "HUD_ENEMY_PLANES"
 msgstr "擊落敵方戰機"
 
-#, fuzzy
-#| msgid "HUD_PLANE_DESTROYED"
 msgid "HUD_ENEMY_PLANES_DESTROYED_A-B"
 msgstr "Enemy aircraft destroyed (attack aircraft and bombers)"
 
-#, fuzzy
-#| msgid "HUD_PLANE_DESTROYED"
 msgid "HUD_ENEMY_PLANES_DESTROYED_F-MR-HF"
 msgstr ""
 "Enemy aircraft destroyed (fighters, multirole fighters, and heavy fighters)"
+
+msgid "HUD_ENEMY_SUPERIORITY_CAPS"
+msgstr "ENEMY ACHIEVED AIR SUPREMACY"
+
+msgid "HUD_ENEMY_SUPERIORITY_DESCRIPTION"
+msgstr "Control over the area of operation has been lost"
 
 msgid "HUD_ENEMY_TEAM_SCORE"
 msgstr "敵方"
@@ -961,15 +934,122 @@ msgstr "警告！發動機過熱！"
 msgid "HUD_ENGINE_OVERHEAT_STR"
 msgstr "發動機過熱！"
 
-#, fuzzy
-#| msgid "HUD_EVENT_REINFORCEMENTS_NOT_AVAILABLE"
+msgid "HUD_ESCORT_ASSAULT_ATTACK_TIP_1"
+msgstr "Capture enemy strongholds by destroying ground targets"
+
+msgid "HUD_ESCORT_ASSAULT_ATTACK_TIP_2"
+msgstr "Suppress high-altitude AA defenses"
+
+msgid "HUD_ESCORT_ASSAULT_ATTACK_TIP_3"
+msgstr "Use bombs and rockets to destroy ground targets"
+
+msgid "HUD_ESCORT_BOMBER_ATTACK_TIP_1"
+msgstr "Capture enemy strongholds by destroying ground targets"
+
+msgid "HUD_ESCORT_BOMBER_ATTACK_TIP_2"
+msgstr ""
+"Draw the fire of the enemy AA guns to help the bomber group break through"
+
+msgid "HUD_ESCORT_BOMBER_ATTACK_TIP_3"
+msgstr "Use the turret to defend, or activate boost to disengage from action"
+
+msgid "HUD_ESCORT_FIGHTER_ATTACK_TIP_1"
+msgstr "Escort the groups of strategic bombers"
+
+msgid "HUD_ESCORT_FIGHTER_ATTACK_TIP_2"
+msgstr "Destroy enemy aircraft attacking the bomber group"
+
+msgid "HUD_ESCORT_FIGHTER_ATTACK_TIP_3"
+msgstr ""
+"Engage in maneuvering combat under the cover of turret fire from the bomber "
+"group"
+
+msgid "HUD_ESCORT_FIGHTER_DEF_TIP_1"
+msgstr "Destroy aircraft of the enemy combat group"
+
+msgid "HUD_ESCORT_FIGHTER_DEF_TIP_2"
+msgstr "Defend high-altitude AA defenses in the stronghold sectors"
+
+msgid "HUD_ESCORT_FIGHTER_DEF_TIP_3"
+msgstr "Destroy enemy strategic bombers"
+
+msgid "HUD_ESCORT_HF_ATTACK_TIP_1"
+msgstr "Destroy enemy aircraft"
+
+msgid "HUD_ESCORT_HF_ATTACK_TIP_2"
+msgstr "Defend the groups of strategic bombers"
+
+msgid "HUD_ESCORT_HF_ATTACK_TIP_3"
+msgstr "Suppress high-altitude AA defenses by using your outboard weapons"
+
+msgid "HUD_ESCORT_HF_DEF_TIP_1"
+msgstr "Destroy enemy strategic bombers"
+
+msgid "HUD_ESCORT_HF_DEF_TIP_2"
+msgstr "Destroy aircraft of the enemy combat group"
+
+msgid "HUD_ESCORT_HF_DEF_TIP_3"
+msgstr "Use your speed and armament advantage in high-altitude combat"
+
+msgid "HUD_ESCORT_NAVI_ATTACK_TIP_1"
+msgstr "Suppress high-altitude AA defenses by using your outboard weapons"
+
+msgid "HUD_ESCORT_NAVI_ATTACK_TIP_2"
+msgstr "Provide protection for attack aircraft in your combat group"
+
+msgid "HUD_ESCORT_NAVI_ATTACK_TIP_3"
+msgstr "Escort the groups of strategic bombers"
+
+msgid "HUD_ESCORT_NAVI_DEF_TIP_1"
+msgstr "Destroy aircraft of the enemy combat group"
+
+msgid "HUD_ESCORT_NAVI_DEF_TIP_2"
+msgstr "Defend high-altitude AA defenses in the stronghold sectors"
+
+msgid "HUD_ESCORT_NAVI_DEF_TIP_3"
+msgstr "Destroy enemy strategic bombers"
+
+msgid "HUD_EVENT_ALLY_ATTACK_INCOMING_TEXT"
+msgstr "Bomber groups are entering the area of operation"
+
 msgid "HUD_EVENT_ALLY_REINFORCEMENTS_NOT_AVAILABLE"
 msgstr "Reserve of reinforcement aircraft depleted"
 
-#, fuzzy
-#| msgid "HUD_EVENT_REINFORCEMENTS_NOT_AVAILABLE"
+msgid "HUD_EVENT_ALLY_REINFORCEMENTS_NOT_AVAILABLE_CAPS"
+msgstr "RESERVE OF REINFORCEMENTS DEPLETED"
+
+msgid "HUD_EVENT_ALLY_REINFORCEMENTS_NOT_AVAILABLE_DESCRIPTION"
+msgstr "Last allied aircraft!"
+
+msgid "HUD_EVENT_ATTACK_BOMBERS_INCOMING"
+msgstr "Advance!"
+
+msgid "HUD_EVENT_ATTACK_INCOMING_CAPS"
+msgstr "NEW BREAKTHROUGH ATTEMPT"
+
+msgid "HUD_EVENT_ATTACK_OUR_BOMBERS_INCOMING"
+msgstr "New bomber groups are en route"
+
+msgid "HUD_EVENT_BOMBERS_REACHED_POINT"
+msgstr "Bombers have forced their way through to their target"
+
+msgid "HUD_EVENT_ENEMY_ATTACK_INCOMING_TEXT"
+msgstr "Enemy bomber groups are approaching the front line"
+
+msgid "HUD_EVENT_ENEMY_BOMBERS_DESTROYED"
+msgstr "Enemy bomber group destroyed"
+
 msgid "HUD_EVENT_ENEMY_REINFORCEMENTS_NOT_AVAILABLE"
 msgstr "Enemy's reserve of reinforcement aircraft depleted"
+
+msgid "HUD_EVENT_ENEMY_REINFORCEMENTS_NOT_AVAILABLE_CAPS"
+msgstr "ENEMY RESERVES DEPLETED"
+
+msgid "HUD_EVENT_ENEMY_REINFORCEMENTS_NOT_AVAILABLE_DESCRIPTION"
+msgstr "Last enemy aircraft!"
+
+msgid "HUD_EVENT_ENEMY_SPAWN_POINT_MOVED"
+msgstr "Enemy reinforcements have advanced towards the front line"
 
 msgid "HUD_EVENT_INCOMING_MIN"
 msgstr "將會在 {value} 分鐘後到來"
@@ -977,11 +1057,74 @@ msgstr "將會在 {value} 分鐘後到來"
 msgid "HUD_EVENT_INCOMING_SEC"
 msgstr "將會在 {value} 秒後到來"
 
+msgid "HUD_EVENT_LAST_ALLY_ATTACK_INCOMING_SMALL_BANNER"
+msgstr "Escort the bomber groups to their target by all means!"
+
+msgid "HUD_EVENT_LAST_ALLY_ATTACK_INCOMING_TEXT"
+msgstr "Bombers must reach their target by any means!"
+
+msgid "HUD_EVENT_LAST_ATTACK_INCOMING"
+msgstr "Last attack"
+
+msgid "HUD_EVENT_LAST_ATTACK_INCOMING_CAPS"
+msgstr "LAST BREAKTHROUGH ATTEMPT"
+
+msgid "HUD_EVENT_LAST_ENEMY_ATTACK_INCOMING_SMALL_BANNER"
+msgstr "Destroy the bomber groups by all means!"
+
+msgid "HUD_EVENT_LAST_ENEMY_ATTACK_INCOMING_TEXT"
+msgstr "The remaining enemy bombers must be destroyed!"
+
 msgid "HUD_EVENT_NAME_WESTWALL"
 msgstr "西牆任務"
 
+msgid "HUD_EVENT_NOT_ENOUGH_BOMBERS"
+msgstr "There are not enough bombers remaining to achieve the objective"
+
+msgid "HUD_EVENT_NOT_ENOUGH_BOMBERS_HEADING"
+msgstr "DESTROY THE INTERCEPTING GROUP!"
+
+msgid "HUD_EVENT_NOT_ENOUGH_ENEMY_BOMBERS"
+msgstr "There are not enough enemy bombers remaining to break through"
+
+msgid "HUD_EVENT_NOT_ENOUGH_ENEMY_BOMBERS_HEADING"
+msgstr "DON'T LET THE ENEMY DESTROY YOU!"
+
+msgid "HUD_EVENT_OUR_BOMBERS_DESTROYED"
+msgstr "Bomber group destroyed"
+
+msgid "HUD_EVENT_OUR_SPAWN_POINT_MOVED"
+msgstr "Our reinforcements have advanced towards the front line"
+
+msgid "HUD_EVENT_PROTECT"
+msgstr "Need cover!"
+
+msgid "HUD_EVENT_PROTECT_DESCRIPTION"
+msgstr "The bomber group is approaching the front line"
+
 msgid "HUD_EVENT_REINFORCEMENTS_NOT_AVAILABLE"
 msgstr "無法呼叫支援"
+
+msgid "HUD_EVENT_RETREAT"
+msgstr "Retreat!"
+
+msgid "HUD_EVENT_RETREAT_ENEMY_BOMBERS_INCOMING"
+msgstr "New enemy bomber groups are expected"
+
+msgid "HUD_EVENT_SECTOR_SPAWNED"
+msgstr "Front restored"
+
+msgid "HUD_EVENT_SECTOR_SPAWNED_DESCRIPTION"
+msgstr "AA defense systems deployed"
+
+msgid "HUD_EVENT_SPAWN_POINT_MOVED"
+msgstr "Front broken through"
+
+msgid "HUD_EVENT_TO_INTERCEPT"
+msgstr "Intercept!"
+
+msgid "HUD_EVENT_TO_INTERCEPT_DESCRIPTION"
+msgstr "Enemy bomber group is approaching"
 
 msgid "HUD_F1_ARMORED_OBJECT_AA_SECTORS"
 msgstr "地面裝甲目標"
@@ -1001,8 +1144,6 @@ msgstr "分區"
 msgid "HUD_F1_SECTOR_DESCRIPTION_COMBINED_1"
 msgstr "可作為增援戰機的出生點。每 5 秒可獲得 3 點優勢點數。"
 
-#, fuzzy
-#| msgid "HUD_F1_SECTOR_DESCRIPTION_COMBINED_1"
 msgid "HUD_F1_SECTOR_DESCRIPTION_COMBINED_1_ALT"
 msgstr "Can be selected as a spawn point for reinforcement aircraft."
 
@@ -1011,7 +1152,6 @@ msgstr ""
 "可作為增援戰機的出生點。縮短他們的抵達時間 10 秒。每 5 秒可獲得 3 點優勢點"
 "數。"
 
-#, fuzzy
 msgid "HUD_F1_SECTOR_DESCRIPTION_COMBINED_3"
 msgstr ""
 "Can be selected as a spawn point for reinforcement aircraft. Allows a new "
@@ -1020,7 +1160,6 @@ msgstr ""
 "restored and critical damage to be repaired. Provides 3 resources every 5 "
 "seconds."
 
-#, fuzzy
 msgid "HUD_F1_SECTOR_DESCRIPTION_COMBINED_3_ALT"
 msgstr ""
 "Can be selected as a spawn point for reinforcement aircraft. Allows a new "
@@ -1031,28 +1170,21 @@ msgstr ""
 msgid "HUD_F1_SECTOR_DESCRIPTION_COMBINED_4"
 msgstr "可向敵方地面目標發射火箭。每 5 秒可獲得 3 點優勢點數。"
 
-#, fuzzy
-#| msgid "HUD_F1_SECTOR_DESCRIPTION_COMBINED_4"
 msgid "HUD_F1_SECTOR_DESCRIPTION_COMBINED_4_ALT"
 msgstr "Launches rocket strikes on enemy ground targets."
 
 msgid "HUD_F1_SECTOR_DESCRIPTION_COMBINED_5"
 msgstr "呼叫轟炸機隊攻擊敵方地面目標。每 5 秒可獲得 3 點優勢點數。"
 
-#, fuzzy
-#| msgid "HUD_F1_SECTOR_DESCRIPTION_COMBINED_5"
 msgid "HUD_F1_SECTOR_DESCRIPTION_COMBINED_5_ALT"
 msgstr "Calls in bomber Flights to attack enemy ground targets."
 
 msgid "HUD_F1_SECTOR_DESCRIPTION_COMBINED_6"
 msgstr "每 5 秒可獲得 3 點優勢點數。每 120 秒可獲得額外 80 點優勢點數。"
 
-#, fuzzy
-#| msgid "HUD_F1_SECTOR_DESCRIPTION_COMBINED_6"
 msgid "HUD_F1_SECTOR_DESCRIPTION_COMBINED_6_ALT"
 msgstr "Features good resistance to enemy attacks."
 
-#, fuzzy
 msgid "HUD_F1_TEAM_SPAWNS_AVAILABLE"
 msgstr "Number of reinforcement aircraft available for the whole combat group"
 
@@ -1068,170 +1200,211 @@ msgstr "出擊"
 msgid "HUD_FRAME_PER_SECOND"
 msgstr "fps"
 
+msgid "HUD_GAMEMOD_ESCORT_ATTACK_TIP_1"
+msgstr "To achieve victory, escort the bomber groups to their target"
+
+msgid "HUD_GAMEMOD_ESCORT_ATTACK_TIP_2"
+msgstr ""
+"Destroy AA defenses that the enemy deploys in the path of the bomber groups"
+
+msgid "HUD_GAMEMOD_ESCORT_ATTACK_TIP_3"
+msgstr ""
+"Capturing the forward stronghold sector moves the respawn point closer to "
+"the front line"
+
+msgid "HUD_GAMEMOD_ESCORT_DEF_TIP_1"
+msgstr "To achieve victory, prevent bomber groups from reaching their target"
+
+msgid "HUD_GAMEMOD_ESCORT_DEF_TIP_2"
+msgstr ""
+"Our high-altitude defenses are especially effective against enemy bomber "
+"groups"
+
+msgid "HUD_GAMEMOD_ESCORT_DEF_TIP_3"
+msgstr ""
+"Losing the forward stronghold sector moves the enemy respawn point closer to "
+"the front line"
+
+msgid "HUD_GAMEMOD_ESCORT_GENERAL_TIP_1"
+msgstr ""
+"The battlefield layout constantly changes throughout the battle—be prepared "
+"to react quickly"
+
+msgid "HUD_GAMEMOD_ESCORT_GENERAL_TIP_2"
+msgstr "Destroying all enemy aircraft is another key to victory"
+
+msgid "HUD_GAMEMOD_GENERAL_INFO"
+msgstr "In-battle markers"
+
+msgid "HUD_GAMEMOD_GENERAL_INFO_AA"
+msgstr "Number of high-altitude AA guns"
+
+msgid "HUD_GAMEMOD_GENERAL_INFO_BOMBERS"
+msgstr "Number of aircraft in the bomber group"
+
+msgid "HUD_GAMEMOD_GENERAL_INFO_MAIN_OBJECT"
+msgstr "A strategic target is an objective to be destroyed by the bomber group"
+
+msgid "HUD_GAMEMOD_GENERAL_INFO_REINFORCEMENTS"
+msgstr "Reinforcements"
+
 msgid "HUD_GAME_RESULT_STR"
 msgstr "{s} {r}"
+
+msgid "HUD_GAME_TEAM_ATTACK"
+msgstr "Escort strategic bombers to their target"
+
+msgid "HUD_GAME_TEAM_ATTACK_DESCRIPTION"
+msgstr ""
+"Enable bomber groups to break through the enemy defense line. Suppress high-"
+"altitude AA guns in strongholds in advance."
+
+msgid "HUD_GAME_TEAM_DEF"
+msgstr "Defend the strategic target"
+
+msgid "HUD_GAME_TEAM_DEF_DESCRIPTION"
+msgstr ""
+"Don’t let the bomber groups reach their target. Defend high-altitude AA guns "
+"in strongholds: they are especially effective against the enemy."
+
+msgid "HUD_GAME_TIP_TEAM_ATTACK_CAPS"
+msgstr "ESCORTING GROUP"
+
+msgid "HUD_GAME_TIP_TEAM_DEF_CAPS"
+msgstr "INTERCEPTING GROUP"
 
 msgid "HUD_GAME_TYPE_DESCRIPTION_AREACONQUEST"
 msgstr "戰鬥隊伍任務: 在任務區域取得最高優勢。佔領分區以獲得勝利。"
 
-#, fuzzy
 msgid "HUD_GAME_TYPE_NAME_AREACONQUEST"
 msgstr "Conquest"
 
-#, fuzzy
 msgid "HUD_GAME_TYPE_NAME_ATTRITION"
 msgstr "Attrition"
 
-#, fuzzy
+msgid "HUD_GAME_TYPE_NAME_ESCORT"
+msgstr "Escort"
+
 msgid "HUD_GAME_TYPE_NAME_INVASION"
 msgstr "Invasion"
 
-#, fuzzy
 msgid "HUD_GENERAL_TIP_ATTACK_1"
 msgstr "Bombs and rockets are effective in destroying armored ground targets."
 
-#, fuzzy
 msgid "HUD_GENERAL_TIP_ATTACK_2"
 msgstr ""
 "Sustained fire with forward-firing weapons leads to weapon overheating. Rate "
 "of fire becomes significantly reduced."
 
-#, fuzzy
 msgid "HUD_GENERAL_TIP_ATTACK_3"
 msgstr ""
 "Large-caliber autocannons can immobilize enemy aircraft by dealing critical "
 "damage to them."
 
-#, fuzzy
 msgid "HUD_GENERAL_TIP_ATTACK_4"
 msgstr ""
 "Batteries of rapid-fire machine guns prove most effective in combination "
 "with incendiary ammunition."
 
-#, fuzzy
 msgid "HUD_GENERAL_TIP_ATTACK_5"
 msgstr "Defensive turrets serve to repel attacks from enemy fighters."
 
-#, fuzzy
 msgid "HUD_GENERAL_TIP_ATTACK_6"
 msgstr ""
 "Attack enemies equipped with defensive turrets outside their field of fire."
 
-#, fuzzy
 msgid "HUD_GENERAL_TIP_ATTACK_7"
 msgstr "Heavy fighters are most effective against large and durable aircraft."
 
-#, fuzzy
 msgid "HUD_GENERAL_TIP_DAMAGE_1"
 msgstr "Critical damage to an engine results in the loss of speed and thrust."
 
-#, fuzzy
 msgid "HUD_GENERAL_TIP_DAMAGE_2"
 msgstr ""
 "Critical damage to wings or tail significantly reduces aircraft "
 "maneuverability."
 
-#, fuzzy
 msgid "HUD_GENERAL_TIP_DAMAGE_3"
 msgstr "An injury to a pilot affects firing performance."
 
-#, fuzzy
 msgid "HUD_GENERAL_TIP_DAMAGE_4"
 msgstr "An injured gunner cannot fire the gun."
 
-#, fuzzy
 msgid "HUD_GENERAL_TIP_GAMEMOD_1"
 msgstr ""
 "Control over airfields provides tactical advantage to a combat group and "
 "allows flexibility to respond to changes on the battlefield."
 
-#, fuzzy
 msgid "HUD_GENERAL_TIP_GAMEMOD_2"
 msgstr "Plants produce a significant number of resources."
 
-#, fuzzy
 msgid "HUD_GENERAL_TIP_GAMEMOD_3"
 msgstr ""
 "Military bases can attack ground targets located in the closest sectors. "
 "Their enhanced defense systems pose a danger for all types of aircraft."
 
-#, fuzzy
 msgid "HUD_GENERAL_TIP_GAMEMOD_4"
 msgstr ""
 "Command centers allow for communication with the front headquarters to call "
 "in support."
 
-#, fuzzy
 msgid "HUD_GENERAL_TIP_GAMEMOD_5"
 msgstr ""
 "Control over strategic ground targets increases the number of acquired "
 "resources."
 
-#, fuzzy
 msgid "HUD_GENERAL_TIP_GAMEMOD_6"
 msgstr ""
 "Each sector is protected by an anti-aircraft defense system consisting of AA "
 "guns and air defense aircraft."
 
-#, fuzzy
 msgid "HUD_GENERAL_TIP_GAMEMOD_7"
 msgstr ""
 "Destroy ground targets and air defense aircraft in a sector to capture it. "
 "Destroying enemy aircraft also contributes to speedy capture."
 
-#, fuzzy
 msgid "HUD_GENERAL_TIP_GAMEMOD_8"
 msgstr "Personal points are earned for being actively involved in the action."
 
-#, fuzzy
 msgid "HUD_GENERAL_TIP_GAMEMOD_9"
 msgstr ""
 "Efficiency of a certain type of aircraft in capturing sectors depends on the "
 "type of a strategic ground target located in this sector."
 
-#, fuzzy
 msgid "HUD_GENERAL_TIP_MANEUVER_1"
 msgstr "Active maneuvers help to dodge fire of enemy aircraft and AA guns."
 
-#, fuzzy
 msgid "HUD_GENERAL_TIP_MANEUVER_2"
 msgstr ""
 "High-speed barrel rolls allow an aircraft to effectively escape from enemy "
 "attack."
 
-#, fuzzy
 msgid "HUD_GENERAL_TIP_MANEUVER_3"
 msgstr "Fighters are superior to other types of aircraft in maneuverability."
 
-#, fuzzy
 msgid "HUD_GENERAL_TIP_MANEUVER_4"
 msgstr ""
 "To perform a 360 or more degree turn, bank and turn in the necessary "
 "direction."
 
-#, fuzzy
 msgid "HUD_GENERAL_TIP_MANEUVER_5"
 msgstr "Loop is a 360 degree turn in the vertical plane."
 
-#, fuzzy
 msgid "HUD_GENERAL_TIP_MANEUVER_6"
 msgstr ""
 "Barrel roll is a maneuver in which an aircraft makes a complete rotation on "
 "both its longitudinal and lateral axes."
 
-#, fuzzy
 msgid "HUD_GENERAL_TIP_MANEUVER_7"
 msgstr ""
 "Advantage in maneuverability allows the aircraft to quickly get on the tail "
 "of an enemy aircraft and choose an optimum angle of attack."
 
-#, fuzzy
 msgid "HUD_GENERAL_TIP_MANEUVER_8"
 msgstr ""
 "Pitch the aircraft up and down (up and down arrow keys by default) to more "
 "accurately control the aircraft when turning."
 
-#, fuzzy
 msgid "HUD_GENERAL_TIP_MANEUVER_9"
 msgstr ""
 "A \"canopy roll\" maneuver allows for escaping enemy fire and increasing the "
@@ -1239,47 +1412,38 @@ msgstr ""
 "a pitch key (up and down arrows by default) and a roll key (A and D by "
 "default)."
 
-#, fuzzy
 msgid "HUD_GENERAL_TIP_SPEED_FLIGHT_1"
 msgstr ""
 "Boost is an engine mode that significantly increases thrust and airspeed."
 
-#, fuzzy
 msgid "HUD_GENERAL_TIP_SPEED_FLIGHT_10"
 msgstr "Advantage in airspeed helps to easily escape from danger."
 
-#, fuzzy
 msgid "HUD_GENERAL_TIP_SPEED_FLIGHT_11"
 msgstr ""
 "Heavy fighters are superior to other types of aircraft in speed performance."
 
-#, fuzzy
 msgid "HUD_GENERAL_TIP_SPEED_FLIGHT_2"
 msgstr ""
 "Dive is a descent at a high angle. A diving attack is mostly used by heavy "
 "fighters."
 
-#, fuzzy
 msgid "HUD_GENERAL_TIP_SPEED_FLIGHT_3"
 msgstr ""
 "Ceiling is the maximum altitude at which an aircraft is capable of "
 "continuing stable horizontal flight."
 
-#, fuzzy
 msgid "HUD_GENERAL_TIP_SPEED_FLIGHT_4"
 msgstr "Activate boost to quickly gain airspeed or altitude."
 
-#, fuzzy
 msgid "HUD_GENERAL_TIP_SPEED_FLIGHT_5"
 msgstr "Extend flaps to quickly lose airspeed."
 
-#, fuzzy
 msgid "HUD_GENERAL_TIP_SPEED_FLIGHT_6"
 msgstr ""
 "Aircraft controllability is reduced when its airspeed reaches its lower "
 "limit."
 
-#, fuzzy
 msgid "HUD_GENERAL_TIP_SPEED_FLIGHT_7"
 msgstr ""
 "If the speed of an aircraft drops below its critical limit, the aircraft "
@@ -1288,7 +1452,6 @@ msgstr ""
 msgid "HUD_GENERAL_TIP_SPEED_FLIGHT_8"
 msgstr "啓動增壓或俯衝以快速提高速度。"
 
-#, fuzzy
 msgid "HUD_GENERAL_TIP_SPEED_FLIGHT_9"
 msgstr ""
 "Flight performance is improved when an aircraft flies within its optimum "
@@ -1315,11 +1478,9 @@ msgstr "生命值{health} "
 msgid "HUD_HEAVY_ARMORED_OBJECT"
 msgstr "重裝甲地面目標"
 
-#, fuzzy
 msgid "HUD_HIGHT_MAX"
 msgstr "Flight ceiling"
 
-#, fuzzy
 msgid "HUD_INCREASE_RADAR"
 msgstr "Increase radar size"
 
@@ -1332,7 +1493,6 @@ msgstr "出擊"
 msgid "HUD_INVASION_ATTACK_SECTORS"
 msgstr "佔領所有分區"
 
-#, fuzzy
 msgid "HUD_INVASION_ATTACK_SECTORS_DESCRIPTION"
 msgstr ""
 "Take control of all enemy sectors in the allotted time. Capturing each new "
@@ -1341,7 +1501,6 @@ msgstr ""
 msgid "HUD_INVASION_DEFEND_SECTORS"
 msgstr "防守你的分區"
 
-#, fuzzy
 msgid "HUD_INVASION_DEFEND_SECTORS_DESCRIPTION"
 msgstr ""
 "Prevent the enemy from capturing all sectors in the allotted time. Capturing "
@@ -1374,8 +1533,6 @@ msgstr "失敗"
 msgid "HUD_LOOSERS_STR_APRIL"
 msgstr "搞砸了!"
 
-#, fuzzy
-#| msgid "HUD_LOOSE_DOMINATION_STR"
 msgid "HUD_LOOSE_ATTRITION_STR"
 msgstr "The enemy depleted our last resources"
 
@@ -1388,7 +1545,6 @@ msgstr "敵方控制了所有分區"
 msgid "HUD_LOOSE_SUPERIORITY_STR"
 msgstr "敵方取得制空權！"
 
-#, fuzzy
 msgid "HUD_LOOSE_TIME_OVER_STR"
 msgstr "The momentum was lost. The attack time expired."
 
@@ -1428,15 +1584,12 @@ msgstr "中型地面裝甲目標"
 msgid "HUD_MEDIUM_OBJECT"
 msgstr "中型地面目標"
 
-#, fuzzy
 msgid "HUD_MESSAGES_100-INFLUENCE"
 msgstr "of resources"
 
-#, fuzzy
 msgid "HUD_MESSAGES_25-INFLUENCE"
 msgstr "of resources"
 
-#, fuzzy
 msgid "HUD_MESSAGES_50-INFLUENCE"
 msgstr "of resources"
 
@@ -1446,7 +1599,6 @@ msgstr "戰機在你的協助下被摧毀"
 msgid "HUD_MESSAGES_BATTLE_POINTS_VALUE"
 msgstr "獲得戰鬥點數"
 
-#, fuzzy
 msgid "HUD_MESSAGES_BATTLE_SCORE_ASSIST_BOMBER"
 msgstr "Assistance in destroying Attack Flight bomber"
 
@@ -1459,11 +1611,9 @@ msgstr "協助摧毀"
 msgid "HUD_MESSAGES_BATTLE_SCORE_ASSIST_GROUND"
 msgstr "協助摧毀地面目標"
 
-#, fuzzy
 msgid "HUD_MESSAGES_BATTLE_SCORE_ATTACK_SECTOR"
 msgstr "Offensive actions"
 
-#, fuzzy
 msgid "HUD_MESSAGES_BATTLE_SCORE_BONUS_FOR_END"
 msgstr "Bonus for participation in the battle until the end"
 
@@ -1473,54 +1623,42 @@ msgstr "佔領分區的主力"
 msgid "HUD_MESSAGES_BATTLE_SCORE_CRUCIALCONTRIBUTION_ENEMY_PLANES"
 msgstr "擊毀敵人的主力"
 
-#, fuzzy
 msgid "HUD_MESSAGES_BATTLE_SCORE_DAMAGE_ALLY"
 msgstr "Ally damaged"
 
-#, fuzzy
 msgid "HUD_MESSAGES_BATTLE_SCORE_DAMAGE_BOMBER"
 msgstr "Attack Flight bomber damaged"
 
-#, fuzzy
 msgid "HUD_MESSAGES_BATTLE_SCORE_DAMAGE_DEFENDER"
 msgstr "Air defense aircraft damaged"
 
-#, fuzzy
 msgid "HUD_MESSAGES_BATTLE_SCORE_DAMAGE_ENEMY_PLANES"
 msgstr "Enemy aircraft damaged"
 
-#, fuzzy
 msgid "HUD_MESSAGES_BATTLE_SCORE_DAMAGE_HEAVY_ARMORED_OBJECT"
 msgstr "Heavily armored ground target damaged"
 
-#, fuzzy
 msgid "HUD_MESSAGES_BATTLE_SCORE_DAMAGE_MEDIUM_OBJECT"
 msgstr "Medium ground target damaged"
 
-#, fuzzy
 msgid "HUD_MESSAGES_BATTLE_SCORE_DAMAGE_SMALL_OBJECT"
 msgstr "Small ground target damaged"
 
-#, fuzzy
 msgid "HUD_MESSAGES_BATTLE_SCORE_DAMAGE_SPECIAL_OBJECT"
 msgstr "Major ground target damaged"
 
 msgid "HUD_MESSAGES_BATTLE_SCORE_DEFEND_SECTOR"
 msgstr "防守分區"
 
-#, fuzzy
 msgid "HUD_MESSAGES_BATTLE_SCORE_DESTROY_AIRFIELD"
 msgstr "Airfield"
 
-#, fuzzy
 msgid "HUD_MESSAGES_BATTLE_SCORE_DESTROY_ARMORED_PART"
 msgstr "Armored section of ground target"
 
-#, fuzzy
 msgid "HUD_MESSAGES_BATTLE_SCORE_DESTROY_BOMBER"
 msgstr "Attack Flight bomber"
 
-#, fuzzy
 msgid "HUD_MESSAGES_BATTLE_SCORE_DESTROY_PART"
 msgstr "Section of ground target"
 
@@ -1530,7 +1668,6 @@ msgstr "主要地面目標"
 msgid "HUD_MESSAGES_BATTLE_SCORE_KILL_ALLY"
 msgstr "隊友被擊落"
 
-#, fuzzy
 msgid "HUD_MESSAGES_BATTLE_SCORE_PARTICIPATION_CAP_SECTOR"
 msgstr "Participation in capturing sector"
 
@@ -1546,7 +1683,6 @@ msgstr "已摧毀地面目標"
 msgid "HUD_MESSAGES_PRESS_BUTTON_TO_LOCK_TARGET"
 msgstr "按下 C 以鎖定這個目標。"
 
-#, fuzzy
 msgid "HUD_MESSAGES_SPACE"
 msgstr "Space"
 
@@ -1574,8 +1710,6 @@ msgstr "你擊中了一架友機!"
 msgid "HUD_MESSAGE_ALLY_SUPERIORITY"
 msgstr "我方已控制了整個任務區域"
 
-#, fuzzy
-#| msgid "HUD_MESSAGE_OBJECT_LEAD_TEAM"
 msgid "HUD_MESSAGE_ASSAULT_NOT_ALLOWED_IN_DEF_TEAM"
 msgstr "Attack aircraft are<br>unavailable for a defending group."
 
@@ -1588,18 +1722,15 @@ msgstr "協助擊毀 {name}"
 msgid "HUD_MESSAGE_ASSIST_ON_KILL"
 msgstr "助攻得分： {assist_percent}"
 
-#, fuzzy
 msgid "HUD_MESSAGE_ATTACK_COMPLEX"
 msgstr "Support the attack!"
 
-#, fuzzy
 msgid "HUD_MESSAGE_ATTACK_PLUS_TIME"
 msgstr "+{time} s"
 
 msgid "HUD_MESSAGE_ATTACK_THIS_ENEMY"
 msgstr "<集中攻擊 {player}!>"
 
-#, fuzzy
 msgid "HUD_MESSAGE_ATTACK_TIME_INCREASED"
 msgstr "Attack time increased!"
 
@@ -1621,8 +1752,6 @@ msgstr "基地受損"
 msgid "HUD_MESSAGE_BATTLE_END_IS_NEAR"
 msgstr "任務即將結束"
 
-#, fuzzy
-#| msgid "HUD_MESSAGE_OBJECT_LEAD_TEAM"
 msgid "HUD_MESSAGE_BOMBERS_NOT_ALLOWED_IN_DEF_TEAM"
 msgstr "Bombers are<br>unavailable for a defending group."
 
@@ -1713,6 +1842,12 @@ msgstr "引擎恢復運作！"
 msgid "HUD_MESSAGE_EVENT_NAME_STORM_FRONT"
 msgstr "暴風雨"
 
+msgid "HUD_MESSAGE_EVENT_NAME_STORM_FRONT_CAPS"
+msgstr "SQUALL LINE"
+
+msgid "HUD_MESSAGE_EVENT_NAME_STORM_FRONT_DESCRIPTION"
+msgstr "Last remaining aircraft!"
+
 msgid "HUD_MESSAGE_FLAPS_DRAWN"
 msgstr "開啟襟翼"
 
@@ -1761,13 +1896,9 @@ msgstr "你擊敗了戰鬥中的領先者 (根據所獲優勢點數)!"
 msgid "HUD_MESSAGE_MODULE_WORK"
 msgstr "{module} 已經恢復運作！"
 
-#, fuzzy
-#| msgid "HUD_MESSAGE_PLAYER_DEAD_FROM_GUNS"
 msgid "HUD_MESSAGE_MULTIPLIER_ALLY_RESOURCES"
 msgstr "when enemy aircraft are destroyed by your combat group"
 
-#, fuzzy
-#| msgid "HUD_MESSAGE_LAST_ENEMY"
 msgid "HUD_MESSAGE_MULTIPLIER_ENEMY_RESOURCES"
 msgstr "when friendly aircraft are destroyed by the enemy"
 
@@ -1859,7 +1990,6 @@ msgstr ""
 "<FONT SIZE='{size}' COLOR='#{msg_color2}'>+{points}</FONT> <FONT "
 "COLOR='#{msg_color1}'>{type}</FONT>"
 
-#, fuzzy
 msgid "HUD_MESSAGE_SUPERIORITY_1"
 msgstr "Superiority!"
 
@@ -1929,22 +2059,18 @@ msgstr "我方擊落飛碟!"
 msgid "HUD_MORE_FRIENDLY_SAUCERS_DEAD"
 msgstr "敵方擊落飛碟!"
 
-#, fuzzy
 msgid "HUD_NAME_BOMBARDIER"
 msgstr "Bombardier"
 
-#, fuzzy
 msgid "HUD_NAME_FIRESPITTING"
 msgstr "Fire Breathing"
 
-#, fuzzy
 msgid "HUD_NAME_FLAME_OF_HEAVEN"
 msgstr "Flames in the Sky"
 
 msgid "HUD_NAME_OBJECT_AIRBASE"
 msgstr "「空軍基地」分區"
 
-#, fuzzy
 msgid "HUD_NAME_OBJECT_AIRFIELD"
 msgstr "Sector \"Staging Airfield\""
 
@@ -1957,8 +2083,6 @@ msgstr "「煉油廠」分區"
 msgid "HUD_NAME_OBJECT_FIELDCAMP"
 msgstr "「屯駐地」分區"
 
-#, fuzzy
-#| msgid "HUD_NAME_OBJECT_FOUNDRY"
 msgid "HUD_NAME_OBJECT_FOOTHOLD"
 msgstr "Sector \"Stronghold\""
 
@@ -1968,29 +2092,24 @@ msgstr "「採礦場」分區"
 msgid "HUD_NAME_OBJECT_MILITARYBASE"
 msgstr "「軍事基地」分區"
 
-#, fuzzy
 msgid "HUD_NAME_OBJECT_RADIOPOINT"
 msgstr "Sector \"Field Headquarters\""
 
 msgid "HUD_NAME_OBJECT_RUNWAY"
 msgstr "「簡易機場」分區"
 
-#, fuzzy
 msgid "HUD_NAME_OBJECT_WORKSHOP"
 msgstr "Sector \"Industrial Depot\""
 
-#, fuzzy
 msgid "HUD_NAME_RAMMING"
 msgstr "Ramming attack"
 
-#, fuzzy
 msgid "HUD_NAME_RELIABLE_REAR"
 msgstr "Rear Cover"
 
 msgid "HUD_NAME_REVENGE"
 msgstr "復仇者"
 
-#, fuzzy
 msgid "HUD_NAME_ROCKETEER"
 msgstr "Rocketeer"
 
@@ -2000,19 +2119,15 @@ msgstr "空軍基地"
 msgid "HUD_NAME_SECTOR_AIRBASE_CAPS"
 msgstr "空軍基地"
 
-#, fuzzy
 msgid "HUD_NAME_SECTOR_AIRFIELD"
 msgstr "Staging Airfield"
 
-#, fuzzy
 msgid "HUD_NAME_SECTOR_AIRFIELD_CAPS"
 msgstr "STAGING AIRFIELD"
 
-#, fuzzy
 msgid "HUD_NAME_SECTOR_CITADEL"
 msgstr "Fort"
 
-#, fuzzy
 msgid "HUD_NAME_SECTOR_CITADEL_CAPS"
 msgstr "FORT"
 
@@ -2022,11 +2137,9 @@ msgstr "指揮中心"
 msgid "HUD_NAME_SECTOR_COMMANDCENTER_CAPS"
 msgstr "指揮中心"
 
-#, fuzzy
 msgid "HUD_NAME_SECTOR_COMMUNICATIONCENTER"
 msgstr "Communications Center"
 
-#, fuzzy
 msgid "HUD_NAME_SECTOR_COMMUNICATIONCENTER_CAPS"
 msgstr "COMMUNICATIONS CENTER"
 
@@ -2042,15 +2155,17 @@ msgstr "屯駐地"
 msgid "HUD_NAME_SECTOR_FIELDCAMP_CAPS"
 msgstr "屯駐地"
 
-#, fuzzy
-#| msgid "HUD_NAME_SECTOR_FOUNDRY"
 msgid "HUD_NAME_SECTOR_FOOTHOLD"
 msgstr "Stronghold"
 
-#, fuzzy
-#| msgid "HUD_NAME_SECTOR_FOUNDRY_CAPS"
+msgid "HUD_NAME_SECTOR_FOOTHOLD_2"
+msgstr "Опорный Пункт"
+
 msgid "HUD_NAME_SECTOR_FOOTHOLD_CAPS"
 msgstr "STRONGHOLD"
+
+msgid "HUD_NAME_SECTOR_FOOTHOLD_DESCRIPTION"
+msgstr "A well-fortified area with an extensive AA defense system"
 
 msgid "HUD_NAME_SECTOR_FOUNDRY"
 msgstr "採礦廠"
@@ -2064,11 +2179,9 @@ msgstr "軍事基地"
 msgid "HUD_NAME_SECTOR_MILITARYBASE_CAPS"
 msgstr "軍事基地"
 
-#, fuzzy
 msgid "HUD_NAME_SECTOR_RADIOPOINT"
 msgstr "Field Headquarters"
 
-#, fuzzy
 msgid "HUD_NAME_SECTOR_RADIOPOINT_CAPS"
 msgstr "FIELD HEADQUARTERS"
 
@@ -2078,11 +2191,9 @@ msgstr "前線簡易機場"
 msgid "HUD_NAME_SECTOR_RUNWAY_CAPS"
 msgstr "前線簡易機場"
 
-#, fuzzy
 msgid "HUD_NAME_SECTOR_WORKSHOP"
 msgstr "Industrial Depot"
 
-#, fuzzy
 msgid "HUD_NAME_SECTOR_WORKSHOP_CAPS"
 msgstr "INDUSTRIAL DEPOT"
 
@@ -2095,8 +2206,6 @@ msgstr "佔領和控制區域"
 msgid "HUD_NEXT_TARGET"
 msgstr "在隊友間切換"
 
-#, fuzzy
-#| msgid "HUD_PLANE_DESTROYED"
 msgid "HUD_OBJECTS_DESTROYED"
 msgstr "Ground targets destroyed"
 
@@ -2136,43 +2245,33 @@ msgstr "{ico} [{v}] 墜毀了"
 msgid "HUD_OWN_ELIMINATION_STR"
 msgstr "我方被擊敗！"
 
-#, fuzzy
 msgid "HUD_PACKETS_LOST"
 msgstr "packet loss:"
 
 msgid "HUD_PERSONALS_AIRCRAFT_QUESTS"
 msgstr "個人機種任務"
 
-#, fuzzy
 msgid "HUD_PERSONALS_QUESTS_PROGRESS_LVL"
 msgstr "Grade progress"
 
-#, fuzzy
-#| msgid "HUD_PERSONAL_SCORE"
 msgid "HUD_PERSONAL_POINTS"
 msgstr "Personal points:"
 
 msgid "HUD_PERSONAL_SCORE"
 msgstr "個人得分"
 
-#, fuzzy
-#| msgid "HUD_PERSONAL_SCORE"
 msgid "HUD_PERSONAL_SCORE_RECEIVED"
 msgstr "Personal points received"
 
 msgid "HUD_PING"
 msgstr "ping:"
 
-#, fuzzy
 msgid "HUD_PLANES_AVAILABLES"
 msgstr "Sorties left:"
 
-#, fuzzy
 msgid "HUD_PLANES_DEFENDER"
 msgstr "Air defense aircraft"
 
-#, fuzzy
-#| msgid "HUD_PLANE_DESTROYED"
 msgid "HUD_PLANES_DESTROYED"
 msgstr "Aerial targets destroyed"
 
@@ -2248,7 +2347,6 @@ msgstr "（掉線）"
 msgid "HUD_PLAYER_ON_FIRE_STR"
 msgstr "{playerName} 著火了"
 
-#, fuzzy
 msgid "HUD_POINTS_EARNED_IN"
 msgstr "Calculating resources in:"
 
@@ -2258,7 +2356,6 @@ msgstr "準備中:"
 msgid "HUD_PREPARE_1"
 msgstr "準備中:"
 
-#, fuzzy
 msgid "HUD_PREVIOUS_TARGET"
 msgstr "Switch to Previous Ally"
 
@@ -2565,7 +2662,6 @@ msgstr "主要目標完成!"
 msgid "HUD_QUEST_DESCRIPTION_TEAM_WORK"
 msgstr "協助擊落敵機"
 
-#, fuzzy
 msgid "HUD_QUEST_NAME_TEAM_WORK"
 msgstr "Teamwork"
 
@@ -2581,274 +2677,192 @@ msgstr "視野範圍"
 msgid "HUD_RAMMING_OBSTACLE_STR"
 msgstr "發生碰撞，受到傷害： {damage}"
 
-#, fuzzy
 msgid "HUD_RECAP_NOT_AVAILABLE"
 msgstr "Sector cannot be captured"
 
-#, fuzzy
 msgid "HUD_REDUCE_RADAR"
 msgstr "Reduce radar size"
 
-#, fuzzy
 msgid "HUD_REINFORCEMENTS_AVAILABLE"
 msgstr "Number of available reinforcement aircraft"
 
 msgid "HUD_REINFORCEMENTS_NOT_AVAILABLE"
 msgstr "無法出擊"
 
-#, fuzzy
-#| msgid "REPLAY_MENU_HEADER"
 msgid "HUD_REPLAY_ATTENTION_HEADER"
 msgstr "Attention!"
 
-#, fuzzy
 msgid "HUD_REPLAY_BACK_TO_PLAY_BUTTON"
 msgstr "Back to Replay"
 
-#, fuzzy
-#| msgid "REPLAY_FREE_CAMERA_ON"
 msgid "HUD_REPLAY_CAMERA"
 msgstr "Camera"
 
-#, fuzzy
-#| msgid "REPLAY_HEADER_PLAYER_PANEL"
 msgid "HUD_REPLAY_CHECKBOX_PLAYER_NAME"
 msgstr "Show player name"
 
-#, fuzzy
 msgid "HUD_REPLAY_CHECKBOX_WITHOUT_UI"
 msgstr "Hide battle interface"
 
-#, fuzzy
 msgid "HUD_REPLAY_CUSTOM_MOVIE_CAMERA"
 msgstr "Custom camera preset"
 
-#, fuzzy
-#| msgid "HUD_PLAYERS_LIST_BUTTON"
 msgid "HUD_REPLAY_EXIT_BUTTON"
 msgstr "Exit Replay"
 
-#, fuzzy
-#| msgid "HUD_CHAT_ALL_MODE"
 msgid "HUD_REPLAY_FILM_MODE"
 msgstr "\"Movie\" mode"
 
-#, fuzzy
 msgid "HUD_REPLAY_GENERAL"
 msgstr "General"
 
-#, fuzzy
 msgid "HUD_REPLAY_HIDE-SHOW_UI"
 msgstr "Hide/Show interface"
 
-#, fuzzy
-#| msgid "REPLAY_FREE_CAMERA_ON"
 msgid "HUD_REPLAY_MOVIE_CAMERA-1"
 msgstr "Camera 1"
 
-#, fuzzy
-#| msgid "REPLAY_FREE_CAMERA_ON"
 msgid "HUD_REPLAY_MOVIE_CAMERA-10"
 msgstr "Camera 10"
 
-#, fuzzy
-#| msgid "REPLAY_FREE_CAMERA_ON"
 msgid "HUD_REPLAY_MOVIE_CAMERA-2"
 msgstr "Camera 2"
 
-#, fuzzy
-#| msgid "REPLAY_FREE_CAMERA_ON"
 msgid "HUD_REPLAY_MOVIE_CAMERA-3"
 msgstr "Camera 3"
 
-#, fuzzy
-#| msgid "REPLAY_FREE_CAMERA_ON"
 msgid "HUD_REPLAY_MOVIE_CAMERA-4"
 msgstr "Camera 4"
 
-#, fuzzy
-#| msgid "REPLAY_FREE_CAMERA_ON"
 msgid "HUD_REPLAY_MOVIE_CAMERA-5"
 msgstr "Camera 5"
 
-#, fuzzy
-#| msgid "REPLAY_FREE_CAMERA_ON"
 msgid "HUD_REPLAY_MOVIE_CAMERA-6"
 msgstr "Camera 6"
 
-#, fuzzy
-#| msgid "REPLAY_FREE_CAMERA_ON"
 msgid "HUD_REPLAY_MOVIE_CAMERA-7"
 msgstr "Camera 7"
 
-#, fuzzy
-#| msgid "REPLAY_FREE_CAMERA_ON"
 msgid "HUD_REPLAY_MOVIE_CAMERA-8"
 msgstr "Camera 8"
 
-#, fuzzy
-#| msgid "REPLAY_FREE_CAMERA_ON"
 msgid "HUD_REPLAY_MOVIE_CAMERA-9"
 msgstr "Camera 9"
 
-#, fuzzy
-#| msgid "HUD_CHOICE_SPECTATOR_CAMERA"
 msgid "HUD_REPLAY_MOVIE_DEFAULT_CAMERA"
 msgstr "Default camera"
 
-#, fuzzy
-#| msgid "HUD_PLAYERS_LIST_BUTTON"
 msgid "HUD_REPLAY_NO_BUTTON"
 msgstr "No"
 
-#, fuzzy
-#| msgid "HUD_DRAW_PLAYERS"
 msgid "HUD_REPLAY_PLAYBACK"
 msgstr "Playback"
 
-#, fuzzy
-#| msgid "REPLAY_HOTKEY_PLAY_PAUSE"
 msgid "HUD_REPLAY_PLAYBACK-PAUSE"
 msgstr "Play / Pause"
 
-#, fuzzy
-#| msgid "REPLAY_MENU_HEADER"
 msgid "HUD_REPLAY_PLAYBACK_MENU_HEADER"
 msgstr "Replay menu"
 
-#, fuzzy
 msgid "HUD_REPLAY_PLAYBACK_SPEED-X025"
 msgstr "0.25x"
 
-#, fuzzy
 msgid "HUD_REPLAY_PLAYBACK_SPEED-X05"
 msgstr "0.5x"
 
-#, fuzzy
 msgid "HUD_REPLAY_PLAYBACK_SPEED-X075"
 msgstr "0.75x"
 
-#, fuzzy
 msgid "HUD_REPLAY_PLAYBACK_SPEED-X1"
 msgstr "1.0x"
 
-#, fuzzy
 msgid "HUD_REPLAY_PLAYBACK_SPEED-X2"
 msgstr "2.0x"
 
-#, fuzzy
 msgid "HUD_REPLAY_PLAYBACK_SPEED-X4"
 msgstr "4.0x"
 
-#, fuzzy
 msgid "HUD_REPLAY_PLAYBACK_SPEED-X8"
 msgstr "8.0x"
 
-#, fuzzy
-#| msgid "REPLAY_MESSAGE_PRESS_TO_SEE_PLAYER"
 msgid "HUD_REPLAY_PRESS_KEY_PLAYER"
 msgstr "Press {key} to show the player"
 
-#, fuzzy
-#| msgid "HUD_PLAYER_LOADING_STR"
 msgid "HUD_REPLAY_PRINT_SCREEN"
 msgstr "Take screenshot"
 
-#, fuzzy
-#| msgid "REPLAY_HOTKEY_SHOW_PLAYER"
 msgid "HUD_REPLAY_SHOW-HIDE_PLAYER"
 msgstr "Show/Hide player"
 
-#, fuzzy
-#| msgid "REPLAY_HEADER_HOTKEYS"
 msgid "HUD_REPLAY_SHOW_HOTKEYS"
 msgstr "Show hotkeys"
 
-#, fuzzy
-#| msgid "HUD_ENEMY_TEAM_SCORE"
 msgid "HUD_REPLAY_SHOW_TEAM_SCORE"
 msgstr "Show team panels"
 
-#, fuzzy
 msgid "HUD_REPLAY_SLOWDOWN_PLAYBACK"
 msgstr "Slow down"
 
-#, fuzzy
 msgid "HUD_REPLAY_SPEEDUP_PLAYBACK"
 msgstr "Speed up"
 
-#, fuzzy
-#| msgid "HUD_MESSAGE_SPECTATOR_MODE"
 msgid "HUD_REPLAY_STANDART_MODE"
 msgstr "Default mode"
 
-#, fuzzy
-#| msgid "HUD_START_FIRE"
 msgid "HUD_REPLAY_START_REWIND"
 msgstr ""
 "Rewinding can take several minutes.<br><font size='6'><br></font>Start "
 "rewinding?"
 
-#, fuzzy
 msgid "HUD_REPLAY_TOOLTIPS_CAMERA"
 msgstr "Camera"
 
-#, fuzzy
-#| msgid "HUD_TOOLTIPS_WITHOUT_BONUSES"
 msgid "HUD_REPLAY_TOOLTIPS_CONTINUE"
 msgstr "Resume"
 
-#, fuzzy
 msgid "HUD_REPLAY_TOOLTIPS_PLAYBACK_SPEED"
 msgstr "Play speed"
 
-#, fuzzy
 msgid "HUD_REPLAY_TOOLTIPS_REPEAT"
 msgstr "Repeat"
 
-#, fuzzy
-#| msgid "HUD_TOOLTIPS_MY_PLANE"
 msgid "HUD_REPLAY_TOOLTIPS_SET_PAUSE"
 msgstr "Pause"
 
-#, fuzzy
 msgid "HUD_REPLAY_TOOLTIPS_UI"
 msgstr "Interface"
 
-#, fuzzy
 msgid "HUD_REPLAY_TURN_ON-OFF_POSTEFFECTS"
 msgstr "Enable/Disable post-effects"
 
-#, fuzzy
-#| msgid "HUD_PLAYERS_LIST_BUTTON"
 msgid "HUD_REPLAY_YES_BUTTON"
 msgstr "Yes"
 
-#, fuzzy
-#| msgid "HUD_PREPARE"
 msgid "HUD_RESOURCES"
 msgstr "Resources"
 
-#, fuzzy
-#| msgid "HUD_MESSAGE_POINTS_LEAD_TEAM"
 msgid "HUD_RESOURCE_POINTS_MULTIPLIER"
 msgstr "{value}x effectiveness"
 
-#, fuzzy
 msgid "HUD_RULES_DESCRIPTION_ATTRITION"
 msgstr ""
 "Destroy aircraft from the enemy combat group, depleting their resources."
 "<br>Sectors under your control increase their losses."
 
-#, fuzzy
-#| msgid "HUD_QUESTS_ADDITIONAL"
 msgid "HUD_RULES_HEADER_ATTRITION"
 msgstr "Deplete enemy resources"
 
-#, fuzzy
-#| msgid "HUD_WIN_SECTORS_STR"
+msgid "HUD_SCALE_REINFORCEMENTS_AVAILABLE"
+msgstr "Number of available reinforcement aircraft"
+
+msgid "HUD_SCALE_REINFORCEMENTS_UNAVAILABLE"
+msgstr "Reinforcements are unavailable"
+
 msgid "HUD_SECTORS_CAPTURED"
 msgstr "Sectors captured"
+
+msgid "HUD_SECTOR_ARMORED"
+msgstr "Fortified sector"
 
 msgid "HUD_SECTOR_ATTACK_ON"
 msgstr "駕駛下列機種時攻擊:"
@@ -2892,7 +2906,6 @@ msgstr "被大量的高射砲和不同種的戰鬥機良好的防守著。"
 msgid "HUD_SECTOR_DESCRIPTION_DEF_AIRBASE_MAIN"
 msgstr "備有少量高射砲，但被大量的戰鬥機防守著。"
 
-#, fuzzy
 msgid "HUD_SECTOR_DESCRIPTION_DEF_COMMANDCENTER_MAIN"
 msgstr ""
 "Equipped with an extensive anti-aircraft defense system and protected by "
@@ -2940,11 +2953,9 @@ msgstr "包含地面裝甲目標。"
 msgid "HUD_SECTOR_DESCRIPTION_OBJECT_4"
 msgstr "包含重裝甲地面目標。"
 
-#, fuzzy
 msgid "HUD_SECTOR_DESCRIPTION_OBJECT_5"
 msgstr "Contains well-fortified major ground target."
 
-#, fuzzy
 msgid "HUD_SECTOR_DESCRIPTION_OBJECT_6"
 msgstr "Contains fortified ground targets."
 
@@ -2956,11 +2967,9 @@ msgstr ""
 "每 <font color='#e5a82e'>5 秒</font><font color='#e5a82e'>優勢點數 +3</"
 "font>。"
 
-#, fuzzy
 msgid "HUD_SECTOR_IS_NOT_WORKING"
 msgstr "Inactive"
 
-#, fuzzy
 msgid "HUD_SECTOR_IS_NOT_WORKING_ALT"
 msgstr "Inactive"
 
@@ -2985,6 +2994,9 @@ msgstr "呼叫支援"
 msgid "HUD_SECTOR_MESSAGES_VICTORY_POINTS_INFLUENCE_INCREASE"
 msgstr "優勢點數 +{victory_points}"
 
+msgid "HUD_SECTOR_REDEPLOY"
+msgstr "Redeploying…"
+
 msgid "HUD_SECTOR_SPECIAL_CHARACTERISTICS"
 msgstr "特別屬性:"
 
@@ -3003,14 +3015,12 @@ msgstr "{ico1} [{k}] 將 {ico2} [{v}]擊毀"
 msgid "HUD_SOMEBODY_DEATH_SUICIDE_STR"
 msgstr "{ico} [{v}]墜毀"
 
-#, fuzzy
 msgid "HUD_SPECTATOR_MODE"
 msgstr "Spectator mode"
 
 msgid "HUD_SPLASH_UNMAPPED_CONTROLS_HEADER"
 msgstr "請設定您的控制鍵！"
 
-#, fuzzy
 msgid "HUD_STALL_SPEED"
 msgstr "Stall Speed"
 
@@ -3041,64 +3051,50 @@ msgstr "+{points} 優勢點數"
 msgid "HUD_TEAM_MEMBERS"
 msgstr "戰鬥隊伍"
 
-#, fuzzy
-#| msgid "HUD_FLIGHT"
 msgid "HUD_TEST_FLIGHT"
 msgstr "Test flight"
 
-#, fuzzy
 msgid "HUD_TEST_FLIGHT_CAPS"
 msgstr "TEST FLIGHT"
 
-#, fuzzy
-#| msgid "HUD_TIPS_FACTORY_DESCRIPTION"
 msgid "HUD_TEST_FLIGHT_DESCRIPTION"
 msgstr ""
 "A flight for testing the mounted equipment and consumable configuration. "
 "Experience and credit income per battle is significantly reduced."
 
-#, fuzzy
 msgid "HUD_TEST_FLIGHT_TIP-1"
 msgstr "A free test version of the equipment is used"
 
-#, fuzzy
 msgid "HUD_TEST_FLIGHT_TIP-2"
 msgstr "Experience and credit income per battle is significantly reduced"
 
-#, fuzzy
 msgid "HUD_TEST_FLIGHT_TIP-3"
 msgstr "Aircraft cannot be changed in a test battle"
 
-#, fuzzy
+msgid "HUD_TIME_LEFT_TO_REACH_POINT"
+msgstr "Group's target:"
+
 msgid "HUD_TIME_LEFT_TO_REPAIR_TURRET"
 msgstr "Turret will become operational in {SS}"
 
-#, fuzzy
 msgid "HUD_TIPS_AIRBASE_DESCRIPTION"
 msgstr "Allows a new available aircraft of the same tier to be selected"
 
-#, fuzzy
 msgid "HUD_TIPS_ASSAULT"
 msgstr "ATTACK AIRCRAFT"
 
-#, fuzzy
 msgid "HUD_TIPS_ATTACK_GROUP"
 msgstr "ATTACKING GROUP"
 
-#, fuzzy
-#| msgid "HUD_TIPS_CONQUEST_MODE"
 msgid "HUD_TIPS_ATTRITION_MODE"
 msgstr "ATTRITION"
 
-#, fuzzy
 msgid "HUD_TIPS_BOMBERS"
 msgstr "BOMBERS"
 
-#, fuzzy
 msgid "HUD_TIPS_CAPTURE_SECTORS"
 msgstr "SECTOR CAPTURE"
 
-#, fuzzy
 msgid "HUD_TIPS_CLASS_QUESTS"
 msgstr "AIRCRAFT TYPE MISSIONS"
 
@@ -3108,238 +3104,193 @@ msgstr "呼叫轟炸機隊攻擊敵方地面目標"
 msgid "HUD_TIPS_CONQUEST_MODE"
 msgstr "征服"
 
-#, fuzzy
 msgid "HUD_TIPS_DEFENCE_GROUP"
 msgstr "DEFENDING GROUP"
 
 msgid "HUD_TIPS_FACTORY_DESCRIPTION"
 msgstr "每 120 秒可獲得額外 80 點優勢點數"
 
-#, fuzzy
 msgid "HUD_TIPS_FAST_MESSAGES"
 msgstr "CHAT SHORTCUTS"
 
-#, fuzzy
 msgid "HUD_TIPS_FIGHTERS"
 msgstr "FIGHTERS"
+
+msgid "HUD_TIPS_FOOTHOLD_DESCRIPTION"
+msgstr "Requires more active actions to be captured"
 
 msgid "HUD_TIPS_GAMEMOD"
 msgstr "遊戲模式"
 
-#, fuzzy
-#| msgid "HUD_TIPS_GAMEMOD"
 msgid "HUD_TIPS_GAMEMOD_CONQUEST"
 msgstr "Game Mode \"Conquest\""
 
-#, fuzzy
+msgid "HUD_TIPS_GAMEMOD_ESCORT"
+msgstr "Game mode \"Escort\""
+
 msgid "HUD_TIPS_GAMEMOD_INVASION"
 msgstr "Game mode \"Invasion\""
 
-#, fuzzy
 msgid "HUD_TIPS_HEAVY_FIGHTERS"
 msgstr "HEAVY FIGHTERS"
 
 msgid "HUD_TIPS_HOT_BUTTONS"
 msgstr "快速鍵"
 
-#, fuzzy
 msgid "HUD_TIPS_HOW_TO_PLAY_ATTACK-DEFENCE"
 msgstr "Destroying all enemy aircraft is another key to victory"
 
-#, fuzzy
 msgid "HUD_TIPS_HOW_TO_PLAY_ATTACK_1"
 msgstr ""
 "To win a battle, capture all enemy sectors during a limited period of time"
 
-#, fuzzy
 msgid "HUD_TIPS_HOW_TO_PLAY_ATTACK_2"
 msgstr "The enemy cannot recapture sectors captured by your combat group"
 
-#, fuzzy
 msgid "HUD_TIPS_HOW_TO_PLAY_ATTACK_3"
 msgstr "Capturing a sector gives extra time to attack"
 
-#, fuzzy
 msgid "HUD_TIPS_HOW_TO_PLAY_ATTACK_4"
 msgstr "The number of sorties is limited, which works in your group's favor"
 
-#, fuzzy
 msgid "HUD_TIPS_HOW_TO_PLAY_ATTRITION_1"
 msgstr "Destroy enemy aircraft, depleting their resources"
 
-#, fuzzy
 msgid "HUD_TIPS_HOW_TO_PLAY_ATTRITION_2"
 msgstr "The combat group that runs out of resources first loses the battle"
 
-#, fuzzy
 msgid "HUD_TIPS_HOW_TO_PLAY_ATTRITION_3"
 msgstr ""
 "Sectors under the control of your combat group increase the overall "
 "effectiveness of your actions in battle"
 
-#, fuzzy
 msgid "HUD_TIPS_HOW_TO_PLAY_ATTRITION_4"
 msgstr ""
 "The higher the effectiveness of the combat group, the more significant the "
 "loss of an aircraft is to the enemy"
 
-#, fuzzy
 msgid "HUD_TIPS_HOW_TO_PLAY_CLASSES_1"
 msgstr "Defend key ground targets"
 
-#, fuzzy
 msgid "HUD_TIPS_HOW_TO_PLAY_CLASSES_10"
 msgstr ""
 "Fast universal aircraft designed to intercept enemy aircraft at high altitude"
 
-#, fuzzy
 msgid "HUD_TIPS_HOW_TO_PLAY_CLASSES_11"
 msgstr ""
 "Durable aircraft designed to destroy ground targets in low-level flight"
 
-#, fuzzy
 msgid "HUD_TIPS_HOW_TO_PLAY_CLASSES_12"
 msgstr ""
 "High-speed heavy aircraft designed to destroy ground targets from high "
 "altitude"
 
-#, fuzzy
 msgid "HUD_TIPS_HOW_TO_PLAY_CLASSES_2"
 msgstr "Provide support to aircraft of the other types"
 
-#, fuzzy
 msgid "HUD_TIPS_HOW_TO_PLAY_CLASSES_3"
 msgstr "Attack enemy aircraft"
 
-#, fuzzy
 msgid "HUD_TIPS_HOW_TO_PLAY_CLASSES_4"
 msgstr "Suppress enemy defenses"
 
-#, fuzzy
 msgid "HUD_TIPS_HOW_TO_PLAY_CLASSES_5"
 msgstr "Attack key ground targets"
 
-#, fuzzy
 msgid "HUD_TIPS_HOW_TO_PLAY_CLASSES_6"
 msgstr "Destroy enemy high-altitude aircraft"
 
-#, fuzzy
 msgid "HUD_TIPS_HOW_TO_PLAY_CLASSES_7"
 msgstr "Use powerful defensive guns"
 
-#, fuzzy
 msgid "HUD_TIPS_HOW_TO_PLAY_CLASSES_8"
 msgstr "Maneuverable aircraft designed to repel enemy attacks and cover allies"
 
-#, fuzzy
 msgid "HUD_TIPS_HOW_TO_PLAY_CLASSES_9"
 msgstr ""
 "Universal aircraft designed to dogfight and destroy small ground targets"
 
-#, fuzzy
 msgid "HUD_TIPS_HOW_TO_PLAY_CLASS_QUESTS_1"
 msgstr "Each aircraft has 3 aircraft type-specific missions"
 
-#, fuzzy
 msgid "HUD_TIPS_HOW_TO_PLAY_CLASS_QUESTS_2"
 msgstr ""
 "Completing these missions raises the grade of the aircraft type and ensures "
 "a good rank in the combat group"
 
-#, fuzzy
 msgid "HUD_TIPS_HOW_TO_PLAY_CLASS_QUESTS_3"
 msgstr ""
 "To view the list of aircraft type-specific missions and their progress, "
 "press and hold"
 
-#, fuzzy
 msgid "HUD_TIPS_HOW_TO_PLAY_CONQUEST_1"
 msgstr "At the start of a battle, sectors belong to neither of the sides"
 
-#, fuzzy
 msgid "HUD_TIPS_HOW_TO_PLAY_CONQUEST_2"
 msgstr "To capture a sector, destroy ground and aerial targets within it"
 
-#, fuzzy
 msgid "HUD_TIPS_HOW_TO_PLAY_CONQUEST_3"
 msgstr ""
 "Once a sector is captured, it cannot be recaptured by the enemy for 30 "
 "seconds"
 
-#, fuzzy
 msgid "HUD_TIPS_HOW_TO_PLAY_DEFENCE_1"
 msgstr ""
 "To win a battle, retain control over at least one sector before the battle "
 "is over"
 
-#, fuzzy
 msgid "HUD_TIPS_HOW_TO_PLAY_DEFENCE_2"
 msgstr "You cannot recapture sectors captured by the enemy"
 
-#, fuzzy
 msgid "HUD_TIPS_HOW_TO_PLAY_DEFENCE_3"
 msgstr "Capturing a sector gives the enemy extra time to attack"
 
-#, fuzzy
 msgid "HUD_TIPS_HOW_TO_PLAY_DEFENCE_4"
 msgstr "The number of sorties is limited, which works in the enemy's favor"
 
-#, fuzzy
 msgid "HUD_TIPS_HOW_TO_PLAY_GAMEMODE_1"
 msgstr "Capture and hold key sectors in the area of operation"
 
-#, fuzzy
 msgid "HUD_TIPS_HOW_TO_PLAY_GAMEMODE_2"
 msgstr ""
 "Sectors earn 3 resources every 5 seconds for the group controlling them"
 
-#, fuzzy
 msgid "HUD_TIPS_HOW_TO_PLAY_GAMEMODE_3"
 msgstr "Some sectors provide unique advantages for the group controlling them"
 
-#, fuzzy
 msgid "HUD_TIPS_HOW_TO_PLAY_GAMEMODE_4"
 msgstr ""
 "A combat group that receives the required number of resources first wins"
 
-#, fuzzy
 msgid "HUD_TIPS_HOW_TO_PLAY_GAMEMODE_5"
 msgstr ""
 "Destroying all enemy aircraft after the arrival of the squall line is "
 "another key to victory"
 
-#, fuzzy
 msgid "HUD_TIPS_HOW_TO_PLAY_HOT_BUTTONS_1"
 msgstr "Proceeding to sector"
 
-#, fuzzy
 msgid "HUD_TIPS_HOW_TO_PLAY_HOT_BUTTONS_2"
 msgstr "Attacking / Supporting"
 
-#, fuzzy
 msgid "HUD_TIPS_HOW_TO_PLAY_HOT_BUTTONS_3"
 msgstr "Detailed information"
 
-#, fuzzy
 msgid "HUD_TIPS_HOW_TO_PLAY_HOT_BUTTONS_4"
 msgstr "Map, team panels, aircraft type missions"
 
-#, fuzzy
 msgid "HUD_TIPS_HOW_TO_PLAY_HOT_BUTTONS_5"
 msgstr "Radar scaling"
 
 msgid "HUD_TIPS_INFLUENCE_DESCRIPTION"
 msgstr "每 5 秒可獲得 3 點優勢點數"
 
-#, fuzzy
 msgid "HUD_TIPS_MILITARYBASE_DESCRIPTION"
 msgstr "Launches rocket strikes on ground targets in nearby sectors"
 
-#, fuzzy
 msgid "HUD_TIPS_NAVY_FIGHTERS"
 msgstr "MULTIROLE FIGHTERS"
 
-#, fuzzy
 msgid "HUD_TIPS_NEW_TERRITORY"
 msgstr "New sector!"
 
@@ -3349,43 +3300,36 @@ msgstr "機種"
 msgid "HUD_TIPS_REPAIR_DESCRIPTION"
 msgstr "可修理戰機"
 
-#, fuzzy
 msgid "HUD_TIPS_SECTOR_DEFENCE_DESCRIPTION_1"
 msgstr ""
 "Equipped with weak {teamObject:12} AA guns, but protected by a large number "
 "of {class:1} fighters."
 
-#, fuzzy
 msgid "HUD_TIPS_SECTOR_DEFENCE_DESCRIPTION_2"
 msgstr ""
 "Moderately protected by {class:1} fighters and {teamObject:12}"
 "{teamObject:13} AA guns of different types."
 
-#, fuzzy
 msgid "HUD_TIPS_SECTOR_DEFENCE_DESCRIPTION_3"
 msgstr ""
 "Well protected by a large number of {teamObject:12} light AA guns and "
 "{class:1}{class:2} fighters of different types."
 
-#, fuzzy
 msgid "HUD_TIPS_SECTOR_DEFENCE_DESCRIPTION_4"
 msgstr ""
 "Equipped with a large number of {teamObject:13} high-altitude AA guns, but "
 "not protected by air defense aircraft."
 
-#, fuzzy
 msgid "HUD_TIPS_SECTOR_DEFENCE_DESCRIPTION_5"
 msgstr ""
 "Equipped with a powerful universal {teamObject:12}{teamObject:13} anti-"
 "aircraft defense system and protected by {class:1} light fighters."
 
-#, fuzzy
 msgid "HUD_TIPS_SECTOR_DEFENCE_DESCRIPTION_6"
 msgstr ""
 "Equipped with a powerful universal {teamObject:12}{teamObject:13} anti-"
 "aircraft defense system and protected by {class:2} heavy fighters."
 
-#, fuzzy
 msgid "HUD_TIPS_SECTOR_DEFENCE_DESCRIPTION_7"
 msgstr ""
 "Equipped with a powerful universal {teamObject:12}{teamObject:13} anti-"
@@ -3397,11 +3341,9 @@ msgstr "可被設定為增援戰機的出生點"
 msgid "HUD_TIPS_SPAWN_TIME_DESCRIPTION"
 msgstr "縮短所有增援戰機的抵達時間 10 秒"
 
-#, fuzzy
 msgid "HUD_TIPS_TACTIC"
 msgstr "Tactics"
 
-#, fuzzy
 msgid "HUD_TIPS_UI"
 msgstr "Interface"
 
@@ -3429,15 +3371,12 @@ msgstr "尾翼"
 msgid "HUD_TOOLTIPS_AIRCRAFT_MODULE_TURRET"
 msgstr "砲塔"
 
-#, fuzzy
 msgid "HUD_TOOLTIPS_AIRCRAFT_WITHOUT_CRIT_DMG"
 msgstr "No critical damage"
 
-#, fuzzy
 msgid "HUD_TOOLTIPS_AP-INCINERATINGBELT"
 msgstr "High-explosive incendiary belt"
 
-#, fuzzy
 msgid "HUD_TOOLTIPS_ARMOURPIERCINGBELT"
 msgstr "Universal belt"
 
@@ -3447,64 +3386,50 @@ msgstr "戰鬥點數"
 msgid "HUD_TOOLTIPS_BOOST_REMAINING"
 msgstr "可使用增壓"
 
-#, fuzzy
 msgid "HUD_TOOLTIPS_BUTTON_TO_USE_DESCRIPTION"
 msgstr "Press {button} to use."
 
-#, fuzzy
 msgid "HUD_TOOLTIPS_CLASS_EFFECTIVENESS"
 msgstr "Aircraft Type Efficiency"
 
-#, fuzzy
 msgid "HUD_TOOLTIPS_CLICK_TO_USE"
 msgstr "Press {key} to use."
 
-#, fuzzy
 msgid "HUD_TOOLTIPS_CONSUMABLES_AIR-RESTARTER"
 msgstr "Partially repairs a damaged engine."
 
-#, fuzzy
 msgid "HUD_TOOLTIPS_CONSUMABLES_EXTINGUISHER_1"
 msgstr "Extinguishes fire."
 
-#, fuzzy
 msgid "HUD_TOOLTIPS_CONSUMABLES_EXTINGUISHER_2"
 msgstr ""
 "Extinguishes fire and provides resistance to fire for 15 seconds after use."
 
-#, fuzzy
 msgid "HUD_TOOLTIPS_CONSUMABLES_OUTPOST"
 msgstr ""
 "+50% to credits per battle. Verification of battle results by ground "
 "observers."
 
-#, fuzzy
 msgid "HUD_TOOLTIPS_CONSUMABLES_RECON"
 msgstr ""
 "+25% to Aircraft Experience per battle. Verification of air strike results "
 "by aerial survey."
 
-#, fuzzy
 msgid "HUD_TOOLTIPS_DAMAGE"
 msgstr "Damage"
 
-#, fuzzy
 msgid "HUD_TOOLTIPS_DESCRIPTION_AMMUNITIONS"
 msgstr "Ammunition on board"
 
-#, fuzzy
 msgid "HUD_TOOLTIPS_DESCRIPTION_AUTO_USE_1"
 msgstr "Used automatically."
 
-#, fuzzy
 msgid "HUD_TOOLTIPS_DESCRIPTION_AUTO_USE_2"
 msgstr "Used automatically after the battle is finished."
 
-#, fuzzy
 msgid "HUD_TOOLTIPS_FRAGBELT"
 msgstr "High-explosive belt"
 
-#, fuzzy
 msgid "HUD_TOOLTIPS_GENERALPURPOSEBELT_CANNON"
 msgstr "Armor-piercing incendiary belt"
 
@@ -3514,23 +3439,18 @@ msgstr "精通點數"
 msgid "HUD_TOOLTIPS_MY_PLANE"
 msgstr "我的飛機"
 
-#, fuzzy
 msgid "HUD_TOOLTIPS_NEW_TERRITORY"
 msgstr "New sector!"
 
-#, fuzzy
 msgid "HUD_TOOLTIPS_PLANES_TACTICAL_RESERVE"
 msgstr "Number of aircraft in tactical reserve"
 
-#, fuzzy
 msgid "HUD_TOOLTIPS_STANDARTBELT"
 msgstr "Standard belt"
 
 msgid "HUD_TOOLTIPS_WITHOUT_BONUSES"
 msgstr "無加成"
 
-#, fuzzy
-#| msgid "HUD_TOOLTIPS_BOOST_REMAINING"
 msgid "HUD_TOOLTIP_CHOOSE_MIN_ONE_CAMERA"
 msgstr "At least one camera<br>should be selected."
 
@@ -3564,60 +3484,49 @@ msgstr "使用炸彈和火箭彈摧毀地面目標"
 msgid "HUD_TYPE_ASSAULT_NEW_TIP_3"
 msgstr "避免在低空戰鬥和逗留"
 
-#, fuzzy
 msgid "HUD_TYPE_ASSAULT_TIP_1"
 msgstr ""
 "Attack aircraft are durable and hulking aircraft designed to attack ground "
 "targets with forward-firing and outboard weapons in low-level flight."
 
-#, fuzzy
 msgid "HUD_TYPE_ASSAULT_TIP_10"
 msgstr ""
 "While capturing a sector, choose the flight direction that will allow you to "
 "attack as many ground targets as possible."
 
-#, fuzzy
 msgid "HUD_TYPE_ASSAULT_TIP_2"
 msgstr ""
 "Use your powerful outboard weapons to quickly destroy large ground targets."
 
-#, fuzzy
 msgid "HUD_TYPE_ASSAULT_TIP_3"
 msgstr ""
 "Engage careless enemy aircraft in head-on attacks. Use your powerful forward-"
 "firing weapons and rely on your large hit points pool."
 
-#, fuzzy
 msgid "HUD_TYPE_ASSAULT_TIP_4"
 msgstr ""
 "Attacking ground targets in low-level flight allows you to stay out of "
 "firing range of enemy high-altitude fighters."
 
-#, fuzzy
 msgid "HUD_TYPE_ASSAULT_TIP_5"
 msgstr "Use turrets to defend against enemy fighters."
 
-#, fuzzy
 msgid "HUD_TYPE_ASSAULT_TIP_6"
 msgstr "Activate boost to quickly reach key sectors."
 
-#, fuzzy
 msgid "HUD_TYPE_ASSAULT_TIP_7"
 msgstr "Avoid engagements with enemy fighters and multirole aircraft."
 
-#, fuzzy
 msgid "HUD_TYPE_ASSAULT_TIP_8"
 msgstr ""
 "Attack aircraft are most effective for capturing plants and least effective "
 "for capturing airfields."
 
-#, fuzzy
 msgid "HUD_TYPE_ASSAULT_TIP_9"
 msgstr ""
 "Use bombs and rockets to annihilate ground targets damaged by forward-firing "
 "weapons."
 
-#, fuzzy
 msgid "HUD_TYPE_BOMBER_NEW_TIP_1"
 msgstr "Attack enemy sectors by destroying ground targets from high altitude"
 
@@ -3627,7 +3536,6 @@ msgstr "優先攻擊大型地面目標"
 msgid "HUD_TYPE_BOMBER_NEW_TIP_3"
 msgstr "使用砲塔自保，或啟動增壓逃脫"
 
-#, fuzzy
 msgid "HUD_TYPE_BOMBER_TIP_1"
 msgstr ""
 "Medium bombers are high-speed aircraft designed to strike ground targets "
@@ -3636,7 +3544,6 @@ msgstr ""
 msgid "HUD_TYPE_BOMBER_TIP_2"
 msgstr "優先攻擊大型地面目標。"
 
-#, fuzzy
 msgid "HUD_TYPE_BOMBER_TIP_3"
 msgstr ""
 "Attacking ground targets from high altitude allows you to stay out of firing "
@@ -3645,27 +3552,22 @@ msgstr ""
 msgid "HUD_TYPE_BOMBER_TIP_4"
 msgstr "使用砲塔抵抗敵方戰鬥機，或啟動增壓逃離他們。"
 
-#, fuzzy
 msgid "HUD_TYPE_BOMBER_TIP_5"
 msgstr "A bomber at a low altitude is an easy target for enemy fighters."
 
-#, fuzzy
 msgid "HUD_TYPE_BOMBER_TIP_6"
 msgstr "Do not count on the forward-firing weapons of bombers."
 
-#, fuzzy
 msgid "HUD_TYPE_BOMBER_TIP_7"
 msgstr ""
 "Bombers are most effective for capturing command centers and least effective "
 "for capturing airfields."
 
-#, fuzzy
 msgid "HUD_TYPE_BOMBER_TIP_8"
 msgstr ""
 "To effectively repel enemy attacks, switch to turret control mode (by "
 "pressing the default T key)."
 
-#, fuzzy
 msgid "HUD_TYPE_BOMBER_TIP_9"
 msgstr ""
 "To effectively drop bombs, enable the special bomb sight (by pressing the "
@@ -3683,61 +3585,51 @@ msgstr "參與中低空的纏鬥"
 msgid "HUD_TYPE_FIGHTERS_NEW_TIP_4"
 msgstr "參與中低空的纏鬥"
 
-#, fuzzy
 msgid "HUD_TYPE_FIGHTERS_TIP_1"
 msgstr ""
 "Maneuverable fighters are mobile aircraft designed to destroy enemy fighters "
 "and multirole aircraft in dynamic aerial combat."
 
-#, fuzzy
 msgid "HUD_TYPE_FIGHTERS_TIP_10"
 msgstr ""
 "Fighters are most effective for capturing airfields and least effective for "
 "capturing plants."
 
-#, fuzzy
 msgid "HUD_TYPE_FIGHTERS_TIP_2"
 msgstr ""
 "High-speed fighters are dynamic aircraft with good climb rates designed to "
 "intercept and destroy enemy fighters and medium bombers at high altitude."
 
-#, fuzzy
 msgid "HUD_TYPE_FIGHTERS_TIP_3"
 msgstr ""
 "Use a fighter's maneuverability advantage to intercept multirole and heavy "
 "fighters."
 
-#, fuzzy
 msgid "HUD_TYPE_FIGHTERS_TIP_4"
 msgstr ""
 "Thanks to high boost speed, light fighters can quickly reach an enemy "
 "aircraft."
 
-#, fuzzy
 msgid "HUD_TYPE_FIGHTERS_TIP_5"
 msgstr ""
 "Light fighters have the best maneuverability. Use it to your advantage to "
 "get on the tail of an enemy aircraft."
 
-#, fuzzy
 msgid "HUD_TYPE_FIGHTERS_TIP_6"
 msgstr ""
 "A \"barrel roll\" maneuver is an easy and effective way to dodge a head-on "
 "attack."
 
-#, fuzzy
 msgid "HUD_TYPE_FIGHTERS_TIP_7"
 msgstr ""
 "Avoid engaging enemy attack aircraft while flying in a light fighter without "
 "support."
 
-#, fuzzy
 msgid "HUD_TYPE_FIGHTERS_TIP_8"
 msgstr ""
 "Avoid engaging in one-on-one encounters with enemy attack aircraft and "
 "bombers."
 
-#, fuzzy
 msgid "HUD_TYPE_FIGHTERS_TIP_9"
 msgstr ""
 "Fighters are not priority targets for enemy defense systems. Use this "
@@ -3752,55 +3644,45 @@ msgstr "擊落敵方轟炸機"
 msgid "HUD_TYPE_H-FIGHTERS_NEW_TIP_3"
 msgstr "在高空戰鬥中運用你速度和火力的優勢"
 
-#, fuzzy
 msgid "HUD_TYPE_H-FIGHTERS_TIP_1"
 msgstr ""
 "Heavy fighters are universal aircraft with powerful forward-firing weapons "
 "designed to intercept enemy air-to-ground aircraft and to destroy ground "
 "targets."
 
-#, fuzzy
 msgid "HUD_TYPE_H-FIGHTERS_TIP_10"
 msgstr "Use your speed advantage to quickly reach key sectors."
 
-#, fuzzy
 msgid "HUD_TYPE_H-FIGHTERS_TIP_2"
 msgstr ""
 "Use your powerful forward-firing weapons to quickly destroy enemy attack "
 "aircraft and bombers."
 
-#, fuzzy
 msgid "HUD_TYPE_H-FIGHTERS_TIP_3"
 msgstr ""
 "With a well-planned attack, a heavy fighter is capable of destroying an "
 "enemy aircraft in one pass."
 
-#, fuzzy
 msgid "HUD_TYPE_H-FIGHTERS_TIP_4"
 msgstr "Engage fighters from higher altitude at a high attack speed."
 
-#, fuzzy
 msgid "HUD_TYPE_H-FIGHTERS_TIP_5"
 msgstr "Activate boost to quickly gain high speed and altitude."
 
-#, fuzzy
 msgid "HUD_TYPE_H-FIGHTERS_TIP_6"
 msgstr ""
 "Avoid maneuvering engagements with enemy fighters. Activate boost to "
 "disengage from them."
 
-#, fuzzy
 msgid "HUD_TYPE_H-FIGHTERS_TIP_7"
 msgstr "Use your strike weapons to suppress enemy AA defenses."
 
-#, fuzzy
 msgid "HUD_TYPE_H-FIGHTERS_TIP_8"
 msgstr ""
 "Most sectors have defense systems aimed at destroying enemy heavy fighters. "
 "Maneuver and use your speed advantage to avoid the fire of AA guns and air "
 "defense aircraft."
 
-#, fuzzy
 msgid "HUD_TYPE_H-FIGHTERS_TIP_9"
 msgstr ""
 "Heavy fighters are most effective for capturing command centers and least "
@@ -3812,40 +3694,36 @@ msgstr "用外掛武器擊毀高射砲"
 msgid "HUD_TYPE_NAVY_NEW_TIP_2"
 msgstr "抵擋對我方佔領分區的攻勢"
 
-#, fuzzy
 msgid "HUD_TYPE_NAVY_TIP_1"
 msgstr ""
 "Multirole fighters are jack-of-all-trades aircraft capable of engaging enemy "
 "fighters in a dogfight and destroying soft ground targets."
 
-#, fuzzy
 msgid "HUD_TYPE_NAVY_TIP_2"
 msgstr ""
 "Use your powerful armament to destroy enemy attack aircraft and bombers."
 
-#, fuzzy
 msgid "HUD_TYPE_NAVY_TIP_3"
 msgstr "Avoid maneuvering engagements with enemy fighters."
 
-#, fuzzy
 msgid "HUD_TYPE_NAVY_TIP_4"
 msgstr "Use your strike weapons to suppress enemy AA defenses."
 
-#, fuzzy
 msgid "HUD_TYPE_NAVY_TIP_5"
 msgstr ""
 "Attack enemy air-to-ground aircraft outside their field of turret fire."
 
-#, fuzzy
 msgid "HUD_TYPE_NAVY_TIP_6"
 msgstr ""
 "Multirole fighters are excellent at defending sectors from enemy attacks."
 
-#, fuzzy
 msgid "HUD_TYPE_NAVY_TIP_7"
 msgstr ""
 "Multirole fighters are most effective for capturing command centers and "
 "least effective for capturing plants."
+
+msgid "HUD_UNARMORED_OBJECT_SECTORS"
+msgstr "Unarmored targets"
 
 msgid "HUD_UNLOCK_TARGET_TEXT"
 msgstr " "
@@ -3871,7 +3749,6 @@ msgstr "返回任務區域！"
 msgid "HUD_WARNING_MESSAGE_BOMBING_IMPOSSIBLE"
 msgstr "無法投下炸彈"
 
-#, fuzzy
 msgid "HUD_WARNING_MESSAGE_CHANGE_FLIGHT_PATH"
 msgstr "Change your direction!"
 
@@ -3917,15 +3794,12 @@ msgstr "保持移動逃離敵方視線範圍！"
 msgid "HUD_WARNING_MESSAGE_MANEUVER_STOP_FIRE"
 msgstr "保持移動以撲滅火勢！"
 
-#, fuzzy
 msgid "HUD_WARNING_MESSAGE_MODULE_DESTROYED"
 msgstr "Destroyed: {module}!"
 
 msgid "HUD_WARNING_MESSAGE_NO_BOMB"
 msgstr "無炸彈可投射"
 
-#, fuzzy
-#| msgid "HUD_WARNING_MESSAGE_WAIT_REPLENISH_AMMUNITION"
 msgid "HUD_WARNING_MESSAGE_NO_PERSONAL_AIRCRAFT_TYPE-SPECIFIC_MISSIONS"
 msgstr ""
 "No aircraft type-specific missions for the aircraft of the selected type in "
@@ -3967,8 +3841,6 @@ msgstr "勝利"
 msgid "HUD_WINNERS_STR_APRIL"
 msgstr "贏了!"
 
-#, fuzzy
-#| msgid "HUD_WIN_DOMINATION_STR"
 msgid "HUD_WIN_ATTRITION_STR"
 msgstr "Enemy resources were exhausted. Operation was successfully completed."
 
@@ -3981,11 +3853,9 @@ msgstr "戰鬥隊伍控制了所有的分區"
 msgid "HUD_WIN_SUPERIORITY_STR"
 msgstr "我方取得制空權！"
 
-#, fuzzy
 msgid "HUD_WIN_TIME_OVER_STR"
 msgstr "The enemy lost momentum. The attack was stopped."
 
-#, fuzzy
 msgid "HUD_WORKSHOP_OBJECT"
 msgstr "Workshops"
 
@@ -4022,25 +3892,21 @@ msgstr "按退出鍵，返回遊戲"
 msgid "OBJECT_NAME_BATTLESHIP"
 msgstr "戰艦"
 
-#, fuzzy
 msgid "OBJECT_NAME_RLS STOREHOUSE"
 msgstr "Maintenance shop"
 
 msgid "POPUP_MENU"
 msgstr "遊戲選單"
 
-#, fuzzy
 msgid "QUICK_MESSAGE_ERROR_COMPLEX"
 msgstr "Designate a sector more accurately"
 
-#, fuzzy
 msgid "QUICK_MESSAGE_ERROR_PLANE"
 msgstr "Designate a target more accurately"
 
 msgid "QUICK_MESSAGE_ERROR_SCREEN"
 msgstr "只有飛行員可以傳送訊息。"
 
-#, fuzzy
 msgid "QUICK_MESSAGE_ERROR_TIMER"
 msgstr "Radio contact will be available in: {time_sec} s"
 
@@ -4309,11 +4175,9 @@ msgstr "發動機故障！"
 msgid "UI_MESSAGE_ENGINE_RESTARTED"
 msgstr "引擎重新啟動！"
 
-#, fuzzy
 msgid "UI_MESSAGE_EVENT_AIRFIELD_CAP"
 msgstr "Staging airfield captured"
 
-#, fuzzy
 msgid "UI_MESSAGE_EVENT_AIRFIELD_LOST"
 msgstr "Staging airfield lost"
 

@@ -6,8 +6,9 @@ msgstr ""
 "PO-Revision-Date: 2010-06-01 10:00+0300\n"
 "Last-Translator: WoT Translator <noreply@wargaming.net>\n"
 "Language-Team: WoT Team <noreply@wargaming.net>\n"
+"Language: \n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "NAMES/RUS1"
@@ -3559,6 +3560,12 @@ msgstr "德米特里"
 msgid "NAMES/RUSN99"
 msgstr "阿納託利"
 
+msgid "NAMES/RUSU1"
+msgstr "Litvyakova"
+
+msgid "NAMES/RUSUN1"
+msgstr "Marina"
+
 msgid "RANKSRUS/1"
 msgstr "上校"
 
@@ -3588,9 +3595,3 @@ msgstr "軍士長"
 
 msgid "RANKSRUS/9"
 msgstr "高階軍士"
-
-msgid "NAMES/RUSU1"
-msgstr "Litvyakova"
-
-msgid "NAMES/RUSUN1"
-msgstr "Marina"

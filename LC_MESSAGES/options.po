@@ -8,7 +8,7 @@ msgstr ""
 "Language-Team: WoT Team <noreply@wargaming.net>\n"
 "Language: zh_TW\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Poedit 2.0.5\n"
 
@@ -445,7 +445,6 @@ msgstr "視角向後"
 msgid "KEYMAPPING/CMD_BATTLE_MODE"
 msgstr "掃射模式"
 
-#, fuzzy
 msgid "KEYMAPPING/CMD_BOMBER_MODE"
 msgstr "Switch to Bombing Mode"
 
@@ -458,7 +457,6 @@ msgstr "禁用聊天"
 msgid "KEYMAPPING/CMD_CURSOR_CAMERA"
 msgstr "自由視角"
 
-#, fuzzy
 msgid "KEYMAPPING/CMD_DANGEROUS_TARGET"
 msgstr "Lock Dangerous Enemy"
 
@@ -522,7 +520,6 @@ msgstr "開啟襟翼"
 msgid "KEYMAPPING/CMD_FRONT_VIEW"
 msgstr "視角向前"
 
-#, fuzzy
 msgid "KEYMAPPING/CMD_GUNNER_MODE"
 msgstr "Switch to Turret Control Mode"
 
@@ -574,7 +571,6 @@ msgstr "縮小雷達"
 msgid "KEYMAPPING/CMD_MINIMAP_ZOOM_OUT"
 msgstr "放大雷達"
 
-#, fuzzy
 msgid "KEYMAPPING/CMD_NEAREST_TARGET"
 msgstr "Lock Nearest Target"
 
@@ -710,13 +706,9 @@ msgstr "消耗品2"
 msgid "KEYMAPPING/CMD_USE_EQUIPMENT_3"
 msgstr "消耗品3"
 
-#, fuzzy
-#| msgid "KEYMAPPING/CMD_USE_EQUIPMENT_1"
 msgid "KEYMAPPING/CMD_USE_EQUIPMENT_4"
 msgstr "Consumable 4"
 
-#, fuzzy
-#| msgid "KEYMAPPING/CMD_USE_EQUIPMENT_1"
 msgid "KEYMAPPING/CMD_USE_EQUIPMENT_5"
 msgstr "Consumable 5"
 
@@ -935,7 +927,6 @@ msgstr "套用到所有類型"
 msgid "SETTINGS_AIR_HORIZON"
 msgstr "姿態指示器"
 
-#, fuzzy
 msgid "SETTINGS_ALIGNMENT_SPEED"
 msgstr "Level-Off Rate"
 
@@ -948,7 +939,6 @@ msgstr "相對高度和絕對高度"
 msgid "SETTINGS_ALTIMETER_DROPDOWN_MENU_VARIANT_RADIO"
 msgstr "相對高度"
 
-#, fuzzy
 msgid "SETTINGS_ALTMODE"
 msgstr "On pressing Alt"
 
@@ -958,11 +948,9 @@ msgstr "反鋸齒"
 msgid "SETTINGS_APPLY_BUTTON"
 msgstr "套用"
 
-#, fuzzy
 msgid "SETTINGS_ASSIGN_AXIS"
 msgstr "Assign an axis:"
 
-#, fuzzy
 msgid "SETTINGS_ATTENTION_DO_NOT_RECOMMEND_FOR_BEGINNERS"
 msgstr ""
 "Warning! Changing default settings may result in difficulties in piloting "
@@ -974,7 +962,6 @@ msgstr "自動襟翼"
 msgid "SETTINGS_AUTO_DETECTION"
 msgstr "自動檢測"
 
-#, fuzzy
 msgid "SETTINGS_AVIADEVICES"
 msgstr "Flight Instruments"
 
@@ -987,8 +974,12 @@ msgstr "節日背景"
 msgid "SETTINGS_BACKGROUND_OPTION_HANGAR"
 msgstr "機庫"
 
-#, fuzzy
-#| msgid "SETTINGS_BACKGROUND_OPTION_HANGAR"
+msgid "SETTINGS_BACKGROUND_OPTION_HANGAR_BEACH"
+msgstr "Beach"
+
+msgid "SETTINGS_BACKGROUND_OPTION_HANGAR_CASTLE"
+msgstr "Castle"
+
 msgid "SETTINGS_BACKGROUND_OPTION_HANGAR_FACTORY"
 msgstr "Factory"
 
@@ -1199,7 +1190,6 @@ msgstr "視角"
 msgid "SETTINGS_CAMERA_ALIGN_DELAY"
 msgstr "* 視角改平延遲："
 
-#, fuzzy
 msgid "SETTINGS_CAMERA_EFFECTS"
 msgstr "Camera Effects"
 
@@ -1278,7 +1268,6 @@ msgstr "啟用碰撞警告"
 msgid "SETTINGS_CHECKBOX_RESPONSE_INCREASE"
 msgstr "啟用遊戲客戶端控制處理"
 
-#, fuzzy
 msgid "SETTINGS_CHECKBOX_ROTATE_PLAYER_MINIMAP_FIXED"
 msgstr "Rotate player marker (map pinned)"
 
@@ -1297,11 +1286,9 @@ msgstr "最佳範圍指示器"
 msgid "SETTINGS_CHECKBOX_SHOW_HP_AND_BOOST"
 msgstr "生命值和增壓指示器"
 
-#, fuzzy
 msgid "SETTINGS_CHECKBOX_SHOW_ROLL_HORIZON"
 msgstr "Show horizon bank"
 
-#, fuzzy
 msgid "SETTINGS_CHECKBOX_SHOW_ROLL_PLANE"
 msgstr "Show aircraft bank"
 
@@ -1407,7 +1394,6 @@ msgstr "瞄準環"
 msgid "SETTINGS_DROPDOWN_MENU_VARIANT_IRON_SIGHT"
 msgstr "游標"
 
-#, fuzzy
 msgid "SETTINGS_DROP_BOMBS_BOMBER_MODE"
 msgstr "Drop bombs in bombing mode"
 
@@ -1423,7 +1409,6 @@ msgstr "較全"
 msgid "SETTINGS_FIRE"
 msgstr "射擊"
 
-#, fuzzy
 msgid "SETTINGS_FLAPS"
 msgstr "Extend Flaps"
 
@@ -1909,11 +1894,9 @@ msgstr "偏轉和傾斜"
 msgid "SETTINGS_HEADER_YAW_PITCH"
 msgstr "偏轉 / 程度"
 
-#, fuzzy
 msgid "SETTINGS_HIDE_ALTERNATIVE_HUD"
 msgstr "To view the interface in the standard mode, release {key}"
 
-#, fuzzy
 msgid "SETTINGS_HIGHT_SCALE"
 msgstr "Altimeter"
 
@@ -1932,15 +1915,12 @@ msgstr "姿態指示器3"
 msgid "SETTINGS_HUD"
 msgstr "戰鬥"
 
-#, fuzzy
 msgid "SETTINGS_INFO_ABOUT_ENEMY"
 msgstr "Details about enemies"
 
-#, fuzzy
 msgid "SETTINGS_INFO_ABOUT_PLANE_CONSUMABLES_TIPS-ECT"
 msgstr "Details about aircraft"
 
-#, fuzzy
 msgid "SETTINGS_INFO_ABOUT_SECTORS-ECT"
 msgstr "Details about game mode markers"
 
@@ -2160,75 +2140,57 @@ msgstr "啟用翻轉"
 msgid "SETTINGS_M8_CHECKBOX_FIXED_HORIZONT"
 msgstr "自動水平"
 
-#, fuzzy
 msgid "SETTINGS_MARKERS_1-SCOPE"
 msgstr "Reticle 1"
 
-#, fuzzy
 msgid "SETTINGS_MARKERS_2-SCOPE"
 msgstr "Reticle 2"
 
-#, fuzzy
 msgid "SETTINGS_MARKERS_3-SCOPE"
 msgstr "Reticle 3"
 
-#, fuzzy
 msgid "SETTINGS_MARKERS_4-SCOPE"
 msgstr "Reticle 4"
 
-#, fuzzy
 msgid "SETTINGS_MARKERS_5-SCOPE"
 msgstr "Reticle 5"
 
-#, fuzzy
 msgid "SETTINGS_MARKERS_AA_RADIUS"
 msgstr "AA gun range"
 
-#, fuzzy
 msgid "SETTINGS_MARKERS_ALLY_PLACE_OF_DEATH"
 msgstr "Destroyed ally location"
 
-#, fuzzy
 msgid "SETTINGS_MARKERS_ALL_POINTS"
 msgstr "Total number of points earned"
 
-#, fuzzy
 msgid "SETTINGS_MARKERS_ALTIMETER_HIGHT_SCALE"
 msgstr "Altimeter"
 
-#, fuzzy
 msgid "SETTINGS_MARKERS_ALTIMETER_TYPE"
 msgstr "Altimeter type"
 
-#, fuzzy
 msgid "SETTINGS_MARKERS_ALTMODE"
 msgstr "On pressing Alt"
 
-#, fuzzy
 msgid "SETTINGS_MARKERS_ALWAYS"
 msgstr "Always"
 
-#, fuzzy
 msgid "SETTINGS_MARKERS_AMOUNT_AND_CALIBER_WEAPONS"
 msgstr "Number and caliber of guns"
 
-#, fuzzy
 msgid "SETTINGS_MARKERS_AMOUNT_BOOST_AT_THIS_MOMENT"
 msgstr "Boost points (current value)"
 
-#, fuzzy
 msgid "SETTINGS_MARKERS_AMOUNT_BOOST_IN_MAX"
 msgstr "Boost points (maximum value)"
 
-#, fuzzy
 msgid "SETTINGS_MARKERS_AMOUNT_HP_AT_THIS_MOMENT"
 msgstr "Hit points (current value)"
 
-#, fuzzy
 msgid "SETTINGS_MARKERS_AMOUNT_HP_IN_MAX"
 msgstr "Hit points (maximum value)"
 
-#, fuzzy
 msgid "SETTINGS_MARKERS_AMOUNT_POINTS"
 msgstr "Number of points earned"
 
@@ -2238,188 +2200,141 @@ msgstr "套用於所有戰機"
 msgid "SETTINGS_MARKERS_APPLY_TO_CLASS"
 msgstr "套用於指定戰機:"
 
-#, fuzzy
 msgid "SETTINGS_MARKERS_ARROWS_DEFENDERS"
 msgstr "Air defense aircraft arrow icons"
 
-#, fuzzy
 msgid "SETTINGS_MARKERS_ARROWS_PLANE"
 msgstr "Aircraft arrow icons"
 
-#, fuzzy
 msgid "SETTINGS_MARKERS_ARROW_IN_CENTER_AND_EDGES_SCREEN"
 msgstr "Arrows in the center and at the edge of the screen"
 
-#, fuzzy
 msgid "SETTINGS_MARKERS_BANNERS"
 msgstr "Achievement notifications"
 
-#, fuzzy
 msgid "SETTINGS_MARKERS_BATTLELOG_NUMERAL"
 msgstr "Numbers in battle log"
 
-#, fuzzy
 msgid "SETTINGS_MARKERS_BATTLELOG_TEXTS"
 msgstr "Text in battle log"
 
-#, fuzzy
 msgid "SETTINGS_MARKERS_BATTLE_COMANDS"
 msgstr "Battle commands"
 
-#, fuzzy
 msgid "SETTINGS_MARKERS_BATTLE_EVENTS"
 msgstr "Battle events"
 
-#, fuzzy
 msgid "SETTINGS_MARKERS_BATTLE_RECOMENDATIONS"
 msgstr "Battle recommendations"
 
-#, fuzzy
 msgid "SETTINGS_MARKERS_BATTLE_RECOMENDATIONS_ICONS"
 msgstr "Icons for battle recommendations"
 
-#, fuzzy
 msgid "SETTINGS_MARKERS_BIG_CALIBER_GUN"
 msgstr "Large-caliber autocannon"
 
-#, fuzzy
 msgid "SETTINGS_MARKERS_BIG_SIZE"
 msgstr "Large"
 
-#, fuzzy
 msgid "SETTINGS_MARKERS_BLOCK_CURRENT_SECTOR_HEADER"
 msgstr "Current sector"
 
-#, fuzzy
 msgid "SETTINGS_MARKERS_BLOCK_INFO_ABOUT_PLANE_HEADER"
 msgstr "Aircraft Details"
 
-#, fuzzy
 msgid "SETTINGS_MARKERS_BLOCK_MARKERS_NEAR_CORNER_ON_MONITOR_HEADER"
 msgstr "Pointers at aircraft"
 
-#, fuzzy
 msgid "SETTINGS_MARKERS_BLOCK_MARKERS_RADAR_SETTINGS_HEADER"
 msgstr "Radar settings"
 
-#, fuzzy
 msgid "SETTINGS_MARKERS_BLOCK_MINIMAP_HEADER"
 msgstr "Minimap"
 
-#, fuzzy
 msgid "SETTINGS_MARKERS_BLOCK_PERSONAL_BATTLE_ACTIONS_HEADER"
 msgstr "Personal combat actions"
 
-#, fuzzy
 msgid "SETTINGS_MARKERS_BLOCK_SCALE_INFLUENCE_HEADER"
 msgstr "Resource bar"
 
-#, fuzzy
 msgid "SETTINGS_MARKERS_BLOCK_SENSORS_ABOUT_ALTITUDE_SPEED_BOOST_HP_HEADER"
 msgstr "Sensors: flight instruments and hit points"
 
-#, fuzzy
 msgid "SETTINGS_MARKERS_BLOCK_SPEED_CONNECTION_AND_TIPS_HEADER"
 msgstr "Connection speed and hints"
 
-#, fuzzy
 msgid "SETTINGS_MARKERS_BLOCK_SYSTEM_MESSAGES_HEADER"
 msgstr "Warning system"
 
-#, fuzzy
 msgid "SETTINGS_MARKERS_BLOCK_TIMER_LESS_THAN"
 msgstr "Sector effect timer (less than 10 s)"
 
-#, fuzzy
 msgid "SETTINGS_MARKERS_BLOCK_TIMER_SECTOR"
 msgstr "Locked sector timer (less than 10 s)"
 
-#, fuzzy
 msgid "SETTINGS_MARKERS_BOMBS"
 msgstr "Bombs"
 
-#, fuzzy
 msgid "SETTINGS_MARKERS_BOMBS_AMOUNT_IN_SALVO"
 msgstr "Number of bombs per drop"
 
-#, fuzzy
 msgid "SETTINGS_MARKERS_BOMB_AND_ROCKETS"
 msgstr "Bombs and Rockets"
 
-#, fuzzy
 msgid "SETTINGS_MARKERS_BOMB_AND_ROCKETS_AMOUNT"
 msgstr "Number of bombs per drop/rockets per launch"
 
-#, fuzzy
 msgid "SETTINGS_MARKERS_BOMB_AND_ROCKETS_KEYS"
 msgstr "Bomb drop / Rocket launch key"
 
-#, fuzzy
 msgid "SETTINGS_MARKERS_BOMB_AND_ROCKET_TYPE"
 msgstr "Bomb and rocket type"
 
-#, fuzzy
 msgid "SETTINGS_MARKERS_BOMB_TYPE"
 msgstr "Bomb type"
 
-#, fuzzy
 msgid "SETTINGS_MARKERS_BOOST"
 msgstr "Boost"
 
-#, fuzzy
 msgid "SETTINGS_MARKERS_BOOST_IN_WORK"
 msgstr "Boost activation"
 
-#, fuzzy
-#| msgid "SETTINGS_MARKERS_APPLY_ALL"
 msgid "SETTINGS_MARKERS_BY_ALLY"
 msgstr "By allies"
 
-#, fuzzy
 msgid "SETTINGS_MARKERS_BY_ENEMY"
 msgstr "By the enemy"
 
-#, fuzzy
 msgid "SETTINGS_MARKERS_BY_ME"
 msgstr "By my aircraft"
 
-#, fuzzy
 msgid "SETTINGS_MARKERS_BY_MY_WING_PARTNER"
 msgstr "By my Flight mate"
 
-#, fuzzy
 msgid "SETTINGS_MARKERS_CAMERA_POSITION"
 msgstr "Camera view"
 
-#, fuzzy
 msgid "SETTINGS_MARKERS_CAPTURE_POINTS"
 msgstr "Capture points"
 
-#, fuzzy
 msgid "SETTINGS_MARKERS_CD_TIMER_BOMBS"
 msgstr "Bomb replenishment timer"
 
-#, fuzzy
 msgid "SETTINGS_MARKERS_CD_TIMER_BOMBS_ROKETS"
 msgstr "Bomb and rocket replenishment timer"
 
-#, fuzzy
 msgid "SETTINGS_MARKERS_CHECKBOX_DISTANCE_CHOOSE_TARGET"
 msgstr "Target selection range"
 
-#, fuzzy
 msgid "SETTINGS_MARKERS_CHECKBOX_DISTANCE_FAR_AWAY"
 msgstr "Ineffective range"
 
-#, fuzzy
 msgid "SETTINGS_MARKERS_CHECKBOX_DISTANCE_SHOOTING"
 msgstr "Firing range"
 
-#, fuzzy
 msgid "SETTINGS_MARKERS_CHECKBOX_SHOW_DEFENDERS"
 msgstr "Show air defense aircraft detected by allies"
 
-#, fuzzy
 msgid "SETTINGS_MARKERS_CIRCLE_MOVEMENT_ARROWS"
 msgstr "Arrow movement circle"
 
@@ -2474,31 +2389,24 @@ msgstr "相對高度"
 msgid "SETTINGS_MARKERS_COMBOBOX_TINY"
 msgstr "小"
 
-#, fuzzy
 msgid "SETTINGS_MARKERS_COMPLEX_BORDER"
 msgstr "Sector borders"
 
-#, fuzzy
 msgid "SETTINGS_MARKERS_COMPLEX_INFLUENCE"
 msgstr "Sector influence gain"
 
-#, fuzzy
 msgid "SETTINGS_MARKERS_COMPLEX_PROPERTY_BLOCKING"
 msgstr "Locked sector property"
 
-#, fuzzy
 msgid "SETTINGS_MARKERS_COMPLEX_TACTICAL_MARCERS_IN_WORLD_HEADER"
 msgstr "Tactical markers on the arena"
 
-#, fuzzy
 msgid "SETTINGS_MARKERS_CONSUMABLES_AMOUNT"
 msgstr "Number of consumables"
 
-#, fuzzy
 msgid "SETTINGS_MARKERS_CONSUMABLES_INACTIVE"
 msgstr "Inactive consumables"
 
-#, fuzzy
 msgid "SETTINGS_MARKERS_CONSUMABLES_KEYS"
 msgstr "Keys for consumables"
 
@@ -2586,32 +2494,26 @@ msgstr "目標"
 msgid "SETTINGS_MARKERS_CONTEXT_TARGETS"
 msgstr "目標:"
 
-#, fuzzy
 msgid "SETTINGS_MARKERS_DEFENDERS_IN_ZONE"
 msgstr "Air defense aircraft within target selection range"
 
-#, fuzzy
 msgid "SETTINGS_MARKERS_DEFENDERS_OUT_OF_ZONE"
 msgstr "Air defense aircraft out of target selection range"
 
 msgid "SETTINGS_MARKERS_DEFINE_MARKERS_MODE"
 msgstr "標誌方式:"
 
-#, fuzzy
 msgid "SETTINGS_MARKERS_DESCRIPTION_HUD"
 msgstr ""
 "Here you can adjust the appearance and display of elements of the battle "
 "interface."
 
-#, fuzzy
 msgid "SETTINGS_MARKERS_DESCRIPTION_PROPERTY"
 msgstr "Description of property"
 
-#, fuzzy
 msgid "SETTINGS_MARKERS_DEV_VER"
 msgstr "Dev Settings Version"
 
-#, fuzzy
 msgid "SETTINGS_MARKERS_DIAMETER_NUMBER_AREA"
 msgstr "Visible area radius numbers"
 
@@ -2621,137 +2523,105 @@ msgstr "預測距離, 米:"
 msgid "SETTINGS_MARKERS_DISPLAY_RANGE_FT"
 msgstr "預測距離: 英尺:"
 
-#, fuzzy
 msgid "SETTINGS_MARKERS_DISTANCE_TO_AIRCRAFT"
 msgstr "Range to aircraft"
 
-#, fuzzy
 msgid "SETTINGS_MARKERS_DISTANCE_TO_COMPLEX"
 msgstr "Range to sector"
 
-#, fuzzy
 msgid "SETTINGS_MARKERS_EFFECT_TIMER"
 msgstr "Point accumulation timer"
 
-#, fuzzy
 msgid "SETTINGS_MARKERS_FAST_COMMAND"
 msgstr "Chat Shortcuts"
 
-#, fuzzy
 msgid "SETTINGS_MARKERS_FIRE_DISTANCE"
 msgstr "Range of fire"
 
-#, fuzzy
 msgid "SETTINGS_MARKERS_FLIGHT_DIRECTION"
 msgstr "Flight direction"
 
-#, fuzzy
 msgid "SETTINGS_MARKERS_FPS_PING_PACKET_LOSS"
 msgstr "FPS, Ping, Packet loss"
 
-#, fuzzy
 msgid "SETTINGS_MARKERS_GAME_EVENT_AND_MESSAGES"
 msgstr "Game events and notifications"
 
-#, fuzzy
 msgid "SETTINGS_MARKERS_GROUND_OBJECTS"
 msgstr "Ground objects"
 
 msgid "SETTINGS_MARKERS_HEADER_APPLY_SETTINGS"
 msgstr "套用設定"
 
-#, fuzzy
 msgid "SETTINGS_MARKERS_HEAVY_GUN"
 msgstr "Heavy autocannon"
 
-#, fuzzy
 msgid "SETTINGS_MARKERS_HIGHT_CEILING"
 msgstr "Flight ceiling"
 
-#, fuzzy
 msgid "SETTINGS_MARKERS_HIGHT_NUMBER"
 msgstr "Airspeed indicator readings"
 
-#, fuzzy
 msgid "SETTINGS_MARKERS_HP_DETAILED"
 msgstr "Detailed HP bar"
 
-#, fuzzy
 msgid "SETTINGS_MARKERS_I"
 msgstr "By my aircraft"
 
-#, fuzzy
 msgid "SETTINGS_MARKERS_ICONS_CLASSES_DEFENDERS"
 msgstr "Air defense aircraft type icons"
 
-#, fuzzy
 msgid "SETTINGS_MARKERS_ICONS_CLASSES_PLANE"
 msgstr "Aircraft type icons"
 
-#, fuzzy
 msgid "SETTINGS_MARKERS_ICON_COMPLEX_BLOKED"
 msgstr "Locked sector icon"
 
-#, fuzzy
 msgid "SETTINGS_MARKERS_ICON_COMPLEX_UNDER_ATTACK"
 msgstr "\"Sector under attack\" icon"
 
-#, fuzzy
 msgid "SETTINGS_MARKERS_ICON_DEFENDER_EDGES"
 msgstr "Air defense aircraft icons at the edge of the screen"
 
-#, fuzzy
 msgid "SETTINGS_MARKERS_ICON_EVENT"
 msgstr "Event icon"
 
-#, fuzzy
 msgid "SETTINGS_MARKERS_ICON_MESSAGES_FOR_SCALES"
 msgstr "Icons and bar captions"
 
-#, fuzzy
 msgid "SETTINGS_MARKERS_ICON_PLAYERS_PLANE_EDGES"
 msgstr "Player aircraft icons at the edge of the screen"
 
-#, fuzzy
 msgid "SETTINGS_MARKERS_ICON_PLAYER_PLANE"
 msgstr "Player aircraft arrow icon"
 
-#, fuzzy
 msgid "SETTINGS_MARKERS_ICON_PROPERTY"
 msgstr "Property icon"
 
-#, fuzzy
 msgid "SETTINGS_MARKERS_ICON_SECTOR_EDGES"
 msgstr "Sector icons at the edge of the screen"
 
-#, fuzzy
 msgid "SETTINGS_MARKERS_ICON_WING_BOMBERS_EDGES"
 msgstr "Flight of bombers icon at the edge of the screen"
 
-#, fuzzy
 msgid "SETTINGS_MARKERS_INFLUENCE_POINTS"
 msgstr "Resources"
 
-#, fuzzy
 msgid "SETTINGS_MARKERS_IN_CENTER"
 msgstr "In the center"
 
-#, fuzzy
 msgid "SETTINGS_MARKERS_IN_USE_IN_CD"
 msgstr "When activated and during cooldown"
 
-#, fuzzy
 msgid "SETTINGS_MARKERS_KEY_FOR_BOMB_DROP"
 msgstr "Bomb drop key"
 
-#, fuzzy
 msgid "SETTINGS_MARKERS_KILL_DEFENDER"
 msgstr "Destruction of Air Defense Aircraft"
 
 msgid "SETTINGS_MARKERS_MASHINEGUN"
 msgstr "機槍"
 
-#, fuzzy
 msgid "SETTINGS_MARKERS_MEDIUM_SIZE"
 msgstr "Medium"
 
@@ -2765,7 +2635,6 @@ msgid "SETTINGS_MARKERS_MESSAGE_APPLY_SETTINGS_LIST"
 msgstr ""
 "您目前的自訂設定將被預設模式: {template_name_list}所替換<br>確認套用新設定?"
 
-#, fuzzy
 msgid "SETTINGS_MARKERS_MINIMUM"
 msgstr "Minimal"
 
@@ -2775,209 +2644,159 @@ msgstr "替換 (請按 {key} 鍵)"
 msgid "SETTINGS_MARKERS_MODE_BASIC"
 msgstr "基礎"
 
-#, fuzzy
 msgid "SETTINGS_MARKERS_MY_WING_PARTNER"
 msgstr "By my Flight mate"
 
-#, fuzzy
 msgid "SETTINGS_MARKERS_NAME_COMPLEX"
 msgstr "Sector name"
 
-#, fuzzy
 msgid "SETTINGS_MARKERS_NAME_PLANE"
 msgstr "Aircraft name"
 
-#, fuzzy
 msgid "SETTINGS_MARKERS_NAME_PLAYER"
 msgstr "Player Name"
 
-#, fuzzy
 msgid "SETTINGS_MARKERS_NEVER"
 msgstr "Never"
 
-#, fuzzy
 msgid "SETTINGS_MARKERS_ON_EDGES_SCREEN"
 msgstr "At the edge of the screen"
 
-#, fuzzy
 msgid "SETTINGS_MARKERS_OVERHEATING_SCALE"
 msgstr "Weapon overheating bar"
 
-#, fuzzy
 msgid "SETTINGS_MARKERS_OVERHEATING_SCALE_ICON"
 msgstr "Weapon overheating icon"
 
-#, fuzzy
-#| msgid "SETTINGS_MARKERS_CONTEXT_PLANE_MODEL"
 msgid "SETTINGS_MARKERS_PLANES_MODEL"
 msgstr "Aircraft models"
 
-#, fuzzy
 msgid "SETTINGS_MARKERS_PLANE_WEAPONS"
 msgstr "Aircraft weapons"
 
-#, fuzzy
 msgid "SETTINGS_MARKERS_PLAYERS_ARROW"
 msgstr "Players (arrow icons)"
 
-#, fuzzy
 msgid "SETTINGS_MARKERS_PLAYERS_ICON_CLASS"
 msgstr "Players (aircraft type icons)"
 
-#, fuzzy
 msgid "SETTINGS_MARKERS_POINTS_PER_TICK"
 msgstr "Points accumulated per tick"
 
-#, fuzzy
 msgid "SETTINGS_MARKERS_POINT_HP_RESTORE"
 msgstr "Regeneration spot"
 
-#, fuzzy
 msgid "SETTINGS_MARKERS_QUICKFIRE_GUN"
 msgstr "Rapid-firing autocannon"
 
-#, fuzzy
 msgid "SETTINGS_MARKERS_RADAR_SIZE"
 msgstr "Size"
 
-#, fuzzy
 msgid "SETTINGS_MARKERS_RADAR_ZOOM"
 msgstr "Radar zoom"
 
-#, fuzzy
 msgid "SETTINGS_MARKERS_RADIUS_ENEMY_DETECTION"
 msgstr "Target selection range"
 
-#, fuzzy
 msgid "SETTINGS_MARKERS_RADIUS_POINT_HP_RESTORE"
 msgstr "Regeneration spot range"
 
-#, fuzzy
 msgid "SETTINGS_MARKERS_RANGE_OF_VIEW"
 msgstr "Radar range"
 
 msgid "SETTINGS_MARKERS_RESET_TO_DEFAULT"
 msgstr "重置為預設設定"
 
-#, fuzzy
 msgid "SETTINGS_MARKERS_ROTATE_MAP_PIN_PLAYER"
 msgstr "Rotate map (player marker pinned)"
 
-#, fuzzy
 msgid "SETTINGS_MARKERS_ROTATE_PLAYER_PIN_MAP"
 msgstr "Rotate player marker (map pinned)"
 
-#, fuzzy
 msgid "SETTINGS_MARKERS_SCALE"
 msgstr "Scale"
 
-#, fuzzy
 msgid "SETTINGS_MARKERS_SCALE_FOR_AVAILABLE_BOMB"
 msgstr "Available bombs bar"
 
-#, fuzzy
 msgid "SETTINGS_MARKERS_SCALE_HP_BOOST"
 msgstr "HP and Boost bars"
 
-#, fuzzy
 msgid "SETTINGS_MARKERS_SCALE_PLANE_HEALTH"
 msgstr "Aircraft hit point bar"
 
-#, fuzzy
 msgid "SETTINGS_MARKERS_SCOPE"
 msgstr "Reticle"
 
-#, fuzzy
 msgid "SETTINGS_MARKERS_SECTOR_MESSAGES"
 msgstr "\"Current sector\" caption"
 
-#, fuzzy
 msgid "SETTINGS_MARKERS_SELECTED_TARGET"
 msgstr "Selected target"
 
-#, fuzzy
 msgid "SETTINGS_MARKERS_SENSORS_DIGITAL_GLASSES"
 msgstr "Digital sensor readings"
 
-#, fuzzy
 msgid "SETTINGS_MARKERS_SHOW"
 msgstr "Show"
 
-#, fuzzy
 msgid "SETTINGS_MARKERS_SHOW_ALTERNATIVE_HUD"
 msgstr "To view the interface in the alternative mode, press and hold {key}"
 
-#, fuzzy
 msgid "SETTINGS_MARKERS_SHOW_BOOST"
 msgstr "Show boost"
 
-#, fuzzy
 msgid "SETTINGS_MARKERS_SKILL_PILOT_INACTIVE"
 msgstr "Inactive pilot skills"
 
-#, fuzzy
 msgid "SETTINGS_MARKERS_SMALL_SIZE"
 msgstr "Small"
 
-#, fuzzy
 msgid "SETTINGS_MARKERS_SPEED_NUMBER"
 msgstr "Altimeter readings"
 
-#, fuzzy
 msgid "SETTINGS_MARKERS_SPEED_SCALE"
 msgstr "Airspeed indicator"
 
-#, fuzzy
 msgid "SETTINGS_MARKERS_STALL_SPEED"
 msgstr "Stall speed"
 
 msgid "SETTINGS_MARKERS_START_POINT_RESPAWN"
 msgstr "出生/重生點"
 
-#, fuzzy
 msgid "SETTINGS_MARKERS_TACTICAL_MARKER_COMPEX"
 msgstr "Tactical sector marker"
 
-#, fuzzy
 msgid "SETTINGS_MARKERS_TARGET_DISTANCE"
 msgstr "Range to target"
 
 msgid "SETTINGS_MARKERS_TEMPLATE_NAME"
 msgstr "預設: {template_name}"
 
-#, fuzzy
 msgid "SETTINGS_MARKERS_TEXT_BOOST"
 msgstr "\"Boost\" caption"
 
-#, fuzzy
 msgid "SETTINGS_MARKERS_TEXT_HIGHT_CEILING"
 msgstr "\"Flight ceiling\" caption"
 
-#, fuzzy
 msgid "SETTINGS_MARKERS_TEXT_PLANE_HEALTH"
 msgstr "\"Aircraft HP\" caption"
 
-#, fuzzy
 msgid "SETTINGS_MARKERS_TEXT_STALL_SPEED"
 msgstr "\"Stall speed\" caption"
 
-#, fuzzy
 msgid "SETTINGS_MARKERS_TIMER_COMPLEX_BLOKED"
 msgstr "Locked sector timer"
 
-#, fuzzy
 msgid "SETTINGS_MARKERS_TIMER_PROPERTY"
 msgstr "Property timer"
 
-#, fuzzy
 msgid "SETTINGS_MARKERS_TIPS_HOTKEYS"
 msgstr "Hotkey tips"
 
-#, fuzzy
 msgid "SETTINGS_MARKERS_TIPS_HOT_KEYS"
 msgstr "Hotkey tips"
 
-#, fuzzy
 msgid "SETTINGS_MARKERS_TIP_FOR_NEED_TO_DO"
 msgstr "Required action hint"
 
@@ -2987,18 +2806,15 @@ msgstr "檢視標識的替換樣式, 按住時"
 msgid "SETTINGS_MARKERS_TO_SEE_BASE_CONFIG"
 msgstr "檢視標識的基本樣式, 鬆開時"
 
-#, fuzzy
 msgid "SETTINGS_MARKERS_TYPE_ALTIMETER"
 msgstr "Altimeter type"
 
-#, fuzzy
 msgid "SETTINGS_MARKERS_VECTOR_INFLUENCE_COMPLEX"
 msgstr "Sector influence direction"
 
 msgid "SETTINGS_MARKERS_VIEW_MARKERS"
 msgstr "預覽標記"
 
-#, fuzzy
 msgid "SETTINGS_MARKERS_WING_BOMBERS"
 msgstr "Flight of bombers"
 
@@ -3014,7 +2830,6 @@ msgstr "中"
 msgid "SETTINGS_MAXIMAL"
 msgstr "最全"
 
-#, fuzzy
 msgid "SETTINGS_MESSAGES_DESCRIPTION_CHANGE"
 msgstr ""
 "To configure the battle interface, hover over and select options on the left."
@@ -3193,11 +3008,9 @@ msgstr "百分率"
 msgid "SETTINGS_PRESS_A_KEY"
 msgstr "指派一個鍵"
 
-#, fuzzy
 msgid "SETTINGS_RADAR"
 msgstr "Radar"
 
-#, fuzzy
 msgid "SETTINGS_RADAR_DESCRIPTION"
 msgstr ""
 "A radar has extended functional capabilities compared to the capabilities of "
@@ -3239,15 +3052,12 @@ msgstr "選擇"
 msgid "SETTINGS_REPLAY_PATH_OPTION_CREATE"
 msgstr "建立"
 
-#, fuzzy
 msgid "SETTINGS_ROLL_INDICATOR"
 msgstr "Bank indicator"
 
-#, fuzzy
 msgid "SETTINGS_ROTATE_RADAR-MINIMAP"
 msgstr "Rotate map (player marker pinned)"
 
-#, fuzzy
 msgid "SETTINGS_SCREENSHOTS_SAVE_IN_FOLDER"
 msgstr "Path to the folder with screenshots"
 
@@ -3260,33 +3070,27 @@ msgstr "靈敏度："
 msgid "SETTINGS_SETTINGS_HEADER_SETTINGS_TO_DEFAULTS_CONFIRMATION"
 msgstr "恢復設定"
 
-#, fuzzy
 msgid "SETTINGS_SHOOTING_REAR_GUNNER_MODE"
 msgstr "Fire in turret control mode"
 
-#, fuzzy
 msgid "SETTINGS_SHOW"
 msgstr "Show"
 
 msgid "SETTINGS_SHOW_ALL"
 msgstr "所有控制"
 
-#, fuzzy
 msgid "SETTINGS_SHOW_AVIAHORIZON"
 msgstr "Show attitude indicator"
 
-#, fuzzy
 msgid "SETTINGS_SHOW_BATTLE_RECOMENDATIONS"
 msgstr "Battle recommendations"
 
-#, fuzzy
 msgid "SETTINGS_SHOW_FPS_PING"
 msgstr "FPS, ping, packet loss"
 
 msgid "SETTINGS_SHOW_IGNORED"
 msgstr "顯示黑名單"
 
-#, fuzzy
 msgid "SETTINGS_SHOW_TIPS_HOTKEYS"
 msgstr "Hotkey tips"
 
@@ -3356,18 +3160,15 @@ msgstr "揚聲器模式"
 msgid "SETTINGS_SPEED_POINTER"
 msgstr "游標速度"
 
-#, fuzzy
 msgid "SETTINGS_SPEED_SCALE"
 msgstr "Airspeed indicator"
 
 msgid "SETTINGS_STANDART"
 msgstr "一般"
 
-#, fuzzy
 msgid "SETTINGS_STANDART_MODE"
 msgstr "Standard mode"
 
-#, fuzzy
 msgid "SETTINGS_STICK"
 msgstr "Stick Settings"
 
@@ -3419,7 +3220,6 @@ msgstr "啟用/禁用隊聊"
 msgid "SETTINGS_TEAM_VOICE_CHAT_ENABLE"
 msgstr "自動加入隊聊"
 
-#, fuzzy
 msgid "SETTINGS_TILT_SCALE"
 msgstr "Pitch indicator"
 

@@ -8,7 +8,7 @@ msgstr ""
 "Language-Team: WoT Team <noreply@wargaming.net>\n"
 "Language: zh_TW\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Poedit 2.0.5\n"
 
@@ -168,7 +168,6 @@ msgstr "擊落防空戰機和轟炸機隊的轟炸機"
 msgid "ACHIEVEMENTS_DEFENDER-BOMBER_DESTROYED_ASSISTS"
 msgstr "協助擊落防空戰機和轟炸機隊的轟炸機"
 
-#, fuzzy
 msgid "ACHIEVEMENTS_DEFENDER-BOMBER_DESTROYED_AVERAGE_PER_BATTLE"
 msgstr ""
 "Average number of air defense aircraft and bombers from Attack Flight "
@@ -287,7 +286,6 @@ msgstr ""
 msgid "ACHIEVEMENTS_RANDOM_MODE_ONLY"
 msgstr "標準戰鬥的統計資料將在戰績中顯示"
 
-#, fuzzy
 msgid "ACHIEVEMENTS_RECIEVED_ON_AIRCRAFT"
 msgstr ""
 "Received on the following aircraft:<br>{aircraft_1}, {aircraft_2}, "
@@ -305,11 +303,9 @@ msgstr "在「征服」模式裡的總飛行時數"
 msgid "ACHIEVEMENTS_SUMMARY_BATTLE_POINTS"
 msgstr "總戰鬥點數"
 
-#, fuzzy
 msgid "ACHIEVEMENTS_SUMMARY_BATTLE_POINTS_ON_PLANES"
 msgstr "Total personal points earned in the aircraft"
 
-#, fuzzy
 msgid "ACHIEVEMENTS_SUMMARY_EXP_ON_PLANES"
 msgstr "Total experience earned in the aircraft"
 
@@ -352,9 +348,11 @@ msgstr "傑出表現獎章"
 msgid "ACHIEVEMENTS_TAB_AWARDS_NEW_YEAR"
 msgstr "季度獎勵"
 
-#, fuzzy
 msgid "ACHIEVEMENTS_TAB_AWARDS_OLD"
 msgstr "Past Achievements"
+
+msgid "ACHIEVEMENTS_TAB_AWARDS_RATING"
+msgstr "Rating Achievements"
 
 msgid "ACHIEVEMENTS_TAB_AWARDS_RECENT"
 msgstr "最新成就"
@@ -415,7 +413,6 @@ msgstr ""
 "授予在戰鬥中表現最出色的玩家，玩家需贏得這場戰鬥的勝利且在戰鬥結束時倖存"
 "<br><br>只可在人機對戰模式中獲得一次"
 
-#, fuzzy
 msgid "MEDAL_DESCRIPTION_ACE"
 msgstr ""
 "Awarded for destroying at least <font color='#f2f2f2'>{0} aerial targets</"
@@ -431,30 +428,25 @@ msgstr ""
 "授予使用戰鬥機或多用途戰鬥機在一場戰鬥中擊落至少3架比自己高2級的敵機的玩家"
 "<br><br>只可在標準戰鬥中獲得"
 
-#, fuzzy
 msgid "MEDAL_DESCRIPTION_ALBION_LION-I"
 msgstr ""
 "Was awarded for participating in at least <font color='#f2f2f2'>21 "
 "confrontations</font> on the Allied side during the Skies of Albion event."
 
-#, fuzzy
 msgid "MEDAL_DESCRIPTION_ALBION_LION-II"
 msgstr ""
 "Was awarded for participating in at least <font color='#f2f2f2'>10 "
 "confrontations</font> on the Allied side during the Skies of Albion event."
 
-#, fuzzy
 msgid "MEDAL_DESCRIPTION_ALBION_LION-III"
 msgstr ""
 "Was awarded for participating in at least <font color='#f2f2f2'>1 "
 "confrontation</font> on the Allied side during the Skies of Albion event."
 
-#, fuzzy
 msgid "MEDAL_DESCRIPTION_ALL_YEAR_2016_VETERAN"
 msgstr ""
 "Awarded for participating in four seasonal events available in 2015–2016."
 
-#, fuzzy
 msgid "MEDAL_DESCRIPTION_ALTITUDE_HUNTER"
 msgstr ""
 "Awarded for destroying at least <font color='#f2f2f2'>{0} bombers</font> "
@@ -475,22 +467,28 @@ msgstr ""
 msgid "MEDAL_DESCRIPTION_ASSISTANT"
 msgstr "授予在一場戰鬥中助攻擊落3架敵機的玩家<br><br>只可在人機對戰中獲得一次"
 
-#, fuzzy
-#| msgid "MEDAL_DESCRIPTION_ASSISTANT"
 msgid "MEDAL_DESCRIPTION_ASSISTMASTER"
 msgstr ""
 "Awarded for achieving maximum effectiveness in fulfilling the aircraft type-"
 "specific mission <font color='#f2f2f2'>\"Teamwork\"</font>."
 
-#, fuzzy
+msgid "MEDAL_DESCRIPTION_ATTACKER"
+msgstr ""
+"Awarded for earning <font color='#f2f2f2'>aircraft type grade II</font> "
+"during stage 1 <font color='#f2f2f2'>\"Fog of War\"</font> of the Flaming "
+"Shores event."
+
+msgid "MEDAL_DESCRIPTION_ATTACK_HERO"
+msgstr ""
+"Awarded for earning <font color='#{1}'>aircraft type grade II</font> during "
+"<font color='#{1}'>the Offensive stage</font> of the Summer Storm event."
+
 msgid "MEDAL_DESCRIPTION_ATTACK_ON_ALLIES_POSITION"
 msgstr "Awarded for completing the mission \"Offensive\"."
 
-#, fuzzy
 msgid "MEDAL_DESCRIPTION_AUTUMN_VETERAN"
 msgstr "Awarded for participating in the 2016 event \"Three Years Airborne\"."
 
-#, fuzzy
 msgid "MEDAL_DESCRIPTION_AVALANCHE"
 msgstr ""
 "Awarded for destroying at least <font color='#f2f2f2'>{0} enemy ground "
@@ -508,7 +506,6 @@ msgstr ""
 "授予在一場戰鬥中戰機受到至少3次致命傷害但最終倖存的玩家<br><br>只可在標準戰鬥"
 "中獲得，且每架戰機只可獲得一次"
 
-#, fuzzy
 msgid "MEDAL_DESCRIPTION_BATTLE_VULTURE"
 msgstr ""
 "Awarded for destroying at least <font color='#f2f2f2'>{0} multirole "
@@ -544,7 +541,6 @@ msgstr ""
 msgid "MEDAL_DESCRIPTION_BOMBARDIER"
 msgstr "授予使用炸彈摧毀敵方戰機的玩家<br><br>每架戰機只可在標準戰鬥中獲得一次"
 
-#, fuzzy
 msgid "MEDAL_DESCRIPTION_BOMBARDIER_1"
 msgstr ""
 "Awarded for destroying <font color='#f2f2f2'>an enemy aircraft with a bomb "
@@ -554,7 +550,6 @@ msgstr ""
 msgid "MEDAL_DESCRIPTION_BOMBING"
 msgstr "授予使用炸彈摧毀敵方地面目標的玩家<br><br>只可獲得一次"
 
-#, fuzzy
 msgid "MEDAL_DESCRIPTION_BOMBING_1"
 msgstr ""
 "Awarded for damaging a ground target by dropping a bomb.<br><br>Available "
@@ -569,22 +564,18 @@ msgstr "使用重型戰鬥機累計獲得30個“破壞者”勳章"
 msgid "MEDAL_DESCRIPTION_BONG3"
 msgstr "使用重型戰鬥機累計獲得3個“破壞者”勳章"
 
-#, fuzzy
 msgid "MEDAL_DESCRIPTION_BOYINGTON1"
 msgstr ""
 "Awarded for earning at least <font color='#f2f2f2'>{0} capture points</font>."
 
-#, fuzzy
 msgid "MEDAL_DESCRIPTION_BOYINGTON2"
 msgstr ""
 "Awarded for earning at least <font color='#f2f2f2'>{0} capture points</font>."
 
-#, fuzzy
 msgid "MEDAL_DESCRIPTION_BOYINGTON3"
 msgstr ""
 "Awarded for earning at least <font color='#f2f2f2'>{0} capture points</font>."
 
-#, fuzzy
 msgid "MEDAL_DESCRIPTION_BOYINGTON4"
 msgstr ""
 "Awarded for earning at least <font color='#f2f2f2'>{0} capture points</font>."
@@ -594,12 +585,20 @@ msgstr ""
 "授予在戰鬥中摧毀敵方3座高射砲或配有高射砲的地面目標<br><br>只可在標準戰鬥中獲"
 "得，且每架戰機只可獲得一次"
 
-#, fuzzy
+msgid "MEDAL_DESCRIPTION_BRONZE_PLAYERS"
+msgstr ""
+"Awarded for getting into the bronze division based on personal rating score."
+
 msgid "MEDAL_DESCRIPTION_BURNING"
 msgstr ""
 "Awarded for surviving at least <font color='#f2f2f2'>2 fires</font> in a "
 "single sortie.<br><font size='6'><br></font>The count is reset if the "
 "player's aircraft is destroyed."
+
+msgid "MEDAL_DESCRIPTION_BURNING_SHORES"
+msgstr ""
+"Awarded for earning <font color='#f2f2f2'>{0}</font> personal points during "
+"the Flaming Shores event."
 
 msgid "MEDAL_DESCRIPTION_CADET"
 msgstr "完成訓練任務"
@@ -624,14 +623,12 @@ msgstr ""
 "授予一場戰鬥中在發動機和機槍/航砲不出現過熱的情況下擊落3架敵機的玩家<br><br>"
 "只可在標準戰鬥中獲得，且每架戰機只可獲得一次"
 
-#, fuzzy
 msgid "MEDAL_DESCRIPTION_CATCHER"
 msgstr ""
 "Awarded for earning at least <font color='#f2f2f2'>{0} capture points</font> "
 "for destroying enemy aircraft flying over a sector under the control of the "
 "player's combat group in a single battle."
 
-#, fuzzy
 msgid "MEDAL_DESCRIPTION_CAUTION_BOMB"
 msgstr ""
 "Awarded once for <font color='#f2f2f2'>damaging an aerial target using a "
@@ -668,13 +665,14 @@ msgstr ""
 msgid "MEDAL_DESCRIPTION_COLLECTOR"
 msgstr "授予使用至少2架不同等級的戰機進行戰鬥的玩家"
 
-#, fuzzy
+msgid "MEDAL_DESCRIPTION_COMPETITIVE_PLAYERS"
+msgstr "Awarded for getting on the rating list."
+
 msgid "MEDAL_DESCRIPTION_CONQUEROR"
 msgstr ""
 "Awarded for earning at least <font color='#f2f2f2'>{0} capture points</font> "
 "in a single battle."
 
-#, fuzzy
 msgid "MEDAL_DESCRIPTION_CONTROLLER"
 msgstr ""
 "Awarded for achieving maximum effectiveness in fulfilling the aircraft type-"
@@ -683,7 +681,6 @@ msgstr ""
 msgid "MEDAL_DESCRIPTION_CROSSFIRE"
 msgstr "授予在對敵機造成嚴重損害後敵機被其他隊友擊落的玩家<br><br>只可獲得一次"
 
-#, fuzzy
 msgid "MEDAL_DESCRIPTION_CROSSFIRE_1"
 msgstr ""
 "Awarded for damaging an enemy aircraft later destroyed by an allied aircraft."
@@ -694,7 +691,6 @@ msgstr ""
 "頒發給在一場戰鬥中至少摧毀12架敵機的組隊玩家<br><br>此編隊的參加者需全部生還"
 "直至達成條件<br><br>只可在標準戰鬥中獲得"
 
-#, fuzzy
 msgid "MEDAL_DESCRIPTION_DANGEROUS_TARGET"
 msgstr ""
 "Awarded for destroying at least <font color='#f2f2f2'>{0} aerial targets</"
@@ -702,14 +698,12 @@ msgstr ""
 "if the player's aircraft destroys fewer than {0} aerial targets before being "
 "destroyed."
 
-#, fuzzy
 msgid "MEDAL_DESCRIPTION_DANGER_TAIL"
 msgstr ""
 "Awarded for destroying at least <font color='#f2f2f2'>{0} aerial target</"
 "font> with turret fire in a single sortie.<br><font size='6'><br></font>The "
 "count is reset if the player's aircraft is destroyed."
 
-#, fuzzy
 msgid "MEDAL_DESCRIPTION_DARING_SWOOP"
 msgstr ""
 "Awarded once for <font color='#f2f2f2'>participating in capturing a sector</"
@@ -720,21 +714,18 @@ msgstr ""
 "授予擊落敵方帶有尾砲的戰機並且敵機尾砲未能對其造成傷害的玩家<br><br>只可在標"
 "準戰鬥中獲得"
 
-#, fuzzy
 msgid "MEDAL_DESCRIPTION_DEFENDER_PROGRESS1"
 msgstr ""
 "Was awarded for participating in at least <font color='#f2f2f2'>21 "
 "confrontations</font> on the Axis side during the Battle for Thor's Hammer "
 "event."
 
-#, fuzzy
 msgid "MEDAL_DESCRIPTION_DEFENDER_PROGRESS2"
 msgstr ""
 "Was awarded for participating in at least <font color='#f2f2f2'>10 "
 "confrontations</font> on the Axis side during the Battle for Thor's Hammer "
 "event."
 
-#, fuzzy
 msgid "MEDAL_DESCRIPTION_DEFENDER_PROGRESS3"
 msgstr ""
 "Was awarded for participating in at least <font color='#f2f2f2'>1 "
@@ -746,7 +737,6 @@ msgstr ""
 "授予在一場戰鬥中摧毀至少4架敵機和至少15分的地面目標的玩家<br><br>玩家可使用任"
 "何類型的戰機完成此任務<br><br>只可在標準戰鬥中獲得"
 
-#, fuzzy
 msgid "MEDAL_DESCRIPTION_DESTROYER_OLD"
 msgstr ""
 "Was awarded for destroying at least <font color='#f2f2f2'>4 enemy aircraft</"
@@ -759,25 +749,21 @@ msgstr ""
 "授予使用一枚炸彈摧毀2座敵方地面目標的玩家<br><br>只可在標準戰鬥中獲得，且每架"
 "戰機只可獲得一次"
 
-#, fuzzy
 msgid "MEDAL_DESCRIPTION_DILLEI1"
 msgstr ""
 "Awarded for destroying at least <font color='#f2f2f2'>{0} aircraft from the "
 "enemy combat group</font>."
 
-#, fuzzy
 msgid "MEDAL_DESCRIPTION_DILLEI2"
 msgstr ""
 "Awarded for destroying at least <font color='#f2f2f2'>{0} aircraft from the "
 "enemy combat group</font>."
 
-#, fuzzy
 msgid "MEDAL_DESCRIPTION_DILLEI3"
 msgstr ""
 "Awarded for destroying at least <font color='#f2f2f2'>{0} aircraft from the "
 "enemy combat group</font>."
 
-#, fuzzy
 msgid "MEDAL_DESCRIPTION_DILLEI4"
 msgstr ""
 "Awarded for destroying at least <font color='#f2f2f2'>{0} aircraft from the "
@@ -788,20 +774,17 @@ msgstr ""
 "授予在一場戰鬥中擊落至少1架戰鬥機或多用途戰鬥機、1架重型戰鬥機和1架攻擊機的玩"
 "家<br><br>只可在標準戰鬥中獲得，且每架戰機只可獲得一次"
 
-#, fuzzy
 msgid "MEDAL_DESCRIPTION_DOMINATOR_1"
 msgstr ""
 "Awarded for destroying at least 1 enemy fighter, 1 heavy fighter, and 1 "
 "attack aircraft in a single battle, and winning the battle.<br><br>Available "
 "once for each aircraft in the Hangar."
 
-#, fuzzy
 msgid "MEDAL_DESCRIPTION_DULITTLA"
 msgstr ""
 "Awarded for earning at least <font color='#f2f2f2'>{0} capture points</font> "
 "for destroying enemy ground targets with a bomber in a single sortie."
 
-#, fuzzy
 msgid "MEDAL_DESCRIPTION_EFFECTIVE"
 msgstr ""
 "Awarded for earning at least <font color='#f2f2f2'>{0} personal points</"
@@ -809,31 +792,59 @@ msgstr ""
 "font>The count is reset if the player earns fewer than {0} personal points "
 "in a single battle."
 
-#, fuzzy
 msgid "MEDAL_DESCRIPTION_ELITE_PLANE"
 msgstr ""
 "Awarded for acquiring <font color='#f2f2f2'>Elite status</font> for any "
 "aircraft.<br><font size='6'><br></font>Available once for each aircraft that "
 "acquires <font color='#f2f2f2'>Elite status</font>."
 
-#, fuzzy
 msgid "MEDAL_DESCRIPTION_END_OF_SPEAR"
 msgstr ""
 "Awarded to members of a Flight that earned at least <font "
 "color='#f2f2f2'>{0} personal points</font>.<br><font size='6'><br></font>The "
 "count is reset if one of the Flight members is destroyed."
 
-#, fuzzy
+msgid "MEDAL_DESCRIPTION_ESCORT_SKY_AVENGER"
+msgstr ""
+"Awarded for achieving maximum effectiveness in fulfilling the aircraft type-"
+"specific mission <font color='#{1}'>\"Destroy enemy aircraft\"</font>."
+
+msgid "MEDAL_DESCRIPTION_ESCORT_SKY_DEFENDER"
+msgstr ""
+"Awarded for achieving maximum effectiveness in fulfilling the aircraft type-"
+"specific mission <font color='#{1}'>\"Escort attack aircraft\"</font>."
+
+msgid "MEDAL_DESCRIPTION_ESCORT_SKY_DESTROYER"
+msgstr ""
+"Awarded for achieving maximum effectiveness in fulfilling the aircraft type-"
+"specific mission <font color='#{1}'>\"Suppress AA defenses\"</font>."
+
+msgid "MEDAL_DESCRIPTION_ESCORT_SKY_HUNTER"
+msgstr ""
+"Awarded for achieving maximum effectiveness in fulfilling the aircraft type-"
+"specific mission <font color='#{1}'>\"Intercept\"</font>."
+
+msgid "MEDAL_DESCRIPTION_ESCORT_SKY_KEEPER"
+msgstr ""
+"Awarded for achieving maximum effectiveness in fulfilling the aircraft type-"
+"specific mission <font color='#{1}'>\"Escort bombers\"</font>."
+
 msgid "MEDAL_DESCRIPTION_EXPERIENCED"
 msgstr ""
 "Awarded for winning a battle and <font color='#f2f2f2'>achieving one of the "
 "top 3 ranks</font> in the combat group.<br><font size='6'><br></"
 "font>Available once for each aircraft in the Hangar."
 
+msgid "MEDAL_DESCRIPTION_EXPERIENCED_ALT"
+msgstr ""
+"Awarded for <font color='#f2f2f2'>achieving one of the top 3 ranks</font> in "
+"the combat group in <font color='#f2f2f2'>2</font> victorious battles in a "
+"row. The count is reset if the player does not achieve one of the top 3 "
+"ranks in the combat group."
+
 msgid "MEDAL_DESCRIPTION_EXPERIENCED_HUNTER"
 msgstr "授予完成\"空戰專家\"任務的玩家"
 
-#, fuzzy
 msgid "MEDAL_DESCRIPTION_EXTERMINATOR"
 msgstr ""
 "Awarded for achieving maximum effectiveness in fulfilling the aircraft type-"
@@ -848,33 +859,28 @@ msgstr ""
 "授予在一場戰鬥中至少擊落2架敵方戰鬥機或多用途戰鬥機的玩家，玩家需贏得這場戰鬥"
 "的勝利且在戰鬥結束時倖存<br><br>只可在標準戰鬥中獲得，且每架戰機只可獲得一次"
 
-#, fuzzy
 msgid "MEDAL_DESCRIPTION_FALCON_HUNTING"
 msgstr ""
 "Awarded for destroying at least <font color='#f2f2f2'>{0} fighters</font> "
 "from the enemy combat group in a single battle and winning the battle."
 "<br><font size='6'><br></font>Available once for each aircraft in the Hangar."
 
-#, fuzzy
 msgid "MEDAL_DESCRIPTION_FIGHTER_DEFENDER"
 msgstr ""
 "Awarded for achieving maximum effectiveness in fulfilling the aircraft type-"
 "specific mission <font color='#f2f2f2'>\"Sector Defense\"</font>."
 
-#, fuzzy
 msgid "MEDAL_DESCRIPTION_FIGHTER_DOMINATOR"
 msgstr ""
 "Awarded for achieving maximum effectiveness in fulfilling the aircraft type-"
 "specific mission <font color='#f2f2f2'>\"Air Battle for Sectors\"</font>."
 
-#, fuzzy
 msgid "MEDAL_DESCRIPTION_FIGHTER_INTERCEPTOR"
 msgstr ""
 "Awarded for achieving maximum effectiveness in fulfilling the aircraft type-"
 "specific mission <font color='#f2f2f2'>\"Destruction of Aerial Targets\"</"
 "font>."
 
-#, fuzzy
 msgid "MEDAL_DESCRIPTION_FIGHTER_OF_ALL_LIFE"
 msgstr ""
 "Awarded for achieving maximum effectiveness in fulfilling the aircraft type-"
@@ -885,13 +891,11 @@ msgstr ""
 "授予使用戰鬥機或多用途戰鬥機在一場戰鬥中擊落2架敵機的玩家<br><br>只可在人機對"
 "戰模式中獲得一次"
 
-#, fuzzy
 msgid "MEDAL_DESCRIPTION_FIREBUG"
 msgstr ""
 "Awarded once for <font color='#f2f2f2'>destroying a ground target by setting "
 "it on fire</font>."
 
-#, fuzzy
 msgid "MEDAL_DESCRIPTION_FIRESPITTING"
 msgstr ""
 "Awarded for destroying at least <font color='#f2f2f2'>2 ground targets</"
@@ -917,12 +921,16 @@ msgstr ""
 "授予在戰鬥中率先擊落敵機的玩家，如果己方隊友或AI率先擊落敵機將重新進行計算"
 "<br><br>只可在人機對戰模式中獲得"
 
+msgid "MEDAL_DESCRIPTION_FIRST_FIGHTER"
+msgstr ""
+"Awarded for earning <font color='#{1}'>aircraft type grade II</font> during "
+"<font color='#{1}'>the Reconnaissance stage</font> of the Summer Storm event."
+
 msgid "MEDAL_DESCRIPTION_FIRST_IN_TEAM"
 msgstr ""
 "授予隊伍中擊落敵機數量最多的玩家，如果多個玩家擊墜數相同將均可獲得，如果玩家"
 "的戰機被擊落或該場戰鬥失敗將重新開始計算<br><br>只可在人機對戰中獲得"
 
-#, fuzzy
 msgid "MEDAL_DESCRIPTION_FLAME_OF_HEAVEN"
 msgstr ""
 "Awarded for <font color='#f2f2f2'>destroying an aerial target aircraft by "
@@ -955,12 +963,17 @@ msgstr "授予使用急救繃帶包或急救箱治療受傷飛行員的玩家<br
 msgid "MEDAL_DESCRIPTION_FLIGHT_REPAIRS"
 msgstr "授予重新啟動受損引擎的玩家<br><br>只可獲得一次"
 
-#, fuzzy
 msgid "MEDAL_DESCRIPTION_FLOWN"
 msgstr ""
 "Awarded for <font color='#f2f2f2'>assisting the allies at least {0} times in "
 "destroying aerial targets</font> in a single battle and winning the battle."
 "<br><font size='6'><br></font>Available once for each aircraft in the Hangar."
+
+msgid "MEDAL_DESCRIPTION_FLYING_EAGLE"
+msgstr ""
+"Awarded for earning <font color='#f2f2f2'>aircraft type grade II</font> "
+"during stage 2 <font color='#f2f2f2'>\"Eagle's Shadow\"</font> of the "
+"Flaming Shores event."
 
 msgid "MEDAL_DESCRIPTION_FLY_SAUCER"
 msgstr "授予2014愚人節活動駕駛斯雷普尼爾參與至少1場戰鬥的玩家"
@@ -980,7 +993,6 @@ msgstr "以熟練表現完成“奪命的天空”系列任務"
 msgid "MEDAL_DESCRIPTION_FRONTLINE_5"
 msgstr "以正常表現完成“奪命的天空”系列任務"
 
-#, fuzzy
 msgid "MEDAL_DESCRIPTION_FULMINANT"
 msgstr ""
 "Awarded for destroying <font color='#f2f2f2'>2 aerial targets</font> in a "
@@ -1001,12 +1013,15 @@ msgstr "使用戰鬥機或多用途戰鬥機累計獲得30個“王牌”勳章"
 msgid "MEDAL_DESCRIPTION_GALLAND3"
 msgstr "使用戰鬥機或多用途戰鬥機累計獲得3個“王牌”勳章"
 
+msgid "MEDAL_DESCRIPTION_GOLD_PLAYERS"
+msgstr ""
+"Awarded for getting into the golden division based on personal rating score."
+
 msgid "MEDAL_DESCRIPTION_GOLIAPHS_NEMESIS"
 msgstr ""
 "授予在一場或多場戰鬥中擊落3架敵方重型戰鬥機的玩家，玩家需倖存，直到擊落3架重"
 "型戰鬥機為止<br><br>只可在人機對戰模式中獲得一次"
 
-#, fuzzy
 msgid "MEDAL_DESCRIPTION_GOLUBEV"
 msgstr ""
 "Awarded for destroying at least <font color='#f2f2f2'>{0} aerial targets</"
@@ -1018,7 +1033,6 @@ msgstr "授予在一場戰鬥中至少摧毀9架敵方戰機的玩家<br><br>只
 msgid "MEDAL_DESCRIPTION_GOTCHA"
 msgstr "授予使用機槍或機砲擊落敵機的玩家<br><br>只可獲得一次"
 
-#, fuzzy
 msgid "MEDAL_DESCRIPTION_GOTCHA_1"
 msgstr ""
 "Awarded for damaging an enemy aircraft with forward-firing weapons."
@@ -1041,7 +1055,12 @@ msgstr "授予在標準戰鬥中擊落100架敵機的玩家"
 msgid "MEDAL_DESCRIPTION_GRAF4"
 msgstr "授予在標準戰鬥中擊落10架敵機的玩家"
 
-#, fuzzy
+msgid "MEDAL_DESCRIPTION_GRIP"
+msgstr ""
+"Awarded for earning <font color='#{1}'>aircraft type grade II</font> during "
+"<font color='#{1}'>the Maintaining of Positions stage</font> of the Summer "
+"Storm event."
+
 msgid "MEDAL_DESCRIPTION_GROUND_AND_IN_THE_SKY"
 msgstr ""
 "Awarded for destroying at least <font color='#f2f2f2'>{0} aerial targets</"
@@ -1059,13 +1078,11 @@ msgstr ""
 "授予在一場或多場戰鬥中累計對敵方地面目標造成10000點傷害的玩家<br><br>只可獲得"
 "一次"
 
-#, fuzzy
 msgid "MEDAL_DESCRIPTION_GUARD"
 msgstr ""
 "Awarded once for <font color='#f2f2f2'>destroying an enemy ground target</"
 "font>."
 
-#, fuzzy
 msgid "MEDAL_DESCRIPTION_GUNNER"
 msgstr ""
 "Awarded once for <font color='#f2f2f2'>damaging an aerial target with turret "
@@ -1076,40 +1093,34 @@ msgstr ""
 "授予在一場戰鬥中擊落9架敵機並且摧毀15個敵方地面目標的玩家<br><br>只可在標準戰"
 "鬥中獲得"
 
-#, fuzzy
 msgid "MEDAL_DESCRIPTION_HAMMER_PROGRESS1"
 msgstr ""
 "Was awarded for participating in at least <font color='#f2f2f2'>21 "
 "confrontations</font> on the Allied side during the Battle for Thor's Hammer "
 "event."
 
-#, fuzzy
 msgid "MEDAL_DESCRIPTION_HAMMER_PROGRESS2"
 msgstr ""
 "Was awarded for participating in at least <font color='#f2f2f2'>10 "
 "confrontations</font> on the Allied side during the Battle for Thor's Hammer "
 "event."
 
-#, fuzzy
 msgid "MEDAL_DESCRIPTION_HAMMER_PROGRESS3"
 msgstr ""
 "Was awarded for participating in at least <font color='#f2f2f2'>1 "
 "confrontation</font> on the Allied side during the Battle for Thor's Hammer "
 "event."
 
-#, fuzzy
 msgid "MEDAL_DESCRIPTION_HAWK_LA_MANCHE-I"
 msgstr ""
 "Was awarded for participating in at least <font color='#f2f2f2'>21 "
 "confrontations</font> on the Axis side during the Skies of Albion event."
 
-#, fuzzy
 msgid "MEDAL_DESCRIPTION_HAWK_LA_MANCHE-II"
 msgstr ""
 "Was awarded for participating in at least <font color='#f2f2f2'>10 "
 "confrontations</font> on the Axis side during the Skies of Albion event."
 
-#, fuzzy
 msgid "MEDAL_DESCRIPTION_HAWK_LA_MANCHE-III"
 msgstr ""
 "Was awarded for participating in at least <font color='#f2f2f2'>1 "
@@ -1118,7 +1129,6 @@ msgstr ""
 msgid "MEDAL_DESCRIPTION_HEAVYWEIGHT"
 msgstr "授予摧毀敵方重型戰鬥機的玩家<br><br>只可獲得一次"
 
-#, fuzzy
 msgid "MEDAL_DESCRIPTION_HEAVYWEIGHT_1"
 msgstr ""
 "Awarded for destroying an enemy heavy fighter.<br><br>Available one time "
@@ -1150,7 +1160,6 @@ msgid "MEDAL_DESCRIPTION_HOT_ENGINES"
 msgstr ""
 "授予戰機發動機在經過長時間增壓而過熱後重新完全冷卻的玩家<br><br>只可獲得一次"
 
-#, fuzzy
 msgid "MEDAL_DESCRIPTION_HUNGRY_FLOCK"
 msgstr ""
 "Awarded to members of a Flight for destroying at least <font "
@@ -1158,7 +1167,6 @@ msgstr ""
 "color='#f2f2f2'>{1} capture points</font> for destroying enemy ground "
 "targets in a single battle, and winning the battle."
 
-#, fuzzy
 msgid "MEDAL_DESCRIPTION_HUNTER"
 msgstr ""
 "Awarded for destroying at least <font color='#f2f2f2'>{0} air defense "
@@ -1166,13 +1174,11 @@ msgstr ""
 "size='6'><br></font>The count is reset if the player destroys fewer than {0} "
 "air defense aircraft in a single battle."
 
-#, fuzzy
 msgid "MEDAL_DESCRIPTION_IMPACT_FROM_THE_SKY"
 msgstr ""
 "Awarded once for destroying a <font color='#f2f2f2'>bomber from an Attack "
 "Flight</font>."
 
-#, fuzzy
 msgid "MEDAL_DESCRIPTION_INDEPENDENT"
 msgstr ""
 "Awarded to members of a Flight for destroying at least <font "
@@ -1185,18 +1191,15 @@ msgstr ""
 "授予在一場戰鬥中至少擊落2架敵方攻擊機的玩家，玩家需贏得這場戰鬥的勝利且在戰鬥"
 "結束時倖存<br><br>只可在標準戰鬥中獲得，且每架戰機只可獲得一次"
 
-#, fuzzy
 msgid "MEDAL_DESCRIPTION_INTERCEPTORHEAVYWEIGHT_FIGHTER"
 msgstr ""
 "Awarded for destroying at least <font color='#f2f2f2'>{0} attack aircraft</"
 "font> from the enemy combat group in a single battle and winning the battle."
 "<br><font size='6'><br></font>Available once for each aircraft in the Hangar."
 
-#, fuzzy
 msgid "MEDAL_DESCRIPTION_INTERCEPTOR_1"
 msgstr "Awarded for destroying at least 12 enemy aircraft in a single battle."
 
-#, fuzzy
 msgid "MEDAL_DESCRIPTION_INVADER"
 msgstr ""
 "Awarded for earning at least <font color='#f2f2f2'>{0} capture points</font> "
@@ -1205,14 +1208,15 @@ msgstr ""
 "a single battle."
 
 msgid "MEDAL_DESCRIPTION_INVASION"
-msgstr "授予在「西牆任務」活動期間，在<font color='#f2f2f2'>「Invasion」</font>模式獲得至少 10 次勝利的玩家。"
+msgstr ""
+"授予在「西牆任務」活動期間，在<font color='#f2f2f2'>「Invasion」</font>模式獲"
+"得至少 10 次勝利的玩家。"
 
 msgid "MEDAL_DESCRIPTION_INVULNERABLE"
 msgstr ""
 "授予在一場戰鬥中以毫髮無傷的狀態擊落2架敵機，玩家需贏得這場戰鬥的勝利且在戰鬥"
 "結束時倖存<br><br>只可在標準戰鬥中獲得"
 
-#, fuzzy
 msgid "MEDAL_DESCRIPTION_INVULNERABLE_1"
 msgstr ""
 "Awarded for surviving throughout at least 2 battles. The count is reset if "
@@ -1224,117 +1228,99 @@ msgstr "授予使用3架不同戰機獲得“支配者”勳章的玩家"
 msgid "MEDAL_DESCRIPTION_JACK_OF_ALL_TRADES"
 msgstr "授予使用至少2種不同類型戰機參與戰鬥的玩家"
 
-#, fuzzy
 msgid "MEDAL_DESCRIPTION_JA_ALLY_PROGRESS1"
 msgstr ""
 "Was awarded for receiving at least <font color='#f2f2f2'>5,000 superiority "
 "points</font> in battles fought on the Allied side during the Japanese "
 "Threat event."
 
-#, fuzzy
 msgid "MEDAL_DESCRIPTION_JA_ALLY_PROGRESS2"
 msgstr ""
 "Was awarded for receiving at least <font color='#f2f2f2'>1,500 superiority "
 "points</font> in battles fought on the Allied side during the Japanese "
 "Threat event."
 
-#, fuzzy
 msgid "MEDAL_DESCRIPTION_JA_ALLY_PROGRESS3"
 msgstr ""
 "Was awarded for receiving at least <font color='#f2f2f2'>100 superiority "
 "points</font> in battles fought on the Allied side during the Japanese "
 "Threat event."
 
-#, fuzzy
 msgid "MEDAL_DESCRIPTION_JA_AXIS_PROGRESS1"
 msgstr ""
 "Was awarded for receiving at least <font color='#f2f2f2'>5,000 superiority "
 "points</font> in battles fought on the Axis side during the Japanese Threat "
 "event."
 
-#, fuzzy
 msgid "MEDAL_DESCRIPTION_JA_AXIS_PROGRESS2"
 msgstr ""
 "Was awarded for receiving at least <font color='#f2f2f2'>1,500 superiority "
 "points</font> in battles fought on the Axis side during the Japanese Threat "
 "event."
 
-#, fuzzy
 msgid "MEDAL_DESCRIPTION_JA_AXIS_PROGRESS3"
 msgstr ""
 "Was awarded for receiving at least <font color='#f2f2f2'>100 superiority "
 "points</font> in battles fought on the Axis side during the Japanese Threat "
 "event."
 
-#, fuzzy
 msgid "MEDAL_DESCRIPTION_JA_BANZAY"
 msgstr ""
 "Was awarded to a player on the Axis forces who destroyed an enemy aircraft "
 "by ramming during the Japanese Threat event.<br><font size='6'><br></"
 "font>Was available one time only."
 
-#, fuzzy
 msgid "MEDAL_DESCRIPTION_JA_HUNTER"
 msgstr ""
 "Was awarded to a player on the Allied forces who destroyed an enemy aircraft "
 "by setting it on fire during the Japanese Threat event.<br><font "
 "size='6'><br></font>Was available one time only."
 
-#, fuzzy
 msgid "MEDAL_DESCRIPTION_JA_PACIFIC1"
 msgstr ""
 "Was awarded for participating in at least <font color='#f2f2f2'>21 "
 "confrontations</font> on the Allied side during the Japanese Threat event."
 
-#, fuzzy
 msgid "MEDAL_DESCRIPTION_JA_PACIFIC2"
 msgstr ""
 "Was awarded for participating in at least <font color='#f2f2f2'>10 "
 "confrontations</font> on the Allied side during the Japanese Threat event."
 
-#, fuzzy
 msgid "MEDAL_DESCRIPTION_JA_PACIFIC3"
 msgstr ""
 "Was awarded for participating in at least <font color='#f2f2f2'>1 "
 "confrontation</font> on the Allied side during the Japanese Threat event."
 
-#, fuzzy
 msgid "MEDAL_DESCRIPTION_JA_TORATORA1"
 msgstr ""
 "Was awarded for participating in at least <font color='#f2f2f2'>21 "
 "confrontations</font> on the Axis side during the Japanese Threat event."
 
-#, fuzzy
 msgid "MEDAL_DESCRIPTION_JA_TORATORA2"
 msgstr ""
 "Was awarded for participating in at least <font color='#f2f2f2'>10 "
 "confrontations</font> on the Axis side during the Japanese Threat event."
 
-#, fuzzy
 msgid "MEDAL_DESCRIPTION_JA_TORATORA3"
 msgstr ""
 "Was awarded for participating in at least <font color='#f2f2f2'>1 "
 "confrontation</font> on the Axis side during the Japanese Threat event."
 
-#, fuzzy
 msgid "MEDAL_DESCRIPTION_JOHNSON1"
 msgstr ""
 "Awarded for destroying at least <font color='#f2f2f2'>{0} enemy ground "
 "targets</font>."
 
-#, fuzzy
 msgid "MEDAL_DESCRIPTION_JOHNSON2"
 msgstr ""
 "Awarded for destroying at least <font color='#f2f2f2'>{0} enemy ground "
 "targets</font>."
 
-#, fuzzy
 msgid "MEDAL_DESCRIPTION_JOHNSON3"
 msgstr ""
 "Awarded for destroying at least <font color='#f2f2f2'>{0} enemy ground "
 "targets</font>."
 
-#, fuzzy
 msgid "MEDAL_DESCRIPTION_JOHNSON4"
 msgstr ""
 "Awarded for destroying at least <font color='#f2f2f2'>{0} enemy ground "
@@ -1348,13 +1334,11 @@ msgstr ""
 msgid "MEDAL_DESCRIPTION_KILL_SAUCER"
 msgstr "授予2014年愚人節期間擊落敵方斯雷普尼爾的玩家"
 
-#, fuzzy
 msgid "MEDAL_DESCRIPTION_KNIGHT"
 msgstr ""
 "Awarded once for destroying an <font color='#f2f2f2'>air defense aircraft</"
 "font>."
 
-#, fuzzy
 msgid "MEDAL_DESCRIPTION_KOJEDUBA"
 msgstr ""
 "Awarded for destroying at least <font color='#f2f2f2'>{0} aircraft from the "
@@ -1362,13 +1346,11 @@ msgstr ""
 "color='#f2f2f2'>squall line</font> and for surviving until the end of the "
 "battle."
 
-#, fuzzy
 msgid "MEDAL_DESCRIPTION_LAMBERTA"
 msgstr ""
 "Awarded for earning at least <font color='#f2f2f2'>{0} capture points</font> "
 "in a single sortie with a multirole fighter."
 
-#, fuzzy
 msgid "MEDAL_DESCRIPTION_LANG"
 msgstr ""
 "Awarded for destroying at least <font color='#f2f2f2'>{0} enemy ground "
@@ -1387,7 +1369,6 @@ msgstr ""
 "授予在一場戰鬥中擊落至少3架敵機並且在戰鬥結束時是唯一的倖存者的玩家，玩家需贏"
 "得這場戰鬥的勝利<br><br>只可在標準戰鬥中獲得"
 
-#, fuzzy
 msgid "MEDAL_DESCRIPTION_LAST_HOPE_ALLIES"
 msgstr "Awarded for completing the mission \"Allies' Last Hope\"."
 
@@ -1428,7 +1409,6 @@ msgstr "授予使用一架多用途戰鬥機在個人任務中取得最高成就
 msgid "MEDAL_DESCRIPTION_LIGHTWEIGHT"
 msgstr "授予擊落敵方戰鬥機或多用途戰鬥機的玩家<br><br>只可獲得一次"
 
-#, fuzzy
 msgid "MEDAL_DESCRIPTION_LIGHT_WEIGHT"
 msgstr ""
 "Awarded once for <font color='#f2f2f2'>destroying {0} fighters</font> from "
@@ -1437,7 +1417,6 @@ msgstr ""
 msgid "MEDAL_DESCRIPTION_LINDBERGH"
 msgstr "榮譽勳章"
 
-#, fuzzy
 msgid "MEDAL_DESCRIPTION_MACCAMPBELL"
 msgstr ""
 "Awarded for destroying at least <font color='#f2f2f2'>{0} aerial targets</"
@@ -1449,20 +1428,20 @@ msgid "MEDAL_DESCRIPTION_MARATHON"
 msgstr "授予在「西牆任務」活動期間獲得至少 5 次勝利的玩家。"
 
 msgid "MEDAL_DESCRIPTION_MARATHON_DO335A-1"
-msgstr "授予在「西牆任務」活動期間完成獲得<font "
-"color='#ffd57e'>多尼爾 Do 335 A-1 Pfeil</font>所有子任務的玩家。"
+msgstr ""
+"授予在「西牆任務」活動期間完成獲得<font color='#ffd57e'>多尼爾 Do 335 A-1 "
+"Pfeil</font>所有子任務的玩家。"
 
 msgid "MEDAL_DESCRIPTION_MARATHON_XF15C"
-msgstr "授予在「西牆任務」活動期間完成獲得<font "
-"color='#ffd57e'>寇蒂斯 XF15C</font>所有子任務的玩家。"
+msgstr ""
+"授予在「西牆任務」活動期間完成獲得<font color='#ffd57e'>寇蒂斯 XF15C</font>所"
+"有子任務的玩家。"
 
-#, fuzzy
 msgid "MEDAL_DESCRIPTION_MARCEL"
 msgstr ""
 "Awarded for destroying at least <font color='#f2f2f2'>{0} aerial targets</"
 "font> in a single sortie and winning the battle."
 
-#, fuzzy
 msgid "MEDAL_DESCRIPTION_MASTERS_OF_SKY"
 msgstr ""
 "Awarded to members of a Flight that destroyed at least <font "
@@ -1488,87 +1467,73 @@ msgstr "授予使用攻擊機獲得30次\"掃地手\"勳章的玩家"
 msgid "MEDAL_DESCRIPTION_MEYER3"
 msgstr "授予使用攻擊機獲得3次\"掃地手\"勳章的玩家"
 
-#, fuzzy
 msgid "MEDAL_DESCRIPTION_MIHALENKOV1"
 msgstr ""
 "Awarded for earning at least <font color='#f2f2f2'>{0} personal points</"
 "font>."
 
-#, fuzzy
 msgid "MEDAL_DESCRIPTION_MIHALENKOV2"
 msgstr ""
 "Awarded for earning at least <font color='#f2f2f2'>{0} personal points</"
 "font>."
 
-#, fuzzy
 msgid "MEDAL_DESCRIPTION_MIHALENKOV4"
 msgstr ""
 "Awarded for earning at least <font color='#f2f2f2'>{0} personal points</"
 "font>."
 
-#, fuzzy
 msgid "MEDAL_DESCRIPTION_MIHALENKOV_3"
 msgstr ""
 "Awarded for earning at least <font color='#f2f2f2'>{0} personal points</"
 "font>."
 
-#, fuzzy
 msgid "MEDAL_DESCRIPTION_MISSILE_STRIKE"
 msgstr ""
 "Awarded once for <font color='#f2f2f2'>destroying {0} ground targets</font> "
 "using rockets."
 
-#, fuzzy
 msgid "MEDAL_DESCRIPTION_MISSION_ACCOMPLISHED"
 msgstr "Awarded for completing the mission \"Mission Complete\"."
 
 msgid "MEDAL_DESCRIPTION_NIMBLE"
 msgstr "授予利用機動動作造成敵機墜毀的玩家<br><br>只可在標準戰鬥中獲得"
 
-#, fuzzy
 msgid "MEDAL_DESCRIPTION_NOOB_PLANE"
 msgstr ""
 "Awarded for receiving an aircraft in Stock configuration.<br><font "
 "size='6'><br></font>Available once for each aircraft that reaches Stock "
 "configuration."
 
-#, fuzzy
 msgid "MEDAL_DESCRIPTION_NORMALWEIGHT"
 msgstr ""
 "Awarded once for <font color='#f2f2f2'>destroying {0} multirole fighters</"
 "font> from the enemy combat group."
 
-#, fuzzy
 msgid "MEDAL_DESCRIPTION_NO_CAMP_ALLY_PROGRESS1"
 msgstr ""
 "Awarded for receiving at least 5,000 superiority points in battles fought on "
 "the Allied side during the Battle for Thor's Hammer event."
 
-#, fuzzy
 msgid "MEDAL_DESCRIPTION_NO_CAMP_ALLY_PROGRESS2"
 msgstr ""
 "Awarded for receiving at least 1,500 superiority points in battles fought on "
 "the Allied side during the Battle for Thor's Hammer event."
 
-#, fuzzy
 msgid "MEDAL_DESCRIPTION_NO_CAMP_ALLY_PROGRESS3"
 msgstr ""
 "Awarded for receiving at least 100 superiority points in battles fought on "
 "the Allied side during the Battle for Thor's Hammer event."
 
-#, fuzzy
 msgid "MEDAL_DESCRIPTION_NO_CAMP_AXIS_PROGRESS1"
 msgstr ""
 "Awarded for receiving at least 5,000 superiority points in battles fought on "
 "the Axis side during the Battle for Thor's Hammer event."
 
-#, fuzzy
 msgid "MEDAL_DESCRIPTION_NO_CAMP_AXIS_PROGRESS2"
 msgstr ""
 "Awarded for receiving at least 1,500 superiority points in battles fought on "
 "the Axis side during the Battle for Thor's Hammer event."
 
-#, fuzzy
 msgid "MEDAL_DESCRIPTION_NO_CAMP_AXIS_PROGRESS3"
 msgstr ""
 "Awarded for receiving at least 100 superiority points in battles fought on "
@@ -1602,7 +1567,6 @@ msgstr "授予在2014-2015節日期間用雪球擊中敵人的飛碟的玩家"
 msgid "MEDAL_DESCRIPTION_NY_WATCH"
 msgstr "授予在2014-2015節日期間節日期間內累計10天有獲得戰鬥勝利的玩家"
 
-#, fuzzy
 msgid "MEDAL_DESCRIPTION_PATROL"
 msgstr ""
 "Awarded once for destroying <font color='#f2f2f2'>2 aerial targets</font> "
@@ -1616,44 +1580,37 @@ msgstr ""
 msgid "MEDAL_DESCRIPTION_PLANE_TESTER"
 msgstr "授予使用至少2個不同國家戰機參與戰鬥的玩家"
 
-#, fuzzy
 msgid "MEDAL_DESCRIPTION_POKRYSHKIN1"
 msgstr ""
 "Awarded for destroying at least <font color='#f2f2f2'>{0} air defense "
 "aircraft</font>."
 
-#, fuzzy
 msgid "MEDAL_DESCRIPTION_POKRYSHKIN2"
 msgstr ""
 "Awarded for destroying at least <font color='#f2f2f2'>{0} air defense "
 "aircraft</font>."
 
-#, fuzzy
 msgid "MEDAL_DESCRIPTION_POKRYSHKIN3"
 msgstr ""
 "Awarded for destroying at least <font color='#f2f2f2'>{0} air defense "
 "aircraft</font>."
 
-#, fuzzy
 msgid "MEDAL_DESCRIPTION_POKRYSHKIN4"
 msgstr ""
 "Awarded for destroying at least <font color='#f2f2f2'>{0} air defense "
 "aircraft</font>."
 
-#, fuzzy
 msgid "MEDAL_DESCRIPTION_PREDATOR"
 msgstr ""
 "Awarded for assisting in destroying at least <font color='#f2f2f2'>{0} "
 "aerial targets</font> in a single battle."
 
-#, fuzzy
 msgid "MEDAL_DESCRIPTION_PREDATORY_BIRD"
 msgstr ""
 "Awarded for destroying at least <font color='#f2f2f2'>{0} heavy fighters</"
 "font> from the enemy combat group in a single battle and winning the battle."
 "<br><font size='6'><br></font>Available once for each aircraft in the Hangar."
 
-#, fuzzy
 msgid "MEDAL_DESCRIPTION_PREDATORY_DUET"
 msgstr ""
 "Awarded to members of a Flight that destroyed <font color='#f2f2f2'>{0} "
@@ -1701,14 +1658,18 @@ msgstr "授予使用尾砲擊落敵機的玩家<br><br>只可在標準戰鬥中�
 msgid "MEDAL_DESCRIPTION_REAR_GUNNER"
 msgstr "授予使用尾砲嚴重擊傷敵機的玩家<br><br>只可在標準戰鬥中獲得"
 
-#, fuzzy
+msgid "MEDAL_DESCRIPTION_RELEASER"
+msgstr ""
+"Awarded for earning <font color='#f2f2f2'>aircraft type grade II</font> "
+"during stage 4 <font color='#f2f2f2'>\"Counterattack\"</font> of the Flaming "
+"Shores event."
+
 msgid "MEDAL_DESCRIPTION_RELIABLE_PROTECTION"
 msgstr ""
 "Awarded for <font color='#f2f2f2'>assisting the allies at least {0} times in "
 "destroying aerial targets</font> in a single battle and winning the battle."
 "<br><font size='6'><br></font>Available once for each aircraft in the Hangar."
 
-#, fuzzy
 msgid "MEDAL_DESCRIPTION_RELIABLE_REAR"
 msgstr ""
 "Awarded for destroying <font color='#f2f2f2'>an aerial target with turret "
@@ -1718,14 +1679,12 @@ msgid "MEDAL_DESCRIPTION_RESILIENT"
 msgstr ""
 "授予受到至少5架敵機攻擊但最終戰鬥結束時倖存的玩家<br><br>只可在標準戰鬥中獲得"
 
-#, fuzzy
 msgid "MEDAL_DESCRIPTION_REVENGE"
 msgstr ""
 "Awarded for destroying an <font color='#f2f2f2'>aircraft from the enemy "
 "combat group that destroyed the player's aircraft earlier in the same "
 "battle</font>."
 
-#, fuzzy
 msgid "MEDAL_DESCRIPTION_RIDDLE"
 msgstr ""
 "Awarded for <font color='#f2f2f2'>assisting the allies at least {0} times in "
@@ -1740,7 +1699,6 @@ msgstr ""
 msgid "MEDAL_DESCRIPTION_ROAD_TO_THE_SKY"
 msgstr "授予完成“突襲地面目標”任務的玩家"
 
-#, fuzzy
 msgid "MEDAL_DESCRIPTION_ROCKETEER"
 msgstr ""
 "Awarded for destroying an <font color='#f2f2f2'>aerial target using a "
@@ -1755,7 +1713,6 @@ msgstr "授予使用火箭彈摧毀敵方地面目標的玩家<br><br>只可獲�
 msgid "MEDAL_DESCRIPTION_RUDORFFER"
 msgstr "授予在一場戰鬥中至少摧毀13架敵方戰機的玩家<br><br>只可在標準戰鬥中獲得"
 
-#, fuzzy
 msgid "MEDAL_DESCRIPTION_RUTHLESS"
 msgstr ""
 "Awarded for destroying at least 15 air defense aircraft and bombers from an "
@@ -1780,15 +1737,12 @@ msgstr "獎勵授予所有參加了2015-2016年神祕聖誕老人活動的玩家
 msgid "MEDAL_DESCRIPTION_SECRET_SANTA_1"
 msgstr "在2015-2016年的神祕聖誕老人活動中至少傳送一個禮物給隨機戰鬥的玩家。"
 
-#, fuzzy
 msgid "MEDAL_DESCRIPTION_SECRET_SANTA_2017"
 msgstr "Awarded for participating in the 2016–2017 event \"Santa's Bag\"."
 
-#, fuzzy
 msgid "MEDAL_DESCRIPTION_SECRET_SANTA_2017_1"
 msgstr "Participate in the 2016–2017 holiday event."
 
-#, fuzzy
 msgid "MEDAL_DESCRIPTION_SECRET_SANTA_2018"
 msgstr ""
 "Awarded for participating in the special event during the 2017–2018 holiday "
@@ -1816,6 +1770,10 @@ msgstr "頒發給在戰機世界不刪檔期間至少參加過100場戰鬥的玩
 msgid "MEDAL_DESCRIPTION_SIKORSKY4"
 msgstr "頒發給在戰機世界公測期間至少參加過100場戰鬥的玩家"
 
+msgid "MEDAL_DESCRIPTION_SILVER_PLAYERS"
+msgstr ""
+"Awarded for getting into the silver division based on personal rating score."
+
 msgid "MEDAL_DESCRIPTION_SKILLED_PILOT"
 msgstr ""
 "授予在戰機失控後重新獲得控制並使戰機恢復正常飛行的玩家<br><br>只可獲得一次"
@@ -1835,7 +1793,6 @@ msgstr ""
 "授予在一場或多場戰鬥中累積擊落至少3架敵機的玩家.如果玩家戰機被擊毀將停止累積"
 "並重新進行計算<br><br>只可在標準戰鬥中獲得"
 
-#, fuzzy
 msgid "MEDAL_DESCRIPTION_SKY_WOLVES"
 msgstr ""
 "Awarded to members of a Flight for destroying at least <font "
@@ -1846,7 +1803,6 @@ msgstr ""
 msgid "MEDAL_DESCRIPTION_SMOKING_BARRELS"
 msgstr "授予使用完全冷卻狀態的武器進行射擊直至過熱的玩家<br><br>只可獲得一次"
 
-#, fuzzy
 msgid "MEDAL_DESCRIPTION_SPECIALIST_PLANE"
 msgstr ""
 "Awarded for receiving an aircraft in the <font color='#f2f2f2'>\"Specialist"
@@ -1876,13 +1832,11 @@ msgstr "授予完成“團隊空戰”任務的玩家"
 msgid "MEDAL_DESCRIPTION_STAIRWAY_TO_THE_SKY"
 msgstr "授予完成“空中格鬥”任務的玩家"
 
-#, fuzzy
 msgid "MEDAL_DESCRIPTION_STAR_CATCHER"
 msgstr ""
 "Awarded for participating in the 2016–2017 event \"Wish Upon a Shooting Star"
 "\"."
 
-#, fuzzy
 msgid "MEDAL_DESCRIPTION_STEEL_FLURRY"
 msgstr ""
 "Awarded for <font color='#f2f2f2'>assisting the allies at least {0} times in "
@@ -1894,6 +1848,12 @@ msgstr "授予完成“飛行訓練”任務的玩家"
 
 msgid "MEDAL_DESCRIPTION_STORMBRINGER"
 msgstr "授予使用3種不同類型戰機獲得速射手勳章的玩家"
+
+msgid "MEDAL_DESCRIPTION_STRATEGIST"
+msgstr ""
+"Awarded for earning <font color='#f2f2f2'>aircraft type grade II</font> "
+"during stage 3 <font color='#f2f2f2'>\"Broken Wing\"</font> of the Flaming "
+"Shores event."
 
 msgid "MEDAL_DESCRIPTION_STRIKE_TEAM"
 msgstr ""
@@ -1915,13 +1875,17 @@ msgstr ""
 "授予使用機槍/機砲在3秒內對敵機造成相對於其生命值100%的傷害的玩家<br><br>只可"
 "在標準戰鬥中獲得"
 
+msgid "MEDAL_DESCRIPTION_SUMMER_STORM"
+msgstr ""
+"Awarded for earning <font color='#f2f2f2'>10,000 personal points</font> "
+"during the <font color='#f2f2f2'>Summer Storm</font> event."
+
 msgid "MEDAL_DESCRIPTION_SUMMER_VETERAN"
 msgstr "授予積極參與遊戲內2015秋季活動的玩家"
 
 msgid "MEDAL_DESCRIPTION_SUPERHEAVY"
 msgstr "授予擊落敵方攻擊機的玩家<br><br>只可獲得一次"
 
-#, fuzzy
 msgid "MEDAL_DESCRIPTION_SUPERHEAVYWEIGHT"
 msgstr ""
 "Awarded once for <font color='#f2f2f2'>destroying {0} attack aircraft</font> "
@@ -1943,7 +1907,6 @@ msgstr ""
 msgid "MEDAL_DESCRIPTION_TAIL_BUSTER"
 msgstr "授予通過摧毀敵機機尾擊落敵機的玩家<br><br>只可獲得一次"
 
-#, fuzzy
 msgid "MEDAL_DESCRIPTION_TEAMWORK_GURU"
 msgstr ""
 "Awarded for earning <font color='#f2f2f2'>the highest aircraft type grade</"
@@ -1993,6 +1956,10 @@ msgstr ""
 msgid "MEDAL_DESCRIPTION_TOP_DOWN_DIVER"
 msgstr "授予達到戰機最大俯衝速度的玩家<br><br>只可獲得一次"
 
+msgid "MEDAL_DESCRIPTION_TOP_PLAYERS"
+msgstr ""
+"Awarded for getting into the top division based on personal rating score."
+
 msgid "MEDAL_DESCRIPTION_TOURNAMENT_1_PLACE"
 msgstr "授予在官方所舉行的《戰機世界》比賽中排名第一的團隊的玩家"
 
@@ -2005,7 +1972,6 @@ msgstr "授予在官方所舉行的《戰機世界》比賽中排名第三的團
 msgid "MEDAL_DESCRIPTION_TOURNAMENT_PLAYER"
 msgstr "授予在官方所舉行的《戰機世界》比賽中至少參與了一場戰鬥的玩家"
 
-#, fuzzy
 msgid "MEDAL_DESCRIPTION_UNLIMITED_WEIGHT"
 msgstr ""
 "Awarded once for <font color='#f2f2f2'>destroying {0} bombers</font> from "
@@ -2026,43 +1992,47 @@ msgstr ""
 "授予在一場通過獲取制空權獲勝的戰鬥中創造至少1/3的優勢點數的玩家<br><br>只可在"
 "標準戰鬥中獲得"
 
-#, fuzzy
 msgid "MEDAL_DESCRIPTION_VETERAN"
 msgstr ""
 "Awarded for winning a battle and <font color='#f2f2f2'>achieving the top "
 "rank</font> in the combat group.<br><font size='6'><br></font>Available once "
 "for each aircraft in the Hangar."
 
+msgid "MEDAL_DESCRIPTION_VETERAN_ALT"
+msgstr ""
+"Awarded for <font color='#f2f2f2'>achieving the top rank</font> in the "
+"combat group in <font color='#f2f2f2'>2</font> victorious battles in a row. "
+"The count is reset if the player does not achieve the top rank in the combat "
+"group."
+
 msgid "MEDAL_DESCRIPTION_VOLUNTEER"
 msgstr "獎勵給對遊戲貢獻大的評論和論壇版主，<br><br>只能獲得一次。"
 
 msgid "MEDAL_DESCRIPTION_WAR_OF_ATTRITION"
-msgstr "授予在「西牆任務」活動期間，在<font color='#f2f2f2'>「Attrition」</font>模式獲得至少 10 次勝利的玩家。"
+msgstr ""
+"授予在「西牆任務」活動期間，在<font color='#f2f2f2'>「Attrition」</font>模式"
+"獲得至少 10 次勝利的玩家。"
 
 msgid "MEDAL_DESCRIPTION_WEIGHTY_CONTRIBUTION"
 msgstr ""
 "授予擊落至少9架敵機的組隊玩家<br><br>此編隊的參加者需全部生還直至達成條件"
 "<br><br>只可在標準戰鬥中獲得"
 
-#, fuzzy
 msgid "MEDAL_DESCRIPTION_WG_FEST_2016"
 msgstr ""
 "Награждается игрок, посетивший фестиваль <font color='#{colorID}'>WG Fest "
 "2016</font>."
 
-#, fuzzy
 msgid "MEDAL_DESCRIPTION_WG_FEST_2017"
 msgstr ""
 "Выдавалась за посещение мероприятия <font color='#{colorID}'>WG Fest 2017</"
 "font>."
 
-#, fuzzy
 msgid "MEDAL_DESCRIPTION_WG_FEST_2017_1"
 msgstr ""
 "Выдавалась всем игрокам при получении пригласительного на <font "
 "color='#{colorID}'>WG Fest 2017</font>."
 
-#, fuzzy
 msgid "MEDAL_DESCRIPTION_WG_FEST_2017_2"
 msgstr "Выдавалась только одна награда за любое количество пригласительных."
 
@@ -2076,7 +2046,6 @@ msgstr ""
 "授予在一場戰鬥中助攻擊落3架敵機的玩家，玩家需贏得這場戰鬥的勝利且在戰鬥結束時"
 "倖存<br><br>只可在標準戰鬥中獲得，且每架戰機只可獲得一次"
 
-#, fuzzy
 msgid "MEDAL_DESCRIPTION_WING_LEGEND"
 msgstr ""
 "Awarded for earning at least <font color='#f2f2f2'>{0} personal points</"
@@ -2595,7 +2564,6 @@ msgstr ""
 "P-38閃電戰鬥機，在南太平洋服役期間至少擊落了40架敵機。在1945年8月6日死於P-80"
 "流星戰鬥機的試飛。"
 
-#, fuzzy
 msgid "MEDAL_HISTORY_BOYINGTON"
 msgstr ""
 "<font color='#f2f2f2'>Gregory \"Pappy\" Boyington</font> was an American "
@@ -2609,7 +2577,6 @@ msgstr ""
 "皮埃爾•克斯特曼是法國王牌戰鬥機飛行員，在法國戰敗後加入英國空軍，有33個擊墜記"
 "錄，並摧毀了大量地面目標。"
 
-#, fuzzy
 msgid "MEDAL_HISTORY_DILLEI"
 msgstr ""
 "<font color='#f2f2f2'>Bruno Dilley</font> was a German pilot. In 1939–1943, "
@@ -2617,7 +2584,6 @@ msgstr ""
 "a pilot who conducted the first bombing raid of World War II on September 1, "
 "1939."
 
-#, fuzzy
 msgid "MEDAL_HISTORY_DULITTLA"
 msgstr ""
 "<font color='#f2f2f2'>James Harold Doolittle</font> was an American bomber "
@@ -2631,7 +2597,6 @@ msgstr ""
 "務，並獲得了104次空戰勝利。他在1941年11月至1945年1月期間被任命為德國戰鬥機部"
 "隊的指揮官。"
 
-#, fuzzy
 msgid "MEDAL_HISTORY_GOLUBEV"
 msgstr ""
 "<font color='#f2f2f2'>Vasiliy Golubev</font> was a Soviet fighter pilot who "
@@ -2655,7 +2620,6 @@ msgstr ""
 "弗朗西斯·加布雷斯基是美國王牌戰鬥機飛行員，在二戰期間駕駛P-47雷電擊落28架敵機"
 "並在韓戰中擊落6架敵機。"
 
-#, fuzzy
 msgid "MEDAL_HISTORY_JOHNSON"
 msgstr ""
 "<font color='#f2f2f2'>James Edgar Johnson</font> was a British fighter pilot "
@@ -2663,14 +2627,12 @@ msgstr ""
 "1944, he flew 515 combat missions in the Spitfire and scored 34 individual "
 "and 7 shared aerial victories."
 
-#, fuzzy
 msgid "MEDAL_HISTORY_KOJEDUBA"
 msgstr ""
 "<font color='#f2f2f2'>Ivan Kozhedub</font> was a Soviet ace who was the "
 "highest-scoring Allied pilot. In 1943–1945, he shot down a total of 62 enemy "
 "aircraft, including the jet-powered Me 262, flying the La-5 and La-7."
 
-#, fuzzy
 msgid "MEDAL_HISTORY_LAMBERTA"
 msgstr ""
 "<font color='#f2f2f2'>August Lambert</font> was a German ace who flew the "
@@ -2678,7 +2640,6 @@ msgstr ""
 "significant number of ground targets and claimed to have destroyed 116 enemy "
 "aircraft."
 
-#, fuzzy
 msgid "MEDAL_HISTORY_LANG"
 msgstr ""
 "<font color='#f2f2f2'>Friedrich Lang</font> was a German ace. He flew 1,008 "
@@ -2691,7 +2652,6 @@ msgstr ""
 "二戰期間，他曾擔任美國陸軍和海軍顧問。林德伯格雖然是平民，但他參與了約50此飛"
 "行作戰任務。"
 
-#, fuzzy
 msgid "MEDAL_HISTORY_MACCAMPBELL"
 msgstr ""
 "<font color='#f2f2f2'>David McCampbell</font> was an American fighter pilot "
@@ -2699,7 +2659,6 @@ msgstr ""
 "he shot down 34 Japanese aircraft, including 9 in a single mission, in his "
 "F6F Hellcat."
 
-#, fuzzy
 msgid "MEDAL_HISTORY_MARCEL"
 msgstr ""
 "<font color='#f2f2f2'>Hans-Joachim Marseille</font> was a German fighter "
@@ -2718,7 +2677,6 @@ msgstr ""
 "北非和東線的戰鬥，參與了1000多個飛行作戰任務。他摧毀了大量的地面車輛，包括183"
 "輛戰車。他主要使用的是Hs.129攻擊機。"
 
-#, fuzzy
 msgid "MEDAL_HISTORY_MIHALENKOV"
 msgstr ""
 "<font color='#f2f2f2'>Efim Mikhalenkov</font> was a Soviet attack aircraft "
@@ -2726,7 +2684,6 @@ msgstr ""
 "destroyed a significant number of ground targets and 12 enemy aircraft "
 "personally and together with other pilots."
 
-#, fuzzy
 msgid "MEDAL_HISTORY_POKRYSHKIN"
 msgstr ""
 "<font color='#f2f2f2'>Alexander Pokryshkin</font> was a Soviet fighter ace. "
@@ -2778,7 +2735,6 @@ msgstr "戰鬥老手"
 msgid "MEDAL_NAME_ABSOLUTE_CHAMPION"
 msgstr "戰場之王"
 
-#, fuzzy
 msgid "MEDAL_NAME_ACE"
 msgstr "Ace"
 
@@ -2788,23 +2744,18 @@ msgstr "守衛者"
 msgid "MEDAL_NAME_AKAMATSU"
 msgstr "貞明勳章"
 
-#, fuzzy
 msgid "MEDAL_NAME_ALBION_LION-I"
 msgstr "Albion's Lion Badge Class I"
 
-#, fuzzy
 msgid "MEDAL_NAME_ALBION_LION-II"
 msgstr "Albion's Lion Badge Class II"
 
-#, fuzzy
 msgid "MEDAL_NAME_ALBION_LION-III"
 msgstr "Albion's Lion Badge Class III"
 
-#, fuzzy
 msgid "MEDAL_NAME_ALL_YEAR_2016_VETERAN"
 msgstr "All-Season Hunter"
 
-#, fuzzy
 msgid "MEDAL_NAME_ALTITUDE_HUNTER"
 msgstr "Hunt for Vulture"
 
@@ -2820,20 +2771,21 @@ msgstr "熟練攻擊機駕駛員"
 msgid "MEDAL_NAME_ASSISTANT"
 msgstr "得力助攻"
 
-#, fuzzy
-#| msgid "MEDAL_NAME_ASSISTANT"
 msgid "MEDAL_NAME_ASSISTMASTER"
 msgstr "Team Player Badge"
 
-#, fuzzy
+msgid "MEDAL_NAME_ATTACKER"
+msgstr "Ravager"
+
+msgid "MEDAL_NAME_ATTACK_HERO"
+msgstr "Offensive Hero"
+
 msgid "MEDAL_NAME_ATTACK_ON_ALLIES_POSITION"
 msgstr "Offensive"
 
-#, fuzzy
 msgid "MEDAL_NAME_AUTUMN_VETERAN"
 msgstr "Fall Event Veteran"
 
-#, fuzzy
 msgid "MEDAL_NAME_AVALANCHE"
 msgstr "Avalanche"
 
@@ -2843,7 +2795,6 @@ msgstr "空襲者"
 msgid "MEDAL_NAME_BATTERED_BUT_NOT_BROKEN"
 msgstr "不死鳥"
 
-#, fuzzy
 msgid "MEDAL_NAME_BATTLE_VULTURE"
 msgstr "Hunt for Falcon"
 
@@ -2871,14 +2822,12 @@ msgstr "速射手"
 msgid "MEDAL_NAME_BOMBARDIER"
 msgstr "一石二鳥"
 
-#, fuzzy
 msgid "MEDAL_NAME_BOMBARDIER_1"
 msgstr "Bombardier"
 
 msgid "MEDAL_NAME_BOMBING"
 msgstr "炸彈襲地"
 
-#, fuzzy
 msgid "MEDAL_NAME_BOMBING_1"
 msgstr "Bombs Away"
 
@@ -2891,28 +2840,29 @@ msgstr "理查德 二級"
 msgid "MEDAL_NAME_BONG3"
 msgstr "理查德 三級"
 
-#, fuzzy
 msgid "MEDAL_NAME_BOYINGTON1"
 msgstr "Boyington Medal Class I"
 
-#, fuzzy
 msgid "MEDAL_NAME_BOYINGTON2"
 msgstr "Boyington Medal Class II"
 
-#, fuzzy
 msgid "MEDAL_NAME_BOYINGTON3"
 msgstr "Boyington Medal Class III"
 
-#, fuzzy
 msgid "MEDAL_NAME_BOYINGTON4"
 msgstr "Boyington Medal Class IV"
 
 msgid "MEDAL_NAME_BREAKTHROUGH"
 msgstr "清道夫"
 
-#, fuzzy
+msgid "MEDAL_NAME_BRONZE_PLAYERS"
+msgstr "Bronze Cup Badge"
+
 msgid "MEDAL_NAME_BURNING"
 msgstr "Unburnt"
+
+msgid "MEDAL_NAME_BURNING_SHORES"
+msgstr "Flaming Shores"
 
 msgid "MEDAL_NAME_CADET"
 msgstr "軍校生"
@@ -2935,11 +2885,9 @@ msgstr "軍校生5級"
 msgid "MEDAL_NAME_CAREFUL"
 msgstr "彈無虛發"
 
-#, fuzzy
 msgid "MEDAL_NAME_CATCHER"
 msgstr "Guardian"
 
-#, fuzzy
 msgid "MEDAL_NAME_CAUTION_BOMB"
 msgstr "Surprise from the Sky"
 
@@ -2964,108 +2912,105 @@ msgstr "克斯曼勳章"
 msgid "MEDAL_NAME_COLLECTOR"
 msgstr "收藏家"
 
-#, fuzzy
+msgid "MEDAL_NAME_COMPETITIVE_PLAYERS"
+msgstr "Competitor Badge"
+
 msgid "MEDAL_NAME_CONQUEROR"
 msgstr "Conqueror"
 
-#, fuzzy
 msgid "MEDAL_NAME_CONTROLLER"
 msgstr "Flying Vanguard Badge"
 
 msgid "MEDAL_NAME_CROSSFIRE"
 msgstr "集火"
 
-#, fuzzy
 msgid "MEDAL_NAME_CROSSFIRE_1"
 msgstr "Crossfire"
 
 msgid "MEDAL_NAME_CRUCIALCONTRIBUTION"
 msgstr "傑出貢獻"
 
-#, fuzzy
 msgid "MEDAL_NAME_DANGEROUS_TARGET"
 msgstr "Flying Start"
 
-#, fuzzy
 msgid "MEDAL_NAME_DANGER_TAIL"
 msgstr "Self-Defense Master"
 
-#, fuzzy
 msgid "MEDAL_NAME_DARING_SWOOP"
 msgstr "Conquistador"
 
 msgid "MEDAL_NAME_DEAD_ZONE"
 msgstr "盲區刺客"
 
-#, fuzzy
 msgid "MEDAL_NAME_DEFENDER_PROGRESS1"
 msgstr "Guardian of Asgard Badge Class I"
 
-#, fuzzy
 msgid "MEDAL_NAME_DEFENDER_PROGRESS2"
 msgstr "Guardian of Asgard Badge Class II"
 
-#, fuzzy
 msgid "MEDAL_NAME_DEFENDER_PROGRESS3"
 msgstr "Guardian of Asgard Badge Class III"
 
 msgid "MEDAL_NAME_DESTROYER"
 msgstr "破壞者"
 
-#, fuzzy
 msgid "MEDAL_NAME_DESTROYER_OLD"
 msgstr "Destroyer"
 
 msgid "MEDAL_NAME_DEVASTATOR"
 msgstr "清障者"
 
-#, fuzzy
 msgid "MEDAL_NAME_DILLEI1"
 msgstr "Dilley Medal Class I"
 
-#, fuzzy
 msgid "MEDAL_NAME_DILLEI2"
 msgstr "Dilley Medal Class II"
 
-#, fuzzy
 msgid "MEDAL_NAME_DILLEI3"
 msgstr "Dilley Medal Class III"
 
-#, fuzzy
 msgid "MEDAL_NAME_DILLEI4"
 msgstr "Dilley Medal Class IV"
 
 msgid "MEDAL_NAME_DOMINATOR"
 msgstr "支配者"
 
-#, fuzzy
 msgid "MEDAL_NAME_DOMINATOR_1"
 msgstr "Hat Trick"
 
-#, fuzzy
 msgid "MEDAL_NAME_DULITTLA"
 msgstr "Doolittle Medal"
 
-#, fuzzy
 msgid "MEDAL_NAME_EFFECTIVE"
 msgstr "Effective Fire"
 
-#, fuzzy
 msgid "MEDAL_NAME_ELITE_PLANE"
 msgstr "Elite Pilot"
 
-#, fuzzy
 msgid "MEDAL_NAME_END_OF_SPEAR"
 msgstr "Tip of the Spear"
 
-#, fuzzy
+msgid "MEDAL_NAME_ESCORT_SKY_AVENGER"
+msgstr "Flying Avenger Badge"
+
+msgid "MEDAL_NAME_ESCORT_SKY_DEFENDER"
+msgstr "Flying Protector Badge"
+
+msgid "MEDAL_NAME_ESCORT_SKY_DESTROYER"
+msgstr "Flying Destroyer Badge"
+
+msgid "MEDAL_NAME_ESCORT_SKY_HUNTER"
+msgstr "Flying Huntmaster Badge"
+
+msgid "MEDAL_NAME_ESCORT_SKY_KEEPER"
+msgstr "Flying Keeper Badge"
+
 msgid "MEDAL_NAME_EXPERIENCED"
 msgstr "Expert Pilot"
 
 msgid "MEDAL_NAME_EXPERIENCED_HUNTER"
 msgstr "空戰專家"
 
-#, fuzzy
 msgid "MEDAL_NAME_EXTERMINATOR"
 msgstr "Flying Exterminator Badge"
 
@@ -3075,34 +3020,27 @@ msgstr "鶻鳥"
 msgid "MEDAL_NAME_FALCONRY"
 msgstr "食雀鷹"
 
-#, fuzzy
 msgid "MEDAL_NAME_FALCON_HUNTING"
 msgstr "Hunt for Hawk"
 
-#, fuzzy
 msgid "MEDAL_NAME_FIGHTER_DEFENDER"
 msgstr "Flying Guardian Badge"
 
-#, fuzzy
 msgid "MEDAL_NAME_FIGHTER_DOMINATOR"
 msgstr "Flying Warrior Badge"
 
-#, fuzzy
 msgid "MEDAL_NAME_FIGHTER_INTERCEPTOR"
 msgstr "Flying Paladin Badge"
 
-#, fuzzy
 msgid "MEDAL_NAME_FIGHTER_OF_ALL_LIFE"
 msgstr "Flying Raider Badge"
 
 msgid "MEDAL_NAME_FIGHTER_TEST"
 msgstr "熟練戰鬥機駕駛員"
 
-#, fuzzy
 msgid "MEDAL_NAME_FIREBUG"
 msgstr "Inferno"
 
-#, fuzzy
 msgid "MEDAL_NAME_FIRESPITTING"
 msgstr "Fire Breathing"
 
@@ -3118,10 +3056,12 @@ msgstr "龍息"
 msgid "MEDAL_NAME_FIRST_BLOOD"
 msgstr "第一滴血"
 
+msgid "MEDAL_NAME_FIRST_FIGHTER"
+msgstr "First-Line Warrior"
+
 msgid "MEDAL_NAME_FIRST_IN_TEAM"
 msgstr "空中殺手"
 
-#, fuzzy
 msgid "MEDAL_NAME_FLAME_OF_HEAVEN"
 msgstr "Flames in the Sky"
 
@@ -3149,9 +3089,11 @@ msgstr "戰地急救"
 msgid "MEDAL_NAME_FLIGHT_REPAIRS"
 msgstr "戰地修理"
 
-#, fuzzy
 msgid "MEDAL_NAME_FLOWN"
 msgstr "Supporting Fire"
+
+msgid "MEDAL_NAME_FLYING_EAGLE"
+msgstr "Soaring Eagle"
 
 msgid "MEDAL_NAME_FLY_SAUCER"
 msgstr "斯雷普尼爾騎士"
@@ -3171,7 +3113,6 @@ msgstr "飛翼騎兵4級"
 msgid "MEDAL_NAME_FRONTLINE_5"
 msgstr "飛翼騎兵5級"
 
-#, fuzzy
 msgid "MEDAL_NAME_FULMINANT"
 msgstr "Quick Shot"
 
@@ -3187,10 +3128,12 @@ msgstr "加蘭德 二級"
 msgid "MEDAL_NAME_GALLAND3"
 msgstr "加蘭德 三級"
 
+msgid "MEDAL_NAME_GOLD_PLAYERS"
+msgstr "Golden Cup Badge"
+
 msgid "MEDAL_NAME_GOLIAPHS_NEMESIS"
 msgstr "重戰殲滅者"
 
-#, fuzzy
 msgid "MEDAL_NAME_GOLUBEV"
 msgstr "Golubev Medal"
 
@@ -3200,7 +3143,6 @@ msgstr "戈羅維茨勳章"
 msgid "MEDAL_NAME_GOTCHA"
 msgstr "攻擊者"
 
-#, fuzzy
 msgid "MEDAL_NAME_GOTCHA_1"
 msgstr "Direct Hit"
 
@@ -3219,7 +3161,6 @@ msgstr "格拉夫 三級"
 msgid "MEDAL_NAME_GRAF4"
 msgstr "格拉夫 四級"
 
-#, fuzzy
 msgid "MEDAL_NAME_GROUND_AND_IN_THE_SKY"
 msgstr "Air and Ground"
 
@@ -3229,49 +3170,39 @@ msgstr "攻擊機殲滅者"
 msgid "MEDAL_NAME_GROUND_POUNDER"
 msgstr "掃地狂魔"
 
-#, fuzzy
 msgid "MEDAL_NAME_GUARD"
 msgstr "Crusher"
 
-#, fuzzy
 msgid "MEDAL_NAME_GUNNER"
 msgstr "Reliable Cover"
 
 msgid "MEDAL_NAME_HABREZKI"
 msgstr "加布雷勳章"
 
-#, fuzzy
 msgid "MEDAL_NAME_HAMMER_PROGRESS1"
 msgstr "Thor's Hammer Badge Class I"
 
-#, fuzzy
 msgid "MEDAL_NAME_HAMMER_PROGRESS2"
 msgstr "Thor's Hammer Badge Class II"
 
-#, fuzzy
 msgid "MEDAL_NAME_HAMMER_PROGRESS3"
 msgstr "Thor's Hammer Badge Class III"
 
-#, fuzzy
 msgid "MEDAL_NAME_HAWK_LA_MANCHE-I"
 msgstr "Eagle of the Channel Badge Class I"
 
-#, fuzzy
 msgid "MEDAL_NAME_HAWK_LA_MANCHE-II"
 msgstr "Eagle of the Channel Badge Class II"
 
-#, fuzzy
 msgid "MEDAL_NAME_HAWK_LA_MANCHE-III"
 msgstr "Eagle of the Channel Badge Class III"
 
 msgid "MEDAL_NAME_HEAVYWEIGHT"
 msgstr "重戰殺手"
 
-#, fuzzy
 msgid "MEDAL_NAME_HEAVYWEIGHT_1"
 msgstr "Heavyweight"
 
-#, fuzzy
 msgid "MEDAL_NAME_HEAVYWEIGHT_FIGHTER"
 msgstr "Hunt for Stormbird"
 
@@ -3296,42 +3227,33 @@ msgstr "穿越敵陣"
 msgid "MEDAL_NAME_HOT_ENGINES"
 msgstr "引擎冷卻"
 
-#, fuzzy
 msgid "MEDAL_NAME_HUNGRY_FLOCK"
 msgstr "Hungry Pack"
 
-#, fuzzy
 msgid "MEDAL_NAME_HUNTER"
 msgstr "Hunter"
 
-#, fuzzy
 msgid "MEDAL_NAME_IMPACT_FROM_THE_SKY"
 msgstr "Successful Interception"
 
-#, fuzzy
 msgid "MEDAL_NAME_INDEPENDENT"
 msgstr "Unstoppable"
 
 msgid "MEDAL_NAME_INTERCEPTOR"
 msgstr "鷙鷹"
 
-#, fuzzy
 msgid "MEDAL_NAME_INTERCEPTOR_1"
 msgstr "Interceptor"
 
-#, fuzzy
 msgid "MEDAL_NAME_INVADER"
 msgstr "Subjugator"
 
-#, fuzzy
-#| msgid "MEDAL_NAME_AS"
 msgid "MEDAL_NAME_INVASION"
 msgstr "Invasion"
 
 msgid "MEDAL_NAME_INVULNERABLE"
 msgstr "無懈可擊"
 
-#, fuzzy
 msgid "MEDAL_NAME_INVULNERABLE_1"
 msgstr "Invulnerable"
 
@@ -3341,75 +3263,57 @@ msgstr "統治者"
 msgid "MEDAL_NAME_JACK_OF_ALL_TRADES"
 msgstr "全能駕駛員"
 
-#, fuzzy
 msgid "MEDAL_NAME_JA_ALLY_PROGRESS1"
 msgstr "Distinguished Service Badge Class I"
 
-#, fuzzy
 msgid "MEDAL_NAME_JA_ALLY_PROGRESS2"
 msgstr "Distinguished Service Badge Class II"
 
-#, fuzzy
 msgid "MEDAL_NAME_JA_ALLY_PROGRESS3"
 msgstr "Distinguished Service Badge Class III"
 
-#, fuzzy
 msgid "MEDAL_NAME_JA_AXIS_PROGRESS1"
 msgstr "Golden Kite Badge Class I"
 
-#, fuzzy
 msgid "MEDAL_NAME_JA_AXIS_PROGRESS2"
 msgstr "Golden Kite Badge Class II"
 
-#, fuzzy
 msgid "MEDAL_NAME_JA_AXIS_PROGRESS3"
 msgstr "Golden Kite Badge Class III"
 
-#, fuzzy
 msgid "MEDAL_NAME_JA_BANZAY"
 msgstr "Banzai!"
 
-#, fuzzy
 msgid "MEDAL_NAME_JA_HUNTER"
 msgstr "Turkey Shooter"
 
-#, fuzzy
 msgid "MEDAL_NAME_JA_PACIFIC1"
 msgstr "Pacific Defense Badge Class I"
 
-#, fuzzy
 msgid "MEDAL_NAME_JA_PACIFIC2"
 msgstr "Pacific Defense Badge Class II"
 
-#, fuzzy
 msgid "MEDAL_NAME_JA_PACIFIC3"
 msgstr "Pacific Defense Badge Class III"
 
-#, fuzzy
 msgid "MEDAL_NAME_JA_TORATORA1"
 msgstr "Tora! Tora! Tora! Badge Class I"
 
-#, fuzzy
 msgid "MEDAL_NAME_JA_TORATORA2"
 msgstr "Tora! Tora! Tora! Badge Class II"
 
-#, fuzzy
 msgid "MEDAL_NAME_JA_TORATORA3"
 msgstr "Tora! Tora! Tora! Badge Class III"
 
-#, fuzzy
 msgid "MEDAL_NAME_JOHNSON1"
 msgstr "Johnson Medal Class I"
 
-#, fuzzy
 msgid "MEDAL_NAME_JOHNSON2"
 msgstr "Johnson Medal Class II"
 
-#, fuzzy
 msgid "MEDAL_NAME_JOHNSON3"
 msgstr "Johnson Medal Class III"
 
-#, fuzzy
 msgid "MEDAL_NAME_JOHNSON4"
 msgstr "Johnson Medal Class IV"
 
@@ -3419,19 +3323,15 @@ msgstr "餘波四濺"
 msgid "MEDAL_NAME_KILL_SAUCER"
 msgstr "Wrath of Odin"
 
-#, fuzzy
 msgid "MEDAL_NAME_KNIGHT"
 msgstr "Sky Knight"
 
-#, fuzzy
 msgid "MEDAL_NAME_KOJEDUBA"
 msgstr "Kozhedub Medal"
 
-#, fuzzy
 msgid "MEDAL_NAME_LAMBERTA"
 msgstr "Lambert Medal"
 
-#, fuzzy
 msgid "MEDAL_NAME_LANG"
 msgstr "Lang Medal"
 
@@ -3444,7 +3344,6 @@ msgstr "不遺餘力"
 msgid "MEDAL_NAME_LAST_HERO"
 msgstr "孤膽英雄"
 
-#, fuzzy
 msgid "MEDAL_NAME_LAST_HOPE_ALLIES"
 msgstr "Allies' Last Hope"
 
@@ -3481,26 +3380,21 @@ msgstr "傳奇多用途戰鬥機飛行員"
 msgid "MEDAL_NAME_LIGHTWEIGHT"
 msgstr "戰鬥機殺手"
 
-#, fuzzy
 msgid "MEDAL_NAME_LIGHT_WEIGHT"
 msgstr "Lightweight"
 
 msgid "MEDAL_NAME_LINDBERGH"
 msgstr "林德伯格勳章"
 
-#, fuzzy
 msgid "MEDAL_NAME_MACCAMPBELL"
 msgstr "McCampbell Medal"
 
-#, fuzzy
 msgid "MEDAL_NAME_MARATHON"
 msgstr "Trial by Fire"
 
-#, fuzzy
 msgid "MEDAL_NAME_MARCEL"
 msgstr "Marseille Medal"
 
-#, fuzzy
 msgid "MEDAL_NAME_MASTERS_OF_SKY"
 msgstr "Lords of the Sky"
 
@@ -3519,62 +3413,48 @@ msgstr "梅耶 二級"
 msgid "MEDAL_NAME_MEYER3"
 msgstr "梅耶 三級"
 
-#, fuzzy
 msgid "MEDAL_NAME_MIHALENKOV1"
 msgstr "Mikhalenkov Medal Class I"
 
-#, fuzzy
 msgid "MEDAL_NAME_MIHALENKOV2"
 msgstr "Mikhalenkov Medal Class II"
 
-#, fuzzy
 msgid "MEDAL_NAME_MIHALENKOV3"
 msgstr "Mikhalenkov Medal Class III"
 
-#, fuzzy
 msgid "MEDAL_NAME_MIHALENKOV4"
 msgstr "Mikhalenkov Medal Class IV"
 
-#, fuzzy
 msgid "MEDAL_NAME_MISSILE_STRIKE"
 msgstr "Rocket Strike"
 
-#, fuzzy
 msgid "MEDAL_NAME_MISSION_ACCOMPLISHED"
 msgstr "Mission Complete"
 
 msgid "MEDAL_NAME_NIMBLE"
 msgstr "技巧大師"
 
-#, fuzzy
 msgid "MEDAL_NAME_NOOB_PLANE"
 msgstr "Test Pilot"
 
-#, fuzzy
 msgid "MEDAL_NAME_NORMALWEIGHT"
 msgstr "Middleweight"
 
-#, fuzzy
 msgid "MEDAL_NAME_NO_CAMP_ALLY_PROGRESS1"
 msgstr "Steel Mountain Badge Class I"
 
-#, fuzzy
 msgid "MEDAL_NAME_NO_CAMP_ALLY_PROGRESS2"
 msgstr "Steel Mountain Badge Class II"
 
-#, fuzzy
 msgid "MEDAL_NAME_NO_CAMP_ALLY_PROGRESS3"
 msgstr "Steel Mountain Badge Class III"
 
-#, fuzzy
 msgid "MEDAL_NAME_NO_CAMP_AXIS_PROGRESS1"
 msgstr "Blooming Edelweiss Badge Class I"
 
-#, fuzzy
 msgid "MEDAL_NAME_NO_CAMP_AXIS_PROGRESS2"
 msgstr "Blooming Edelweiss Badge Class II"
 
-#, fuzzy
 msgid "MEDAL_NAME_NO_CAMP_AXIS_PROGRESS3"
 msgstr "Blooming Edelweiss Badge Class III"
 
@@ -3602,7 +3482,6 @@ msgstr "雪彈"
 msgid "MEDAL_NAME_NY_WATCH"
 msgstr "連捷"
 
-#, fuzzy
 msgid "MEDAL_NAME_PATROL"
 msgstr "All-Round Abilities"
 
@@ -3612,31 +3491,24 @@ msgstr "連戰連捷"
 msgid "MEDAL_NAME_PLANE_TESTER"
 msgstr "試飛員"
 
-#, fuzzy
 msgid "MEDAL_NAME_POKRYSHKIN1"
 msgstr "Pokryshkin Medal Class I"
 
-#, fuzzy
 msgid "MEDAL_NAME_POKRYSHKIN2"
 msgstr "Pokryshkin Medal Class II"
 
-#, fuzzy
 msgid "MEDAL_NAME_POKRYSHKIN3"
 msgstr "Pokryshkin Medal Class III"
 
-#, fuzzy
 msgid "MEDAL_NAME_POKRYSHKIN4"
 msgstr "Pokryshkin Medal Class IV"
 
-#, fuzzy
 msgid "MEDAL_NAME_PREDATOR"
 msgstr "Predator"
 
-#, fuzzy
 msgid "MEDAL_NAME_PREDATORY_BIRD"
 msgstr "Hunt for Condor"
 
-#, fuzzy
 msgid "MEDAL_NAME_PREDATORY_DUET"
 msgstr "Raptor Duo"
 
@@ -3676,22 +3548,21 @@ msgstr "後衛"
 msgid "MEDAL_NAME_REAR_GUNNER"
 msgstr "防禦者"
 
-#, fuzzy
+msgid "MEDAL_NAME_RELEASER"
+msgstr "Rescuer"
+
 msgid "MEDAL_NAME_RELIABLE_PROTECTION"
 msgstr "Strong Support"
 
-#, fuzzy
 msgid "MEDAL_NAME_RELIABLE_REAR"
 msgstr "Rear Cover"
 
 msgid "MEDAL_NAME_RESILIENT"
 msgstr "以一擋百"
 
-#, fuzzy
 msgid "MEDAL_NAME_REVENGE"
 msgstr "Avenger"
 
-#, fuzzy
 msgid "MEDAL_NAME_RIDDLE"
 msgstr "Swooper"
 
@@ -3701,7 +3572,6 @@ msgstr "對地助攻"
 msgid "MEDAL_NAME_ROAD_TO_THE_SKY"
 msgstr "飛行之路四級"
 
-#, fuzzy
 msgid "MEDAL_NAME_ROCKETEER"
 msgstr "Rocketeer"
 
@@ -3714,7 +3584,6 @@ msgstr "火箭襲地"
 msgid "MEDAL_NAME_RUDORFFER"
 msgstr "魯道夫勒勳章"
 
-#, fuzzy
 msgid "MEDAL_NAME_RUTHLESS"
 msgstr "Merciless"
 
@@ -3730,11 +3599,9 @@ msgstr "死神之刃"
 msgid "MEDAL_NAME_SECRET_SANTA"
 msgstr "神祕聖誕老人"
 
-#, fuzzy
 msgid "MEDAL_NAME_SECRET_SANTA_2017"
 msgstr "Santa's Bag"
 
-#, fuzzy
 msgid "MEDAL_NAME_SECRET_SANTA_2018"
 msgstr "Holiday Season Event"
 
@@ -3759,6 +3626,9 @@ msgstr "西科斯基勳章 三級"
 msgid "MEDAL_NAME_SIKORSKY4"
 msgstr "西科斯基勳章 四級"
 
+msgid "MEDAL_NAME_SILVER_PLAYERS"
+msgstr "Silver Cup Badge"
+
 msgid "MEDAL_NAME_SKILLED_PILOT"
 msgstr "操控大師"
 
@@ -3771,14 +3641,12 @@ msgstr "死神降臨"
 msgid "MEDAL_NAME_SKY_SCOURGE"
 msgstr "天空主宰"
 
-#, fuzzy
 msgid "MEDAL_NAME_SKY_WOLVES"
 msgstr "Air Wolves"
 
 msgid "MEDAL_NAME_SMOKING_BARRELS"
 msgstr "彈雨"
 
-#, fuzzy
 msgid "MEDAL_NAME_SPECIALIST_PLANE"
 msgstr "Specialist"
 
@@ -3800,19 +3668,23 @@ msgstr "飛行之路二級"
 msgid "MEDAL_NAME_STAIRWAY_TO_THE_SKY"
 msgstr "飛行之路三級"
 
-#, fuzzy
 msgid "MEDAL_NAME_STAR_CATCHER"
 msgstr "Reach for the Star"
 
-#, fuzzy
 msgid "MEDAL_NAME_STEEL_FLURRY"
 msgstr "Hail of Steel"
+
+msgid "MEDAL_NAME_STEEL_GRIP"
+msgstr "Iron Grip"
 
 msgid "MEDAL_NAME_STEP_TO_THE_SKY"
 msgstr "飛行之路一級"
 
 msgid "MEDAL_NAME_STORMBRINGER"
 msgstr "咆哮者"
+
+msgid "MEDAL_NAME_STRATEGIST"
+msgstr "Strategist"
 
 msgid "MEDAL_NAME_STRIKE_TEAM"
 msgstr "傑出聯隊"
@@ -3826,13 +3698,15 @@ msgstr "掃地老手"
 msgid "MEDAL_NAME_SUDDEN_DEATH"
 msgstr "死神之吻"
 
+msgid "MEDAL_NAME_SUMMER_STORM"
+msgstr "Summer Storm"
+
 msgid "MEDAL_NAME_SUMMER_VETERAN"
 msgstr "秋活老兵"
 
 msgid "MEDAL_NAME_SUPERHEAVY"
 msgstr "攻擊機殺手"
 
-#, fuzzy
 msgid "MEDAL_NAME_SUPERHEAVYWEIGHT"
 msgstr "Heavyweight"
 
@@ -3848,7 +3722,6 @@ msgstr "不死"
 msgid "MEDAL_NAME_TAIL_BUSTER"
 msgstr "斷尾者"
 
-#, fuzzy
 msgid "MEDAL_NAME_TEAMWORK_GURU"
 msgstr "Hero of the Sky Badge"
 
@@ -3894,6 +3767,9 @@ msgstr "掃地手"
 msgid "MEDAL_NAME_TOP_DOWN_DIVER"
 msgstr "跳崖者"
 
+msgid "MEDAL_NAME_TOP_PLAYERS"
+msgstr "Top Rated Badge"
+
 msgid "MEDAL_NAME_TOURNAMENT_1_PLACE"
 msgstr "冠軍隊員"
 
@@ -3906,7 +3782,6 @@ msgstr "季軍隊員"
 msgid "MEDAL_NAME_TOURNAMENT_PLAYER"
 msgstr "參與者"
 
-#, fuzzy
 msgid "MEDAL_NAME_UNLIMITED_WEIGHT"
 msgstr "Super Heavyweight"
 
@@ -3919,26 +3794,21 @@ msgstr "鐵布衫"
 msgid "MEDAL_NAME_VALUABLE_CONTRIBUTION"
 msgstr "貢獻者"
 
-#, fuzzy
 msgid "MEDAL_NAME_VETERAN"
 msgstr "Top Pilot"
 
 msgid "MEDAL_NAME_VOLUNTEER"
 msgstr "志願服務"
 
-#, fuzzy
-#| msgid "MEDAL_NAME_WEIGHTY_CONTRIBUTION"
 msgid "MEDAL_NAME_WAR_OF_ATTRITION"
 msgstr "Attrition"
 
 msgid "MEDAL_NAME_WEIGHTY_CONTRIBUTION"
 msgstr "卓越協作"
 
-#, fuzzy
 msgid "MEDAL_NAME_WG_FEST_2016"
 msgstr "«Участник WG Fest 2016»"
 
-#, fuzzy
 msgid "MEDAL_NAME_WG_FEST_2017"
 msgstr "«Участник WG Fest 2017»"
 
@@ -3948,7 +3818,6 @@ msgstr "凌空之火"
 msgid "MEDAL_NAME_WINGMAN"
 msgstr "火力援助"
 
-#, fuzzy
 msgid "MEDAL_NAME_WING_LEGEND"
 msgstr "Winged Legend"
 
@@ -3961,7 +3830,6 @@ msgstr "葉菲莫勳章"
 msgid "MEDAL_NAME_ZVONAREV"
 msgstr "茲沃納列夫勳章"
 
-#, fuzzy
 msgid "MEDAL_STAGE_BEGELDINOV"
 msgstr ""
 "Class I: <font color='#f2f2f2'>30,000</font> ground targets<br>Class II: "
@@ -3969,14 +3837,12 @@ msgstr ""
 "color='#f2f2f2'>300</font> ground targets<br>Class IV: <font "
 "color='#f2f2f2'>30</font> ground targets"
 
-#, fuzzy
 msgid "MEDAL_STAGE_BONG"
 msgstr ""
 "Class I: <font color='#f2f2f2'>300</font> Destroyer medals<br>Class II: "
 "<font color='#f2f2f2'>30</font> Destroyer medals<br>Class III: <font "
 "color='#f2f2f2'>3</font> Destroyer medals"
 
-#, fuzzy
 msgid "MEDAL_STAGE_BOYINGTON"
 msgstr ""
 "Class I: <font color='#f2f2f2'>{0}</font> capture points<br>Class II: <font "
@@ -3984,14 +3850,12 @@ msgstr ""
 "color='#f2f2f2'>{2}</font> capture points<br>Class IV: <font "
 "color='#f2f2f2'>{3}</font> capture points"
 
-#, fuzzy
 msgid "MEDAL_STAGE_DEFENDER_PROGRESS"
 msgstr ""
 "Class I: <font color='#f2f2f2'>21</font> confrontations<br>Class II: <font "
 "color='#f2f2f2'>10</font> confrontations<br>Class III: <font "
 "color='#f2f2f2'>1</font> confrontation"
 
-#, fuzzy
 msgid "MEDAL_STAGE_DILLEI"
 msgstr ""
 "Class I: <font color='#f2f2f2'>{0}</font> enemy aircraft<br>Class II: <font "
@@ -3999,14 +3863,12 @@ msgstr ""
 "color='#f2f2f2'>{2}</font> enemy aircraft<br>Class IV: <font "
 "color='#f2f2f2'>{3}</font> enemy aircraft"
 
-#, fuzzy
 msgid "MEDAL_STAGE_GALLAND"
 msgstr ""
 "Class I: <font color='#f2f2f2'>300</font> Ace medals<br>Class II: <font "
 "color='#f2f2f2'>30</font> Ace medals<br>Class III: <font color='#f2f2f2'>3</"
 "font> Ace medals"
 
-#, fuzzy
 msgid "MEDAL_STAGE_GRAF"
 msgstr ""
 "Class I: <font color='#f2f2f2'>10,000</font> aircraft<br>Class II: <font "
@@ -4014,42 +3876,36 @@ msgstr ""
 "color='#f2f2f2'>100</font> aircraft<br>Class IV: <font color='#f2f2f2'>10</"
 "font> aircraft"
 
-#, fuzzy
 msgid "MEDAL_STAGE_HAMMER_PROGRESS"
 msgstr ""
 "Class I: <font color='#f2f2f2'>21</font> confrontations<br>Class II: <font "
 "color='#f2f2f2'>10</font> confrontations<br>Class III: <font "
 "color='#f2f2f2'>1</font> confrontation"
 
-#, fuzzy
 msgid "MEDAL_STAGE_JA_ALLY_PROGRESS"
 msgstr ""
 "Class I: <font color='#f2f2f2'>5,000</font> superiority points<br>Class II: "
 "<font color='#f2f2f2'>1,500</font> superiority points<br>Class III: <font "
 "color='#f2f2f2'>100</font> superiority points"
 
-#, fuzzy
 msgid "MEDAL_STAGE_JA_AXIS_PROGRESS"
 msgstr ""
 "Class I: <font color='#f2f2f2'>5,000</font> superiority points<br>Class II: "
 "<font color='#f2f2f2'>1,500</font> superiority points<br>Class III: <font "
 "color='#f2f2f2'>100</font> superiority points"
 
-#, fuzzy
 msgid "MEDAL_STAGE_JA_PACIFIC"
 msgstr ""
 "Class I: <font color='#f2f2f2'>21</font> confrontations<br>Class II: <font "
 "color='#f2f2f2'>10</font> confrontations<br>Class III: <font "
 "color='#f2f2f2'>1</font> confrontation"
 
-#, fuzzy
 msgid "MEDAL_STAGE_JA_TORATORA"
 msgstr ""
 "Class I: <font color='#f2f2f2'>21</font> confrontations<br>Class II: <font "
 "color='#f2f2f2'>10</font> confrontations<br>Class III: <font "
 "color='#f2f2f2'>1</font> confrontation"
 
-#, fuzzy
 msgid "MEDAL_STAGE_JOHNSON"
 msgstr ""
 "Class I: <font color='#f2f2f2'>{0}</font> ground targets<br>Class II: <font "
@@ -4057,14 +3913,12 @@ msgstr ""
 "color='#f2f2f2'>{2}</font> ground targets<br>Class IV: <font "
 "color='#f2f2f2'>{3}</font> ground targets"
 
-#, fuzzy
 msgid "MEDAL_STAGE_MEYER"
 msgstr ""
 "Class I: <font color='#f2f2f2'>300</font> Thunder medals<br>Class II: <font "
 "color='#f2f2f2'>30</font> Thunder medals<br>Class III: <font "
 "color='#f2f2f2'>3</font> Thunder medals"
 
-#, fuzzy
 msgid "MEDAL_STAGE_MIHALENKOV"
 msgstr ""
 "Class I: <font color='#f2f2f2'>{0}</font> personal points<br>Class II: <font "
@@ -4072,7 +3926,6 @@ msgstr ""
 "color='#f2f2f2'>{2}</font> personal points<br>Class IV: <font "
 "color='#f2f2f2'>{3}</font> personal points"
 
-#, fuzzy
 msgid "MEDAL_STAGE_POKRYSHKIN"
 msgstr ""
 "Class I: <font color='#f2f2f2'>{0}</font> air defense aircraft<br>Class II: "
