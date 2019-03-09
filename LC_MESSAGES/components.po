@@ -423,6 +423,9 @@ msgstr "布倫海姆V (比斯利)"
 msgid "NAME_MODULE_BMW-003A"
 msgstr "BMW 003A"
 
+msgid "NAME_MODULE_BMW-003A-1_JU-287"
+msgstr "BMW 003A-1"
+
 msgid "NAME_MODULE_BMW-003A-USSR-PR"
 msgstr "BMW-003A"
 
@@ -642,6 +645,15 @@ msgstr "DB 605 ASC(M)"
 msgid "NAME_MODULE_DB-605B"
 msgstr "DB 605 B"
 
+msgid "NAME_MODULE_DB-606AB_JU-288C"
+msgstr "DB 606A/B"
+
+msgid "NAME_MODULE_DB-610AB_JU-288C"
+msgstr "DB 610A/B"
+
+msgid "NAME_MODULE_DB-613AD_JU-288C"
+msgstr "DB 613A/D"
+
 msgid "NAME_MODULE_DB-801A"
 msgstr "BMW 801A"
 
@@ -668,6 +680,9 @@ msgstr "Do 217M-1"
 
 msgid "NAME_MODULE_DO-335A-HULL"
 msgstr "Do 355 A-1"
+
+msgid "NAME_MODULE_EF-131_HULL"
+msgstr "EF 131"
 
 msgid "NAME_MODULE_EMPTY"
 msgstr "未裝備"
@@ -917,6 +932,9 @@ msgstr "HeS 011"
 
 msgid "NAME_MODULE_HISPANO-SUISA-12YCRS-PR"
 msgstr "12Ycrs"
+
+msgid "NAME_MODULE_HO-229_PLANER-PR"
+msgstr "Ho 229"
 
 msgid "NAME_MODULE_HORNET-F-1_PLANER"
 msgstr "黃蜂 F.1"
@@ -1182,6 +1200,21 @@ msgstr "標槍 FAW 7s"
 msgid "NAME_MODULE_JL-1A-PR"
 msgstr "JL-1A"
 
+msgid "NAME_MODULE_JU-287_A1_PLANER"
+msgstr "Ju 287 A-1"
+
+msgid "NAME_MODULE_JU-287_V3_PLANER"
+msgstr "Ju 287 V3"
+
+msgid "NAME_MODULE_JU-288-C-1_PLANER"
+msgstr "Ju 288 C-1"
+
+msgid "NAME_MODULE_JU-288-V103_PLANER"
+msgstr "Ju 288 V103"
+
+msgid "NAME_MODULE_JU-288A-1_PLANER"
+msgstr "Ju 288 A-1"
+
 msgid "NAME_MODULE_JU-86E-1_HULL"
 msgstr "Ju 86E-1"
 
@@ -1215,14 +1248,26 @@ msgstr "巨魔 004"
 msgid "NAME_MODULE_JUMO-004B"
 msgstr "巨魔 004 B"
 
+msgid "NAME_MODULE_JUMO-004B-1_JU-287"
+msgstr "Jumo 004B-1"
+
 msgid "NAME_MODULE_JUMO-004B-PR"
 msgstr "巨魔 004 B"
 
 msgid "NAME_MODULE_JUMO-004C"
 msgstr "巨魔 004 C"
 
+msgid "NAME_MODULE_JUMO-004C-1_JU-287"
+msgstr "Jumo 004C-1"
+
 msgid "NAME_MODULE_JUMO-004E"
 msgstr "巨魔 004 E"
+
+msgid "NAME_MODULE_JUMO-004E-EF-131"
+msgstr "Jumo 004E"
+
+msgid "NAME_MODULE_JUMO-004_HO-229-PR"
+msgstr "Jumo 004"
 
 msgid "NAME_MODULE_JUMO-004_RB-17"
 msgstr "Jumo 004"
@@ -1289,6 +1334,15 @@ msgstr "巨魔 213 F-1"
 
 msgid "NAME_MODULE_JUMO-213J-1"
 msgstr "巨魔 213 J-1"
+
+msgid "NAME_MODULE_JUMO-222A-B-3_JU-288A"
+msgstr "Jumo 222A/B-3"
+
+msgid "NAME_MODULE_JUMO-222A-B_JU-288A"
+msgstr "Jumo 222A/B"
+
+msgid "NAME_MODULE_JUMO-222E-F_JU-288A"
+msgstr "Jumo 222E/F"
 
 msgid "NAME_MODULE_JUPITER-IX"
 msgstr "木星 IX"
@@ -2895,6 +2949,12 @@ msgstr "Yak-3T"
 msgid "NAME_MODULE_YAK-3_PLANER"
 msgstr "雅克-3 (1944)"
 
+msgid "NAME_MODULE_YAK-7-M-82_ENGINE-PR"
+msgstr "М-82А"
+
+msgid "NAME_MODULE_YAK-7-M-82_PLANER-PR"
+msgstr "Yak-7 М-82"
+
 msgid "NAME_MODULE_YAK-7B_PLANER"
 msgstr "雅克-7B"
 
@@ -3552,6 +3612,9 @@ msgstr "12.7 mm UB (C)"
 msgid "WEAPON_NAME_G12MM-UB-S"
 msgstr "12.7 mm UBS (S)"
 
+msgid "WEAPON_NAME_G12MM-UB-YAK-7-M-82-PR-S"
+msgstr "12,7 mm UBS"
+
 msgid "WEAPON_NAME_G12MM-UB_PE-2-M-82-F"
 msgstr "12.7 mm UB (C)"
 
@@ -3625,6 +3688,9 @@ msgid "WEAPON_NAME_G15MM-MG151-15-S-DO-335A"
 msgstr "15 mm MG-151/15 (1945) (S)"
 
 msgid "WEAPON_NAME_G15MM-MG151-15-T"
+msgstr "15 mm MG-151/15"
+
+msgid "WEAPON_NAME_G15MM-MG151-T"
 msgstr "15 mm MG-151/15"
 
 msgid "WEAPON_NAME_G20MM-B-20"
@@ -3999,6 +4065,9 @@ msgstr "20 mm ShVAK (1941) (H)"
 msgid "WEAPON_NAME_G20MM-SHVAK-20-S"
 msgstr "20 mm ShVAK (1941) (S)"
 
+msgid "WEAPON_NAME_G20MM-SHVAK-20-YAK-7-M-82-PR-K"
+msgstr "20 mm ShVAK (1941) (W)"
+
 msgid "WEAPON_NAME_G20MM-SHVAK-20_PE-2-M-82-F"
 msgstr "20 mm SHVAK (1941) (С)"
 
@@ -4278,6 +4347,9 @@ msgstr "30 mm MK-103 (C)"
 msgid "WEAPON_NAME_G30MM-MK-103-F-BV-P203-F-PR"
 msgstr "30 mm MK-103 (C)"
 
+msgid "WEAPON_NAME_G30MM-MK-103-F-HO-229-PR"
+msgstr "30 mm MK-103 (C)"
+
 msgid "WEAPON_NAME_G30MM-MK-103-M"
 msgstr "30 mm MK-103 (H)"
 
@@ -4509,7 +4581,7 @@ msgstr "45 mm NS-45 (H)"
 msgid "WEAPON_NAME_G45MM-NS-45-P"
 msgstr "45 mm NS-45 (O)"
 
-msgid "WEAPON_NAME_G45MM-NS-45-TU-1-F"
+msgid "WEAPON_NAME_G45MM-NS-45-TU-1-PR-F"
 msgstr "45 mm HC-45 (C)"
 
 msgid "WEAPON_NAME_G45MM-NS-45M"
@@ -4724,6 +4796,9 @@ msgstr "7.92 mm MG-08/18 (S)"
 
 msgid "WEAPON_NAME_G7MM-MG0818-T"
 msgstr "7.92 mm MG-08/18"
+
+msgid "WEAPON_NAME_G7MM-MG131-8-T"
+msgstr "7.92 mm MG-131/8"
 
 msgid "WEAPON_NAME_G7MM-MG15"
 msgstr "7.92 mm MG-15"
@@ -5121,6 +5196,9 @@ msgstr "RS-82"
 msgid "WEAPON_NAME_RS-82-PR"
 msgstr "RS-82"
 
+msgid "WEAPON_NAME_RS-82_YAK-7-M-82-PR"
+msgstr "RS-82"
+
 msgid "WEAPON_NAME_SAUCER_LASER"
 msgstr "Gungnir MK 40"
 
@@ -5134,6 +5212,12 @@ msgid "WEAPON_NAME_SC100-PR"
 msgstr "SC 100"
 
 msgid "WEAPON_NAME_SC1000"
+msgstr "SC 1000"
+
+msgid "WEAPON_NAME_SC1000_EF-131"
+msgstr "SC 1000"
+
+msgid "WEAPON_NAME_SC1000_JU-287"
 msgstr "SC 1000"
 
 msgid "WEAPON_NAME_SC250"
@@ -5181,11 +5265,20 @@ msgstr "SD 250"
 msgid "WEAPON_NAME_SD250-PR"
 msgstr "SD 250"
 
+msgid "WEAPON_NAME_SD250_JU-288A"
+msgstr "SD 250"
+
+msgid "WEAPON_NAME_SD250_JU-288C"
+msgstr "SD 250"
+
 msgid "WEAPON_NAME_SD50"
 msgstr "SD 50"
 
 msgid "WEAPON_NAME_SD50-PR"
 msgstr "SD 50"
+
+msgid "WEAPON_NAME_SD500_JU-287"
+msgstr "SD 500"
 
 msgid "WEAPON_NAME_SNOWBALL_L"
 msgstr "雪球"
@@ -5234,3 +5327,6 @@ msgstr "機翼機槍/機砲"
 
 msgid "WEAPON_NAME_WING_SHORT"
 msgstr "(W)"
+
+#~ msgid "WEAPON_NAME_G45MM-NS-45-TU-1-F"
+#~ msgstr "45 mm HC-45 (C)"

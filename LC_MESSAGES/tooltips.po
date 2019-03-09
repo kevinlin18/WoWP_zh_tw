@@ -309,6 +309,24 @@ msgstr "Air defense aircraft"
 msgid "TOOLTIPS_BATTLE_RESULT_DMG_DEALT"
 msgstr "Damage caused<br>to aerial targets"
 
+msgid "TOOLTIPS_BATTLE_RESULT_DMG_DEALT_BY_FIRE"
+msgstr "By fire"
+
+msgid "TOOLTIPS_BATTLE_RESULT_DMG_DEALT_BY_RAM"
+msgstr "By ramming"
+
+msgid "TOOLTIPS_BATTLE_RESULT_DMG_DEALT_BY_REARGUNNER"
+msgstr "By gunner"
+
+msgid "TOOLTIPS_BATTLE_RESULT_DMG_DEALT_BY_ROCKETS_BOMBS"
+msgstr "By outboard weapon"
+
+msgid "TOOLTIPS_BATTLE_RESULT_DMG_DEALT_BY_WEAPONS"
+msgstr "By forward-firing weapon"
+
+msgid "TOOLTIPS_BATTLE_RESULT_DMG_RECEIVED"
+msgstr "Damage received"
+
 msgid "TOOLTIPS_BATTLE_RESULT_DMG_TO_ALLY_PLANES"
 msgstr "Friendly aircraft"
 
@@ -437,6 +455,12 @@ msgstr "Fighters"
 
 msgid "TOOLTIPS_BATTLE_RESULT_PLANES_DESTROYED_HEAVY-FIGHTERS"
 msgstr "Heavy fighters"
+
+msgid "TOOLTIPS_BATTLE_RESULT_PLANES_DESTROYED_IN_ATTACK"
+msgstr "Destroyed when attacking"
+
+msgid "TOOLTIPS_BATTLE_RESULT_PLANES_DESTROYED_IN_DEFENCE"
+msgstr "Destroyed when defending"
 
 msgid "TOOLTIPS_BATTLE_RESULT_PLANES_DESTROYED_IN_TOTAL"
 msgstr "Enemy aircraft"
@@ -1003,6 +1027,9 @@ msgstr "Airframe Elements"
 msgid "TOOLTIPS_CRAFT_COMPONENT_STURDY"
 msgstr "Heat-Resistant Parts"
 
+msgid "TOOLTIPS_CREDITS_AVAILABLE_JA"
+msgstr "Available credits:"
+
 msgid "TOOLTIPS_CREDITS_TOKENS_AVAILABLE"
 msgstr "Available resources"
 
@@ -1081,6 +1108,11 @@ msgid "TOOLTIPS_DIR_ACTIVATED_TIMER_FOR_QUEST"
 msgstr ""
 "Operation order activated. Complete the chain of missions within the "
 "allocated time to receive the aircraft."
+
+msgid "TOOLTIPS_DIR_ACTIVATED_TIMER_FOR_QUEST_SHORT"
+msgstr ""
+"Operation order activated.<br>Complete the chain of missions within the "
+"allocated time."
 
 msgid "TOOLTIPS_DIR_AVAILABLE_BEFORE_EVENT_ENDS"
 msgstr "Available until the end of the event:"
@@ -1381,6 +1413,9 @@ msgstr "Containers with fuel for engines"
 msgid "TOOLTIPS_FUSELAGE_FRAME_DESCRIPTION"
 msgstr "Set of load-bearing elements, basis of an aircraft structure"
 
+msgid "TOOLTIPS_GAINED_JA"
+msgstr "Received:"
+
 msgid "TOOLTIPS_GA_CANONS"
 msgstr "機砲在對付地面目標表現良好"
 
@@ -1395,6 +1430,9 @@ msgstr "機槍和機砲在對付地面目標表現良好"
 
 msgid "TOOLTIPS_GIFT_COLLECT_LIST"
 msgstr "Required to get the gift:"
+
+msgid "TOOLTIPS_GOLD_AVAILABLE_JA"
+msgstr "Available gold:"
 
 msgid "TOOLTIPS_GOOD_ATTACK_WEAPON"
 msgstr "良好的攻擊武器"
@@ -2039,6 +2077,9 @@ msgstr "Containers with oil for engines"
 msgid "TOOLTIPS_OPEN_CONTEXT_MENU"
 msgstr "Open context menu"
 
+msgid "TOOLTIPS_OPEN_CREDIT_WINDOW_JA"
+msgstr "Open credit exchange window"
+
 msgid "TOOLTIPS_OPEN_DIR_MENU"
 msgstr "Open menu of operation orders"
 
@@ -2052,11 +2093,17 @@ msgstr ""
 "View <font color='#{1}'>Specials</font><br>or <font color='#{1}'>Exclusive "
 "Offers</font>"
 
+msgid "TOOLTIPS_OPEN_GOLD_WINDOW_JA"
+msgstr "Open gold purchase window"
+
 msgid "TOOLTIPS_OPEN_GUIDE_OR_VIDEOMATERIALS"
 msgstr "檢視<font color='#{1}'>指南</font>或<font color='#{1}'>影片</font>"
 
 msgid "TOOLTIPS_OPEN_INGAME_PREMIUM_STORE"
 msgstr "Open the in-game shop to purchase Premium items."
+
+msgid "TOOLTIPS_OPEN_ONBOARDING_MISSIONS"
+msgstr "Open the Onboarding Missions window."
 
 msgid "TOOLTIPS_OPEN_PERSONAL_RATING_WINDOW"
 msgstr "Open personal rating window"
@@ -2065,6 +2112,9 @@ msgid "TOOLTIPS_OPEN_QUESTS_SPECIAL_OFFERS"
 msgstr ""
 "View <font color='#{1}'>Missions</font><br>or <font color='#{1}'>Exclusive "
 "Offers</font>"
+
+msgid "TOOLTIPS_OPEN_SORTING_QUESTS_MENU"
+msgstr "Open the mission sorting menu."
 
 msgid "TOOLTIPS_OPEN_SORT_MENU"
 msgstr "開啟戰機排序選單"
@@ -2294,6 +2344,9 @@ msgstr ""
 "aircraft in the <font color='#{1}'>\"Prototype\" configuration</font> can "
 "join battles but does not earn experience and its components cannot be "
 "upgraded."
+
+msgid "TOOLTIPS_PURCHASE_JA"
+msgstr "Purchased:"
 
 msgid "TOOLTIPS_PURCHASE_SLOT"
 msgstr "{price}購買機位"
@@ -3523,6 +3576,12 @@ msgstr ""
 msgid "TOOLTIPS_QUESTS_COMPLEX_02_NAME"
 msgstr "天與地"
 
+msgid "TOOLTIPS_QUESTS_DONE"
+msgstr "Completed missions:"
+
+msgid "TOOLTIPS_QUEST_COST"
+msgstr "Completion cost:"
+
 msgid "TOOLTIPS_QUEST_DISCOUNT_COST"
 msgstr "Discount:"
 
@@ -3787,6 +3846,10 @@ msgstr "備有三個強力的防禦砲塔"
 msgid "TOOLTIPS_TIER_LVL"
 msgstr "{level} 階"
 
+msgid "TOOLTIPS_TIME_OUT_REACTIVATE_DIR_WITH_ALL_PROGRESS"
+msgstr ""
+"Time is up. Reactivate the operation order. Your progress will be saved."
+
 msgid "TOOLTIPS_TOKENS_ABLE_BUY_DD_HH_MM"
 msgstr "可購買令牌的剩餘時間: {dd_hh_mm}"
 
@@ -3811,6 +3874,9 @@ msgstr "Out of Supplies for today."
 
 msgid "TOOLTIPS_TOKEN_STORE_TROPHY_MAY_CONTAIN"
 msgstr "Supplies can contain:"
+
+msgid "TOOLTIPS_TOTAL_JA"
+msgstr "Total:"
 
 msgid "TOOLTIPS_TROPHYS_AVAILABLE_FOR_YOU"
 msgstr "Available Supplies:"
@@ -5961,6 +6027,9 @@ msgstr "任務獎勵:"
 
 msgid "TOOLTIP_QUESTS_REWARD"
 msgstr "獎勵"
+
+msgid "TOOLTIP_QUESTS_REWARD_COLON"
+msgstr "Completion Award"
 
 msgid "TOOLTIP_QUESTS_SHOW_DETAILED"
 msgstr "點選檢視詳情"

@@ -2554,8 +2554,8 @@ msgstr "閃擊戰Ju 287，部分 {order}"
 msgid "LOBBY_BLITZ_DIR_JU_288_A"
 msgstr "閃擊戰Ju 288 A，部分 {order}"
 
-msgid "LOBBY_BLITZ_DIR_JU_288_苤"
-msgstr "閃擊戰Ju 288 C, 部分 {order}"
+msgid "LOBBY_BLITZ_DIR_JU_288_С"
+msgstr "The blitz Ju 288 C, part {order}"
 
 msgid "LOBBY_BOMBARDIER_EQUIPMENT"
 msgstr "炸彈瞄准設備"
@@ -13655,6 +13655,9 @@ msgstr "完成任務鏈"
 
 msgid "LOBBY_QUESTS_CHAIN_CONFIRMATION_WINDOW_TEXT"
 msgstr "使用{value}完成{name}任務鏈？"
+
+msgid "LOBBY_QUESTS_COMPLETED"
+msgstr "Completed:"
 
 msgid "LOBBY_QUESTS_COMPLEX_01_BASIC"
 msgstr "擊落敵方攻擊機或多用途戰鬥機"

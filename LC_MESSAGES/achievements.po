@@ -286,11 +286,6 @@ msgstr ""
 msgid "ACHIEVEMENTS_RANDOM_MODE_ONLY"
 msgstr "標準戰鬥的統計資料將在戰績中顯示"
 
-msgid "ACHIEVEMENTS_RECIEVED_ON_AIRCRAFT"
-msgstr ""
-"Received on the following aircraft:<br>{aircraft_1}, {aircraft_2}, "
-"{aircraft_3}, {aircraft_4}, {aircraft_5} and {number} more."
-
 msgid "ACHIEVEMENTS_REFRESHING_DATA"
 msgstr "正在更新資料..."
 
@@ -1790,6 +1785,12 @@ msgstr ""
 msgid "MEDAL_DESCRIPTION_SEVERSKY3"
 msgstr "頒發給在伺服器頂級戰機特殊優惠期間研發和購買10級戰機的玩家"
 
+msgid "MEDAL_DESCRIPTION_SHIELD"
+msgstr ""
+"Awarded for achieving maximum effectiveness in fulfilling the aircraft type-"
+"specific mission <font color='#f2f2f2'>Air-to-ground Aircraft Interception</"
+"font>."
+
 msgid "MEDAL_DESCRIPTION_SIKORSKY1"
 msgstr "頒發給參與戰機世界首測階段的玩家"
 
@@ -2010,6 +2011,11 @@ msgstr "授予在官方所舉行的《戰機世界》比賽中排名第三的團
 msgid "MEDAL_DESCRIPTION_TOURNAMENT_PLAYER"
 msgstr "授予在官方所舉行的《戰機世界》比賽中至少參與了一場戰鬥的玩家"
 
+msgid "MEDAL_DESCRIPTION_TRIAL"
+msgstr ""
+"Awarded for completing the entire chain of missions and receiving the <font "
+"color='#ffd57e'>Blohm und Voss BV P.203</font> as a reward."
+
 msgid "MEDAL_DESCRIPTION_UNLIMITED_WEIGHT"
 msgstr ""
 "Awarded once for <font color='#f2f2f2'>destroying {0} bombers</font> from "
@@ -2035,6 +2041,35 @@ msgstr ""
 "Awarded for completing the chain of personal missions and receiving the "
 "<font color='#ffd57e'>Vampire F.1</font> as a reward."
 
+msgid "MEDAL_DESCRIPTION_VENGEANCE1"
+msgstr ""
+"Awarded for earning <font color='#f2f2f2'>aircraft type grade II</font> "
+"during Stage I: <font color='#f2f2f2'>Growing Strength</font> of the Blade "
+"of Vengeance event."
+
+msgid "MEDAL_DESCRIPTION_VENGEANCE2"
+msgstr ""
+"Awarded for earning <font color='#f2f2f2'>aircraft type grade II</font> "
+"during Stage II: <font color='#f2f2f2'>Sudden Strike</font> of the Blade of "
+"Vengeance event."
+
+msgid "MEDAL_DESCRIPTION_VENGEANCE3"
+msgstr ""
+"Awarded for earning <font color='#f2f2f2'>aircraft type grade II</font> "
+"during Stage III: <font color='#f2f2f2'>Divide and Rule</font> of the Blade "
+"of Vengeance event."
+
+msgid "MEDAL_DESCRIPTION_VENGEANCE4"
+msgstr ""
+"Awarded for earning <font color='#f2f2f2'>aircraft type grade II</font> "
+"during Stage IV: <font color='#f2f2f2'>A Worthy Opponent</font> of the Blade "
+"of Vengeance event."
+
+msgid "MEDAL_DESCRIPTION_VENGEANCE_LEADER"
+msgstr ""
+"Awarded for earning <font color='#8cc8ff'>10,000</font>personal points "
+"during the Blade of Vengeance event."
+
 msgid "MEDAL_DESCRIPTION_VETERAN"
 msgstr ""
 "Awarded for winning a battle and <font color='#f2f2f2'>achieving the top "
@@ -2050,6 +2085,11 @@ msgstr ""
 
 msgid "MEDAL_DESCRIPTION_VOLUNTEER"
 msgstr "獎勵給對遊戲貢獻大的評論和論壇版主，<br><br>只能獲得一次。"
+
+msgid "MEDAL_DESCRIPTION_WARRIOR"
+msgstr ""
+"Awarded for achieving maximum effectiveness in fulfilling the aircraft type-"
+"specific mission <font color='#f2f2f2'>Air Battle for Sectors</font>."
 
 msgid "MEDAL_DESCRIPTION_WAR_OF_ATTRITION"
 msgstr ""
@@ -3671,6 +3711,9 @@ msgstr "Holiday Season Event"
 msgid "MEDAL_NAME_SECRET_SANTA_2019"
 msgstr "Santa's Bag 2019"
 
+msgid "MEDAL_NAME_SECRET_TRIAL"
+msgstr "Secret Trials"
+
 msgid "MEDAL_NAME_SEVERSKY1"
 msgstr "謝韋爾斯基勳章 一級"
 
@@ -3679,6 +3722,9 @@ msgstr "謝韋爾斯基勳章 二級"
 
 msgid "MEDAL_NAME_SEVERSKY3"
 msgstr "謝韋爾斯基勳章 三級"
+
+msgid "MEDAL_NAME_SHIELD"
+msgstr "Flying Shield Badge"
 
 msgid "MEDAL_NAME_SIKORSKY1"
 msgstr "西科斯基勳章 一級"
@@ -3866,11 +3912,29 @@ msgstr "貢獻者"
 msgid "MEDAL_NAME_VAMPIREF1"
 msgstr "Fangs of Steel"
 
+msgid "MEDAL_NAME_VENGEANCE1"
+msgstr "The Blade of Vengeance Badge, Stage I"
+
+msgid "MEDAL_NAME_VENGEANCE2"
+msgstr "The Blade of Vengeance Badge, Stage II"
+
+msgid "MEDAL_NAME_VENGEANCE3"
+msgstr "The Blade of Vengeance Badge, Stage III"
+
+msgid "MEDAL_NAME_VENGEANCE4"
+msgstr "The Blade of Vengeance Badge, Stage IV"
+
+msgid "MEDAL_NAME_VENGEANCE_LEADER"
+msgstr "Master of Vengeance"
+
 msgid "MEDAL_NAME_VETERAN"
 msgstr "Top Pilot"
 
 msgid "MEDAL_NAME_VOLUNTEER"
 msgstr "志願服務"
+
+msgid "MEDAL_NAME_WARRIOR"
+msgstr "Flying Fighter Badge"
 
 msgid "MEDAL_NAME_WAR_OF_ATTRITION"
 msgstr "Attrition"
@@ -4013,3 +4077,8 @@ msgstr ""
 
 msgid "TOOLTIP_ACHIEVEMENTS_PAGE_PVE"
 msgstr "在戰鬥中獲得勳章和獎勵"
+
+#~ msgid "ACHIEVEMENTS_RECIEVED_ON_AIRCRAFT"
+#~ msgstr ""
+#~ "Received on the following aircraft:<br>{aircraft_1}, {aircraft_2}, "
+#~ "{aircraft_3}, {aircraft_4}, {aircraft_5} and {number} more."

@@ -271,6 +271,14 @@ msgstr ""
 "以重型戰鬥轟炸機為目標開發。原型機於 1943 年 10 月 26 日首飛。一系列約 12 架 "
 "Do 335A-1 在二戰結束時建成。"
 
+msgid "MARKET_AIRPLANE_DESCRIPTION_EF-131"
+msgstr ""
+"Before the capitulation of Germany in the war, the Junkers company managed "
+"to partially prepare the project documentation for the development of the Ju "
+"287 V3 design. Further development was carried out with the participation of "
+"German designers, but already as part of the Soviet OKB-1 work. Only a "
+"single prototype was built."
+
 msgid "MARKET_AIRPLANE_DESCRIPTION_F-15C"
 msgstr "一款使用混合動力系統的戰鬥機，共製造了 3 架原型機，沒有正式裝備部隊。"
 
@@ -464,6 +472,13 @@ msgid "MARKET_AIRPLANE_DESCRIPTION_HE-51"
 msgstr ""
 "作為 Ar.65 的替代機型於 1933 年開始研製，曾在西班牙內戰期間投入實戰使用，共生"
 "產了 700 架該型戰機。"
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_HO-229"
+msgstr ""
+"Raymar and Walter Horten's “flying wing” project, also known as H IX. It was "
+"supposed to be mass-produced at the Gotha plant, but before the end of the "
+"war only a few prototypes were made, some of which fell into the hands of "
+"the Allied forces."
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_HS-123"
 msgstr ""
@@ -666,6 +681,27 @@ msgstr ""
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_JL-1"
 msgstr "由殲教-1 型教練機所發展出的衍生型號，但其只停留於設計草圖階段。"
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_JU-287"
+msgstr ""
+"The development of a high-speed jet bomber with a forward-swept wing was "
+"launched by the Junkers firm at the end of 1942. In August 1944, an "
+"experimental Ju 287 V1 took to the air, but only three prototypes were made "
+"before the end of the war."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_JU-288A"
+msgstr ""
+"It was created to replace the Ju 88 in the Luftwaffe under the Bomber B "
+"design competition. However, a number of technical problems and changes in "
+"requirements from the Ministry of Aviation (RLM) did not allow the model to "
+"be launched into production. Several pre-production prototypes were tested."
+
+msgid "MARKET_AIRPLANE_DESCRIPTION_JU-288C"
+msgstr ""
+"The development of the Ju 288 design, equipped with new engines and enhanced "
+"defensive armament. Due to the plight on the fronts and the subsequent "
+"cancellation of the Bomber B program, only a few pre-production prototypes "
+"were built."
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_JU-52"
 msgstr ""
@@ -1723,6 +1759,14 @@ msgid "MARKET_AIRPLANE_DESCRIPTION_YAK-7"
 msgstr ""
 "1941 年時以雅克-7UTI 教練機為基礎改裝而來的戰鬥機，共生產或改裝了 6399 架。"
 
+msgid "MARKET_AIRPLANE_DESCRIPTION_YAK-7-M-82"
+msgstr ""
+"In the summer of 1941, an attempt to install an M-82A engine on the Yak-7 "
+"was made. The aircraft went through a number of changes in the design and "
+"composition of its weapons, but could not achieve the specified flight "
+"characteristics for technical reasons. Only one development prototype was "
+"made."
+
 msgid "MARKET_AIRPLANE_DESCRIPTION_YAK-9"
 msgstr ""
 "1942 年時在雅克-7 的基礎上開始研製，是蘇聯產量最高的戰機，在 1944 年其產量高"
@@ -1912,6 +1956,9 @@ msgstr "多尼爾 Do 217 M"
 msgid "PLANE_LONGNAME_DO-335A1"
 msgstr "多尼爾 Do 335 A-1 箭式"
 
+msgid "PLANE_LONGNAME_EF-131"
+msgstr "Junkers/OKB-1 EF 131"
+
 msgid "PLANE_LONGNAME_F-15C"
 msgstr "寇蒂斯 XF15C"
 
@@ -2047,6 +2094,9 @@ msgstr "亨克爾 He 112"
 msgid "PLANE_LONGNAME_HE-51"
 msgstr "亨克爾 He 51"
 
+msgid "PLANE_LONGNAME_HO-229"
+msgstr "Horten Ho 229"
+
 msgid "PLANE_LONGNAME_HS-123"
 msgstr "亨舍爾 Hs 123"
 
@@ -2178,6 +2228,15 @@ msgstr "三菱 秋水"
 
 msgid "PLANE_LONGNAME_JL-1"
 msgstr "瀋陽 教練-1A-37"
+
+msgid "PLANE_LONGNAME_JU-287"
+msgstr "Junkers Ju 287"
+
+msgid "PLANE_LONGNAME_JU-288A"
+msgstr "Junkers Ju 288 A"
+
+msgid "PLANE_LONGNAME_JU-288C"
+msgstr "Junkers Ju 288 C"
 
 msgid "PLANE_LONGNAME_JU-52"
 msgstr "容克 Ju 52"
@@ -2611,6 +2670,9 @@ msgstr "Yakovlev Yak-3T"
 msgid "PLANE_LONGNAME_YAK-7"
 msgstr "雅克列夫 雅克-7"
 
+msgid "PLANE_LONGNAME_YAK-7-M-82"
+msgstr "Yakovlev Yak-7 M-82"
+
 msgid "PLANE_LONGNAME_YAK-9"
 msgstr "雅克列夫 雅克-9"
 
@@ -2794,6 +2856,9 @@ msgstr "Do 217 M"
 msgid "PLANE_MIDNAME_DO-335A1"
 msgstr "道尼爾 Do 335 A-1"
 
+msgid "PLANE_MIDNAME_EF-131"
+msgstr "EF 131"
+
 msgid "PLANE_MIDNAME_F-15C"
 msgstr "XF15C"
 
@@ -2929,6 +2994,9 @@ msgstr "He 112"
 msgid "PLANE_MIDNAME_HE-51"
 msgstr "He 51"
 
+msgid "PLANE_MIDNAME_HO-229"
+msgstr "Ho 229"
+
 msgid "PLANE_MIDNAME_HS-123"
 msgstr "Hs 123"
 
@@ -3060,6 +3128,15 @@ msgstr "秋水"
 
 msgid "PLANE_MIDNAME_JL-1"
 msgstr "教練-1A-37"
+
+msgid "PLANE_MIDNAME_JU-287"
+msgstr "Ju 287"
+
+msgid "PLANE_MIDNAME_JU-288A"
+msgstr "Ju 288 A"
+
+msgid "PLANE_MIDNAME_JU-288C"
+msgstr "Ju 288 C"
 
 msgid "PLANE_MIDNAME_JU-52"
 msgstr "Ju 52"
@@ -3493,6 +3570,9 @@ msgstr "Yak-3T"
 msgid "PLANE_MIDNAME_YAK-7"
 msgstr "雅克-7"
 
+msgid "PLANE_MIDNAME_YAK-7-M-82"
+msgstr "Yak-7 M-82"
+
 msgid "PLANE_MIDNAME_YAK-9"
 msgstr "雅克-9"
 
@@ -3760,6 +3840,9 @@ msgstr "Do 217 M"
 msgid "PLANE_NAME_DO-335A1"
 msgstr "Do 335 A-1"
 
+msgid "PLANE_NAME_EF-131"
+msgstr "EF 131"
+
 msgid "PLANE_NAME_F-15C"
 msgstr "XF15C"
 
@@ -3895,6 +3978,9 @@ msgstr "He 112"
 msgid "PLANE_NAME_HE-51"
 msgstr "He 51"
 
+msgid "PLANE_NAME_HO-229"
+msgstr "Ho 229"
+
 msgid "PLANE_NAME_HS-123"
 msgstr "Hs 123"
 
@@ -4026,6 +4112,15 @@ msgstr "秋水"
 
 msgid "PLANE_NAME_JL-1"
 msgstr "教練-1A-37"
+
+msgid "PLANE_NAME_JU-287"
+msgstr "Ju 287"
+
+msgid "PLANE_NAME_JU-288A"
+msgstr "Ju 288 A"
+
+msgid "PLANE_NAME_JU-288C"
+msgstr "Ju 288 C"
 
 msgid "PLANE_NAME_JU-52"
 msgstr "Ju 52"
@@ -4458,6 +4553,9 @@ msgstr "Yak-3T"
 
 msgid "PLANE_NAME_YAK-7"
 msgstr "雅克-7"
+
+msgid "PLANE_NAME_YAK-7-M-82"
+msgstr "Yak-7 M-82"
 
 msgid "PLANE_NAME_YAK-9"
 msgstr "雅克-9"

@@ -2374,6 +2374,9 @@ msgstr "準備中:"
 msgid "HUD_PREPARE_1"
 msgstr "準備中:"
 
+msgid "HUD_PRESS_BUTTON_FOR_BOMB_AND_ROCKETS_RELOAD"
+msgstr "Click {button} to reload"
+
 msgid "HUD_PREVIOUS_TARGET"
 msgstr "Switch to Previous Ally"
 

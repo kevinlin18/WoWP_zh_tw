@@ -669,8 +669,17 @@ msgstr "戰機狀態"
 msgid "BATTLE_RESULTS_RECEIVED_AFTER_BATTLE"
 msgstr "戰鬥收益"
 
+msgid "BATTLE_RESULT_ACHIEVEMENTS_RECIEVED_ON_AIRCRAFT"
+msgstr "Achievement received on the following aircraft:<br>{aircraft}"
+
+msgid "BATTLE_RESULT_ACHIEVEMENTS_RECIEVED_ON_AIRCRAFT_AND_MORE"
+msgstr "Achievement received on:<br>{aircraft} and more {number}."
+
 msgid "BATTLE_RESULT_ALL_PLANES_EXP"
 msgstr "所有戰機經驗"
+
+msgid "BATTLE_RESULT_AND_MORE_ACHIEVEMENTS"
+msgstr "and more achievements:"
 
 msgid "BATTLE_RESULT_ASSISTS"
 msgstr "協助點數"
@@ -698,6 +707,9 @@ msgstr "防守時獲得的佔領點數"
 
 msgid "BATTLE_RESULT_CAP_POINT_RECEIVED"
 msgstr "獲得佔領點數"
+
+msgid "BATTLE_RESULT_CLICK_TO_SHOW_DETAILS"
+msgstr "Click to view details."
 
 msgid "BATTLE_RESULT_CREDITS"
 msgstr "銀幣"
@@ -797,6 +809,9 @@ msgstr "Mission to reach the \"Specialist\" configuration completed!"
 
 msgid "BATTLE_RESULT_SPECIALIST_QUEST_PROGRESS"
 msgstr "Progress of the mission to reach the \"Specialist\" configuration"
+
+msgid "BATTLE_RESULT_STRIKE_PLANES_DESTROYED"
+msgstr "Attack aircraft and bombers destroyed"
 
 msgid "BATTLE_RESULT_TEST_FLIGHT"
 msgstr "(test flight)"

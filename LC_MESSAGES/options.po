@@ -1261,6 +1261,12 @@ msgstr "只允許聯絡人列表中玩家傳送資訊"
 msgid "SETTINGS_CHAT_DISABLE_BATTLE_CHAT"
 msgstr "禁用聊天 (只在標準戰鬥中)"
 
+msgid "SETTINGS_CHECKBOX_ABOUT_GETTING_ONBOARDING_QUESTS"
+msgstr "Show the window with Onboarding missions received"
+
+msgid "SETTINGS_CHECKBOX_ABOUT_PROGRESS_ONBOARDING_QUESTS"
+msgstr "Show the window with Onboarding missions progress"
+
 msgid "SETTINGS_CHECKBOX_CHANGE_ADVANCE_POINT_DISPLAY_SIZE"
 msgstr "調整射擊指示環"
 
