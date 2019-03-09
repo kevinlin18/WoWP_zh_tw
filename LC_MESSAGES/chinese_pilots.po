@@ -1,377 +1,391 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.1\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: zh_TW\n"
+
 msgid "NAMES/CN1"
-msgstr "Bei"
+msgstr "貝"
 
 msgid "NAMES/CN10"
-msgstr "Hang"
+msgstr "罣"
 
 msgid "NAMES/CN11"
-msgstr "Hao"
+msgstr "浩"
 
 msgid "NAMES/CN12"
-msgstr "Cao"
+msgstr "曹"
 
 msgid "NAMES/CN13"
-msgstr "He"
+msgstr "塔"
 
 msgid "NAMES/CN14"
-msgstr "Huo"
+msgstr "霍"
 
 msgid "NAMES/CN15"
-msgstr "Ji"
+msgstr "紀"
 
 msgid "NAMES/CN16"
-msgstr "Jia"
+msgstr "佳"
 
 msgid "NAMES/CN17"
-msgstr "Jiang"
+msgstr "江"
 
 msgid "NAMES/CN18"
-msgstr "Jing"
+msgstr "京"
 
 msgid "NAMES/CN19"
-msgstr "Kong"
+msgstr "洪"
 
 msgid "NAMES/CN2"
-msgstr "Feng"
+msgstr "鋒"
 
 msgid "NAMES/CN20"
-msgstr "Lan"
+msgstr "藍"
 
 msgid "NAMES/CN21"
-msgstr "Li"
+msgstr "李"
 
 msgid "NAMES/CN22"
-msgstr "Lian"
+msgstr "廉"
 
 msgid "NAMES/CN23"
-msgstr "Chen"
+msgstr "陳"
 
 msgid "NAMES/CN24"
-msgstr "Lin"
+msgstr "林"
 
 msgid "NAMES/CN25"
-msgstr "Liu"
+msgstr "劉"
 
 msgid "NAMES/CN26"
-msgstr "Lu"
+msgstr "龍"
 
 msgid "NAMES/CN27"
-msgstr "Lou"
+msgstr "盧"
 
 msgid "NAMES/CN28"
-msgstr "Ma"
+msgstr "馬"
 
 msgid "NAMES/CN29"
-msgstr "Mi"
+msgstr "糜"
 
 msgid "NAMES/CN3"
-msgstr "Fu"
+msgstr "福"
 
 msgid "NAMES/CN30"
-msgstr "Miao"
+msgstr "苗"
 
 msgid "NAMES/CN31"
-msgstr "Niu"
+msgstr "牛"
 
 msgid "NAMES/CN32"
-msgstr "Nong"
+msgstr "農"
 
 msgid "NAMES/CN33"
-msgstr "Ouyang"
+msgstr "歐陽"
 
 msgid "NAMES/CN34"
-msgstr "Chi"
+msgstr "馳"
 
 msgid "NAMES/CN35"
-msgstr "Pang"
+msgstr "彭"
 
 msgid "NAMES/CN36"
-msgstr "Qiao"
+msgstr "喬"
 
 msgid "NAMES/CN37"
-msgstr "Qin"
+msgstr "秦"
 
 msgid "NAMES/CN38"
-msgstr "Qu"
+msgstr "曲"
 
 msgid "NAMES/CN39"
-msgstr "Quan"
+msgstr "泉"
 
 msgid "NAMES/CN4"
-msgstr "Gan"
+msgstr "甘"
 
 msgid "NAMES/CN40"
-msgstr "Shangguan"
+msgstr "上官雲"
 
 msgid "NAMES/CN41"
-msgstr "Shen"
+msgstr "申"
 
 msgid "NAMES/CN42"
-msgstr "Shi"
+msgstr "施"
 
 msgid "NAMES/CN43"
-msgstr "Sima"
+msgstr "司馬"
 
 msgid "NAMES/CN44"
-msgstr "Su"
+msgstr "蘇"
 
 msgid "NAMES/CN45"
-msgstr "Chu"
+msgstr "楚"
 
 msgid "NAMES/CN46"
-msgstr "Sun"
+msgstr "太陽"
 
 msgid "NAMES/CN47"
-msgstr "Wan"
+msgstr "萬"
 
 msgid "NAMES/CN48"
-msgstr "Wang"
+msgstr "王"
 
 msgid "NAMES/CN49"
-msgstr "Wei"
+msgstr "衛"
 
 msgid "NAMES/CN5"
-msgstr "Ge"
+msgstr "葛"
 
 msgid "NAMES/CN50"
-msgstr "Wen"
+msgstr "溫"
 
 msgid "NAMES/CN51"
-msgstr "Wu"
+msgstr "吳"
 
 msgid "NAMES/CN52"
-msgstr "Xi"
+msgstr "習"
 
 msgid "NAMES/CN53"
-msgstr "Xie"
+msgstr "謝"
 
 msgid "NAMES/CN54"
-msgstr "Ximen"
+msgstr "西門慶"
 
 msgid "NAMES/CN55"
-msgstr "Yan"
+msgstr "嚴"
 
 msgid "NAMES/CN56"
-msgstr "Dai"
+msgstr "戴"
 
 msgid "NAMES/CN57"
-msgstr "Yin"
+msgstr "殷"
 
 msgid "NAMES/CN58"
-msgstr "You"
+msgstr "倪"
 
 msgid "NAMES/CN59"
-msgstr "Yu"
+msgstr "宇"
 
 msgid "NAMES/CN6"
-msgstr "Gong"
+msgstr "鑼"
 
 msgid "NAMES/CN60"
-msgstr "Yuchi"
+msgstr "宇馳"
 
 msgid "NAMES/CN61"
-msgstr "Zeng"
+msgstr "曾"
 
 msgid "NAMES/CN62"
-msgstr "Zhang"
+msgstr "張"
 
 msgid "NAMES/CN63"
-msgstr "Zhao"
+msgstr "趙"
 
 msgid "NAMES/CN64"
-msgstr "Zhong"
+msgstr "鐘"
 
 msgid "NAMES/CN65"
-msgstr "Zhou"
+msgstr "周"
 
 msgid "NAMES/CN66"
-msgstr "Zhuge"
+msgstr "諸葛"
 
 msgid "NAMES/CN67"
-msgstr "Duan"
+msgstr "段"
 
 msgid "NAMES/CN68"
-msgstr "Fang"
+msgstr "方"
 
 msgid "NAMES/CN69"
-msgstr "Fei"
+msgstr "費"
 
 msgid "NAMES/CN7"
-msgstr "Gongsun"
+msgstr "公孫"
 
 msgid "NAMES/CN8"
-msgstr "Gu"
+msgstr "顧"
 
 msgid "NAMES/CN9"
-msgstr "Han"
+msgstr "韓"
 
 msgid "NAMES/CNN1"
-msgstr "Delong"
+msgstr "德龍"
 
 msgid "NAMES/CNN10"
-msgstr "Guoyuan"
+msgstr "國元"
 
 msgid "NAMES/CNN11"
-msgstr "Ke"
+msgstr "柯"
 
 msgid "NAMES/CNN12"
-msgstr "Yueqiao"
+msgstr "月橋"
 
 msgid "NAMES/CNN13"
-msgstr "Dawei"
+msgstr "大偉"
 
 msgid "NAMES/CNN14"
-msgstr "Wei"
+msgstr "魏"
 
 msgid "NAMES/CNN15"
-msgstr "Anbang"
+msgstr "安邦"
 
 msgid "NAMES/CNN16"
-msgstr "Ting"
+msgstr "庭"
 
 msgid "NAMES/CNN17"
-msgstr "Yihu"
+msgstr "翼虎"
 
 msgid "NAMES/CNN18"
-msgstr "Kemeng"
+msgstr "科蒙"
 
 msgid "NAMES/CNN19"
-msgstr "Fei"
+msgstr "飛"
 
 msgid "NAMES/CNN2"
-msgstr "Shusheng"
+msgstr "魏書生"
 
 msgid "NAMES/CNN20"
-msgstr "Ran"
+msgstr "藍"
 
 msgid "NAMES/CNN21"
-msgstr "Zhu"
+msgstr "朱"
 
 msgid "NAMES/CNN22"
-msgstr "Cai"
+msgstr "蔡"
 
 msgid "NAMES/CNN23"
-msgstr "Yang"
+msgstr "楊"
 
 msgid "NAMES/CNN24"
-msgstr "Ding"
+msgstr "丁"
 
 msgid "NAMES/CNN25"
-msgstr "Tang"
+msgstr "唐"
 
 msgid "NAMES/CNN26"
-msgstr "Luo"
+msgstr "羅"
 
 msgid "NAMES/CNN27"
-msgstr "Gao"
+msgstr "高"
 
 msgid "NAMES/CNN28"
-msgstr "Xu"
+msgstr "徐"
 
 msgid "NAMES/CNN29"
-msgstr "Zhen"
+msgstr "震"
 
 msgid "NAMES/CNN3"
-msgstr "Weiyong"
+msgstr "衛勇"
 
 msgid "NAMES/CNN30"
-msgstr "Hong"
+msgstr "洪"
 
 msgid "NAMES/CNN31"
-msgstr "Jun"
+msgstr "俊"
 
 msgid "NAMES/CNN32"
-msgstr "Hui"
+msgstr "輝"
 
 msgid "NAMES/CNN33"
-msgstr "Xian"
+msgstr "西安"
 
 msgid "NAMES/CNN34"
-msgstr "Yi"
+msgstr "義"
 
 msgid "NAMES/CNN35"
-msgstr "Jin"
+msgstr "斤"
 
 msgid "NAMES/CNN36"
-msgstr "Shan"
+msgstr "山"
 
 msgid "NAMES/CNN37"
-msgstr "Shu"
+msgstr "舒"
 
 msgid "NAMES/CNN38"
-msgstr "Fen"
+msgstr "分"
 
 msgid "NAMES/CNN39"
-msgstr "Xue"
+msgstr "薛"
 
 msgid "NAMES/CNN4"
-msgstr "Bingjun"
+msgstr "秉均"
 
 msgid "NAMES/CNN40"
-msgstr "Ping"
+msgstr "平"
 
 msgid "NAMES/CNN41"
-msgstr "Xuan"
+msgstr "軒"
 
 msgid "NAMES/CNN42"
-msgstr "Xiu"
+msgstr "修"
 
 msgid "NAMES/CNN43"
-msgstr "Mei"
+msgstr "梅"
 
 msgid "NAMES/CNN44"
-msgstr "Xin"
+msgstr "鑫"
 
 msgid "NAMES/CNN45"
-msgstr "Ling"
+msgstr "凌"
 
 msgid "NAMES/CNN46"
-msgstr "Na"
+msgstr "娜"
 
 msgid "NAMES/CNN47"
-msgstr "Min"
+msgstr "閔"
 
 msgid "NAMES/CNN5"
-msgstr "Daosheng"
+msgstr "安道生"
 
 msgid "NAMES/CNN6"
-msgstr "Zhiguang"
+msgstr "志光"
 
 msgid "NAMES/CNN7"
-msgstr "Tong"
+msgstr "童"
 
 msgid "NAMES/CNN8"
-msgstr "Dapeng"
+msgstr "大鵬"
 
 msgid "NAMES/CNN9"
-msgstr "Xiangdong"
+msgstr "張向東"
 
 msgid "RANKSCN/1"
-msgstr "Colonel"
+msgstr "陸軍上校"
 
 msgid "RANKSCN/10"
-msgstr "Sergeant"
+msgstr "軍士"
 
 msgid "RANKSCN/2"
-msgstr "Lt.Colonel"
+msgstr "Lt.團長"
 
 msgid "RANKSCN/3"
-msgstr "Major"
+msgstr "主要"
 
 msgid "RANKSCN/4"
-msgstr "Senior Captain"
+msgstr "大尉"
 
 msgid "RANKSCN/5"
-msgstr "Captain"
+msgstr "隊長"
 
 msgid "RANKSCN/6"
-msgstr "1st Lieutenant"
+msgstr "第一中尉"
 
 msgid "RANKSCN/7"
-msgstr "2nd Lieutenant"
+msgstr "第二中尉"
 
 msgid "RANKSCN/8"
-msgstr "Warrant Officer"
+msgstr "準尉"
 
 msgid "RANKSCN/9"
-msgstr "Sergeant 1st Class"
+msgstr "中士一等"

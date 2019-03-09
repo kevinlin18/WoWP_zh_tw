@@ -10,7 +10,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 2.0.5\n"
+"X-Generator: Poedit 2.2.1\n"
 
 msgid "CHAT_LOBBY_DISABLED_MESSAGE"
 msgstr "禁止聊天 {time}{reason}"
@@ -252,10 +252,10 @@ msgid "LOBBY_HEADER_BOUGHT"
 msgstr "交易："
 
 msgid "LOBBY_HEADER_CONSUMABLES_REFILL"
-msgstr "補充消耗品: {name}"
+msgstr "補充耗材: {name}"
 
 msgid "LOBBY_HEADER_CONSUMABLES_REFILL_FAILED"
-msgstr "無法補充消耗品"
+msgstr "無法補充耗材"
 
 msgid "LOBBY_HEADER_DAILY_WIN"
 msgstr "獲得"
@@ -339,7 +339,7 @@ msgid "LOBBY_MSG_CONSUMABLES_REFILL_FAILED"
 msgstr "資金不夠"
 
 msgid "LOBBY_MSG_CONSUMABLES_REFILL_FREE_PVE"
-msgstr "免費補充消耗品"
+msgstr "免費補充耗材"
 
 msgid "LOBBY_MSG_CREDITS"
 msgstr "{credits} 銀幣"
@@ -480,198 +480,191 @@ msgid "MEDAL_GAIN_BONUS"
 msgstr "收到 {name}:"
 
 msgid "MESSAGES_AIRCRAFT_AND_HANGARSLOT_BOUGHT"
-msgstr "Aircraft {name} and a slot in Hangar purchased."
+msgstr "購買{name}飛機和機庫中的一個插槽。"
 
 msgid "MESSAGES_ALL_EQUIPMENTS_AND_CONSUMABLES_UNINSTALLED_COMPENSATION_TEXT_1"
-msgstr ""
-"All equipment and consumables were demounted from the aircraft and sent to "
-"Depot. Equipment characteristics changed."
+msgstr "所有設備和耗材均從飛機上卸下並送至倉庫使設備特性發生變化。 "
 
 msgid "MESSAGES_ALL_EQUIPMENTS_AND_CONSUMABLES_UNINSTALLED_COMPENSATION_TEXT_2"
 msgstr ""
-"<br><font size='6'><br></font>Equipment and consumables that have no "
-"equivalents in the new aircraft progression system were removed. Their cost "
-"was compensated in credits.<br><font size='6'><br></font>Ammunition belts "
-"were transformed into the corresponding \"<font color='#{1}'>Ammunition</"
-"font>\" consumables.<br><font size='6'><br></font>Bombs and rockets were "
-"removed. Their cost was also compensated in credits."
+"<br> <font size ='6'> <br> </ font>刪除了新飛機升級系統中沒有等效物的設備和耗"
+"材。 他們的費用用學分補償。<br> <font size ='6'> <br> </ font>彈藥帶被轉換成"
+"相應的“<font color ='＃{1}'>彈藥</ font>” 耗材。<br> <font size ='6'> <br> "
+"</ font>炸彈和火箭被移除。 他們的費用也得到了補償。"
 
 msgid "MESSAGES_ATTACK_ENDED"
-msgstr "Attack has ended!"
+msgstr "攻擊已經結束！"
 
 msgid "MESSAGES_BONUS_GOLD_NY"
 msgstr "金幣加成:"
 
 msgid "MESSAGES_BUTTON_GET_PLANE"
-msgstr "Get Aircraft"
+msgstr "獲得飛機"
 
 msgid "MESSAGES_COMPENSATION"
-msgstr "Compensation:"
+msgstr "補償："
 
 msgid "MESSAGES_CONGRATULATION_YOU_CAN_GET_PLANE"
-msgstr "Congratulations! You can claim your aircraft."
+msgstr "恭喜！ 可以領取你的飛機。"
 
 msgid "MESSAGES_CONSUMABLES_NAMES_SOLD"
-msgstr "Consumable \"{module_name}\" sold."
+msgstr "耗材“{module_name}”已售出。"
 
 msgid "MESSAGES_CONSUMABLES_NAMES_UNLOADED"
-msgstr "Сonsumable {module_name} sent to the Depot."
+msgstr "耗材{module_name}發送到倉庫。"
 
 msgid "MESSAGES_CONSUMABLE_PURCHASED"
-msgstr "Consumable \"{module_name}\" purchased."
+msgstr "購買“{module_name}”耗材。"
 
 msgid "MESSAGES_CONSUMABLE_PURCHASED_FOR_AMOUNT"
-msgstr "Consumable \"{module_name}\" ({amount}) purchased."
+msgstr "購買“{module_name}”（{amount}）耗材。"
 
 msgid "MESSAGES_DIRECTIVE_ACTIVATED"
-msgstr "Operation Order Activated"
+msgstr "操作訂單已激活"
 
 msgid "MESSAGES_DIRECTIVE_DEACTIVATED"
-msgstr "Operation Order Deactivated"
+msgstr "操作訂單已停用"
 
 msgid "MESSAGES_DIRECTIVE_DEDUCT"
-msgstr "Operation order removed."
+msgstr "操作訂單已刪除。"
 
 msgid "MESSAGES_DIRECTIVE_IN_INVENTORY"
-msgstr "Operation order is available in the Inventory."
+msgstr "庫存中提供了操作訂單。"
 
 msgid "MESSAGES_DIRECTIVE_PURCHASED"
-msgstr "Operation order purchased."
+msgstr "購買的操作訂單。"
 
 msgid "MESSAGES_DIRECTIVE_RECEIVED"
-msgstr "Operation Order Added to Your Account"
+msgstr "添加到您帳戶的操作訂單"
 
 msgid "MESSAGES_DIRECTIVE_SOLD"
-msgstr "Operation order sold."
+msgstr "已售出運營訂單。"
 
 msgid "MESSAGES_DIR_ACTIVATION_HEADER"
-msgstr "Activate Operation Order"
+msgstr "激活操作訂單"
 
 msgid "MESSAGES_DIR_ACTIVATION_TEXT"
-msgstr "Operation order for {aircraft_name} activated."
+msgstr "已激活{aircraft_name}的操作順序。"
 
 msgid "MESSAGES_DIR_CANT_BE_PROLONGED_FOR_H"
-msgstr ""
-"The operation order time cannot be extended: the event is in its final stage."
+msgstr "操作訂單時間無法延長：事件處於最後階段。"
 
 msgid "MESSAGES_DIR_DEDUCTED_HEADER"
-msgstr "Remove Operation Order"
+msgstr "刪除操作訂單"
 
 msgid "MESSAGES_DIR_DEDUCTED_TEXT"
-msgstr "Operation order for {aircraft_name} removed."
+msgstr "刪除了{aircraft_name}的操作順序。"
 
 msgid "MESSAGES_DIR_GAINED_TEXT"
-msgstr "Operation order for {aircraft_name} added to the account."
+msgstr "添加到帳戶的{aircraft_name}的操作順序。"
 
 msgid "MESSAGES_DIR_GAIN_HEADER"
-msgstr "Add Operation Order"
+msgstr "添加操作訂單"
 
 msgid "MESSAGES_DIR_ON_PLANE_DONE"
-msgstr ""
-"Congratulations! The operation order for the {aircraft_name} was executed."
+msgstr "恭喜！ 執行了{aircraft_name}的操作順序。"
 
 msgid "MESSAGES_DIR_ON_PLANE_RECEIVED"
-msgstr "Operation order for {aircraft_name} received."
+msgstr "收到{aircraft_name}的操作順序。"
 
 msgid "MESSAGES_DIR_PROGRESSION_HEADER"
-msgstr "Execute Operation Order"
+msgstr "執行操作指令"
 
 msgid "MESSAGES_DIR_PROLONGED_FOR_H"
-msgstr "Operation order for {aircraft_name} extended by {time} h."
+msgstr "{aircraft_name}的操作順序延長{time} 小時。"
 
 msgid "MESSAGES_DIR_QUESTS_HEADER"
-msgstr "Operation Order Missions"
+msgstr "行動命令任務"
 
 msgid "MESSAGES_DIR_QUEST_TIME_OVER"
-msgstr "The time for executing the operation order has expired."
+msgstr "執行操作指令的時間已逾期。"
 
 msgid "MESSAGES_DIR_REFUSE_HEADER"
-msgstr "Decline Operation Order"
+msgstr "拒絕操作訂單"
 
 msgid "MESSAGES_DIR_REFUSE_TEXT"
-msgstr "You declined the operation order."
+msgstr "您拒絕了操作訂單。"
 
 msgid "MESSAGES_EQUIPMENTS_NAME_SOLD"
-msgstr "Equipment \"{module_name}\" sold."
+msgstr "已售出“{module_name}”設備。"
 
 msgid "MESSAGES_EQUIPMENT_CALIBRATION"
-msgstr "Equipment \"{module_name}\" calibration attempt"
+msgstr "嘗試校準“{module_name}”設備。"
 
 msgid "MESSAGES_EQUIPMENT_CALIBRATION_CANCELED"
-msgstr "Equipment \"{module_name}\" calibration canceled."
+msgstr "設備已取消“{module_name}”校準。"
 
 msgid "MESSAGES_EQUIPMENT_CALIBRATION_DONE"
-msgstr "Equipment \"{module_name}\" calibrated."
+msgstr "已校準“{module_name}”設備。"
 
 msgid "MESSAGES_EQUIPMENT_CALIBRATION_HEADER"
-msgstr "Calibrate Equipment"
+msgstr "校準設備"
 
 msgid "MESSAGES_EQUIPMENT_DISMANTLE_DONE"
-msgstr "Equipment \"{module_name}\" disassembled into Materials."
+msgstr "設備“{module_name}”已拆解為“材料”。"
 
 msgid "MESSAGES_EQUIPMENT_DISMANTLE_HEADER"
-msgstr "Disassemble Equipment"
+msgstr "拆卸設備"
 
 msgid "MESSAGES_EQUIPMENT_PURCHASED_FOR_AMOUNT"
-msgstr "Equipment \"{module_name}\" ({amount}) purchased."
+msgstr "購買“{module_name}”（{amount}）設備了。"
 
 msgid "MESSAGES_EQUIPMENT_REBUILD"
-msgstr "Equipment \"{module_name}\" reassembly attempt"
+msgstr "設備“{module_name}”嘗試重組"
 
 msgid "MESSAGES_EQUIPMENT_REBUILD_CANCELED"
-msgstr "Equipment \"{module_name}\" reassembly canceled."
+msgstr "設備“{module_name}”已取消重組。"
 
 msgid "MESSAGES_EQUIPMENT_REBUILD_DONE"
-msgstr "Equipment \"{module_name}\" reassembled."
+msgstr "設備“{module_name}”重新組裝。"
 
 msgid "MESSAGES_EQUIPMENT_REBUILD_HEADER"
-msgstr "Reassemble Equipment"
+msgstr "重新組裝設備"
 
 msgid "MESSAGES_EQUIPMENT_UPGRADED"
-msgstr "Equipment \"{module_name}\" enhanced."
+msgstr "設備“{module_name}”已增強。"
 
 msgid "MESSAGES_EXCLUSIVE_CAMO"
-msgstr "Unique paint scheme"
+msgstr "獨特的塗裝方案"
 
 msgid "MESSAGES_EXCLUSIVE_EMBLEM"
-msgstr "Unique emblem"
+msgstr "獨特的徽記"
 
 msgid "MESSAGES_FACTORY_NEW_PLANE_STATE_COMPLECTATION_INSTALLED"
-msgstr "<font color='#{1}'>Stock configuration</font> mounted."
+msgstr "已安裝<font color ='＃{1}'>庫存配置</ font>。"
 
 msgid "MESSAGES_FAST_TRAINING_PILOT"
 msgstr "乘員快速訓練"
 
 msgid "MESSAGES_GET_PLANE_FOR_FREE"
-msgstr "You can get the aircraft for free!"
+msgstr "你可以免費獲得飛機！"
 
 msgid "MESSAGES_MAINTENANCE_DONE"
-msgstr "Aircraft serviced."
+msgstr "飛機維修。"
 
 msgid "MESSAGES_MAP_CLEANED_DESCRIPTION"
-msgstr ""
-"The salvage party has collected all valuable Materials from the battlefield."
+msgstr "從戰場上收集了所有打撈活動有價值的材料。"
 
 msgid "MESSAGES_MAP_CLEANED_HEADER"
-msgstr "Battlefield cleared!"
+msgstr "戰地清除！"
 
 msgid "MESSAGES_MODULE_NAMES_SOLD"
-msgstr "Modules {module_name} sold."
+msgstr "模塊{module_name}已售出。"
 
 msgid "MESSAGES_MODULE_NAME_SOLD"
-msgstr "Module {module_name} sold."
+msgstr "模塊{module_name}已售出。"
 
 msgid "MESSAGES_NEW_QUESTS_AVAILABLE"
-msgstr "New missions are available."
+msgstr "可接新任務。"
 
 msgid "MESSAGES_PLANE_MODULE_PURCHASED_AND_INSTALLED"
-msgstr "Module {module_name} purchased and mounted."
+msgstr "購買並裝載了模塊{module_name}。"
 
 msgid "MESSAGES_PLANE_RESEARCHED"
-msgstr "Aircraft researched."
+msgstr "飛機研究。"
 
 msgid "MESSAGES_PROGRESS_QUESTS_RESET"
-msgstr "Mission progress reset."
+msgstr "任務進度重置。"
 
 msgid "MESSAGES_RECIEVED_ACHIEVEMENT_WG_FEST"
 msgstr ""
@@ -679,9 +672,7 @@ msgstr ""
 "знак."
 
 msgid "MESSAGES_RECIEVED_GIFT_SECRET_SANTA"
-msgstr ""
-"{username}, happy holidays! You have received a <font color='#color'>gift</"
-"font>!"
+msgstr "{username}，節日快樂！ 您收到了<font color ='＃color'>禮物</ font>！"
 
 msgid "MESSAGES_RESET_SKILLS_PILOT"
 msgstr "重置乘員技能"
@@ -690,34 +681,30 @@ msgid "MESSAGES_RETRAINING_PILOT"
 msgstr "訓練乘員"
 
 msgid "MESSAGES_SECRET_SANTA_2017"
-msgstr "Santa's Bag"
+msgstr "聖誕老人的禮物袋"
 
 msgid "MESSAGES_SECRET_SANTA_COMPENSATION"
 msgstr ""
-"Pilot! <font color='#'>Santa's bag</font> has been opened. All presents "
-"found have been added to your account."
+"飛行員！ <font color ='＃'>聖誕老人的禮物袋</ font>已經打開了。獲得所有禮物都"
+"已添加到您的帳戶中。"
 
 msgid "MESSAGES_SETUP_MODULES"
-msgstr "Mount Modules"
+msgstr "安裝模塊"
 
 msgid "MESSAGES_SPECIAL_PLANE_STATE_COMPLECTATION_INSTALLED"
-msgstr "The \"<font color='#{1}'>Specialist</font>\" configuration mounted."
+msgstr "已安裝“<font color ='＃{1}'>專家</ font>”配置。"
 
 msgid "MESSAGES_SPECIAL_PLANE_STATE_COMPLECTATION_PURCHASED_AND_INSTALLED"
-msgstr ""
-"The \"<font color='#{1}'>Specialist</font>\" configuration purchased and "
-"mounted."
+msgstr "購買並安裝了“<font color ='＃{1}'>專家</ font>”配置。"
 
 msgid "MESSAGES_THIS_IS_ALL_YOURS"
-msgstr "The purchased item was added to your account."
+msgstr "購買的商品已添加到您的帳戶中。"
 
 msgid "MESSAGES_TROPHY_COMPENSATION"
-msgstr ""
-"Pilot! The loot crate was opened. All items found have been added to your "
-"account."
+msgstr "飛行員！ 你的戰利品箱已打開了， 獲得所有商品都已添加到您的帳戶中。"
 
 msgid "MESSAGES_UNIQUE_EMBLEM"
-msgstr "Exclusive nose art"
+msgstr "獨家機鼻塗裝藝術"
 
 msgid "MESSAGE_ACHIEVEMENT"
 msgstr "成就:"
@@ -741,10 +728,10 @@ msgid "MESSAGE_ERROR_TEXT"
 msgstr "錯誤！"
 
 msgid "MESSAGE_EVENT_ENDED"
-msgstr "Event finished"
+msgstr "活動結束了"
 
 msgid "MESSAGE_EVENT_STARTED"
-msgstr "Event started"
+msgstr "活動開始了"
 
 msgid "MESSAGE_MODULES_EXPLORED_SUCCESSFULLY"
 msgstr "裝備 {name} 研發完成。"
@@ -897,48 +884,46 @@ msgid "POPUP_WINDOW_CLOSE"
 msgstr "關閉"
 
 msgid "SYSTEM_MESSAGE_ACCOUNT_ECONOMIC_CONSUMABLES_AMOUNT_PURCHASED_SUCCESSFULLY"
-msgstr "\"{module_name}\" boosters ({amount}) purchased."
+msgstr "購買了“{module_name}”促銷品（{amount}）。"
 
 msgid "SYSTEM_MESSAGE_ACCOUNT_ECONOMIC_CONSUMABLES_CATEGORY_CREDITS_PROFIT"
-msgstr "Bonus to credits:"
+msgstr "獎勵積分："
 
 msgid "SYSTEM_MESSAGE_ACCOUNT_ECONOMIC_CONSUMABLES_CATEGORY_EXP_PROFIT"
-msgstr "Bonus to aircraft XP:"
+msgstr "飛機XP獎勵："
 
 msgid "SYSTEM_MESSAGE_ACCOUNT_ECONOMIC_CONSUMABLES_DURING_MAINT_BONUS_SUSPENDED"
-msgstr ""
-"The effect of boosters was suspended for the maintenance period and restored "
-"after the maintenance was completed."
+msgstr "促銷品的效果在維護期間暫停，並在維護完成後恢復。"
 
 msgid "SYSTEM_MESSAGE_ACCOUNT_ECONOMIC_CONSUMABLES_PROFIT"
-msgstr "Received for the period the booster was active:"
+msgstr "促銷品在活躍期間收到："
 
 msgid "SYSTEM_MESSAGE_ACCOUNT_ECONOMIC_CONSUMABLES_SOLD_SUCCESSFULLY"
-msgstr "\"{module_name}\" boosters ({amount}) sold."
+msgstr "“{module_name}”促銷品（{amount}）已售出。"
 
 msgid "SYSTEM_MESSAGE_ACCOUNT_ECONOMIC_CONSUMABLES_TIME_LEFT"
-msgstr "Time left:"
+msgstr "剩下的時間："
 
 msgid "SYSTEM_MESSAGE_ACCOUNT_ECONOMIC_CONSUMABLE_ACTIVATED"
-msgstr "The \"{variable_name}\" booster activated."
+msgstr "激活了“{variable_name}”促銷品。"
 
 msgid "SYSTEM_MESSAGE_ACCOUNT_ECONOMIC_CONSUMABLE_BONUS_ENDED"
-msgstr "The \"{variable_name}\" booster expired."
+msgstr "“{variable_name}”促銷品已過期。"
 
 msgid "SYSTEM_MESSAGE_ACCOUNT_ECONOMIC_CONSUMABLE_PURCHASED_AND_ACTIVATED"
-msgstr "\"{module_name}\" booster purchased and activated."
+msgstr "購買並激活了“{module_name}”促銷品。"
 
 msgid "SYSTEM_MESSAGE_ACCOUNT_ECONOMIC_CONSUMABLE_PURCHASED_SUCCESSFULLY"
-msgstr "\"{module_name}\" booster purchased."
+msgstr "購買了“{module_name}”促銷品。"
 
 msgid "SYSTEM_MESSAGE_ACCOUNT_ECONOMIC_CONSUMABLE_SOLD_SUCCESSFULLY"
-msgstr "\"{module_name}\" booster sold."
+msgstr "“{module_name}”促銷活動已售出。"
 
 msgid "SYSTEM_MESSAGE_ALBION_EVENT_BEGAN"
-msgstr "The <font color='#{color}'>Skies of Albion</font> event is underway!"
+msgstr "<font color ='＃{color}'>阿爾比恩的天空</ font>活動正在進行中！"
 
 msgid "SYSTEM_MESSAGE_ALBION_EVENT_END"
-msgstr "The <font color='#{color}'>Skies of Albion</font> event is over!"
+msgstr "<font color ='＃{color}'> 阿爾比恩 </ font>事件的天空結束了！"
 
 msgid "SYSTEM_MESSAGE_ALL_CREW_LEARNED_BASICS"
 msgstr "所有 {plane_name} 乘員熟練度提升至100%"
@@ -1025,51 +1010,46 @@ msgid "SYSTEM_MESSAGE_CAMO_PLANE"
 msgstr "{plane_name} 個人化塗裝方案"
 
 msgid "SYSTEM_MESSAGE_CANDYS_COLLECTED"
-msgstr "Collected:"
+msgstr "收集："
 
 msgid "SYSTEM_MESSAGE_CHOOSE_HANGAR_HOLIDAY"
 msgstr "更改"
 
 msgid "SYSTEM_MESSAGE_COMPENSATION_TROPHY_ALBION_OPERATION_OFF"
 msgstr ""
-"Loot crates that you did not open during the <font color='#'>Skies of "
-"Albion</font> event have been opened automatically. All prizes from the loot "
-"crates have been added to your account."
+"在<font color ='＃'>阿爾比恩的天空 </ font>事件期間未打開搶來的包裝箱已自動打"
+"開。 來自戰利品箱的所有獎品都已添加到您的帳戶中。"
 
 msgid "SYSTEM_MESSAGE_COMPENSATION_TROPHY_EVENT_OFF"
-msgstr ""
-"Supply crates that you did not open during the event have been converted to "
-"standard Supply crates."
+msgstr "在活動期間未打開的供應箱已轉換為標準供應箱。"
 
 msgid "SYSTEM_MESSAGE_COMPENSATION_TROPHY_JA_TR_OFF"
 msgstr ""
-"Loot crates that you did not open during the <font color='#{color}'>"
-"\"Japanese Threat\"</font> event have been opened automatically. All prizes "
-"from the loot crates have been added to your account."
+"在<font color ='＃{color}'>“日本的威脅”</ font>事件期間未打開搶來的包裝箱已自"
+"動打開。 來自戰利品箱的所有獎品都已添加到您的帳戶中。"
 
 msgid "SYSTEM_MESSAGE_COMPENSATION_TROPHY_NO_CAMP_OFF"
 msgstr ""
-"Loot crates that you did not open during the <font color='#{color}'>Battle "
-"for Thor's Hammer</font> event have been opened automatically. All prizes "
-"from the loot crates have been added to your account."
+"在<font color ='＃{color}'> 戰雷之鎚</ font>事件期間未打開搶來的包裝箱已自動"
+"打開。 來自戰利品箱的所有獎品都已添加到您的帳戶中。"
 
 msgid "SYSTEM_MESSAGE_COMPONENT_DEVICES"
-msgstr "Flight Instruments:"
+msgstr "飛行儀器："
 
 msgid "SYSTEM_MESSAGE_COMPONENT_ELECTRONICS"
-msgstr "Radio Electronics:"
+msgstr "無線電電子："
 
 msgid "SYSTEM_MESSAGE_COMPONENT_GEARS"
-msgstr "Mechanical Parts:"
+msgstr "機械部件："
 
 msgid "SYSTEM_MESSAGE_COMPONENT_GUNS"
-msgstr "Weapon Parts:"
+msgstr "武器部件："
 
 msgid "SYSTEM_MESSAGE_COMPONENT_HULL"
-msgstr "Airframe Elements:"
+msgstr "機身元素："
 
 msgid "SYSTEM_MESSAGE_COMPONENT_STURDY"
-msgstr "Heat-Resistant Parts:"
+msgstr "耐熱部件："
 
 msgid "SYSTEM_MESSAGE_CONTEXT_INCLUDING"
 msgstr "包含:"
@@ -1096,12 +1076,12 @@ msgid "SYSTEM_MESSAGE_CREW_NEW_SKILLS_AVAILABLE"
 msgstr "有新技能可學習!"
 
 msgid "SYSTEM_MESSAGE_DEDUCTED"
-msgstr "Deducted:"
+msgstr "扣除："
 
 msgid "SYSTEM_MESSAGE_DEERPILOT_ON_HAWKER"
 msgstr ""
-"Pilot <font color='#{ffd57e}'>Rudolph Hawker</font> for the Premium <font "
-"color='#{ffd57e}'>Hawker P.V.3</font>"
+"飛行員 <font color ='＃{ffd57e}'> 魯道夫霍克</ font> 對於高級 <font color "
+"='＃{ffd57e}'> 霍克 P.V.3 </ font>"
 
 msgid "SYSTEM_MESSAGE_DETAILED_INFO_UNAVAILABLE"
 msgstr "無法檢視詳細資訊"
@@ -1110,7 +1090,7 @@ msgid "SYSTEM_MESSAGE_DISCOUNT_PLANES"
 msgstr "{number}%的折扣套用於 {plane_name}"
 
 msgid "SYSTEM_MESSAGE_DISMISS_CREW"
-msgstr "Dismiss"
+msgstr "解僱"
 
 msgid "SYSTEM_MESSAGE_EMBLEM_ANY"
 msgstr "徽章適用於任何國家的戰機"
@@ -1150,14 +1130,13 @@ msgstr "額外加成"
 
 msgid "SYSTEM_MESSAGE_FR_PACK_SUCCESSFUL_PURCHASE"
 msgstr ""
-"Bundle of the <font color='#{color}'>{plane_name1}</font> and <font "
-"color='#{color}'>{plane_name2}</font> aircraft purchased."
+"購買了<font color ='＃{color}'> {plane_name1} </ font>和<font color ='＃"
+"{color}'> {plane_name2} </ font>飛機的捆綁包。"
 
 msgid "SYSTEM_MESSAGE_FR_PACK_UNIQUE_CAMO_EMBLEM"
 msgstr ""
-"Unique paint scheme, nose art, and emblem for the <font "
-"color='#{color}'>{plane_name1}</font> and <font "
-"color='#{color}'>{plane_name2}</font> aircraft"
+"<font color ='＃{color}'> {plane_name1} </ font>和<font color ='＃{color}'> "
+"{plane_name2} </ font>飛機的獨特塗裝方案，機鼻藝術和徽章"
 
 msgid "SYSTEM_MESSAGE_GOLD_ACCESS_DENIED"
 msgstr ""
@@ -1180,7 +1159,7 @@ msgid "SYSTEM_MESSAGE_GOLD_UNAVAILABLE_REFILL_FOR_CREDITS"
 msgstr "暫時無法補充金幣<br>補充銀幣"
 
 msgid "SYSTEM_MESSAGE_GUNNER_DISMISS"
-msgstr "Gunner {crew_name} dismissed"
+msgstr "槍手 {crew_name}被解雇了"
 
 msgid "SYSTEM_MESSAGE_HANGAR_HOLIDAY"
 msgstr "飛行員，您使用了節日背景。您可以在設定介面裡更改背景。"
@@ -1195,7 +1174,7 @@ msgid "SYSTEM_MESSAGE_HEADER_HANGAR_HOLIDAY"
 msgstr "節日背景"
 
 msgid "SYSTEM_MESSAGE_HEADER_PILOT"
-msgstr "Pilot!"
+msgstr "飛行員！"
 
 msgid "SYSTEM_MESSAGE_HEADER_PRIZES"
 msgstr "獎勵"
@@ -1234,31 +1213,31 @@ msgid "SYSTEM_MESSAGE_MODULE_UNINSTALLED_MSGTEXT"
 msgstr "配件{module_name}被卸除。"
 
 msgid "SYSTEM_MESSAGE_NEW_QUEST_AVAILABLE"
-msgstr "New mission available!"
+msgstr "可接新任務！"
 
 msgid "SYSTEM_MESSAGE_NOW_CREW_TRAINING_FASTER"
-msgstr "Now the crew will be trained more quickly."
+msgstr "現在，工作人員將更快地接受培訓。"
 
 msgid "SYSTEM_MESSAGE_NOW_EXP_COLLECT_ON_PLANE"
-msgstr "Now experience will be allocated to the aircraft."
+msgstr "現在經驗將分配給飛機。"
 
 msgid "SYSTEM_MESSAGE_PACK_SLOT_SUCCESSFUL_PURCHASE"
-msgstr "Slots ({number}) in the Hangar purchased."
+msgstr "購買的機庫中的（{number}）插槽。"
 
 msgid "SYSTEM_MESSAGE_PILOT_DISMISS"
-msgstr "Pilot {crew_name} dismissed"
+msgstr "飛行員 {crew_name}被解雇了"
 
 msgid "SYSTEM_MESSAGE_PLACE_IN_RATING"
-msgstr "Rating position:"
+msgstr "排名的位置："
 
 msgid "SYSTEM_MESSAGE_PREMIUM_EXPIRES_IN"
 msgstr "加值帳號將在 {time} 到期"
 
 msgid "SYSTEM_MESSAGE_QUESTS_FOR_PLANE_ACTIVATED"
-msgstr "Personal mission for the {aircraft_name} activated."
+msgstr "已激活{aircraft_name}的個人任務。"
 
 msgid "SYSTEM_MESSAGE_QUESTS_FOR_PLANE_DEACTIVATED"
-msgstr "Personal mission for the {aircraft_name} deactivated."
+msgstr "{aircraft_name}停用的個人任務。"
 
 msgid "SYSTEM_MESSAGE_QUESTS_NEW_QUESTS_AVAILABLE"
 msgstr "可進行的新任務:"
@@ -1276,38 +1255,34 @@ msgid "SYSTEM_MESSAGE_QUESTS_SEVERAL_COMPLETED"
 msgstr "任務完成:"
 
 msgid "SYSTEM_MESSAGE_QUEST_COMPENSATION"
-msgstr ""
-"Pilot! You have already received the \"{name}\" mission and it cannot be "
-"completed again. The mission cost has been compensated."
+msgstr "飛行員！ 您已收到“{name}”任務，無法再次完成。 任務費用得到了補償。"
 
 msgid "SYSTEM_MESSAGE_ROSTELECOM_BONUS"
 msgstr "В рамках тарифного плана «Игровой» вам стали доступны:"
 
 msgid "SYSTEM_MESSAGE_ROSTELECOM_BONUS_DEDUCTED"
-msgstr ""
-"The following items were deducted from your account due to the deactivation "
-"of the \"Igrovoy\" (\"Gamer’s\") plan:"
+msgstr "由於“遊戲”（“玩家的”）計劃：：計劃的停用，以下項目已從您的帳戶中扣除："
 
 msgid "SYSTEM_MESSAGE_SHOW_ALL"
-msgstr "Display All"
+msgstr "全部顯示"
 
 msgid "SYSTEM_MESSAGE_TOTAL_ACCOUNT_BALANCE"
 msgstr "帳號一共獲得:"
 
 msgid "SYSTEM_MESSAGE_TROPHYS_COLON"
-msgstr "Supplies:"
+msgstr "供應："
 
 msgid "SYSTEM_MESSAGE_TROPHY_OPENED"
-msgstr "Supply crate opened!"
+msgstr "供應箱子開了！"
 
 msgid "SYSTEM_MESSAGE_UNIVERSAL_EVENT_BEGAN"
-msgstr "The {event_name} event started!"
+msgstr "{event_name}事件已開始！"
 
 msgid "SYSTEM_MESSAGE_UNIVERSAL_EVENT_END"
-msgstr "The {event_name} event ended!"
+msgstr "{event_name}活動結束了！"
 
 msgid "SYSTEM_MESSAGE_VERY_GOOD"
-msgstr "You have proved yourself an excellent pilot. Keep it up!"
+msgstr "你已經證明了自己是一個優秀的飛行員。 繼續努力吧！"
 
 msgid "SYSTEM_MESSAGE_WING_BATTLE_ERROR_TEXT"
 msgstr "進入戰鬥失敗。請選擇另外一架戰機或者是重新建立編隊。"
@@ -1334,19 +1309,19 @@ msgid "SYSTEM_MESSAGE_WING_PLAYER_INVITES_YOU_TO_WING"
 msgstr "{name} 邀請您加入編隊"
 
 msgid "SYSTEM_MESSAGE_WING_PLAYER_INVITES_YOU_TO_WING_ALT"
-msgstr "Player {name} invites you to join a Flight."
+msgstr "玩家{name}邀請您加入戰鬥。"
 
 msgid "SYSTEM_MESSAGE_WING_PLAYER_JOINED_WING"
-msgstr "Player {name} has joined the Flight."
+msgstr "玩家{name}已加入戰鬥。"
 
 msgid "SYSTEM_MESSAGE_WING_PLAYER_LEAVE"
-msgstr "您離開了編隊。"
+msgstr "您離開編隊了。"
 
 msgid "SYSTEM_MESSAGE_WING_PLAYER_LEFT_WING"
-msgstr "Player {name} has left the Flight."
+msgstr "玩家{name}離開戰鬥了。"
 
 msgid "SYSTEM_MESSAGE_WING_YOU_JOINED_WING"
-msgstr "You have joined the Flight."
+msgstr "你已經加入了飛行。"
 
 msgid "SYSTEM_MESSAGE_XP_OPERATION_IMPOSSIBLE"
 msgstr "無法進行操作，您的自由經驗在帳號同步後才可使用"
@@ -1355,13 +1330,13 @@ msgid "SYSTEM_MESSAGE_XP_RECOVERING_ACCOUNT"
 msgstr "您的自由經驗將在帳號同步後恢復可用"
 
 msgid "SYSTEM_MESSAGE_YOU_COLLECTED_ENOUGH_GET_THIS_GIFT"
-msgstr "You have collected enough candy to get this gift!"
+msgstr "你已經收集了足夠的糖果來獲得這份禮物！"
 
 msgid "SYSTEM_MESSAGE_YOU_COLLECTED_ENOUGH_GET_THIS_SUPERGIFT"
-msgstr "You have collected enough candy to get the top gift!"
+msgstr "你收集了足夠的糖果來獲得最高禮物！"
 
 msgid "SYSTEM_SERVER_ERROR_TRY_AGAIN"
-msgstr "Error receiving details. Please try again."
+msgstr "收到細節時出錯。 請再試一次。"
 
 msgid "VOIP_MESSAGE_HEADER"
 msgstr "語音聊天"
