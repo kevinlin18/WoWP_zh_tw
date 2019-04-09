@@ -57,7 +57,7 @@ msgid "NAMES/GB1010"
 msgstr "巴爾克"
 
 msgid "NAMES/GB1011"
-msgstr "凱裡"
+msgstr "凱里"
 
 msgid "NAMES/GB1012"
 msgstr "查德"
@@ -234,7 +234,7 @@ msgid "NAMES/GB1064"
 msgstr "魯賓"
 
 msgid "NAMES/GB1065"
-msgstr "羅得裡克"
+msgstr "羅得里克"
 
 msgid "NAMES/GB1066"
 msgstr "魯伯特"
@@ -318,7 +318,7 @@ msgid "NAMES/GB109"
 msgstr "波文"
 
 msgid "NAMES/GB1090"
-msgstr "布拉得裡克"
+msgstr "布拉得里克"
 
 msgid "NAMES/GB1091"
 msgstr "布尼爾"
@@ -654,7 +654,7 @@ msgid "NAMES/GB1190"
 msgstr "哈里"
 
 msgid "NAMES/GB1191"
-msgstr "希拉里"
+msgstr "希拉蕊"
 
 msgid "NAMES/GB1192"
 msgstr "修"
@@ -714,7 +714,7 @@ msgid "NAMES/GB1208"
 msgstr "哈里"
 
 msgid "NAMES/GB1209"
-msgstr "希拉里"
+msgstr "希拉蕊"
 
 msgid "NAMES/GB121"
 msgstr "修"
@@ -891,7 +891,7 @@ msgid "NAMES/GB1261"
 msgstr "艾德蒙"
 
 msgid "NAMES/GB1262"
-msgstr "伊裡亞德"
+msgstr "伊里亞德"
 
 msgid "NAMES/GB1263"
 msgstr "伊諾克"
@@ -909,7 +909,7 @@ msgid "NAMES/GB1267"
 msgstr "賈艾斯"
 
 msgid "NAMES/GB1268"
-msgstr "葛裡菲茲"
+msgstr "葛里菲茲"
 
 msgid "NAMES/GB1269"
 msgstr "漢米敦"
@@ -951,7 +951,7 @@ msgid "NAMES/GB128"
 msgstr "林頓"
 
 msgid "NAMES/GB1280"
-msgstr "馬裡奧"
+msgstr "瑪莉歐"
 
 msgid "NAMES/GB1281"
 msgstr "馬特"
@@ -1164,7 +1164,7 @@ msgid "NAMES/GB1343"
 msgstr "鄧尼斯"
 
 msgid "NAMES/GB1344"
-msgstr "唐納德"
+msgstr "唐納"
 
 msgid "NAMES/GB1345"
 msgstr "狄倫"
@@ -1296,7 +1296,7 @@ msgid "NAMES/GB1383"
 msgstr "林頓"
 
 msgid "NAMES/GB1384"
-msgstr "馬裡奧"
+msgstr "瑪莉歐"
 
 msgid "NAMES/GB1385"
 msgstr "馬特"
@@ -1338,7 +1338,7 @@ msgid "NAMES/GB1396"
 msgstr "羅賓"
 
 msgid "NAMES/GB1397"
-msgstr "羅裡"
+msgstr "羅里"
 
 msgid "NAMES/GB1398"
 msgstr "辛普森"
@@ -1443,7 +1443,7 @@ msgid "NAMES/GB1427"
 msgstr "達尼爾"
 
 msgid "NAMES/GB1428"
-msgstr "戴裡克"
+msgstr "戴里克"
 
 msgid "NAMES/GB1429"
 msgstr "道格拉斯"
@@ -1605,7 +1605,7 @@ msgid "NAMES/GB1476"
 msgstr "派恩"
 
 msgid "NAMES/GB1477"
-msgstr "普萊斯考特"
+msgstr "普萊史考特"
 
 msgid "NAMES/GB1478"
 msgstr "昆頓"
@@ -1707,7 +1707,7 @@ msgid "NAMES/GB1506"
 msgstr "卡爾文"
 
 msgid "NAMES/GB1507"
-msgstr "賽得裡克"
+msgstr "賽得里克"
 
 msgid "NAMES/GB1508"
 msgstr "克萊斯特"
@@ -1749,7 +1749,7 @@ msgid "NAMES/GB1519"
 msgstr "傑夫"
 
 msgid "NAMES/GB152"
-msgstr "高德佛裡"
+msgstr "高德佛里"
 
 msgid "NAMES/GB1520"
 msgstr "蓋"
@@ -1974,7 +1974,7 @@ msgid "NAMES/GB1587"
 msgstr "巴爾克"
 
 msgid "NAMES/GB1588"
-msgstr "凱裡"
+msgstr "凱里"
 
 msgid "NAMES/GB1589"
 msgstr "查德"
@@ -2151,7 +2151,7 @@ msgid "NAMES/GB164"
 msgstr "魯賓"
 
 msgid "NAMES/GB1640"
-msgstr "羅得裡克"
+msgstr "羅得里克"
 
 msgid "NAMES/GB1641"
 msgstr "魯伯特"
@@ -2235,7 +2235,7 @@ msgid "NAMES/GB1665"
 msgstr "波文"
 
 msgid "NAMES/GB1666"
-msgstr "布拉得裡克"
+msgstr "布拉得里克"
 
 msgid "NAMES/GB1667"
 msgstr "布尼爾"
@@ -2571,7 +2571,7 @@ msgid "NAMES/GB185"
 msgstr "哈里"
 
 msgid "NAMES/GB186"
-msgstr "希拉里"
+msgstr "希拉蕊"
 
 msgid "NAMES/GB187"
 msgstr "修"
@@ -2631,7 +2631,7 @@ msgid "NAMES/GB202"
 msgstr "哈里"
 
 msgid "NAMES/GB203"
-msgstr "希拉里"
+msgstr "希拉蕊"
 
 msgid "NAMES/GB204"
 msgstr "修"
@@ -2808,7 +2808,7 @@ msgid "NAMES/GB256"
 msgstr "艾德蒙"
 
 msgid "NAMES/GB257"
-msgstr "伊裡亞德"
+msgstr "伊里亞德"
 
 msgid "NAMES/GB258"
 msgstr "貝西墨"
@@ -2826,7 +2826,7 @@ msgid "NAMES/GB261"
 msgstr "賈艾斯"
 
 msgid "NAMES/GB262"
-msgstr "葛裡菲茲"
+msgstr "葛里菲茲"
 
 msgid "NAMES/GB263"
 msgstr "漢米敦"
@@ -2868,7 +2868,7 @@ msgid "NAMES/GB274"
 msgstr "林頓"
 
 msgid "NAMES/GB275"
-msgstr "馬裡奧"
+msgstr "瑪莉歐"
 
 msgid "NAMES/GB276"
 msgstr "馬特"
@@ -3081,7 +3081,7 @@ msgid "NAMES/GB338"
 msgstr "鄧尼斯"
 
 msgid "NAMES/GB339"
-msgstr "唐納德"
+msgstr "唐納"
 
 msgid "NAMES/GB34"
 msgstr "狄倫"
@@ -3213,7 +3213,7 @@ msgid "NAMES/GB378"
 msgstr "林頓"
 
 msgid "NAMES/GB379"
-msgstr "馬裡奧"
+msgstr "瑪莉歐"
 
 msgid "NAMES/GB38"
 msgstr "馬特"
@@ -3255,7 +3255,7 @@ msgid "NAMES/GB390"
 msgstr "羅賓"
 
 msgid "NAMES/GB391"
-msgstr "羅裡"
+msgstr "羅里"
 
 msgid "NAMES/GB392"
 msgstr "辛普森"
@@ -3360,7 +3360,7 @@ msgid "NAMES/GB421"
 msgstr "達尼爾"
 
 msgid "NAMES/GB422"
-msgstr "戴裡克"
+msgstr "戴里克"
 
 msgid "NAMES/GB423"
 msgstr "道格拉斯"
@@ -3522,7 +3522,7 @@ msgid "NAMES/GB470"
 msgstr "派恩"
 
 msgid "NAMES/GB471"
-msgstr "普萊斯考特"
+msgstr "普萊史考特"
 
 msgid "NAMES/GB472"
 msgstr "昆頓"
@@ -3624,7 +3624,7 @@ msgid "NAMES/GB500"
 msgstr "卡爾文"
 
 msgid "NAMES/GB501"
-msgstr "賽得裡克"
+msgstr "賽得里克"
 
 msgid "NAMES/GB502"
 msgstr "克萊斯特"
@@ -3666,7 +3666,7 @@ msgid "NAMES/GB513"
 msgstr "傑夫"
 
 msgid "NAMES/GB514"
-msgstr "高德佛裡"
+msgstr "高德佛里"
 
 msgid "NAMES/GB515"
 msgstr "蓋"
@@ -3891,7 +3891,7 @@ msgid "NAMES/GB581"
 msgstr "巴爾克"
 
 msgid "NAMES/GB582"
-msgstr "凱裡"
+msgstr "凱里"
 
 msgid "NAMES/GB583"
 msgstr "查德"
@@ -4068,7 +4068,7 @@ msgid "NAMES/GB634"
 msgstr "魯賓"
 
 msgid "NAMES/GB635"
-msgstr "羅得裡克"
+msgstr "羅得里克"
 
 msgid "NAMES/GB636"
 msgstr "埃尼斯"
@@ -4152,7 +4152,7 @@ msgid "NAMES/GB66"
 msgstr "波文"
 
 msgid "NAMES/GB660"
-msgstr "布拉得裡克"
+msgstr "布拉得里克"
 
 msgid "NAMES/GB661"
 msgstr "提摩太"
@@ -4488,7 +4488,7 @@ msgid "NAMES/GB760"
 msgstr "哈里"
 
 msgid "NAMES/GB761"
-msgstr "希拉里"
+msgstr "希拉蕊"
 
 msgid "NAMES/GB762"
 msgstr "修"
@@ -4548,7 +4548,7 @@ msgid "NAMES/GB779"
 msgstr "哈里"
 
 msgid "NAMES/GB78"
-msgstr "希拉里"
+msgstr "希拉蕊"
 
 msgid "NAMES/GB780"
 msgstr "修"
@@ -4725,7 +4725,7 @@ msgid "NAMES/GB831"
 msgstr "艾德蒙"
 
 msgid "NAMES/GB832"
-msgstr "伊裡亞德"
+msgstr "伊里亞德"
 
 msgid "NAMES/GB833"
 msgstr "伊諾克"
@@ -4743,7 +4743,7 @@ msgid "NAMES/GB837"
 msgstr "賈艾斯"
 
 msgid "NAMES/GB838"
-msgstr "葛裡菲茲"
+msgstr "葛里菲茲"
 
 msgid "NAMES/GB839"
 msgstr "漢米敦"
@@ -4785,7 +4785,7 @@ msgid "NAMES/GB85"
 msgstr "林頓"
 
 msgid "NAMES/GB850"
-msgstr "馬裡奧"
+msgstr "瑪莉歐"
 
 msgid "NAMES/GB851"
 msgstr "馬特"
@@ -4998,7 +4998,7 @@ msgid "NAMES/GB913"
 msgstr "鄧尼斯"
 
 msgid "NAMES/GB914"
-msgstr "唐納德"
+msgstr "唐納"
 
 msgid "NAMES/GB915"
 msgstr "狄倫"
@@ -5130,7 +5130,7 @@ msgid "NAMES/GB953"
 msgstr "林頓"
 
 msgid "NAMES/GB954"
-msgstr "馬裡奧"
+msgstr "瑪莉歐"
 
 msgid "NAMES/GB955"
 msgstr "馬特"
@@ -5172,7 +5172,7 @@ msgid "NAMES/GB966"
 msgstr "羅賓"
 
 msgid "NAMES/GB967"
-msgstr "羅裡"
+msgstr "羅里"
 
 msgid "NAMES/GB968"
 msgstr "辛普森"
@@ -5277,7 +5277,7 @@ msgid "NAMES/GB998"
 msgstr "達尼爾"
 
 msgid "NAMES/GB999"
-msgstr "戴裡克"
+msgstr "戴里克"
 
 msgid "NAMES/GBN1"
 msgstr "道格拉斯"
@@ -5439,7 +5439,7 @@ msgid "NAMES/GBN146"
 msgstr "派恩"
 
 msgid "NAMES/GBN147"
-msgstr "普萊斯考特"
+msgstr "普萊史考特"
 
 msgid "NAMES/GBN148"
 msgstr "昆頓"
@@ -5583,7 +5583,7 @@ msgid "NAMES/GBN19"
 msgstr "傑夫"
 
 msgid "NAMES/GBN190"
-msgstr "高德佛裡"
+msgstr "高德佛里"
 
 msgid "NAMES/GBN191"
 msgstr "蓋"
@@ -5808,7 +5808,7 @@ msgid "NAMES/GBN257"
 msgstr "巴爾克"
 
 msgid "NAMES/GBN258"
-msgstr "凱裡"
+msgstr "凱里"
 
 msgid "NAMES/GBN259"
 msgstr "井田"
@@ -5985,7 +5985,7 @@ msgid "NAMES/GBN31"
 msgstr "魯賓"
 
 msgid "NAMES/GBN310"
-msgstr "羅得裡克"
+msgstr "羅得里克"
 
 msgid "NAMES/GBN311"
 msgstr "魯伯特"
@@ -6048,7 +6048,7 @@ msgid "NAMES/GBN329"
 msgstr "亞爾維斯"
 
 msgid "NAMES/GBN33"
-msgstr "埃弗裡"
+msgstr "埃弗里"
 
 msgid "NAMES/GBN330"
 msgstr "巴奈特"
@@ -6069,7 +6069,7 @@ msgid "NAMES/GBN335"
 msgstr "波文"
 
 msgid "NAMES/GBN336"
-msgstr "布拉得裡克"
+msgstr "布拉得里克"
 
 msgid "NAMES/GBN337"
 msgstr "布尼爾"
@@ -6465,7 +6465,7 @@ msgid "NAMES/GBN454"
 msgstr "哈里"
 
 msgid "NAMES/GBN455"
-msgstr "希拉里"
+msgstr "希拉蕊"
 
 msgid "NAMES/GBN456"
 msgstr "特雷弗"
@@ -6642,7 +6642,7 @@ msgid "NAMES/GBN67"
 msgstr "艾德蒙"
 
 msgid "NAMES/GBN68"
-msgstr "伊裡亞德"
+msgstr "伊里亞德"
 
 msgid "NAMES/GBN69"
 msgstr "伊諾克"
@@ -6660,7 +6660,7 @@ msgid "NAMES/GBN72"
 msgstr "賈艾斯"
 
 msgid "NAMES/GBN73"
-msgstr "葛裡菲茲"
+msgstr "葛里菲茲"
 
 msgid "NAMES/GBN74"
 msgstr "漢米敦"
@@ -6702,7 +6702,7 @@ msgid "NAMES/GBN85"
 msgstr "林頓"
 
 msgid "NAMES/GBN86"
-msgstr "馬裡奧"
+msgstr "瑪莉歐"
 
 msgid "NAMES/GBN87"
 msgstr "錢德勒"

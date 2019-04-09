@@ -373,7 +373,7 @@ msgid "JOYSTICK_SETTINGS_PITCH_SPEED"
 msgstr "俯仰率"
 
 msgid "JOYSTICK_SETTINGS_RESET_BUTTON"
-msgstr "重置"
+msgstr "重設"
 
 msgid "JOYSTICK_SETTINGS_ROLL"
 msgstr "翻滾"
@@ -454,7 +454,7 @@ msgid "KEYMAPPING/CMD_BOMBING_SIGHT"
 msgstr "切換到Bombsight模式"
 
 msgid "KEYMAPPING/CMD_BOMB_AND_ROCKETS_RELOAD"
-msgstr "重新加載炸彈和火箭"
+msgstr "重新載入炸彈和火箭"
 
 msgid "KEYMAPPING/CMD_CHAT_OFF"
 msgstr "禁用聊天"
@@ -853,7 +853,7 @@ msgid "REMAP_KEY3_TEXT"
 msgstr "鍵3"
 
 msgid "REMAP_KEY_BUTTON"
-msgstr "重置"
+msgstr "重設"
 
 msgid "RESET_ALLKEY_BUTTON"
 msgstr "恢復設定"
@@ -920,7 +920,7 @@ msgstr "生命值"
 
 msgid "SETTINGS_AIRCRAFT_DETAILS_MESSAGE_MARKER_TYPE_WARNING"
 msgstr ""
-"注意！這種類型的普通標記將會使飛機在2000米的距離就能被看見。替換標記將使得在"
+"注意！這種類型的普通標記將會使飛機在2000公尺的距離就能被看見。替換標記將使得在"
 "任何距離都能被看見。"
 
 msgid "SETTINGS_AIRCRAFT_DETAILS_PLAYER_NAME"
@@ -1199,7 +1199,7 @@ msgid "SETTINGS_CAMERA_EFFECTS"
 msgstr "相機效果"
 
 msgid "SETTINGS_CAMERA_EFFECTS_CHECKBOX"
-msgstr "啟用攝像效果"
+msgstr "啟用攝影效果"
 
 msgid "SETTINGS_CAMERA_EFFECTS_CHECKBOX_TOOLTIP"
 msgstr "啟用視角跟隨戰機運動方向移動"
@@ -1277,7 +1277,7 @@ msgid "SETTINGS_CHECKBOX_ENABLE_COLLISION_DETECTION_SYSTEM"
 msgstr "啟用碰撞警告"
 
 msgid "SETTINGS_CHECKBOX_RESPONSE_INCREASE"
-msgstr "啟用遊戲客戶端控制處理"
+msgstr "啟用遊戲用戶端控制處理"
 
 msgid "SETTINGS_CHECKBOX_ROTATE_PLAYER_MINIMAP_FIXED"
 msgstr "旋轉玩家標記 (地圖標記固定)"
@@ -1322,7 +1322,7 @@ msgid "SETTINGS_COMMON_MEASUREMENT_METRIC"
 msgstr "公制"
 
 msgid "SETTINGS_COMMON_MEASUREMENT_ROYAL"
-msgstr "英制"
+msgstr "英製"
 
 msgid "SETTINGS_CONTEXT_ADVANCE_POINT_COLOR"
 msgstr "射擊指示環顏色:"
@@ -1657,34 +1657,34 @@ msgstr "測試螢幕解析度: {resolution}…"
 
 msgid "SETTINGS_GRAPH_AUTODETECT_TOO_HIGH_MESSAGE"
 msgstr ""
-"您目前使用 {settings_1} 圖形設定和 {resolution_1} 的螢幕解析度，遊戲客戶端檢"
+"您目前使用 {settings_1} 圖形設定和 {resolution_1} 的螢幕解析度，遊戲用戶端檢"
 "測認為您目前的設定不能保證最佳的遊戲體驗。<br>建議您將圖形設定調整為 "
 "{settings_2} 並且使用 {resolution_2} 的螢幕解析度。"
 
 msgid "SETTINGS_GRAPH_AUTODETECT_TOO_HIGH_RESOLUTION_ONLY_MESSAGE"
 msgstr ""
-"您目前使用 {resolution_1} 的螢幕解析度，遊戲客戶端檢測認為您目前的設定不能保"
+"您目前使用 {resolution_1} 的螢幕解析度，遊戲用戶端檢測認為您目前的設定不能保"
 "證遊戲的最佳體驗。<br>建議您調整使用 {resolution_2} 的螢幕解析度。"
 
 msgid "SETTINGS_GRAPH_AUTODETECT_TOO_HIGH_SETTINGS_ONLY_MESSAGE"
 msgstr ""
-"您目前使用 {settings_1} 圖形設定，遊戲客戶端檢測認為您目前的設定不能保證遊戲"
+"您目前使用 {settings_1} 圖形設定，遊戲用戶端檢測認為您目前的設定不能保證遊戲"
 "的最佳體驗。<br>建議您調整使用 {settings_2} 圖形設定。"
 
 msgid "SETTINGS_GRAPH_AUTODETECT_TOO_LOW_BOTH_MESSAGE"
 msgstr ""
-"遊戲客戶端檢測到您正在使用 {settings_1} 圖形設定和 {resolution_1} 的螢幕分辨"
+"遊戲用戶端檢測到您正在使用 {settings_1} 圖形設定和 {resolution_1} 的螢幕分辨"
 "率，您能夠調整使用 {settings_2} 圖形設定和 {resolution_2} 的螢幕解析度並且不"
 "會影響到您的遊戲體驗。"
 
 msgid "SETTINGS_GRAPH_AUTODETECT_TOO_LOW_MESSAGE"
 msgstr ""
-"遊戲客戶端檢測到您正在使用 {settings_1} 圖形設定，您能夠調整使用 "
+"遊戲用戶端檢測到您正在使用 {settings_1} 圖形設定，您能夠調整使用 "
 "{settings_2} 圖形設定並且不會影響到您的遊戲體驗。"
 
 msgid "SETTINGS_GRAPH_AUTODETECT_TOO_LOW_RESOLUTION_MESSAGE"
 msgstr ""
-"遊戲客戶端檢測到您正在使用 {resolution_1} 的螢幕解析度，您能夠調整使用 "
+"遊戲用戶端檢測到您正在使用 {resolution_1} 的螢幕解析度，您能夠調整使用 "
 "{resolution_2} 的螢幕解析度並且不會影響到您的遊戲體驗。"
 
 msgid "SETTINGS_GRAPH_AUTODETECT_USE_MANUAL_BUTTON"
@@ -1927,13 +1927,13 @@ msgid "SETTINGS_HUD"
 msgstr "戰鬥"
 
 msgid "SETTINGS_INFO_ABOUT_ENEMY"
-msgstr "有關敵人的詳細信息"
+msgstr "有關敵人的詳細訊息"
 
 msgid "SETTINGS_INFO_ABOUT_PLANE_CONSUMABLES_TIPS-ECT"
 msgstr "飛機詳情"
 
 msgid "SETTINGS_INFO_ABOUT_SECTORS-ECT"
-msgstr "遊戲模式標記的詳細信息"
+msgstr "遊戲模式標記的詳細訊息"
 
 msgid "SETTINGS_INTERFACE_ADDITIONAL_SETTINGS"
 msgstr "更多"
@@ -2188,7 +2188,7 @@ msgid "SETTINGS_MARKERS_ALWAYS"
 msgstr "總是"
 
 msgid "SETTINGS_MARKERS_AMOUNT_AND_CALIBER_WEAPONS"
-msgstr "槍支的數量和口徑"
+msgstr "槍枝的數量和口徑"
 
 msgid "SETTINGS_MARKERS_AMOUNT_BOOST_AT_THIS_MOMENT"
 msgstr "提升點數 (current value)"
@@ -2212,13 +2212,13 @@ msgid "SETTINGS_MARKERS_APPLY_TO_CLASS"
 msgstr "套用於指定戰機:"
 
 msgid "SETTINGS_MARKERS_ARROWS_DEFENDERS"
-msgstr "防空飛機箭頭圖標"
+msgstr "防空飛機箭頭圖示"
 
 msgid "SETTINGS_MARKERS_ARROWS_PLANE"
-msgstr "飛機箭頭圖標"
+msgstr "飛機箭頭圖示"
 
 msgid "SETTINGS_MARKERS_ARROW_IN_CENTER_AND_EDGES_SCREEN"
-msgstr "箭頭位於屏幕中央和邊緣"
+msgstr "箭頭位於螢幕中央和邊緣"
 
 msgid "SETTINGS_MARKERS_BANNERS"
 msgstr "成就通知"
@@ -2239,7 +2239,7 @@ msgid "SETTINGS_MARKERS_BATTLE_RECOMENDATIONS"
 msgstr "戰鬥建議"
 
 msgid "SETTINGS_MARKERS_BATTLE_RECOMENDATIONS_ICONS"
-msgstr "戰鬥建議的圖標"
+msgstr "戰鬥建議的圖示"
 
 msgid "SETTINGS_MARKERS_BIG_CALIBER_GUN"
 msgstr "大口徑自動炮"
@@ -2269,7 +2269,7 @@ msgid "SETTINGS_MARKERS_BLOCK_SCALE_INFLUENCE_HEADER"
 msgstr "資源欄"
 
 msgid "SETTINGS_MARKERS_BLOCK_SENSORS_ABOUT_ALTITUDE_SPEED_BOOST_HP_HEADER"
-msgstr "傳感器：飛行儀器和生命值"
+msgstr "感測器：飛行儀器和生命值"
 
 msgid "SETTINGS_MARKERS_BLOCK_SPEED_CONNECTION_AND_TIPS_HEADER"
 msgstr "連接速度和提示"
@@ -2542,7 +2542,7 @@ msgid "SETTINGS_MARKERS_EFFECT_TIMER"
 msgstr "點累計定時器"
 
 msgid "SETTINGS_MARKERS_FAST_COMMAND"
-msgstr "聊天快捷方式"
+msgstr "聊天捷徑"
 
 msgid "SETTINGS_MARKERS_FIRE_DISTANCE"
 msgstr "火的範圍"
@@ -2578,40 +2578,40 @@ msgid "SETTINGS_MARKERS_I"
 msgstr "靠我的飛機"
 
 msgid "SETTINGS_MARKERS_ICONS_CLASSES_DEFENDERS"
-msgstr "防空飛機類型圖標"
+msgstr "防空飛機類型圖示"
 
 msgid "SETTINGS_MARKERS_ICONS_CLASSES_PLANE"
-msgstr "飛機類型圖標"
+msgstr "飛機類型圖示"
 
 msgid "SETTINGS_MARKERS_ICON_COMPLEX_BLOKED"
-msgstr "鎖定扇形面圖標"
+msgstr "鎖定扇形面圖示"
 
 msgid "SETTINGS_MARKERS_ICON_COMPLEX_UNDER_ATTACK"
-msgstr "“受到攻擊的分區”圖標"
+msgstr "“受到攻擊的分區”圖示"
 
 msgid "SETTINGS_MARKERS_ICON_DEFENDER_EDGES"
-msgstr "防空飛機圖標在屏幕的邊緣"
+msgstr "防空飛機圖示在螢幕的邊緣"
 
 msgid "SETTINGS_MARKERS_ICON_EVENT"
-msgstr "事件圖標"
+msgstr "事件圖示"
 
 msgid "SETTINGS_MARKERS_ICON_MESSAGES_FOR_SCALES"
-msgstr "圖標和條形圖標"
+msgstr "圖示和條形圖示"
 
 msgid "SETTINGS_MARKERS_ICON_PLAYERS_PLANE_EDGES"
-msgstr "播放器飛機圖標在屏幕的邊緣"
+msgstr "播放器飛機圖示在螢幕的邊緣"
 
 msgid "SETTINGS_MARKERS_ICON_PLAYER_PLANE"
-msgstr "飛行員飛機箭頭圖標"
+msgstr "飛行員飛機箭頭圖示"
 
 msgid "SETTINGS_MARKERS_ICON_PROPERTY"
-msgstr "屬性圖標"
+msgstr "屬性圖示"
 
 msgid "SETTINGS_MARKERS_ICON_SECTOR_EDGES"
-msgstr "屏幕邊緣的扇區圖標"
+msgstr "螢幕邊緣的扇區圖示"
 
 msgid "SETTINGS_MARKERS_ICON_WING_BOMBERS_EDGES"
-msgstr "在屏幕邊緣飛行的轟炸機圖標"
+msgstr "在螢幕邊緣飛行的轟炸機圖示"
 
 msgid "SETTINGS_MARKERS_INFLUENCE_POINTS"
 msgstr "資源"
@@ -2620,7 +2620,7 @@ msgid "SETTINGS_MARKERS_IN_CENTER"
 msgstr "在中心"
 
 msgid "SETTINGS_MARKERS_IN_USE_IN_CD"
-msgstr "激活時和冷卻時"
+msgstr "啟動時和冷卻時"
 
 msgid "SETTINGS_MARKERS_KEY_FOR_BOMB_DROP"
 msgstr "投炸彈按鍵"
@@ -2669,13 +2669,13 @@ msgid "SETTINGS_MARKERS_NEVER"
 msgstr "決不"
 
 msgid "SETTINGS_MARKERS_ON_EDGES_SCREEN"
-msgstr "在屏幕的邊緣"
+msgstr "在螢幕的邊緣"
 
 msgid "SETTINGS_MARKERS_OVERHEATING_SCALE"
 msgstr "武器過熱"
 
 msgid "SETTINGS_MARKERS_OVERHEATING_SCALE_ICON"
-msgstr "武器過熱圖標"
+msgstr "武器過熱圖示"
 
 msgid "SETTINGS_MARKERS_PLANES_MODEL"
 msgstr "飛機模型"
@@ -2684,10 +2684,10 @@ msgid "SETTINGS_MARKERS_PLANE_WEAPONS"
 msgstr "飛機武器"
 
 msgid "SETTINGS_MARKERS_PLAYERS_ARROW"
-msgstr "玩家（箭頭圖標）"
+msgstr "玩家（箭頭圖示）"
 
 msgid "SETTINGS_MARKERS_PLAYERS_ICON_CLASS"
-msgstr "玩家（飛機型圖標）"
+msgstr "玩家（飛機型圖示）"
 
 msgid "SETTINGS_MARKERS_POINTS_PER_TICK"
 msgstr "每個刻度積累的積分"
@@ -2714,7 +2714,7 @@ msgid "SETTINGS_MARKERS_RANGE_OF_VIEW"
 msgstr "雷達範圍"
 
 msgid "SETTINGS_MARKERS_RESET_TO_DEFAULT"
-msgstr "重置為預設設定"
+msgstr "重設為預設設定"
 
 msgid "SETTINGS_MARKERS_ROTATE_MAP_PIN_PLAYER"
 msgstr "旋轉地圖 (飛行標記固定)"
@@ -2744,7 +2744,7 @@ msgid "SETTINGS_MARKERS_SELECTED_TARGET"
 msgstr "選定目標"
 
 msgid "SETTINGS_MARKERS_SENSORS_DIGITAL_GLASSES"
-msgstr "數字傳感器讀數"
+msgstr "數字感測器讀數"
 
 msgid "SETTINGS_MARKERS_SHOW"
 msgstr "顯示"
@@ -2801,10 +2801,10 @@ msgid "SETTINGS_MARKERS_TIMER_PROPERTY"
 msgstr "屬性計時器"
 
 msgid "SETTINGS_MARKERS_TIPS_HOTKEYS"
-msgstr "熱鍵提示"
+msgstr "快速鍵提示"
 
 msgid "SETTINGS_MARKERS_TIPS_HOT_KEYS"
-msgstr "熱鍵提示"
+msgstr "快速鍵提示"
 
 msgid "SETTINGS_MARKERS_TIP_FOR_NEED_TO_DO"
 msgstr "必需的操作提示"
@@ -2840,7 +2840,7 @@ msgid "SETTINGS_MAXIMAL"
 msgstr "最全"
 
 msgid "SETTINGS_MESSAGES_DESCRIPTION_CHANGE"
-msgstr "要配置戰鬥界面，請將鼠標懸停在左側並選擇選項。"
+msgstr "要配置戰鬥界面，請將滑鼠懸停在左側並選擇選項。"
 
 msgid "SETTINGS_MESSAGE_BUTTON_ALREADY_ASSIGNED"
 msgstr "{button} 鍵已設定為 {function}，單擊 {apply_button} 重新進行設定"
@@ -2851,9 +2851,9 @@ msgstr ""
 
 msgid "SETTINGS_MESSAGE_CAN_USE_HD_DOWNLOAD_BUTTON"
 msgstr ""
-"遊戲客戶端檢測發現您的電腦可以使用 {settings} 影像設定，新設定已得到套用，為"
-"了提高遊戲紋理效果，您還需下載 HD 紋理，關閉遊戲客戶端後運行WOWpLauncher.exe"
-"並在選項中選擇64位客戶端後將為您下載 HD 紋理，下載完成後進入遊戲可獲得更好的"
+"遊戲用戶端檢測發現您的電腦可以使用 {settings} 影像設定，新設定已得到套用，為"
+"了提高遊戲紋理效果，您還需下載 HD 紋理，關閉遊戲用戶端後運行WOWpLauncher.exe"
+"並在選項中選擇64位用戶端後將為您下載 HD 紋理，下載完成後進入遊戲可獲得更好的"
 "紋理效果"
 
 msgid "SETTINGS_MESSAGE_CHANGE_AXIS_CONFIRM"
@@ -3067,7 +3067,7 @@ msgid "SETTINGS_ROTATE_RADAR-MINIMAP"
 msgstr "旋轉地圖 (飛行員標記固定)"
 
 msgid "SETTINGS_SCREENSHOTS_SAVE_IN_FOLDER"
-msgstr "帶有屏幕截圖的文件夾的路徑"
+msgstr "帶有螢幕截圖的文件夾的路徑"
 
 msgid "SETTINGS_SCREEN_RESOLUTION"
 msgstr "螢幕解析度"
@@ -3100,7 +3100,7 @@ msgid "SETTINGS_SHOW_IGNORED"
 msgstr "顯示黑名單"
 
 msgid "SETTINGS_SHOW_TIPS_HOTKEYS"
-msgstr "熱鍵提示"
+msgstr "快速鍵提示"
 
 msgid "SETTINGS_SMALL"
 msgstr "簡化"

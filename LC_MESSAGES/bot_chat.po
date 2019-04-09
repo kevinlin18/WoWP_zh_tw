@@ -17,7 +17,7 @@ msgid "BOT_ACE_TEAMGROUP_1-10_1"
 msgstr "祝賀"
 
 msgid "BOT_ACE_TEAMGROUP_1-10_2"
-msgstr "幹得好"
+msgstr "做得好"
 
 msgid "BOT_ACE_TEAMGROUP_1-10_3"
 msgstr "做得漂亮!"
@@ -35,7 +35,7 @@ msgid "BOT_ACE_TEAMGROUP_1-10_7"
 msgstr "加把勁!"
 
 msgid "BOT_ACE_TEAMGROUP_1-10_8"
-msgstr "你還能再坑點麼"
+msgstr "你還能再坑點嗎"
 
 msgid "BOT_ACE_TEAMGROUP_1-10_9"
 msgstr "任何人都有機會獲得王牌勳章! 試試去獲得魯道夫勒勳章!"
@@ -334,7 +334,7 @@ msgid "BOT_KILL_ALLGROUP_1_1"
 msgstr "我沒有"
 
 msgid "BOT_KILL_ALLGROUP_1_10"
-msgstr "我的貓幹擾了我!"
+msgstr "我的貓干擾了我!"
 
 msgid "BOT_KILL_ALLGROUP_1_11"
 msgstr "我沒看到你"
@@ -370,7 +370,7 @@ msgid "BOT_KILL_ALLGROUP_2_1"
 msgstr "現在不是時候 :("
 
 msgid "BOT_KILL_ALLGROUP_2_10"
-msgstr "我的貓幹擾了我!"
+msgstr "我的貓干擾了我!"
 
 msgid "BOT_KILL_ALLGROUP_2_11"
 msgstr "我沒看到你"
@@ -406,7 +406,7 @@ msgid "BOT_KILL_ALLGROUP_3_1"
 msgstr "現在不是時候 :("
 
 msgid "BOT_KILL_ALLGROUP_3_10"
-msgstr "我的貓幹擾了我!"
+msgstr "我的貓干擾了我!"
 
 msgid "BOT_KILL_ALLGROUP_3_11"
 msgstr "我沒看到你"
@@ -442,7 +442,7 @@ msgid "BOT_KILL_ALLGROUP_4_1"
 msgstr "倒黴 :("
 
 msgid "BOT_KILL_ALLGROUP_4_10"
-msgstr "我的貓幹擾了我!"
+msgstr "我的貓干擾了我!"
 
 msgid "BOT_KILL_ALLGROUP_4_11"
 msgstr "我沒看到你"
@@ -475,13 +475,13 @@ msgid "BOT_KILL_TEAMGROUP_1"
 msgstr "好懸!"
 
 msgid "BOT_KILL_TEAMGROUP_1_1"
-msgstr "幹得好!"
+msgstr "做得好!"
 
 msgid "BOT_KILL_TEAMGROUP_1_2"
 msgstr "好"
 
 msgid "BOT_KILL_TEAMGROUP_1_3"
-msgstr "你還能再坑點麼"
+msgstr "你還能再坑點嗎"
 
 msgid "BOT_KILL_TEAMGROUP_1_4"
 msgstr "學習怎樣狗鬥"
@@ -505,7 +505,7 @@ msgid "BOT_KILL_TEAMGROUP_3_1"
 msgstr "準確瞄準"
 
 msgid "BOT_KILL_TEAMGROUP_3_2"
-msgstr "空中殺手在這兒!"
+msgstr "空中殺手在這裡!"
 
 msgid "BOT_KILL_TEAMGROUP_3_3"
 msgstr "他下來了!"
@@ -631,7 +631,7 @@ msgid "BOT_LOSING_TEAMSINGLE_6"
 msgstr "哦, 我盡力了…"
 
 msgid "BOT_LOSING_TEAMSINGLE_7"
-msgstr "大家都去哪兒了?"
+msgstr "大家都去哪裡了?"
 
 msgid "BOT_LOSING_TEAMSINGLE_8"
 msgstr "豬隊友"
@@ -702,13 +702,13 @@ msgid "BOT_NY_AFTER_ALLGROUP_4_1"
 msgstr "新年快樂！"
 
 msgid "BOT_NY_AFTER_ALLGROUP_5"
-msgstr "祝大家在新的一年裡晴空萬裡~！"
+msgstr "祝大家在新的一年裡晴空萬里~！"
 
 msgid "BOT_NY_AFTER_ALLGROUP_5_1"
 msgstr "你也是~！"
 
 msgid "BOT_NY_AFTER_ALLGROUP_6"
-msgstr "一起來放煙花怎麼樣？"
+msgstr "一起來放煙火怎麼樣？"
 
 msgid "BOT_NY_AFTER_ALLGROUP_6_1"
 msgstr "好主意！"
@@ -750,7 +750,7 @@ msgid "BOT_NY_AFTER_ALLSINGLE_8"
 msgstr "誰還有煙火嗎？"
 
 msgid "BOT_NY_ALLSINGLE_1"
-msgstr "一起來放煙花怎麼樣？"
+msgstr "一起來放煙火怎麼樣？"
 
 msgid "BOT_NY_ALLSINGLE_2"
 msgstr "哦不！我的貓打翻了聖誕樹！"
@@ -912,7 +912,7 @@ msgid "BOT_SPRING_HANGAR_ALLSINGLE_2"
 msgstr "不敢相信！機庫沒有延遲！"
 
 msgid "BOT_SPRING_HANGAR_ALLSINGLE_3"
-msgstr "看來他們在這個補丁中做了優化！"
+msgstr "看來他們在這個補丁中做了最佳化！"
 
 msgid "BOT_SPRING_LTO302_ALLSINGLE_1"
 msgstr "有人得到了科斯基科夫 302了嗎？"
@@ -984,7 +984,7 @@ msgid "BOT_START_ALLGROUP_2_10"
 msgstr "嗨, 好久不見"
 
 msgid "BOT_START_ALLGROUP_2_11"
-msgstr "上班的時候打飛機?"
+msgstr "上班的時候打手槍?"
 
 msgid "BOT_START_ALLGROUP_2_12"
 msgstr "很高興又見到你!"
@@ -999,7 +999,7 @@ msgid "BOT_START_ALLGROUP_2_15"
 msgstr "我上次見到你還是在一千場之前了"
 
 msgid "BOT_START_ALLGROUP_2_16"
-msgstr "你去哪兒了?"
+msgstr "你去哪裡了?"
 
 msgid "BOT_START_ALLGROUP_2_2"
 msgstr "嘿! 讓我們來玩 PvP!"
@@ -1011,7 +1011,7 @@ msgid "BOT_START_ALLGROUP_2_4"
 msgstr "你好!"
 
 msgid "BOT_START_ALLGROUP_2_5"
-msgstr "哦, 哇! 這架飛機不是停產了麼"
+msgstr "哦, 哇! 這架飛機不是停產了嗎"
 
 msgid "BOT_START_ALLGROUP_2_6"
 msgstr "你再來!"
@@ -1029,7 +1029,7 @@ msgid "BOT_START_ALLGROUP_3"
 msgstr "你喜歡 {plane_name}?"
 
 msgid "BOT_START_ALLGROUP_3_1"
-msgstr "幹得好!"
+msgstr "做得好!"
 
 msgid "BOT_START_ALLGROUP_3_2"
 msgstr "這很好"
@@ -1044,7 +1044,7 @@ msgid "BOT_START_ALLGROUP_3_5"
 msgstr "我喜歡"
 
 msgid "BOT_START_ALLGROUP_3_6"
-msgstr "在這兒第一次交鋒"
+msgstr "在這裡第一次交鋒"
 
 msgid "BOT_START_ALLGROUP_3_7"
 msgstr "剛買了它, 所以還不清楚"
@@ -1080,7 +1080,7 @@ msgid "BOT_START_ALLSINGLE_2"
 msgstr "{random_player_name}, 想加入一個編隊?"
 
 msgid "BOT_START_ALLSINGLE_3"
-msgstr "什嗎?"
+msgstr "什麼?"
 
 msgid "BOT_START_ALLSINGLE_4"
 msgstr "第三次排進這張圖了"
@@ -1278,7 +1278,7 @@ msgid "BOT_SURVIVOR_ALLSINGLE_2"
 msgstr "不要靠近!"
 
 msgid "BOT_SURVIVOR_ALLSINGLE_3"
-msgstr "當你需要的時候他們人在哪兒?"
+msgstr "當你需要的時候他們人在哪裡?"
 
 msgid "BOT_SURVIVOR_ALLSINGLE_4"
 msgstr "你確定要和我交鋒?"
@@ -1386,7 +1386,7 @@ msgid "BOT_VICTORY_ALLSINGLE_5"
 msgstr "多倍經驗收益!"
 
 msgid "BOT_VICTORY_ALLSINGLE_6"
-msgstr "大家幹得漂亮!"
+msgstr "大家做得漂亮!"
 
 msgid "BOT_VICTORY_ALLSINGLE_7"
 msgstr "GG"
@@ -1413,7 +1413,7 @@ msgid "BOT_VICTORY_TEAMSINGLE_5"
 msgstr "多倍經驗收益!"
 
 msgid "BOT_VICTORY_TEAMSINGLE_6"
-msgstr "大家幹得漂亮!"
+msgstr "大家做得漂亮!"
 
 msgid "BOT_VICTORY_TEAMSINGLE_7"
 msgstr "GG"

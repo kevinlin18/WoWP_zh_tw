@@ -1813,7 +1813,7 @@ msgstr ""
 
 msgid "MEDAL_DESCRIPTION_SKY_FIRE"
 msgstr ""
-"授予對敵機進行攻擊使其起火併最終擊落的玩家<br><br>只可在標準戰鬥中獲得，且每"
+"授予對敵機進行攻擊使其起火並最終擊落的玩家<br><br>只可在標準戰鬥中獲得，且每"
 "架戰機只可獲得一次"
 
 msgid "MEDAL_DESCRIPTION_SKY_N_GROUND"
@@ -2559,7 +2559,7 @@ msgid "MEDAL_EVENT_DESCRIPTION_SKILLED_PILOT"
 msgstr "重新控制失控戰機"
 
 msgid "MEDAL_EVENT_DESCRIPTION_SKY_FIRE"
-msgstr "點燃並燒燬敵機"
+msgstr "點燃並燒毀敵機"
 
 msgid "MEDAL_EVENT_DESCRIPTION_SKY_N_GROUND"
 msgstr "擊落3架敵機並摧毀25分的地面目標"
@@ -2651,7 +2651,7 @@ msgstr ""
 
 msgid "MEDAL_HISTORY_BONG"
 msgstr ""
-"二戰期間，理查德·艾拉·邦是美國陸軍航空隊的得分最高的王牌。他駕駛的洛克希德"
+"二戰期間，理察·艾拉·邦是美國陸軍航空隊的得分最高的王牌。他駕駛的洛克希德"
 "P-38閃電戰鬥機，在南太平洋服役期間至少擊落了40架敵機。在1945年8月6日死於P-80"
 "流星戰鬥機的試飛。"
 
@@ -2708,7 +2708,7 @@ msgstr ""
 
 msgid "MEDAL_HISTORY_HABREZKI"
 msgstr ""
-"弗朗西斯·加布雷斯基是美國王牌戰鬥機飛行員，在二戰期間駕駛P-47雷電擊落28架敵機"
+"法蘭西斯·加布雷斯基是美國王牌戰鬥機飛行員，在二戰期間駕駛P-47雷電擊落28架敵機"
 "並在韓戰中擊落6架敵機。"
 
 msgid "MEDAL_HISTORY_JOHNSON"
@@ -2784,7 +2784,7 @@ msgstr ""
 
 msgid "MEDAL_HISTORY_RUDORFFER"
 msgstr ""
-"埃裡希·魯道夫勒是一名德國戰鬥機王牌飛行員，參與了整個二戰。執行1000多次作戰任"
+"埃里希·魯道夫勒是一名德國戰鬥機王牌飛行員，參與了整個二戰。執行1000多次作戰任"
 "務，參加了302次空戰。 魯道夫勒聲稱共獲得了​​222次擊墜記錄，包括在西線的60次，在"
 "北非的26次，東線的136次。"
 
@@ -2926,13 +2926,13 @@ msgid "MEDAL_NAME_BOMBING_1"
 msgstr "Bombs Away"
 
 msgid "MEDAL_NAME_BONG1"
-msgstr "理查德 一級"
+msgstr "理察 一級"
 
 msgid "MEDAL_NAME_BONG2"
-msgstr "理查德 二級"
+msgstr "理察 二級"
 
 msgid "MEDAL_NAME_BONG3"
-msgstr "理查德 三級"
+msgstr "理察 三級"
 
 msgid "MEDAL_NAME_BOYINGTON1"
 msgstr "Boyington Medal Class I"

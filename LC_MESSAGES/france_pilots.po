@@ -90,7 +90,7 @@ msgid "NAMES/FR1020"
 msgstr "阿梅代"
 
 msgid "NAMES/FR1021"
-msgstr "本傑明"
+msgstr "班傑明"
 
 msgid "NAMES/FR1022"
 msgstr "休斯"
@@ -99,13 +99,13 @@ msgid "NAMES/FR1023"
 msgstr "桑德琳"
 
 msgid "NAMES/FR1024"
-msgstr "理查德"
+msgstr "理察"
 
 msgid "NAMES/FR1025"
 msgstr "伊西多爾"
 
 msgid "NAMES/FR1026"
-msgstr "理查德"
+msgstr "理察"
 
 msgid "NAMES/FR1027"
 msgstr "伊西多爾"
@@ -198,7 +198,7 @@ msgid "NAMES/FR1053"
 msgstr "比諾什"
 
 msgid "NAMES/FR1054"
-msgstr "傅裡葉"
+msgstr "傅立葉"
 
 msgid "NAMES/FR1055"
 msgstr "菲涅耳"
@@ -270,7 +270,7 @@ msgid "NAMES/FR1075"
 msgstr "羅琳"
 
 msgid "NAMES/FR1076"
-msgstr "菲奧裡"
+msgstr "菲奧里"
 
 msgid "NAMES/FR1077"
 msgstr "卡爾內"
@@ -294,7 +294,7 @@ msgid "NAMES/FR112"
 msgstr "西蒙"
 
 msgid "NAMES/FR113"
-msgstr "塔亞徳"
+msgstr "塔亞德"
 
 msgid "NAMES/FR114"
 msgstr "泰而諾"
@@ -381,7 +381,7 @@ msgid "NAMES/FR139"
 msgstr "吉爾達斯"
 
 msgid "NAMES/FR14"
-msgstr "比鬆"
+msgstr "比松"
 
 msgid "NAMES/FR140"
 msgstr "馬丁"
@@ -534,7 +534,7 @@ msgid "NAMES/FR185"
 msgstr "阿梅代"
 
 msgid "NAMES/FR186"
-msgstr "本傑明"
+msgstr "班傑明"
 
 msgid "NAMES/FR187"
 msgstr "休斯"
@@ -543,7 +543,7 @@ msgid "NAMES/FR188"
 msgstr "桑德琳"
 
 msgid "NAMES/FR189"
-msgstr "理查德"
+msgstr "理察"
 
 msgid "NAMES/FR19"
 msgstr "巴羅"
@@ -606,7 +606,7 @@ msgid "NAMES/FR206"
 msgstr "帕斯卡"
 
 msgid "NAMES/FR207"
-msgstr "埃裡克"
+msgstr "埃里克"
 
 msgid "NAMES/FR208"
 msgstr "伊夫"
@@ -669,7 +669,7 @@ msgid "NAMES/FR225"
 msgstr "迪迪埃"
 
 msgid "NAMES/FR226"
-msgstr "阿森鬆"
+msgstr "阿森松"
 
 msgid "NAMES/FR227"
 msgstr "貝朗熱"
@@ -726,7 +726,7 @@ msgid "NAMES/FR242"
 msgstr "傑曼"
 
 msgid "NAMES/FR243"
-msgstr "裡吉斯"
+msgstr "里吉斯"
 
 msgid "NAMES/FR244"
 msgstr "埃爾韋"
@@ -750,13 +750,13 @@ msgid "NAMES/FR25"
 msgstr "康帕涅"
 
 msgid "NAMES/FR250"
-msgstr "馬裡埃特"
+msgstr "馬里埃特"
 
 msgid "NAMES/FR251"
 msgstr "拉烏爾"
 
 msgid "NAMES/FR252"
-msgstr "烏爾裡希"
+msgstr "烏爾里希"
 
 msgid "NAMES/FR253"
 msgstr "貝努瓦"
@@ -765,10 +765,10 @@ msgid "NAMES/FR254"
 msgstr "奧利維爾"
 
 msgid "NAMES/FR255"
-msgstr "唐納德"
+msgstr "唐納"
 
 msgid "NAMES/FR256"
-msgstr "弗雷德裡克"
+msgstr "弗雷德里克"
 
 msgid "NAMES/FR257"
 msgstr "阿瑟"
@@ -780,7 +780,7 @@ msgid "NAMES/FR259"
 msgstr "阿方斯"
 
 msgid "NAMES/FR26"
-msgstr "尚鬆"
+msgstr "尚松"
 
 msgid "NAMES/FR260"
 msgstr "朱利安"
@@ -801,7 +801,7 @@ msgid "NAMES/FR265"
 msgstr "伯納德"
 
 msgid "NAMES/FR266"
-msgstr "克里斯托弗"
+msgstr "克里斯多福"
 
 msgid "NAMES/FR267"
 msgstr "法布里奇奧"
@@ -900,7 +900,7 @@ msgid "NAMES/FR295"
 msgstr "阿梅代"
 
 msgid "NAMES/FR296"
-msgstr "本傑明"
+msgstr "班傑明"
 
 msgid "NAMES/FR297"
 msgstr "休斯"
@@ -909,7 +909,7 @@ msgid "NAMES/FR298"
 msgstr "桑德琳"
 
 msgid "NAMES/FR299"
-msgstr "理查德"
+msgstr "理察"
 
 msgid "NAMES/FR3"
 msgstr "薩科"
@@ -990,7 +990,7 @@ msgid "NAMES/FR321"
 msgstr "康帕涅"
 
 msgid "NAMES/FR322"
-msgstr "尚鬆"
+msgstr "尚松"
 
 msgid "NAMES/FR323"
 msgstr "夏爾"
@@ -1071,7 +1071,7 @@ msgid "NAMES/FR346"
 msgstr "阿梅代"
 
 msgid "NAMES/FR347"
-msgstr "本傑明"
+msgstr "班傑明"
 
 msgid "NAMES/FR348"
 msgstr "休斯"
@@ -1083,7 +1083,7 @@ msgid "NAMES/FR35"
 msgstr "克雷博"
 
 msgid "NAMES/FR350"
-msgstr "理查德"
+msgstr "理察"
 
 msgid "NAMES/FR351"
 msgstr "伊西多爾"
@@ -1140,7 +1140,7 @@ msgid "NAMES/FR367"
 msgstr "帕斯卡"
 
 msgid "NAMES/FR368"
-msgstr "埃裡克"
+msgstr "埃里克"
 
 msgid "NAMES/FR369"
 msgstr "伊夫"
@@ -1203,7 +1203,7 @@ msgid "NAMES/FR386"
 msgstr "迪迪埃"
 
 msgid "NAMES/FR387"
-msgstr "阿森鬆"
+msgstr "阿森松"
 
 msgid "NAMES/FR388"
 msgstr "貝朗熱"
@@ -1347,13 +1347,13 @@ msgid "NAMES/FR429"
 msgstr "哈比卜"
 
 msgid "NAMES/FR43"
-msgstr "徳洛爾姆"
+msgstr "德洛爾姆"
 
 msgid "NAMES/FR430"
 msgstr "阿梅代"
 
 msgid "NAMES/FR431"
-msgstr "本傑明"
+msgstr "班傑明"
 
 msgid "NAMES/FR432"
 msgstr "休斯"
@@ -1362,7 +1362,7 @@ msgid "NAMES/FR433"
 msgstr "桑德琳"
 
 msgid "NAMES/FR434"
-msgstr "理查德"
+msgstr "理察"
 
 msgid "NAMES/FR435"
 msgstr "伊西多爾"
@@ -1437,7 +1437,7 @@ msgid "NAMES/FR456"
 msgstr "康帕涅"
 
 msgid "NAMES/FR457"
-msgstr "尚鬆"
+msgstr "尚松"
 
 msgid "NAMES/FR458"
 msgstr "夏爾"
@@ -1521,7 +1521,7 @@ msgid "NAMES/FR481"
 msgstr "阿梅代"
 
 msgid "NAMES/FR482"
-msgstr "本傑明"
+msgstr "班傑明"
 
 msgid "NAMES/FR483"
 msgstr "休斯"
@@ -1530,13 +1530,13 @@ msgid "NAMES/FR484"
 msgstr "桑德琳"
 
 msgid "NAMES/FR485"
-msgstr "理查德"
+msgstr "理察"
 
 msgid "NAMES/FR486"
 msgstr "伊西多爾"
 
 msgid "NAMES/FR487"
-msgstr "裡吉斯"
+msgstr "里吉斯"
 
 msgid "NAMES/FR488"
 msgstr "勒內"
@@ -1608,7 +1608,7 @@ msgid "NAMES/FR507"
 msgstr "波旁"
 
 msgid "NAMES/FR508"
-msgstr "蒂埃裡"
+msgstr "蒂埃里"
 
 msgid "NAMES/FR509"
 msgstr "康帕涅"
@@ -1617,7 +1617,7 @@ msgid "NAMES/FR51"
 msgstr "艾蒂安"
 
 msgid "NAMES/FR510"
-msgstr "尚鬆"
+msgstr "尚松"
 
 msgid "NAMES/FR511"
 msgstr "夏爾"
@@ -1698,7 +1698,7 @@ msgid "NAMES/FR534"
 msgstr "阿梅代"
 
 msgid "NAMES/FR535"
-msgstr "本傑明"
+msgstr "班傑明"
 
 msgid "NAMES/FR536"
 msgstr "休斯"
@@ -1707,7 +1707,7 @@ msgid "NAMES/FR537"
 msgstr "桑德琳"
 
 msgid "NAMES/FR538"
-msgstr "理查德"
+msgstr "理察"
 
 msgid "NAMES/FR539"
 msgstr "伊西多爾"
@@ -1758,7 +1758,7 @@ msgid "NAMES/FR552"
 msgstr "比耶爾"
 
 msgid "NAMES/FR553"
-msgstr "比鬆"
+msgstr "比松"
 
 msgid "NAMES/FR554"
 msgstr "伯納"
@@ -1797,7 +1797,7 @@ msgid "NAMES/FR564"
 msgstr "康帕涅"
 
 msgid "NAMES/FR565"
-msgstr "尚鬆"
+msgstr "尚松"
 
 msgid "NAMES/FR566"
 msgstr "夏爾"
@@ -1854,7 +1854,7 @@ msgid "NAMES/FR581"
 msgstr "戴高樂"
 
 msgid "NAMES/FR582"
-msgstr "徳洛爾姆"
+msgstr "德洛爾姆"
 
 msgid "NAMES/FR583"
 msgstr "但尼"
@@ -2331,7 +2331,7 @@ msgid "NAMES/FR724"
 msgstr "阿梅代"
 
 msgid "NAMES/FR725"
-msgstr "本傑明"
+msgstr "班傑明"
 
 msgid "NAMES/FR726"
 msgstr "休斯"
@@ -2400,7 +2400,7 @@ msgid "NAMES/FR745"
 msgstr "帕斯卡"
 
 msgid "NAMES/FR746"
-msgstr "埃裡克"
+msgstr "埃里克"
 
 msgid "NAMES/FR747"
 msgstr "伊夫"
@@ -2463,7 +2463,7 @@ msgid "NAMES/FR764"
 msgstr "迪迪埃"
 
 msgid "NAMES/FR765"
-msgstr "阿森鬆"
+msgstr "阿森松"
 
 msgid "NAMES/FR766"
 msgstr "貝朗熱"
@@ -2520,7 +2520,7 @@ msgid "NAMES/FR781"
 msgstr "傑曼"
 
 msgid "NAMES/FR782"
-msgstr "裡吉斯"
+msgstr "里吉斯"
 
 msgid "NAMES/FR783"
 msgstr "埃爾韋"
@@ -2541,7 +2541,7 @@ msgid "NAMES/FR788"
 msgstr "安東尼"
 
 msgid "NAMES/FR789"
-msgstr "馬裡埃特"
+msgstr "馬里埃特"
 
 msgid "NAMES/FR79"
 msgstr "博郎"
@@ -2550,7 +2550,7 @@ msgid "NAMES/FR790"
 msgstr "拉烏爾"
 
 msgid "NAMES/FR791"
-msgstr "烏爾裡希"
+msgstr "烏爾里希"
 
 msgid "NAMES/FR792"
 msgstr "貝努瓦"
@@ -2559,10 +2559,10 @@ msgid "NAMES/FR793"
 msgstr "奧利維爾"
 
 msgid "NAMES/FR794"
-msgstr "唐納德"
+msgstr "唐納"
 
 msgid "NAMES/FR795"
-msgstr "弗雷德裡克"
+msgstr "弗雷德里克"
 
 msgid "NAMES/FR796"
 msgstr "阿瑟"
@@ -2598,7 +2598,7 @@ msgid "NAMES/FR804"
 msgstr "薩特菲特"
 
 msgid "NAMES/FR805"
-msgstr "克里斯托弗"
+msgstr "克里斯多福"
 
 msgid "NAMES/FR806"
 msgstr "法布里奇奧"
@@ -2697,7 +2697,7 @@ msgid "NAMES/FR834"
 msgstr "阿梅代"
 
 msgid "NAMES/FR835"
-msgstr "本傑明"
+msgstr "班傑明"
 
 msgid "NAMES/FR836"
 msgstr "休斯"
@@ -2706,7 +2706,7 @@ msgid "NAMES/FR837"
 msgstr "桑德琳"
 
 msgid "NAMES/FR838"
-msgstr "理查德"
+msgstr "理察"
 
 msgid "NAMES/FR839"
 msgstr "伊西多爾"
@@ -2784,7 +2784,7 @@ msgid "NAMES/FR860"
 msgstr "康帕涅"
 
 msgid "NAMES/FR861"
-msgstr "尚鬆"
+msgstr "尚松"
 
 msgid "NAMES/FR862"
 msgstr "夏爾"
@@ -2853,10 +2853,10 @@ msgid "NAMES/FR881"
 msgstr "克萊門斯"
 
 msgid "NAMES/FR882"
-msgstr "佛羅倫薩"
+msgstr "佛羅倫斯"
 
 msgid "NAMES/FR883"
-msgstr "弗蘭克"
+msgstr "法蘭克"
 
 msgid "NAMES/FR884"
 msgstr "哈比卜"
@@ -2865,7 +2865,7 @@ msgid "NAMES/FR885"
 msgstr "阿梅代"
 
 msgid "NAMES/FR886"
-msgstr "本傑明"
+msgstr "班傑明"
 
 msgid "NAMES/FR887"
 msgstr "休斯"
@@ -2874,7 +2874,7 @@ msgid "NAMES/FR888"
 msgstr "桑德琳"
 
 msgid "NAMES/FR889"
-msgstr "理查德"
+msgstr "理察"
 
 msgid "NAMES/FR89"
 msgstr "莫里哀"
@@ -2937,7 +2937,7 @@ msgid "NAMES/FR906"
 msgstr "帕斯卡"
 
 msgid "NAMES/FR907"
-msgstr "埃裡克"
+msgstr "埃里克"
 
 msgid "NAMES/FR908"
 msgstr "伊夫"
@@ -3000,7 +3000,7 @@ msgid "NAMES/FR925"
 msgstr "魯"
 
 msgid "NAMES/FR926"
-msgstr "阿森鬆"
+msgstr "阿森松"
 
 msgid "NAMES/FR927"
 msgstr "貝朗熱"
@@ -3147,7 +3147,7 @@ msgid "NAMES/FR97"
 msgstr "保羅"
 
 msgid "NAMES/FR970"
-msgstr "本傑明"
+msgstr "班傑明"
 
 msgid "NAMES/FR971"
 msgstr "休斯"
@@ -3156,7 +3156,7 @@ msgid "NAMES/FR972"
 msgstr "桑德琳"
 
 msgid "NAMES/FR973"
-msgstr "理查德"
+msgstr "理察"
 
 msgid "NAMES/FR974"
 msgstr "伊西多爾"
@@ -3231,7 +3231,7 @@ msgid "NAMES/FR995"
 msgstr "康帕涅"
 
 msgid "NAMES/FR996"
-msgstr "尚鬆"
+msgstr "尚松"
 
 msgid "NAMES/FR997"
 msgstr "夏爾"
@@ -3381,7 +3381,7 @@ msgid "NAMES/FRN14"
 msgstr "埃斯梅"
 
 msgid "NAMES/FRN140"
-msgstr "斯蒂芬"
+msgstr "史蒂芬"
 
 msgid "NAMES/FRN141"
 msgstr "費爾南"
@@ -3396,10 +3396,10 @@ msgid "NAMES/FRN144"
 msgstr "克萊蒙費朗"
 
 msgid "NAMES/FRN145"
-msgstr "佛羅倫薩"
+msgstr "佛羅倫斯"
 
 msgid "NAMES/FRN146"
-msgstr "弗蘭克"
+msgstr "法蘭克"
 
 msgid "NAMES/FRN147"
 msgstr "弗朗索瓦"
@@ -3408,7 +3408,7 @@ msgid "NAMES/FRN148"
 msgstr "弗雷澤"
 
 msgid "NAMES/FRN149"
-msgstr "弗雷德裡克"
+msgstr "弗雷德里克"
 
 msgid "NAMES/FRN15"
 msgstr "加斯科涅語"
@@ -3432,7 +3432,7 @@ msgid "NAMES/FRN155"
 msgstr "戈萬"
 
 msgid "NAMES/FRN156"
-msgstr "傑弗裡"
+msgstr "傑佛瑞"
 
 msgid "NAMES/FRN157"
 msgstr "傑拉爾德"
@@ -3465,7 +3465,7 @@ msgid "NAMES/FRN165"
 msgstr "亞歷山大"
 
 msgid "NAMES/FRN166"
-msgstr "格雷戈裡"
+msgstr "格雷戈里"
 
 msgid "NAMES/FRN167"
 msgstr "格羅夫納"
@@ -3693,7 +3693,7 @@ msgid "NAMES/FRN233"
 msgstr "拉斐爾"
 
 msgid "NAMES/FRN234"
-msgstr "裡吉斯"
+msgstr "里吉斯"
 
 msgid "NAMES/FRN235"
 msgstr "雷米"
@@ -3762,7 +3762,7 @@ msgid "NAMES/FRN254"
 msgstr "蒂博"
 
 msgid "NAMES/FRN255"
-msgstr "蒂埃裡"
+msgstr "蒂埃里"
 
 msgid "NAMES/FRN256"
 msgstr "提摩太"
@@ -4116,7 +4116,7 @@ msgid "NAMES/FRN360"
 msgstr "埃斯梅"
 
 msgid "NAMES/FRN361"
-msgstr "斯蒂芬"
+msgstr "史蒂芬"
 
 msgid "NAMES/FRN362"
 msgstr "費爾南"
@@ -4128,10 +4128,10 @@ msgid "NAMES/FRN364"
 msgstr "克萊蒙費朗"
 
 msgid "NAMES/FRN365"
-msgstr "佛羅倫薩"
+msgstr "佛羅倫斯"
 
 msgid "NAMES/FRN366"
-msgstr "弗蘭克"
+msgstr "法蘭克"
 
 msgid "NAMES/FRN367"
 msgstr "弗朗索瓦"
@@ -4140,13 +4140,13 @@ msgid "NAMES/FRN368"
 msgstr "哈比卜"
 
 msgid "NAMES/FRN369"
-msgstr "弗雷德裡克"
+msgstr "弗雷德里克"
 
 msgid "NAMES/FRN37"
 msgstr "加斯科涅語"
 
 msgid "NAMES/FRN370"
-msgstr "理查德"
+msgstr "理察"
 
 msgid "NAMES/FRN371"
 msgstr "加斯頓"
@@ -4161,7 +4161,7 @@ msgid "NAMES/FRN374"
 msgstr "戈萬"
 
 msgid "NAMES/FRN375"
-msgstr "傑弗裡"
+msgstr "傑佛瑞"
 
 msgid "NAMES/FRN376"
 msgstr "傑拉爾德"
@@ -4191,7 +4191,7 @@ msgid "NAMES/FRN383"
 msgstr "格拉蒂安卡"
 
 msgid "NAMES/FRN384"
-msgstr "格雷戈裡"
+msgstr "格雷戈里"
 
 msgid "NAMES/FRN385"
 msgstr "格羅夫納"
@@ -4263,7 +4263,7 @@ msgid "NAMES/FRN404"
 msgstr "埃斯特爾"
 
 msgid "NAMES/FRN405"
-msgstr "格雷戈裡"
+msgstr "格雷戈里"
 
 msgid "NAMES/FRN406"
 msgstr "謝瓦利埃"
@@ -4341,7 +4341,7 @@ msgid "NAMES/FRN47"
 msgstr "耶利米"
 
 msgid "NAMES/FRN48"
-msgstr "比鬆"
+msgstr "比松"
 
 msgid "NAMES/FRN49"
 msgstr "傑羅姆"
@@ -4419,7 +4419,7 @@ msgid "NAMES/FRN70"
 msgstr "伯特蘭"
 
 msgid "NAMES/FRN71"
-msgstr "埃弗裡"
+msgstr "埃弗里"
 
 msgid "NAMES/FRN72"
 msgstr "布萊斯"

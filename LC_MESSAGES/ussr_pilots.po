@@ -216,7 +216,7 @@ msgid "NAMES/RUS1059"
 msgstr "羅曼諾夫"
 
 msgid "NAMES/RUS106"
-msgstr "基裡洛夫"
+msgstr "基里洛夫"
 
 msgid "NAMES/RUS1060"
 msgstr "格里德涅夫"
@@ -363,10 +363,10 @@ msgid "NAMES/RUS137"
 msgstr "斯塔羅孔"
 
 msgid "NAMES/RUS138"
-msgstr "佳格尼裡亞德諾"
+msgstr "佳格尼里亞德諾"
 
 msgid "NAMES/RUS139"
-msgstr "裡亞博孔"
+msgstr "里亞博孔"
 
 msgid "NAMES/RUS14"
 msgstr "奧帕納先科"
@@ -402,7 +402,7 @@ msgid "NAMES/RUS149"
 msgstr "雷什科夫"
 
 msgid "NAMES/RUS15"
-msgstr "裡亞博夫"
+msgstr "里亞博夫"
 
 msgid "NAMES/RUS150"
 msgstr "戈羅別茨"
@@ -474,7 +474,7 @@ msgid "NAMES/RUS170"
 msgstr "布利茲紐克"
 
 msgid "NAMES/RUS171"
-msgstr "巴布什金"
+msgstr "巴布希金"
 
 msgid "NAMES/RUS172"
 msgstr "別洛博科夫"
@@ -747,7 +747,7 @@ msgid "NAMES/RUS252"
 msgstr "奇斯佳科夫"
 
 msgid "NAMES/RUS253"
-msgstr "裡亞布採維奇"
+msgstr "里亞布採維奇"
 
 msgid "NAMES/RUS254"
 msgstr "克羅托夫"
@@ -852,7 +852,7 @@ msgid "NAMES/RUS284"
 msgstr "卡緬斯基"
 
 msgid "NAMES/RUS285"
-msgstr "裡奧諾夫"
+msgstr "里奧諾夫"
 
 msgid "NAMES/RUS286"
 msgstr "伊格納托夫"
@@ -1128,7 +1128,7 @@ msgid "NAMES/RUS367"
 msgstr "佩斯卡拉"
 
 msgid "NAMES/RUS368"
-msgstr "裡巴科夫"
+msgstr "里巴科夫"
 
 msgid "NAMES/RUS369"
 msgstr "納利梅茨"
@@ -1578,7 +1578,7 @@ msgid "NAMES/RUS501"
 msgstr "雷科夫"
 
 msgid "NAMES/RUS502"
-msgstr "裡森科"
+msgstr "里森科"
 
 msgid "NAMES/RUS503"
 msgstr "卡盧金"
@@ -1596,7 +1596,7 @@ msgid "NAMES/RUS507"
 msgstr "科馬洛夫"
 
 msgid "NAMES/RUS508"
-msgstr "布里列夫"
+msgstr "布裡列夫"
 
 msgid "NAMES/RUS509"
 msgstr "尤拉索夫"
@@ -1650,7 +1650,7 @@ msgid "NAMES/RUS523"
 msgstr "梅爾尼科夫"
 
 msgid "NAMES/RUS524"
-msgstr "埃里斯裡夫"
+msgstr "埃里斯里夫"
 
 msgid "NAMES/RUS525"
 msgstr "斯皮裡多諾夫"
@@ -1983,7 +1983,7 @@ msgid "NAMES/RUS623"
 msgstr "察里科夫"
 
 msgid "NAMES/RUS624"
-msgstr "卡布什金"
+msgstr "卡布希金"
 
 msgid "NAMES/RUS625"
 msgstr "斯圖科夫"
@@ -2094,7 +2094,7 @@ msgid "NAMES/RUS657"
 msgstr "普夫柳琴科"
 
 msgid "NAMES/RUS658"
-msgstr "弗朗西斯"
+msgstr "法蘭西斯"
 
 msgid "NAMES/RUS659"
 msgstr "涅姆佐夫"
@@ -2199,7 +2199,7 @@ msgid "NAMES/RUS689"
 msgstr "羅若斯"
 
 msgid "NAMES/RUS69"
-msgstr "裡亞布佐夫"
+msgstr "里亞布佐夫"
 
 msgid "NAMES/RUS690"
 msgstr "布里茨基"
@@ -2274,7 +2274,7 @@ msgid "NAMES/RUS710"
 msgstr "博爾佐夫"
 
 msgid "NAMES/RUS711"
-msgstr "佈雷斯基"
+msgstr "布雷斯基"
 
 msgid "NAMES/RUS712"
 msgstr "拉斯波波夫"
@@ -2385,7 +2385,7 @@ msgid "NAMES/RUS744"
 msgstr "莫洛托夫"
 
 msgid "NAMES/RUS745"
-msgstr "柳布什金"
+msgstr "柳布希金"
 
 msgid "NAMES/RUS746"
 msgstr "米哈利丘克"
@@ -2424,7 +2424,7 @@ msgid "NAMES/RUS756"
 msgstr "費琴恩科"
 
 msgid "NAMES/RUS757"
-msgstr "裡亞申"
+msgstr "里亞申"
 
 msgid "NAMES/RUS758"
 msgstr "斯韋爾奇科夫"
@@ -2448,7 +2448,7 @@ msgid "NAMES/RUS763"
 msgstr "烏裡揚諾夫"
 
 msgid "NAMES/RUS764"
-msgstr "裡維諾夫"
+msgstr "里維諾夫"
 
 msgid "NAMES/RUS765"
 msgstr "齊布利亞"
@@ -2457,7 +2457,7 @@ msgid "NAMES/RUS766"
 msgstr "什卡片科"
 
 msgid "NAMES/RUS767"
-msgstr "夫裡亞津"
+msgstr "夫里亞津"
 
 msgid "NAMES/RUS768"
 msgstr "耶多威"
@@ -2568,10 +2568,10 @@ msgid "NAMES/RUS8"
 msgstr "多爾戈柳博夫"
 
 msgid "NAMES/RUS80"
-msgstr "馬裡亞欣"
+msgstr "馬里亞欣"
 
 msgid "NAMES/RUS800"
-msgstr "科裡亞金"
+msgstr "科里亞金"
 
 msgid "NAMES/RUS801"
 msgstr "波列扎耶夫"
@@ -2718,7 +2718,7 @@ msgid "NAMES/RUS844"
 msgstr "沙拉波夫"
 
 msgid "NAMES/RUS845"
-msgstr "赫裡亞科夫"
+msgstr "赫里亞科夫"
 
 msgid "NAMES/RUS846"
 msgstr "格魯濟諾夫"
@@ -2817,7 +2817,7 @@ msgid "NAMES/RUS874"
 msgstr "多勃雷寧"
 
 msgid "NAMES/RUS875"
-msgstr "斯克裡亞賓"
+msgstr "斯克里亞賓"
 
 msgid "NAMES/RUS876"
 msgstr "沃洛季科"
@@ -3090,7 +3090,7 @@ msgid "NAMES/RUS956"
 msgstr "格萊布"
 
 msgid "NAMES/RUS957"
-msgstr "格雷戈裡"
+msgstr "格雷戈里"
 
 msgid "NAMES/RUS958"
 msgstr "達尼拉"
@@ -3165,7 +3165,7 @@ msgid "NAMES/RUS979"
 msgstr "馬修"
 
 msgid "NAMES/RUS98"
-msgstr "邁克爾"
+msgstr "麥可"
 
 msgid "NAMES/RUS980"
 msgstr "尼基塔"
@@ -3174,7 +3174,7 @@ msgid "NAMES/RUS981"
 msgstr "阿爾卡季"
 
 msgid "NAMES/RUS982"
-msgstr "尼古拉斯"
+msgstr "尼可拉斯"
 
 msgid "NAMES/RUS983"
 msgstr "奧列格"
@@ -3462,7 +3462,7 @@ msgid "NAMES/RUSN69"
 msgstr "馬修"
 
 msgid "NAMES/RUSN7"
-msgstr "邁克爾"
+msgstr "麥可"
 
 msgid "NAMES/RUSN70"
 msgstr "尼基塔"
@@ -3471,7 +3471,7 @@ msgid "NAMES/RUSN71"
 msgstr "阿爾卡季"
 
 msgid "NAMES/RUSN72"
-msgstr "尼古拉斯"
+msgstr "尼可拉斯"
 
 msgid "NAMES/RUSN73"
 msgstr "奧列格"
@@ -3543,7 +3543,7 @@ msgid "NAMES/RUSN93"
 msgstr "格萊布"
 
 msgid "NAMES/RUSN94"
-msgstr "格雷戈裡"
+msgstr "格雷戈里"
 
 msgid "NAMES/RUSN95"
 msgstr "達尼拉"

@@ -15,7 +15,7 @@ msgid "NAMES/GER1"
 msgstr "亞琛"
 
 msgid "NAMES/GER10"
-msgstr "阿爾佈雷希"
+msgstr "阿爾布雷希"
 
 msgid "NAMES/GER100"
 msgstr "博徹特"
@@ -60,7 +60,7 @@ msgid "NAMES/GER112"
 msgstr "布蘭"
 
 msgid "NAMES/GER113"
-msgstr "佈雷特"
+msgstr "布雷特"
 
 msgid "NAMES/GER114"
 msgstr "佈雷普"
@@ -204,7 +204,7 @@ msgid "NAMES/GER156"
 msgstr "德特勒夫森"
 
 msgid "NAMES/GER157"
-msgstr "傑裡梅斯"
+msgstr "傑里梅斯"
 
 msgid "NAMES/GER158"
 msgstr "德維茨"
@@ -270,7 +270,7 @@ msgid "NAMES/GER176"
 msgstr "伯德"
 
 msgid "NAMES/GER177"
-msgstr "德累斯頓"
+msgstr "德勒斯登"
 
 msgid "NAMES/GER178"
 msgstr "揚克爾"
@@ -315,7 +315,7 @@ msgid "NAMES/GER19"
 msgstr "安德里亞斯"
 
 msgid "NAMES/GER190"
-msgstr "克里斯蒂安"
+msgstr "克里斯汀"
 
 msgid "NAMES/GER191"
 msgstr "艾布爾"
@@ -345,7 +345,7 @@ msgid "NAMES/GER199"
 msgstr "埃倫貝克"
 
 msgid "NAMES/GER2"
-msgstr "弗雷德裡克"
+msgstr "弗雷德里克"
 
 msgid "NAMES/GER20"
 msgstr "阿恩特"
@@ -429,7 +429,7 @@ msgid "NAMES/GER223"
 msgstr "費恩"
 
 msgid "NAMES/GER224"
-msgstr "邁克爾"
+msgstr "麥可"
 
 msgid "NAMES/GER225"
 msgstr "費爾伯"
@@ -486,7 +486,7 @@ msgid "NAMES/GER240"
 msgstr "菲希特納"
 
 msgid "NAMES/GER241"
-msgstr "斯蒂芬"
+msgstr "史蒂芬"
 
 msgid "NAMES/GER242"
 msgstr "菲德勒"
@@ -516,7 +516,7 @@ msgid "NAMES/GER25"
 msgstr "奧斯特利茨"
 
 msgid "NAMES/GER250"
-msgstr "菲捨爾"
+msgstr "菲舍爾"
 
 msgid "NAMES/GER251"
 msgstr "梅耶"
@@ -567,13 +567,13 @@ msgid "NAMES/GER265"
 msgstr "弗雷利奇"
 
 msgid "NAMES/GER266"
-msgstr "弗洛伊德"
+msgstr "佛洛伊德"
 
 msgid "NAMES/GER267"
-msgstr "弗裡德里西"
+msgstr "弗里德里西"
 
 msgid "NAMES/GER268"
-msgstr "弗裡貝"
+msgstr "弗里貝"
 
 msgid "NAMES/GER269"
 msgstr "阿茨"
@@ -582,7 +582,7 @@ msgid "NAMES/GER27"
 msgstr "阿朔夫"
 
 msgid "NAMES/GER270"
-msgstr "弗裡德曼"
+msgstr "弗里德曼"
 
 msgid "NAMES/GER271"
 msgstr "阿斯豪爾"
@@ -591,7 +591,7 @@ msgid "NAMES/GER272"
 msgstr "阿斯密斯"
 
 msgid "NAMES/GER273"
-msgstr "弗裡茨奇"
+msgstr "弗里茨奇"
 
 msgid "NAMES/GER274"
 msgstr "弗魯"
@@ -654,7 +654,7 @@ msgid "NAMES/GER291"
 msgstr "米茨"
 
 msgid "NAMES/GER292"
-msgstr "蓋裡克"
+msgstr "蓋里克"
 
 msgid "NAMES/GER293"
 msgstr "格拉克"
@@ -690,7 +690,7 @@ msgid "NAMES/GER301"
 msgstr "吉爾薩"
 
 msgid "NAMES/GER302"
-msgstr "吉爾根鬆"
+msgstr "吉爾根松"
 
 msgid "NAMES/GER303"
 msgstr "萊姆尼策"
@@ -969,10 +969,10 @@ msgid "NAMES/GER386"
 msgstr "亨利"
 
 msgid "NAMES/GER387"
-msgstr "海茵裡茨"
+msgstr "海茵里茨"
 
 msgid "NAMES/GER388"
-msgstr "海因裡克"
+msgstr "海因里克"
 
 msgid "NAMES/GER389"
 msgstr "海斯"
@@ -996,7 +996,7 @@ msgid "NAMES/GER394"
 msgstr "海林格"
 
 msgid "NAMES/GER395"
-msgstr "黑爾裡格爾"
+msgstr "黑爾里格爾"
 
 msgid "NAMES/GER396"
 msgstr "多伊爾萊因"
@@ -1221,7 +1221,7 @@ msgid "NAMES/GER461"
 msgstr "傑克爾"
 
 msgid "NAMES/GER462"
-msgstr "雅各布"
+msgstr "雅各"
 
 msgid "NAMES/GER463"
 msgstr "耶格"
@@ -1293,7 +1293,7 @@ msgid "NAMES/GER483"
 msgstr "凱爾"
 
 msgid "NAMES/GER484"
-msgstr "本傑明"
+msgstr "班傑明"
 
 msgid "NAMES/GER485"
 msgstr "庫茨"
@@ -2058,7 +2058,7 @@ msgid "NAMES/GER712"
 msgstr "普勞恩"
 
 msgid "NAMES/GER713"
-msgstr "普利策"
+msgstr "普立茲"
 
 msgid "NAMES/GER714"
 msgstr "普倫策爾"
@@ -2574,7 +2574,7 @@ msgid "NAMES/GER868"
 msgstr "施米德貝格爾"
 
 msgid "NAMES/GER869"
-msgstr "斯托爾貝裡"
+msgstr "斯托爾貝里"
 
 msgid "NAMES/GER87"
 msgstr "施米特加爾"
@@ -2616,7 +2616,7 @@ msgid "NAMES/GER880"
 msgstr "澤恩克"
 
 msgid "NAMES/GER881"
-msgstr "斯特勞斯"
+msgstr "史特勞斯"
 
 msgid "NAMES/GER882"
 msgstr "施塔迪翁"
@@ -2775,7 +2775,7 @@ msgid "NAMES/GER928"
 msgstr "菲爾"
 
 msgid "NAMES/GER929"
-msgstr "卡鬆克"
+msgstr "卡松克"
 
 msgid "NAMES/GER93"
 msgstr "韋希特爾"
@@ -2979,7 +2979,7 @@ msgid "NAMES/GER99"
 msgstr "韋騰巴赫"
 
 msgid "NAMES/GERN1"
-msgstr "戈特弗裡德"
+msgstr "戈特弗里德"
 
 msgid "NAMES/GERN10"
 msgstr "戈特霍爾德"
@@ -3096,7 +3096,7 @@ msgid "NAMES/GERN133"
 msgstr "洪巴赫"
 
 msgid "NAMES/GERN134"
-msgstr "傑裡"
+msgstr "傑里"
 
 msgid "NAMES/GERN135"
 msgstr "約阿希姆"
@@ -3153,7 +3153,7 @@ msgid "NAMES/GERN150"
 msgstr "康拉德"
 
 msgid "NAMES/GERN151"
-msgstr "克里斯蒂安"
+msgstr "克里斯汀"
 
 msgid "NAMES/GERN152"
 msgstr "克里斯夫"
@@ -3267,7 +3267,7 @@ msgid "NAMES/GERN185"
 msgstr "米洛"
 
 msgid "NAMES/GERN186"
-msgstr "尼古拉斯"
+msgstr "尼可拉斯"
 
 msgid "NAMES/GERN187"
 msgstr "尼爾斯"
@@ -3345,7 +3345,7 @@ msgid "NAMES/GERN208"
 msgstr "安東"
 
 msgid "NAMES/GERN209"
-msgstr "弗雷德裡克"
+msgstr "弗雷德里克"
 
 msgid "NAMES/GERN21"
 msgstr "羅德瑞克"
@@ -3396,7 +3396,7 @@ msgid "NAMES/GERN223"
 msgstr "布拉特"
 
 msgid "NAMES/GERN224"
-msgstr "西格弗裡德"
+msgstr "西格弗里德"
 
 msgid "NAMES/GERN225"
 msgstr "西蒙"
@@ -3459,7 +3459,7 @@ msgid "NAMES/GERN242"
 msgstr "烏爾夫"
 
 msgid "NAMES/GERN243"
-msgstr "烏爾裡克"
+msgstr "烏爾里克"
 
 msgid "NAMES/GERN244"
 msgstr "皮裡"
@@ -3525,7 +3525,7 @@ msgid "NAMES/GERN262"
 msgstr "威爾弗雷德"
 
 msgid "NAMES/GERN263"
-msgstr "維爾弗裡德"
+msgstr "維爾弗里德"
 
 msgid "NAMES/GERN264"
 msgstr "威廉"
@@ -3693,7 +3693,7 @@ msgid "NAMES/GERN7"
 msgstr "埃米爾"
 
 msgid "NAMES/GERN70"
-msgstr "埃默裡奇"
+msgstr "埃默里奇"
 
 msgid "NAMES/GERN71"
 msgstr "埃米特"
@@ -3705,7 +3705,7 @@ msgid "NAMES/GERN73"
 msgstr "艾哈德"
 
 msgid "NAMES/GERN74"
-msgstr "埃裡希"
+msgstr "埃里希"
 
 msgid "NAMES/GERN75"
 msgstr "歐內斯特"
@@ -3744,10 +3744,10 @@ msgid "NAMES/GERN85"
 msgstr "弗蘭茲"
 
 msgid "NAMES/GERN86"
-msgstr "弗雷德裡克"
+msgstr "弗雷德里克"
 
 msgid "NAMES/GERN87"
-msgstr "弗裡德黑爾姆"
+msgstr "弗里德黑爾姆"
 
 msgid "NAMES/GERN88"
 msgstr "阿拉里克"
@@ -3756,7 +3756,7 @@ msgid "NAMES/GERN89"
 msgstr "弗里德里希"
 
 msgid "NAMES/GERN9"
-msgstr "弗裡茨"
+msgstr "弗里茨"
 
 msgid "NAMES/GERN90"
 msgstr "加里"
@@ -3783,10 +3783,10 @@ msgid "NAMES/GERN97"
 msgstr "弗里德里希"
 
 msgid "NAMES/GERN98"
-msgstr "弗裡茨"
+msgstr "弗里茨"
 
 msgid "NAMES/GERN99"
-msgstr "弗雷德裡克"
+msgstr "弗雷德里克"
 
 msgid "NAMES/GERU1"
 msgstr "von Staufen"

@@ -71,7 +71,7 @@ msgid "HINT_22"
 msgstr "部分戰機的垂直機動性非常好，請在戰場中留意它們。"
 
 msgid "HINT_23"
-msgstr "重置經驗可以給玩家一次重新研發科技樹的機會。"
+msgstr "重設經驗可以給玩家一次重新研發科技樹的機會。"
 
 msgid "HINT_24"
 msgstr "玩家準確，詳盡的意見可以讓遊戲變的跟好。"
@@ -97,7 +97,7 @@ msgid "HINT_3"
 msgstr "發動機損壞後，發動機功率將下降。"
 
 msgid "HINT_30"
-msgstr "去設定裡邊修改設定，體驗所有的操控模式，找出適合你的那一種。"
+msgstr "去設定裡面修改設定，體驗所有的操控模式，找出適合你的那一種。"
 
 msgid "HINT_31"
 msgstr ""
@@ -195,7 +195,7 @@ msgstr "當你咬住敵機時，也應儘量曲線飛行，即便這樣會影響
 
 msgid "HINT_54"
 msgstr ""
-"避免去過多戰機聚集的地方，在那裡敵人會更容易咬住你的尾巴，撞機的概率也會增"
+"避免去過多戰機聚集的地方，在那裡敵人會更容易咬住你的尾巴，撞機的機率也會增"
 "加。那些落單的敵機將會是較容易的目標。"
 
 msgid "HINT_55"
@@ -209,7 +209,7 @@ msgstr ""
 "利用速度快速的直線飛行並在必要時爬升躲避敵人砲火將會幫助你在戰鬥中生存。"
 
 msgid "HINT_58"
-msgstr "通過曲線飛行和機動動作規避敵人砲火將會使你在戰鬥中的生存機率大大提升。"
+msgstr "透過曲線飛行和機動動作規避敵人砲火將會使你在戰鬥中的生存機率大大提升。"
 
 msgid "HINT_59"
 msgstr ""
@@ -575,7 +575,7 @@ msgid "L3_DECREASE_SPEED"
 msgstr "減速！"
 
 msgid "L3_ENGINE_OFF"
-msgstr "如果飛行速度過快，可以通過停車來減速。"
+msgstr "如果飛行速度過快，可以透過停車來減速。"
 
 msgid "L3_FINISHED"
 msgstr "棒極了！成功到達目的地"
@@ -590,7 +590,7 @@ msgid "L3_FOLLOW_LEADER"
 msgstr "步驟3：跟緊長機"
 
 msgid "L3_FOLLOW_MANEUVERS"
-msgstr "緊跟教練機，按照演示做相關動作"
+msgstr "緊跟教練機，按照示範做相關動作"
 
 msgid "L3_FOLLOW_PORTALS"
 msgstr "穿過光圈"
@@ -650,7 +650,7 @@ msgid "L4_FIGHTERS_INCOMING"
 msgstr "注意！敵機靠近！"
 
 msgid "L4_FIGHT_INSTRUCTIONS"
-msgstr "僚機會吸引敵機的注意，你的任務就是從後面幹掉敵機"
+msgstr "僚機會吸引敵機的注意，你的任務就是從後面乾掉敵機"
 
 msgid "L4_INTERCEPT"
 msgstr "步驟1：截擊重型戰鬥機"
@@ -1005,7 +1005,7 @@ msgid "TUTORIAL_LESSON_1_HEADER_PROCEED_TO_FINISH"
 msgstr "即將完成"
 
 msgid "TUTORIAL_LESSON_1_HEADER_RACE_FINISHED"
-msgstr "完成教程任務！"
+msgstr "完成教學任務！"
 
 msgid "TUTORIAL_LESSON_1_HEADER_RETURN"
 msgstr "脫離訓練區域"
@@ -1098,7 +1098,7 @@ msgid "TUTORIAL_LESSON_1_HEADER_YAW_RIGHT"
 msgstr "右偏轉"
 
 msgid "TUTORIAL_LESSON_1_HELLO_MESSAGE"
-msgstr "你好，飛行員！歡迎來到新手教程！"
+msgstr "你好，飛行員！歡迎來到新手教學！"
 
 msgid "TUTORIAL_LESSON_1_LOADER_CONTROLS"
 msgstr "飛行控制"
@@ -1134,13 +1134,13 @@ msgid "TUTORIAL_LESSON_1_MESSAGE_FIRE"
 msgstr "目標進入攻擊範圍！開火！"
 
 msgid "TUTORIAL_LESSON_1_MESSAGE_FIRE_AT_100"
-msgstr "你的有效攻擊距離為100米"
+msgstr "你的有效攻擊距離為100公尺"
 
 msgid "TUTORIAL_LESSON_1_MESSAGE_FIRE_AT_200"
-msgstr "你的有效攻擊距離為200米"
+msgstr "你的有效攻擊距離為200公尺"
 
 msgid "TUTORIAL_LESSON_1_MESSAGE_FIRE_AT_300"
-msgstr "你的有效攻擊距離為300米"
+msgstr "你的有效攻擊距離為300公尺"
 
 msgid "TUTORIAL_LESSON_1_MESSAGE_FIRST_AERO"
 msgstr "破壞標記氣球（1/2）"
@@ -1267,7 +1267,7 @@ msgid "TUTORIAL_LESSON_1_MESSAGE_TO_FAR_SHOOT1"
 msgstr "接近目標後再次開火"
 
 msgid "TUTORIAL_LESSON_1_MESSAGE_TO_FAR_SHOOT2"
-msgstr "持續瞄準目標的射擊指示環，當距離小於550米時可以開火"
+msgstr "持續瞄準目標的射擊指示環，當距離小於550公尺時可以開火"
 
 msgid "TUTORIAL_LESSON_1_MESSAGE_TO_LOW1"
 msgstr "操控飛機獲得高度"
@@ -1660,7 +1660,7 @@ msgid "TUTORIAL_LESSON_3_MESSAGE_NOTE_HEIGHT_SPEED"
 msgstr "攻擊機的爬升速度較慢，在爬升過程中應避免幅度過大的轉向"
 
 msgid "TUTORIAL_LESSON_3_MESSAGE_NOTE_TURN_SPEED"
-msgstr "攻擊機的機動性較差，儘量避免進行復雜的機動動作"
+msgstr "攻擊機的機動性較差，儘量避免進行複雜的機動動作"
 
 msgid "TUTORIAL_LESSON_3_MESSAGE_OPEN_FIRE_BASE"
 msgstr "使用所有可用武器摧毀敵方目標"
@@ -1744,7 +1744,7 @@ msgid "TUTORIAL_LESSON_4_LOADER_TEXT_03"
 msgstr "啟動加速，快速在敵人的方向上轉彎。"
 
 msgid "TUTORIAL_LESSON_4_MESSAGE_ALLY_HIT"
-msgstr "攻擊友機將會降低己方獲勝的概率"
+msgstr "攻擊友機將會降低己方獲勝的機率"
 
 msgid "TUTORIAL_LESSON_4_MESSAGE_ALLY_KILLED"
 msgstr ""
@@ -1871,7 +1871,7 @@ msgid "TUTORIAL_REWARD_ALLREADY_GET"
 msgstr "你已獲得獎勵！"
 
 msgid "TUTORIAL_REWARD_DESCRIPTION"
-msgstr "在選單中選擇訓練戰鬥，並重復戰鬥取得更高的戰績。"
+msgstr "在選單中選擇訓練戰鬥，並重複戰鬥取得更高的戰績。"
 
 msgid "TUTORIAL_REWARD_TEXT"
 msgstr "作為獎勵，在你完成所有訓練之後！"

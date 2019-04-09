@@ -385,7 +385,7 @@ msgid "RANKSCN/7"
 msgstr "第二中尉"
 
 msgid "RANKSCN/8"
-msgstr "準尉"
+msgstr "准尉"
 
 msgid "RANKSCN/9"
 msgstr "中士一等"

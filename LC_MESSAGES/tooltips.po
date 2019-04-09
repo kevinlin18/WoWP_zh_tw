@@ -144,7 +144,7 @@ msgid "TOOLTIPS_ACHIEVEMENTS_SORT_BY_PLAYTIME_ON_PLANES"
 msgstr "按飛行時數排序"
 
 msgid "TOOLTIPS_ACTIVE_SKILL"
-msgstr "啓動技能"
+msgstr "啟動技能"
 
 msgid "TOOLTIPS_ADDITIONAL_SETTINGS_AVAILABLE_ONLY_FOR_900PX_AND_MORE"
 msgstr ""
@@ -3471,7 +3471,7 @@ msgstr "對防空火力的威脅"
 
 msgid "TOOLTIPS_QUESTS_2016_SPRING_10_BASIC"
 msgstr ""
-"通過摧毀敵人地面目標的方式獲得60點優勢點。獲得至少30點的戰鬥才會被計算在內。"
+"透過摧毀敵人地面目標的方式獲得60點優勢點。獲得至少30點的戰鬥才會被計算在內。"
 
 msgid "TOOLTIPS_QUESTS_2016_SPRING_10_EXTRA"
 msgstr ""
@@ -3642,7 +3642,7 @@ msgid "TOOLTIPS_RESET_ALL_FILTERS"
 msgstr "重設過濾"
 
 msgid "TOOLTIPS_RESET_DESCRIPTION"
-msgstr "重置技能時，乘員失去所有技能，但返還所有技能點。"
+msgstr "重設技能時，乘員失去所有技能，但返還所有技能點。"
 
 msgid "TOOLTIPS_RESET_EQUIPMENT_BUTTON_DESCRIPTION"
 msgstr ""
@@ -3656,7 +3656,7 @@ msgid "TOOLTIPS_REWARD_TEXT_10"
 msgstr "二級輕量化機身"
 
 msgid "TOOLTIPS_REWARD_TEXT_11"
-msgstr "二級優化引擎"
+msgstr "二級最佳化引擎"
 
 msgid "TOOLTIPS_REWARD_TEXT_12"
 msgstr "高階彈藥"
@@ -3665,7 +3665,7 @@ msgid "TOOLTIPS_REWARD_TEXT_13"
 msgstr "機位"
 
 msgid "TOOLTIPS_REWARD_TEXT_2"
-msgstr "為I-180-3給予獨特裝備“槍式攝像機”獎勵："
+msgstr "為I-180-3給予獨特裝備“槍式攝影機”獎勵："
 
 msgid "TOOLTIPS_REWARD_TEXT_3"
 msgstr "+15%戰鬥積分"
@@ -4321,14 +4321,14 @@ msgid "TOOLTIP_ATTACK_MESSAGE"
 msgstr "<b>攻擊敵機!</b><br/>傳送一個隊聊“攻擊敵機！”"
 
 msgid "TOOLTIP_AUTOMATICAL_SETTINGS"
-msgstr "自動檢測最佳影像設定<br>根據您的計算機配置進行檢測"
+msgstr "自動檢測最佳影像設定<br>根據您的電腦配置進行檢測"
 
 msgid "TOOLTIP_AUTOMATIC_FLAPS"
 msgstr "在急轉中自動開啟襟翼<br/>將會加快戰機的轉向，但會損失空速"
 
 msgid "TOOLTIP_AVG_VALUE"
 msgstr ""
-"效能指示所表示的是與同一等級所有戰機的該項效能相比較的水平<br>當你改變戰機的"
+"效能指示所表示的是與同一等級所有戰機的該項效能相比較的水準<br>當你改變戰機的"
 "裝備配置時會相應發生變化"
 
 msgid "TOOLTIP_AXIS_SENSITIVITY"
@@ -5720,7 +5720,7 @@ msgid "TOOLTIP_METRIC_MEASUREMENT"
 msgstr "<b>米制測量體系</b><br/>高度單位為m，速度單位為km/h"
 
 msgid "TOOLTIP_MICROPHONE"
-msgstr "在檢測到的裝置下拉列表中選擇麥克風"
+msgstr "在檢測到的裝置下拉選單中選擇麥克風"
 
 msgid "TOOLTIP_MICROPHONE_SENSITIVITY"
 msgstr "調整您使用麥克風時的最低音量<br/>該設定應高於您的環境噪音水平"
@@ -6164,7 +6164,7 @@ msgid "TOOLTIP_SETTINGS_CHAT_ACCEPT_MESSAGES_FROM_FRIENDS"
 msgstr "只從聯絡人列表中的玩家處接收訊息"
 
 msgid "TOOLTIP_SETTINGS_CHECKBOX_RESPONSE_INCREASE"
-msgstr "遊戲客戶端將會預測戰機飛行行為，提高控制的響應速度和姿態"
+msgstr "遊戲用戶端將會預測戰機飛行行為，提高控制的響應速度和姿態"
 
 msgid "TOOLTIP_SETTINGS_DO_NOT_SHOW_OFFLINE_PLAYERS"
 msgstr "隱藏列表中目前離線的玩家"
@@ -6303,7 +6303,7 @@ msgid "TOOLTIP_SETTINGS_REPLAY_AUTO_DELETE_REPLAYS_OVER"
 msgstr "指定戰鬥錄影檔案的儲存天數"
 
 msgid "TOOLTIP_SETTINGS_REPLAY_CAPTURE_BATTLES_MESSAGE"
-msgstr "啟用戰鬥錄影功能，運行錄影檔案即可重放戰鬥 (需要安裝遊戲客戶端)"
+msgstr "啟用戰鬥錄影功能，運行錄影檔案即可重放戰鬥 (需要安裝遊戲用戶端)"
 
 msgid "TOOLTIP_SETTINGS_SHOW_ADVANCE_POINT_BEYOND_EFFECTIVE_RANGE"
 msgstr "在接近射擊範圍前顯示灰色的射擊指示環<br>對敵人發起攻擊時更有利"
@@ -6632,7 +6632,7 @@ msgid "TOOLTIP_TURN_RIGHT"
 msgstr "<b>右轉</b><br/>右移機頭，保持機翼與地面平行"
 
 msgid "TOOLTIP_TUTORIAL_CHANGE_MODE"
-msgstr "<b>新手教程</b><br/>點選滑鼠左鍵更換戰鬥模式"
+msgstr "<b>新手教學</b><br/>點選滑鼠左鍵更換戰鬥模式"
 
 msgid "TOOLTIP_TYPE_ASSAULT"
 msgstr "<b>攻擊機</b><br/>攻擊機的主要任務是摧毀地面目標"
@@ -6691,7 +6691,7 @@ msgid "TOOLTIP_VIDEO_OFF"
 msgstr "關閉背景影片"
 
 msgid "TOOLTIP_VIDEO_ON"
-msgstr "開啓背景影片"
+msgstr "開啟背景影片"
 
 msgid "TOOLTIP_VIDEO_SOUND_OFF"
 msgstr "關閉聲音"
@@ -6702,7 +6702,7 @@ msgstr ""
 "sound in the section \"Volume\"."
 
 msgid "TOOLTIP_VIDEO_SOUND_ON"
-msgstr "開啓聲音"
+msgstr "開啟聲音"
 
 msgid "TOOLTIP_VOICECHAT_TEST"
 msgstr "<b>vivox測試</b><br/>點選“開始測試”，調整語音聊天相關設定"

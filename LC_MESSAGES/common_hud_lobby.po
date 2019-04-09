@@ -88,10 +88,10 @@ msgid "TOOLTIPS_HUD_LOBBY_CLASS_QUEST_EVENT_DESCRIPTION_N1"
 msgstr "從敵方戰鬥群中摧毀飛機"
 
 msgid "TOOLTIPS_HUD_LOBBY_CLASS_QUEST_EVENT_DESCRIPTION_N2"
-msgstr "通過摧毀襲擊他們的飛機來保衛轟炸機組"
+msgstr "透過摧毀襲擊他們的飛機來保衛轟炸機組"
 
 msgid "TOOLTIPS_HUD_LOBBY_CLASS_QUEST_EVENT_DESCRIPTION_N3"
-msgstr "通過摧毀襲擊它們的飛機來保衛盟軍攻擊機"
+msgstr "透過摧毀襲擊它們的飛機來保衛盟軍攻擊機"
 
 msgid "TOOLTIPS_HUD_LOBBY_CLASS_QUEST_EVENT_DESCRIPTION_N4"
 msgstr "摧毀敵人的AA武器"
