@@ -614,7 +614,7 @@ msgid "TOOLTIPS_BUY_PLANE_TROOM_NOT_AVAILABLE"
 msgstr "當你進入訓練房時不可購買戰機"
 
 msgid "TOOLTIPS_BUY_PLANE_WING_NOT_AVAILABLE"
-msgstr "當你加入編隊並點選“準備！”按鈕後不可購買戰機"
+msgstr "當你加入編隊並點選「準備！」按鈕後不可購買戰機"
 
 msgid "TOOLTIPS_CALIBRATE_CURRENT_STAT"
 msgstr "Current value (calibration range):"
@@ -3571,7 +3571,7 @@ msgstr "在一場戰鬥中至少擊落1架敵機並摧毀1個地面目標。"
 
 msgid "TOOLTIPS_QUESTS_COMPLEX_02_EXTRA"
 msgstr ""
-"在一場贏得勝利的戰鬥中獲得“掃地手”勳章並至少擊落2架敵機且在戰鬥結束時倖存。"
+"在一場贏得勝利的戰鬥中獲得「掃地手」勳章並至少擊落2架敵機且在戰鬥結束時倖存。"
 
 msgid "TOOLTIPS_QUESTS_COMPLEX_02_NAME"
 msgstr "天與地"
@@ -3665,7 +3665,7 @@ msgid "TOOLTIPS_REWARD_TEXT_13"
 msgstr "機位"
 
 msgid "TOOLTIPS_REWARD_TEXT_2"
-msgstr "為I-180-3給予獨特裝備“槍式攝影機”獎勵："
+msgstr "為I-180-3給予獨特裝備「槍式攝影機」獎勵："
 
 msgid "TOOLTIPS_REWARD_TEXT_3"
 msgstr "+15%戰鬥積分"
@@ -4315,10 +4315,10 @@ msgid "TOOLTIP_ASSIST_HEADER"
 msgstr "助攻"
 
 msgid "TOOLTIP_ATTACKING_MESSAGE"
-msgstr "<b>攻擊：</b><br/>指定一個目標併傳送一個隊聊“攻擊：”"
+msgstr "<b>攻擊：</b><br/>指定一個目標併傳送一個隊聊「攻擊：」"
 
 msgid "TOOLTIP_ATTACK_MESSAGE"
-msgstr "<b>攻擊敵機!</b><br/>傳送一個隊聊“攻擊敵機！”"
+msgstr "<b>攻擊敵機!</b><br/>傳送一個隊聊「攻擊敵機！」"
 
 msgid "TOOLTIP_AUTOMATICAL_SETTINGS"
 msgstr "自動檢測最佳影像設定<br>根據您的電腦配置進行檢測"
@@ -5248,7 +5248,7 @@ msgstr ""
 "the aircraft's roll."
 
 msgid "TOOLTIP_FOLLOW_ME_MESSAGE"
-msgstr "<b>跟我來！</b><br/>傳送一個隊聊資訊“跟我來！”"
+msgstr "<b>跟我來！</b><br/>傳送一個隊聊資訊「跟我來！」"
 
 msgid "TOOLTIP_FOR_BOMB_ROCKETS_SLOT"
 msgstr "Compatible with an outboard weaponry slot"
@@ -5819,7 +5819,7 @@ msgid "TOOLTIP_NAVIGATOR_BASIC_SKILL"
 msgstr "導航員的基礎技能"
 
 msgid "TOOLTIP_NEGATIVE_MESSAGE"
-msgstr "<b>拒絕接受!</b><br/>傳送一個隊聊“拒絕接受！”"
+msgstr "<b>拒絕接受!</b><br/>傳送一個隊聊「拒絕接受！」"
 
 msgid "TOOLTIP_NEXT_TARGET"
 msgstr "<b>切換目標</b><br/>鎖定附近的下個目標"
@@ -6086,7 +6086,7 @@ msgid "TOOLTIP_RESTORE_DEFAULTS"
 msgstr "<b>預設</b><br/>恢復預設設定"
 
 msgid "TOOLTIP_RETURN_TO_BASE_MESSAGE"
-msgstr "<b>基地防守!</b><br/>傳送一個隊聊“基地防守！”"
+msgstr "<b>基地防守!</b><br/>傳送一個隊聊「基地防守！」"
 
 msgid "TOOLTIP_ROLES_ARMORED_PLANE"
 msgstr ""
@@ -6584,7 +6584,7 @@ msgid "TOOLTIP_TRAINING_DELETE_ROOM"
 msgstr "<b>刪除房間</b><br/>刪除已建立的訓練房"
 
 msgid "TOOLTIP_TRAINING_DESCRIPTION"
-msgstr "<b>說明</b><br/>填寫房間說明，例如：“對所有人開放”"
+msgstr "<b>說明</b><br/>填寫房間說明，例如：「對所有人開放」"
 
 msgid "TOOLTIP_TRAINING_FIRE_MODE"
 msgstr "<b>射擊模式</b><br/>選擇一種武器攻擊"
@@ -6705,7 +6705,7 @@ msgid "TOOLTIP_VIDEO_SOUND_ON"
 msgstr "開啟聲音"
 
 msgid "TOOLTIP_VOICECHAT_TEST"
-msgstr "<b>vivox測試</b><br/>點選“開始測試”，調整語音聊天相關設定"
+msgstr "<b>vivox測試</b><br/>點選「開始測試」，調整語音聊天相關設定"
 
 msgid "TOOLTIP_VOICECHAT_VOLUME"
 msgstr "調節聊天的音量大小"

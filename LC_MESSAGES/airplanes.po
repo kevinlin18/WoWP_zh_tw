@@ -159,7 +159,7 @@ msgstr ""
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_BF110B"
 msgstr ""
-"依照在兩次大戰之間的時期所非常流行的 “驅逐戰鬥機” 的概念所製造的戰機，在波"
+"依照在兩次大戰之間的時期所非常流行的 「驅逐戰鬥機」 的概念所製造的戰機，在波"
 "蘭、法國和挪威的戰鬥中表現出色。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_BF110E"
@@ -1136,7 +1136,7 @@ msgstr ""
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_LONG_MIG-15BIS"
 msgstr ""
-"在米格-15 的基礎上換裝新型發動機的改進型號，北約代號為 “柴捆”，在 1950 年至 "
+"在米格-15 的基礎上換裝新型發動機的改進型號，北約代號為 「柴捆」，在 1950 年至 "
 "1953 年的抗美援朝戰爭期間被應用於實戰並且表現出色，共生產了 8354 架該型戰機並"
 "曾在 40 多個國家的空軍服役。"
 
@@ -1162,7 +1162,7 @@ msgstr ""
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_LONG_P-51H"
 msgstr ""
-"“野馬” 系列戰鬥機中速度最快的型號，而且該型戰機也是速度最快的活塞式戰鬥機之"
+"「野馬」 系列戰鬥機中速度最快的型號，而且該型戰機也是速度最快的活塞式戰鬥機之"
 "一。在 1945 年夏季開始服役但沒能趕上戰鬥。共生產了 555 架該型戰機。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_LONG_P-82B"
@@ -1205,7 +1205,7 @@ msgstr ""
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_LONG_TSKB-12"
 msgstr ""
-"搭載懷特 “旋風” 發動機和三葉片螺旋槳的伊-16 戰鬥機的原型機，在該機進行過測試"
+"搭載懷特 「旋風」 發動機和三葉片螺旋槳的伊-16 戰鬥機的原型機，在該機進行過測試"
 "後決定改為使用 M-22 發動機。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_LONG_VENOM"
@@ -1265,7 +1265,7 @@ msgstr ""
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_LONG_YP-29"
 msgstr ""
-"波音公司在非常成功的 P-26“玩具槍” 戰鬥機的基礎上所做的升級改進嘗試，共有製造"
+"波音公司在非常成功的 P-26「玩具槍」 戰鬥機的基礎上所做的升級改進嘗試，共有製造"
 "了 4 架 P-29 原型機。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_M-20"
@@ -1324,7 +1324,7 @@ msgid "MARKET_AIRPLANE_DESCRIPTION_ME262HG3"
 msgstr "在 Me.262 基礎上進一步發展的高空高速型戰鬥機。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_ME410"
-msgstr "在 “驅逐機” 概念影響下發展的重型戰鬥轟炸機，戰爭中主要用於西線戰場。"
+msgstr "在 「驅逐機」 概念影響下發展的重型戰鬥轟炸機，戰爭中主要用於西線戰場。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_ME609"
 msgstr ""
@@ -1337,7 +1337,7 @@ msgstr ""
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_MIG-15BIS"
 msgstr ""
-"在米格-15 的基礎上換裝新型發動機的改進型號，北約代號為 “柴捆”，抗美援朝戰爭期"
+"在米格-15 的基礎上換裝新型發動機的改進型號，北約代號為 「柴捆」，抗美援朝戰爭期"
 "間被應用於實戰，共生產了 8354 架該型戰機。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_MIG-3"
@@ -1428,7 +1428,7 @@ msgstr ""
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_P-51H"
 msgstr ""
-"“野馬” 系列戰鬥機中速度最快的型號，而且該型戰機也是速度最快的活塞式戰鬥機之"
+"「野馬」 系列戰鬥機中速度最快的型號，而且該型戰機也是速度最快的活塞式戰鬥機之"
 "一。共生產了 555 架該型戰機。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_P-51K"
@@ -1629,7 +1629,7 @@ msgstr "1930 年代開始研製的重型攻擊機。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_TSKB-12"
 msgstr ""
-"搭載懷特 “旋風” 發動機和三葉片螺旋槳的伊-16 戰鬥機的原型機，對該機進行測試後"
+"搭載懷特 「旋風」 發動機和三葉片螺旋槳的伊-16 戰鬥機的原型機，對該機進行測試後"
 "決定量產型伊-16 戰鬥機搭載 M-22 引擎。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_TU-1"
@@ -1779,7 +1779,7 @@ msgstr ""
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_YP-29"
 msgstr ""
-"波音公司在非常成功的 P-26“玩具槍” 戰鬥機的基礎上所做的升級改進嘗試，共有製造"
+"波音公司在非常成功的 P-26「玩具槍」 戰鬥機的基礎上所做的升級改進嘗試，共有製造"
 "了 4 架 P-29 原型機。"
 
 msgid "PLANE_LONGNAME_2PA"

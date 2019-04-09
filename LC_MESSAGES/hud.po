@@ -2583,7 +2583,7 @@ msgstr "在一場戰鬥中至少擊落1架敵機並摧毀1個地面目標。"
 
 msgid "HUD_QUESTS_COMPLEX_02_EXTRA"
 msgstr ""
-"在一場贏得勝利的戰鬥中獲得“掃地手”勳章並至少擊落2架敵機且在戰鬥結束時倖存"
+"在一場贏得勝利的戰鬥中獲得「掃地手」勳章並至少擊落2架敵機且在戰鬥結束時倖存"
 
 msgid "HUD_QUESTS_COMPLEX_02_NAME"
 msgstr "天與地"
@@ -2601,7 +2601,7 @@ msgid "HUD_QUESTS_COMPLEX_04_BASIC"
 msgstr "在一場戰鬥中擊傷至少4架敵機"
 
 msgid "HUD_QUESTS_COMPLEX_04_EXTRA"
-msgstr "連續在二或三場戰鬥中獲得“王牌”勳章"
+msgstr "連續在二或三場戰鬥中獲得「王牌」勳章"
 
 msgid "HUD_QUESTS_COMPLEX_04_NAME"
 msgstr "險中求勝"
@@ -2639,16 +2639,16 @@ msgstr ""
 "可與您組隊的玩家，可選擇自動搜尋組隊功能與陌生玩家組隊完成此任務"
 
 msgid "HUD_QUESTS_COMPLEX_08_EXTRA"
-msgstr "在一場贏得勝利的戰鬥中獲得“傑出貢獻”勳章並在戰鬥結束時倖存"
+msgstr "在一場贏得勝利的戰鬥中獲得「傑出貢獻」勳章並在戰鬥結束時倖存"
 
 msgid "HUD_QUESTS_COMPLEX_08_NAME"
 msgstr "團結之力"
 
 msgid "HUD_QUESTS_COMPLEX_09_BASIC"
-msgstr "獲得“王牌”或“破壞者”勳章"
+msgstr "獲得「王牌」或「破壞者」勳章"
 
 msgid "HUD_QUESTS_COMPLEX_09_EXTRA"
-msgstr "在一天內至少4次獲得“王牌”或“破壞者”勳章"
+msgstr "在一天內至少4次獲得「王牌」或「破壞者」勳章"
 
 msgid "HUD_QUESTS_COMPLEX_09_NAME"
 msgstr "死神降臨"

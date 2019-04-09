@@ -562,13 +562,13 @@ msgstr ""
 "once for each aircraft in the Hangar."
 
 msgid "MEDAL_DESCRIPTION_BONG1"
-msgstr "使用重型戰鬥機累計獲得300個“破壞者”勳章"
+msgstr "使用重型戰鬥機累計獲得300個「破壞者」勳章"
 
 msgid "MEDAL_DESCRIPTION_BONG2"
-msgstr "使用重型戰鬥機累計獲得30個“破壞者”勳章"
+msgstr "使用重型戰鬥機累計獲得30個「破壞者」勳章"
 
 msgid "MEDAL_DESCRIPTION_BONG3"
-msgstr "使用重型戰鬥機累計獲得3個“破壞者”勳章"
+msgstr "使用重型戰鬥機累計獲得3個「破壞者」勳章"
 
 msgid "MEDAL_DESCRIPTION_BOYINGTON1"
 msgstr ""
@@ -610,19 +610,19 @@ msgid "MEDAL_DESCRIPTION_CADET"
 msgstr "完成訓練任務"
 
 msgid "MEDAL_DESCRIPTION_CADET_1"
-msgstr "以優異表現完成“飛行訓練”系列任務"
+msgstr "以優異表現完成「飛行訓練」系列任務"
 
 msgid "MEDAL_DESCRIPTION_CADET_2"
-msgstr "以良好表現完成“飛行訓練”系列任務"
+msgstr "以良好表現完成「飛行訓練」系列任務"
 
 msgid "MEDAL_DESCRIPTION_CADET_3"
-msgstr "以較好表現完成“飛行訓練”系列任務"
+msgstr "以較好表現完成「飛行訓練」系列任務"
 
 msgid "MEDAL_DESCRIPTION_CADET_4"
-msgstr "以熟練表現完成“飛行訓練”系列任務"
+msgstr "以熟練表現完成「飛行訓練」系列任務"
 
 msgid "MEDAL_DESCRIPTION_CADET_5"
-msgstr "以正常表現完成“飛行訓練”系列任務"
+msgstr "以正常表現完成「飛行訓練」系列任務"
 
 msgid "MEDAL_DESCRIPTION_CANDY_RAID"
 msgstr ""
@@ -961,19 +961,19 @@ msgstr ""
 "架戰機只可獲得一次"
 
 msgid "MEDAL_DESCRIPTION_FLGHT_LEADER_1"
-msgstr "以優異表現完成“飛行編隊”系列任務"
+msgstr "以優異表現完成「飛行編隊」系列任務"
 
 msgid "MEDAL_DESCRIPTION_FLGHT_LEADER_2"
-msgstr "以良好表現完成“飛行編隊”系列任務"
+msgstr "以良好表現完成「飛行編隊」系列任務"
 
 msgid "MEDAL_DESCRIPTION_FLGHT_LEADER_3"
-msgstr "以較好表現完成“飛行編隊”系列任務"
+msgstr "以較好表現完成「飛行編隊」系列任務"
 
 msgid "MEDAL_DESCRIPTION_FLGHT_LEADER_4"
-msgstr "以熟練表現完成“飛行編隊”系列任務"
+msgstr "以熟練表現完成「飛行編隊」系列任務"
 
 msgid "MEDAL_DESCRIPTION_FLGHT_LEADER_5"
-msgstr "以正常表現完成“飛行編隊”系列任務"
+msgstr "以正常表現完成「飛行編隊」系列任務"
 
 msgid "MEDAL_DESCRIPTION_FLIGHT_DRESSING"
 msgstr "授予使用急救繃帶包或急救箱治療受傷飛行員的玩家<br><br>只可獲得一次"
@@ -997,19 +997,19 @@ msgid "MEDAL_DESCRIPTION_FLY_SAUCER"
 msgstr "授予2014愚人節活動駕駛斯雷普尼爾參與至少1場戰鬥的玩家"
 
 msgid "MEDAL_DESCRIPTION_FRONTLINE_1"
-msgstr "以優異表現完成“奪命的天空”系列任務"
+msgstr "以優異表現完成「奪命的天空」系列任務"
 
 msgid "MEDAL_DESCRIPTION_FRONTLINE_2"
-msgstr "以良好表現完成“奪命的天空”系列任務"
+msgstr "以良好表現完成「奪命的天空」系列任務"
 
 msgid "MEDAL_DESCRIPTION_FRONTLINE_3"
-msgstr "以較好表現完成“奪命的天空”系列任務"
+msgstr "以較好表現完成「奪命的天空」系列任務"
 
 msgid "MEDAL_DESCRIPTION_FRONTLINE_4"
-msgstr "以熟練表現完成“奪命的天空”系列任務"
+msgstr "以熟練表現完成「奪命的天空」系列任務"
 
 msgid "MEDAL_DESCRIPTION_FRONTLINE_5"
-msgstr "以正常表現完成“奪命的天空”系列任務"
+msgstr "以正常表現完成「奪命的天空」系列任務"
 
 msgid "MEDAL_DESCRIPTION_FULMINANT"
 msgstr ""
@@ -1023,13 +1023,13 @@ msgstr ""
 "對戰中獲得一次"
 
 msgid "MEDAL_DESCRIPTION_GALLAND1"
-msgstr "使用戰鬥機或多用途戰鬥機累計獲得300個“王牌”勳章"
+msgstr "使用戰鬥機或多用途戰鬥機累計獲得300個「王牌」勳章"
 
 msgid "MEDAL_DESCRIPTION_GALLAND2"
-msgstr "使用戰鬥機或多用途戰鬥機累計獲得30個“王牌”勳章"
+msgstr "使用戰鬥機或多用途戰鬥機累計獲得30個「王牌」勳章"
 
 msgid "MEDAL_DESCRIPTION_GALLAND3"
-msgstr "使用戰鬥機或多用途戰鬥機累計獲得3個“王牌”勳章"
+msgstr "使用戰鬥機或多用途戰鬥機累計獲得3個「王牌」勳章"
 
 msgid "MEDAL_DESCRIPTION_GOLD_PLAYERS"
 msgstr ""
@@ -1241,7 +1241,7 @@ msgstr ""
 "the player's aircraft is destroyed."
 
 msgid "MEDAL_DESCRIPTION_IRREPLACEABLE"
-msgstr "授予使用3架不同戰機獲得“支配者”勳章的玩家"
+msgstr "授予使用3架不同戰機獲得「支配者」勳章的玩家"
 
 msgid "MEDAL_DESCRIPTION_JACK_OF_ALL_TRADES"
 msgstr "授予使用至少2種不同類型戰機參與戰鬥的玩家"
@@ -1404,22 +1404,22 @@ msgid "MEDAL_DESCRIPTION_LEGENDARY_ACE"
 msgstr "授予使用一架任意類型戰機取得成就的玩家"
 
 msgid "MEDAL_DESCRIPTION_LEGENDARY_ASSAULT"
-msgstr "頒發給獲得1000次“掃地手”勳章的攻擊機。"
+msgstr "頒發給獲得1000次「掃地手」勳章的攻擊機。"
 
 msgid "MEDAL_DESCRIPTION_LEGENDARY_ASSAULT_1"
 msgstr "授予使用一架攻擊機在個人任務中取得最高成就的玩家"
 
 msgid "MEDAL_DESCRIPTION_LEGENDARY_FIGHTER"
-msgstr "頒發給獲得1000次“王牌”勳章的戰鬥機"
+msgstr "頒發給獲得1000次「王牌」勳章的戰鬥機"
 
 msgid "MEDAL_DESCRIPTION_LEGENDARY_FIGHTER_1"
 msgstr "授予使用一架戰鬥機在個人任務中取得最高成就的玩家"
 
 msgid "MEDAL_DESCRIPTION_LEGENDARY_HEAVY"
-msgstr "頒發給獲得1000次“破壞者”勳章的重型戰鬥機。"
+msgstr "頒發給獲得1000次「破壞者」勳章的重型戰鬥機。"
 
 msgid "MEDAL_DESCRIPTION_LEGENDARY_NAVY"
-msgstr "使用多用途戰鬥機累計獲得1000次“破壞者”勳章"
+msgstr "使用多用途戰鬥機累計獲得1000次「破壞者」勳章"
 
 msgid "MEDAL_DESCRIPTION_LEGENDARY_NAVY_1"
 msgstr "授予使用一架多用途戰鬥機在個人任務中取得最高成就的玩家"
@@ -1645,22 +1645,22 @@ msgstr ""
 "獲得一次"
 
 msgid "MEDAL_DESCRIPTION_PYROMANIAC"
-msgstr "授予使用3架不同戰機獲得“凌空之火”勳章的玩家"
+msgstr "授予使用3架不同戰機獲得「凌空之火」勳章的玩家"
 
 msgid "MEDAL_DESCRIPTION_QUARTERMASTER_1"
-msgstr "以優異表現完成“整體作戰”系列任務"
+msgstr "以優異表現完成「整體作戰」系列任務"
 
 msgid "MEDAL_DESCRIPTION_QUARTERMASTER_2"
-msgstr "以良好表現完成“整體作戰”系列任務"
+msgstr "以良好表現完成「整體作戰」系列任務"
 
 msgid "MEDAL_DESCRIPTION_QUARTERMASTER_3"
-msgstr "以較好表現完成“整體作戰”系列任務"
+msgstr "以較好表現完成「整體作戰」系列任務"
 
 msgid "MEDAL_DESCRIPTION_QUARTERMASTER_4"
-msgstr "以熟練表現完成“整體作戰”系列任務"
+msgstr "以熟練表現完成「整體作戰」系列任務"
 
 msgid "MEDAL_DESCRIPTION_QUARTERMASTER_5"
-msgstr "以正常表現完成“整體作戰”系列任務"
+msgstr "以正常表現完成「整體作戰」系列任務"
 
 msgid "MEDAL_DESCRIPTION_RAIDER"
 msgstr ""
@@ -1668,7 +1668,7 @@ msgstr ""
 "得，且每架戰機只可獲得一次"
 
 msgid "MEDAL_DESCRIPTION_REAPER"
-msgstr "授予使用3架不同戰機獲得“死神之吻”勳章"
+msgstr "授予使用3架不同戰機獲得「死神之吻」勳章"
 
 msgid "MEDAL_DESCRIPTION_REAR_GUARD"
 msgstr "授予使用尾砲擊落敵機的玩家<br><br>只可在標準戰鬥中獲得"
@@ -1715,7 +1715,7 @@ msgstr ""
 "存<br><br>只可在標準戰鬥中獲得，且每架戰機只可獲得一次"
 
 msgid "MEDAL_DESCRIPTION_ROAD_TO_THE_SKY"
-msgstr "授予完成“突襲地面目標”任務的玩家"
+msgstr "授予完成「突襲地面目標」任務的玩家"
 
 msgid "MEDAL_DESCRIPTION_ROCKETEER"
 msgstr ""
@@ -1780,7 +1780,7 @@ msgstr "頒發給伺服器中第一個研發併購買10級戰機的玩家"
 
 msgid "MEDAL_DESCRIPTION_SEVERSKY2"
 msgstr ""
-"頒發給在伺服器第一個獲得“謝偉爾斯基 一級”勳章2小時內研發併購買10級戰機的玩家"
+"頒發給在伺服器第一個獲得「謝偉爾斯基 一級」勳章2小時內研發併購買10級戰機的玩家"
 
 msgid "MEDAL_DESCRIPTION_SEVERSKY3"
 msgstr "頒發給在伺服器頂級戰機特殊優惠期間研發和購買10級戰機的玩家"
@@ -1866,10 +1866,10 @@ msgstr ""
 "<br><br>只可在人機對戰中獲得"
 
 msgid "MEDAL_DESCRIPTION_STAIRS_TO_THE_SKY"
-msgstr "授予完成“團隊空戰”任務的玩家"
+msgstr "授予完成「團隊空戰」任務的玩家"
 
 msgid "MEDAL_DESCRIPTION_STAIRWAY_TO_THE_SKY"
-msgstr "授予完成“空中格鬥”任務的玩家"
+msgstr "授予完成「空中格鬥」任務的玩家"
 
 msgid "MEDAL_DESCRIPTION_STAR_CATCHER"
 msgstr ""
@@ -1883,7 +1883,7 @@ msgstr ""
 "<br><font size='6'><br></font>Available once for each aircraft in the Hangar."
 
 msgid "MEDAL_DESCRIPTION_STEP_TO_THE_SKY"
-msgstr "授予完成“飛行訓練”任務的玩家"
+msgstr "授予完成「飛行訓練」任務的玩家"
 
 msgid "MEDAL_DESCRIPTION_STORMBRINGER"
 msgstr "授予使用3種不同類型戰機獲得速射手勳章的玩家"
@@ -2214,13 +2214,13 @@ msgid "MEDAL_EVENT_DESCRIPTION_BOMBING"
 msgstr "使用炸彈摧毀地面目標"
 
 msgid "MEDAL_EVENT_DESCRIPTION_BONG1"
-msgstr "使用重型戰鬥機獲得300個“破壞者”勳章"
+msgstr "使用重型戰鬥機獲得300個「破壞者」勳章"
 
 msgid "MEDAL_EVENT_DESCRIPTION_BONG2"
-msgstr "使用重型戰鬥機獲得30個“破壞者”勳章"
+msgstr "使用重型戰鬥機獲得30個「破壞者」勳章"
 
 msgid "MEDAL_EVENT_DESCRIPTION_BONG3"
-msgstr "使用重型戰鬥機獲得3個“破壞者”勳章"
+msgstr "使用重型戰鬥機獲得3個「破壞者」勳章"
 
 msgid "MEDAL_EVENT_DESCRIPTION_BREAKTHROUGH"
 msgstr "摧毀3座高射砲"
@@ -2283,7 +2283,7 @@ msgid "MEDAL_EVENT_DESCRIPTION_DOMINATOR"
 msgstr "擊落所有類型的敵機"
 
 msgid "MEDAL_EVENT_DESCRIPTION_EXPERIENCED_HUNTER"
-msgstr "完成“空戰專家”任務"
+msgstr "完成「空戰專家」任務"
 
 msgid "MEDAL_EVENT_DESCRIPTION_FALCON"
 msgstr "使用俯衝攻擊擊落敵機"
@@ -2352,13 +2352,13 @@ msgid "MEDAL_EVENT_DESCRIPTION_FUTURE_ACE"
 msgstr "擊落3架敵機並在戰鬥中倖存"
 
 msgid "MEDAL_EVENT_DESCRIPTION_GALLAND1"
-msgstr "使用戰鬥機獲得300個“王牌”勳章"
+msgstr "使用戰鬥機獲得300個「王牌」勳章"
 
 msgid "MEDAL_EVENT_DESCRIPTION_GALLAND2"
-msgstr "使用戰鬥機獲得30個“王牌”勳章"
+msgstr "使用戰鬥機獲得30個「王牌」勳章"
 
 msgid "MEDAL_EVENT_DESCRIPTION_GALLAND3"
-msgstr "使用戰鬥機獲得3個“王牌”勳章"
+msgstr "使用戰鬥機獲得3個「王牌」勳章"
 
 msgid "MEDAL_EVENT_DESCRIPTION_GOLIAPHS_NEMESIS"
 msgstr "擊落3架重型戰鬥機"
@@ -2421,7 +2421,7 @@ msgid "MEDAL_EVENT_DESCRIPTION_INVULNERABLE"
 msgstr "擊落2架敵機並且毫髮無傷"
 
 msgid "MEDAL_EVENT_DESCRIPTION_IRREPLACEABLE"
-msgstr "多架戰機獲得“支配者”勳章"
+msgstr "多架戰機獲得「支配者」勳章"
 
 msgid "MEDAL_EVENT_DESCRIPTION_JACK_OF_ALL_TRADES"
 msgstr "使用多種類型戰機參與戰鬥"
@@ -2445,22 +2445,22 @@ msgid "MEDAL_EVENT_DESCRIPTION_LEADER"
 msgstr "戰鬥結束時擊落敵機數量最多"
 
 msgid "MEDAL_EVENT_DESCRIPTION_LEGENDARY_ASSAULT"
-msgstr "使用攻擊機獲得1000次“掃地手”"
+msgstr "使用攻擊機獲得1000次「掃地手」"
 
 msgid "MEDAL_EVENT_DESCRIPTION_LEGENDARY_FIGHTER"
-msgstr "使用戰鬥機獲得1000次“王牌”"
+msgstr "使用戰鬥機獲得1000次「王牌」"
 
 msgid "MEDAL_EVENT_DESCRIPTION_LEGENDARY_HEAVY"
-msgstr "使用重型戰鬥機獲得1000次“破壞者”"
+msgstr "使用重型戰鬥機獲得1000次「破壞者」"
 
 msgid "MEDAL_EVENT_DESCRIPTION_LIGHTWEIGHT"
 msgstr "擊落敵方戰鬥機"
 
 msgid "MEDAL_EVENT_DESCRIPTION_LUCKY_HUNT"
-msgstr "完成“完美狩獵”任務"
+msgstr "完成「完美狩獵」任務"
 
 msgid "MEDAL_EVENT_DESCRIPTION_MASTER_HUNT"
-msgstr "完成“熟練搜尋”任務"
+msgstr "完成「熟練搜尋」任務"
 
 msgid "MEDAL_EVENT_DESCRIPTION_MCGUIRE"
 msgstr "使用重型戰鬥機擊落3架敵機"
@@ -2469,13 +2469,13 @@ msgid "MEDAL_EVENT_DESCRIPTION_MEANINGFUL_CONTRIBUTION"
 msgstr "編隊成員合力擊落6架敵機"
 
 msgid "MEDAL_EVENT_DESCRIPTION_MEYER1"
-msgstr "使用攻擊機獲得300次“掃地手”"
+msgstr "使用攻擊機獲得300次「掃地手」"
 
 msgid "MEDAL_EVENT_DESCRIPTION_MEYER2"
-msgstr "使用攻擊機獲得30次“掃地手”"
+msgstr "使用攻擊機獲得30次「掃地手」"
 
 msgid "MEDAL_EVENT_DESCRIPTION_MEYER3"
-msgstr "使用攻擊機獲得3次“掃地手”"
+msgstr "使用攻擊機獲得3次「掃地手」"
 
 msgid "MEDAL_EVENT_DESCRIPTION_NIMBLE"
 msgstr "造成敵方墜機"
@@ -2517,13 +2517,13 @@ msgid "MEDAL_EVENT_DESCRIPTION_PUNISHER"
 msgstr "使用一枚炸彈擊落2架敵機"
 
 msgid "MEDAL_EVENT_DESCRIPTION_PYROMANIAC"
-msgstr "使用多架戰機獲得“凌空之火”勳章"
+msgstr "使用多架戰機獲得「凌空之火」勳章"
 
 msgid "MEDAL_EVENT_DESCRIPTION_RAIDER"
 msgstr "摧毀敵方基地"
 
 msgid "MEDAL_EVENT_DESCRIPTION_REAPER"
-msgstr "使用多架戰機獲得“死神之吻”勳章"
+msgstr "使用多架戰機獲得「死神之吻」勳章"
 
 msgid "MEDAL_EVENT_DESCRIPTION_REAR_GUARD"
 msgstr "使用尾砲擊落敵機"
@@ -2577,7 +2577,7 @@ msgid "MEDAL_EVENT_DESCRIPTION_STABLE_RESULT"
 msgstr "擊落3架敵機並在戰鬥中倖存"
 
 msgid "MEDAL_EVENT_DESCRIPTION_STORMBRINGER"
-msgstr "使用多架戰機獲得“速射手”勳章"
+msgstr "使用多架戰機獲得「速射手」勳章"
 
 msgid "MEDAL_EVENT_DESCRIPTION_STRIKE_TEAM"
 msgstr "編隊成員合力擊落4架敵機和至少60分的地面目標"
@@ -2759,7 +2759,7 @@ msgstr ""
 
 msgid "MEDAL_HISTORY_MCGUIRE"
 msgstr ""
-"託馬斯·麥奎爾，美國王牌飛行員，二戰期間駕駛P-38“閃電”重型戰鬥機擊落38架敵機，"
+"託馬斯·麥奎爾，美國王牌飛行員，二戰期間駕駛P-38「閃電」重型戰鬥機擊落38架敵機，"
 "他於1945年1月7日的空戰中身亡。"
 
 msgid "MEDAL_HISTORY_MEYER"

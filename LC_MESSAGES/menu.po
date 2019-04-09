@@ -59,7 +59,7 @@ msgstr ""
 
 msgid "DISCONNECT/#SYSTEM_MESSAGES:STEAM_ACCOUNT_MISMATCH"
 msgstr ""
-"無法登錄。請在“帳戶管理”網頁上取消您的Wargaming.net帳戶與Steam帳戶的關聯： "
+"無法登錄。請在「帳戶管理」網頁上取消您的Wargaming.net帳戶與Steam帳戶的關聯： "
 "https://wargaming.net/personal"
 
 msgid "DISCONNECTED"
@@ -493,7 +493,7 @@ msgid "SERVER_UNAVAILABLE_MESSAGE"
 msgstr "暫時無法切換伺服器，你可選擇繼續使用目前伺服器或等待切換功能可用"
 
 msgid "SUSPENDED"
-msgstr "該帳戶將被刪除。 您可以在“帳戶管理”頁面上取消刪除請求。"
+msgstr "該帳戶將被刪除。 您可以在「帳戶管理」頁面上取消刪除請求。"
 
 msgid "TOOLTIP_LOGIN_EXIT_ACCOUNT"
 msgstr "清除登入資訊"

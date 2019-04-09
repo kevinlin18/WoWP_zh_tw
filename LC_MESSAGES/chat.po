@@ -201,7 +201,7 @@ msgstr "使用搜索尋找新玩家"
 
 msgid "CHAT_CHANNEL_MESSAGE_YOU_CAN_DELETE"
 msgstr ""
-"若要將某使用者逐出頻道, 請右鍵點選該使用者暱稱，選擇“移除使用者”<br>被逐出的"
+"若要將某使用者逐出頻道, 請右鍵點選該使用者暱稱，選擇「移除使用者」<br>被逐出的"
 "使用者將無法重新加入該頻道"
 
 msgid "CHAT_CHANNEL_MESSAGE_YOU_CAN_INVITE"

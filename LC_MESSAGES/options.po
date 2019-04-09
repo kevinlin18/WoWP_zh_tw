@@ -957,7 +957,7 @@ msgid "SETTINGS_ASSIGN_AXIS"
 msgstr "分配軸："
 
 msgid "SETTINGS_ATTENTION_DO_NOT_RECOMMEND_FOR_BEGINNERS"
-msgstr "“警告！更改默認設置可能會導致駕駛飛機出現困難，並可能需要更好的控制。”"
+msgstr "「警告！更改默認設置可能會導致駕駛飛機出現困難，並可能需要更好的控制。」"
 
 msgid "SETTINGS_AUTOMATIC_FLAPS"
 msgstr "自動襟翼"
@@ -1693,7 +1693,7 @@ msgstr "手動設定"
 msgid "SETTINGS_GRAPH_AUTODETECT_WARNING_MESSAGE"
 msgstr ""
 "您的電腦配備已更改，遊戲已準備好重新檢測適合目前電腦配備的最佳圖形設定，點"
-"擊“檢測”開始進行檢測。"
+"擊「檢測」開始進行檢測。"
 
 msgid "SETTINGS_GRAPH_AUTODETECT_WINDOW_HEADER"
 msgstr "自動檢測影像設定"
@@ -2587,7 +2587,7 @@ msgid "SETTINGS_MARKERS_ICON_COMPLEX_BLOKED"
 msgstr "鎖定扇形面圖示"
 
 msgid "SETTINGS_MARKERS_ICON_COMPLEX_UNDER_ATTACK"
-msgstr "“受到攻擊的分區”圖示"
+msgstr "「受到攻擊的分區」圖示"
 
 msgid "SETTINGS_MARKERS_ICON_DEFENDER_EDGES"
 msgstr "防空飛機圖示在螢幕的邊緣"
@@ -2738,7 +2738,7 @@ msgid "SETTINGS_MARKERS_SCOPE"
 msgstr "光罩"
 
 msgid "SETTINGS_MARKERS_SECTOR_MESSAGES"
-msgstr "“當前分區”標題"
+msgstr "「當前分區」標題"
 
 msgid "SETTINGS_MARKERS_SELECTED_TARGET"
 msgstr "選定目標"
@@ -2783,16 +2783,16 @@ msgid "SETTINGS_MARKERS_TEMPLATE_NAME"
 msgstr "預設: {template_name}"
 
 msgid "SETTINGS_MARKERS_TEXT_BOOST"
-msgstr "“提升”標題"
+msgstr "「提升」標題"
 
 msgid "SETTINGS_MARKERS_TEXT_HIGHT_CEILING"
-msgstr "“飛行高度”標題"
+msgstr "「飛行高度」標題"
 
 msgid "SETTINGS_MARKERS_TEXT_PLANE_HEALTH"
-msgstr "“飛機HP”標題"
+msgstr "「飛機HP」標題"
 
 msgid "SETTINGS_MARKERS_TEXT_STALL_SPEED"
-msgstr "“失速速度”標題"
+msgstr "「失速速度」標題"
 
 msgid "SETTINGS_MARKERS_TIMER_COMPLEX_BLOKED"
 msgstr "鎖定扇區計時器"
@@ -2882,11 +2882,11 @@ msgid "SETTINGS_MESSAGE_NEED_64BIT_FOR_HD"
 msgstr " HD 紋理只適用於64位的Windows系統"
 
 msgid "SETTINGS_MESSAGE_NEED_DOWNLOAD_AND_RESTART_FOR_HD"
-msgstr "影像品質選擇“高”或“很高”需下載 HD 紋理並重啟遊戲"
+msgstr "影像品質選擇「高」或「很高」需下載 HD 紋理並重啟遊戲"
 
 msgid "SETTINGS_MESSAGE_NEED_LOAD_HD_DOWNLOAD_BUTTON"
 msgstr ""
-"影像品質選擇“高”或“很高”需下載 HD 紋理，單擊 {download_button} 後將關閉遊戲客"
+"影像品質選擇「高」或「很高」需下載 HD 紋理，單擊 {download_button} 後將關閉遊戲客"
 "戶端開始下載和安裝 HD 紋理"
 
 msgid "SETTINGS_MESSAGE_NEED_RESTART_FOR_CHANGE_TEXTURES"

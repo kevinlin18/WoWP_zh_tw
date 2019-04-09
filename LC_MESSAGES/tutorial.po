@@ -713,7 +713,7 @@ msgid "L5_BOMB_TASK"
 msgstr "標線與目標相吻合投下炸彈。"
 
 msgid "L5_COMPLETE_HEADER"
-msgstr "恭喜！“重型戰鬥機訓練”成功完成！"
+msgstr "恭喜！「重型戰鬥機訓練」成功完成！"
 
 msgid "L5_ENEMY_FOUND"
 msgstr "注意！偵測到敵人攻擊機！"
@@ -1688,7 +1688,7 @@ msgstr "你的任務是使用炸彈摧毀目標"
 
 msgid "TUTORIAL_LESSON_3_MESSAGE_USE_BOMB_MODE"
 msgstr ""
-"使用投彈模式可幫助你更準確的進行轟炸，預設設定下按住“H”鍵可切換至投彈模式"
+"使用投彈模式可幫助你更準確的進行轟炸，預設設定下按住「H」鍵可切換至投彈模式"
 
 msgid "TUTORIAL_LESSON_3_MESSAGE_USE_GUNS"
 msgstr "你的任務是使用機槍和航砲摧毀目標"
@@ -1698,11 +1698,11 @@ msgstr "你的任務是使用火箭彈摧毀目標"
 
 msgid "TUTORIAL_LESSON_3_MESSAGE_USE_SIEGE_MODE"
 msgstr ""
-"使用掃射模式能夠更準確的攻擊地面目標，預設情況下“左 Shift”鍵切換至掃射模式"
+"使用掃射模式能夠更準確的攻擊地面目標，預設情況下「左 Shift」鍵切換至掃射模式"
 
 msgid "TUTORIAL_LESSON_3_MESSAGE_USE_SNIPER_MODE"
 msgstr ""
-"使用狙擊模式可幫助你更準確的進行射擊，預設設定下按住“F”鍵可切換至狙擊模式"
+"使用狙擊模式可幫助你更準確的進行射擊，預設設定下按住「F」鍵可切換至狙擊模式"
 
 msgid "TUTORIAL_LESSON_3_NAME"
 msgstr "突襲地面目標"
