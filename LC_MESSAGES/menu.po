@@ -426,7 +426,7 @@ msgid "MENU_LANGUAGE_TR"
 msgstr "Türkçe"
 
 msgid "MENU_LANGUAGE_ZH_CN"
-msgstr "簡體中文（中華人民共和國）"
+msgstr "简体中文（中华人民共和国）"
 
 msgid "MENU_NICKNAME_IN_GAME"
 msgstr "遊戲內名稱："

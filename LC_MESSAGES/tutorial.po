@@ -650,7 +650,7 @@ msgid "L4_FIGHTERS_INCOMING"
 msgstr "注意！敵機靠近！"
 
 msgid "L4_FIGHT_INSTRUCTIONS"
-msgstr "僚機會吸引敵機的注意，你的任務就是從後面乾掉敵機"
+msgstr "僚機會吸引敵機的注意，你的任務就是從後面幹掉敵機"
 
 msgid "L4_INTERCEPT"
 msgstr "步驟1：截擊重型戰鬥機"

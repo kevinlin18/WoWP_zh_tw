@@ -951,7 +951,7 @@ msgid "NAMES/GB128"
 msgstr "林頓"
 
 msgid "NAMES/GB1280"
-msgstr "瑪莉歐"
+msgstr "馬力歐"
 
 msgid "NAMES/GB1281"
 msgstr "馬特"
@@ -1296,7 +1296,7 @@ msgid "NAMES/GB1383"
 msgstr "林頓"
 
 msgid "NAMES/GB1384"
-msgstr "瑪莉歐"
+msgstr "馬力歐"
 
 msgid "NAMES/GB1385"
 msgstr "馬特"
@@ -2868,7 +2868,7 @@ msgid "NAMES/GB274"
 msgstr "林頓"
 
 msgid "NAMES/GB275"
-msgstr "瑪莉歐"
+msgstr "馬力歐"
 
 msgid "NAMES/GB276"
 msgstr "馬特"
@@ -3213,7 +3213,7 @@ msgid "NAMES/GB378"
 msgstr "林頓"
 
 msgid "NAMES/GB379"
-msgstr "瑪莉歐"
+msgstr "馬力歐"
 
 msgid "NAMES/GB38"
 msgstr "馬特"
@@ -4785,7 +4785,7 @@ msgid "NAMES/GB85"
 msgstr "林頓"
 
 msgid "NAMES/GB850"
-msgstr "瑪莉歐"
+msgstr "馬力歐"
 
 msgid "NAMES/GB851"
 msgstr "馬特"
@@ -5130,7 +5130,7 @@ msgid "NAMES/GB953"
 msgstr "林頓"
 
 msgid "NAMES/GB954"
-msgstr "瑪莉歐"
+msgstr "馬力歐"
 
 msgid "NAMES/GB955"
 msgstr "馬特"
@@ -6702,7 +6702,7 @@ msgid "NAMES/GBN85"
 msgstr "林頓"
 
 msgid "NAMES/GBN86"
-msgstr "瑪莉歐"
+msgstr "馬力歐"
 
 msgid "NAMES/GBN87"
 msgstr "錢德勒"

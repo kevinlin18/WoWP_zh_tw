@@ -1322,7 +1322,7 @@ msgid "SETTINGS_COMMON_MEASUREMENT_METRIC"
 msgstr "公制"
 
 msgid "SETTINGS_COMMON_MEASUREMENT_ROYAL"
-msgstr "英製"
+msgstr "英制"
 
 msgid "SETTINGS_CONTEXT_ADVANCE_POINT_COLOR"
 msgstr "射擊指示環顏色:"
