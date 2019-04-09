@@ -4321,7 +4321,7 @@ msgid "TOOLTIP_ATTACK_MESSAGE"
 msgstr "<b>攻擊敵機!</b><br/>傳送一個隊聊「攻擊敵機！」"
 
 msgid "TOOLTIP_AUTOMATICAL_SETTINGS"
-msgstr "自動檢測最佳影像設定<br>根據您的電腦配置進行檢測"
+msgstr "自動檢測最佳影像設定<br>根據您的電腦配備進行檢測"
 
 msgid "TOOLTIP_AUTOMATIC_FLAPS"
 msgstr "在急轉中自動開啟襟翼<br/>將會加快戰機的轉向，但會損失空速"
@@ -4429,7 +4429,7 @@ msgstr "{member_name} 震動"
 msgid "TOOLTIP_BATTLE_RESULTS_CREW_XP_FOR_BATTLE"
 msgstr ""
 "乘員所獲得的乘員經驗等於其所駕駛的戰機在戰鬥中所獲得的經驗<br>乘員經驗將會用"
-"於提升熟練度和技能水平"
+"於提升熟練度和技能水準"
 
 msgid "TOOLTIP_BATTLE_RESULTS_CRITS_DESCRIPTION"
 msgstr "對敵機造成傷害"

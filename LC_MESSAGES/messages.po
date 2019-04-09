@@ -941,7 +941,7 @@ msgid "SYSTEM_MESSAGE_ALL_CREW_LEARNED_BASICS"
 msgstr "所有 {plane_name} 乘員熟練度提升至100%"
 
 msgid "SYSTEM_MESSAGE_ALL_CREW_LEARNED_SKILL"
-msgstr "所有 {plane_name} 乘員 {skill_name} 技能水平提升至100%"
+msgstr "所有 {plane_name} 乘員 {skill_name} 技能水準提升至100%"
 
 msgid "SYSTEM_MESSAGE_BIRTHDAY_1_MONTH"
 msgstr "<font color='white'>{plane_name}</font>: 1 個月"
@@ -1084,7 +1084,7 @@ msgid "SYSTEM_MESSAGE_CREW_MEMBER_LEARNED_BASICS"
 msgstr "{plane_name} 的 {crew_member} 的熟練度已達到100%"
 
 msgid "SYSTEM_MESSAGE_CREW_MEMBER_LEARNED_SKILL"
-msgstr "{plane_name} 的 {crew_member} 的 {skill_name} 技能水平已達到100%"
+msgstr "{plane_name} 的 {crew_member} 的 {skill_name} 技能水準已達到100%"
 
 msgid "SYSTEM_MESSAGE_CREW_MEMBER_RECRUITED"
 msgstr "招募 {plane_name} 的 {crew_member}"

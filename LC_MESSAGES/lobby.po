@@ -4571,7 +4571,7 @@ msgid "LOBBY_CREW_LABEL_AIRCRAFT_PILOT"
 msgstr "飛行員："
 
 msgid "LOBBY_CREW_LABEL_AVAILABLE_AFTEF_LEARNING_OF_SKILL_0"
-msgstr "乘員技能水平達到100%後可用:"
+msgstr "乘員技能水準達到100%後可用:"
 
 msgid "LOBBY_CREW_LABEL_AVAILABLE_AFTEF_LEARNING_OF_SKILL_1"
 msgstr "掌握一項技能後:"
@@ -9879,7 +9879,7 @@ msgid "LOBBY_NEW_EQUIPMENT_QUEST_DESCRIPTION-6"
 msgstr "完成任務以接收材料以增強設備並解鎖下一階段。"
 
 msgid "LOBBY_NEW_EQUIPMENT_QUEST_DESCRIPTION-7"
-msgstr "將設備提升到「先進」的質量水平。"
+msgstr "將設備提升到「先進」的品質水準。"
 
 msgid "LOBBY_NEW_EQUIPMENT_QUEST_DESCRIPTION_FOR_ATTACK_PLANE-2"
 msgstr "在標準戰鬥中對地面目標造成傷害，可獲得2,000點個人點數。"
