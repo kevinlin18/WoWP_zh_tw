@@ -28,7 +28,7 @@ msgid "DIALOG_SERVER_FULL_HEADER"
 msgstr "伺服器 {name} 繁忙"
 
 msgid "DIALOG_SERVER_FULL_MESSAGE"
-msgstr "您已經進入遊戲等待佇列，請等待客戶端自動連線遊戲伺服器。"
+msgstr "您已經進入遊戲等待佇列，請等待用戶端自動連線遊戲伺服器。"
 
 msgid "DIALOG_SERVER_OVERLOADED_HEADER"
 msgstr "對不起, 伺服器繁忙。"
@@ -49,7 +49,7 @@ msgid "DIALOG_TRAINING_QUEUE_MESSAGE"
 msgstr "不進行訓練或稍後再參加訓練，無需進行訓練即可參加標準戰鬥。"
 
 msgid "DIALOG_TRAINING_WAIT_MESSAGE"
-msgstr "教程將自動開啟"
+msgstr "教學將自動開啟"
 
 msgid "DISCLAIMER"
 msgstr ""
@@ -59,7 +59,7 @@ msgstr ""
 
 msgid "DISCONNECT/#SYSTEM_MESSAGES:STEAM_ACCOUNT_MISMATCH"
 msgstr ""
-"無法登錄。請在“帳戶管理”網頁上取消您的Wargaming.net帳戶與Steam帳戶的關聯： "
+"無法登錄。請在「帳戶管理」網頁上取消您的Wargaming.net帳戶與Steam帳戶的關聯： "
 "https://wargaming.net/personal"
 
 msgid "DISCONNECTED"
@@ -81,7 +81,7 @@ msgid "INVALID_PASSWORD"
 msgstr "密碼不正確"
 
 msgid "LOGIN/STATUS/ALREADY_ONLINE_LOCALLY"
-msgstr "客戶端已經架設在本地網。"
+msgstr "用戶端已經架設在本地網。"
 
 msgid "LOGIN/STATUS/CANCELLED"
 msgstr "使用者與伺服器連線被中斷"
@@ -96,7 +96,7 @@ msgid "LOGIN/STATUS/DISCONNECTED"
 msgstr "你已與伺服器中斷連線"
 
 msgid "LOGIN/STATUS/DNS_LOOKUP_FAILED"
-msgstr "通過DNS無法找到伺服器的IP地址"
+msgstr "通過DNS無法找到伺服器的IP位址"
 
 msgid "LOGIN/STATUS/EMPTY_LOGIN"
 msgstr "請輸入您的帳號"
@@ -117,13 +117,13 @@ msgid "LOGIN/STATUS/INVALID_PASSWORD"
 msgstr "密碼必須至少6個字元"
 
 msgid "LOGIN/STATUS/LOGIN_BAD_PROTOCOL_VERSION"
-msgstr "請更新客戶端應用程式"
+msgstr "請更新用戶端應用程式"
 
 msgid "LOGIN/STATUS/LOGIN_CUSTOM_DEFINED_ERROR"
 msgstr "伺服器不可用.原因： ％s"
 
 msgid "LOGIN/STATUS/LOGIN_MALFORMED_REQUEST"
-msgstr "登入資料包傳送到伺服器的格式不正確。客戶端可能會過時或損壞。"
+msgstr "登入資料包傳送到伺服器的格式不正確。用戶端可能會過時或損壞。"
 
 msgid "LOGIN/STATUS/LOGIN_REJECTED_ACCOUNT_IN_DEL_PROCESS"
 msgstr "已請求刪除帳戶。"
@@ -143,7 +143,7 @@ msgid "LOGIN/STATUS/LOGIN_REJECTED_AUTHORIZING_ERROR"
 msgstr "授權錯誤，請輸入您的帳號和密碼"
 
 msgid "LOGIN/STATUS/LOGIN_REJECTED_BAD_DIGEST"
-msgstr "請更新客戶端應用程式"
+msgstr "請更新用戶端應用程式"
 
 msgid "LOGIN/STATUS/LOGIN_REJECTED_BAN"
 msgstr "您的帳號已被鎖定直到%(time)s。原因: %(reason)s。"
@@ -236,7 +236,7 @@ msgid "LOGIN/STATUS/MENU_CANT_CREATE_ACCOUNT_NAME_TAKEN"
 msgstr "相同名稱的玩家已在遊戲中註冊。 請另取不同的名稱。"
 
 msgid "LOGIN/STATUS/PUBLIC_KEY_LOOKUP_FAILED"
-msgstr "無法找到客戶端公鑰，請更新客戶端程式"
+msgstr "無法找到用戶端公鑰，請更新用戶端程式"
 
 msgid "LOGIN/STATUS/UNAVAILABLE"
 msgstr "伺服器不可用"
@@ -245,7 +245,7 @@ msgid "LOGIN/STATUS/UNKNOWN_ERROR"
 msgstr "發生未知錯誤"
 
 msgid "LOGIN/STATUS/UPDATEURLAVAIALBLEAT"
-msgstr "請運行遊戲資料夾中的 WOWpLauncher.exe 檔案更新客戶端"
+msgstr "請運行遊戲資料夾中的 WOWpLauncher.exe 檔案更新用戶端"
 
 msgid "LOGIN_ACCOUNT"
 msgstr "帳號:"
@@ -281,7 +281,7 @@ msgid "LOGIN_MESSAGES_DOWNLOAD_AND_UPDATE"
 msgstr "如果未開始更新，請從 {link_start}link{link_end} 下載更新檔並執行。"
 
 msgid "LOGIN_MESSAGES_NEW_UPDATE"
-msgstr "遊戲客戶端已有新版本。"
+msgstr "遊戲用戶端已有新版本。"
 
 msgid "LOGIN_MESSAGES_START_UPDATE"
 msgstr "開始更新"
@@ -319,7 +319,7 @@ msgstr "伺服器忙碌中，等待伺服器連線"
 msgid "LOGIN_REJECTED_SERVER_NOT_READY"
 msgstr ""
 "無法連接到伺服器。\n"
-"伺服器可能維護中，或者您的網絡連接設置可能不正確。"
+"伺服器可能維護中，或者您的網路連接設置可能不正確。"
 
 msgid "LOGIN_SERVER"
 msgstr "伺服器："
@@ -341,8 +341,8 @@ msgstr "更改伺服器"
 
 msgid "MENU_CHANGE_REALM_DESCRIPTION"
 msgstr ""
-"注意！ 更改服務器後，您將切換到另一個帳戶。 您的遊戲內資產（包括免費體驗）不"
-"會在不同服務器之間同步：您在不同服務器上擁有不同的遊戲內資產和進度。"
+"注意！ 更改伺服器後，您將切換到另一個帳戶。 您的遊戲內資產（包括免費體驗）不"
+"會在不同伺服器之間同步：您在不同伺服器上擁有不同的遊戲內資產和進度。"
 
 msgid "MENU_LANGUAGE"
 msgstr "語言:"
@@ -432,7 +432,7 @@ msgid "MENU_NICKNAME_IN_GAME"
 msgstr "遊戲內名稱："
 
 msgid "MENU_NICKNAME_MAY_CONTAIN"
-msgstr "只有字母，數字和下劃線（_）字符有效。"
+msgstr "只有字母，數字和下劃線（_）字元有效。"
 
 msgid "MENU_REALM_CN"
 msgstr "亞洲"
@@ -451,7 +451,7 @@ msgstr "播放"
 
 msgid "MENU_REPLAY_VER_DIFF_ATTENTION"
 msgstr ""
-"當前版本的戰機世界與戰鬥錄音不兼容。 這可能會導致重播出現問題。<br> <font "
+"當前版本的戰機世界與戰鬥錄音不相容。 這可能會導致重播出現問題。<br> <font "
 "size ='6'> <br> </ font>忽略差異並重播？"
 
 msgid "MENU_UNLINKED"
@@ -460,7 +460,7 @@ msgstr "取消帳戶關聯"
 msgid "MENU_UNLINK_YOUR_CURRENT_ACCOUNT_TO_BE_ABLE_TO_CREATE_A_NEW_ONE"
 msgstr ""
 "要開始遊戲，請取消您的Steam帳戶與Wargaming.net帳戶的關聯。<br>這不會影響您的"
-"Wargaming.net帳戶的遊戲內統計信息或資產。"
+"Wargaming.net帳戶的遊戲內統計訊息或資產。"
 
 msgid "MENU_UNLINK_YOUR_WG_ACCOUNT"
 msgstr "UNLINK"
@@ -493,7 +493,7 @@ msgid "SERVER_UNAVAILABLE_MESSAGE"
 msgstr "暫時無法切換伺服器，你可選擇繼續使用目前伺服器或等待切換功能可用"
 
 msgid "SUSPENDED"
-msgstr "該帳戶將被刪除。 您可以在“帳戶管理”頁面上取消刪除請求。"
+msgstr "該帳戶將被刪除。 您可以在「帳戶管理」頁面上取消刪除請求。"
 
 msgid "TOOLTIP_LOGIN_EXIT_ACCOUNT"
 msgstr "清除登入資訊"
@@ -508,7 +508,7 @@ msgid "TOOLTIP_REDIRECT_SOCIAL"
 msgstr "您將跳轉至登入頁面"
 
 msgid "UPDATEURLAVAIALBLEAT"
-msgstr "請更新客戶端應用程式"
+msgstr "請更新用戶端應用程式"
 
 msgid "WAIT_CONNECTION_BTN"
 msgstr "等待"

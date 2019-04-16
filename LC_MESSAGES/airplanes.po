@@ -111,7 +111,7 @@ msgstr ""
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_BA-27"
 msgstr ""
-"佈雷達公司所設計的一款高速單翼戰鬥機，但最終 Ba.27 沒有能進入義大利空軍服役而"
+"布雷達公司所設計的一款高速單翼戰鬥機，但最終 Ba.27 沒有能進入義大利空軍服役而"
 "是作為外銷戰機進行了出口，抗戰期間中國空軍也曾使用過此款戰機。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_BEAUFIGHTER-F"
@@ -159,7 +159,7 @@ msgstr ""
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_BF110B"
 msgstr ""
-"依照在兩次大戰之間的時期所非常流行的 “驅逐戰鬥機” 的概念所製造的戰機，在波"
+"依照在兩次大戰之間的時期所非常流行的 「驅逐戰鬥機」 的概念所製造的戰機，在波"
 "蘭、法國和挪威的戰鬥中表現出色。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_BF110E"
@@ -180,7 +180,7 @@ msgstr ""
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_BOOMERANG"
 msgstr ""
-"澳大利亞在 CA-1 勇士戰鬥機的基礎上設計製造的改進型戰機，在 1942 年至 1945 年"
+"澳大利亞在 CA-1 勇士戰鬥機的基礎上設計製造的改良型戰機，在 1942 年至 1945 年"
 "間共製造了 250 架。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_BRISTOL-TYPE-105"
@@ -436,7 +436,7 @@ msgstr ""
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_HA-137V1"
 msgstr ""
-"布洛姆-福斯 Ha.137 的原型機，於 1935 年 4 月首飛，與之後的改進型相較，最為主"
+"布洛姆-福斯 Ha.137 的原型機，於 1935 年 4 月首飛，與之後的改良型相較，最為主"
 "要的區別在於其使用的動力裝置為 BMW-132 發動機。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_HAWK-2"
@@ -564,7 +564,7 @@ msgstr "裝備 M-34 發動機並配備蒸發冷卻系統的高速戰鬥機，未
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_I-210"
 msgstr ""
-"在米格-3 的基礎上使用星形空冷發動機的改進型戰機，共製造了 5 架該型戰機並一直"
+"在米格-3 的基礎上使用星形空冷發動機的改良型戰機，共製造了 5 架該型戰機並一直"
 "使用至 1944 年。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_I-211"
@@ -605,13 +605,13 @@ msgstr ""
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_I-7"
 msgstr ""
-"伊-7 戰機是根據德國亨克爾公司所研製的 HD-37 飛機而授權制造的蘇聯量產版本。"
+"伊-7 戰機是根據德國亨克爾公司所研製的 HD-37 飛機而授權製造的蘇聯量產版本。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_I15"
 msgstr "1930 年代比較先進的雙翼戰鬥機，曾在蘇聯的邊界衝突中被廣泛使用。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_I16-24"
-msgstr "伊-16 的改進型，在火力和飛行效能方面得到了提高。"
+msgstr "伊-16 的改良型，在火力和飛行效能方面得到了提高。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_I16-5"
 msgstr ""
@@ -652,7 +652,7 @@ msgstr "試驗型號，該機座艙的視野寬闊，可以迅速的發現目標
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_IL2X2"
 msgstr ""
-"伊爾-2 的雙座改進型，增加了一位尾砲手。該型號是戰爭中使用最廣泛的攻擊機。"
+"伊爾-2 的雙座改良型，增加了一位尾砲手。該型號是戰爭中使用最廣泛的攻擊機。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_IL40"
 msgstr "1953 年至 1956 年開發的重灌甲串聯雙座高速攻擊機。"
@@ -847,7 +847,7 @@ msgstr ""
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_LA-7"
 msgstr ""
-"拉-5 的進一步發展型，優化了空氣動力學設計。二戰中蘇聯最好的戰鬥機之一，從 "
+"拉-5 的進一步發展型，最佳化了空氣動力學設計。二戰中蘇聯最好的戰鬥機之一，從 "
 "1944 年到 1945 年共生產了 5753 架。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_LA-9RD"
@@ -1096,7 +1096,7 @@ msgstr ""
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_LONG_LA-7"
 msgstr ""
-"拉-5 的進一步發展型，優化了空氣動力學設計。二戰中最好的戰鬥機之一，從 1944 年"
+"拉-5 的進一步發展型，最佳化了空氣動力學設計。二戰中最好的戰鬥機之一，從 1944 年"
 "到 1945 年共生產了 5753 架。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_LONG_LAGG-3-34"
@@ -1106,7 +1106,7 @@ msgstr ""
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_LONG_ME-262-HG2"
 msgstr ""
-"Me.262A 戰鬥機的改進型，原型機於 1945 年 1 月完成首飛，但直到戰爭結束仍未能完"
+"Me.262A 戰鬥機的改良型，原型機於 1945 年 1 月完成首飛，但直到戰爭結束仍未能完"
 "成修改工作。樣機被盟軍繳獲，並進行了一些測試。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_LONG_ME-265"
@@ -1136,7 +1136,7 @@ msgstr ""
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_LONG_MIG-15BIS"
 msgstr ""
-"在米格-15 的基礎上換裝新型發動機的改進型號，北約代號為 “柴捆”，在 1950 年至 "
+"在米格-15 的基礎上換裝新型發動機的改進型號，北約代號為 「柴捆」，在 1950 年至 "
 "1953 年的抗美援朝戰爭期間被應用於實戰並且表現出色，共生產了 8354 架該型戰機並"
 "曾在 40 多個國家的空軍服役。"
 
@@ -1157,12 +1157,12 @@ msgstr ""
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_LONG_P-40-M-105"
 msgstr ""
-"由於缺乏艾裡遜發動機，而將自己研製的 M-105 發動機安裝在 P40 戰鬥機上，該戰機"
+"由於缺乏艾里遜發動機，而將自己研製的 M-105 發動機安裝在 P40 戰鬥機上，該戰機"
 "主要用於列寧格勒的防衛作戰上。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_LONG_P-51H"
 msgstr ""
-"“野馬” 系列戰鬥機中速度最快的型號，而且該型戰機也是速度最快的活塞式戰鬥機之"
+"「野馬」 系列戰鬥機中速度最快的型號，而且該型戰機也是速度最快的活塞式戰鬥機之"
 "一。在 1945 年夏季開始服役但沒能趕上戰鬥。共生產了 555 架該型戰機。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_LONG_P-82B"
@@ -1177,7 +1177,7 @@ msgstr ""
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_LONG_SEAFANG"
 msgstr ""
-"超級馬林公司在怨恨式戰鬥機的基礎上所研製的改進型戰機，由於 1940 年代後期噴氣"
+"超級馬林公司在怨恨式戰鬥機的基礎上所研製的改良型戰機，由於 1940 年代後期噴氣"
 "式飛機技術的逐漸成熟而沒有能夠進入部隊服役，少量該型戰機在 1945 年至 1949 年"
 "間進行了測試。"
 
@@ -1205,7 +1205,7 @@ msgstr ""
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_LONG_TSKB-12"
 msgstr ""
-"搭載懷特 “旋風” 發動機和三葉片螺旋槳的伊-16 戰鬥機的原型機，在該機進行過測試"
+"搭載懷特 「旋風」 發動機和三葉片螺旋槳的伊-16 戰鬥機的原型機，在該機進行過測試"
 "後決定改為使用 M-22 發動機。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_LONG_VENOM"
@@ -1234,7 +1234,7 @@ msgstr ""
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_LONG_XP-58"
 msgstr ""
-"以 P-38 閃電雙引擎戰鬥機為基礎設計的改進型戰機，由於一些技術問題和美國陸航所"
+"以 P-38 閃電雙引擎戰鬥機為基礎設計的改良型戰機，由於一些技術問題和美國陸航所"
 "要求的變化，該戰機的研發被推遲，最終原型機於 1944 年進行了測試。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_LONG_YAK-15"
@@ -1265,7 +1265,7 @@ msgstr ""
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_LONG_YP-29"
 msgstr ""
-"波音公司在非常成功的 P-26“玩具槍” 戰鬥機的基礎上所做的升級改進嘗試，共有製造"
+"波音公司在非常成功的 P-26「玩具槍」 戰鬥機的基礎上所做的升級改進嘗試，共有製造"
 "了 4 架 P-29 原型機。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_M-20"
@@ -1283,7 +1283,7 @@ msgstr ""
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_ME-262-HG2"
 msgstr ""
-"Me262A 戰鬥機的改進型，原型機於 1945 年 1 月完成首飛，但直到戰爭結束仍未能完"
+"Me262A 戰鬥機的改良型，原型機於 1945 年 1 月完成首飛，但直到戰爭結束仍未能完"
 "成修改工作。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_ME-265"
@@ -1324,7 +1324,7 @@ msgid "MARKET_AIRPLANE_DESCRIPTION_ME262HG3"
 msgstr "在 Me.262 基礎上進一步發展的高空高速型戰鬥機。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_ME410"
-msgstr "在 “驅逐機” 概念影響下發展的重型戰鬥轟炸機，戰爭中主要用於西線戰場。"
+msgstr "在 「驅逐機」 概念影響下發展的重型戰鬥轟炸機，戰爭中主要用於西線戰場。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_ME609"
 msgstr ""
@@ -1337,7 +1337,7 @@ msgstr ""
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_MIG-15BIS"
 msgstr ""
-"在米格-15 的基礎上換裝新型發動機的改進型號，北約代號為 “柴捆”，抗美援朝戰爭期"
+"在米格-15 的基礎上換裝新型發動機的改進型號，北約代號為 「柴捆」，抗美援朝戰爭期"
 "間被應用於實戰，共生產了 8354 架該型戰機。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_MIG-3"
@@ -1406,7 +1406,7 @@ msgstr ""
 "較輕的版本，沒有在機翼位置裝設武器。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_P-40-M-105"
-msgstr "由於缺乏艾裡遜發動機，而將自己研製的 M-105 發動機安裝在P40 戰鬥機上。"
+msgstr "由於缺乏艾里遜發動機，而將自己研製的 M-105 發動機安裝在P40 戰鬥機上。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_P-43"
 msgstr "首飛於 1940 年 3 月。這架飛機在中國參加戰鬥。總共有 272 架飛機被生產。"
@@ -1428,7 +1428,7 @@ msgstr ""
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_P-51H"
 msgstr ""
-"“野馬” 系列戰鬥機中速度最快的型號，而且該型戰機也是速度最快的活塞式戰鬥機之"
+"「野馬」 系列戰鬥機中速度最快的型號，而且該型戰機也是速度最快的活塞式戰鬥機之"
 "一。共生產了 555 架該型戰機。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_P-51K"
@@ -1465,7 +1465,7 @@ msgstr "戰前最成功的戰鬥機之一，曾在美國、英國、法國、荷
 msgid "MARKET_AIRPLANE_DESCRIPTION_P39Q21"
 msgstr ""
 "美國陸軍航空隊所裝備的一種發動機中置的戰鬥機，曾廣泛用於南太平洋、地中海地"
-"區，並通過租借法案提供給英國和蘇聯使用。"
+"區，並透過租借法案提供給英國和蘇聯使用。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_P40"
 msgstr ""
@@ -1629,7 +1629,7 @@ msgstr "1930 年代開始研製的重型攻擊機。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_TSKB-12"
 msgstr ""
-"搭載懷特 “旋風” 發動機和三葉片螺旋槳的伊-16 戰鬥機的原型機，對該機進行測試後"
+"搭載懷特 「旋風」 發動機和三葉片螺旋槳的伊-16 戰鬥機的原型機，對該機進行測試後"
 "決定量產型伊-16 戰鬥機搭載 M-22 引擎。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_TU-1"
@@ -1774,12 +1774,12 @@ msgstr ""
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_YAK-9U"
 msgstr ""
-"雅克-9 的進一步改進型，1943 年研製。1944-1945 年在蘇德戰場上威名遠揚，生產一"
+"雅克-9 的進一步改良型，1943 年研製。1944-1945 年在蘇德戰場上威名遠揚，生產一"
 "直持續到 1948 年。"
 
 msgid "MARKET_AIRPLANE_DESCRIPTION_YP-29"
 msgstr ""
-"波音公司在非常成功的 P-26“玩具槍” 戰鬥機的基礎上所做的升級改進嘗試，共有製造"
+"波音公司在非常成功的 P-26「玩具槍」 戰鬥機的基礎上所做的升級改進嘗試，共有製造"
 "了 4 架 P-29 原型機。"
 
 msgid "PLANE_LONGNAME_2PA"
@@ -1849,10 +1849,10 @@ msgid "PLANE_LONGNAME_B-32"
 msgstr "Consolidated B-32 Dominator"
 
 msgid "PLANE_LONGNAME_BA-27"
-msgstr "佈雷達 Ba.27 金屬"
+msgstr "布雷達 Ba.27 金屬"
 
 msgid "PLANE_LONGNAME_BEAUFIGHTER-F"
-msgstr "布裡斯托爾 英俊戰士"
+msgstr "布里斯托爾 英俊戰士"
 
 msgid "PLANE_LONGNAME_BF-109B"
 msgstr "梅塞施密特 Bf 109 B 布魯諾"
@@ -1894,22 +1894,22 @@ msgid "PLANE_LONGNAME_BF-209V"
 msgstr "梅塞施密特 Me 209 V4"
 
 msgid "PLANE_LONGNAME_BLENHEIM-F"
-msgstr "布裡斯托爾 布倫海姆F"
+msgstr "布里斯托爾 布倫海姆F"
 
 msgid "PLANE_LONGNAME_BLENHEIM-IV"
-msgstr "布裡斯托爾 布倫海姆 Mk.IV (早期型)"
+msgstr "布里斯托爾 布倫海姆 Mk.IV (早期型)"
 
 msgid "PLANE_LONGNAME_BOOMERANG"
 msgstr "聯邦航空器 CA-12 迴力鏢"
 
 msgid "PLANE_LONGNAME_BRISTOL-TYPE-105"
-msgstr "布裡斯托爾 鬥牛犬"
+msgstr "布里斯托爾 鬥牛犬"
 
 msgid "PLANE_LONGNAME_BRISTOL-TYPE-133"
-msgstr "布裡斯托爾133型"
+msgstr "布里斯托爾133型"
 
 msgid "PLANE_LONGNAME_BRISTOL-TYPE-146"
-msgstr "布裡斯托爾146型"
+msgstr "布里斯托爾146型"
 
 msgid "PLANE_LONGNAME_BSH-1"
 msgstr "柯切裡津 BSh-1"
@@ -1942,7 +1942,7 @@ msgid "PLANE_LONGNAME_DEMON"
 msgstr "霍克 惡魔"
 
 msgid "PLANE_LONGNAME_DI-6"
-msgstr "科奇耶裡金-亞岑科 DI-6i"
+msgstr "科奇耶里金-亞岑科 DI-6i"
 
 msgid "PLANE_LONGNAME_DO-17Z"
 msgstr "多尼爾 Do 17Z-7 貓頭鷹"
@@ -2131,7 +2131,7 @@ msgid "PLANE_LONGNAME_I-15BIS-DM2"
 msgstr "波利卡爾波夫 伊-15比斯 DM-2"
 
 msgid "PLANE_LONGNAME_I-16-24"
-msgstr "波利卡爾波夫 伊-16 改進型"
+msgstr "波利卡爾波夫 伊-16 改良型"
 
 msgid "PLANE_LONGNAME_I-16-29"
 msgstr "波利卡爾波夫 伊-16 29型"
@@ -2806,10 +2806,10 @@ msgid "PLANE_MIDNAME_BRISTOL-TYPE-105"
 msgstr "鬥牛犬"
 
 msgid "PLANE_MIDNAME_BRISTOL-TYPE-133"
-msgstr "布裡斯托爾133型"
+msgstr "布里斯托爾133型"
 
 msgid "PLANE_MIDNAME_BRISTOL-TYPE-146"
-msgstr "布裡斯托爾146型"
+msgstr "布里斯托爾146型"
 
 msgid "PLANE_MIDNAME_BSH-1"
 msgstr "BSh-1"
@@ -3031,7 +3031,7 @@ msgid "PLANE_MIDNAME_I-15BIS-DM2"
 msgstr "伊-15比斯 DM-2"
 
 msgid "PLANE_MIDNAME_I-16-24"
-msgstr "伊-16 改進型"
+msgstr "伊-16 改良型"
 
 msgid "PLANE_MIDNAME_I-16-29"
 msgstr "伊-16 29型"
@@ -4015,7 +4015,7 @@ msgid "PLANE_NAME_I-15BIS-DM2"
 msgstr "伊-15比斯DM"
 
 msgid "PLANE_NAME_I-16-24"
-msgstr "伊-16 改進型"
+msgstr "伊-16 改良型"
 
 msgid "PLANE_NAME_I-16-29"
 msgstr "伊-16-29"

@@ -1453,7 +1453,7 @@ msgstr ""
 "becomes uncontrollable."
 
 msgid "HUD_GENERAL_TIP_SPEED_FLIGHT_8"
-msgstr "啓動增壓或俯衝以快速提高速度。"
+msgstr "啟動增壓或俯衝以快速提高速度。"
 
 msgid "HUD_GENERAL_TIP_SPEED_FLIGHT_9"
 msgstr ""
@@ -1720,7 +1720,7 @@ msgid "HUD_MESSAGE_ALLMOST_WIN"
 msgstr "我方取得了75%的優勢！"
 
 msgid "HUD_MESSAGE_ALLMOST_WIN_APRIL"
-msgstr "要贏了! 再加把勁兒!"
+msgstr "要贏了! 再加把勁!"
 
 msgid "HUD_MESSAGE_ALLY_HIT"
 msgstr "你擊中了一架友機!"
@@ -1849,7 +1849,7 @@ msgid "HUD_MESSAGE_ENGINE_OVERHEAT"
 msgstr "發動機過熱！"
 
 msgid "HUD_MESSAGE_ENGINE_OVERHEAT_APRIL"
-msgstr "發動機需要冷卻! 我們沒法加速了"
+msgstr "發動機需要冷卻! 我們沒辦法加速了"
 
 msgid "HUD_MESSAGE_ENGINE_OVERHEAT_LOW_BOOST"
 msgstr "發動機過熱：增壓效率下降。"
@@ -2583,7 +2583,7 @@ msgstr "在一場戰鬥中至少擊落1架敵機並摧毀1個地面目標。"
 
 msgid "HUD_QUESTS_COMPLEX_02_EXTRA"
 msgstr ""
-"在一場贏得勝利的戰鬥中獲得“掃地手”勳章並至少擊落2架敵機且在戰鬥結束時倖存"
+"在一場贏得勝利的戰鬥中獲得「掃地手」勳章並至少擊落2架敵機且在戰鬥結束時倖存"
 
 msgid "HUD_QUESTS_COMPLEX_02_NAME"
 msgstr "天與地"
@@ -2601,7 +2601,7 @@ msgid "HUD_QUESTS_COMPLEX_04_BASIC"
 msgstr "在一場戰鬥中擊傷至少4架敵機"
 
 msgid "HUD_QUESTS_COMPLEX_04_EXTRA"
-msgstr "連續在二或三場戰鬥中獲得“王牌”勳章"
+msgstr "連續在二或三場戰鬥中獲得「王牌」勳章"
 
 msgid "HUD_QUESTS_COMPLEX_04_NAME"
 msgstr "險中求勝"
@@ -2639,16 +2639,16 @@ msgstr ""
 "可與您組隊的玩家，可選擇自動搜尋組隊功能與陌生玩家組隊完成此任務"
 
 msgid "HUD_QUESTS_COMPLEX_08_EXTRA"
-msgstr "在一場贏得勝利的戰鬥中獲得“傑出貢獻”勳章並在戰鬥結束時倖存"
+msgstr "在一場贏得勝利的戰鬥中獲得「傑出貢獻」勳章並在戰鬥結束時倖存"
 
 msgid "HUD_QUESTS_COMPLEX_08_NAME"
 msgstr "團結之力"
 
 msgid "HUD_QUESTS_COMPLEX_09_BASIC"
-msgstr "獲得“王牌”或“破壞者”勳章"
+msgstr "獲得「王牌」或「破壞者」勳章"
 
 msgid "HUD_QUESTS_COMPLEX_09_EXTRA"
-msgstr "在一天內至少4次獲得“王牌”或“破壞者”勳章"
+msgstr "在一天內至少4次獲得「王牌」或「破壞者」勳章"
 
 msgid "HUD_QUESTS_COMPLEX_09_NAME"
 msgstr "死神降臨"
@@ -3778,7 +3778,7 @@ msgid "HUD_WARNING_MESSAGE_ANTI_AIR_DEF"
 msgstr "你正被高射砲攻擊！"
 
 msgid "HUD_WARNING_MESSAGE_AUTOPILOT"
-msgstr "已啓動自動駕駛"
+msgstr "已啟動自動駕駛"
 
 msgid "HUD_WARNING_MESSAGE_BACK_TO_OPERATION_AREA"
 msgstr "返回任務區域！"
@@ -3993,7 +3993,7 @@ msgid "REPLAY_FREE_CAMERA_ON"
 msgstr "啟用自由視角"
 
 msgid "REPLAY_HEADER_HOTKEYS"
-msgstr "熱鍵"
+msgstr "快速鍵"
 
 msgid "REPLAY_HEADER_PLAYER_PANEL"
 msgstr "播放器面板"
@@ -4262,7 +4262,7 @@ msgid "UI_MESSAGE_REDUCE_ALTITUDE"
 msgstr "降低一些高度"
 
 msgid "UI_MESSAGE_YOU_BURNED"
-msgstr "你的戰機被燒燬"
+msgstr "你的戰機被燒毀"
 
 msgid "UI_MESSAGE_YOU_BURNED_2-0"
 msgstr "飛機被火災摧毀"

@@ -43,7 +43,7 @@ msgid "AMMOPACK_PREMIUM_GUNNER"
 msgstr "砲塔專用彈藥"
 
 msgid "AMMOPACK_PREMIUM_RADIUS"
-msgstr "改進型炸藥"
+msgstr "改良型炸藥"
 
 msgid "AMMOPACK_REGULAR_BOMB-ROCKETS"
 msgstr "改進碎片"
@@ -163,7 +163,7 @@ msgid "BATTLE_EVENT_UNIVERSAL"
 msgstr "與{event_name}事件中的隨機玩家進行標準戰鬥"
 
 msgid "BATTLE_JA_TR"
-msgstr "日本威脅”活動期間與隨機玩家的標準戰鬥"
+msgstr "日本威脅」活動期間與隨機玩家的標準戰鬥"
 
 msgid "BATTLE_NORWEGIAN_CAMPAIGN"
 msgstr "在雷神之鎚戰役中隨機玩家的標準戰鬥"
@@ -214,7 +214,7 @@ msgid "BUTTON_APPLY"
 msgstr "套用"
 
 msgid "BUTTON_BACK_TO_MODULE_PLANE_TREE"
-msgstr "轉到飛機模塊"
+msgstr "轉到飛機模組"
 
 msgid "BUTTON_BACK_TO_TECH_TREE"
 msgstr "返回到科技樹"
@@ -604,7 +604,7 @@ msgid "CONSUMABLE_COLOR_PLUMES"
 msgstr "煙霧彈"
 
 msgid "CONSUMABLE_CREDITSBOOST_TOKEN"
-msgstr "槍式攝像機薄膜"
+msgstr "槍式攝影機薄膜"
 
 msgid "CONSUMABLE_ENGINEHEATSINK_PREMIUM"
 msgstr "緊急發動機冷卻器"
@@ -619,7 +619,7 @@ msgid "CONSUMABLE_EXTINGUISHER_REGULAR"
 msgstr "滅火器"
 
 msgid "CONSUMABLE_FIRE_WORK"
-msgstr "煙花"
+msgstr "煙火"
 
 msgid "CONSUMABLE_FIX_TAIL_AND_WINGS_PREMIUM"
 msgstr "二級控制系統"
@@ -640,7 +640,7 @@ msgid "CONSUMABLE_SPARKLERS"
 msgstr "煙火"
 
 msgid "CONSUMABLE_XPBOOST_TOKEN"
-msgstr "電影槍式攝像機薄膜"
+msgstr "電影槍式攝影機薄膜"
 
 msgid "CONTEXT_HEADER_PRICE"
 msgstr "價格"
@@ -912,7 +912,7 @@ msgid "DIALOG_SELL_PLANE_MESSAGE"
 msgstr "確認以{price_silver}{icon_silver}出售{name} ？"
 
 msgid "DISCLAIMER_033"
-msgstr "這裡只能定製配置，要套用配置的話需要去可用配置欄裡選擇並套用"
+msgstr "這裡只能訂製配置，要套用配置的話需要去可用配置欄裡選擇並套用"
 
 msgid "DISCLAIMER_0331"
 msgstr ""
@@ -1147,7 +1147,7 @@ msgid "GUN_DESCRIPTION"
 msgstr "機槍"
 
 msgid "GUN_LASER_DESCRIPTION"
-msgstr "激光槍"
+msgstr "雷射槍"
 
 msgid "HANGAR"
 msgstr "大廳"
@@ -1529,16 +1529,16 @@ msgid "LOBBY_ACCOUNT_ECONOMIC_CONSUMABLES_CHOOSE_CATEGORY_HEADER"
 msgstr "選擇助推器類別"
 
 msgid "LOBBY_ACCOUNT_ECONOMIC_CONSUMABLES_CONFIRM_WINDOW_TEXT_BUY_FOR_PRICE"
-msgstr "使用{price}購買“{variable_name}”助推器（{amount}）？"
+msgstr "使用{price}購買「{variable_name}」助推器（{amount}）？"
 
 msgid "LOBBY_ACCOUNT_ECONOMIC_CONSUMABLE_CONFIRM_WINDOW_TEXT_ACTIVATE"
-msgstr "激活“{variable_name}”助推器？"
+msgstr "啟動「{variable_name}」助推器？"
 
 msgid "LOBBY_ACCOUNT_ECONOMIC_CONSUMABLE_CONFIRM_WINDOW_TEXT_BUY_AND_ACTIVATE_FOR_PRICE"
-msgstr "使用{price}購買並激活“{variable_name}”助推器？"
+msgstr "使用{price}購買並啟動「{variable_name}」助推器？"
 
 msgid "LOBBY_ACCOUNT_ECONOMIC_CONSUMABLE_CONFIRM_WINDOW_TEXT_BUY_FOR_PRICE"
-msgstr "使用{price}購買“{variable_name}”助推器？"
+msgstr "使用{price}購買「{variable_name}」助推器？"
 
 msgid "LOBBY_ADDITIONAL_BONUS_STATS"
 msgstr "額外的獎勵特點："
@@ -1872,10 +1872,10 @@ msgid "LOBBY_ALBION_OPERATION_SMALL_TEXT"
 msgstr "決定英國命運的戰場上！"
 
 msgid "LOBBY_ALL_DIR_WHICH_NOT_ACTIVATED_DURING_EVENT_DEDUCTED"
-msgstr "您在事件期間未激活和執行的操作訂單 被刪除了。"
+msgstr "您在事件期間未啟動和執行的操作訂單 被刪除了。"
 
 msgid "LOBBY_ALL_PLANES_RECEIVED_ACTIVATE_DIRECTIVE_UNAVAILABLE"
-msgstr "無法激活操作指令：已收到所有飛機。"
+msgstr "無法啟動操作指令：已收到所有飛機。"
 
 msgid "LOBBY_ALL_QUESTS_STATUS_COMPLETED"
 msgstr "所有任務完成！"
@@ -1887,7 +1887,7 @@ msgid "LOBBY_ALL_TROPHYS_DURING_EVENT"
 msgstr "獲得的總供應量："
 
 msgid "LOBBY_ALTITUDE_AND_DIRECTION_RUDDERS"
-msgstr "俯仰和偏航控製表面"
+msgstr "俯仰和偏航控制表面"
 
 msgid "LOBBY_AMMO_LONG_RANGE_EFFECT"
 msgstr "遠距離有效"
@@ -1921,7 +1921,7 @@ msgstr "注意!"
 
 msgid "LOBBY_APRIL_2014_GIFT_MESSAGE_TEXT"
 msgstr ""
-"凌晨00:00，秘密基地“51區”報告了一個異常現象。 跑道開始迅速改變顏色，露出從平"
+"凌晨00:00，秘密基地「51區」報告了一個異常現象。 跑道開始迅速改變顏色，露出從平"
 "行宇宙抵達的Sleipnir盟軍戰車！"
 
 msgid "LOBBY_APRIL_2014_REMOVAL_MESSAGE_BTN"
@@ -2035,7 +2035,7 @@ msgstr ""
 
 msgid "LOBBY_BANNER-1_JA_TR_TEXT_3"
 msgstr ""
-"參加活動<font color ='＃{color}'>“日本的威脅”</ font>，贏得戰鬥，並獲得寶貴的"
+"參加活動<font color ='＃{color}'>「日本的威脅」</ font>，贏得戰鬥，並獲得寶貴的"
 "戰利品！"
 
 msgid "LOBBY_BANNER-1_NO_CAMP_TEXT_1"
@@ -2119,7 +2119,7 @@ msgid "LOBBY_BANNER_CAPS_WESTWALL_COLON"
 msgstr "西牆任務:"
 
 msgid "LOBBY_BANNER_CHOOSE_PLANE_TIP"
-msgstr "將光標懸停在飛機上以了解有關它們的詳細信息並選擇完成馬拉松。"
+msgstr "將游標懸停在飛機上以了解有關它們的詳細訊息並選擇完成馬拉松。"
 
 msgid "LOBBY_BANNER_CREW_HEADER"
 msgstr "升級你的技能！"
@@ -2191,7 +2191,7 @@ msgid "LOBBY_BANNER_I-180_TEXT_1"
 msgstr "獲取波利卡爾波夫伊-180-3！"
 
 msgid "LOBBY_BANNER_I-180_TEXT_2"
-msgstr "完成“春季活動”任務，獲得遊戲的第一架<br>配有轉述配件和“高速”塗裝的飛機"
+msgstr "完成「春季活動」任務，獲得遊戲的第一架<br>配有轉述配件和「高速」塗裝的飛機"
 
 msgid "LOBBY_BANNER_INVASION"
 msgstr "侵入"
@@ -2290,11 +2290,11 @@ msgstr ""
 "敵方被削弱並以最後的力量進行防守。<br>剝奪他們所需的資源來支持他們的空軍！"
 
 msgid "LOBBY_BANNER_SMALL_LORE_6"
-msgstr "通過摧毀他們的飛機來剝奪敵方的資源。"
+msgstr "透過摧毀他們的飛機來剝奪敵方的資源。"
 
 msgid "LOBBY_BANNER_SMALL_LORE_7"
 msgstr ""
-"敵方已退到更安全的位置。 填滿你的坦克並加載你的槍 - 我們必須迫使敵方進一步撤"
+"敵方已退到更安全的位置。 填滿你的坦克並載入你的槍 - 我們必須迫使敵方進一步撤"
 "退！"
 
 msgid "LOBBY_BANNER_TEXT_EXCLUZIVE_CAMO"
@@ -2558,7 +2558,7 @@ msgid "LOBBY_BLITZ_DIR_JU_288_С"
 msgstr "The blitz Ju 288 C, part {order}"
 
 msgid "LOBBY_BOMBARDIER_EQUIPMENT"
-msgstr "炸彈瞄准設備"
+msgstr "炸彈瞄準設備"
 
 msgid "LOBBY_BOMBBAY"
 msgstr "炸彈艙"
@@ -2588,7 +2588,7 @@ msgstr ""
 
 msgid "LOBBY_BOMBERS_QUESTS_N1_FOR_B-17G"
 msgstr ""
-"在單一胜利的戰鬥中，參與至少<font color ='＃8cc8ff'> {0} </ font> <font "
+"在單一勝利的戰鬥中，參與至少<font color ='＃8cc8ff'> {0} </ font> <font "
 "color ='＃547899'> 扇區捕獲點</ font>。"
 
 msgid "LOBBY_BOMBERS_QUESTS_N1_FOR_B-32"
@@ -2616,7 +2616,7 @@ msgstr ""
 
 msgid "LOBBY_BOMBERS_QUESTS_N3_FOR_B-17G"
 msgstr ""
-"在單一胜利的戰鬥中至少獲得<font color ='＃8cc8ff'> {0} </ font> <font color "
+"在單一勝利的戰鬥中至少獲得<font color ='＃8cc8ff'> {0} </ font> <font color "
 "='＃547899'>個人積分</ font>。"
 
 msgid "LOBBY_BOMBERS_QUESTS_N3_FOR_B-32"
@@ -2838,7 +2838,7 @@ msgid "LOBBY_BURNING_SHORES_STAGE-4_CAPS"
 msgstr "第4階段：反擊"
 
 msgid "LOBBY_BURNING_SHORES_STAGE_STARTED-1_CAPS"
-msgstr "第1階段“戰爭迷霧”開始"
+msgstr "第1階段「戰爭迷霧」開始"
 
 msgid "LOBBY_BURNING_SHORES_STAGE_STARTED-2_CAPS"
 msgstr "第2階段：\"鷹的影子\" 開始"
@@ -2855,10 +2855,10 @@ msgstr ""
 "證書。<br>想要更多耗材或證書？ 您可以在商店購買。"
 
 msgid "LOBBY_BUTTON_ACTIVATE"
-msgstr "激活"
+msgstr "啟動"
 
 msgid "LOBBY_BUTTON_ACTIVATE_QUESTS"
-msgstr "激活任務"
+msgstr "啟動任務"
 
 msgid "LOBBY_BUTTON_AGREED"
 msgstr "收到!"
@@ -2975,7 +2975,7 @@ msgid "LOBBY_BUY_CANDYS_HEADER"
 msgstr "收集糖果"
 
 msgid "LOBBY_BUY_EQUIPMENT_CONFIRMATION_TEXT"
-msgstr "使用{total_cost}購買設備“{name}”？"
+msgstr "使用{total_cost}購買設備「{name}」？"
 
 msgid "LOBBY_BUY_EQUIPMENT_HEADER"
 msgstr "購買設備"
@@ -3008,7 +3008,7 @@ msgid "LOBBY_CALIBRATE_COST"
 msgstr "校準價格："
 
 msgid "LOBBY_CALIBRATE_HEADER"
-msgstr "校准設備"
+msgstr "校準設備"
 
 msgid "LOBBY_CAMOUFLAGE_LABEL_UNDER_CONSTRUCTION"
 msgstr "正在開發中"
@@ -3320,7 +3320,7 @@ msgid "LOBBY_CAMO_TEXT_NEDERLAND_NATIONAL"
 msgstr "荷蘭塗裝方案"
 
 msgid "LOBBY_CAMO_TEXT_NORMANDY_NEMAN"
-msgstr "諾曼底-涅曼軍團塗裝"
+msgstr "諾曼第-涅曼軍團塗裝"
 
 msgid "LOBBY_CAMO_TEXT_NOSEART"
 msgstr "機首塗裝"
@@ -3407,7 +3407,7 @@ msgid "LOBBY_CAPS_BUTTON_RECEIVE"
 msgstr "獲得"
 
 msgid "LOBBY_CAROUSEL_FILTER_SPECIAL_PLANE"
-msgstr "在“王牌”配置中"
+msgstr "在「王牌」配置中"
 
 msgid "LOBBY_CAROUSEL_INCOMPLETE_CREW"
 msgstr "缺少乘員!"
@@ -3437,13 +3437,13 @@ msgid "LOBBY_CERTIFICATES_AVAILABLE"
 msgstr "可用證書："
 
 msgid "LOBBY_CHANGES_AFTER_CALIBRATE"
-msgstr "校准後的效果："
+msgstr "校準後的效果："
 
 msgid "LOBBY_CHANGES_AFTER_UPGRADE"
 msgstr "增強後的效果："
 
 msgid "LOBBY_CHARACTERISTICS_AND_FIRE_RANGE"
-msgstr "模塊和射程"
+msgstr "模組和射程"
 
 msgid "LOBBY_CHARACTERISTICS_CONTROLLABILITY"
 msgstr "操控性"
@@ -3459,7 +3459,7 @@ msgstr "滾轉率"
 
 msgid "LOBBY_CHARACTER_UNIQUE_PILOT_MARINA"
 msgstr ""
-"單一火熱的龍捲風。 她很高興能夠開火併爆炸一切。 即使是她自己的飛機被毀壞也會"
+"單一火熱的龍捲風。 她很高興能夠開火並爆炸一切。 即使是她自己的飛機被毀壞也會"
 "讓她感受到火焰和火花。"
 
 msgid "LOBBY_CHARACTER_UNIQUE_PILOT_MARRY"
@@ -3477,7 +3477,7 @@ msgid "LOBBY_CHECKBOX_SHOW_QUEST_PLANE"
 msgstr "只顯示適合目前選擇戰機的任務"
 
 msgid "LOBBY_CHOOSE_BUTTON_ON_ACTION_MESSAGES"
-msgstr "為動作“{action}”指定一個鍵"
+msgstr "為動作「{action}」指定一個鍵"
 
 msgid "LOBBY_CHOOSE_EQUIPMENT_ERA-1"
 msgstr "選擇設備類別（第一期）"
@@ -3526,7 +3526,7 @@ msgstr ""
 "速度和機動性，易受到地面火力或機動性更好的戰機的攻擊。"
 
 msgid "LOBBY_CLICK_ON_PORTREIT_FOR_DETAIL_INFO"
-msgstr "要了解有關其他女飛行員的更多信息，請單擊其圖像。"
+msgstr "要了解有關其他女飛行員的更多訊息，請單擊其圖像。"
 
 msgid "LOBBY_COLLECTED_PARTS"
 msgstr "收集零件"
@@ -3630,25 +3630,25 @@ msgid "LOBBY_CONFIRM_WINDOW_ABOUT_DIR_AFTER_REFUSE"
 msgstr "如果拒絕："
 
 msgid "LOBBY_CONFIRM_WINDOW_ABOUT_DIR_ARE_YOU_SURE_QM"
-msgstr "拒絕{aircraft_name1}的操作順序並激活操作順序 {aircraft_name2}?"
+msgstr "拒絕{aircraft_name1}的操作順序並啟動操作順序 {aircraft_name2}?"
 
 msgid "LOBBY_CONFIRM_WINDOW_ABOUT_DIR_IF_ACTIVATED"
-msgstr "如果激活了操作訂單 {aircraft_name}:"
+msgstr "如果啟動了操作訂單 {aircraft_name}:"
 
 msgid "LOBBY_CONFIRM_WINDOW_ABOUT_DIR_ON_CURRENT_AIRCRAFT_WILL_BE_DEDUCTED"
 msgstr "{aircraft_name} <font color ='＃eaa82e'>的操作順序將被刪除</ font>。"
 
 msgid "LOBBY_CONFIRM_WINDOW_ABOUT_DIR_PROGRESS_WILL_BE_RESETED"
-msgstr "此操作命令<font color ='＃e5a82e'>的任務進度將被重置</ font>。"
+msgstr "此操作命令<font color ='＃e5a82e'>的任務進度將被重設</ font>。"
 
 msgid "LOBBY_CONFIRM_WINDOW_ABOUT_DIR_TOKENS_WILL_BE_LOST"
-msgstr "在此操作訂單<font color ='＃e5a82e'>上花費的代幣將丟失</ font>。"
+msgstr "在此操作訂單<font color ='＃e5a82e'>上花費的代幣將遺失</ font>。"
 
 msgid "LOBBY_CONFIRM_WINDOW_ABOUT_REACTIVATING_DIR"
-msgstr "如果激活了操作訂單 {aircraft_name}:"
+msgstr "如果啟動了操作訂單 {aircraft_name}:"
 
 msgid "LOBBY_CONFIRM_WINDOW_ACTIVATE_QUEST_HEADER"
-msgstr "激活任務"
+msgstr "啟動任務"
 
 msgid "LOBBY_CONFIRM_WINDOW_MESSAGES_TEXT_1"
 msgstr ""
@@ -3663,15 +3663,15 @@ msgstr "在執行該操作指令時可以接收的所有飛機已經被研究或
 
 msgid "LOBBY_CONFIRM_WINDOW_MESSAGES_TEXT_4"
 msgstr ""
-"在將相應國家，級別和類型的新飛機添加到遊戲中之前，您將無法激活此操作順序。"
+"在將相應國家，級別和類型的新飛機添加到遊戲中之前，您將無法啟動此操作順序。"
 
 msgid "LOBBY_CONFIRM_WINDOW_MESSAGES_TEXT_4_1"
 msgstr "無論如何交換操作訂單的令牌？"
 
 msgid "LOBBY_CONFIRM_WINDOW_MESSAGES_TEXT_5"
 msgstr ""
-"停用此操作訂單後，將重置此操作訂單的任務進度，但操作訂單將保留在您的庫存中。 "
-"您可以隨時再次激活它。"
+"停用此操作訂單後，將重設此操作訂單的任務進度，但操作訂單將保留在您的庫存中。 "
+"您可以隨時再次啟動它。"
 
 msgid "LOBBY_CONFIRM_WINDOW_MESSAGES_TEXT_5_1"
 msgstr "停用操作指令？"
@@ -3695,7 +3695,7 @@ msgstr ""
 "做出選擇，你就無法改變你的選擇。"
 
 msgid "LOBBY_CONFIRM_WINDOW_REFUSE_DIR_ON_PLANE1_AND_REACTIVATE_DIR_ON_PLANE2"
-msgstr "拒絕{aircraft_name1}的操作順序並重新激活{aircraft_name2}的操作順序？"
+msgstr "拒絕{aircraft_name1}的操作順序並重新啟動{aircraft_name2}的操作順序？"
 
 msgid "LOBBY_CONGRATULATIONS_MESSAGE_1"
 msgstr "你被授予飛機！"
@@ -3704,7 +3704,7 @@ msgid "LOBBY_CONGRATULATIONS_MESSAGE_2"
 msgstr "連同飛機，您會收到一個機位、100%能力訓練的乘員和兩套彈藥。"
 
 msgid "LOBBY_CONGRATULATIONS_PERSONAL_QUEST_VARIABLE_NAME_COMPLETED"
-msgstr "恭喜！ 個人任務“{variable_name}”完成了！"
+msgstr "恭喜！ 個人任務「{variable_name}」完成了！"
 
 msgid "LOBBY_CONGRATULATIONS_PLAYER_NAME_CAPS"
 msgstr "恭喜, {name}!"
@@ -3720,7 +3720,7 @@ msgstr "你收到了所有獨特的飛行員。"
 
 msgid "LOBBY_CONGRATULATION_BANNER"
 msgstr ""
-"享受令人驚歎的全新的5級蘇聯戰鬥機卡爾波夫伊-180-3的機動性吧！它就在你的機庫"
+"享受令人驚嘆的全新的5級蘇聯戰鬥機卡爾波夫伊-180-3的機動性吧！它就在你的機庫"
 "中！"
 
 msgid "LOBBY_CONGRATULATION_EQUIPMENT_GRADE_UP"
@@ -3734,7 +3734,7 @@ msgstr "祝賀你的功績勳章！"
 
 msgid "LOBBY_CONGRATULATION_WITH_NUMBER_IN_RATING"
 msgstr ""
-"恭喜！ 您在“{variable_name}”評級中的排名是{number}。<br>請收下您當之無愧的獎"
+"恭喜！ 您在「{variable_name}」評級中的排名是{number}。<br>請收下您當之無愧的獎"
 "勵！"
 
 msgid "LOBBY_CONGRAT_QUESTS_DONE_PLANE_RECEIVED"
@@ -3818,7 +3818,7 @@ msgid "LOBBY_CONSUMABLES_DESCRIPTION_EXTINGUISHER_PREMIUM"
 msgstr "熄滅火焰並提供10秒的防火能力。"
 
 msgid "LOBBY_CONSUMABLES_DESCRIPTION_FIRE_WORK"
-msgstr "放假期煙花。"
+msgstr "放假期煙火。"
 
 msgid "LOBBY_CONSUMABLES_DESCRIPTION_HIOCTANE_PREMIUM"
 msgstr "發動機推力增加10％，巡航速度提高3％。 在戰鬥期間有效"
@@ -3905,7 +3905,7 @@ msgid "LOBBY_CONSUMABLES_DESCRIPTION_SHORT_GUN_HEATSINK"
 msgstr "冷卻全部機槍/機砲"
 
 msgid "LOBBY_CONSUMABLES_DESCRIPTION_SHORT_IMPROVED_EXTINGUISHER"
-msgstr "滅火併防止戰機再次起火,在單一戰鬥中可使用2次"
+msgstr "滅火並防止戰機再次起火,在單一戰鬥中可使用2次"
 
 msgid "LOBBY_CONSUMABLES_DESCRIPTION_SHORT_JET_FUEL"
 msgstr "提升5%的發動機功率"
@@ -3947,7 +3947,7 @@ msgid "LOBBY_CONSUMABLES_EFFECT_ON_USE_AUTO_EXTINGUISHER"
 msgstr "自動熄滅火焰並提供暫時的防火能力。"
 
 msgid "LOBBY_CONSUMABLES_EFFECT_ON_USE_AUTO_FIX_TAIL_AND_WINGS"
-msgstr "通過穩定控制翼面減少損傷所帶來的影響,自動恢復機翼和尾翼的可控性"
+msgstr "透過穩定控制翼面減少損傷所帶來的影響,自動恢復機翼和尾翼的可控性"
 
 msgid "LOBBY_CONSUMABLES_EFFECT_ON_USE_AUTO_RESTARTER"
 msgstr "自動修復受損引擎"
@@ -3975,7 +3975,7 @@ msgstr "100%降低引擎熱量"
 
 msgid "LOBBY_CONSUMABLES_EFFECT_ON_USE_DAILY_FIX_TAIL_AND_WINGS"
 msgstr ""
-"通過穩定控制翼面從而減小翼面損傷所帶來的影響,恢復部分機翼和尾翼的操控性"
+"透過穩定控制翼面從而減小翼面損傷所帶來的影響,恢復部分機翼和尾翼的操控性"
 
 msgid "LOBBY_CONSUMABLES_EFFECT_ON_USE_DAILY_GUN_HEATSINK"
 msgstr "降低所以機槍或機砲的熱量,並在使用後的5秒內防止其過熱"
@@ -3997,7 +3997,7 @@ msgstr "手動點燃彩色節日焰火"
 
 msgid "LOBBY_CONSUMABLES_EFFECT_ON_USE_FIX_TAIL_AND_WINGS"
 msgstr ""
-"通過穩定控制翼面從而減小翼面損傷所帶來的影響,恢復部分機翼和尾翼的操控性"
+"透過穩定控制翼面從而減小翼面損傷所帶來的影響,恢復部分機翼和尾翼的操控性"
 
 msgid "LOBBY_CONSUMABLES_EFFECT_ON_USE_GOLD_ADRENALIN"
 msgstr "10秒內增加戰機在各軸向上的旋轉速度"
@@ -4012,7 +4012,7 @@ msgid "LOBBY_CONSUMABLES_EFFECT_ON_USE_GUN_HEATSINK"
 msgstr "降低所有武器的過熱速度"
 
 msgid "LOBBY_CONSUMABLES_EFFECT_ON_USE_IMPROVED_EXTINGUISHER"
-msgstr "滅火併在使用後的15秒內防止戰機再次起火。手動使用。"
+msgstr "滅火並在使用後的15秒內防止戰機再次起火。手動使用。"
 
 msgid "LOBBY_CONSUMABLES_EFFECT_ON_USE_SPARKLERS"
 msgstr "戰鬥過程中使用，戰機進行拉昇將會留下一條煙帶"
@@ -4105,16 +4105,16 @@ msgid "LOBBY_CONSUMABLES_NAME_GUN_HEATSINK"
 msgstr "武器通風裝置"
 
 msgid "LOBBY_CONSUMABLES_NAME_IMPROVED_EXTINGUISHER"
-msgstr "改進型滅火器"
+msgstr "改良型滅火器"
 
 msgid "LOBBY_CONSUMABLES_NAME_JET_FUEL"
 msgstr "高純度煤油"
 
 msgid "LOBBY_CONSUMABLES_NAME_SPARKLERS"
-msgstr "煙花"
+msgstr "煙火"
 
 msgid "LOBBY_CONSUMABLES_NAME_WEP_BOOSTER"
-msgstr "改進型油氣混合物"
+msgstr "改良型油氣混合物"
 
 msgid "LOBBY_CONSUMABLES_PURCHASE"
 msgstr "購買耗材"
@@ -4328,16 +4328,16 @@ msgid "LOBBY_CREW_BUTTON_RELEARN_1"
 msgstr "重新訓練{plane_name}"
 
 msgid "LOBBY_CREW_BUTTON_RESET"
-msgstr "重置"
+msgstr "重設"
 
 msgid "LOBBY_CREW_BUTTON_RESET_CAPS"
-msgstr "重置"
+msgstr "重設"
 
 msgid "LOBBY_CREW_BUTTON_RESET_SKILL"
-msgstr "重置"
+msgstr "重設"
 
 msgid "LOBBY_CREW_BUTTON_RESET_SKILLS"
-msgstr "重置技能"
+msgstr "重設技能"
 
 msgid "LOBBY_CREW_BUTTON_TRAIN"
 msgstr "訓練"
@@ -4523,7 +4523,7 @@ msgid "LOBBY_CREW_HEADER_SKILLS_CAPS"
 msgstr "技能"
 
 msgid "LOBBY_CREW_HEADER_SKILLS_RESET"
-msgstr "重置技能"
+msgstr "重設技能"
 
 msgid "LOBBY_CREW_HEADER_SOLDIER_FROM_THIS_AIRCRAFT"
 msgstr "機組乘員訓練"
@@ -4571,7 +4571,7 @@ msgid "LOBBY_CREW_LABEL_AIRCRAFT_PILOT"
 msgstr "飛行員："
 
 msgid "LOBBY_CREW_LABEL_AVAILABLE_AFTEF_LEARNING_OF_SKILL_0"
-msgstr "乘員技能水平達到100%後可用:"
+msgstr "乘員技能水準達到100%後可用:"
 
 msgid "LOBBY_CREW_LABEL_AVAILABLE_AFTEF_LEARNING_OF_SKILL_1"
 msgstr "掌握一項技能後:"
@@ -4668,7 +4668,7 @@ msgid "LOBBY_CREW_MESSAGE_CHOSEN_MODE_NAME"
 msgstr "你選擇了新的戰鬥模式 {mode_name}:"
 
 msgid "LOBBY_CREW_MESSAGE_CONFIRMATION_RESET_SKILL"
-msgstr "重置此乘員技能將花費 {price}{icon_currency} ，確定變更?"
+msgstr "重設此乘員技能將花費 {price}{icon_currency} ，確定變更?"
 
 msgid "LOBBY_CREW_MESSAGE_CONGRATULATIONS"
 msgstr "恭喜！"
@@ -4777,7 +4777,7 @@ msgid "LOBBY_CREW_MESSAGE_RETRAIN_CREW_MEMBER"
 msgstr "重新訓練選定的乘員?"
 
 msgid "LOBBY_CREW_MESSAGE_RETRAIN_WARNING"
-msgstr "重新培訓乘員的熟練度以適應另一架戰機，重新培訓將會重置乘員的熟練度。"
+msgstr "重新培訓乘員的熟練度以適應另一架戰機，重新培訓將會重設乘員的熟練度。"
 
 msgid "LOBBY_CREW_MESSAGE_REWARD_READY_TO_RANDOM"
 msgstr "\"空戰王牌\"任務已完成! 您將獲得以下獎勵:"
@@ -4859,16 +4859,16 @@ msgid "LOBBY_CREW_SELECT_RECRUIT_MODE"
 msgstr "選擇徵兵條件"
 
 msgid "LOBBY_CREW_SELECT_RESET_MODE"
-msgstr "選擇技能重置選項"
+msgstr "選擇技能重設選項"
 
 msgid "LOBBY_CREW_SKILL_BEFORE_RESET"
-msgstr "重置技能："
+msgstr "重設技能："
 
 msgid "LOBBY_CREW_SKILL_PILOT_MASTER"
 msgstr "技能不能與這架飛機一起使用"
 
 msgid "LOBBY_CREW_SKILL_POINT_AFTER_RESET"
-msgstr "重置後的技能點："
+msgstr "重設後的技能點："
 
 msgid "LOBBY_CREW_SPECIALTY_AFTER_QUICKTRAINING"
 msgstr "快速訓練熟練前："
@@ -5003,24 +5003,24 @@ msgid "LOBBY_DIRECTIVE_ON_PLANE_LIST"
 msgstr "對於飛機："
 
 msgid "LOBBY_DIR_ACTIVATION_ARE_YOU_100_SURE_QM"
-msgstr "無論如何激活操作指令？"
+msgstr "無論如何啟動操作指令？"
 
 msgid "LOBBY_DIR_ACTIVATION_CONFIRMATION_TEXT_1"
-msgstr "激活{aircraft_name}的操作順序 ?"
+msgstr "啟動{aircraft_name}的操作順序 ?"
 
 msgid "LOBBY_DIR_ACTIVATION_CONFIRMATION_TEXT_2"
 msgstr ""
-"如果您激活{aircraft_name_1}的操作順序，則{aircraft_name_2} <font color ='＃"
-"e5a82e'>的操作順序將被撤消</ font>，並且您的任務中的所有進度都將被重置。"
+"如果您啟動{aircraft_name_1}的操作順序，則{aircraft_name_2} <font color ='＃"
+"e5a82e'>的操作順序將被撤消</ font>，並且您的任務中的所有進度都將被重設。"
 
 msgid "LOBBY_DIR_ACTIVATION_CONFIRMATION_TEXT_3"
-msgstr "您將激活{aircraft_name}的操作順序。"
+msgstr "您將啟動{aircraft_name}的操作順序。"
 
 msgid "LOBBY_DIR_ACTIVATION_CONFIRMATION_TEXT_4"
-msgstr "一次只能激活一個操作指令。"
+msgstr "一次只能啟動一個操作指令。"
 
 msgid "LOBBY_DIR_ACTIVATION_HEADER"
-msgstr "激活操作訂單"
+msgstr "啟動操作訂單"
 
 msgid "LOBBY_DIR_ALL_QUESTS_DONE"
 msgstr "你完成了任務鏈！"
@@ -5599,13 +5599,13 @@ msgstr ""
 "color='#547899'>victories</font> in any number of battles."
 
 msgid "LOBBY_DIR_REACTIVATION_CONFIRM_WINDOW_HEADER"
-msgstr "操作訂單重新激活"
+msgstr "操作訂單重新啟動"
 
 msgid "LOBBY_DIR_REACTIVATION_CONFIRM_WINDOW_MESSAGE"
-msgstr "使用{price}重新激活{aircraft_name}的操作順序？"
+msgstr "使用{price}重新啟動{aircraft_name}的操作順序？"
 
 msgid "LOBBY_DIR_REFUSE_CONFIRMATION_TEXT_1"
-msgstr "拒絕操作順序將重置其任務中的所有進度。"
+msgstr "拒絕操作順序將重設其任務中的所有進度。"
 
 msgid "LOBBY_DIR_REFUSE_CONFIRMATION_TEXT_2"
 msgstr "拒絕該操作的操作順序 {aircraft_name}?"
@@ -5614,14 +5614,14 @@ msgid "LOBBY_DIR_REFUSE_HEADER"
 msgstr "拒絕操作訂單"
 
 msgid "LOBBY_DIR_WITH_ALL_YOUR_PROGRESS_REACTIVATED_ON_TIME"
-msgstr "已重新激活{aircraft_name}飛機的操作順序 {time}"
+msgstr "已重新啟動{aircraft_name}飛機的操作順序 {time}"
 
 msgid "LOBBY_DISCOUNT"
 msgstr "折扣"
 
 msgid "LOBBY_DISMANTLE_EQUIPMENT_CONFIRMATION_TEXT"
 msgstr ""
-"將設備“{name}”拆分為材料？<br> <font size ='6'> <br> </ font>您將收到："
+"將設備「{name}」拆分為材料？<br> <font size ='6'> <br> </ font>您將收到："
 
 msgid "LOBBY_DISMANTLE_EQUIPMENT_HEADER"
 msgstr "拆卸設備"
@@ -5894,10 +5894,10 @@ msgid "LOBBY_EARN_TOKENS_OR_BUY_TOKENS"
 msgstr "你可以通過完成每日任務或<a>購買金幣</a>獲得令牌。"
 
 msgid "LOBBY_EASY-HARD_QUEST_COMPLETED_REWARD"
-msgstr "恭喜！ “{name}”任務完成！<br> <font size ='6'> <br> </ font>獲獎。"
+msgstr "恭喜！ 「{name}」任務完成！<br> <font size ='6'> <br> </ font>獲獎。"
 
 msgid "LOBBY_EASY_QUEST_COMPLETED_REWARD"
-msgstr "恭喜！ “{name}”任務完成！<br> <font size ='6'> <br> </ font>獲獎。"
+msgstr "恭喜！ 「{name}」任務完成！<br> <font size ='6'> <br> </ font>獲獎。"
 
 msgid "LOBBY_ECONOMIC_CONSUMABLE"
 msgstr "加速器"
@@ -5936,7 +5936,7 @@ msgid "LOBBY_EQUIPMENT20_GROUP_NAME_BOMBSIGHT"
 msgstr "投彈瞄準器"
 
 msgid "LOBBY_EQUIPMENT20_GROUP_NAME_BURSTGUNS"
-msgstr "加固螺栓載體"
+msgstr "強化螺栓載體"
 
 msgid "LOBBY_EQUIPMENT20_GROUP_NAME_COSMETICS"
 msgstr "整飾的"
@@ -5966,7 +5966,7 @@ msgid "LOBBY_EQUIPMENT20_GROUP_NAME_GSUIT"
 msgstr "G-Suit"
 
 msgid "LOBBY_EQUIPMENT20_GROUP_NAME_GUNCAM"
-msgstr "槍式攝像機"
+msgstr "槍式攝影機"
 
 msgid "LOBBY_EQUIPMENT20_GROUP_NAME_GUNSAMMO"
 msgstr "彈藥"
@@ -5978,7 +5978,7 @@ msgid "LOBBY_EQUIPMENT20_GROUP_NAME_HEAVYGUNS"
 msgstr "長槍桶"
 
 msgid "LOBBY_EQUIPMENT20_GROUP_NAME_HEAVYHULL"
-msgstr "加固機身"
+msgstr "強化機身"
 
 msgid "LOBBY_EQUIPMENT20_GROUP_NAME_HEAVYPAYLOAD"
 msgstr "強化外掛點"
@@ -6176,16 +6176,16 @@ msgid "LOBBY_EQUIPMENT20_NAME_HEAVYGUNS_G3"
 msgstr "最終長槍桶"
 
 msgid "LOBBY_EQUIPMENT20_NAME_HEAVYHULL_G0"
-msgstr "通用加固機身"
+msgstr "通用強化機身"
 
 msgid "LOBBY_EQUIPMENT20_NAME_HEAVYHULL_G1"
-msgstr "增強加固機身"
+msgstr "增強強化機身"
 
 msgid "LOBBY_EQUIPMENT20_NAME_HEAVYHULL_G2"
-msgstr "進階加固機身"
+msgstr "進階強化機身"
 
 msgid "LOBBY_EQUIPMENT20_NAME_HEAVYHULL_G3"
-msgstr "最終加固機身"
+msgstr "最終強化機身"
 
 msgid "LOBBY_EQUIPMENT20_NAME_HEAVYPAYLOAD_G0"
 msgstr "通用強化外掛點"
@@ -6368,18 +6368,18 @@ msgid "LOBBY_EQUIPMENT_CALIBRATED"
 msgstr "設備校準！"
 
 msgid "LOBBY_EQUIPMENT_COMPENSATION_MESSAGE"
-msgstr "回收配件“防彈玻璃”的補償:"
+msgstr "回收配件「防彈玻璃」的補償:"
 
 msgid "LOBBY_EQUIPMENT_DEBUFF_MODIFIERS_FOR_NOT_SPECIAL_STATE_CONFIRMATION_TEXT_1"
 msgstr ""
-"您正在將設備“{name}”安裝在尚未升級到“<font color ='＃{1}'>王牌</ font>”配置的"
+"您正在將設備「{name}」安裝在尚未升級到「<font color ='＃{1}'>王牌</ font>」配置的"
 "飛機上。<br> <font size ='6' > <br> </ font>這會影響設備性能："
 
 msgid "LOBBY_EQUIPMENT_DEBUFF_MODIFIERS_FOR_NOT_SPECIAL_STATE_TEXT_NEG-1"
-msgstr "技術水平和基本特徵將會減少"
+msgstr "技術水準和基本特徵將會減少"
 
 msgid "LOBBY_EQUIPMENT_DEBUFF_MODIFIERS_FOR_NOT_SPECIAL_STATE_TEXT_NEG-2"
-msgstr "技術水平的增長和校準程度將受到限制"
+msgstr "技術水準的增長和校準程度將受到限制"
 
 msgid "LOBBY_EQUIPMENT_DEBUFF_MODIFIERS_FOR_NOT_SPECIAL_STATE_TEXT_NEG-3"
 msgstr "獎勵特點將失去作用。"
@@ -6649,10 +6649,10 @@ msgid "LOBBY_EQUIPMENT_NAME_BETTER_GYRO_SIGHT"
 msgstr "一級陀螺瞄準具"
 
 msgid "LOBBY_EQUIPMENT_NAME_BETTER_OPTICAL_SIGHT"
-msgstr "改進型光學瞄準具"
+msgstr "改良型光學瞄準具"
 
 msgid "LOBBY_EQUIPMENT_NAME_BETTER_RADIO_SIGHT"
-msgstr "改進型無線電瞄準具"
+msgstr "改良型無線電瞄準具"
 
 msgid "LOBBY_EQUIPMENT_NAME_BETTER_REFLECTOR_SIGHT"
 msgstr "一級反射式瞄準具"
@@ -6706,16 +6706,16 @@ msgid "LOBBY_EQUIPMENT_NAME_DOPE_COATING_II"
 msgstr "二級機體拋光"
 
 msgid "LOBBY_EQUIPMENT_NAME_ENGINE_TWEAK_I"
-msgstr "一級優化引擎"
+msgstr "一級最佳化引擎"
 
 msgid "LOBBY_EQUIPMENT_NAME_ENGINE_TWEAK_II"
-msgstr "二級優化引擎"
+msgstr "二級最佳化引擎"
 
 msgid "LOBBY_EQUIPMENT_NAME_ENGINE_TWEAK_III"
-msgstr "三級優化引擎"
+msgstr "三級最佳化引擎"
 
 msgid "LOBBY_EQUIPMENT_NAME_ENGINE_TWEAK_IV"
-msgstr "四級優化引擎"
+msgstr "四級最佳化引擎"
 
 msgid "LOBBY_EQUIPMENT_NAME_FIRE-FIGHTING_SYSTEM"
 msgstr "四級自密封油箱"
@@ -6745,10 +6745,10 @@ msgid "LOBBY_EQUIPMENT_NAME_GRAVITY_CENTER_IV"
 msgstr "四級飛行操縱裝置"
 
 msgid "LOBBY_EQUIPMENT_NAME_GUN_CAM_I"
-msgstr "槍式攝像機"
+msgstr "槍式攝影機"
 
 msgid "LOBBY_EQUIPMENT_NAME_GUN_CAM_UNIQ"
-msgstr "槍式攝像機 伊-180-3"
+msgstr "槍式攝影機 伊-180-3"
 
 msgid "LOBBY_EQUIPMENT_NAME_GYRO_SIGHT"
 msgstr "陀螺瞄準具"
@@ -6760,37 +6760,37 @@ msgid "LOBBY_EQUIPMENT_NAME_HULL_POLISHING"
 msgstr "光面蒙皮"
 
 msgid "LOBBY_EQUIPMENT_NAME_IMPROVED_COATING_I"
-msgstr "一級改進型蒙皮"
+msgstr "一級改良型蒙皮"
 
 msgid "LOBBY_EQUIPMENT_NAME_IMPROVED_COATING_II"
-msgstr "二級改進型蒙皮"
+msgstr "二級改良型蒙皮"
 
 msgid "LOBBY_EQUIPMENT_NAME_IMPROVED_COATING_III"
-msgstr "三級改進型蒙皮"
+msgstr "三級改良型蒙皮"
 
 msgid "LOBBY_EQUIPMENT_NAME_IMPROVED_COATING_IV"
-msgstr "四級改進型蒙皮"
+msgstr "四級改良型蒙皮"
 
 msgid "LOBBY_EQUIPMENT_NAME_IMPROVED_DOPE_I"
-msgstr "一級改進型機體拋光"
+msgstr "一級改良型機體拋光"
 
 msgid "LOBBY_EQUIPMENT_NAME_IMPROVED_DOPE_II"
-msgstr "二級改進型機體拋光"
+msgstr "二級改良型機體拋光"
 
 msgid "LOBBY_EQUIPMENT_NAME_IMPROVED_DOPE_III"
-msgstr "三級改進型機體拋光"
+msgstr "三級改良型機體拋光"
 
 msgid "LOBBY_EQUIPMENT_NAME_IMPROVED_DOPE_IV"
-msgstr "四級改進型機體拋光"
+msgstr "四級改良型機體拋光"
 
 msgid "LOBBY_EQUIPMENT_NAME_IMPROVED_FLAPS_I"
-msgstr "一級改進型襟翼"
+msgstr "一級改良型襟翼"
 
 msgid "LOBBY_EQUIPMENT_NAME_IMPROVED_FLAPS_II"
-msgstr "二級改進型襟翼"
+msgstr "二級改良型襟翼"
 
 msgid "LOBBY_EQUIPMENT_NAME_IMPROVED_FLAPS_III"
-msgstr "三級改進型襟翼"
+msgstr "三級改良型襟翼"
 
 msgid "LOBBY_EQUIPMENT_NAME_IMPROVED_GUNNER_RANGE_I"
 msgstr "尾砲穩定裝置 I"
@@ -6805,16 +6805,16 @@ msgid "LOBBY_EQUIPMENT_NAME_IMPROVED_GUNNER_RANGE_IV"
 msgstr "尾砲穩定裝置 IV"
 
 msgid "LOBBY_EQUIPMENT_NAME_IMPROVED_RAD_I"
-msgstr "一級改進型散熱系統"
+msgstr "一級改良型散熱系統"
 
 msgid "LOBBY_EQUIPMENT_NAME_IMPROVED_RAD_II"
-msgstr "二級改進型散熱系統"
+msgstr "二級改良型散熱系統"
 
 msgid "LOBBY_EQUIPMENT_NAME_IMPROVED_RAD_III"
-msgstr "三級改進型散熱系統"
+msgstr "三級改良型散熱系統"
 
 msgid "LOBBY_EQUIPMENT_NAME_IMPROVED_RAD_IV"
-msgstr "四級改進型散熱系統"
+msgstr "四級改良型散熱系統"
 
 msgid "LOBBY_EQUIPMENT_NAME_LIGHT_HULL_I"
 msgstr "一級輕量化機身"
@@ -6838,7 +6838,7 @@ msgid "LOBBY_EQUIPMENT_NAME_OPTICAL_SIGHT"
 msgstr "光學瞄準具"
 
 msgid "LOBBY_EQUIPMENT_NAME_RADIO_SIGHT"
-msgstr "改進型無線電瞄準具"
+msgstr "改良型無線電瞄準具"
 
 msgid "LOBBY_EQUIPMENT_NAME_REFLECTOR_SIGHT"
 msgstr "反射式瞄準具"
@@ -6970,19 +6970,19 @@ msgid "LOBBY_EVENTS_CONTEXT_DISCOUNTS_CREDITS_ROCKETS_PURCHASE"
 msgstr "使用銀幣購買火箭彈"
 
 msgid "LOBBY_EVENTS_CONTEXT_DISCOUNTS_CREW_BOTH_RETRAIN"
-msgstr "使用金幣或銀幣重置乘員技能"
+msgstr "使用金幣或銀幣重設乘員技能"
 
 msgid "LOBBY_EVENTS_CONTEXT_DISCOUNTS_CREW_BOTH_TRAINING"
 msgstr "使用金幣或銀幣對乘員進行訓練或再培訓"
 
 msgid "LOBBY_EVENTS_CONTEXT_DISCOUNTS_CREW_CREDITS_RETRAIN"
-msgstr "使用銀幣重置乘員技能"
+msgstr "使用銀幣重設乘員技能"
 
 msgid "LOBBY_EVENTS_CONTEXT_DISCOUNTS_CREW_CREDITS_TRAINING"
 msgstr "使用銀幣對乘員進行訓練或再培訓"
 
 msgid "LOBBY_EVENTS_CONTEXT_DISCOUNTS_CREW_GOLD_RETRAIN"
-msgstr "使用金幣重置乘員技能"
+msgstr "使用金幣重設乘員技能"
 
 msgid "LOBBY_EVENTS_CONTEXT_DISCOUNTS_CREW_GOLD_TRAINING"
 msgstr "使用金幣對乘員進行訓練或再培訓"
@@ -7340,16 +7340,16 @@ msgid "LOBBY_EVENT_MESSAGE_ACCURACY_EQUIPMENT_AD"
 msgstr "提高射擊精度<br>特殊配件!"
 
 msgid "LOBBY_EVENT_MESSAGE_ACCURACY_EQUIPMENT_MORE"
-msgstr "反射式瞄準具<br>陀螺瞄準具<br>改進型無線電瞄準具"
+msgstr "反射式瞄準具<br>陀螺瞄準具<br>改良型無線電瞄準具"
 
 msgid "LOBBY_EVENT_MESSAGE_ADAPT_CAMO_EQUIPMENT_MORE"
-msgstr "隱蔽偽裝<br>飛行操縱裝置<br>改進型蒙皮"
+msgstr "隱蔽偽裝<br>飛行操縱裝置<br>改良型蒙皮"
 
 msgid "LOBBY_EVENT_MESSAGE_AGILITY_EQUIPMENT_AD"
 msgstr "提升飛行速度<br>新配件!"
 
 msgid "LOBBY_EVENT_MESSAGE_AGILITY_EQUIPMENT_MORE"
-msgstr "優化引擎<br>機體拋光<br>光面蒙皮"
+msgstr "最佳化引擎<br>機體拋光<br>光面蒙皮"
 
 msgid "LOBBY_EVENT_MESSAGE_BUY_TICKETS_FOR_GOLD"
 msgstr "需要更多令牌?"
@@ -7358,7 +7358,7 @@ msgid "LOBBY_EVENT_MESSAGE_BUY_TICKETS_FOR_GOLD_1"
 msgstr "使用金幣購買!"
 
 msgid "LOBBY_EVENT_MESSAGE_CAMO_AD"
-msgstr "獲得特殊的塗裝方案<br>讓戰機看上去更強悍!"
+msgstr "獲得特殊的塗裝方案<br>讓戰機看起來更強悍!"
 
 msgid "LOBBY_EVENT_MESSAGE_CERTIFICATE_EXCHANGE"
 msgstr "活動結束，您尚未使用的令牌將被轉化為金幣"
@@ -7388,7 +7388,7 @@ msgid "LOBBY_EVENT_MESSAGE_DISCOUNT_AIRPLANES_PR6"
 msgstr "閃電, P-40 M-105"
 
 msgid "LOBBY_EVENT_MESSAGE_DURABILITY_EQUIPMENT_AD"
-msgstr "加固機體強度<br>專用配件!"
+msgstr "強化機體強度<br>專用配件!"
 
 msgid "LOBBY_EVENT_MESSAGE_DURABILITY_EQUIPMENT_MORE"
 msgstr "增強蒙皮<br>裝甲玻璃<br>附加裝甲板"
@@ -7484,7 +7484,7 @@ msgid "LOBBY_EVENT_MESSAGE_USE_TICKETS_WIN_DISCOUNT_PR_PLANES_CH"
 msgstr "沒有收到折扣優惠。<br>使用令牌獲取折扣優惠。"
 
 msgid "LOBBY_EVENT_MESSAGE_USE_TICKETS_WIN_PRIZES"
-msgstr "點選“令牌抽獎”按鈕，獲取豐厚獎勵"
+msgstr "點選「令牌抽獎」按鈕，獲取豐厚獎勵"
 
 msgid "LOBBY_EVENT_NAME_BURNING_SHORES"
 msgstr "火紅的海岸"
@@ -7838,7 +7838,7 @@ msgid "LOBBY_EXTEND_QUEST_MESSAGE_HEADER"
 msgstr "延長任務時間"
 
 msgid "LOBBY_FILTERS_RESET"
-msgstr "重置過濾器並顯示所有優惠？"
+msgstr "重設過濾器並顯示所有優惠？"
 
 msgid "LOBBY_FILTER_AIRCRAFT_CLASSES"
 msgstr "戰機類型"
@@ -7892,14 +7892,14 @@ msgid "LOBBY_FIRST_STAGE_COMPLETED"
 msgstr "第一階段的試驗完成！"
 
 msgid "LOBBY_FITTING_PLANE_BATTLES_LEFT_FOR_UNLOCK_ALL_MODULES_WITHOUT_PREM"
-msgstr "大約. 剩下的戰鬥來研究所有模塊：{0}"
+msgstr "大約. 剩下的戰鬥來研究所有模組：{0}"
 
 msgid "LOBBY_FITTING_PLANE_BATTLES_LEFT_FOR_UNLOCK_ALL_MODULES_WITH_PREM"
 msgstr "大約. 優惠：{0}"
 
 msgid "LOBBY_FITTING_PLANE_BEFORE_ELITE_RULE-1"
 msgstr ""
-"研究飛機的所有可用<a>模塊</a>以獲取<font color ='＃{1}'>精英狀態</ font>"
+"研究飛機的所有可用<a>模組</a>以獲取<font color ='＃{1}'>精英狀態</ font>"
 
 msgid "LOBBY_FITTING_PLANE_BEFORE_ELITE_RULE-2"
 msgstr "通過獲取<font color ='＃{1}'>精英狀態</ font>，您將獲得成就獎勵"
@@ -7918,13 +7918,13 @@ msgstr "在達到<font color ='＃{1}'>庫存配置</ font>的同時，您將獲
 msgid "LOBBY_FITTING_PLANE_BEFORE_FACTORY_NEW_RULE-3"
 msgstr ""
 "<font color ='＃{1}'>庫存配置</ font>中的飛機將允許您在戰鬥中獲得<a>體驗</"
-"a>，研究新的<a>模塊</a>和裝載 <a>設備和消耗品</a>"
+"a>，研究新的<a>模組</a>和裝載 <a>設備和消耗品</a>"
 
 msgid "LOBBY_FITTING_PLANE_BEFORE_SPECIAL_RULE-1"
-msgstr "完成任務以解鎖購買<a>“王牌”</a>配置的機會"
+msgstr "完成任務以解鎖購買<a>「王牌」</a>配置的機會"
 
 msgid "LOBBY_FITTING_PLANE_BEFORE_SPECIAL_RULE-2"
-msgstr "在達到“<font color ='＃{1}'>王牌</ font>”配置的同時，您將獲得成就獎勵"
+msgstr "在達到「<font color ='＃{1}'>王牌</ font>」配置的同時，您將獲得成就獎勵"
 
 msgid "LOBBY_FITTING_PLANE_BEFORE_SPECIAL_RULE-3"
 msgstr "您將能夠安裝更多設備並<a>修改</a>以確保其最佳性能"
@@ -7942,7 +7942,7 @@ msgid "LOBBY_FITTING_PLANE_CONGRATS_WITH_FACTORY_NEW_PLANE_STATE"
 msgstr "您的飛機已升級為<font color ='＃{1}'>通用配置</ font>"
 
 msgid "LOBBY_FITTING_PLANE_CONGRATS_WITH_SPECIAL_PLANE_STATE"
-msgstr "您的飛機已升級為“<font color ='＃{1}'>王牌</ font>”配置"
+msgstr "您的飛機已升級為「<font color ='＃{1}'>王牌</ font>」配置"
 
 msgid "LOBBY_FITTING_PLANE_CONGRATS_WITH_SPECIAL_PLANE_STATE_ALREADY_IN_HANGAR"
 msgstr "對飛機進行了特殊的改裝！"
@@ -7960,21 +7960,21 @@ msgstr ""
 
 msgid "LOBBY_FITTING_PLANE_ELITE_RULE-3"
 msgstr ""
-"要解鎖購買“<font color ='＃{1}'>王牌</ font>”配置的機會，請完成分配給您的任務"
+"要解鎖購買「<font color ='＃{1}'>王牌</ font>」配置的機會，請完成分配給您的任務"
 
 msgid "LOBBY_FITTING_PLANE_FACTORY_NEW_PLANE_FEATURES"
 msgstr "庫存配置中的飛機功能"
 
 msgid "LOBBY_FITTING_PLANE_FACTORY_NEW_RULE_1"
 msgstr ""
-"現在，您可以通過研究新的<a>模塊</a>在戰鬥中獲得<a>體驗</a>併升級您的飛機"
+"現在，您可以通過研究新的<a>模組</a>在戰鬥中獲得<a>體驗</a>併升級您的飛機"
 
 msgid "LOBBY_FITTING_PLANE_FACTORY_NEW_RULE_2"
 msgstr "您可以安裝<a>設備和耗材</a>"
 
 msgid "LOBBY_FITTING_PLANE_FACTORY_NEW_RULE_3"
 msgstr ""
-"一旦研究了科技樹的所有<a>模塊</a>，您的飛機將獲得<font color ='＃{1}'> 優秀狀"
+"一旦研究了科技樹的所有<a>模組</a>，您的飛機將獲得<font color ='＃{1}'> 優秀狀"
 "態</ font>"
 
 msgid "LOBBY_FITTING_PLANE_HEADER"
@@ -7990,13 +7990,13 @@ msgid "LOBBY_FITTING_PLANE_IN_ORDER_TO_UNLOCK_SPECIAL_PLANE_STATE_YOU_NEED_TO_GE
 msgstr "獲得飛機的優秀狀態"
 
 msgid "LOBBY_FITTING_PLANE_MODULES_LEFT_FOR_ELITE_STATE"
-msgstr "飛機模塊需要獲得傑出狀態"
+msgstr "飛機模組需要獲得傑出狀態"
 
 msgid "LOBBY_FITTING_PLANE_PLANE_STATE_RECEIVED"
 msgstr "收購！"
 
 msgid "LOBBY_FITTING_PLANE_PROTOTYPE_PLANE_FEATURES"
-msgstr "“原型”配置的飛機特點"
+msgstr "「原型」配置的飛機特點"
 
 msgid "LOBBY_FITTING_PLANE_PROTOTYPE_PLANE_NAME"
 msgstr "您收到的原型 {PLANE_LONGNAME}"
@@ -8006,20 +8006,20 @@ msgstr "現在你可以參加戰鬥並在戰鬥中測試你的飛機"
 
 msgid "LOBBY_FITTING_PLANE_PROTOTYPE_RULE-2"
 msgstr ""
-"“<font color ='＃{1}'>原型</ font>”配置中的飛機在戰鬥中無法獲得<a>體驗</a>且"
-"其模塊無法更改"
+"「<font color ='＃{1}'>原型</ font>」配置中的飛機在戰鬥中無法獲得<a>體驗</a>且"
+"其模組無法更改"
 
 msgid "LOBBY_FITTING_PLANE_PROTOTYPE_RULE-3"
 msgstr "分配給您的完整任務並以<font color ='＃{1}'>庫存配置</ font>接收飛機"
 
 msgid "LOBBY_FITTING_PLANE_QUEST_DONE_NOW_YOU_CAN_INSTALL_NEW_SPECIAL_STATE"
-msgstr "任務完成。 現在您可以購買並安裝“王牌”配置。"
+msgstr "任務完成。 現在您可以購買並安裝「王牌」配置。"
 
 msgid "LOBBY_FITTING_PLANE_QUEST_FOR_FACTORY_NEW_PLANE_STATE"
 msgstr "任務達到庫存配置"
 
 msgid "LOBBY_FITTING_PLANE_QUEST_FOR_SPECIAL_PLANE_STATE"
-msgstr "任務達到“王牌”配置"
+msgstr "任務達到「王牌」配置"
 
 msgid "LOBBY_FITTING_PLANE_QUEST_IN_PROGRESS"
 msgstr "任務正在進行中"
@@ -8040,7 +8040,7 @@ msgstr ""
 "在戰鬥中進行測試。"
 
 msgid "LOBBY_FITTING_PLANE_SPECIAL_PLANE_FEATURES"
-msgstr "“王牌”配置的飛機功能"
+msgstr "「王牌」配置的飛機功能"
 
 msgid "LOBBY_FITTING_PLANE_SPECIAL_RULE-1"
 msgstr "現在，您可以安裝更多<a>設備件</a>，以提高您在戰鬥中的表現"
@@ -8103,7 +8103,7 @@ msgid "LOBBY_FORWARD-GUNS_PURE_DPS"
 msgstr "累積傷害"
 
 msgid "LOBBY_FOR_EVERY_SKILLS_RESET_YOU_PAY"
-msgstr "重置一個技能花費："
+msgstr "重設一個技能花費："
 
 msgid "LOBBY_FOR_EVERY_SKILLS_YOU_PAY"
 msgstr "返還一個技能點花費："
@@ -8420,12 +8420,12 @@ msgstr ""
 
 msgid "LOBBY_HFIGHTERS_QUESTS_N1_FOR_KI-93"
 msgstr ""
-"在一場胜利的戰鬥中至少消滅<font color ='＃8cc8ff'> {0} </ font>敵人<font "
+"在一場勝利的戰鬥中至少消滅<font color ='＃8cc8ff'> {0} </ font>敵人<font "
 "color ='＃547899'>轟炸機</ font>。"
 
 msgid "LOBBY_HFIGHTERS_QUESTS_N2_FOR_KI-102"
 msgstr ""
-"在一場胜利的戰鬥中至少消滅<font color ='＃8cc8ff'> {0} </ font>敵人<font "
+"在一場勝利的戰鬥中至少消滅<font color ='＃8cc8ff'> {0} </ font>敵人<font "
 "color ='＃547899'>攻擊機</ font>。"
 
 msgid "LOBBY_HFIGHTERS_QUESTS_N2_FOR_KI-45"
@@ -8537,7 +8537,7 @@ msgstr ""
 
 msgid "LOBBY_IF_YOU_NOT_FAST_ENOUGH_YOU_CAN_REACTIVATE_DIR_WITH_ALL_PROGRESS"
 msgstr ""
-"如果任務鏈未在分配的時間內完成，您可以保存進度，並在以後重新激活任務鏈。"
+"如果任務鏈未在分配的時間內完成，您可以保存進度，並在以後重新啟動任務鏈。"
 
 msgid "LOBBY_IGR_ONLY_FOR_IGR_CHINA"
 msgstr "任務只適用於 {igrIcon} 玩家"
@@ -8570,7 +8570,7 @@ msgid "LOBBY_IL-10_LIMITED_EDITION_HEADER"
 msgstr "不要錯過機會！"
 
 msgid "LOBBY_INFO_ABOUT_MODULES"
-msgstr "模塊細節"
+msgstr "模組細節"
 
 msgid "LOBBY_INFO_FT"
 msgstr "ft"
@@ -8586,8 +8586,8 @@ msgstr "安裝配置"
 
 msgid "LOBBY_INSTAL_STATE_TEXT"
 msgstr ""
-"要安裝<font color ='＃{1}'>庫存配置</ font>，請購買缺少的模塊："
-"{module_name}。<br> <font size ='6'> <br> </ font>購買模塊 使用{total_cost}？"
+"要安裝<font color ='＃{1}'>庫存配置</ font>，請購買缺少的模組："
+"{module_name}。<br> <font size ='6'> <br> </ font>購買模組 使用{total_cost}？"
 
 msgid "LOBBY_IN_BATTLE"
 msgstr "戰鬥中"
@@ -8602,7 +8602,7 @@ msgid "LOBBY_JA_TR"
 msgstr "對抗開始於："
 
 msgid "LOBBY_JA_TR_AFTER_PLANE_WILL_BE_AVAILABLE_IN_TREE"
-msgstr "\"日本威脅”事件結束後，可以正常方式研究和購買飛機。"
+msgstr "\"日本威脅」事件結束後，可以正常方式研究和購買飛機。"
 
 msgid "LOBBY_JA_TR_AFTER_PURCHASE"
 msgstr "購買後"
@@ -8791,7 +8791,7 @@ msgid "LOBBY_JA_TR_PERFORM"
 msgstr "完成"
 
 msgid "LOBBY_JA_TR_PERFORM_TASK_COST_TOKEN"
-msgstr "使用{value}完成任務“{name}”？"
+msgstr "使用{value}完成任務「{name}」？"
 
 msgid "LOBBY_JA_TR_PICK_UP"
 msgstr "獲取"
@@ -8809,7 +8809,7 @@ msgid "LOBBY_JA_TR_PROLONG_FOR_HOURS"
 msgstr "延長24小時 {value}"
 
 msgid "LOBBY_JA_TR_PROLONG_QUEST_FOR_HOURS_COST_TOKEN"
-msgstr "使用{value} {time} 時延長特殊任務“{name}”？"
+msgstr "使用{value} {time} 時延長特殊任務「{name}」？"
 
 msgid "LOBBY_JA_TR_PURCHASE"
 msgstr "採購"
@@ -8888,10 +8888,10 @@ msgid "LOBBY_JA_TR_SPECIAL_PLANE_BONUS_EXP_5"
 msgstr "x2飛機體驗接下來的20場戰鬥"
 
 msgid "LOBBY_JA_TR_SPECIAL_PLANE_BONUS_EXP_6"
-msgstr "未來20場胜利的飛機體驗和積分增加50％"
+msgstr "未來20場勝利的飛機體驗和積分增加50％"
 
 msgid "LOBBY_JA_TR_SPECIAL_QUEST_1"
-msgstr "特殊任務“<font color ='＃{color}'> Ki-10 </ font>”"
+msgstr "特殊任務「<font color ='＃{color}'> Ki-10 </ font>」"
 
 msgid "LOBBY_JA_TR_SPECIAL_QUEST_2"
 msgstr "特別任務 \"<font color='#{color}'>キ27</font>\""
@@ -9071,8 +9071,8 @@ msgstr "出售配件:"
 
 msgid "LOBBY_LABEL_STOP_SELL_EQUIPMENT"
 msgstr ""
-"在1.9版本更新完成後，所有裝備在戰機上或儲存在倉庫中的高階彈藥和配件“防彈玻"
-"璃”都將被回收。"
+"在1.9版本更新完成後，所有裝備在戰機上或儲存在倉庫中的高階彈藥和配件「防彈玻"
+"璃」都將被回收。"
 
 msgid "LOBBY_LABEL_STOP_SELL_GOLD_BELT"
 msgstr "增強型彈藥將不再使用金幣購買"
@@ -9228,13 +9228,13 @@ msgid "LOBBY_MATERIALS_LIST"
 msgstr "物料"
 
 msgid "LOBBY_MATERIALS_RECEIVED_FOR_CALIBRATION"
-msgstr "收到校准設備的材料！"
+msgstr "收到校準設備的材料！"
 
 msgid "LOBBY_MATERIALS_RECIEVED_FOR_UPGRADE"
 msgstr "收到強化設備的材料！"
 
 msgid "LOBBY_MATERIALS_TIER_LIST"
-msgstr "戰斗等級"
+msgstr "戰鬥等級"
 
 msgid "LOBBY_MAX_BOOST_SPEED"
 msgstr "提升速度"
@@ -9291,7 +9291,7 @@ msgid "LOBBY_MESSAGES_NO_SUITABLE_DIRECTIVE"
 msgstr "沒有合適的操作訂單。"
 
 msgid "LOBBY_MESSAGES_ONLY_ONE_DIRECTIVE_CAN_BE_ACTIVE"
-msgstr "<font color ='＃eaa82e'>一次只能激活一個操作指令</ font>。"
+msgstr "<font color ='＃eaa82e'>一次只能啟動一個操作指令</ font>。"
 
 msgid "LOBBY_MESSAGES_PROGRESS_HEADER"
 msgstr "快速提升!"
@@ -9373,8 +9373,8 @@ msgstr "令牌購買成功"
 
 msgid "LOBBY_MESSAGE_WINDOW_CONTEXT_PORTAL"
 msgstr ""
-"警告！<br> 戰機世界的官方門戶網站現在位於：<br> <br> {link} <br> <br>只有在這"
-"裡，您才能獲得有關遊戲的所有可靠信息並安全地使用任何遊戲服務。"
+"警告！<br> 戰機世界的官方入口網站現在位於：<br> <br> {link} <br> <br>只有在這"
+"裡，您才能獲得有關遊戲的所有可靠訊息並安全地使用任何遊戲服務。"
 
 msgid "LOBBY_MESSAGE_WINDOW_HEADER_PORTAL"
 msgstr "地址變更"
@@ -9686,12 +9686,12 @@ msgstr ""
 msgid "LOBBY_MODULES_PAGE_MESSAGE_UNMOUNT_THREE_EQUIPMENT_FOR_MONEY"
 msgstr ""
 "確認以{price_gold}{icon_gold}的價格拆卸{module_name1}、{module_name2}、"
-"{module_name3}並送到倉庫麼？"
+"{module_name3}並送到倉庫嗎？"
 
 msgid "LOBBY_MODULES_PAGE_MESSAGE_UNMOUNT_TWO_EQUIPMENT_FOR_MONEY"
 msgstr ""
 "確認以{price_gold}{icon_gold}的價格拆卸{module_name1}、{module_name2}並送到倉"
-"庫麼？"
+"庫嗎？"
 
 msgid "LOBBY_MODULES_PAGE_ROCKETS_TO_WAREHOUSE"
 msgstr "{number}  火箭彈將被卸除到倉庫"
@@ -9870,16 +9870,16 @@ msgid "LOBBY_NEW_EQUIPMENT_QUEST_DESCRIPTION-3"
 msgstr "在您的飛機上安裝改進質量的設備，以解鎖下一階段。"
 
 msgid "LOBBY_NEW_EQUIPMENT_QUEST_DESCRIPTION-4"
-msgstr "完成接收材料以校准設備並解鎖下一階段的任務。"
+msgstr "完成接收材料以校準設備並解鎖下一階段的任務。"
 
 msgid "LOBBY_NEW_EQUIPMENT_QUEST_DESCRIPTION-5"
-msgstr "校准設備以解鎖下一階段。"
+msgstr "校準設備以解鎖下一階段。"
 
 msgid "LOBBY_NEW_EQUIPMENT_QUEST_DESCRIPTION-6"
 msgstr "完成任務以接收材料以增強設備並解鎖下一階段。"
 
 msgid "LOBBY_NEW_EQUIPMENT_QUEST_DESCRIPTION-7"
-msgstr "將設備提升到“先進”的質量水平。"
+msgstr "將設備提升到「先進」的品質水準。"
 
 msgid "LOBBY_NEW_EQUIPMENT_QUEST_DESCRIPTION_FOR_ATTACK_PLANE-2"
 msgstr "在標準戰鬥中對地面目標造成傷害，可獲得2,000點個人點數。"
@@ -9889,13 +9889,13 @@ msgstr "在任意數量的勝利戰鬥中摧毀10個地面目標或防空飛機�
 
 msgid "LOBBY_NEW_EQUIPMENT_QUEST_DESCRIPTION_FOR_ATTACK_PLANE-6"
 msgstr ""
-"在連續進行的兩場胜利戰中的每單一戰鬥中，獲得400個個人點以破壞地面目標。"
+"在連續進行的兩場勝利戰中的每單一戰鬥中，獲得400個個人點以破壞地面目標。"
 
 msgid "LOBBY_NEW_EQUIPMENT_QUEST_DESCRIPTION_FOR_BOMBER-4"
 msgstr "在任意數量的勝利戰中摧毀15個地面目標。"
 
 msgid "LOBBY_NEW_EQUIPMENT_QUEST_DESCRIPTION_FOR_BOMBER-6"
-msgstr "在連續進行的兩場胜利戰中，每場摧毀5個地面目標。"
+msgstr "在連續進行的兩場勝利戰中，每場摧毀5個地面目標。"
 
 msgid "LOBBY_NEW_EQUIPMENT_QUEST_DESCRIPTION_FOR_BOMBER_AND_HEAVY-2"
 msgstr "參與標準戰鬥中的10個部門。"
@@ -9907,13 +9907,13 @@ msgid "LOBBY_NEW_EQUIPMENT_QUEST_DESCRIPTION_FOR_FIGHTER-4"
 msgstr "在任意數量的勝利戰鬥中摧毀15名敵方戰鬥機或多用途戰鬥機。"
 
 msgid "LOBBY_NEW_EQUIPMENT_QUEST_DESCRIPTION_FOR_FIGHTER-6"
-msgstr "在連續進行的兩場胜利戰中，每次擊敗空中目標，可獲得500個個人點數。"
+msgstr "在連續進行的兩場勝利戰中，每次擊敗空中目標，可獲得500個個人點數。"
 
 msgid "LOBBY_NEW_EQUIPMENT_QUEST_DESCRIPTION_FOR_HEAVY-4"
 msgstr "在任意數量的戰鬥中摧毀15架敵方轟炸機或攻擊飛機。"
 
 msgid "LOBBY_NEW_EQUIPMENT_QUEST_DESCRIPTION_FOR_HEAVY-6"
-msgstr "在連續進行的兩場胜利戰中，每次獲得200個捕獲點。"
+msgstr "在連續進行的兩場勝利戰中，每次獲得200個捕獲點。"
 
 msgid "LOBBY_NEW_EQUIPMENT_QUEST_DESCRIPTION_FOR_NAVI-2"
 msgstr "在標準戰鬥中獲得400個捕獲點。"
@@ -9922,7 +9922,7 @@ msgid "LOBBY_NEW_EQUIPMENT_QUEST_DESCRIPTION_FOR_NAVI-4"
 msgstr "在任意數量的勝利戰鬥中摧毀15架敵方攻擊機或轟炸機。"
 
 msgid "LOBBY_NEW_EQUIPMENT_QUEST_DESCRIPTION_FOR_NAVI-6"
-msgstr "參加連續兩場胜利戰鬥中的捕獲3個區域。"
+msgstr "參加連續兩場勝利戰鬥中的捕獲3個區域。"
 
 msgid "LOBBY_NEW_EQUIPMENT_QUEST_FOR_ATTACK_PLANE-V-VII"
 msgstr "完成等級 V-VII攻擊機的任務，免費接收設備。"
@@ -9949,10 +9949,10 @@ msgid "LOBBY_NEW_EQUIPMENT_QUEST_NAME-3"
 msgstr "安備設備"
 
 msgid "LOBBY_NEW_EQUIPMENT_QUEST_NAME-4"
-msgstr "校准設備的材料"
+msgstr "校準設備的材料"
 
 msgid "LOBBY_NEW_EQUIPMENT_QUEST_NAME-5"
-msgstr "校准設備"
+msgstr "校準設備"
 
 msgid "LOBBY_NEW_EQUIPMENT_QUEST_NAME-6"
 msgstr "強化設備的材料"
@@ -9993,7 +9993,7 @@ msgid "LOBBY_NEW_YEAR_2017_HEADER"
 msgstr "天空中的假期！"
 
 msgid "LOBBY_NEW_YEAR_2017_SMALL_TEXT"
-msgstr "在新的一年裡征服新的高峰！<br>讓我們通過贈送禮物來慶祝節日。"
+msgstr "在新的一年裡征服新的高峰！<br>讓我們透過贈送禮物來慶祝節日。"
 
 msgid "LOBBY_NEW_YEAR_2018_HEADER"
 msgstr "節日快樂！"
@@ -10043,7 +10043,7 @@ msgid "LOBBY_NORTHERN_STAR_TEXT_3_1"
 msgstr "<font color ='＃{colorID}'>洛克希德P-80A流星</ font>幾乎是你的！"
 
 msgid "LOBBY_NORTHERN_STAR_TEXT_4"
-msgstr "完成整個任務鏈接收兩架飛機："
+msgstr "完成整個任務連結收兩架飛機："
 
 msgid "LOBBY_NORTHERN_STAR_TEXT_5"
 msgstr "Henschel Hs 123和洛克希德P-80A流星！"
@@ -10191,7 +10191,7 @@ msgid "LOBBY_ONE_BATTLE"
 msgstr "單一戰鬥"
 
 msgid "LOBBY_ONE_DIR_ALREADY_IN_PROGRESS"
-msgstr "您已經為{aircraft_name}激活了操作訂單！"
+msgstr "您已經為{aircraft_name}啟動了操作訂單！"
 
 msgid "LOBBY_ONE_USE_IN_BATTLE_BE_CONSUMED"
 msgstr "在戰鬥中至少使用過一次消耗品消耗品在戰鬥結束時被消耗"
@@ -10207,7 +10207,7 @@ msgstr "VIII–X （第3期）"
 
 msgid "LOBBY_ONLY_ONE_PERSONAL_QUEST_CAN_BE_ACTIVE_CONFIRM_WINDOW_ACTIVATE_QUESTS_TEXT"
 msgstr ""
-"一次只能激活一個個人任務。<br> <font size ='6'> <br> </ font>激活"
+"一次只能啟動一個個人任務。<br> <font size ='6'> <br> </ font>啟動"
 "{aircraft_name}的任務？"
 
 msgid "LOBBY_ON_LAST_WEEK"
@@ -10444,7 +10444,7 @@ msgid "LOBBY_PFT_BANNER_SMALL_TEXT"
 msgstr "從科技樹交換高級飛機的代幣！"
 
 msgid "LOBBY_PFT_BUTTON_DEACTIVATE_DIRECTIVE"
-msgstr "取消激活"
+msgstr "取消啟動"
 
 msgid "LOBBY_PFT_BUTTON_GET"
 msgstr "要求"
@@ -10465,7 +10465,7 @@ msgid "LOBBY_PFT_COMPLETE_SECRET_QUESTS_1"
 msgstr "你完成了任務鏈！"
 
 msgid "LOBBY_PFT_COMPLETE_SECRET_QUESTS_2"
-msgstr "點擊“索賠飛機”按鈕即可獲得當之無愧的獎勵。"
+msgstr "點擊「索賠飛機」按鈕即可獲得當之無愧的獎勵。"
 
 msgid "LOBBY_PFT_CONFIRM_PURCHASE_DIRECTIVE_COST"
 msgstr "運營訂單價格："
@@ -10564,7 +10564,7 @@ msgid "LOBBY_PFT_EVENT_NAME_3MONTH_BR"
 msgstr "著名的<br>攻擊機"
 
 msgid "LOBBY_PFT_EVENT_NAME_4MONTH"
-msgstr "操作“隧道效應”"
+msgstr "操作「隧道效應」"
 
 msgid "LOBBY_PFT_GET_DIR_FROM_TROPHY_1"
 msgstr "在活動期間打開供應包裝箱接收操作訂單"
@@ -10573,7 +10573,7 @@ msgid "LOBBY_PFT_GET_DIR_FROM_TROPHY_2"
 msgstr "在供應箱中查找操作訂單"
 
 msgid "LOBBY_PFT_GET_DIR_FROM_TROPHY_DURING_EVENT_OR_STORE"
-msgstr "通過在活動期間打開耗材或在商店購買操作訂單來獲取操作訂單"
+msgstr "透過在活動期間打開耗材或在商店購買操作訂單來獲取操作訂單"
 
 msgid "LOBBY_PFT_GET_DIR_FROM_TROPHY_OR_STORE"
 msgstr "獲取耗材或商店中的操作訂單"
@@ -10585,7 +10585,7 @@ msgid "LOBBY_PFT_INVENTORY_DESCRIPTION_MINI_TEXT_1"
 msgstr "交換令牌以獲取操作訂單。"
 
 msgid "LOBBY_PFT_INVENTORY_DESCRIPTION_MINI_TEXT_2"
-msgstr "激活所需的操作順序"
+msgstr "啟動所需的操作順序"
 
 msgid "LOBBY_PFT_INVENTORY_DESCRIPTION_MINI_TEXT_3"
 msgstr "完成接收飛機的任務鏈！"
@@ -10852,7 +10852,7 @@ msgstr "恭喜！"
 msgid "LOBBY_PFT_SECRET_DIRECTIVE_DESCRIPTION"
 msgstr ""
 "執行此操作指令以從您選擇的科技樹</ font>接收<font color ='＃{color}'>一架飛"
-"機，但您的機庫中已有的高級飛機和飛機除外。 激活操作指令並完成任務鏈。 完成"
+"機，但您的機庫中已有的高級飛機和飛機除外。 啟動操作指令並完成任務鏈。 完成"
 "後，選擇您想要的飛機。"
 
 msgid "LOBBY_PFT_SHOP_DIRECTIVE_COST"
@@ -11015,22 +11015,22 @@ msgid "LOBBY_PFT_SHORT_T_NAVY_LVL_8_9"
 msgstr "<font color='#{color}'>VIII–IX級 多功能戰鬥機</font>"
 
 msgid "LOBBY_PFT_STEP_DESCRIPTION_TEXT_1_DIR_IN_PROGRESS"
-msgstr "在分配的時間內完成任務鏈。 一次只能激活一個操作指令。"
+msgstr "在分配的時間內完成任務鏈。 一次只能啟動一個操作指令。"
 
 msgid "LOBBY_PFT_STEP_DESCRIPTION_TEXT_1_FOR_ACTIVATE_DIR"
-msgstr "隨時激活操作指令，並在分配的時間內完成任務鏈。"
+msgstr "隨時啟動操作指令，並在分配的時間內完成任務鏈。"
 
 msgid "LOBBY_PFT_STEP_DESCRIPTION_TEXT_1_FOR_RECEIVE_DIR"
-msgstr "接收操作指令，激活它，並在分配的時間內完成任務鏈。"
+msgstr "接收操作指令，啟動它，並在分配的時間內完成任務鏈。"
 
 msgid "LOBBY_PFT_STEP_DESCRIPTION_TEXT_2_DIR_IN_PROGRESS"
 msgstr "每個完成的任務都會延長分配用於執行操作指令的時間。"
 
 msgid "LOBBY_PFT_STEP_DESCRIPTION_TEXT_2_FOR_ACTIVATE_DIR"
-msgstr "可以免費再次激活未及時執行的操作指令。"
+msgstr "可以免費再次啟動未及時執行的操作指令。"
 
 msgid "LOBBY_PFT_STEP_DESCRIPTION_TEXT_2_FOR_RECEIVE_DIR"
-msgstr "可以免費再次激活未及時執行的操作指令。"
+msgstr "可以免費再次啟動未及時執行的操作指令。"
 
 msgid "LOBBY_PFT_STEP_DESCRIPTION_TEXT_3_DIR_IN_PROGRESS"
 msgstr "在分配的時間內完成最後一次任務，獲得飛機獎勵！"
@@ -11181,7 +11181,7 @@ msgid "LOBBY_PLACE_IN_RATING"
 msgstr "排名的位置"
 
 msgid "LOBBY_PLACE_MB_ON_TROPHY_INORDER_TO_SEE_WHAT_IT_MAY_CONTAIN"
-msgstr "將鼠標懸停在供應箱上以查看其可能的內容。"
+msgstr "將滑鼠懸停在供應箱上以查看其可能的內容。"
 
 msgid "LOBBY_PLANES_FOR_TOKENS"
 msgstr "飛機交換代幣"
@@ -11219,7 +11219,7 @@ msgid "LOBBY_PLANE_PURCHASE_HEADER"
 msgstr "購買戰機"
 
 msgid "LOBBY_PLANE_RECEIVED_ACTIVATE_DIRECTIVE_UNAVAILABLE"
-msgstr "無法激活操作指令：飛機已經收到。"
+msgstr "無法啟動操作指令：飛機已經收到。"
 
 msgid "LOBBY_PLANE_RECIEVED_IN_HANGAR"
 msgstr "飛機接收並可在機庫中使用"
@@ -11240,10 +11240,10 @@ msgid "LOBBY_PLANE_STATE_SPECIAL"
 msgstr "王牌"
 
 msgid "LOBBY_PLANE_TREE_ACTIVATE_DIR_AND_COMPLETE_QUESTS_FOR_FREE_PLANE"
-msgstr "激活操作指令並完成開始飛機的任務鏈。"
+msgstr "啟動操作指令並完成開始飛機的任務鏈。"
 
 msgid "LOBBY_PLANE_TREE_BUTTON_ACTIVATE"
-msgstr "激活操作訂單"
+msgstr "啟動操作訂單"
 
 msgid "LOBBY_PLANE_TREE_BUTTON_GET_PLANE"
 msgstr "要求飛機"
@@ -11279,7 +11279,7 @@ msgid "LOBBY_PLAY_ONE_GAME_TO_GET_IN_RATING"
 msgstr "在等級 IV或更高級別的飛機上進行戰鬥飛行，以獲得評級列表。"
 
 msgid "LOBBY_PLUS_HOURS_FOR_QUEST"
-msgstr "完成“{name}”任務的時間延長了{time}時"
+msgstr "完成「{name}」任務的時間延長了{time}時"
 
 msgid "LOBBY_PLUS_HOURS_FOR_QUEST_ALT"
 msgstr "完成{name}任務的時間延長了{time}"
@@ -11319,7 +11319,7 @@ msgid "LOBBY_POPUP_MESSAGE_VERY_RARE_PRIZE"
 msgstr "罕見的獎品!"
 
 msgid "LOBBY_PPFT_BANNER_TIP"
-msgstr "將屬標懸停在飛機上以了解有關它們的詳細信息並轉到相應的任務鏈。"
+msgstr "將屬標懸停在飛機上以了解有關它們的詳細訊息並轉到相應的任務鏈。"
 
 msgid "LOBBY_PPFT_QUESTS_PROGRESS"
 msgstr "任務進度"
@@ -11337,7 +11337,7 @@ msgid "LOBBY_PREMIUM_AIRCRAFT_ADVANTAGES_WOUT_COLON"
 msgstr "高級飛機的好處"
 
 msgid "LOBBY_PREMIUM_AIRCRAFT_AND_SPECIAL_PLANE_ADVANTAGES"
-msgstr "高級飛機的好處<br>在“王牌”配置中"
+msgstr "高級飛機的好處<br>在「王牌」配置中"
 
 msgid "LOBBY_PREMIUM_DIR"
 msgstr "高級操作訂單 \"{aircraft_name}\""
@@ -11349,7 +11349,7 @@ msgid "LOBBY_PREM_PLANE_FOR_MISSIONS_TEXT"
 msgstr "完成任務並獲得新的8級加值戰機!"
 
 msgid "LOBBY_PRESS_OPEN_BUTTON"
-msgstr "單擊“打開”以獲取供應箱的內容。"
+msgstr "單擊「打開」以獲取供應箱的內容。"
 
 msgid "LOBBY_PRIZE_SERTIFICATE"
 msgstr "證書"
@@ -11371,11 +11371,11 @@ msgstr "購買配置"
 
 msgid "LOBBY_PURCHASE_MODULES_CONFIRMATION_MESSAGE"
 msgstr ""
-"要達到“<font color ='＃{1}'>王牌</ font>”配置，購買和裝載構成此配置的模塊。"
+"要達到「<font color ='＃{1}'>王牌</ font>」配置，購買和裝載構成此配置的模組。"
 "<br> <font size ='6'> <br> </ font>購買 使用{total_cost}進行配置？"
 
 msgid "LOBBY_PURCHASE_MODULES_HEADER"
-msgstr "購買模塊"
+msgstr "購買模組"
 
 msgid "LOBBY_PURCHASE_QUEST"
 msgstr "跳躍"
@@ -12533,7 +12533,7 @@ msgid "LOBBY_QUESTS_2016_AUTUMN_09_EXTRA"
 msgstr "在單一戰鬥中用火箭或炸彈摧毀2架敵機。"
 
 msgid "LOBBY_QUESTS_2016_AUTUMN_09_NAME"
-msgstr "煙花匯演"
+msgstr "煙火匯演"
 
 msgid "LOBBY_QUESTS_2016_AUTUMN_10_BASIC"
 msgstr ""
@@ -12658,14 +12658,14 @@ msgstr "侵略者"
 
 msgid "LOBBY_QUESTS_2016_DAILY_010"
 msgstr ""
-"在保衛部門時獲得所需數量的個人積分。 如果您的飛機被摧毀，任務進度將被重置。"
+"在保衛部門時獲得所需數量的個人積分。 如果您的飛機被摧毀，任務進度將被重設。"
 
 msgid "LOBBY_QUESTS_2016_DAILY_010_NAME"
 msgstr "塵土惡魔"
 
 msgid "LOBBY_QUESTS_2016_DAILY_011"
 msgstr ""
-"捕獲扇區時獲得所需數量的個人點數。 如果您的飛機被摧毀，任務進度將被重置。"
+"捕獲扇區時獲得所需數量的個人點數。 如果您的飛機被摧毀，任務進度將被重設。"
 
 msgid "LOBBY_QUESTS_2016_DAILY_011_NAME"
 msgstr "毅力"
@@ -12893,7 +12893,7 @@ msgstr ""
 "贏了，戰鬥結果才算數。"
 
 msgid "LOBBY_QUESTS_2016_DAILY_042_NAME"
-msgstr "甜蜜的複仇"
+msgstr "甜蜜的復仇"
 
 msgid "LOBBY_QUESTS_2016_DAILY_043"
 msgstr ""
@@ -13137,31 +13137,31 @@ msgid "LOBBY_QUESTS_2016_DAILY_080_NAME"
 msgstr "來自群島的鷹隊"
 
 msgid "LOBBY_QUESTS_2016_DAILY_081"
-msgstr "獲得攔截(Interceptor)成就並贏得戰鬥。"
+msgstr "獲得攔截(Interceptor)成就併贏得戰鬥。"
 
 msgid "LOBBY_QUESTS_2016_DAILY_081_NAME"
 msgstr "克服一切困難"
 
 msgid "LOBBY_QUESTS_2016_DAILY_082"
-msgstr "贏得翼傳奇(Winged Legend)成就並贏得戰鬥。"
+msgstr "贏得翼傳奇(Winged Legend)成就併贏得戰鬥。"
 
 msgid "LOBBY_QUESTS_2016_DAILY_082_NAME"
 msgstr "獲得優異獎"
 
 msgid "LOBBY_QUESTS_2016_DAILY_083"
-msgstr "贏得複仇者(Avenger)的成就並贏得戰鬥。"
+msgstr "贏得復仇者(Avenger)的成就併贏得戰鬥。"
 
 msgid "LOBBY_QUESTS_2016_DAILY_083_NAME"
 msgstr "毫不留情"
 
 msgid "LOBBY_QUESTS_2016_DAILY_084"
-msgstr "贏得征服者(Conqueror)的成就並贏得戰鬥。"
+msgstr "贏得征服者(Conqueror)的成就併贏得戰鬥。"
 
 msgid "LOBBY_QUESTS_2016_DAILY_084_NAME"
 msgstr "各行各業的傑克"
 
 msgid "LOBBY_QUESTS_2016_DAILY_085"
-msgstr "獲得快速射擊(Quick Shot)成就並贏得戰鬥。"
+msgstr "獲得快速射擊(Quick Shot)成就併贏得戰鬥。"
 
 msgid "LOBBY_QUESTS_2016_DAILY_085_NAME"
 msgstr "必勝的信念"
@@ -13241,7 +13241,7 @@ msgid "LOBBY_QUESTS_2016_DAILY_097_NAME"
 msgstr "忠實的伴侶"
 
 msgid "LOBBY_QUESTS_2016_JAPANESE_THREAT_001_BASIC"
-msgstr "在“日本威脅”活動期間，在為盟軍或軸心戰鬥的同時贏得5場戰鬥。"
+msgstr "在「日本威脅」活動期間，在為盟軍或軸心戰鬥的同時贏得5場戰鬥。"
 
 msgid "LOBBY_QUESTS_2016_JAPANESE_THREAT_001_NAME"
 msgstr "出口"
@@ -13426,7 +13426,7 @@ msgstr "對防空火力的威脅"
 
 msgid "LOBBY_QUESTS_2016_SPRING_10_BASIC"
 msgstr ""
-"通過摧毀敵方地面目標的方式獲得60點優勢點。獲得至少30點的戰鬥才會被計算在內。"
+"透過摧毀敵方地面目標的方式獲得60點優勢點。獲得至少30點的戰鬥才會被計算在內。"
 
 msgid "LOBBY_QUESTS_2016_SPRING_10_EXTRA"
 msgstr ""
@@ -13673,7 +13673,7 @@ msgstr "在單一戰鬥中至少擊落1架敵機並摧毀1個地面目標。"
 
 msgid "LOBBY_QUESTS_COMPLEX_02_EXTRA"
 msgstr ""
-"在單一贏得勝利的戰鬥中獲得“掃地手”勳章並至少擊落2架敵機且在戰鬥結束時倖存。"
+"在單一贏得勝利的戰鬥中獲得「掃地手」勳章並至少擊落2架敵機且在戰鬥結束時倖存。"
 
 msgid "LOBBY_QUESTS_COMPLEX_02_NAME"
 msgstr "天與地"
@@ -13691,7 +13691,7 @@ msgid "LOBBY_QUESTS_COMPLEX_04_BASIC"
 msgstr "在單一戰鬥中擊傷至少4架敵機"
 
 msgid "LOBBY_QUESTS_COMPLEX_04_EXTRA"
-msgstr "連續在二或三場戰鬥中獲得“王牌”勳章"
+msgstr "連續在二或三場戰鬥中獲得「王牌」勳章"
 
 msgid "LOBBY_QUESTS_COMPLEX_04_NAME"
 msgstr "險中求勝"
@@ -13729,16 +13729,16 @@ msgstr ""
 "可與您組隊的玩家，可選擇自動搜尋組隊功能與陌生玩家組隊完成此任務"
 
 msgid "LOBBY_QUESTS_COMPLEX_08_EXTRA"
-msgstr "在單一贏得勝利的戰鬥中獲得“傑出貢獻”勳章並在戰鬥結束時倖存"
+msgstr "在單一贏得勝利的戰鬥中獲得「傑出貢獻」勳章並在戰鬥結束時倖存"
 
 msgid "LOBBY_QUESTS_COMPLEX_08_NAME"
 msgstr "團結之力"
 
 msgid "LOBBY_QUESTS_COMPLEX_09_BASIC"
-msgstr "獲得“王牌”或“破壞者”勳章"
+msgstr "獲得「王牌」或「破壞者」勳章"
 
 msgid "LOBBY_QUESTS_COMPLEX_09_EXTRA"
-msgstr "在一天內至少4次獲得“王牌”或“破壞者”勳章"
+msgstr "在一天內至少4次獲得「王牌」或「破壞者」勳章"
 
 msgid "LOBBY_QUESTS_COMPLEX_09_NAME"
 msgstr "死神降臨"
@@ -14680,7 +14680,7 @@ msgid "LOBBY_QUESTS_NY_QUEST_50_PLUMES_NAME"
 msgstr "空中油畫"
 
 msgid "LOBBY_QUESTS_NY_QUEST_50_SPARKLERS_DESCRIPTION"
-msgstr "參與30場標準戰鬥或人機對戰，並在戰鬥中使用節日消耗品—煙花"
+msgstr "參與30場標準戰鬥或人機對戰，並在戰鬥中使用節日消耗品—煙火"
 
 msgid "LOBBY_QUESTS_NY_QUEST_50_SPARKLERS_NAME"
 msgstr "五彩閃光"
@@ -14712,7 +14712,7 @@ msgid "LOBBY_QUESTS_NY_QUEST_PLANE_NAME_BLENHEIM-F"
 msgstr "節日裝飾 (布倫海姆F)"
 
 msgid "LOBBY_QUESTS_NY_QUEST_PLANE_NAME_BRISTOL-146"
-msgstr "節日裝飾 (布裡斯托爾146型)"
+msgstr "節日裝飾 (布里斯托爾146型)"
 
 msgid "LOBBY_QUESTS_NY_QUEST_PLANE_NAME_BSH-2"
 msgstr "節日裝飾 (BSh-2)"
@@ -14724,7 +14724,7 @@ msgid "LOBBY_QUESTS_NY_QUEST_PLANE_NAME_HE-112"
 msgstr "節日裝飾 (He 112)"
 
 msgid "LOBBY_QUESTS_NY_QUEST_PLANE_NAME_I-16-24"
-msgstr "節日裝飾 (伊-16 改進型)"
+msgstr "節日裝飾 (伊-16 改良型)"
 
 msgid "LOBBY_QUESTS_NY_QUEST_PLANE_NAME_I-17"
 msgstr "節日裝飾 (伊-17)"
@@ -15000,7 +15000,7 @@ msgid "LOBBY_QUESTS_STATUS_UNAVAILABLE"
 msgstr "不可進行"
 
 msgid "LOBBY_QUESTS_STATUS_UNAVAILABLE_ACTIVATE_DIRECTIVE"
-msgstr "任務不可用。 激活操作才能繼續進行。"
+msgstr "任務不可用。 啟動操作才能繼續進行。"
 
 msgid "LOBBY_QUESTS_STATUS_UNAVAILABLE_GENERAL"
 msgstr "任務不可用"
@@ -15844,10 +15844,10 @@ msgid "LOBBY_QUEST_UNAVAILABLE"
 msgstr "不可用的"
 
 msgid "LOBBY_QUEST_UNAVAILABLE_ACTIVATE_IT"
-msgstr "任務不可用。 激活個人任務繼續。"
+msgstr "任務不可用。 啟動個人任務繼續。"
 
 msgid "LOBBY_QUEST_UNAVAILABLE_REACTIVATE_DIR_AND_PROCEED_WITH_ALL_PROGRESS"
-msgstr "任務不可用。 重新激活操作順序以繼續。 您的進度將被保存。"
+msgstr "任務不可用。 重新啟動操作順序以繼續。 您的進度將被保存。"
 
 msgid "LOBBY_RADIOSTATION"
 msgstr "無線電"
@@ -16008,10 +16008,10 @@ msgid "LOBBY_REACTIVATE_CAPS_BUTTON"
 msgstr "重新啟動"
 
 msgid "LOBBY_REACTIVATE_DIR_AND_PROCEED_WITH_ALL_YOUR_PROGRESS"
-msgstr "重新激活操作指令並繼續執行任務鏈。 您的進度將被保存。"
+msgstr "重新啟動操作指令並繼續執行任務鏈。 您的進度將被保存。"
 
 msgid "LOBBY_REACTIVATION_COST"
-msgstr "重新激活費用："
+msgstr "重新啟動費用："
 
 msgid "LOBBY_RECEIVE_ALL_GIFTS_BUTTON"
 msgstr "得到一切！"
@@ -16049,7 +16049,7 @@ msgid "LOBBY_REINSTALL_HEADER"
 msgstr "調動"
 
 msgid "LOBBY_REINSTALL_TEXT"
-msgstr "將“{module_name}”設備從{aircraft_1}轉移到{aircraft_2}？"
+msgstr "將「{module_name}」設備從{aircraft_1}轉移到{aircraft_2}？"
 
 msgid "LOBBY_REROLL_BUTTON"
 msgstr "重新安裝"
@@ -16315,7 +16315,7 @@ msgid "LOBBY_SECRET_SANTA_2017_HEADER"
 msgstr "太多的禮物都沒有這樣的東西"
 
 msgid "LOBBY_SECRET_SANTA_2017_SMALL_TEXT"
-msgstr "為你的朋友和你自己買禮物：<br>獲得稀有的戰士，高級賬戶和黃金！"
+msgstr "為你的朋友和你自己買禮物：<br>獲得稀有的戰士，高級帳戶和黃金！"
 
 msgid "LOBBY_SELECT_MODE_FAST_TRAINING"
 msgstr "選擇快速訓練選項"
@@ -16330,13 +16330,13 @@ msgid "LOBBY_SELL"
 msgstr "出售"
 
 msgid "LOBBY_SELL_CONSUMABLES_CONFIRMATION_TEXT"
-msgstr "使用{total_cost}銷售消耗品“{name}”？"
+msgstr "使用{total_cost}銷售消耗品「{name}」？"
 
 msgid "LOBBY_SELL_CONSUMABLES_HEADER"
 msgstr "銷售消耗品"
 
 msgid "LOBBY_SELL_EQUIPMENT_CONFIRMATION_TEXT"
-msgstr "使用{total_cost}銷售設備“{name}”？"
+msgstr "使用{total_cost}銷售設備「{name}」？"
 
 msgid "LOBBY_SELL_EQUIPMENT_HEADER"
 msgstr "賣設備"
@@ -16354,7 +16354,7 @@ msgid "LOBBY_SELL_IN_PACK"
 msgstr "可以捆綁購買"
 
 msgid "LOBBY_SELL_PLANE_DESCRIPTION"
-msgstr "特殊的“秘密工程”結束後，您可以出售這架飛機。"
+msgstr "特殊的「秘密工程」結束後，您可以出售這架飛機。"
 
 msgid "LOBBY_SELL_PLANE_DESCRIPTION_UNIVERSAL"
 msgstr "您可以在{event_name}事件結束後出售此飛機。"
@@ -16749,7 +16749,7 @@ msgid "LOBBY_SHOP_MESSAGE_NOT_ENOUGH"
 msgstr "需要{price}{icon_gold} "
 
 msgid "LOBBY_SHOP_MESSAGE_NOT_ENOUGH_CREDITS"
-msgstr "銀幣不足，可通過參加標準戰鬥或使用金幣兌換獲得銀幣"
+msgstr "銀幣不足，可透過參加標準戰鬥或使用金幣兌換獲得銀幣"
 
 msgid "LOBBY_SHOP_MESSAGE_NOT_ENOUGH_GOLD"
 msgstr "沒有足夠的金幣。要購買金幣。進入高階商店。"
@@ -16907,7 +16907,7 @@ msgid "LOBBY_SPECIAL_CAMO_XF15C_VIII-LVL"
 msgstr "<font color='#{colorID}'>XF15C</font>專用塗裝方案"
 
 msgid "LOBBY_SPECIAL_EQUIPMENT_WORK_EFF_ONLY_ON_SPECIAL_GRADE_PLANES"
-msgstr "“高級”質量等級的設備僅在以“王牌”配置安裝在飛機上時才顯示最高性能。"
+msgstr "「高級」質量等級的設備僅在以「王牌」配置安裝在飛機上時才顯示最高性能。"
 
 msgid "LOBBY_SPECIAL_OFFER_NOT_AVAILABLE_RN"
 msgstr ""
@@ -16929,7 +16929,7 @@ msgid "LOBBY_SPECIAL_PILOT_XF4U-1_V-LVL"
 msgstr "第V級訓練有素的飛行員 <font color='#{colorID}'>XF4U-1</font>"
 
 msgid "LOBBY_SPECIAL_PLANE_STATE_ALT"
-msgstr "“王牌”配置"
+msgstr "「王牌」配置"
 
 msgid "LOBBY_SPECIAL_QUESTLINE_GERMANY_NAME_SPEAR_PUNCH"
 msgstr "矛的推力"
@@ -16938,10 +16938,10 @@ msgid "LOBBY_SPECIAL_QUESTLINE_USA_NAME_RELIABLE_SHIELD"
 msgstr "安全盾牌"
 
 msgid "LOBBY_SPECIAL_STATE_ADVANTAGES"
-msgstr "“王牌”配置的好處："
+msgstr "「王牌」配置的好處："
 
 msgid "LOBBY_SPECIAL_STATE_ADVANTAGES_WOUT_COLON"
-msgstr "“王牌”配置的好處"
+msgstr "「王牌」配置的好處"
 
 msgid "LOBBY_SPOILS_OF_THE_BATTLE"
 msgstr "打撈派對"
@@ -17010,7 +17010,7 @@ msgid "LOBBY_STORE_CHECKBOX_GRADE-3"
 msgstr "高級"
 
 msgid "LOBBY_STORE_CHECKBOX_GRADE-4"
-msgstr "終极"
+msgstr "終極"
 
 msgid "LOBBY_STORE_CONSUMABLES_TYPE_AMMO"
 msgstr "彈藥"
@@ -17062,7 +17062,7 @@ msgstr ""
 "並鞏固目標。"
 
 msgid "LOBBY_SUMMER_STORM_BANNER-2_CAPS_TEXT"
-msgstr "重型加固已經到位"
+msgstr "重型強化已經到位"
 
 msgid "LOBBY_SUMMER_STORM_BANNER-2_HEADER"
 msgstr "新的蘇聯轟炸機"
@@ -17111,7 +17111,7 @@ msgid "LOBBY_SUMMER_STORM_BANNER_RULE-3"
 msgstr "在操作中證明自己有機會測試新的蘇聯轟炸機。"
 
 msgid "LOBBY_SUMMER_STORM_BUTTON_TO_STATISTICS"
-msgstr "查看統計信息"
+msgstr "查看統計訊息"
 
 msgid "LOBBY_SUMMER_STORM_CAPS"
 msgstr "夏季風暴"
@@ -17411,28 +17411,28 @@ msgid "LOBBY_SUMMER_STORM_STATE-4_TEXT-2"
 msgstr "不要讓敵方收回我們捕獲的位置。 加入征服模式，擊退最後的敵方攻擊！"
 
 msgid "LOBBY_SUMMER_STORM_STATE_STARTED-1"
-msgstr "第1階段“偵察”開始"
+msgstr "第1階段「偵察」開始"
 
 msgid "LOBBY_SUMMER_STORM_STATE_STARTED-1_CAPS"
-msgstr "第1階段“偵察”已啟動"
+msgstr "第1階段「偵察」已啟動"
 
 msgid "LOBBY_SUMMER_STORM_STATE_STARTED-2"
-msgstr "第2階段“進攻”開始"
+msgstr "第2階段「進攻」開始"
 
 msgid "LOBBY_SUMMER_STORM_STATE_STARTED-2_CAPS"
-msgstr "第2階段“進攻”已啟動"
+msgstr "第2階段「進攻」已啟動"
 
 msgid "LOBBY_SUMMER_STORM_STATE_STARTED-3"
-msgstr "第3階段“補給品”開始"
+msgstr "第3階段「補給品」開始"
 
 msgid "LOBBY_SUMMER_STORM_STATE_STARTED-3_CAPS"
-msgstr "第3階段“補給品”已啟動"
+msgstr "第3階段「補給品」已啟動"
 
 msgid "LOBBY_SUMMER_STORM_STATE_STARTED-4"
-msgstr "第4階段“維護地位”開始"
+msgstr "第4階段「維護地位」開始"
 
 msgid "LOBBY_SUMMER_STORM_STATE_STARTED-4_CAPS"
-msgstr "第4階段“維護地位”已啟動"
+msgstr "第4階段「維護地位」已啟動"
 
 msgid "LOBBY_SUMMER_STORM_TIME_LEFT_PHASE-1"
 msgstr "第1階段開始於："
@@ -17456,19 +17456,19 @@ msgid "LOBBY_TEAM_MEMBERS"
 msgstr "戰鬥隊伍"
 
 msgid "LOBBY_TECH_LVL"
-msgstr "技術水平："
+msgstr "技術水準："
 
 msgid "LOBBY_TECH_LVL_AFTER_CALIBRATE"
-msgstr "校准後的技術水平："
+msgstr "校準後的技術水準："
 
 msgid "LOBBY_TECH_LVL_AFTER_UPGRADE"
-msgstr "強化後的技術水平和校準範圍："
+msgstr "強化後的技術水準和校準範圍："
 
 msgid "LOBBY_TECH_LVL_BEFORE_CALIBRATE"
-msgstr "校準前的技術水平："
+msgstr "校準前的技術水準："
 
 msgid "LOBBY_TECH_LVL_BEFORE_UPGRADE"
-msgstr "強化前的技術水平和校準範圍："
+msgstr "強化前的技術水準和校準範圍："
 
 msgid "LOBBY_TEST_BUTTON"
 msgstr "測試"
@@ -17534,7 +17534,7 @@ msgid "LOBBY_TIME_OUT_BUT_DIR_TILL_END_OFF_EVENT"
 msgstr "時間到了，但您將保持操作順序直到事件結束。"
 
 msgid "LOBBY_TIME_OUT_REACTIVATE_DIR_AND_COMPLETE_ALL_QUESTS_TO_GET_THAT_PLANE"
-msgstr "時間到了。 重新激活操作指令並執行任務鏈以接收飛機。"
+msgstr "時間到了。 重新啟動操作指令並執行任務鏈以接收飛機。"
 
 msgid "LOBBY_TIME_RATING_BATTLES_IN_VARIABLE_EVENT"
 msgstr "“{variable_name}”等級戰鬥時間："
@@ -17681,7 +17681,7 @@ msgid "LOBBY_TRANS_EQUIPMENT_FROM_PLANE_NAME"
 msgstr "來自{aircraft_name}"
 
 msgid "LOBBY_TRANS_EQUIPMENT_FROM_SPECIAL_STATE"
-msgstr "來自“王牌”配置"
+msgstr "來自「王牌」配置"
 
 msgid "LOBBY_TROPHY"
 msgstr "獎勵箱"
@@ -17929,7 +17929,7 @@ msgid "LOBBY_UNMOUNT_EQUIPMENT"
 msgstr "拆卸"
 
 msgid "LOBBY_UNMOUNT_EQUIPMENT_CONFIRMATION_TEXT"
-msgstr "使用{total_cost}拆卸設備“{name}”？"
+msgstr "使用{total_cost}拆卸設備「{name}」？"
 
 msgid "LOBBY_UNMOUNT_EQUIPMENT_FROM_PLANE"
 msgstr "{module_name}設備已從{plane_name}卸載。"
@@ -17974,7 +17974,7 @@ msgid "LOBBY_VIDEOSERVICE_NOTAVAILABLE"
 msgstr "暫時無法查看影片<br>服務很快就會恢復"
 
 msgid "LOBBY_VIDEO_ABOUT_GAMEMODE"
-msgstr "看視頻"
+msgstr "看影片"
 
 msgid "LOBBY_VIDEO_ABOUT_NEW_GAMEMODE"
 msgstr "觀看本模式的影片"
@@ -18031,7 +18031,7 @@ msgid "LOBBY_WAR_CASH_ADV_07_TEXT_1_CN"
 msgstr "用令牌中獎了！"
 
 msgid "LOBBY_WAR_CASH_ADV_07_TEXT_2"
-msgstr "贏得大獎：罕見的第八級戰鬥機 - 沉陽JL-1A-37！"
+msgstr "贏得大獎：罕見的第八級戰鬥機 - 瀋陽JL-1A-37！"
 
 msgid "LOBBY_WAR_CASH_ADV_07_TEXT_2_CN"
 msgstr "贏得大獎：超級8級戰鬥機 教練 JL-1A-37!"
@@ -18043,7 +18043,7 @@ msgid "LOBBY_WC_PRIZE_DESCRIPTION_1"
 msgstr "用於購買遊戲中的特殊物品"
 
 msgid "LOBBY_WC_PRIZE_DESCRIPTION_2"
-msgstr "用於定制飛機的外觀"
+msgstr "用於訂製飛機的外觀"
 
 msgid "LOBBY_WC_PRIZE_DESCRIPTION_3"
 msgstr "高級操作訂單"
@@ -18052,7 +18052,7 @@ msgid "LOBBY_WC_PRIZE_DESCRIPTION_4"
 msgstr "允許您每次戰鬥獲得50％以上的XP和積分"
 
 msgid "LOBBY_WC_PRIZE_DESCRIPTION_5"
-msgstr "用於研究任何飛機和模塊"
+msgstr "用於研究任何飛機和模組"
 
 msgid "LOBBY_WC_PRIZE_DESCRIPTION_6"
 msgstr "機庫中用於存放飛機的地方"
@@ -18073,7 +18073,7 @@ msgid "LOBBY_WEB_BUTTON_3"
 msgstr "下一個"
 
 msgid "LOBBY_WILL_BE_AVAILABLE_TEXT"
-msgstr "在活動結束前數日，玩家可通過購買的方式完成未完成的任務"
+msgstr "在活動結束前數日，玩家可透過購買的方式完成未完成的任務"
 
 msgid "LOBBY_WINGS"
 msgstr "編隊"
@@ -18358,7 +18358,7 @@ msgid "LOBBY_YOUR_TROPHYS"
 msgstr "你的用品："
 
 msgid "LOBBY_YOU_CAN_REACTIVATE_DIR_WITH_ALL_YOUR_PROGRESS"
-msgstr "您可以重新激活{aircraft_name}飛機的操作順序。 您的進度將被保存。"
+msgstr "您可以重新啟動{aircraft_name}飛機的操作順序。 您的進度將被保存。"
 
 msgid "LOBBY_YOU_CAN_UPGRADE_EQUIPMENT_FOR_MATERIALS"
 msgstr "您可以改善其質量和性能。 為此，請收集所有必要的材料。"
@@ -18576,7 +18576,7 @@ msgid "MARKET_AIRPLANE_WEIGHT_SECOND_VOLLEY"
 msgstr "投射量"
 
 msgid "MARKET_AIRPLANE_WING_AREA"
-msgstr "機翼面積，平方米"
+msgstr "機翼面積，平方公尺"
 
 msgid "MARKET_BOMB_AND_ROCKETS"
 msgstr "炸彈和火箭彈"
@@ -19029,7 +19029,7 @@ msgid "NEED_REPAIR_CAPS"
 msgstr "修復需要"
 
 msgid "NUTTON_GOTO_CONFIGURATIONS"
-msgstr "進入“配置”頁"
+msgstr "進入「配置」頁"
 
 msgid "ONLINE_LABEL"
 msgstr "線上"
@@ -19065,7 +19065,7 @@ msgid "PLAYERS_TOTAL"
 msgstr "玩家數"
 
 msgid "PLAYERS_TOTAL_TEXT"
-msgstr "總線上："
+msgstr "匯流排上："
 
 msgid "PLAYER_JOINED"
 msgstr "已加入"
@@ -19360,7 +19360,7 @@ msgid "TRAINING_ROOMS_FIGHT_TYPE"
 msgstr "遊戲模式:"
 
 msgid "TRAINING_ROOMS_FILTER_TOOLTIP"
-msgstr "篩選設定無法使用<br>因為該設定與此訓練房的限制設定相沖突"
+msgstr "篩選設定無法使用<br>因為該設定與此訓練房的限制設定相衝突"
 
 msgid "TRAINING_ROOMS_FOREVER_ALONE"
 msgstr "單人模式"

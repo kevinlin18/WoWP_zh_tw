@@ -70,7 +70,7 @@ msgid "COMPONENT_NAME_T-IL-20"
 msgstr "尾砲"
 
 msgid "COMPONENT_NAME_T-IL-20-2"
-msgstr "改進型尾砲"
+msgstr "改良型尾砲"
 
 msgid "COMPONENT_NAME_T-IL-40"
 msgstr "尾砲"
@@ -91,13 +91,13 @@ msgid "COMPONENT_NAME_T-LBSH"
 msgstr "尾砲"
 
 msgid "COMPONENT_NAME_T-LBSH-2"
-msgstr "改進型尾砲"
+msgstr "改良型尾砲"
 
 msgid "COMPONENT_NAME_T-ME-P1099B"
 msgstr "尾砲"
 
 msgid "COMPONENT_NAME_T-ME-P1099B-2"
-msgstr "改進型尾砲"
+msgstr "改良型尾砲"
 
 msgid "COMPONENT_NAME_T-ME210"
 msgstr "尾砲"
@@ -208,7 +208,7 @@ msgid "NAME_MODULE_AD10_PLANER_PR"
 msgstr "10C2"
 
 msgid "NAME_MODULE_ALLISON-XV-1710-6-PR"
-msgstr "艾裡遜 XV-1710-6"
+msgstr "艾里遜 XV-1710-6"
 
 msgid "NAME_MODULE_AM-35"
 msgstr "AM-35"
@@ -505,7 +505,7 @@ msgid "NAME_MODULE_BRAMO-323R-DO-17Z-2"
 msgstr "Bramo 323R"
 
 msgid "NAME_MODULE_BRISTOL-AQUILA-PR"
-msgstr "布裡斯托爾 天鷹座"
+msgstr "布里斯托爾 天鷹座"
 
 msgid "NAME_MODULE_BRISTOL-CENTARUS-IV"
 msgstr "Centaurus IV"
@@ -2653,13 +2653,13 @@ msgid "NAME_MODULE_TU-1_PLANER-PR"
 msgstr "63P"
 
 msgid "NAME_MODULE_TYPE-133_PLANER"
-msgstr "布裡斯托爾 133"
+msgstr "布里斯托爾 133"
 
 msgid "NAME_MODULE_TYPE-146-K5119_PLANER"
-msgstr "布裡斯托爾 146 K5119"
+msgstr "布里斯托爾 146 K5119"
 
 msgid "NAME_MODULE_TYPE-146-K8088_PLANER"
-msgstr "布裡斯托爾 146 K8088"
+msgstr "布里斯托爾 146 K8088"
 
 msgid "NAME_MODULE_TYPE-224-PR"
 msgstr "224型"
@@ -3061,7 +3061,7 @@ msgid "WEAPON_NAME_1000LB"
 msgstr "1000磅"
 
 msgid "WEAPON_NAME_100KG-FR-PR"
-msgstr "100 千克"
+msgstr "100 公斤"
 
 msgid "WEAPON_NAME_100LB"
 msgstr "100磅"
@@ -3184,7 +3184,7 @@ msgid "WEAPON_NAME_BELT_EXPENSIVE"
 msgstr "3級多用途箍環"
 
 msgid "WEAPON_NAME_BOMB-250-J"
-msgstr "250千克"
+msgstr "250公斤"
 
 msgid "WEAPON_NAME_BOMB-250-J-KI-102"
 msgstr "250 kg"
@@ -3199,13 +3199,13 @@ msgid "WEAPON_NAME_BOMB-250-J-KI-94-I"
 msgstr "250 kg"
 
 msgid "WEAPON_NAME_BOMB-250-J-PR"
-msgstr "250千克"
+msgstr "250公斤"
 
 msgid "WEAPON_NAME_BOMB-30-J"
-msgstr "30千克"
+msgstr "30公斤"
 
 msgid "WEAPON_NAME_BOMB-60-J"
-msgstr "60千克"
+msgstr "60公斤"
 
 msgid "WEAPON_NAME_CALIBER_1000LB_STR"
 msgstr "1000 磅"
@@ -3220,13 +3220,13 @@ msgid "WEAPON_NAME_CALIBER_20FN_STR"
 msgstr "20 磅"
 
 msgid "WEAPON_NAME_CALIBER_250J_STR"
-msgstr "250 千克"
+msgstr "250 公斤"
 
 msgid "WEAPON_NAME_CALIBER_250LB_STR"
 msgstr "250 磅"
 
 msgid "WEAPON_NAME_CALIBER_30J_STR"
-msgstr "30 千克"
+msgstr "30 公斤"
 
 msgid "WEAPON_NAME_CALIBER_470LB-PR_STR"
 msgstr "470 磅"
@@ -3238,7 +3238,7 @@ msgid "WEAPON_NAME_CALIBER_500LB_STR"
 msgstr "500 磅"
 
 msgid "WEAPON_NAME_CALIBER_60J_STR"
-msgstr "60 千克"
+msgstr "60 公斤"
 
 msgid "WEAPON_NAME_CALIBER_AO-10_STR"
 msgstr "AO-10"
@@ -3472,10 +3472,10 @@ msgid "WEAPON_NAME_G12MM-BMG1921-S"
 msgstr "12.7 mm BMG1921 (S)"
 
 msgid "WEAPON_NAME_G12MM-BREDA-SAFAT"
-msgstr "12.7 mm 佈雷達-薩法特"
+msgstr "12.7 mm 布雷達-薩法特"
 
 msgid "WEAPON_NAME_G12MM-BREDA-SAFAT-PR-S"
-msgstr "12.7 mm 佈雷達-薩法特 (S)"
+msgstr "12.7 mm 布雷達-薩法特 (S)"
 
 msgid "WEAPON_NAME_G12MM-BROWNING"
 msgstr "12.7 mm Browning"

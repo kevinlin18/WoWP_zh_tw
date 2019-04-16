@@ -260,10 +260,10 @@ msgid "PRESET_NAME_BRISTOL-TYPE-105_P"
 msgstr "鬥牛犬"
 
 msgid "PRESET_NAME_BRISTOL-TYPE-133_P"
-msgstr "布裡斯托爾 133"
+msgstr "布里斯托爾 133"
 
 msgid "PRESET_NAME_BRISTOL-TYPE-146_P"
-msgstr "布裡斯托爾 146"
+msgstr "布里斯托爾 146"
 
 msgid "PRESET_NAME_BSH-1_P"
 msgstr "BSh-1"
@@ -464,7 +464,7 @@ msgid "PRESET_NAME_IL-10_EARLY_P"
 msgstr "伊爾-10 早期型"
 
 msgid "PRESET_NAME_IL-10_LATE_P"
-msgstr "伊爾-10 改進型"
+msgstr "伊爾-10 改良型"
 
 msgid "PRESET_NAME_IL-16M_NR_P"
 msgstr "伊爾-16M NR"
@@ -497,7 +497,7 @@ msgid "PRESET_NAME_IL-2_1942EARLY_P"
 msgstr "伊爾-2 1942年早期型"
 
 msgid "PRESET_NAME_IL-2_1942LATE_P"
-msgstr "伊爾-2 1942年改進型"
+msgstr "伊爾-2 1942年改良型"
 
 msgid "PRESET_NAME_IL-2_1943_P"
 msgstr "伊爾-2 1943年型"
@@ -509,7 +509,7 @@ msgid "PRESET_NAME_IL-2_AM-38EARLY_P"
 msgstr "伊爾-2 AM-38 早期型"
 
 msgid "PRESET_NAME_IL-2_AM-38LATE_P"
-msgstr "伊爾-2 AM-38 改進型"
+msgstr "伊爾-2 AM-38 改良型"
 
 msgid "PRESET_NAME_IL-2_M82_P"
 msgstr "伊爾-2 M-82"
@@ -938,7 +938,7 @@ msgid "PRESET_NAME_XF4B-1_P"
 msgstr "XF4B-1"
 
 msgid "PRESET_NAME_XF4F-3_(LATE)_P"
-msgstr "XF4F-3 改進型"
+msgstr "XF4F-3 改良型"
 
 msgid "PRESET_NAME_XF4F-3_P"
 msgstr "XF4F-3"

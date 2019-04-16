@@ -123,7 +123,7 @@ msgid "NAMES/USA1030"
 msgstr "奧納山"
 
 msgid "NAMES/USA1031"
-msgstr "奧巴馬"
+msgstr "歐巴馬"
 
 msgid "NAMES/USA1032"
 msgstr "奧霍根"
@@ -147,7 +147,7 @@ msgid "NAMES/USA1038"
 msgstr "奧凱利"
 
 msgid "NAMES/USA1039"
-msgstr "奧肯尼迪"
+msgstr "奧甘迺迪"
 
 msgid "NAMES/USA104"
 msgstr "鮑勃"
@@ -162,7 +162,7 @@ msgid "NAMES/USA1042"
 msgstr "奧萊勒提"
 
 msgid "NAMES/USA1043"
-msgstr "奧利弗"
+msgstr "奧利佛"
 
 msgid "NAMES/USA1044"
 msgstr "奧利"
@@ -219,10 +219,10 @@ msgid "NAMES/USA106"
 msgstr "巴特森"
 
 msgid "NAMES/USA1060"
-msgstr "奧斯曼"
+msgstr "鄂圖曼"
 
 msgid "NAMES/USA1061"
-msgstr "奧斯曼"
+msgstr "鄂圖曼"
 
 msgid "NAMES/USA1062"
 msgstr "奧素卡"
@@ -267,7 +267,7 @@ msgid "NAMES/USA1074"
 msgstr "佩奇"
 
 msgid "NAMES/USA1075"
-msgstr "本傑明"
+msgstr "班傑明"
 
 msgid "NAMES/USA1076"
 msgstr "奧利維爾"
@@ -306,7 +306,7 @@ msgid "NAMES/USA1086"
 msgstr "克魯斯"
 
 msgid "NAMES/USA1087"
-msgstr "帕裡什"
+msgstr "帕里什"
 
 msgid "NAMES/USA1088"
 msgstr "帕勒特"
@@ -321,7 +321,7 @@ msgid "NAMES/USA1090"
 msgstr "德普"
 
 msgid "NAMES/USA1091"
-msgstr "傑克遜"
+msgstr "傑克森"
 
 msgid "NAMES/USA1092"
 msgstr "梅爾"
@@ -342,7 +342,7 @@ msgid "NAMES/USA1097"
 msgstr "佩茨"
 
 msgid "NAMES/USA1098"
-msgstr "帕特里克"
+msgstr "派屈克"
 
 msgid "NAMES/USA1099"
 msgstr "帕滕森"
@@ -381,7 +381,7 @@ msgid "NAMES/USA1108"
 msgstr "麥克雷"
 
 msgid "NAMES/USA1109"
-msgstr "佛裡曼"
+msgstr "佛里曼"
 
 msgid "NAMES/USA111"
 msgstr "巴克斯特"
@@ -402,7 +402,7 @@ msgid "NAMES/USA1114"
 msgstr "佩尼斯廷"
 
 msgid "NAMES/USA1115"
-msgstr "尼古拉斯"
+msgstr "尼可拉斯"
 
 msgid "NAMES/USA1116"
 msgstr "凱琦"
@@ -579,7 +579,7 @@ msgid "NAMES/USA1168"
 msgstr "鮑威爾"
 
 msgid "NAMES/USA1169"
-msgstr "威廉姆斯"
+msgstr "威廉斯"
 
 msgid "NAMES/USA117"
 msgstr "比徹姆"
@@ -684,7 +684,7 @@ msgid "NAMES/USA12"
 msgstr "亞歷山大"
 
 msgid "NAMES/USA120"
-msgstr "貝克漢姆"
+msgstr "貝克漢"
 
 msgid "NAMES/USA1200"
 msgstr "奎恩斯"
@@ -708,10 +708,10 @@ msgid "NAMES/USA1206"
 msgstr "尼克"
 
 msgid "NAMES/USA1207"
-msgstr "尼克松"
+msgstr "尼克森"
 
 msgid "NAMES/USA1208"
-msgstr "肯尼迪"
+msgstr "甘迺迪"
 
 msgid "NAMES/USA1209"
 msgstr "艾森豪威爾"
@@ -762,10 +762,10 @@ msgid "NAMES/USA1222"
 msgstr "約翰遜"
 
 msgid "NAMES/USA1223"
-msgstr "弗蘭克林"
+msgstr "法蘭克林"
 
 msgid "NAMES/USA1224"
-msgstr "里根"
+msgstr "雷根"
 
 msgid "NAMES/USA1225"
 msgstr "雷門"
@@ -801,10 +801,10 @@ msgid "NAMES/USA1234"
 msgstr "霍華德"
 
 msgid "NAMES/USA1235"
-msgstr "裡夫"
+msgstr "里夫"
 
 msgid "NAMES/USA1236"
-msgstr "裡夫斯"
+msgstr "里夫斯"
 
 msgid "NAMES/USA1237"
 msgstr "賴利"
@@ -831,13 +831,13 @@ msgid "NAMES/USA1243"
 msgstr "理查森"
 
 msgid "NAMES/USA1244"
-msgstr "裡士滿"
+msgstr "里奇蒙"
 
 msgid "NAMES/USA1245"
-msgstr "裡卡德"
+msgstr "里卡德"
 
 msgid "NAMES/USA1246"
-msgstr "裡基特"
+msgstr "里基特"
 
 msgid "NAMES/USA1247"
 msgstr "裡迪"
@@ -852,7 +852,7 @@ msgid "NAMES/USA125"
 msgstr "比徹爾"
 
 msgid "NAMES/USA1250"
-msgstr "裡奇韋爾"
+msgstr "里奇韋爾"
 
 msgid "NAMES/USA1251"
 msgstr "亞博拉罕"
@@ -1020,7 +1020,7 @@ msgid "NAMES/USA130"
 msgstr "班尼埃姆斯"
 
 msgid "NAMES/USA1300"
-msgstr "卡耐基"
+msgstr "卡內基"
 
 msgid "NAMES/USA1301"
 msgstr "薩姆斯"
@@ -1065,7 +1065,7 @@ msgid "NAMES/USA1313"
 msgstr "洛克菲勒"
 
 msgid "NAMES/USA1314"
-msgstr "薩爾鬆"
+msgstr "薩爾松"
 
 msgid "NAMES/USA1315"
 msgstr "桑德斯"
@@ -1113,13 +1113,13 @@ msgid "NAMES/USA1328"
 msgstr "什拉德爾"
 
 msgid "NAMES/USA1329"
-msgstr "斯科特"
+msgstr "史考特"
 
 msgid "NAMES/USA133"
 msgstr "本森"
 
 msgid "NAMES/USA1330"
-msgstr "斯克裡夫納"
+msgstr "斯克里夫納"
 
 msgid "NAMES/USA1331"
 msgstr "斯克魯格斯"
@@ -1155,7 +1155,7 @@ msgid "NAMES/USA1340"
 msgstr "塞奇威克"
 
 msgid "NAMES/USA1341"
-msgstr "蓋茨"
+msgstr "蓋茲"
 
 msgid "NAMES/USA1342"
 msgstr "塞埃倫斯"
@@ -1173,7 +1173,7 @@ msgid "NAMES/USA1346"
 msgstr "拉里"
 
 msgid "NAMES/USA1347"
-msgstr "埃裡森"
+msgstr "埃里森"
 
 msgid "NAMES/USA1348"
 msgstr "蘇埃爾"
@@ -1227,7 +1227,7 @@ msgid "NAMES/USA1362"
 msgstr "謝爾頓史密斯"
 
 msgid "NAMES/USA1363"
-msgstr "卡梅隆"
+msgstr "卡麥隆"
 
 msgid "NAMES/USA1364"
 msgstr "安東尼"
@@ -1248,7 +1248,7 @@ msgid "NAMES/USA1369"
 msgstr "謝爾曼"
 
 msgid "NAMES/USA137"
-msgstr "貝裡奇"
+msgstr "貝里奇"
 
 msgid "NAMES/USA1370"
 msgstr "克里斯"
@@ -1377,7 +1377,7 @@ msgid "NAMES/USA1407"
 msgstr "麥克爾"
 
 msgid "NAMES/USA1408"
-msgstr "裡德"
+msgstr "里德"
 
 msgid "NAMES/USA1409"
 msgstr "斯萊文"
@@ -1389,10 +1389,10 @@ msgid "NAMES/USA1410"
 msgstr "斯雷"
 
 msgid "NAMES/USA1411"
-msgstr "威廉姆斯"
+msgstr "威廉斯"
 
 msgid "NAMES/USA1412"
-msgstr "傑裡"
+msgstr "傑里"
 
 msgid "NAMES/USA1413"
 msgstr "斯米"
@@ -1479,7 +1479,7 @@ msgid "NAMES/USA1438"
 msgstr "斯彭斯利"
 
 msgid "NAMES/USA1439"
-msgstr "斯佩裡"
+msgstr "斯佩里"
 
 msgid "NAMES/USA144"
 msgstr "比切諾"
@@ -1530,10 +1530,10 @@ msgid "NAMES/USA1453"
 msgstr "西尼爾"
 
 msgid "NAMES/USA1454"
-msgstr "斯坦福"
+msgstr "史丹佛"
 
 msgid "NAMES/USA1455"
-msgstr "斯坦利"
+msgstr "史丹利"
 
 msgid "NAMES/USA1456"
 msgstr "斯坦頓"
@@ -1560,7 +1560,7 @@ msgid "NAMES/USA1462"
 msgstr "斯坦梅茨"
 
 msgid "NAMES/USA1463"
-msgstr "斯蒂芬森"
+msgstr "史蒂芬森"
 
 msgid "NAMES/USA1464"
 msgstr "史蒂文斯"
@@ -1665,7 +1665,7 @@ msgid "NAMES/USA1494"
 msgstr "薩姆納"
 
 msgid "NAMES/USA1495"
-msgstr "薩裡"
+msgstr "薩里"
 
 msgid "NAMES/USA1496"
 msgstr "蘇特"
@@ -1719,7 +1719,7 @@ msgid "NAMES/USA151"
 msgstr "賓登"
 
 msgid "NAMES/USA1510"
-msgstr "謝裡登"
+msgstr "謝里登"
 
 msgid "NAMES/USA1511"
 msgstr "塔耶布瓦"
@@ -1821,7 +1821,7 @@ msgid "NAMES/USA1540"
 msgstr "蒂利"
 
 msgid "NAMES/USA1541"
-msgstr "蒂爾鬆"
+msgstr "蒂爾松"
 
 msgid "NAMES/USA1542"
 msgstr "蒂姆斯"
@@ -1890,7 +1890,7 @@ msgid "NAMES/USA1561"
 msgstr "湯森得"
 
 msgid "NAMES/USA1562"
-msgstr "奧巴馬"
+msgstr "歐巴馬"
 
 msgid "NAMES/USA1563"
 msgstr "特賴沃"
@@ -2040,7 +2040,7 @@ msgid "NAMES/USA1606"
 msgstr "瓦奧萊特"
 
 msgid "NAMES/USA1607"
-msgstr "弗吉尼亞"
+msgstr "維吉尼亞"
 
 msgid "NAMES/USA1608"
 msgstr "弗利"
@@ -2070,7 +2070,7 @@ msgid "NAMES/USA1615"
 msgstr "弗利"
 
 msgid "NAMES/USA1616"
-msgstr "弗吉尼亞"
+msgstr "維吉尼亞"
 
 msgid "NAMES/USA1617"
 msgstr "沃格特"
@@ -2172,7 +2172,7 @@ msgid "NAMES/USA1646"
 msgstr "沃德"
 
 msgid "NAMES/USA1647"
-msgstr "沃裡克"
+msgstr "沃里克"
 
 msgid "NAMES/USA1648"
 msgstr "沃特"
@@ -2379,7 +2379,7 @@ msgid "NAMES/USA1708"
 msgstr "懷特海"
 
 msgid "NAMES/USA1709"
-msgstr "威爾遜"
+msgstr "威爾森"
 
 msgid "NAMES/USA171"
 msgstr "布萊特索"
@@ -2757,7 +2757,7 @@ msgid "NAMES/USA228"
 msgstr "貝克"
 
 msgid "NAMES/USA229"
-msgstr "佈雷德"
+msgstr "布雷德"
 
 msgid "NAMES/USA23"
 msgstr "奧特維格"
@@ -2820,7 +2820,7 @@ msgid "NAMES/USA247"
 msgstr "希澤爾"
 
 msgid "NAMES/USA248"
-msgstr "本傑明"
+msgstr "班傑明"
 
 msgid "NAMES/USA249"
 msgstr "伯納爾"
@@ -3084,7 +3084,7 @@ msgid "NAMES/USA326"
 msgstr "克萊爾"
 
 msgid "NAMES/USA327"
-msgstr "克拉裡奇"
+msgstr "克拉里奇"
 
 msgid "NAMES/USA328"
 msgstr "克拉克"
@@ -3327,7 +3327,7 @@ msgid "NAMES/USA4"
 msgstr "亞當斯"
 
 msgid "NAMES/USA40"
-msgstr "阿姆斯特朗"
+msgstr "阿姆斯壯"
 
 msgid "NAMES/USA400"
 msgstr "克蘭菲爾德"
@@ -3573,7 +3573,7 @@ msgid "NAMES/USA473"
 msgstr "迪恩斯"
 
 msgid "NAMES/USA474"
-msgstr "裡克拉夫特"
+msgstr "里克拉夫特"
 
 msgid "NAMES/USA475"
 msgstr "賴蘭"
@@ -3636,7 +3636,7 @@ msgid "NAMES/USA492"
 msgstr "薩維爾"
 
 msgid "NAMES/USA493"
-msgstr "薩沃裡"
+msgstr "薩沃里"
 
 msgid "NAMES/USA494"
 msgstr "薩克斯比"
@@ -3645,7 +3645,7 @@ msgid "NAMES/USA495"
 msgstr "索耶斯"
 
 msgid "NAMES/USA496"
-msgstr "薩瓦里"
+msgstr "薩瓦裡"
 
 msgid "NAMES/USA497"
 msgstr "薩維爾"
@@ -3669,7 +3669,7 @@ msgid "NAMES/USA501"
 msgstr "斯科爾斯"
 
 msgid "NAMES/USA502"
-msgstr "施裡夫斯"
+msgstr "施里夫斯"
 
 msgid "NAMES/USA503"
 msgstr "斯克萊特"
@@ -3678,7 +3678,7 @@ msgid "NAMES/USA504"
 msgstr "斯科比"
 
 msgid "NAMES/USA505"
-msgstr "斯克裡夫納"
+msgstr "斯克里夫納"
 
 msgid "NAMES/USA506"
 msgstr "斯科魯頓"
@@ -3717,7 +3717,7 @@ msgid "NAMES/USA516"
 msgstr "西納"
 
 msgid "NAMES/USA517"
-msgstr "西里"
+msgstr "西裡"
 
 msgid "NAMES/USA518"
 msgstr "塞勒"
@@ -3747,7 +3747,7 @@ msgid "NAMES/USA525"
 msgstr "瑟特爾"
 
 msgid "NAMES/USA526"
-msgstr "賽裡克"
+msgstr "賽里克"
 
 msgid "NAMES/USA527"
 msgstr "瑟蒂兒"
@@ -3894,7 +3894,7 @@ msgid "NAMES/USA57"
 msgstr "阿維森"
 
 msgid "NAMES/USA570"
-msgstr "法誇爾鬆"
+msgstr "法誇爾松"
 
 msgid "NAMES/USA571"
 msgstr "法爾"
@@ -3915,7 +3915,7 @@ msgid "NAMES/USA576"
 msgstr "舒勒"
 
 msgid "NAMES/USA577"
-msgstr "施裡夫"
+msgstr "施里夫"
 
 msgid "NAMES/USA578"
 msgstr "肖羅克斯"
@@ -4011,7 +4011,7 @@ msgid "NAMES/USA604"
 msgstr "布蘭福德"
 
 msgid "NAMES/USA605"
-msgstr "菲捨爾"
+msgstr "菲舍爾"
 
 msgid "NAMES/USA606"
 msgstr "布利克"
@@ -4152,7 +4152,7 @@ msgid "NAMES/USA647"
 msgstr "阿迪"
 
 msgid "NAMES/USA648"
-msgstr "阿杰"
+msgstr "阿傑"
 
 msgid "NAMES/USA649"
 msgstr "阿德內特"
@@ -4245,7 +4245,7 @@ msgid "NAMES/USA675"
 msgstr "奧羅伊斯"
 
 msgid "NAMES/USA676"
-msgstr "埃默裡"
+msgstr "埃默里"
 
 msgid "NAMES/USA677"
 msgstr "阿爾維"
@@ -4323,7 +4323,7 @@ msgid "NAMES/USA699"
 msgstr "拉塞"
 
 msgid "NAMES/USA7"
-msgstr "阿爾貝裡"
+msgstr "阿爾貝里"
 
 msgid "NAMES/USA70"
 msgstr "保爾"
@@ -4554,7 +4554,7 @@ msgid "NAMES/USA768"
 msgstr "奧布里"
 
 msgid "NAMES/USA769"
-msgstr "阿斯科特"
+msgstr "阿史考特"
 
 msgid "NAMES/USA77"
 msgstr "班卡特"
@@ -4575,10 +4575,10 @@ msgid "NAMES/USA774"
 msgstr "奧古斯塔斯"
 
 msgid "NAMES/USA775"
-msgstr "埃弗裡"
+msgstr "埃弗里"
 
 msgid "NAMES/USA776"
-msgstr "阿夫裡爾"
+msgstr "阿夫里爾"
 
 msgid "NAMES/USA777"
 msgstr "奧德里"
@@ -4920,7 +4920,7 @@ msgid "NAMES/USA878"
 msgstr "巴恩斯利"
 
 msgid "NAMES/USA879"
-msgstr "巴洛克裡夫"
+msgstr "巴洛克里夫"
 
 msgid "NAMES/USA88"
 msgstr "鮑恩威爾"
@@ -5043,7 +5043,7 @@ msgid "NAMES/USA914"
 msgstr "柏特"
 
 msgid "NAMES/USA915"
-msgstr "凱裡"
+msgstr "凱里"
 
 msgid "NAMES/USA916"
 msgstr "卡普斯"
@@ -5469,7 +5469,7 @@ msgid "NAMES/USAN142"
 msgstr "麥克尼科爾"
 
 msgid "NAMES/USAN143"
-msgstr "麥克尼古拉斯"
+msgstr "麥克尼可拉斯"
 
 msgid "NAMES/USAN144"
 msgstr "梅德"
@@ -5679,7 +5679,7 @@ msgid "NAMES/USAN205"
 msgstr "芬巴"
 
 msgid "NAMES/USAN206"
-msgstr "傑拉德"
+msgstr "杰拉德"
 
 msgid "NAMES/USAN207"
 msgstr "弗萊明"
@@ -5688,7 +5688,7 @@ msgid "NAMES/USAN208"
 msgstr "弗萊徹"
 
 msgid "NAMES/USAN209"
-msgstr "弗洛伊德"
+msgstr "佛洛伊德"
 
 msgid "NAMES/USAN21"
 msgstr "奧爾頓"
@@ -5697,19 +5697,19 @@ msgid "NAMES/USAN210"
 msgstr "芭比"
 
 msgid "NAMES/USAN211"
-msgstr "弗朗西斯"
+msgstr "法蘭西斯"
 
 msgid "NAMES/USAN212"
 msgstr "弗朗克"
 
 msgid "NAMES/USAN213"
-msgstr "弗雷德裡克"
+msgstr "弗雷德里克"
 
 msgid "NAMES/USAN214"
-msgstr "弗里曼"
+msgstr "費里曼"
 
 msgid "NAMES/USAN215"
-msgstr "加布裡埃爾"
+msgstr "加布里埃爾"
 
 msgid "NAMES/USAN216"
 msgstr "艾蒂遜"
@@ -5778,7 +5778,7 @@ msgid "NAMES/USAN235"
 msgstr "內爾"
 
 msgid "NAMES/USAN236"
-msgstr "格雷戈裡"
+msgstr "格雷戈里"
 
 msgid "NAMES/USAN237"
 msgstr "格雷斯罕"
@@ -5790,7 +5790,7 @@ msgid "NAMES/USAN239"
 msgstr "龐斯"
 
 msgid "NAMES/USAN24"
-msgstr "埃默裡"
+msgstr "埃默里"
 
 msgid "NAMES/USAN240"
 msgstr "阿麥瑞"
@@ -5979,7 +5979,7 @@ msgid "NAMES/USAN296"
 msgstr "塞奇"
 
 msgid "NAMES/USAN297"
-msgstr "西里"
+msgstr "西裡"
 
 msgid "NAMES/USAN298"
 msgstr "塞科姆"
@@ -6006,13 +6006,13 @@ msgid "NAMES/USAN303"
 msgstr "奧羅伊斯"
 
 msgid "NAMES/USAN304"
-msgstr "斯克裡夫納"
+msgstr "斯克里夫納"
 
 msgid "NAMES/USAN305"
 msgstr "斯卡基爾"
 
 msgid "NAMES/USAN306"
-msgstr "斯科特蘭"
+msgstr "史考特蘭"
 
 msgid "NAMES/USAN307"
 msgstr "斯科裡文斯"
@@ -6090,13 +6090,13 @@ msgid "NAMES/USAN329"
 msgstr "拉爾斯"
 
 msgid "NAMES/USAN33"
-msgstr "埃弗裡"
+msgstr "埃弗里"
 
 msgid "NAMES/USAN330"
 msgstr "埃米斯特德"
 
 msgid "NAMES/USAN331"
-msgstr "裡爾"
+msgstr "里爾"
 
 msgid "NAMES/USAN332"
 msgstr "利斯"
@@ -6207,10 +6207,10 @@ msgid "NAMES/USAN364"
 msgstr "斯科拉頓"
 
 msgid "NAMES/USAN365"
-msgstr "斯科特"
+msgstr "史考特"
 
 msgid "NAMES/USAN366"
-msgstr "斯科特斯"
+msgstr "史考特斯"
 
 msgid "NAMES/USAN367"
 msgstr "斯克林傑"
@@ -6270,7 +6270,7 @@ msgid "NAMES/USAN383"
 msgstr "賽耶"
 
 msgid "NAMES/USAN384"
-msgstr "薩瓦里"
+msgstr "薩瓦裡"
 
 msgid "NAMES/USAN385"
 msgstr "德弗羅"
@@ -6330,7 +6330,7 @@ msgid "NAMES/USAN400"
 msgstr "羅斯福"
 
 msgid "NAMES/USAN401"
-msgstr "裡克拉夫特"
+msgstr "里克拉夫特"
 
 msgid "NAMES/USAN402"
 msgstr "拉瑟福德"
@@ -6372,7 +6372,7 @@ msgid "NAMES/USAN413"
 msgstr "羅塞爾"
 
 msgid "NAMES/USAN414"
-msgstr "裡卡茲"
+msgstr "里卡茲"
 
 msgid "NAMES/USAN415"
 msgstr "雷維爾斯"
@@ -6381,13 +6381,13 @@ msgid "NAMES/USAN416"
 msgstr "奧古斯丁"
 
 msgid "NAMES/USAN417"
-msgstr "裡德爾"
+msgstr "里德爾"
 
 msgid "NAMES/USAN418"
 msgstr "里奇蒙特"
 
 msgid "NAMES/USAN419"
-msgstr "裡奇曼"
+msgstr "里奇曼"
 
 msgid "NAMES/USAN42"
 msgstr "凱撒"
@@ -6441,10 +6441,10 @@ msgid "NAMES/USAN434"
 msgstr "羅巴森"
 
 msgid "NAMES/USAN435"
-msgstr "裡格爾斯"
+msgstr "里格爾斯"
 
 msgid "NAMES/USAN436"
-msgstr "裡德維爾"
+msgstr "里德維爾"
 
 msgid "NAMES/USAN437"
 msgstr "聖伊萊爾"

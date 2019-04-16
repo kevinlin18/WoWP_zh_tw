@@ -203,7 +203,7 @@ msgstr ""
 
 msgid "SKILL_DESCRIPTION_PILOT_EQUIP_ARMOR"
 msgstr ""
-"增加<font color='#f2f2f2'>改進型蒙皮，強化型機體，附加裝甲板，隱蔽偽裝</font>"
+"增加<font color='#f2f2f2'>改良型蒙皮，強化型機體，附加裝甲板，隱蔽偽裝</font>"
 "的效果<font color='#8dbb44'>20%</font>。"
 
 msgid "SKILL_DESCRIPTION_PILOT_EQUIP_FLIGHT"
@@ -363,7 +363,7 @@ msgid "SKILL_DESCRIPTION_SHORT_LONG_SIGHT"
 msgstr "偵查範圍增大 {skill_modifier}"
 
 msgid "SKILL_DESCRIPTION_SHORT_MEMORY"
-msgstr "目標丟失距離 {skill_modifier}"
+msgstr "目標遺失距離 {skill_modifier}"
 
 msgid "SKILL_DESCRIPTION_SHORT_SHARP_SHOOTER"
 msgstr "後射機槍精度 {skill_modifier}"
